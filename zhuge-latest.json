@@ -204,9 +204,9 @@
         ]
       },
       "cardnews": {
-        "version": "v2.15.20-cardnews-unified-6cards",
+        "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-09-23T00:25:41.995Z",
+        "generatedAt": "2026-09-23T03:00:21.037Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -217,60 +217,90 @@
           "white"
         ],
         "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "우리 강아지가 열 살이 되었습니다",
+        "provider": "cloudflare-workers-ai",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
-            "headline": "계속 두면 더 꼬이는 우리 강아지가 열 살이 되었습니다 신호 2",
+            "beat": "감성 문장",
+            "headline": "어른이 된다는 건, 조금씩 혼자가 되는 일이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "010",
-            "sceneCategory": "cover"
+            "sceneCategory": "cover",
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
-            "headline": "문제가 반복되면, 익숙함으로 덮는다.",
-            "body": "불편한 신호는 사소한 일로 접는다.\n문제를 푸는 게 아니다.\n바뀔 순간을 덮는 것이다.",
+            "beat": "장면",
+            "headline": "집에 혼자 있는 시간이 늘어나고, 강아지와 함께하는 시간이 줄어든다.",
+            "body": "",
             "accent": "yellow",
             "sceneId": "019",
-            "sceneCategory": "analysis"
+            "sceneCategory": "analysis",
+            "source": "ai"
           },
           {
             "index": 3,
-            "role": "analysis",
-            "headline": "기준이 흔들리면, 남의 답부터 찾는다.",
-            "body": "자기 판단은 뒤로 미룬다.\n확신을 얻는 게 아니다.\n선택의 책임을 밖으로 넘긴다.",
+            "role": "warning",
+            "beat": "감정",
+            "headline": "강아지의 노령기에 맞는 식사와 산책, 통증을 관리하는 방법을 알게되면,",
+            "body": "",
             "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis"
+            "sceneId": "022",
+            "sceneCategory": "warning",
+            "source": "ai"
           },
           {
             "index": 4,
-            "role": "warning",
-            "headline": "당신이 유난한 게 아니다.",
-            "body": "불편함은 이미 반복되고 있다.\n예민해서 생긴 게 아니다.\n기준이 흔들린 결과다.",
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "그리고 병원에 방문할 때 필요한 준비를 잘하고, 마지막으로 돌봄을 받을 장소를 정할 수 있다.",
+            "body": "",
             "accent": "yellow",
-            "sceneId": "023",
-            "sceneCategory": "warning"
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
-            "headline": "하지만 지금은, 기준부터 다시 세워라.",
-            "body": "반복되는 장면을 적어라.\n지킬 기준 하나를 정해라.\n결국 판단은 패턴으로 좁혀라.",
+            "beat": "수용",
+            "headline": "이러한 노령견의 돌봄을 시작하기 위해, 우리 강아지의 건강과 행복을 생각하며,",
+            "body": "",
             "accent": "yellow",
             "sceneId": "035",
-            "sceneCategory": "fix"
+            "sceneCategory": "fix",
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
-            "headline": "헷갈리는 기준부터 끊어내라.",
+            "beat": "여운",
+            "headline": "그의 마지막을 함께할 수 있도록 준비를 하자.",
             "body": "",
             "accent": "yellow",
             "sceneId": "049",
-            "sceneCategory": "final"
+            "sceneCategory": "final",
+            "source": "ai"
           }
         ]
       },
@@ -445,9 +475,9 @@
         ]
       },
       "cardnews": {
-        "version": "v2.15.20-cardnews-unified-6cards",
-        "status": "ready",
-        "generatedAt": "2026-09-23T00:25:41.995Z",
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-23T03:00:16.437Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -457,63 +487,26 @@
           "mustard-yellow",
           "white"
         ],
-        "cardCount": 6,
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "headline": "계속 두면 더 꼬이는 AI를 쓰는 사람을 뽑습니다 신호 2",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "008",
-            "sceneCategory": "cover"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "headline": "문제가 반복되면, 익숙함으로 덮는다.",
-            "body": "불편한 신호는 사소한 일로 접는다.\n문제를 푸는 게 아니다.\n바뀔 순간을 덮는 것이다.",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "headline": "기준이 흔들리면, 남의 답부터 찾는다.",
-            "body": "자기 판단은 뒤로 미룬다.\n확신을 얻는 게 아니다.\n선택의 책임을 밖으로 넘긴다.",
-            "accent": "yellow",
-            "sceneId": "018",
-            "sceneCategory": "analysis"
-          },
-          {
-            "index": 4,
-            "role": "warning",
-            "headline": "당신이 유난한 게 아니다.",
-            "body": "불편함은 이미 반복되고 있다.\n예민해서 생긴 게 아니다.\n기준이 흔들린 결과다.",
-            "accent": "yellow",
-            "sceneId": "029",
-            "sceneCategory": "warning"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "headline": "하지만 지금은, 기준부터 다시 세워라.",
-            "body": "반복되는 장면을 적어라.\n지킬 기준 하나를 정해라.\n결국 판단은 패턴으로 좁혀라.",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "headline": "헷갈리는 기준부터 끊어내라.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "043",
-            "sceneCategory": "final"
-          }
-        ]
+        "cardCount": 0,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "AI를 쓰는 사람을 뽑습니다",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
       },
       "cover": {
         "url": "https://raw.githubusercontent.com/treesky0103-dot/emperor-court-feed/main/covers/2026-09-23/02-de3d1b1c16.png",
@@ -696,9 +689,9 @@
         ]
       },
       "cardnews": {
-        "version": "v2.15.20-cardnews-unified-6cards",
-        "status": "ready",
-        "generatedAt": "2026-09-23T00:25:41.995Z",
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-23T03:00:16.437Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -708,63 +701,26 @@
           "mustard-yellow",
           "white"
         ],
-        "cardCount": 6,
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "headline": "계속 두면 더 꼬이는 부모님 집을 정리하기 시작했습니다 신호 2",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "002",
-            "sceneCategory": "cover"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "headline": "문제가 반복되면, 익숙함으로 덮는다.",
-            "body": "불편한 신호는 사소한 일로 접는다.\n문제를 푸는 게 아니다.\n바뀔 순간을 덮는 것이다.",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "headline": "기준이 흔들리면, 남의 답부터 찾는다.",
-            "body": "자기 판단은 뒤로 미룬다.\n확신을 얻는 게 아니다.\n선택의 책임을 밖으로 넘긴다.",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis"
-          },
-          {
-            "index": 4,
-            "role": "warning",
-            "headline": "당신이 유난한 게 아니다.",
-            "body": "불편함은 이미 반복되고 있다.\n예민해서 생긴 게 아니다.\n기준이 흔들린 결과다.",
-            "accent": "yellow",
-            "sceneId": "027",
-            "sceneCategory": "warning"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "headline": "하지만 지금은, 기준부터 다시 세워라.",
-            "body": "반복되는 장면을 적어라.\n지킬 기준 하나를 정해라.\n결국 판단은 패턴으로 좁혀라.",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "headline": "헷갈리는 기준부터 끊어내라.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "041",
-            "sceneCategory": "final"
-          }
-        ]
+        "cardCount": 0,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "부모님 집을 정리하기 시작했습니다",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
       },
       "cover": {
         "url": "https://raw.githubusercontent.com/treesky0103-dot/emperor-court-feed/main/covers/2026-09-23/03-de3d1b1c16.png",
@@ -779,9 +735,9 @@
   ],
   "cardnewsAutomation": {
     "status": "ok",
-    "generatedAt": "2026-09-23T00:25:41.995Z",
-    "version": "v2.15.20-cardnews-unified-6cards",
-    "signature": "fb5805c4fb",
+    "generatedAt": "2026-09-23T03:00:21.037Z",
+    "version": "v2.15.24-cardnews-3styles",
+    "signature": "45b348d5f3",
     "provider": "cloudflare-workers-ai",
     "source": "github-feed",
     "file": "cardnews/2026-09-23.json",
