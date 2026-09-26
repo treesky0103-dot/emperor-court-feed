@@ -8,13 +8,13 @@
     "AI 콘텐츠 제작의 미래",
     "콘텐츠 제작의 새로운 패러다임"
   ],
-  "provider": "none",
-  "generatedAt": "2026-09-26T07:00:47.202Z",
+  "provider": "groq-gpt-oss-120b",
+  "generatedAt": "2026-09-26T08:00:46.405Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
-      "status": "waiting",
-      "generatedAt": "2026-09-26T07:00:38.035Z",
+      "status": "ready",
+      "generatedAt": "2026-09-26T08:00:46.405Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -24,7 +24,7 @@
         "mustard-yellow",
         "white"
       ],
-      "cardCount": 0,
+      "cardCount": 6,
       "style": {
         "key": "forest",
         "label": "포레스트형",
@@ -39,16 +39,83 @@
         ]
       },
       "bookTitle": "인공지능과 콘텐츠의 미래",
-      "provider": "none",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
-      "cards": []
+      "provider": "groq-gpt-oss-120b",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "인공지능이 콘텐츠를 바꾸는 진짜 이유",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "008",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "새로운 영상이 AI 로고 없이도 자동 생성된다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "AI는 방대한 데이터와 학습으로 패턴을 익힌다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "013",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "그 결과 텍스트를 입력하면 영상, 음악, 이미지까지 즉시 만들어낸다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "012",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "창작은 인간의 손이 아니라 AI와 협업하는 과정이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "034",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "미래의 콘텐츠는 인간과 AI가 함께 만든다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "050",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ]
     },
     {
       "version": "v2.15.24-cardnews-3styles",
-      "status": "waiting",
-      "generatedAt": "2026-09-26T07:00:38.035Z",
+      "status": "ready",
+      "generatedAt": "2026-09-26T08:00:46.405Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -58,7 +125,7 @@
         "mustard-yellow",
         "white"
       ],
-      "cardCount": 0,
+      "cardCount": 6,
       "style": {
         "key": "film",
         "label": "필름형",
@@ -73,16 +140,83 @@
         ]
       },
       "bookTitle": "AI 콘텐츠 제작의 미래",
-      "provider": "none",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
-      "cards": []
+      "provider": "groq-gpt-oss-120b",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "스크린 속 이야기가 스스로 살아나는 순간",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "003",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "밤 늦게 컴퓨터 앞에서 AI가 만든 짧은 영상을 본다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "015",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "예상치 못한 감동에 숨이 멎는 듯하다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "026",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "하지만 이 감동은 기계가 만든 것이 아니라 우리 상상이 반영된 것이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "017",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "그저 받아들이자, 새로운 창작의 파도가 우리를 찾아온다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "033",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "다음 이야기는 또 어떤 형태로 우리를 찾아올까",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "047",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ]
     },
     {
       "version": "v2.15.24-cardnews-3styles",
-      "status": "waiting",
-      "generatedAt": "2026-09-26T07:00:38.035Z",
+      "status": "ready",
+      "generatedAt": "2026-09-26T08:00:46.405Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -92,7 +226,7 @@
         "mustard-yellow",
         "white"
       ],
-      "cardCount": 0,
+      "cardCount": 6,
       "style": {
         "key": "heist",
         "label": "하이스트형",
@@ -107,11 +241,78 @@
         ]
       },
       "bookTitle": "콘텐츠 제작의 새로운 패러다임",
-      "provider": "none",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
-      "cards": []
+      "provider": "groq-gpt-oss-120b",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "AI가 만든 콘텐츠, 경계는 어디인가",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "003",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "아이디어가 떠오르지 않고, 시간은 계속 흐른다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "027",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "반복적인 편집, 영감 부족, 마감 압박을 겪고 있다면",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "024",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "그건 창작 과정이 디지털에 휘말렸다는 신호다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "AI 도구를 활용해 초안을 만들고, 인간의 손으로 다듬자",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "031",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "기술을 친구로 삼아야 진정한 창작이 살아난다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "047",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ]
     }
   ]
 }
