@@ -76,7 +76,41 @@
       "generationMode": "workers-ai-recovery",
       "generationLabel": "대체 AI로 생성한 간소화 기획 · 저자 적합성과 출간 판단은 편집 검토 필요",
       "type": "즉시 기획",
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-26T06:36:35.948Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 0,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "인공지능과 콘텐츠의 미래",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
+      }
     },
     {
       "title": "AI 콘텐츠 제작의 미래",
@@ -126,7 +160,41 @@
       "generationMode": "workers-ai-recovery",
       "generationLabel": "대체 AI로 생성한 간소화 기획 · 저자 적합성과 출간 판단은 편집 검토 필요",
       "type": "6~12개월 선점 기획",
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-26T06:36:35.948Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 0,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "AI 콘텐츠 제작의 미래",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
+      }
     },
     {
       "title": "콘텐츠 제작의 새로운 패러다임",
@@ -176,7 +244,52 @@
       "generationMode": "workers-ai-recovery",
       "generationLabel": "대체 AI로 생성한 간소화 기획 · 저자 적합성과 출간 판단은 편집 검토 필요",
       "type": "틈새 기획",
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-26T06:36:35.948Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 0,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "콘텐츠 제작의 새로운 패러다임",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
+      }
     }
-  ]
+  ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "generatedAt": "2026-09-26T06:36:43.244Z",
+    "version": "v2.15.24-cardnews-3styles",
+    "signature": "a3cb071527",
+    "provider": "none",
+    "source": "court-store",
+    "file": "cardnews/2026-09-26.json",
+    "characterAsset": "/cardnews/fixed_duo_editorial.png",
+    "cardCount": 6
+  }
 }
