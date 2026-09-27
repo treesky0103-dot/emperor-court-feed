@@ -74,7 +74,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "waiting",
-        "generatedAt": "2026-09-27T08:33:08.146Z",
+        "generatedAt": "2026-09-27T09:00:53.671Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -102,7 +102,7 @@
         "provider": "none",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "plan-set-updated",
+        "fallbackReason": "no-ai-copy",
         "cards": []
       }
     },
@@ -180,7 +180,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "waiting",
-        "generatedAt": "2026-09-27T08:33:08.150Z",
+        "generatedAt": "2026-09-27T09:00:53.671Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -208,7 +208,7 @@
         "provider": "none",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "plan-set-updated",
+        "fallbackReason": "no-ai-copy",
         "cards": []
       }
     },
@@ -279,7 +279,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "waiting",
-        "generatedAt": "2026-09-27T08:33:08.150Z",
+        "generatedAt": "2026-09-27T09:00:53.671Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -307,21 +307,20 @@
         "provider": "none",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "plan-set-updated",
+        "fallbackReason": "no-ai-copy",
         "cards": []
       }
     }
   ],
   "cardnewsAutomation": {
-    "status": "waiting-plan-set-update",
-    "generatedAt": "2026-09-27T08:33:08.150Z",
+    "status": "ok",
+    "generatedAt": "2026-09-27T09:00:54.121Z",
     "version": "v2.15.24-cardnews-3styles",
-    "signature": "",
+    "signature": "4f977dad3b",
     "provider": "none",
     "source": "github-feed",
     "file": "cardnews/2026-09-27.json",
-    "planSetId": "zps-20260927-85a098ba",
     "characterAsset": "/cardnews/fixed_duo_editorial.png",
-    "cardCount": 0
+    "cardCount": 6
   }
 }
