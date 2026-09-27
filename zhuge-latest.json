@@ -14,7 +14,41 @@
       "diff": "면허 반납을 강요하지 않고 운전능력 점검→조건부 운전→이동대안→중단의 단계적 의사결정 구조",
       "author": "교통안전 연구자+노인의학/인지 전문가 공동집필",
       "stars": 5,
-      "verdict": "STRONG GO"
+      "verdict": "STRONG GO",
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-27T00:18:34.233Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 0,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "아버지, 운전은 언제까지 하실 건가요",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
+      }
     },
     {
       "type": "교육·입시·가족",
@@ -25,7 +59,41 @@
       "diff": "입시전략이 아니라 가족이 1년을 무너지지 않고 운영하는 계약·대화·생활 설계",
       "author": "입시전문가+청소년 상담/정신건강 전문가 공동집필",
       "stars": 5,
-      "verdict": "GO"
+      "verdict": "GO",
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-27T00:18:34.233Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 0,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "한 번 더 하기로 했습니다",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
+      }
     },
     {
       "type": "가족·법률·자산",
@@ -36,7 +104,52 @@
       "diff": "절세책이 아니라 가족회의 4회와 기록 문서를 중심으로 상속 이전의 갈등예방을 설계",
       "author": "상속 전문 변호사+가족상담 전문가 공동집필",
       "stars": 4,
-      "verdict": "CONDITIONAL GO"
+      "verdict": "CONDITIONAL GO",
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "waiting",
+        "generatedAt": "2026-09-27T00:18:34.233Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 0,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "상속은 장례식 다음 날 시작되지 않습니다",
+        "provider": "none",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": []
+      }
     }
-  ]
+  ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "generatedAt": "2026-09-27T00:18:49.677Z",
+    "version": "v2.15.24-cardnews-3styles",
+    "signature": "ec01d68d0d",
+    "provider": "none",
+    "source": "github-feed",
+    "file": "cardnews/2026-09-27.json",
+    "characterAsset": "/cardnews/fixed_duo_editorial.png",
+    "cardCount": 6
+  }
 }
