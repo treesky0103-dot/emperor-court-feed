@@ -9,215 +9,13 @@
     "반려동물을 맡기기 전에 확인할 것들",
     "간병비 고지서를 받기 전에"
   ],
-  "provider": "none",
-  "generatedAt": "2026-09-28T00:26:12.327Z",
+  "provider": "groq-gpt-oss-120b",
+  "generatedAt": "2026-09-28T01:01:27.202Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-09-28T00:25:58.396Z",
-      "character": "id-master-library",
-      "characterAsset": "",
-      "palette": [
-        "black",
-        "ivory",
-        "vermilion-red",
-        "mustard-yellow",
-        "white"
-      ],
-      "cardCount": 6,
-      "style": {
-        "key": "film",
-        "label": "필름형",
-        "tone": "감성 매거진형",
-        "flow": [
-          "감성 문장",
-          "장면",
-          "감정",
-          "관점 전환",
-          "수용",
-          "여운"
-        ]
-      },
-      "bookTitle": "아이에게 ‘그냥 장난이었어’라는 말을 들었습니다",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
-      "cards": [
-        {
-          "index": 1,
-          "role": "cover",
-          "beat": "감성 문장",
-          "headline": "확인하고 기록하며 학교와 대화하는 순서를 안내하는 가족 대응서이다.",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "007",
-          "sceneCategory": "cover",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 2,
-          "role": "analysis",
-          "beat": "장면",
-          "headline": "익숙한 장면이 조금 달라진다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "018",
-          "sceneCategory": "analysis",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 3,
-          "role": "warning",
-          "beat": "감정",
-          "headline": "그때 비로소 마음이 움직인다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "025",
-          "sceneCategory": "warning",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 4,
-          "role": "analysis",
-          "beat": "관점 전환",
-          "headline": "다르게 보면 선택도 달라진다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "020",
-          "sceneCategory": "analysis",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 5,
-          "role": "fix",
-          "beat": "수용",
-          "headline": "서두르지 않아도 기준은 필요하다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "032",
-          "sceneCategory": "fix",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 6,
-          "role": "final",
-          "beat": "여운",
-          "headline": "그 시간은 생각보다 오래 남는다.",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "046",
-          "sceneCategory": "final",
-          "source": "rule-fallback"
-        }
-      ]
-    },
-    {
-      "version": "v2.15.24-cardnews-3styles",
-      "status": "ready",
-      "generatedAt": "2026-09-28T00:25:58.396Z",
-      "character": "id-master-library",
-      "characterAsset": "",
-      "palette": [
-        "black",
-        "ivory",
-        "vermilion-red",
-        "mustard-yellow",
-        "white"
-      ],
-      "cardCount": 6,
-      "style": {
-        "key": "forest",
-        "label": "포레스트형",
-        "tone": "지식·통찰 교양형",
-        "flow": [
-          "궁금증",
-          "현상",
-          "원리",
-          "설명",
-          "통찰",
-          "핵심 메시지"
-        ]
-      },
-      "bookTitle": "반려동물을 맡기기 전에 확인할 것들",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
-      "cards": [
-        {
-          "index": 1,
-          "role": "cover",
-          "beat": "궁금증",
-          "headline": "사항을 사전에 점검하는 위탁 체크리스트형 실용서이다.",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "005",
-          "sceneCategory": "cover",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 2,
-          "role": "analysis",
-          "beat": "현상",
-          "headline": "이유를 알면 기준이 보인다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "020",
-          "sceneCategory": "analysis",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 3,
-          "role": "analysis",
-          "beat": "원리",
-          "headline": "기준이 생기면 선택이 쉬워진다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "013",
-          "sceneCategory": "analysis",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 4,
-          "role": "analysis",
-          "beat": "설명",
-          "headline": "정보보다 판단 순서가 중요하다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "012",
-          "sceneCategory": "analysis",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 5,
-          "role": "fix",
-          "beat": "통찰",
-          "headline": "핵심은 실행 가능한 기준이다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "038",
-          "sceneCategory": "fix",
-          "source": "rule-fallback"
-        },
-        {
-          "index": 6,
-          "role": "final",
-          "beat": "핵심 메시지",
-          "headline": "알고 나면, 다르게 보이기 시작한다.",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "042",
-          "sceneCategory": "final",
-          "source": "rule-fallback"
-        }
-      ]
-    },
-    {
-      "version": "v2.15.24-cardnews-3styles",
-      "status": "ready",
-      "generatedAt": "2026-09-28T00:25:58.396Z",
+      "generatedAt": "2026-09-28T01:01:27.202Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -241,77 +39,279 @@
           "강한 결론"
         ]
       },
-      "bookTitle": "간병비 고지서를 받기 전에",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
+      "bookTitle": "아이에게 ‘그냥 장난이었어’라는 말을 들었습니다",
+      "provider": "groq-gpt-oss-120b",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "미리 정리해 갑작스러운 간병비 부담에 대비하는 가족 준비서이다.",
+          "headline": "‘그냥 장난’이라고 넘기면 아이가 위험에 빠진다",
           "body": "",
           "accent": "yellow",
-          "sceneId": "006",
+          "sceneId": "007",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "이미 신호는 나타나고 있다",
+          "headline": "아이의 말에 속아 상황을 무시하고 있지는 않은가",
           "body": "",
           "accent": "yellow",
           "sceneId": "026",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "반복되는 실수부터 확인하라",
+          "headline": "친구가 나를 밀었어, 그냥 농담이었어, 다시 안 할게 라고 하면",
           "body": "",
           "accent": "yellow",
           "sceneId": "025",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "판단 기준을 먼저 세워라",
+          "headline": "그 말은 사실을 가리고 있는 경고 신호다",
           "body": "",
           "accent": "yellow",
           "sceneId": "020",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "지금 할 수 있는 것부터 정하라",
+          "headline": "즉시 사실을 기록하고, 아이와 차분히 대화한 뒤 학교에 알리라",
           "body": "",
           "accent": "yellow",
-          "sceneId": "040",
+          "sceneId": "032",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "기준은 지금 세워야 흔들리지 않는다.",
+          "headline": "작은 기록이 큰 안전을 만든다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "046",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ]
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-09-28T01:01:27.202Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "반려동물을 맡기기 전에 확인할 것들",
+      "provider": "groq-gpt-oss-120b",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "돌봄을 맡길 때, 마음이 멈춘다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "005",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "여행 가방을 챙기며 반려동물을 맡길 사람을 찾는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "그때마다 불안과 죄책감이 스며든다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "021",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "하지만 준비된 체크리스트가 있다면 마음이 놓인다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "012",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "필요한 정보를 모두 전달하고, 안심하고 떠나자",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "038",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "돌봄은 신뢰와 준비가 만든 평온이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "042",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
+        }
+      ]
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-09-28T01:01:27.202Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "간병비 고지서를 받기 전에",
+      "provider": "groq-gpt-oss-120b",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "간병비, 미리 알면 부담이 달라진다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "006",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "가족이 모여 얼마가 들까? 하고 고민한다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "018",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "복잡한 비용 구조와 지원 제도가 뒤섞여 있다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "011",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "그 이유는 서비스와 보조금이 별도로 계산되기 때문이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "미리 시뮬레이션하고 역할을 정하면 갑작스런 부담을 피한다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "040",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "준비된 계획이 가족을 지킨다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "042",
+          "sceneCategory": "final",
+          "source": "ai"
         }
       ]
     }
