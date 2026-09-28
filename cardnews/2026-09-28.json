@@ -1,0 +1,319 @@
+{
+  "day": "2026-09-28",
+  "planSetId": "zps-20260928-display-first",
+  "version": "v2.15.24-cardnews-3styles",
+  "source": "github-feed",
+  "signature": "525031d5d2",
+  "planTitles": [
+    "아이에게 ‘그냥 장난이었어’라는 말을 들었습니다",
+    "반려동물을 맡기기 전에 확인할 것들",
+    "간병비 고지서를 받기 전에"
+  ],
+  "provider": "none",
+  "generatedAt": "2026-09-28T00:26:12.327Z",
+  "sets": [
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-09-28T00:25:58.396Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "아이에게 ‘그냥 장난이었어’라는 말을 들었습니다",
+      "provider": "rule-fallback",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "no-ai-copy",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "확인하고 기록하며 학교와 대화하는 순서를 안내하는 가족 대응서이다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "007",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "익숙한 장면이 조금 달라진다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "018",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "그때 비로소 마음이 움직인다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "025",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "다르게 보면 선택도 달라진다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "서두르지 않아도 기준은 필요하다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "032",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "그 시간은 생각보다 오래 남는다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "046",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ]
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-09-28T00:25:58.396Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "반려동물을 맡기기 전에 확인할 것들",
+      "provider": "rule-fallback",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "no-ai-copy",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "사항을 사전에 점검하는 위탁 체크리스트형 실용서이다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "005",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "이유를 알면 기준이 보인다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "기준이 생기면 선택이 쉬워진다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "013",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "정보보다 판단 순서가 중요하다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "012",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "핵심은 실행 가능한 기준이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "038",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "알고 나면, 다르게 보이기 시작한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "042",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ]
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-09-28T00:25:58.396Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 증상",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "간병비 고지서를 받기 전에",
+      "provider": "rule-fallback",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "no-ai-copy",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "미리 정리해 갑작스러운 간병비 부담에 대비하는 가족 준비서이다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "006",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "이미 신호는 나타나고 있다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "026",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "반복되는 실수부터 확인하라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "025",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "판단 기준을 먼저 세워라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "지금 할 수 있는 것부터 정하라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "040",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "기준은 지금 세워야 흔들리지 않는다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "042",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ]
+    }
+  ]
+}
