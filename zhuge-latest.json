@@ -104,7 +104,108 @@
         "yes24"
       ],
       "crossSourceCount": 1,
-      "fallbackCardComplete": true
+      "fallbackCardComplete": true,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-09-29T00:25:43.540Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "세네카, 오늘을 빼앗기고 있는 당신에게",
+        "provider": "rule-fallback",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "고전이 오늘의 스트레스를 치유한다",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "006",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "일상에서 바로 적용 가능한 스트레스 관리법과 삶의 의미 탐색",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "027",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "고전 철학을 일상 스트레스 해소에 직접 적용하는 실용 가이드",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "028",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "급증하고, 고전 텍스트를 현대적 해석으로 풀어내는 수요가 늘고 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "현대 사례를 병행해 독자가 직접 실천할 수 있는 체크리스트 제공.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "고전 텍스트에 대한 접근성 우려",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "047",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ]
+      }
     },
     {
       "rank": 2,
@@ -181,7 +282,108 @@
         "yes24"
       ],
       "crossSourceCount": 1,
-      "fallbackCardComplete": true
+      "fallbackCardComplete": true,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-09-29T00:25:43.540Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "머니 트렌드 2027",
+        "provider": "rule-fallback",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "2027년, 돈이 흐르는 방향을 미리 읽는다",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "001",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "자산군의 향후 흐름을 한눈에 파악하고 실전 투자 전략을 얻고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "014",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "2027년을 앞서가는 재무·투자 인사이트 종합 가이드",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "2027년 경제 전망에 대한 기업·개인 투자자 관심이 급증하고 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "016",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "등 8인 팀이 각 분야 전문가로 구성.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "040",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "경제 불확실성으로 전망이 빗나갈 위험",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "046",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ]
+      }
     },
     {
       "rank": 3,
@@ -258,7 +460,120 @@
         "google-news"
       ],
       "crossSourceCount": 1,
-      "fallbackCardComplete": true
+      "fallbackCardComplete": true,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-09-29T00:25:43.540Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "AI 영상툴 ‘반디캠 AI 스튜디오’ 출시",
+        "provider": "rule-fallback",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "AI가 만든 영상, 이제 누구나 쉽게",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "007",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "AI 툴을 빠르게 습득해 제작 비용과 시간을 절감하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "기반 영상 편집 툴의 기능과 활용 사례를 한눈에 정리한 실전 가이드.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "021",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "시장이 급성장하고, 기업·크리에이터들의 도입이 가속화되는 시점이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "스튜디오의 최신 기능을 직접 체험하고, 성공 사례와 실무 팁을 제공.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "038",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "AI 편집 결과물에 대한 신뢰 부족",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "048",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "generatedAt": "2026-09-29T00:25:55.444Z",
+    "version": "v2.15.24-cardnews-3styles",
+    "signature": "77b49b341b",
+    "planSetId": "zps-20260929-display-first",
+    "provider": "none",
+    "source": "github-feed",
+    "file": "cardnews/2026-09-29.json",
+    "characterAsset": "/cardnews/fixed_duo_editorial.png",
+    "cardCount": 6
+  }
 }
