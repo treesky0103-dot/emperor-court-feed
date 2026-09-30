@@ -1,0 +1,318 @@
+{
+  "day": "2026-09-30",
+  "planSetId": "zps-20260930-display-first",
+  "version": "v2.15.71-recovery-rule-6cards",
+  "source": "chatgpt-recovery-enriched",
+  "planTitles": [
+    "부모님 돈을 대신 관리하게 되었습니다",
+    "퇴사하는 사람에게 일을 넘겨받았습니다",
+    "우리 집이 공사장 옆이 되었습니다"
+  ],
+  "provider": "recovery-rule",
+  "generatedAt": "2026-09-30T01:24:12.718Z",
+  "sets": [
+    {
+      "version": "v2.15.71-recovery-rule-6cards",
+      "status": "ready",
+      "generatedAt": "2026-09-30T01:24:12.713Z",
+      "character": "scene-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 문제",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "부모님 돈을 대신 관리하게 되었습니다",
+      "provider": "recovery-rule",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "instant-display-first",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "부모님 돈을 대신 보기 시작했다면, 선의보다 기록이 먼저다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "007",
+          "sceneCategory": "cover",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "병원비 한 번 대신 낸 일이 어느새 매달 반복된다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "026",
+          "sceneCategory": "warning",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 문제",
+          "headline": "통장·카드·자동이체가 섞이면 가족도 기억이 달라진다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "025",
+          "sceneCategory": "warning",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "누가 얼마를 왜 썼는지 한 줄로 남기는 것이 시작이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "월 1회 정산표와 가족 공유 규칙을 먼저 정하라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "032",
+          "sceneCategory": "fix",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "가족의 신뢰는 좋은 의도보다 투명한 기록이 지킨다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "046",
+          "sceneCategory": "final",
+          "source": "recovery-rule"
+        }
+      ]
+    },
+    {
+      "version": "v2.15.71-recovery-rule-6cards",
+      "status": "ready",
+      "generatedAt": "2026-09-30T01:24:12.718Z",
+      "character": "scene-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "퇴사하는 사람에게 일을 넘겨받았습니다",
+      "provider": "recovery-rule",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "instant-display-first",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "퇴사자는 떠나지만 빠진 업무는 남는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "005",
+          "sceneCategory": "cover",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "장면",
+          "headline": "어느 날 ‘이 일 이제 네가 맡아’라는 말을 듣는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "warning",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "파일·거래처·미완료 과제는 질문하지 않으면 보이지 않는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "021",
+          "sceneCategory": "warning",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "마지막 출근일부터 거꾸로 질문 목록을 만들어라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "012",
+          "sceneCategory": "analysis",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "D-10·D-5·D-1 체크리스트로 하나씩 닫아라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "038",
+          "sceneCategory": "fix",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "좋은 인수인계는 기억이 아니라 구조로 남는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "042",
+          "sceneCategory": "final",
+          "source": "recovery-rule"
+        }
+      ]
+    },
+    {
+      "version": "v2.15.71-recovery-rule-6cards",
+      "status": "ready",
+      "generatedAt": "2026-09-30T01:24:12.718Z",
+      "character": "scene-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "우리 집이 공사장 옆이 되었습니다",
+      "provider": "recovery-rule",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "instant-display-first",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "공사장 옆에서 가장 먼저 해야 할 일은 항의가 아니라 기록이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "006",
+          "sceneCategory": "cover",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "현상",
+          "headline": "처음에는 소음이었는데 어느 날 벽에 작은 선이 보인다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "018",
+          "sceneCategory": "warning",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "원리",
+          "headline": "사진 한 장도 날짜와 위치가 없으면 기억에 의존하게 된다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "011",
+          "sceneCategory": "warning",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "원인을 단정하지 말고 상태를 같은 방식으로 계속 남겨라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "사진·시간·위치·문의 내용을 한 묶음으로 정리하라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "040",
+          "sceneCategory": "fix",
+          "source": "recovery-rule"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "정확한 기록이 불필요한 분쟁도, 필요한 대응의 지연도 줄인다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "042",
+          "sceneCategory": "final",
+          "source": "recovery-rule"
+        }
+      ]
+    }
+  ]
+}
