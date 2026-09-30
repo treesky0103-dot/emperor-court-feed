@@ -3,9 +3,21 @@
   "planDay": "2026-09-30",
   "planSetId": "zps-20260930-display-first",
   "generatedAt": "2026-09-30T01:02:54Z",
-  "publisher": "chatgpt-recovery-enriched",
+  "publishedAt": "2026-09-30T09:00:23.087Z",
+  "publisher": "emperor-court-worker",
+  "publisherVersion": "v2.15.77",
   "title": "제갈량의 출판 기획 3선",
-  "generationMode": "recovery-enriched",
+  "intro": [
+    "오늘 최종 3선은 ① 《부모님 돈을 대신 관리하게 되었습니다》 ② 《퇴사하는 사람에게 일을 넘겨받았습니다》 ③ 《우리 집이 공사장 옆이 되었습니다》입니다. 오늘은 10시 복구로 먼저 표시한 뒤, 상세 기획·카드뉴스·표지 레퍼런스까지 같은 세 제목과 순서를 유지해 즉시 보강했습니다."
+  ],
+  "model": "",
+  "pipeline": "v2.15.71-historical-high-quality-preserve",
+  "generationMode": "display-first-adopted",
+  "generationLabel": "",
+  "sourceSnapshotAt": "",
+  "inputFreshness": {
+    "label": ""
+  },
   "plans": [
     {
       "rank": 1,
@@ -1134,8 +1146,12 @@
       }
     }
   ],
-  "enrichedAt": "2026-09-30T01:24:12.718Z",
-  "intro": [
-    "오늘 최종 3선은 ① 《부모님 돈을 대신 관리하게 되었습니다》 ② 《퇴사하는 사람에게 일을 넘겨받았습니다》 ③ 《우리 집이 공사장 옆이 되었습니다》입니다. 오늘은 10시 복구로 먼저 표시한 뒤, 상세 기획·카드뉴스·표지 레퍼런스까지 같은 세 제목과 순서를 유지해 즉시 보강했습니다."
-  ]
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20260930-display-first",
+    "file": "cardnews/2026-09-30.json",
+    "cardCount": 6
+  },
+  "fallback": true
 }
