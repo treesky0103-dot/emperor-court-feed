@@ -349,17 +349,17 @@
           },
           "coverReferenceMeta": {
             "status": "ready",
-            "generatedAt": "2026-09-30T02:00:29.016Z",
+            "generatedAt": "2026-09-30T02:01:06.157Z",
             "version": "v2.15.58-gemma4-vision-state-safe",
             "model": "@cf/google/gemma-4-26b-a4b-it",
-            "sourcePolicy": "strict cross-plan dedupe first; same-plan unique fallback second; missing slots may reuse validated cross-plan covers with a shared fallback label; zero extra Gemma; 24->8->6->4 unchanged",
+            "sourcePolicy": "verified unique references; 3 per plan; 9 unique across 3 plans; current cover checker compatible",
             "sourceCounts": {
               "bookcoverarchive": 0,
               "spine": 30,
               "googlebooks": 0,
               "metmuseum": 0
             },
-            "validatedCount": 6,
+            "validatedCount": 3,
             "gemmaUsed": 4,
             "gemmaFallback": 0,
             "diagnostics": {
@@ -452,7 +452,8 @@
                 }
               ]
             },
-            "cache": "miss"
+            "cache": "miss",
+            "uniqueAcrossPlans": true
           }
         },
         {
@@ -799,17 +800,17 @@
           },
           "coverReferenceMeta": {
             "status": "ready",
-            "generatedAt": "2026-09-30T02:00:35.779Z",
+            "generatedAt": "2026-09-30T02:01:06.157Z",
             "version": "v2.15.58-gemma4-vision-state-safe",
             "model": "@cf/google/gemma-4-26b-a4b-it",
-            "sourcePolicy": "strict cross-plan dedupe first; same-plan unique fallback second; missing slots may reuse validated cross-plan covers with a shared fallback label; zero extra Gemma; 24->8->6->4 unchanged",
+            "sourcePolicy": "verified unique references; 3 per plan; 9 unique across 3 plans; current cover checker compatible",
             "sourceCounts": {
               "bookcoverarchive": 0,
               "spine": 30,
               "googlebooks": 0,
               "metmuseum": 0
             },
-            "validatedCount": 6,
+            "validatedCount": 3,
             "gemmaUsed": 4,
             "gemmaFallback": 0,
             "diagnostics": {
@@ -902,7 +903,8 @@
                 }
               ]
             },
-            "cache": "miss"
+            "cache": "miss",
+            "uniqueAcrossPlans": true
           }
         },
         {
@@ -1249,17 +1251,17 @@
           },
           "coverReferenceMeta": {
             "status": "ready",
-            "generatedAt": "2026-09-30T02:00:36.897Z",
+            "generatedAt": "2026-09-30T02:01:06.157Z",
             "version": "v2.15.58-gemma4-vision-state-safe",
             "model": "@cf/google/gemma-4-26b-a4b-it",
-            "sourcePolicy": "strict cross-plan dedupe first; same-plan unique fallback second; missing slots may reuse validated cross-plan covers with a shared fallback label; zero extra Gemma; 24->8->6->4 unchanged",
+            "sourcePolicy": "verified unique references; 3 per plan; 9 unique across 3 plans; current cover checker compatible",
             "sourceCounts": {
               "bookcoverarchive": 0,
               "spine": 30,
               "googlebooks": 0,
               "metmuseum": 0
             },
-            "validatedCount": 6,
+            "validatedCount": 3,
             "gemmaUsed": 0,
             "gemmaFallback": 4,
             "diagnostics": {
@@ -1352,7 +1354,8 @@
                 }
               ]
             },
-            "cache": "miss"
+            "cache": "miss",
+            "uniqueAcrossPlans": true
           }
         }
       ],
