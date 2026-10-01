@@ -1,6 +1,1178 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "days": [
+    {
+      "date": "2026-10-01",
+      "planDay": "2026-10-01",
+      "planSetId": "zps-20261001-0a1e7278",
+      "generatedAt": "2026-10-01T04:30:28.024Z",
+      "publishedAt": "2026-10-01T04:57:27.732Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.84",
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 시장·독자·베스트셀러 신호를 바탕으로 독자 문제와 구매 이유가 서로 다른 출판 기획 3선입니다."
+      ],
+      "model": "deterministic-local-no-ai",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "continuity-core-v21583",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-10-01T04:16:58.579Z",
+      "inputFreshness": {
+        "fresh": true,
+        "newsFresh": true,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-10-01T04:16:58.579Z",
+        "staleAdvisors": [],
+        "bestsellerUpdatedAt": "2026-10-01T00:01:01.819Z",
+        "bestsellerDataDate": "2026-09-30",
+        "stale": false,
+        "checkedAt": "2026-10-01T04:30:28.024Z",
+        "policy": "confirm-and-mark",
+        "label": ""
+      },
+      "plans": [
+        {
+          "rank": 1,
+          "type": "즉시 기획",
+          "field": "커리어·AI",
+          "title": "AI가 바꾸는 일보다 먼저 바꿔야 할 내 업무",
+          "concept": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.",
+          "oneLine": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.",
+          "why": "최근 공개 신호에서 ““애플, 시리 AI 앞세워 스마트 홈 시장 본격 진출” - 조선비즈 - Chosunbiz”처럼 커리어·AI과 연결된 변화가 이어지고 있다. 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+          "competition": "관련 정보와 개별 사례는 많지만, 도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+          "reader": "AI 도구가 빠르게 들어오는 조직에서 무엇을 배워야 하고 어떤 일을 직접 맡아야 하는지 불안한 직장인",
+          "readerNeed": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+          "marketGap": "도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+          "differentiation": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+          "diff": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+          "toc": [
+            "내 직무가 아니라 내 작업을 쪼개 본다",
+            "AI에 넘겨도 되는 일의 조건을 정한다",
+            "사람이 끝까지 책임져야 할 판단을 찾는다",
+            "성과를 기록해 대체 가능성을 낮춘다",
+            "다음 1년의 학습과 경력 이동을 설계한다"
+          ],
+          "searchQueries": [
+            "커리어",
+            "AI 직장인"
+          ],
+          "bookworthiness": {
+            "durability": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+            "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+            "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김난도",
+              "books": "《트렌드 코리아 2027》",
+              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+              "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/195842609",
+              "verification": "오늘 YES24 자료의 저자명"
+            },
+            {
+              "name": "전미영",
+              "books": "《트렌드 코리아 2027》",
+              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+              "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/195842609",
+              "verification": "오늘 YES24 자료의 저자명"
+            }
+          ],
+          "author": "김난도",
+          "bestAuthor": "김난도",
+          "authorBrief": "커리어·AI의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+          "headlineCopy": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+            "trust": "AI가 바꾸는 일보다 먼저 바꿔야 할 내 업무의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+            "conversion": "무료 정보의 나열이 아니라 “업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "최근 공개 신호에서 ““애플, 시리 AI 앞세워 스마트 홈 시장 본격 진출” - 조선비즈 - Chosunbiz”처럼 커리어·AI과 연결된 변화가가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세페이지에서 직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+            },
+            "positioning": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+          },
+          "devilsEditor": {
+            "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+          },
+          "scores": {
+            "market": 78,
+            "timing": 76,
+            "difference": 82,
+            "author": 76,
+            "marketing": 80,
+            "longtail": 84
+          },
+          "score": 80,
+          "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+          "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+          "judgment": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+          "similarBooks": [
+            {
+              "title": "트렌드 코리아 2027",
+              "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+              "publisher": "미래의창",
+              "publicationDate": "20260930",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            }
+          ],
+          "evidence": [
+            {
+              "text": "“애플, 시리 AI 앞세워 스마트 홈 시장 본격 진출” - 조선비즈 - Chosunbiz",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTZiM2c4emVPa1ZPdEk0OWliTHVUUXJKVWN5Z0lHT0Y5SUJKbm42elFfQW15YS1QdUI2RVZwaGM4MXA2ZUM1SFdrSEVXQVJwREdMTDZ2eXFiakJyMEZDeVR4d0M1TlRqZmxwdk5uRmpuTGFBaVhUWlNiSzRNVmF6enh30gGWAUFVX3lxTE1WUWQyLWhsbTJaVTJkWkV6WUlrbHN2RlhsVktlUUlrWkN3UDhXU2lQbl9HcWlleGlncktHOVctTTdiTjJqNkNVaUlLbTRuYmhCMFItSGJOYVFaTmxxNUxPaFFpR21Id1ZBc3gxZjN3cEp5TGdTcnNkOGwxdFh5NTVuTFBIa2NWOUIzU18zYkF6by1TSFBTdw?oc=5"
+            },
+            {
+              "text": "“인간 저작-AI 보조-AI 출판, 구분해 표기” - 동아일보",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vT2pEek9CVC1qakd6SjllclppMExaeHJvcVNDbzBhcEUzTVZlcXBVcl9nSXNfUXhHU2NnSlY4cDNxZU9zdGdlRDY5Y3JLUE9TUlAtVTUySm1wQXI3MFBnU1pDT1p2a2VNdzJCTjF6VnVjcGpvUVHSAWZBVV95cUxQTmFMc1ZScXMxOVRxNUVZYl9vNTZRUFJLbUZBblRma3gtMEpPOXlHX3UweXVTT0hXU2dKODFCUHI3aXI2ZDVsVFlRcFpWMGcxTWU0bUhsY29qMl8xLTM0ZGhqTGNHU0E?oc=5"
+            },
+            {
+              "text": "트렌드 코리아 2027",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            }
+          ],
+          "sourceChannels": [
+            "google-news",
+            "yes24"
+          ],
+          "crossSourceCount": 2,
+          "visualKeywords": [
+            "커리어·AI",
+            "career",
+            "AI가 바꾸는 일보다 먼저 바꿔야 할 내 업무"
+          ],
+          "fallbackCardComplete": true,
+          "titleAudit": {
+            "status": "continuity-local",
+            "collision": false
+          },
+          "generationMode": "continuity-core-v21583",
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-01T04:57:19.995Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "heist",
+              "label": "하이스트형",
+              "tone": "직설·후킹형",
+              "flow": [
+                "강한 선언",
+                "공감",
+                "구체적 증상",
+                "판단 기준",
+                "해결",
+                "강한 결론"
+              ]
+            },
+            "bookTitle": "AI가 바꾸는 일보다 먼저 바꿔야 할 내 업무",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "강한 선언",
+                "headline": "업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "008",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "warning",
+                "beat": "공감",
+                "headline": "쪼개 AI에 넘길 일과 사람임질 일을 다시 설계하는 커리어 실전서.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "022",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "구체적 증상",
+                "headline": "Chosunbiz 처럼 커리어·AI과 연결된 변화가 이어지고 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "025",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "판단 기준",
+                "headline": "기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "018",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "해결",
+                "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "034",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "강한 결론",
+                "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "050",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true
+          },
+          "coverRefs": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
+              "title": "I Deliver Parcels in Beijing",
+              "context": "I Deliver Parcels in Beijing Hu Anyan Rodrigo Corral",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/06/71bnI7s81IL._AC_UF10001000_QL80_.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/06/71bnI7s81IL._AC_UF10001000_QL80_.jpg",
+              "title": "Blowfish",
+              "context": "Blowfish Kyung-Ran Jo (조경란) Giacomo Girardi / Rodrigo Corral Studio",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
+              "title": "Liquid: A Love Story",
+              "context": "Liquid: A Love Story Mariam Rahmani Sharanya Durvasala",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferences": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
+              "title": "I Deliver Parcels in Beijing",
+              "context": "I Deliver Parcels in Beijing Hu Anyan Rodrigo Corral",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/06/71bnI7s81IL._AC_UF10001000_QL80_.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/06/71bnI7s81IL._AC_UF10001000_QL80_.jpg",
+              "title": "Blowfish",
+              "context": "Blowfish Kyung-Ran Jo (조경란) Giacomo Girardi / Rodrigo Corral Studio",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
+              "title": "Liquid: A Love Story",
+              "context": "Liquid: A Love Story Mariam Rahmani Sharanya Durvasala",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferenceMeta": {
+            "version": "v2.15.58-gemma4-vision-state-safe",
+            "status": "continuity-ready-hq-pending",
+            "generatedAt": "2026-10-01T04:57:20.964Z",
+            "model": "deterministic-approved-local",
+            "deadlineGuaranteed": true,
+            "deadlineAtKst": "09:25",
+            "displayGuaranteed": true,
+            "hqReady": false,
+            "upgradePending": true,
+            "qualityTier": "continuity",
+            "diagnostics": {
+              "deadlineApprovedFallback": 3,
+              "noExternalCalls": true
+            }
+          }
+        },
+        {
+          "rank": 2,
+          "type": "6~12개월 선점 기획",
+          "field": "문화·라이프",
+          "title": "보고 듣고 떠난 뒤에도 남는 취향의 기록",
+          "concept": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+          "oneLine": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+          "why": "최근 공개 신호에서 “2026 경기도자비엔날레, 국내외 작가와 10월 국제도자워크숍 운영 - 경기도뉴스포털”처럼 문화·라이프과 연결된 변화가 이어지고 있다. 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+          "competition": "관련 정보와 개별 사례는 많지만, 추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
+          "reader": "여행·책·공연·음식 등 문화 선택지가 너무 많아 추천을 따라가면서도 내 취향은 선명해지지 않는 독자",
+          "readerNeed": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "marketGap": "추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
+          "differentiation": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+          "diff": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+          "toc": [
+            "추천보다 먼저 내 선택 패턴을 본다",
+            "좋았던 경험을 구체적인 언어로 기록한다",
+            "비슷한 선택을 비교해 기준을 찾는다",
+            "남의 평점과 내 취향을 분리한다",
+            "다음 선택을 위한 취향 지도를 만든다"
+          ],
+          "searchQueries": [
+            "문화",
+            "문화 라이프"
+          ],
+          "bookworthiness": {
+            "durability": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+            "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+            "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "루키우스 안나이우스 세네카",
+              "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+              "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+              "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/192474512",
+              "verification": "오늘 YES24 자료의 저자명"
+            },
+            {
+              "name": "하와이 대저택 편역",
+              "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+              "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+              "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/192474512",
+              "verification": "오늘 YES24 자료의 저자명"
+            }
+          ],
+          "author": "루키우스 안나이우스 세네카",
+          "bestAuthor": "루키우스 안나이우스 세네카",
+          "authorBrief": "문화·라이프의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+          "headlineCopy": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+            "trust": "보고 듣고 떠난 뒤에도 남는 취향의 기록의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+            "conversion": "무료 정보의 나열이 아니라 “취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "최근 공개 신호에서 “2026 경기도자비엔날레, 국내외 작가와 10월 국제도자워크숍 운영 - 경기도뉴스포털”처럼 문화·라이프과 연결된 변화가 이가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세페이지에서 추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+            },
+            "positioning": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+          },
+          "devilsEditor": {
+            "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+          },
+          "scores": {
+            "market": 78,
+            "timing": 76,
+            "difference": 82,
+            "author": 76,
+            "marketing": 80,
+            "longtail": 84
+          },
+          "score": 80,
+          "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+          "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+          "judgment": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+          "similarBooks": [
+            {
+              "title": "세네카, 오늘을 빼앗기고 있는 당신에게",
+              "author": "루키우스 안나이우스 세네카 저/하와이 대저택 편역",
+              "publisher": "논픽션",
+              "publicationDate": "20260701",
+              "url": "https://www.yes24.com/product/goods/192474512"
+            }
+          ],
+          "evidence": [
+            {
+              "text": "2026 경기도자비엔날레, 국내외 작가와 10월 국제도자워크숍 운영 - 경기도뉴스포털",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWFyZlAwR09LUm1HTUtCeko2aUYxN3VEZnZaRUJlTnN6SmdQZ3pxYnNyYUV6UTdNQzZ4T2hXT2FqOExFcFdpWGNycGNsT0FTS1luTExFTE9sdkZtbWVtRnNMMTRTZ3R0ZE5yQlhHMi12RTdhRjcyQVZIRlpVSTJzNjdHbS0?oc=5"
+            },
+            {
+              "text": "[알림] 연합뉴스 콘텐츠 저작권 고지 - 연합뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ycV9OZndpZHVydjhpN0VELUZ1V19VUHlLRlB2emJ0YkpXWl9veXE5UWFHbnU4RzVFbi16RjZST21TTW9DSXE2cDJOTmdKa0dQQThfbmwzMk5HcUHSAWBBVV95cUxPRnBrYXFpQ2tfLWd0b2JxeGpyVTBoR1plT0Y0MnJIN01GU3BpMlF2UFlsRkVBN19uN0syRVhXQjd0N19NWEFHQ2hZdmhITlk1SHFORWFLekZuY2tIZGVVQnY?oc=5"
+            },
+            {
+              "text": "세네카, 오늘을 빼앗기고 있는 당신에게",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/192474512"
+            }
+          ],
+          "sourceChannels": [
+            "google-news",
+            "yes24"
+          ],
+          "crossSourceCount": 2,
+          "visualKeywords": [
+            "문화·라이프",
+            "culture",
+            "보고 듣고 떠난 뒤에도 남는 취향의 기록"
+          ],
+          "fallbackCardComplete": true,
+          "titleAudit": {
+            "status": "continuity-local",
+            "collision": false
+          },
+          "generationMode": "continuity-core-v21583",
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-01T04:57:19.995Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "forest",
+              "label": "포레스트형",
+              "tone": "지식·통찰 교양형",
+              "flow": [
+                "궁금증",
+                "현상",
+                "원리",
+                "설명",
+                "통찰",
+                "핵심 메시지"
+              ]
+            },
+            "bookTitle": "보고 듣고 떠난 뒤에도 남는 취향의 기록",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "궁금증",
+                "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "005",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "현상",
+                "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "016",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "analysis",
+                "beat": "원리",
+                "headline": "- 경기도뉴스포털 처럼 문화·라이프과 연결된 변화가 이어지고 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "015",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "설명",
+                "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "014",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "통찰",
+                "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "040",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "핵심 메시지",
+                "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "042",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true
+          },
+          "coverRefs": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
+              "title": "The Slip",
+              "context": "The Slip Lucas Schaefer Jack Smyth",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
+              "title": "Sea, Poison",
+              "context": "Sea, Poison Caren Beilin Jamie Keenan",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
+              "title": "Luminous",
+              "context": "Luminous Silvia Park Alex Merto",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferences": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
+              "title": "The Slip",
+              "context": "The Slip Lucas Schaefer Jack Smyth",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
+              "title": "Sea, Poison",
+              "context": "Sea, Poison Caren Beilin Jamie Keenan",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
+              "title": "Luminous",
+              "context": "Luminous Silvia Park Alex Merto",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferenceMeta": {
+            "version": "v2.15.58-gemma4-vision-state-safe",
+            "status": "continuity-ready-hq-pending",
+            "generatedAt": "2026-10-01T04:57:21.063Z",
+            "model": "deterministic-approved-local",
+            "deadlineGuaranteed": true,
+            "deadlineAtKst": "09:25",
+            "displayGuaranteed": true,
+            "hqReady": false,
+            "upgradePending": true,
+            "qualityTier": "continuity",
+            "diagnostics": {
+              "deadlineApprovedFallback": 3,
+              "noExternalCalls": true
+            }
+          }
+        },
+        {
+          "rank": 3,
+          "type": "틈새 기획",
+          "field": "주거·생활법",
+          "title": "집을 지키는 사람의 생활 분쟁 매뉴얼",
+          "concept": "주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
+          "oneLine": "주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
+          "why": "최근 공개 신호에서 “트럼프 대통령-빅테크 수장들, '초지능(SI) 안전 협약' 체결…자율 규제·감시 체계 마련 - VOA 한국어 홈페이지”처럼 주거·생활법과 연결된 변화가 이어지고 있다. 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+          "competition": "관련 정보와 개별 사례는 많지만, 법 조항 설명은 많지만 일반인이 문제가 발생한 첫날부터 무엇을 남기고 누구에게 어떤 순서로 묻는지 알려주는 책은 부족하다.",
+          "reader": "공사·하자·임대차·이웃 분쟁처럼 예상하지 못한 주거 문제가 생겼을 때 어디서부터 대응해야 할지 모르는 생활자",
+          "readerNeed": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+          "marketGap": "법 조항 설명은 많지만 일반인이 문제가 발생한 첫날부터 무엇을 남기고 누구에게 어떤 순서로 묻는지 알려주는 책은 부족하다.",
+          "differentiation": "사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+          "diff": "사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+          "toc": [
+            "문제가 생긴 첫날 해야 할 일",
+            "사실과 추측을 분리해 기록한다",
+            "상대방과 기관에 묻는 순서를 정한다",
+            "전문가 도움이 필요한 경계를 판단한다",
+            "내 집의 기록 체계를 평소에 만들어 둔다"
+          ],
+          "searchQueries": [
+            "주거",
+            "주거 생활법"
+          ],
+          "bookworthiness": {
+            "durability": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+            "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+            "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "네오위즈",
+              "books": "《디제이맥스 리스펙트 V 아트북 (DJMAX RESPECT V ARTBOOK)》",
+              "career": "오늘 YES24 자료에서 확인된 《디제이맥스 리스펙트 V 아트북 (DJMAX RESPECT V ARTBOOK)》 저자",
+              "why": "주거·생활법 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/196784717",
+              "verification": "오늘 YES24 자료의 저자명"
+            },
+            {
+              "name": "김난도",
+              "books": "《트렌드 코리아 2027》",
+              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+              "why": "주거·생활법 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/195842609",
+              "verification": "오늘 YES24 자료의 저자명"
+            }
+          ],
+          "author": "네오위즈",
+          "bestAuthor": "네오위즈",
+          "authorBrief": "주거·생활법의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+          "headlineCopy": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+            "trust": "집을 지키는 사람의 생활 분쟁 매뉴얼의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+            "conversion": "무료 정보의 나열이 아니라 “사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "최근 공개 신호에서 “트럼프 대통령-빅테크 수장들, '초지능(SI) 안전 협약' 체결…자율 규제·감시 체계 마련 - VOA 한국어 홈페이지”처럼가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세페이지에서 주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+            },
+            "positioning": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+          },
+          "devilsEditor": {
+            "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+          },
+          "scores": {
+            "market": 78,
+            "timing": 76,
+            "difference": 82,
+            "author": 76,
+            "marketing": 80,
+            "longtail": 84
+          },
+          "score": 80,
+          "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+          "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+          "judgment": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+          "similarBooks": [
+            {
+              "title": "디제이맥스 리스펙트 V 아트북 (DJMAX RESPECT V ARTBOOK)",
+              "author": "네오위즈 저",
+              "publisher": "다산코믹스",
+              "publicationDate": "20261116",
+              "url": "https://www.yes24.com/product/goods/196784717"
+            },
+            {
+              "title": "돈의 편에 서라",
+              "author": "김수영(부투스쿨TV) 저",
+              "publisher": "크레딧",
+              "publicationDate": "20261002",
+              "url": "https://www.yes24.com/product/goods/195595301"
+            },
+            {
+              "title": "트렌드 코리아 2027",
+              "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+              "publisher": "미래의창",
+              "publicationDate": "20260930",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            }
+          ],
+          "evidence": [
+            {
+              "text": "트럼프 대통령-빅테크 수장들, '초지능(SI) 안전 협약' 체결…자율 규제·감시 체계 마련 - VOA 한국어 홈페이지",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TLVNBUDZab2R5NmlnZGVWYklhRHB4WmdrZi1Nb1NDZzVzQ043SjNNcmI0YW1UZGNNd0pvb3JsRmFrRjRZekNFTUl0Z2ZtRjVLV29IdVZKMElndWhELVZnM2ZpTVFWMGZlRVI1NkhPWdIBckFVX3lxTE9adkNkU3lxVEx3YmdDUXFINnBHZmhFSE0xWjlyb3V6VUM5SEdKRFdLdDA0LUpwX3dlbVc3UGtGeFU2WXRvRGl3Q21fbkZLQ0pIdzJUWkpWelhLWlpILVoxVFJ3MjRRRmVYRF9zVGFUY3hSUQ?oc=5"
+            },
+            {
+              "text": "[단독]AI음악 유튜브·멜론 차트 상위권 오르는데… 저작권 등록 못해 ‘인간 창작’ 편법 등록 - 조선일보",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3hmZThEVzV3SFh4bzYzRmFXSDY4ZWhuLUk5ZEdtd1hrNUxvaWw4UW1DTDI4VFJZd3ZNdVdWTlJwVEdyNExsWGJtSGswYUhIbWRJQjlQX2xaQmdFUURJQ09yTEM2b1F2MzlORkd3QzZYbUZzMlpGaWFxM3BHd2ZUY1BybUVvSWRiVnJCYkM0Y3RyaFFG?oc=5"
+            },
+            {
+              "text": "디제이맥스 리스펙트 V 아트북 (DJMAX RESPECT V ARTBOOK)",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/196784717"
+            },
+            {
+              "text": "돈의 편에 서라",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/195595301"
+            }
+          ],
+          "sourceChannels": [
+            "google-news",
+            "yes24"
+          ],
+          "crossSourceCount": 2,
+          "visualKeywords": [
+            "주거·생활법",
+            "home",
+            "집을 지키는 사람의 생활 분쟁 매뉴얼"
+          ],
+          "fallbackCardComplete": true,
+          "titleAudit": {
+            "status": "continuity-local",
+            "collision": false
+          },
+          "generationMode": "continuity-core-v21583",
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-01T04:57:19.995Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "film",
+              "label": "필름형",
+              "tone": "감성 매거진형",
+              "flow": [
+                "감성 문장",
+                "장면",
+                "감정",
+                "관점 전환",
+                "수용",
+                "여운"
+              ]
+            },
+            "bookTitle": "집을 지키는 사람의 생활 분쟁 매뉴얼",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "감성 문장",
+                "headline": "사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "006",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "장면",
+                "headline": "않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "020",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "감정",
+                "headline": "한국어 홈페이지 처럼 주거·생활법과 연결된 변화가 이어지고 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "025",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "관점 전환",
+                "headline": "일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "018",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "수용",
+                "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "040",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "여운",
+                "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "042",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true
+          },
+          "coverRefs": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
+              "title": "One Day, Everyone Will Have Always Been Against This",
+              "context": "One Day, Everyone Will Have Always Been Against This Omar El Akkad Janet Hansen",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374616069.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374616069.jpg",
+              "title": "Dwelling",
+              "context": "Dwelling Emily Hunt Kivel Matt Dorfman",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
+              "title": "Playworld",
+              "context": "Playworld Adam Ross Oliver Munday",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferences": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
+              "title": "One Day, Everyone Will Have Always Been Against This",
+              "context": "One Day, Everyone Will Have Always Been Against This Omar El Akkad Janet Hansen",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374616069.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374616069.jpg",
+              "title": "Dwelling",
+              "context": "Dwelling Emily Hunt Kivel Matt Dorfman",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
+              "title": "Playworld",
+              "context": "Playworld Adam Ross Oliver Munday",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferenceMeta": {
+            "version": "v2.15.58-gemma4-vision-state-safe",
+            "status": "continuity-ready-hq-pending",
+            "generatedAt": "2026-10-01T04:57:21.149Z",
+            "model": "deterministic-approved-local",
+            "deadlineGuaranteed": true,
+            "deadlineAtKst": "09:25",
+            "displayGuaranteed": true,
+            "hqReady": false,
+            "upgradePending": true,
+            "qualityTier": "continuity",
+            "diagnostics": {
+              "deadlineApprovedFallback": 3,
+              "noExternalCalls": true
+            }
+          }
+        }
+      ],
+      "cardnewsAutomation": {
+        "status": "ok",
+        "version": "v2.15.24-cardnews-3styles",
+        "planSetId": "zps-20261001-0a1e7278",
+        "file": "cardnews/2026-10-01.json",
+        "cardCount": 6
+      }
+    },
     {
       "date": "2026-09-30",
       "planDay": "2026-09-30",
@@ -2810,7 +3982,7 @@
       ]
     }
   ],
-  "activePlanSetId": "zps-20260930-display-first",
+  "activePlanSetId": "zps-20261001-0a1e7278",
   "discardedDays": [
     {
       "date": "2026-09-29",
