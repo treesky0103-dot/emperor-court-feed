@@ -3,7 +3,7 @@
   "planDay": "2026-10-02",
   "planSetId": "zps-20261002-00edb61f",
   "generatedAt": "2026-10-01T16:04:26.077Z",
-  "publishedAt": "2026-10-02T04:39:45.136Z",
+  "publishedAt": "2026-10-02T04:40:07.843Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.92",
   "morningEdition": {
@@ -477,7 +477,10 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {}
+        "diagnostics": {
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        }
       }
     },
     {
@@ -933,7 +936,10 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {}
+        "diagnostics": {
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        }
       }
     },
     {
@@ -1370,7 +1376,10 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {}
+        "diagnostics": {
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        }
       }
     }
   ],
