@@ -6,9 +6,9 @@
       "planDay": "2026-10-02",
       "planSetId": "zps-20261002-00edb61f",
       "generatedAt": "2026-10-01T16:04:26.077Z",
-      "publishedAt": "2026-10-02T04:07:05.369Z",
+      "publishedAt": "2026-10-02T04:40:09.625Z",
       "publisher": "emperor-court-worker",
-      "publisherVersion": "v2.15.88",
+      "publisherVersion": "v2.15.92",
       "morningEdition": {
         "day": "2026-10-02",
         "planSetId": "zps-20261002-00edb61f",
@@ -181,7 +181,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-02T04:06:47.239Z",
+            "generatedAt": "2026-10-02T04:39:36.784Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -472,7 +472,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "ready",
-            "generatedAt": "2026-10-02T04:06:49.310Z",
+            "generatedAt": "2026-10-02T04:39:39.173Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
@@ -480,7 +480,10 @@
             "hqReady": true,
             "upgradePending": false,
             "qualityTier": "hq",
-            "diagnostics": {}
+            "diagnostics": {
+              "deadlineApprovedFallback": 0,
+              "noExternalCalls": true
+            }
           }
         },
         {
@@ -637,7 +640,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-02T04:06:47.239Z",
+            "generatedAt": "2026-10-02T04:39:36.784Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -928,7 +931,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "ready",
-            "generatedAt": "2026-10-02T04:06:53.497Z",
+            "generatedAt": "2026-10-02T04:39:41.107Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
@@ -936,7 +939,10 @@
             "hqReady": true,
             "upgradePending": false,
             "qualityTier": "hq",
-            "diagnostics": {}
+            "diagnostics": {
+              "deadlineApprovedFallback": 0,
+              "noExternalCalls": true
+            }
           }
         },
         {
@@ -1074,7 +1080,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-02T04:06:47.239Z",
+            "generatedAt": "2026-10-02T04:39:36.784Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1365,7 +1371,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "ready",
-            "generatedAt": "2026-10-02T04:06:57.655Z",
+            "generatedAt": "2026-10-02T04:39:42.890Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
@@ -1373,7 +1379,10 @@
             "hqReady": true,
             "upgradePending": false,
             "qualityTier": "hq",
-            "diagnostics": {}
+            "diagnostics": {
+              "deadlineApprovedFallback": 0,
+              "noExternalCalls": true
+            }
           }
         }
       ],
