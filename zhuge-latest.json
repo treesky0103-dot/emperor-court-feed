@@ -3,7 +3,7 @@
   "planDay": "2026-10-02",
   "planSetId": "zps-20261002-00edb61f",
   "generatedAt": "2026-10-01T16:04:26.077Z",
-  "publishedAt": "2026-10-02T00:10:04.894Z",
+  "publishedAt": "2026-10-02T00:20:13.587Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.88",
   "morningEdition": {
@@ -178,7 +178,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-01T16:04:26.077Z",
+        "generatedAt": "2026-10-02T00:18:43.757Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -203,10 +203,10 @@
           ]
         },
         "bookTitle": "유행을 소비하지 않고 취향을 만드는 법",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -274,10 +274,7 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true
+        ]
       },
       "coverRefs": [
         {
@@ -472,7 +469,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "ready",
-        "generatedAt": "2026-10-01T16:04:42.280Z",
+        "generatedAt": "2026-10-02T00:18:46.853Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
@@ -480,96 +477,7 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 9,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "assessmentSummary": [
-            {
-              "title": "newsouth trip reports",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 65,
-              "genre": 85,
-              "design": 90,
-              "score": 84,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 201038,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "northwestern blow yourself up",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 59088,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nyu fire in the heart of the city",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 238944,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 156524,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -726,7 +634,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-01T16:04:26.077Z",
+        "generatedAt": "2026-10-02T00:18:43.757Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -751,10 +659,10 @@
           ]
         },
         "bookTitle": "우리 집에 문제가 생겼을 때 기록부터 시작하는 법",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -822,10 +730,7 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true
+        ]
       },
       "coverRefs": [
         {
@@ -1020,7 +925,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "ready",
-        "generatedAt": "2026-10-01T16:04:50.445Z",
+        "generatedAt": "2026-10-02T00:18:50.199Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
@@ -1028,96 +933,7 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 6,
-          "preShortlistCount": 6,
-          "eligibleCount": 6,
-          "scannedCount": 6,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "assessmentSummary": [
-            {
-              "title": "The Avian Hourglass - An Interview with Author Lindsey Drager and Designer Steven Seighman",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 357770,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 156524,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "pitt abider",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 35,
-              "genre": 40,
-              "design": 85,
-              "score": 71,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 99740,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "west virginia what kind of mother",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 30,
-              "genre": 45,
-              "design": 85,
-              "score": 69,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 61696,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1255,7 +1071,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-01T16:04:26.077Z",
+        "generatedAt": "2026-10-02T00:18:43.757Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1280,10 +1096,10 @@
           ]
         },
         "bookTitle": "내 일을 AI와 나눠 맡는 기준",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -1351,10 +1167,7 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true
+        ]
       },
       "coverRefs": [
         {
@@ -1549,7 +1362,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "ready",
-        "generatedAt": "2026-10-01T16:04:58.621Z",
+        "generatedAt": "2026-10-02T00:18:54.567Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
@@ -1557,96 +1370,7 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 4,
-          "preShortlistCount": 4,
-          "eligibleCount": 4,
-          "scannedCount": 4,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 4,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "assessmentSummary": [
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 156524,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "yale darwin and the queer origins of life",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 20,
-              "genre": 40,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 79992,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "September Book Covers We Love!",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 73204,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "University Press Coverage, September 2026",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 247180,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     }
   ],
