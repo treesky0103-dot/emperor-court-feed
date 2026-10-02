@@ -8,13 +8,13 @@
     "우리 집에 문제가 생겼을 때 기록부터 시작하는 법",
     "내 일을 AI와 나눠 맡는 기준"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-01T16:04:26.077Z",
+  "provider": "none",
+  "generatedAt": "2026-10-02T00:20:00.598Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-01T16:04:26.077Z",
+      "generatedAt": "2026-10-02T00:18:43.757Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -39,10 +39,10 @@
         ]
       },
       "bookTitle": "유행을 소비하지 않고 취향을 만드는 법",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -110,15 +110,12 @@
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
-      ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true
+      ]
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-01T16:04:26.077Z",
+      "generatedAt": "2026-10-02T00:18:43.757Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -143,10 +140,10 @@
         ]
       },
       "bookTitle": "우리 집에 문제가 생겼을 때 기록부터 시작하는 법",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -214,15 +211,12 @@
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
-      ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true
+      ]
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-01T16:04:26.077Z",
+      "generatedAt": "2026-10-02T00:18:43.757Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -247,10 +241,10 @@
         ]
       },
       "bookTitle": "내 일을 AI와 나눠 맡는 기준",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -318,10 +312,7 @@
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
-      ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true
+      ]
     }
   ]
 }
