@@ -5,8 +5,8 @@
       "date": "2026-10-03",
       "planDay": "2026-10-03",
       "planSetId": "zps-20261003-4c888305",
-      "generatedAt": "2026-10-03T00:00:00.050Z",
-      "publishedAt": "2026-10-03T01:35:36.203Z",
+      "generatedAt": "2026-10-03T01:37:13.873Z",
+      "publishedAt": "2026-10-03T01:37:33.707Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.98",
       "morningEdition": {
@@ -17,26 +17,27 @@
           "대체되지 않는 사람은 일을 이렇게 남긴다",
           "주거 문제가 커지기 전에 남겨야 할 것들"
         ],
-        "generationMode": "continuity-core-v21583",
-        "model": "deterministic-local-no-ai",
-        "hqReady": false,
+        "generationMode": "historical-high-quality-sealed-upgrade",
+        "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+        "hqReady": true,
         "sealedAt": "2026-10-03T00:10:00.001Z",
-        "build": "v2.15.97"
+        "build": "v2.15.98",
+        "hqUpgradedAt": "2026-10-03T01:37:14.176Z"
       },
       "title": "제갈량의 출판 기획 3선",
       "intro": [
-        "오늘의 시장·독자·베스트셀러 신호를 바탕으로 독자 문제와 구매 이유가 서로 다른 출판 기획 3선입니다."
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 문화·라이프 · 커리어·AI · 주거·생활법을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
       ],
-      "model": "deterministic-local-no-ai",
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
       "pipeline": "v2.15.71-historical-high-quality-preserve",
-      "generationMode": "continuity-core-v21583",
+      "generationMode": "historical-high-quality-sealed-upgrade",
       "generationLabel": "",
-      "sourceSnapshotAt": "2026-10-02T23:39:45.345Z",
+      "sourceSnapshotAt": "2026-10-03T01:37:13.821Z",
       "inputFreshness": {
         "fresh": false,
         "newsFresh": false,
         "bestsellerFresh": true,
-        "newsUpdatedAt": "2026-10-02T23:39:45.345Z",
+        "newsUpdatedAt": "2026-10-03T00:40:19.419Z",
         "staleAdvisors": [
           "sima",
           "zhou",
@@ -45,10 +46,10 @@
           "xunyu",
           "xunyou"
         ],
-        "bestsellerUpdatedAt": "2026-10-02T23:25:06.310Z",
+        "bestsellerUpdatedAt": "2026-10-03T00:01:01.743Z",
         "bestsellerDataDate": "2026-10-02",
         "stale": true,
-        "checkedAt": "2026-10-03T00:00:00.050Z",
+        "checkedAt": "2026-10-03T01:37:14.138Z",
         "policy": "confirm-and-mark",
         "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
       },
@@ -86,24 +87,29 @@
           },
           "authors": [
             {
-              "name": "루키우스 안나이우스 세네카",
-              "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
-              "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
-              "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
-              "url": "https://www.yes24.com/product/goods/192474512",
-              "verification": "오늘 YES24 자료의 저자명"
+              "name": "정진호",
+              "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
+              "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/196822138",
+              "verification": "YES24 검색 결과의 실제 저자명"
             },
             {
-              "name": "하와이 대저택 편역",
-              "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
-              "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
-              "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
-              "url": "https://www.yes24.com/product/goods/192474512",
-              "verification": "오늘 YES24 자료의 저자명"
+              "name": "기민경",
+              "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
+              "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/196822138",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "박지호",
+              "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
+              "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/196822138",
+              "verification": "YES24 검색 결과의 실제 저자명"
             }
           ],
-          "author": "루키우스 안나이우스 세네카",
-          "bestAuthor": "루키우스 안나이우스 세네카",
+          "author": "정진호",
+          "bestAuthor": "정진호",
           "authorBrief": "문화·라이프의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
           "headlineCopy": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
           "marketingStrategy": {
@@ -132,38 +138,44 @@
             "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
           },
           "scores": {
-            "market": 78,
-            "timing": 76,
-            "difference": 82,
-            "author": 76,
-            "marketing": 80,
-            "longtail": 84
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
           },
-          "score": 80,
+          "score": 94,
           "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
           "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
           "judgment": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
           "similarBooks": [
             {
-              "title": "세네카, 오늘을 빼앗기고 있는 당신에게",
-              "author": "루키우스 안나이우스 세네카 저/하와이 대저택 편역",
-              "publisher": "논픽션",
-              "publicationDate": "20260701",
-              "url": "https://www.yes24.com/product/goods/192474512"
+              "title": "조직문화 트렌드 2027",
+              "author": "정진호,기민경,박지호,박진호,최준오 저",
+              "publisher": "플랜비디자인",
+              "publicationDate": "20261010",
+              "url": "https://www.yes24.com/product/goods/196822138",
+              "matchedQuery": "문화",
+              "verification": "YES24 검색 결과"
             },
             {
-              "title": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
-              "author": "쇼펜하우어 저/김지민 편",
-              "publisher": "하이스트",
-              "publicationDate": "20240220",
-              "url": "https://www.yes24.com/product/goods/125085536"
+              "title": "EBS연계 변형 D-30 파이널 모의고사 최강불패 사회·문화 (2026년)",
+              "author": "편집부 저",
+              "publisher": "수능기출평가원",
+              "publicationDate": "20261008",
+              "url": "https://www.yes24.com/product/goods/197069158",
+              "matchedQuery": "문화",
+              "verification": "YES24 검색 결과"
             },
             {
-              "title": "인생을 위한 최소한의 생각",
-              "author": "신영준,고영성 저",
-              "publisher": "상상스퀘어",
-              "publicationDate": "20260225",
-              "url": "https://www.yes24.com/product/goods/177044720"
+              "title": "2027 나르샤 사회·문화 실전분석서+유형 공략 N제 (2026년)",
+              "author": "UND : 나르샤 저",
+              "publisher": "시대인재북스",
+              "publicationDate": "20260305",
+              "url": "https://www.yes24.com/product/goods/180385530",
+              "matchedQuery": "문화",
+              "verification": "YES24 검색 결과"
             }
           ],
           "evidence": [
@@ -207,7 +219,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T01:35:20.153Z",
+            "generatedAt": "2026-10-03T01:37:17.741Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -450,7 +462,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T01:35:25.476Z",
+            "generatedAt": "2026-10-03T01:37:23.933Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -500,7 +512,22 @@
                 }
               ]
             }
-          }
+          },
+          "id": "S1",
+          "problem": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-03T01:35:20.506Z",
+            "queries": [
+              "문화",
+              "문화 라이프"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "historicalQualityScore": 90,
+          "stars": "★★★★★"
         },
         {
           "rank": 2,
@@ -535,24 +562,29 @@
           },
           "authors": [
             {
-              "name": "김난도",
-              "books": "《트렌드 코리아 2027》",
-              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
-              "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
-              "url": "https://www.yes24.com/product/goods/195842609",
-              "verification": "오늘 YES24 자료의 저자명"
+              "name": "정진웅",
+              "career": "《부사관, 인생 커리어를 설계하다!》 저자 · 하움출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《부사관, 인생 커리어를 설계하다!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/197222362",
+              "verification": "YES24 검색 결과의 실제 저자명"
             },
             {
-              "name": "전미영",
-              "books": "《트렌드 코리아 2027》",
-              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
-              "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
-              "url": "https://www.yes24.com/product/goods/195842609",
-              "verification": "오늘 YES24 자료의 저자명"
+              "name": "윤서영",
+              "career": "《청소년을 위한 직업별 마음 안내서》 저자 · 커리어북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《청소년을 위한 직업별 마음 안내서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/197053859",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김영아",
+              "career": "《이제는 커리어 회복탄력성》 저자 · 지식과감성#",
+              "why": "YES24에서 이 기획과 인접한 주제의 《이제는 커리어 회복탄력성》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/92130626",
+              "verification": "YES24 검색 결과의 실제 저자명"
             }
           ],
-          "author": "김난도",
-          "bestAuthor": "김난도",
+          "author": "정진웅",
+          "bestAuthor": "정진웅",
           "authorBrief": "커리어·AI의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
           "headlineCopy": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
           "marketingStrategy": {
@@ -581,31 +613,44 @@
             "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
           },
           "scores": {
-            "market": 78,
-            "timing": 76,
-            "difference": 82,
-            "author": 76,
-            "marketing": 80,
-            "longtail": 84
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
           },
-          "score": 80,
+          "score": 94,
           "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
           "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
           "judgment": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
           "similarBooks": [
             {
-              "title": "트렌드 코리아 2027",
-              "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
-              "publisher": "미래의창",
-              "publicationDate": "20260930",
-              "url": "https://www.yes24.com/product/goods/195842609"
+              "title": "부사관, 인생 커리어를 설계하다!",
+              "author": "정진웅 저",
+              "publisher": "하움출판사",
+              "publicationDate": "20261014",
+              "url": "https://www.yes24.com/product/goods/197222362",
+              "matchedQuery": "커리어",
+              "verification": "YES24 검색 결과"
             },
             {
-              "title": "문해내공",
-              "author": "신종호,김윤정 저",
-              "publisher": "상상스퀘어",
-              "publicationDate": "20260812",
-              "url": "https://www.yes24.com/product/goods/194182112"
+              "title": "제3의 면접, 평판조회",
+              "author": "커리어케어 C·LENS 센터 저",
+              "publisher": "세이코리아",
+              "publicationDate": "20261007",
+              "url": "https://www.yes24.com/product/goods/196884130",
+              "matchedQuery": "커리어",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "청소년을 위한 직업별 마음 안내서",
+              "author": "윤서영 저",
+              "publisher": "커리어북스",
+              "publicationDate": "20261009",
+              "url": "https://www.yes24.com/product/goods/197053859",
+              "matchedQuery": "커리어",
+              "verification": "YES24 검색 결과"
             }
           ],
           "evidence": [
@@ -649,7 +694,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T01:35:20.153Z",
+            "generatedAt": "2026-10-03T01:37:17.741Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -868,7 +913,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T01:35:28.524Z",
+            "generatedAt": "2026-10-03T01:37:26.311Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -901,7 +946,22 @@
               "selectedCount": 0,
               "assessmentSummary": []
             }
-          }
+          },
+          "id": "S2",
+          "problem": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-03T01:35:21.269Z",
+            "queries": [
+              "커리어",
+              "AI 직장인"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "historicalQualityScore": 90,
+          "stars": "★★★★★"
         },
         {
           "rank": 3,
@@ -936,24 +996,29 @@
           },
           "authors": [
             {
-              "name": "유휘운 편저",
-              "books": "《2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).》",
-              "career": "오늘 YES24 자료에서 확인된 《2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).》 저자",
-              "why": "주거·생활법 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
-              "url": "https://www.yes24.com/product/goods/197289012",
-              "verification": "오늘 YES24 자료의 저자명"
+              "name": "주거학연구회",
+              "career": "《안팎에서 본 주거문화》 저자 · 교문사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《안팎에서 본 주거문화》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/1805453",
+              "verification": "YES24 검색 결과의 실제 저자명"
             },
             {
-              "name": "김난도",
-              "books": "《트렌드 코리아 2027》",
-              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
-              "why": "주거·생활법 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
-              "url": "https://www.yes24.com/product/goods/195842609",
-              "verification": "오늘 YES24 자료의 저자명"
+              "name": "마쓰시타 기와",
+              "career": "《주거 인테리어 해부도감》 저자 · 더숲",
+              "why": "YES24에서 이 기획과 인접한 주제의 《주거 인테리어 해부도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/8570026",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "황선종 역",
+              "career": "《주거 인테리어 해부도감》 저자 · 더숲",
+              "why": "YES24에서 이 기획과 인접한 주제의 《주거 인테리어 해부도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/8570026",
+              "verification": "YES24 검색 결과의 실제 저자명"
             }
           ],
-          "author": "유휘운 편저",
-          "bestAuthor": "유휘운 편저",
+          "author": "주거학연구회",
+          "bestAuthor": "주거학연구회",
           "authorBrief": "주거·생활법의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
           "headlineCopy": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
           "marketingStrategy": {
@@ -982,38 +1047,44 @@
             "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
           },
           "scores": {
-            "market": 78,
-            "timing": 76,
-            "difference": 82,
-            "author": 76,
-            "marketing": 80,
-            "longtail": 84
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
           },
-          "score": 80,
+          "score": 94,
           "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
           "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
           "judgment": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
           "similarBooks": [
             {
-              "title": "2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).",
-              "author": "유휘운 편저",
-              "publisher": "지금(도서출판)",
-              "publicationDate": "20261006",
-              "url": "https://www.yes24.com/product/goods/197289012"
+              "title": "안팎에서 본 주거문화",
+              "author": "주거학연구회 저",
+              "publisher": "교문사",
+              "publicationDate": "20040831",
+              "url": "https://www.yes24.com/product/goods/1805453",
+              "matchedQuery": "주거",
+              "verification": "YES24 검색 결과"
             },
             {
-              "title": "트렌드 코리아 2027",
-              "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
-              "publisher": "미래의창",
-              "publicationDate": "20260930",
-              "url": "https://www.yes24.com/product/goods/195842609"
+              "title": "주거 인테리어 해부도감",
+              "author": "마쓰시타 기와 저/황선종 역",
+              "publisher": "더숲",
+              "publicationDate": "20130308",
+              "url": "https://www.yes24.com/product/goods/8570026",
+              "matchedQuery": "주거",
+              "verification": "YES24 검색 결과"
             },
             {
-              "title": "2027 공단기 소방단기 써니 행정법총론 기출문제집",
-              "author": "박준철 편저",
-              "publisher": "공단기(에스티유니타스)",
-              "publicationDate": "20260928",
-              "url": "https://www.yes24.com/product/goods/196557643"
+              "title": "주거해부도감",
+              "author": "마스다 스스무 저/김준균 역",
+              "publisher": "더숲",
+              "publicationDate": "20121205",
+              "url": "https://www.yes24.com/product/goods/8109197",
+              "matchedQuery": "주거",
+              "verification": "YES24 검색 결과"
             }
           ],
           "evidence": [
@@ -1057,7 +1128,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T01:35:20.153Z",
+            "generatedAt": "2026-10-03T01:37:17.741Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1276,7 +1347,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T01:35:31.829Z",
+            "generatedAt": "2026-10-03T01:37:29.370Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -1309,7 +1380,22 @@
               "selectedCount": 0,
               "assessmentSummary": []
             }
-          }
+          },
+          "id": "S3",
+          "problem": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-03T01:35:21.909Z",
+            "queries": [
+              "주거",
+              "주거 생활법"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "historicalQualityScore": 90,
+          "stars": "★★★★★"
         }
       ],
       "cardnewsAutomation": {
