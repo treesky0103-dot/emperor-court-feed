@@ -1,6 +1,495 @@
 {
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "days": [
+    {
+      "date": "2026-10-03",
+      "planDay": "2026-10-03",
+      "planSetId": "zps-20261003-4c888305",
+      "generatedAt": "2026-10-03T00:00:00.050Z",
+      "publishedAt": "2026-10-03T00:00:06.064Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.97",
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 시장·독자·베스트셀러 신호를 바탕으로 독자 문제와 구매 이유가 서로 다른 출판 기획 3선입니다."
+      ],
+      "model": "deterministic-local-no-ai",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "continuity-core-v21583",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-10-02T23:39:45.345Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-10-02T23:39:45.345Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-10-02T23:25:06.310Z",
+        "bestsellerDataDate": "2026-10-02",
+        "stale": true,
+        "checkedAt": "2026-10-03T00:00:00.050Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "rank": 1,
+          "type": "즉시 기획",
+          "field": "문화·라이프",
+          "title": "좋아하는 것을 더 잘 고르는 사람의 기준",
+          "concept": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+          "oneLine": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+          "why": "최근 공개 신호: 이혜정 작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+          "competition": "YES24 자료에 나온 《세네카, 오늘을 빼앗기고 있는 당신에게》·《쇼펜하우어 인생수업 (30만 부 기념 개정증보판)》를 비교 대상으로 삼는다. 추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
+          "reader": "여행·책·공연·음식 등 문화 선택지가 너무 많아 추천을 따라가면서도 내 취향은 선명해지지 않는 독자",
+          "readerNeed": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "marketGap": "추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
+          "differentiation": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+          "diff": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+          "toc": [
+            "추천보다 먼저 내 선택 패턴을 본다",
+            "좋았던 경험을 구체적인 언어로 기록한다",
+            "비슷한 선택을 비교해 기준을 찾는다",
+            "남의 평점과 내 취향을 분리한다",
+            "다음 선택을 위한 취향 지도를 만든다"
+          ],
+          "searchQueries": [
+            "문화",
+            "문화 라이프"
+          ],
+          "bookworthiness": {
+            "durability": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+            "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+            "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "루키우스 안나이우스 세네카",
+              "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+              "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+              "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/192474512",
+              "verification": "오늘 YES24 자료의 저자명"
+            },
+            {
+              "name": "하와이 대저택 편역",
+              "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+              "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+              "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/192474512",
+              "verification": "오늘 YES24 자료의 저자명"
+            }
+          ],
+          "author": "루키우스 안나이우스 세네카",
+          "bestAuthor": "루키우스 안나이우스 세네카",
+          "authorBrief": "문화·라이프의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+          "headlineCopy": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+            "trust": "좋아하는 것을 더 잘 고르는 사람의 기준의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+            "conversion": "무료 정보의 나열이 아니라 “취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "최근 공개 신호: 이혜정 작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세페이지에서 추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+            },
+            "positioning": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+          },
+          "devilsEditor": {
+            "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+          },
+          "scores": {
+            "market": 78,
+            "timing": 76,
+            "difference": 82,
+            "author": 76,
+            "marketing": 80,
+            "longtail": 84
+          },
+          "score": 80,
+          "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+          "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+          "judgment": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+          "similarBooks": [
+            {
+              "title": "세네카, 오늘을 빼앗기고 있는 당신에게",
+              "author": "루키우스 안나이우스 세네카 저/하와이 대저택 편역",
+              "publisher": "논픽션",
+              "publicationDate": "20260701",
+              "url": "https://www.yes24.com/product/goods/192474512"
+            },
+            {
+              "title": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
+              "author": "쇼펜하우어 저/김지민 편",
+              "publisher": "하이스트",
+              "publicationDate": "20240220",
+              "url": "https://www.yes24.com/product/goods/125085536"
+            },
+            {
+              "title": "인생을 위한 최소한의 생각",
+              "author": "신영준,고영성 저",
+              "publisher": "상상스퀘어",
+              "publicationDate": "20260225",
+              "url": "https://www.yes24.com/product/goods/177044720"
+            }
+          ],
+          "evidence": [
+            {
+              "text": "이혜정 작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입 - 팍스경제TV",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xbkVtdF94a0FhZkQ4TmpSNG9nc3BBaF9mZDhKNV9lWVFIdE9LdjljNFdXaU1GZG5hVjA5b3BsNl9XRW5hSXRDc3RET0hLaExOUVZ3VG5jSVVCeUVEclhic29DTE5nYUtD?oc=5"
+            },
+            {
+              "text": "‘창립 10주년’ 맞은 한국저작권보호원, 미래상·추진전략 발표 - 문화일보",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82WGZsZEdWMWlNT1VoMmJ0N2Rrbk9jcnh2T09tdm1VTm1NaVRmdmtNU0tLdDV0QU1vNktnb3ZhRFNOdkllaGlJQy03VEdpcG5D?oc=5"
+            },
+            {
+              "text": "세네카, 오늘을 빼앗기고 있는 당신에게",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/192474512"
+            },
+            {
+              "text": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/125085536"
+            }
+          ],
+          "sourceChannels": [
+            "google-news",
+            "yes24"
+          ],
+          "crossSourceCount": 2,
+          "visualKeywords": [
+            "문화·라이프",
+            "culture",
+            "좋아하는 것을 더 잘 고르는 사람의 기준"
+          ],
+          "fallbackCardComplete": true,
+          "titleAudit": {
+            "status": "continuity-local",
+            "collision": false
+          },
+          "generationMode": "continuity-core-v21583"
+        },
+        {
+          "rank": 2,
+          "type": "6~12개월 선점 기획",
+          "field": "커리어·AI",
+          "title": "대체되지 않는 사람은 일을 이렇게 남긴다",
+          "concept": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.",
+          "oneLine": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.",
+          "why": "최근 공개 신호: 트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+          "competition": "YES24 자료에 나온 《트렌드 코리아 2027》·《문해내공》를 비교 대상으로 삼는다. 도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+          "reader": "AI 도구가 빠르게 들어오는 조직에서 무엇을 배워야 하고 어떤 일을 직접 맡아야 하는지 불안한 직장인",
+          "readerNeed": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+          "marketGap": "도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+          "differentiation": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+          "diff": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+          "toc": [
+            "내 직무가 아니라 내 작업을 쪼개 본다",
+            "AI에 넘겨도 되는 일의 조건을 정한다",
+            "사람이 끝까지 책임져야 할 판단을 찾는다",
+            "성과를 기록해 대체 가능성을 낮춘다",
+            "다음 1년의 학습과 경력 이동을 설계한다"
+          ],
+          "searchQueries": [
+            "커리어",
+            "AI 직장인"
+          ],
+          "bookworthiness": {
+            "durability": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+            "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+            "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김난도",
+              "books": "《트렌드 코리아 2027》",
+              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+              "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/195842609",
+              "verification": "오늘 YES24 자료의 저자명"
+            },
+            {
+              "name": "전미영",
+              "books": "《트렌드 코리아 2027》",
+              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+              "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/195842609",
+              "verification": "오늘 YES24 자료의 저자명"
+            }
+          ],
+          "author": "김난도",
+          "bestAuthor": "김난도",
+          "authorBrief": "커리어·AI의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+          "headlineCopy": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+            "trust": "대체되지 않는 사람은 일을 이렇게 남긴다의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+            "conversion": "무료 정보의 나열이 아니라 “업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "최근 공개 신호: 트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세페이지에서 직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+            },
+            "positioning": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+          },
+          "devilsEditor": {
+            "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+          },
+          "scores": {
+            "market": 78,
+            "timing": 76,
+            "difference": 82,
+            "author": 76,
+            "marketing": 80,
+            "longtail": 84
+          },
+          "score": 80,
+          "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+          "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+          "judgment": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+          "similarBooks": [
+            {
+              "title": "트렌드 코리아 2027",
+              "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+              "publisher": "미래의창",
+              "publicationDate": "20260930",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            },
+            {
+              "title": "문해내공",
+              "author": "신종호,김윤정 저",
+              "publisher": "상상스퀘어",
+              "publicationDate": "20260812",
+              "url": "https://www.yes24.com/product/goods/194182112"
+            }
+          ],
+          "evidence": [
+            {
+              "text": "트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증 - 연합뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dDNaVzlFTTFXelRYRllsQnNGRUxxaHVWQlV1djFvN1ZfbGk5NGt6dmhCY0hDR2dVM2ZERWc2N2lVT1JyMy1uOF90NUthNUxuYUNwdFRVT3BKUXfSAWBBVV95cUxNYWdxM0FPbV9rZUJrcVM4M2lhSFc5RFlKRzVqRlU1U0VUbnNwOUFmX1JIekkxX09mX0xKTkV5d1otVzFHRjNLOVo2WTZyRzM3YXJneldrR05xZFJTakdfbXQ?oc=5"
+            },
+            {
+              "text": "목포시립도서관, 10월 문화의 달 전시…작가 3명 개인전 - AI타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fc0Q3YjQtcFl0NDFrZTEwbzNCN2NlYU9qNnJiYkNjRkJxMGowREZoS3JWc2ZnekQ2bU8xZWJydGZ4MkMwd3FlSjBZWUJ5LTUzbnV6ekNZVXBHNmV1UHdRa3ZwaFN5RkhoZmc?oc=5"
+            },
+            {
+              "text": "트렌드 코리아 2027",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            },
+            {
+              "text": "문해내공",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/194182112"
+            }
+          ],
+          "sourceChannels": [
+            "google-news",
+            "yes24"
+          ],
+          "crossSourceCount": 2,
+          "visualKeywords": [
+            "커리어·AI",
+            "career",
+            "대체되지 않는 사람은 일을 이렇게 남긴다"
+          ],
+          "fallbackCardComplete": true,
+          "titleAudit": {
+            "status": "continuity-local",
+            "collision": false
+          },
+          "generationMode": "continuity-core-v21583"
+        },
+        {
+          "rank": 3,
+          "type": "틈새 기획",
+          "field": "주거·생활법",
+          "title": "주거 문제가 커지기 전에 남겨야 할 것들",
+          "concept": "주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
+          "oneLine": "주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
+          "why": "최근 공개 신호: 48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다. 주거·생활법 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+          "competition": "YES24 자료에 나온 《2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).》·《트렌드 코리아 2027》를 비교 대상으로 삼는다. 법 조항 설명은 많지만 일반인이 문제가 발생한 첫날부터 무엇을 남기고 누구에게 어떤 순서로 묻는지 알려주는 책은 부족하다.",
+          "reader": "공사·하자·임대차·이웃 분쟁처럼 예상하지 못한 주거 문제가 생겼을 때 어디서부터 대응해야 할지 모르는 생활자",
+          "readerNeed": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+          "marketGap": "법 조항 설명은 많지만 일반인이 문제가 발생한 첫날부터 무엇을 남기고 누구에게 어떤 순서로 묻는지 알려주는 책은 부족하다.",
+          "differentiation": "사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+          "diff": "사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+          "toc": [
+            "문제가 생긴 첫날 해야 할 일",
+            "사실과 추측을 분리해 기록한다",
+            "상대방과 기관에 묻는 순서를 정한다",
+            "전문가 도움이 필요한 경계를 판단한다",
+            "내 집의 기록 체계를 평소에 만들어 둔다"
+          ],
+          "searchQueries": [
+            "주거",
+            "주거 생활법"
+          ],
+          "bookworthiness": {
+            "durability": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+            "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+            "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "유휘운 편저",
+              "books": "《2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).》",
+              "career": "오늘 YES24 자료에서 확인된 《2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).》 저자",
+              "why": "주거·생활법 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/197289012",
+              "verification": "오늘 YES24 자료의 저자명"
+            },
+            {
+              "name": "김난도",
+              "books": "《트렌드 코리아 2027》",
+              "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+              "why": "주거·생활법 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+              "url": "https://www.yes24.com/product/goods/195842609",
+              "verification": "오늘 YES24 자료의 저자명"
+            }
+          ],
+          "author": "유휘운 편저",
+          "bestAuthor": "유휘운 편저",
+          "authorBrief": "주거·생활법의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+          "headlineCopy": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+            "trust": "주거 문제가 커지기 전에 남겨야 할 것들의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+            "conversion": "무료 정보의 나열이 아니라 “사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "최근 공개 신호: 48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다. 주거·생활법 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세페이지에서 주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+            },
+            "positioning": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+          },
+          "devilsEditor": {
+            "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+          },
+          "scores": {
+            "market": 78,
+            "timing": 76,
+            "difference": 82,
+            "author": 76,
+            "marketing": 80,
+            "longtail": 84
+          },
+          "score": 80,
+          "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+          "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+          "judgment": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+          "similarBooks": [
+            {
+              "title": "2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).",
+              "author": "유휘운 편저",
+              "publisher": "지금(도서출판)",
+              "publicationDate": "20261006",
+              "url": "https://www.yes24.com/product/goods/197289012"
+            },
+            {
+              "title": "트렌드 코리아 2027",
+              "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+              "publisher": "미래의창",
+              "publicationDate": "20260930",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            },
+            {
+              "title": "2027 공단기 소방단기 써니 행정법총론 기출문제집",
+              "author": "박준철 편저",
+              "publisher": "공단기(에스티유니타스)",
+              "publicationDate": "20260928",
+              "url": "https://www.yes24.com/product/goods/196557643"
+            }
+          ],
+          "evidence": [
+            {
+              "text": "‘48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다 - 동아일보",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hQlJPSnA0elhHVTR4WWZQNlNKUF9RSXFLUVpYQUJZYXNqcEdnNkVXZ1hSV3VvbC0xd1hfZGFxeHhDTzk1bG5ZaEhOVEdWckxlM2FEQ1c0MnVrVXVSV1pHVnpId3h2VVQ1dDB4VV9QS1loT3VodFHSAWZBVV95cUxPbnNwY0NWSURmaEh5b1lfT2xMV0FjdlZQcmNnbVVvTF9PZkYwMmJUMUhneHBkZ0V5ekFyZXlGY3RWbTd4ZFBxaHlHMEJUeWdEdGtPRGd2OWYwaHJ3U0dvTER6MzBWdWc?oc=5"
+            },
+            {
+              "text": "\"분명 사형 집행했는데…\" 약물 두 번 맞고도 살아남은 女 - 한국경제",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTkl0S2hFTmNtaFNYSUhOQW16SXFReGdKQ0I5MGtHdzduaWh1cDh0eGh2T09yOFJFT1JWdW5oMFdTS1V1OS1hbVdxRVIySnZpQl9jaUZuaTVodw?oc=5"
+            },
+            {
+              "text": "2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/197289012"
+            },
+            {
+              "text": "트렌드 코리아 2027",
+              "kind": "YES24 자료",
+              "url": "https://www.yes24.com/product/goods/195842609"
+            }
+          ],
+          "sourceChannels": [
+            "google-news",
+            "yes24"
+          ],
+          "crossSourceCount": 2,
+          "visualKeywords": [
+            "주거·생활법",
+            "home",
+            "주거 문제가 커지기 전에 남겨야 할 것들"
+          ],
+          "fallbackCardComplete": true,
+          "titleAudit": {
+            "status": "continuity-local",
+            "collision": false
+          },
+          "generationMode": "continuity-core-v21583"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "planDay": "2026-10-02",
@@ -5831,7 +6320,7 @@
       ]
     }
   ],
-  "activePlanSetId": "zps-20261002-00edb61f",
+  "activePlanSetId": "zps-20261003-4c888305",
   "discardedDays": [
     {
       "date": "2026-09-29",
