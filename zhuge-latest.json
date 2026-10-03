@@ -3,7 +3,7 @@
   "planDay": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
   "generatedAt": "2026-10-03T00:00:00.050Z",
-  "publishedAt": "2026-10-03T00:10:04.830Z",
+  "publishedAt": "2026-10-03T00:18:05.650Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.97",
   "morningEdition": {
@@ -200,7 +200,111 @@
         "status": "continuity-local",
         "collision": false
       },
-      "generationMode": "continuity-core-v21583"
+      "generationMode": "continuity-core-v21583",
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-03T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "002",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "013",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "037",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "043",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true
+      }
     },
     {
       "rank": 2,
@@ -345,7 +449,111 @@
         "status": "continuity-local",
         "collision": false
       },
-      "generationMode": "continuity-core-v21583"
+      "generationMode": "continuity-core-v21583",
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-03T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "001",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "쪼개 AI에 넘길 일과 사람임질 일을 다시 설계하는 커리어 실전서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "023",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "016",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "036",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "044",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true
+      }
     },
     {
       "rank": 3,
@@ -497,7 +705,118 @@
         "status": "continuity-local",
         "collision": false
       },
-      "generationMode": "continuity-core-v21583"
+      "generationMode": "continuity-core-v21583",
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-03T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "주거 문제가 커지기 전에 남겨야 할 것들",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "001",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "016",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "신호: 48위’ 베네수와 졸전 끝 0-0 김민재는 축구화 집어던졌다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "023",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "014",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "038",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "048",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true
+      }
     }
-  ]
+  ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261003-4c888305",
+    "file": "cardnews/2026-10-03.json",
+    "cardCount": 6
+  }
 }
