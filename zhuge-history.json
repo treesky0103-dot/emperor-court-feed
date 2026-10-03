@@ -6,7 +6,7 @@
       "planDay": "2026-10-03",
       "planSetId": "zps-20261003-4c888305",
       "generatedAt": "2026-10-03T10:37:17.222Z",
-      "publishedAt": "2026-10-03T14:01:57.553Z",
+      "publishedAt": "2026-10-03T14:10:18.718Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.104",
       "morningEdition": {
@@ -222,7 +222,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T14:01:01.002Z",
+            "generatedAt": "2026-10-03T14:10:13.599Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -472,7 +472,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T14:01:13.431Z",
+            "generatedAt": "2026-10-03T14:10:15.536Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -480,89 +480,7 @@
             "deadlineGuaranteed": true,
             "deadlineAtKst": "09:25",
             "qualityTier": "continuity",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 1,
-              "preShortlistCount": 1,
-              "eligibleCount": 1,
-              "scannedCount": 1,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 7,
-              "shortlistCount": 1,
-              "assessedCount": 1,
-              "selectedCount": 1,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": {
-                "used": true,
-                "raw": 23,
-                "checked": 14,
-                "validated": 6,
-                "selected": 1,
-                "diag": {
-                  "nyt": "auth-401:208",
-                  "ai": "ok:designing personal taste / building own style guide / cultivating preference framework",
-                  "googlebooks": [
-                    "specific:data numbers=0(cooldown)",
-                    "ai:designing personal taste=0(cooldown)",
-                    "ai:building own style guide=0(cooldown)"
-                  ],
-                  "openlibrary": [
-                    "specific:data numbers=26",
-                    "ai:designing personal taste=20",
-                    "ai:building own style guide=27"
-                  ],
-                  "design": "spine:30 arena:40 reedsy:24",
-                  "rejected": {
-                    "offTopic": 336,
-                    "style-block": 8,
-                    "low-quality": 8
-                  },
-                  "rawCounts": {
-                    "specific": 26,
-                    "nyt": 208,
-                    "ai": 47,
-                    "design": 94
-                  }
-                },
-                "rejected": {
-                  "badTitle": 0,
-                  "proxyHost": 0,
-                  "http": 0,
-                  "fetch": 8,
-                  "other": 0
-                }
-              },
-              "assessmentSummary": [
-                {
-                  "title": "penn state teresa urrea",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 45,
-                  "genre": 60,
-                  "design": 85,
-                  "score": 74,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 156524,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            },
+            "diagnostics": {},
             "sourceRevision": "zcr-94bf5eda"
           },
           "id": "S1",
