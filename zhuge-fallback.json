@@ -3,9 +3,9 @@
   "planDay": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
   "generatedAt": "2026-10-03T01:37:13.873Z",
-  "publishedAt": "2026-10-03T04:00:57.474Z",
+  "publishedAt": "2026-10-03T08:54:42.505Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.98",
+  "publisherVersion": "v2.15.100",
   "morningEdition": {
     "day": "2026-10-03",
     "planSetId": "zps-20261003-4c888305",
@@ -16,10 +16,11 @@
     ],
     "generationMode": "historical-high-quality-sealed-upgrade",
     "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
-    "hqReady": true,
+    "hqReady": false,
     "sealedAt": "2026-10-03T00:10:00.001Z",
-    "build": "v2.15.98",
-    "hqUpgradedAt": "2026-10-03T01:37:14.176Z"
+    "build": "v2.15.100",
+    "hqUpgradedAt": "2026-10-03T01:37:14.176Z",
+    "hqVerificationError": "strict-hq-gate-failed"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
@@ -216,7 +217,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T04:00:46.208Z",
+        "generatedAt": "2026-10-03T08:54:40.437Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -241,10 +242,10 @@
           ]
         },
         "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
-        "provider": "rule-fallback",
+        "provider": "deterministic-local",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallbackReason": "deadline-guarantee-no-ai",
         "cards": [
           {
             "index": 1,
@@ -312,7 +313,11 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ]
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-1bd8ab30"
       },
       "coverRefs": [
         {
@@ -460,14 +465,18 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T04:00:47.447Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
-        "diagnostics": {}
+        "diagnostics": {
+          "deadlineApprovedFallback": 2,
+          "noExternalCalls": true
+        },
+        "sourceRevision": "zcr-1bd8ab30"
       },
       "id": "S1",
       "problem": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
@@ -650,7 +659,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T04:00:46.208Z",
+        "generatedAt": "2026-10-03T08:54:40.437Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -675,10 +684,10 @@
           ]
         },
         "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다",
-        "provider": "rule-fallback",
+        "provider": "deterministic-local",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallbackReason": "deadline-guarantee-no-ai",
         "cards": [
           {
             "index": 1,
@@ -746,7 +755,11 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ]
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-1bd8ab30"
       },
       "coverRefs": [
         {
@@ -870,14 +883,18 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T04:00:50.421Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
-        "diagnostics": {}
+        "diagnostics": {
+          "deadlineApprovedFallback": 3,
+          "noExternalCalls": true
+        },
+        "sourceRevision": "zcr-1bd8ab30"
       },
       "id": "S2",
       "problem": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
@@ -1060,7 +1077,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T04:00:46.208Z",
+        "generatedAt": "2026-10-03T08:54:40.437Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1085,10 +1102,10 @@
           ]
         },
         "bookTitle": "주거 문제가 커지기 전에 남겨야 할 것들",
-        "provider": "rule-fallback",
+        "provider": "deterministic-local",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallbackReason": "deadline-guarantee-no-ai",
         "cards": [
           {
             "index": 1,
@@ -1156,7 +1173,11 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ]
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-1bd8ab30"
       },
       "coverRefs": [
         {
@@ -1280,14 +1301,18 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T04:00:53.606Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
-        "diagnostics": {}
+        "diagnostics": {
+          "deadlineApprovedFallback": 3,
+          "noExternalCalls": true
+        },
+        "sourceRevision": "zcr-1bd8ab30"
       },
       "id": "S3",
       "problem": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
