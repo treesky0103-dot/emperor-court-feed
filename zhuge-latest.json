@@ -3,9 +3,9 @@
   "planDay": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
   "generatedAt": "2026-10-03T10:37:17.222Z",
-  "publishedAt": "2026-10-03T14:10:55.071Z",
+  "publishedAt": "2026-10-03T14:50:51.734Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.104",
+  "publisherVersion": "v2.15.106",
   "morningEdition": {
     "day": "2026-10-03",
     "planSetId": "zps-20261003-4c888305",
@@ -18,7 +18,7 @@
     "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "hqReady": true,
     "sealedAt": "2026-10-03T00:10:00.001Z",
-    "build": "v2.15.104",
+    "build": "v2.15.106",
     "hqUpgradedAt": "2026-10-03T10:37:17.282Z",
     "hqVerificationError": "",
     "contentRevision": "zcr-94bf5eda",
@@ -219,7 +219,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T14:10:13.599Z",
+        "generatedAt": "2026-10-03T14:50:46.847Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -244,76 +244,76 @@
           ]
         },
         "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "궁금증",
-            "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+            "headline": "내가 진짜 좋아하는 걸\n고르는 기준",
             "body": "",
             "accent": "yellow",
             "sceneId": "002",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "현상",
-            "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+            "headline": "추천만 따라가다 보면 내 취향이 흐려진다",
             "body": "",
             "accent": "yellow",
             "sceneId": "013",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "analysis",
             "beat": "원리",
-            "headline": "작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입.",
+            "headline": "취향은 반복된 경험을 비교해 구조화될 때 선명해진다",
             "body": "",
             "accent": "yellow",
             "sceneId": "020",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "설명",
-            "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+            "headline": "여행 일지·독서 메모·공연 감상표를 기록하고 점수화하면 선택 기준이 눈에 보인다",
             "body": "",
             "accent": "yellow",
             "sceneId": "011",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "통찰",
-            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "headline": "좋아한다는 건 남의 평이 아니라 내 기록이 만든 규칙이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "037",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "핵심 메시지",
-            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "headline": "내 선택은 기록에서 나온 규칙이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "043",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
         "sourceRevision": "zcr-94bf5eda"
@@ -469,7 +469,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:10:15.536Z",
+        "generatedAt": "2026-10-03T14:50:42.771Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -953,7 +953,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:10:20.805Z",
+        "generatedAt": "2026-10-03T14:50:48.168Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -962,74 +962,37 @@
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
         "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 0,
-          "preShortlistCount": 0,
-          "eligibleCount": 0,
-          "scannedCount": 0,
-          "validationRejected": {
+          "finalSlotRepair105": true,
+          "queries": [
+            "artificial intelligence career work",
+            "artificial intelligence",
+            "parenting education child development learning books",
+            "커리어·AI nonfiction books",
+            "practical nonfiction",
+            "popular nonfiction books"
+          ],
+          "google": [
+            "artificial intelligence career work:0(HTTP_429)",
+            "artificial intelligence:0(cooldown)",
+            "parenting education child development learning books:0(cooldown)",
+            "커리어·AI nonfiction books:0(cooldown)"
+          ],
+          "openlibrary": [
+            "artificial intelligence career work:6",
+            "artificial intelligence:23",
+            "parenting education child development learning books:20",
+            "커리어·AI nonfiction books:0"
+          ],
+          "design": "spine:30 arena:40 reedsy:24",
+          "validated": 8,
+          "gemma": 0,
+          "rejected": {
             "badTitle": 0,
             "proxyHost": 0,
             "http": 0,
-            "fetch": 0,
+            "fetch": 12,
             "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 0,
-          "assessedCount": 0,
-          "selectedCount": 2,
-          "metadataHqRecovery": 2,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 6,
-            "selected": 2,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:Career Redesign with AI / Job Automation and Career / Future of Work Design",
-              "googlebooks": [
-                "specific:artificial intelligence career work=0(cooldown)",
-                "specific:artificial intelligence=0(cooldown)",
-                "ai:Career Redesign with AI=0(cooldown)",
-                "ai:Job Automation and Career=0(cooldown)",
-                "specific:career work learning education=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:artificial intelligence career work=6",
-                "specific:artificial intelligence=27",
-                "ai:Career Redesign with AI=0",
-                "ai:Job Automation and Career=11",
-                "specific:career work learning education=19"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "offTopic": 302,
-                "style-block": 4,
-                "low-quality": 11
-              },
-              "rawCounts": {
-                "specific": 52,
-                "nyt": 208,
-                "ai": 11,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 8,
-              "other": 0
-            }
-          },
-          "assessmentSummary": []
+          }
         },
         "sourceRevision": "zcr-94bf5eda"
       },
@@ -1474,8 +1437,8 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:01:44.889Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "generatedAt": "2026-10-03T14:20:17.233Z",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -1483,74 +1446,14 @@
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
         "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 0,
-          "preShortlistCount": 0,
-          "eligibleCount": 0,
-          "scannedCount": 0,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 8,
-          "shortlistCount": 0,
-          "assessedCount": 0,
-          "selectedCount": 1,
-          "metadataHqRecovery": 1,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 8,
-            "selected": 1,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:preventing housing disputes / resolving household conflicts / home life problem solving",
-              "googlebooks": [
-                "specific:psychology emotions decluttering=0(cooldown)",
-                "specific:psychology emotions=0(cooldown)",
-                "ai:preventing housing disputes=0(cooldown)",
-                "ai:resolving household conflicts=0(cooldown)",
-                "specific:decluttering writing=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:psychology emotions decluttering=3",
-                "specific:psychology emotions=27",
-                "specific:decluttering writing=2",
-                "ai:resolving household conflicts=5",
-                "ai:preventing housing disputes=19"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "offTopic": 317,
-                "style-block": 9,
-                "low-quality": 7
-              },
-              "rawCounts": {
-                "specific": 32,
-                "nyt": 208,
-                "ai": 24,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 0,
-              "other": 0
-            }
-          },
-          "assessmentSummary": []
+          "candidateBank": true,
+          "reusableCandidates": 8,
+          "metadataHqRecovery": 0,
+          "backfilled": 3,
+          "crossPlanReused": 0,
+          "noGemma": true,
+          "deadlineApprovedFallback": 2,
+          "noExternalCalls": true
         },
         "sourceRevision": "zcr-94bf5eda"
       },
