@@ -9,13 +9,13 @@
     "대체되지 않는 사람은 일을 이렇게 남긴다",
     "주거 문제가 커지기 전에 남겨야 할 것들"
   ],
-  "provider": "partial-mixed",
-  "generatedAt": "2026-10-03T14:10:13.612Z",
+  "provider": "plan-repair-only:groq",
+  "generatedAt": "2026-10-03T14:50:46.891Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-03T14:10:13.599Z",
+      "generatedAt": "2026-10-03T14:50:46.847Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,76 +40,76 @@
         ]
       },
       "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "궁금증",
-          "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "headline": "내가 진짜 좋아하는 걸\n고르는 기준",
           "body": "",
           "accent": "yellow",
           "sceneId": "002",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "현상",
-          "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+          "headline": "추천만 따라가다 보면 내 취향이 흐려진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "013",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "analysis",
           "beat": "원리",
-          "headline": "작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입.",
+          "headline": "취향은 반복된 경험을 비교해 구조화될 때 선명해진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "020",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "설명",
-          "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+          "headline": "여행 일지·독서 메모·공연 감상표를 기록하고 점수화하면 선택 기준이 눈에 보인다",
           "body": "",
           "accent": "yellow",
           "sceneId": "011",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "통찰",
-          "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+          "headline": "좋아한다는 건 남의 평이 아니라 내 기록이 만든 규칙이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "037",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "핵심 메시지",
-          "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+          "headline": "내 선택은 기록에서 나온 규칙이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "043",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
       "sourceRevision": "zcr-94bf5eda"
