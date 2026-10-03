@@ -6,9 +6,9 @@
       "planDay": "2026-10-03",
       "planSetId": "zps-20261003-4c888305",
       "generatedAt": "2026-10-03T10:37:17.222Z",
-      "publishedAt": "2026-10-03T12:17:39.937Z",
+      "publishedAt": "2026-10-03T13:21:52.380Z",
       "publisher": "emperor-court-worker",
-      "publisherVersion": "v2.15.102",
+      "publisherVersion": "v2.15.103",
       "morningEdition": {
         "day": "2026-10-03",
         "planSetId": "zps-20261003-4c888305",
@@ -21,7 +21,7 @@
         "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
         "hqReady": true,
         "sealedAt": "2026-10-03T00:10:00.001Z",
-        "build": "v2.15.102",
+        "build": "v2.15.103",
         "hqUpgradedAt": "2026-10-03T10:37:17.282Z",
         "hqVerificationError": "",
         "contentRevision": "zcr-94bf5eda",
@@ -472,8 +472,8 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T10:37:27.303Z",
-            "model": "deterministic-approved-local",
+            "generatedAt": "2026-10-03T13:21:42.470Z",
+            "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
             "upgradePending": true,
@@ -503,6 +503,7 @@
               "shortlistCount": 1,
               "assessedCount": 1,
               "selectedCount": 1,
+              "metadataHqRecovery": 0,
               "assessmentSummary": [
                 {
                   "title": "penn state teresa urrea",
@@ -520,9 +521,7 @@
                   "error": "",
                   "rawPreview": ""
                 }
-              ],
-              "deadlineApprovedFallback": 2,
-              "noExternalCalls": true
+              ]
             },
             "sourceRevision": "zcr-94bf5eda"
           },
@@ -935,8 +934,8 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T10:37:29.986Z",
-            "model": "deterministic-approved-local",
+            "generatedAt": "2026-10-03T13:21:45.529Z",
+            "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
             "upgradePending": true,
@@ -966,9 +965,8 @@
               "shortlistCount": 0,
               "assessedCount": 0,
               "selectedCount": 0,
-              "assessmentSummary": [],
-              "deadlineApprovedFallback": 3,
-              "noExternalCalls": true
+              "metadataHqRecovery": 0,
+              "assessmentSummary": []
             },
             "sourceRevision": "zcr-94bf5eda"
           },
@@ -1381,8 +1379,8 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T10:37:32.529Z",
-            "model": "deterministic-approved-local",
+            "generatedAt": "2026-10-03T13:21:48.666Z",
+            "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": false,
             "upgradePending": true,
@@ -1412,9 +1410,7 @@
               "shortlistCount": 0,
               "assessedCount": 0,
               "selectedCount": 0,
-              "assessmentSummary": [],
-              "deadlineApprovedFallback": 3,
-              "noExternalCalls": true
+              "assessmentSummary": []
             },
             "sourceRevision": "zcr-94bf5eda"
           },
