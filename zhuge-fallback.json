@@ -3,9 +3,9 @@
   "planDay": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
   "generatedAt": "2026-10-03T10:37:17.222Z",
-  "publishedAt": "2026-10-03T13:30:57.319Z",
+  "publishedAt": "2026-10-03T14:01:07.228Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.103",
+  "publisherVersion": "v2.15.104",
   "morningEdition": {
     "day": "2026-10-03",
     "planSetId": "zps-20261003-4c888305",
@@ -18,7 +18,7 @@
     "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "hqReady": true,
     "sealedAt": "2026-10-03T00:10:00.001Z",
-    "build": "v2.15.103",
+    "build": "v2.15.104",
     "hqUpgradedAt": "2026-10-03T10:37:17.282Z",
     "hqVerificationError": "",
     "contentRevision": "zcr-94bf5eda",
@@ -469,7 +469,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T13:30:48.996Z",
+        "generatedAt": "2026-10-03T14:01:06.114Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -932,7 +932,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T13:30:53.212Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -963,7 +963,9 @@
           "assessedCount": 0,
           "selectedCount": 0,
           "metadataHqRecovery": 0,
-          "assessmentSummary": []
+          "assessmentSummary": [],
+          "deadlineApprovedFallback": 3,
+          "noExternalCalls": true
         },
         "sourceRevision": "zcr-94bf5eda"
       },
@@ -1377,7 +1379,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T13:30:55.856Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -1408,7 +1410,9 @@
           "assessedCount": 0,
           "selectedCount": 0,
           "metadataHqRecovery": 0,
-          "assessmentSummary": []
+          "assessmentSummary": [],
+          "deadlineApprovedFallback": 3,
+          "noExternalCalls": true
         },
         "sourceRevision": "zcr-94bf5eda"
       },
