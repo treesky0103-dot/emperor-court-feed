@@ -1,21 +1,21 @@
 {
   "day": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
-  "sourceRevision": "zcr-1bd8ab30",
+  "sourceRevision": "zcr-94bf5eda",
   "version": "v2.15.24-cardnews-3styles",
-  "signature": "0e833f6dfe",
+  "signature": "61bdbe0f80",
   "planTitles": [
     "좋아하는 것을 더 잘 고르는 사람의 기준",
     "대체되지 않는 사람은 일을 이렇게 남긴다",
     "주거 문제가 커지기 전에 남겨야 할 것들"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-03T08:54:40.437Z",
+  "provider": "none",
+  "generatedAt": "2026-10-03T10:37:20.278Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-03T08:54:40.437Z",
+      "generatedAt": "2026-10-03T10:37:20.223Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,10 +40,10 @@
         ]
       },
       "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -112,15 +112,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
-      "sourceRevision": "zcr-1bd8ab30"
+      "sourceRevision": "zcr-94bf5eda"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-03T08:54:40.437Z",
+      "generatedAt": "2026-10-03T10:37:20.223Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,10 +142,10 @@
         ]
       },
       "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -217,15 +214,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
-      "sourceRevision": "zcr-1bd8ab30"
+      "sourceRevision": "zcr-94bf5eda"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-03T08:54:40.437Z",
+      "generatedAt": "2026-10-03T10:37:20.223Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,10 +244,10 @@
         ]
       },
       "bookTitle": "주거 문제가 커지기 전에 남겨야 할 것들",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -322,10 +316,7 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
-      "sourceRevision": "zcr-1bd8ab30"
+      "sourceRevision": "zcr-94bf5eda"
     }
   ]
 }
