@@ -3,9 +3,9 @@
   "planDay": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
   "generatedAt": "2026-10-03T00:00:00.050Z",
-  "publishedAt": "2026-10-03T01:01:41.936Z",
+  "publishedAt": "2026-10-03T01:35:24.096Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.97",
+  "publisherVersion": "v2.15.98",
   "morningEdition": {
     "day": "2026-10-03",
     "planSetId": "zps-20261003-4c888305",
@@ -204,7 +204,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T01:00:54.098Z",
+        "generatedAt": "2026-10-03T01:35:20.153Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -448,7 +448,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T01:00:59.820Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -495,7 +495,9 @@
               "error": "",
               "rawPreview": ""
             }
-          ]
+          ],
+          "deadlineApprovedFallback": 2,
+          "noExternalCalls": true
         }
       }
     },
@@ -646,7 +648,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T01:00:54.098Z",
+        "generatedAt": "2026-10-03T01:35:20.153Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -866,7 +868,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T01:01:02.487Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -896,7 +898,9 @@
           "shortlistCount": 0,
           "assessedCount": 0,
           "selectedCount": 0,
-          "assessmentSummary": []
+          "assessmentSummary": [],
+          "deadlineApprovedFallback": 3,
+          "noExternalCalls": true
         }
       }
     },
@@ -1054,7 +1058,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-03T01:00:54.098Z",
+        "generatedAt": "2026-10-03T01:35:20.153Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1274,7 +1278,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-03T01:01:05.411Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "model": "deterministic-approved-local",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -1304,7 +1308,9 @@
           "shortlistCount": 0,
           "assessedCount": 0,
           "selectedCount": 0,
-          "assessmentSummary": []
+          "assessmentSummary": [],
+          "deadlineApprovedFallback": 3,
+          "noExternalCalls": true
         }
       }
     }
