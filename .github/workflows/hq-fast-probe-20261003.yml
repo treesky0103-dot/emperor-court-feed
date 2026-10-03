@@ -1,0 +1,33 @@
+name: HQ Fast Probe 2026-10-03
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/hq-fast-probe-20261003.yml'
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Fast probe
+        shell: bash
+        run: |
+          set +e
+          BASE="https://emperor-court-gemini.memorywithu.workers.dev"
+          C="curl -sS --connect-timeout 5 --max-time 12 --retry 1 -H Cache-Control:no-cache"
+          echo "=== VERSION ==="
+          $C "$BASE/version?t=$(date +%s)" | tee /tmp/version.json
+          echo
+          VERSION=$(jq -r '.version // empty' /tmp/version.json 2>/dev/null)
+          echo "LIVE_VERSION=$VERSION"
+          echo "=== HQ REFRESH ==="
+          $C -X POST "$BASE/zhuge-hq-refresh?release=$VERSION&t=$(date +%s)" | tee /tmp/refresh.json
+          echo
+          sleep 3
+          echo "=== HEALTH ==="
+          $C "$BASE/morning-health?t=$(date +%s)" | jq -c '{version,build,day,planSetId,plans,cardnews,covers,morningEdition}'
+          echo "=== CHATGPT ==="
+          $C "$BASE/zhuge-plan?ensure=0&quality=hq&surface=chatgpt&t=$(date +%s)" | jq -c '{ok,pending,hqOnly,qualityContract,currentDay,displayDay,todayHq,holdLastVerifiedHq,planSetId,contentRevision,publisherVersion,generationMode,model,titles:(.threePlans.plans // .plans // [] | map(.title))}'
+          echo "=== BUBBLE ==="
+          $C "$BASE/zhuge-plan?ensure=0&quality=hq&surface=bubble&t=$(date +%s)" | jq -c '{ok,pending,hqOnly,qualityContract,currentDay,displayDay,todayHq,holdLastVerifiedHq,planSetId,contentRevision,publisherVersion,generationMode,model,titles:(.threePlans.plans // .plans // [] | map(.title))}'
