@@ -5,10 +5,10 @@
       "date": "2026-10-03",
       "planDay": "2026-10-03",
       "planSetId": "zps-20261003-4c888305",
-      "generatedAt": "2026-10-03T01:37:13.873Z",
-      "publishedAt": "2026-10-03T08:54:44.113Z",
+      "generatedAt": "2026-10-03T10:37:17.222Z",
+      "publishedAt": "2026-10-03T10:37:25.185Z",
       "publisher": "emperor-court-worker",
-      "publisherVersion": "v2.15.100",
+      "publisherVersion": "v2.15.101",
       "morningEdition": {
         "day": "2026-10-03",
         "planSetId": "zps-20261003-4c888305",
@@ -19,11 +19,13 @@
         ],
         "generationMode": "historical-high-quality-sealed-upgrade",
         "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
-        "hqReady": false,
+        "hqReady": true,
         "sealedAt": "2026-10-03T00:10:00.001Z",
-        "build": "v2.15.100",
-        "hqUpgradedAt": "2026-10-03T01:37:14.176Z",
-        "hqVerificationError": "strict-hq-gate-failed"
+        "build": "v2.15.101",
+        "hqUpgradedAt": "2026-10-03T10:37:17.282Z",
+        "hqVerificationError": "",
+        "contentRevision": "zcr-94bf5eda",
+        "hqVerifiedBy": "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
       },
       "title": "제갈량의 출판 기획 3선",
       "intro": [
@@ -33,12 +35,12 @@
       "pipeline": "v2.15.71-historical-high-quality-preserve",
       "generationMode": "historical-high-quality-sealed-upgrade",
       "generationLabel": "",
-      "sourceSnapshotAt": "2026-10-03T01:37:13.821Z",
+      "sourceSnapshotAt": "2026-10-03T10:37:17.172Z",
       "inputFreshness": {
         "fresh": false,
         "newsFresh": false,
         "bestsellerFresh": true,
-        "newsUpdatedAt": "2026-10-03T00:40:19.419Z",
+        "newsUpdatedAt": "2026-10-03T09:39:05.434Z",
         "staleAdvisors": [
           "sima",
           "zhou",
@@ -50,7 +52,7 @@
         "bestsellerUpdatedAt": "2026-10-03T00:01:01.743Z",
         "bestsellerDataDate": "2026-10-02",
         "stale": true,
-        "checkedAt": "2026-10-03T01:37:14.138Z",
+        "checkedAt": "2026-10-03T10:37:17.247Z",
         "policy": "confirm-and-mark",
         "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
       },
@@ -186,19 +188,19 @@
               "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xbkVtdF94a0FhZkQ4TmpSNG9nc3BBaF9mZDhKNV9lWVFIdE9LdjljNFdXaU1GZG5hVjA5b3BsNl9XRW5hSXRDc3RET0hLaExOUVZ3VG5jSVVCeUVEclhic29DTE5nYUtD?oc=5"
             },
             {
+              "text": "산업정책으로 점수 따고, 부동산으로 점수 잃다 [2026 신뢰도 조사] - 시사IN",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NRkFsTlo2c2h1SEN2eHd4cVFXMW5NOEtFYkhydi1GQmo0VEZKbVk3Y2ZCUDhKUG9EX3NZVVJ3T2M0dVlVNHIxR29XUkFzVjQ2Ty1uZ0VVaFZ0ekxzX2pyNFlQTXpMWC1PRVE?oc=5"
+            },
+            {
               "text": "‘창립 10주년’ 맞은 한국저작권보호원, 미래상·추진전략 발표 - 문화일보",
               "kind": "뉴스 자료",
               "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82WGZsZEdWMWlNT1VoMmJ0N2Rrbk9jcnh2T09tdm1VTm1NaVRmdmtNU0tLdDV0QU1vNktnb3ZhRFNOdkllaGlJQy03VEdpcG5D?oc=5"
             },
             {
-              "text": "세네카, 오늘을 빼앗기고 있는 당신에게",
-              "kind": "YES24 자료",
-              "url": "https://www.yes24.com/product/goods/192474512"
-            },
-            {
-              "text": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
-              "kind": "YES24 자료",
-              "url": "https://www.yes24.com/product/goods/125085536"
+              "text": "靑 정책실장에 하준경…경제 안정·사회정책 강화 - 연합뉴스TV",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEc3Z3SzUzcTVwNWVHb0ktNFBoei1sOE1JVFhQeFhEUVNWTGFBZFNzcU8xQzdvV3pFRkZ5bHM2a0pWc0ZDYUEtQWdybGZWcTdzaTEtTGFWQktMeGNkdV9zNXZJc2NOYUU?oc=5"
             }
           ],
           "sourceChannels": [
@@ -216,11 +218,11 @@
             "status": "continuity-local",
             "collision": false
           },
-          "generationMode": "continuity-core-v21583",
+          "generationMode": "historical-high-quality-sealed-upgrade",
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T08:54:40.437Z",
+            "generatedAt": "2026-10-03T10:37:20.223Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -245,10 +247,10 @@
               ]
             },
             "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -317,10 +319,7 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
-            "sourceRevision": "zcr-1bd8ab30"
+            "sourceRevision": "zcr-94bf5eda"
           },
           "coverRefs": [
             {
@@ -467,7 +466,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T04:00:47.447Z",
+            "generatedAt": "2026-10-03T01:00:59.820Z",
             "model": "deterministic-approved-local",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -476,10 +475,49 @@
             "deadlineAtKst": "09:25",
             "qualityTier": "continuity",
             "diagnostics": {
+              "rawFound": 30,
+              "sourceCounts": {
+                "bookcoverarchive": 0,
+                "spine": 30,
+                "googlebooks": 0,
+                "metmuseum": 0
+              },
+              "poolCount": 1,
+              "preShortlistCount": 1,
+              "eligibleCount": 1,
+              "scannedCount": 1,
+              "validationRejected": {
+                "badTitle": 0,
+                "proxyHost": 0,
+                "http": 0,
+                "fetch": 0,
+                "other": 0
+              },
+              "validatedCount": 1,
+              "shortlistCount": 1,
+              "assessedCount": 1,
+              "selectedCount": 1,
+              "assessmentSummary": [
+                {
+                  "title": "penn state teresa urrea",
+                  "source": "spine",
+                  "status": "ok",
+                  "parseStatus": "parsed",
+                  "slot": "genre",
+                  "topic": 45,
+                  "genre": 60,
+                  "design": 85,
+                  "score": 74,
+                  "selected": true,
+                  "inputMode": "base64-image+messages",
+                  "imageBytes": 156524,
+                  "error": "",
+                  "rawPreview": ""
+                }
+              ],
               "deadlineApprovedFallback": 2,
               "noExternalCalls": true
-            },
-            "sourceRevision": "zcr-1bd8ab30"
+            }
           },
           "id": "S1",
           "problem": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
@@ -495,7 +533,9 @@
             "errors": []
           },
           "historicalQualityScore": 90,
-          "stars": "★★★★★"
+          "stars": "★★★★★",
+          "qualityTier": "hq",
+          "upgradePending": false
         },
         {
           "rank": 2,
@@ -623,24 +663,24 @@
           ],
           "evidence": [
             {
-              "text": "트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증 - 연합뉴스",
+              "text": "AI면접부터 마케팅까지…KT ‘사장이지’, 소상공인 경영 지원 서비스 확대 - 인공지능신문",
               "kind": "뉴스 자료",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dDNaVzlFTTFXelRYRllsQnNGRUxxaHVWQlV1djFvN1ZfbGk5NGt6dmhCY0hDR2dVM2ZERWc2N2lVT1JyMy1uOF90NUthNUxuYUNwdFRVT3BKUXfSAWBBVV95cUxNYWdxM0FPbV9rZUJrcVM4M2lhSFc5RFlKRzVqRlU1U0VUbnNwOUFmX1JIekkxX09mX0xKTkV5d1otVzFHRjNLOVo2WTZyRzM3YXJneldrR05xZFJTakdfbXQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BU1dRWXA3bWJLbFRhMGJoN0ZzRGRSLTNKTlVkYWs1S3Eta3JOXzU2M0lqYXNNTklVYUNvLVMtLUhQcTY1M2xlWHVEb3MxUlJtdmU1bERyWWc1YjJ3OG1UbDFWLUhTckE?oc=5"
             },
             {
-              "text": "목포시립도서관, 10월 문화의 달 전시…작가 3명 개인전 - AI타임스",
+              "text": "“AI 저작권부터 특허 포트폴리오까지”... 미래 IP 연구인재들이 던진 ‘새로운 해법’ - 특허뉴스",
               "kind": "뉴스 자료",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fc0Q3YjQtcFl0NDFrZTEwbzNCN2NlYU9qNnJiYkNjRkJxMGowREZoS3JWc2ZnekQ2bU8xZWJydGZ4MkMwd3FlSjBZWUJ5LTUzbnV6ekNZVXBHNmV1UHdRa3ZwaFN5RkhoZmc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBb1VHc0N1Q3Vtak5nbGF5WlBKZWZ1WWJ6UmRKUnR4ekU3NDNqeHR3Wkpkb01nRk94VGRzZDFRSHRaaFllT19uWg?oc=5"
             },
             {
-              "text": "트렌드 코리아 2027",
-              "kind": "YES24 자료",
-              "url": "https://www.yes24.com/product/goods/195842609"
+              "text": "부사관, 인생 커리어를 설계하다! — 정진웅 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/197222362"
             },
             {
-              "text": "문해내공",
-              "kind": "YES24 자료",
-              "url": "https://www.yes24.com/product/goods/194182112"
+              "text": "제3의 면접, 평판조회 — 커리어케어 C·LENS 센터 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/196884130"
             }
           ],
           "sourceChannels": [
@@ -658,11 +698,11 @@
             "status": "continuity-local",
             "collision": false
           },
-          "generationMode": "continuity-core-v21583",
+          "generationMode": "historical-high-quality-sealed-upgrade",
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T08:54:40.437Z",
+            "generatedAt": "2026-10-03T10:37:20.223Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -687,10 +727,10 @@
               ]
             },
             "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -759,10 +799,7 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
-            "sourceRevision": "zcr-1bd8ab30"
+            "sourceRevision": "zcr-94bf5eda"
           },
           "coverRefs": [
             {
@@ -885,7 +922,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T04:00:50.421Z",
+            "generatedAt": "2026-10-03T01:01:02.487Z",
             "model": "deterministic-approved-local",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -894,10 +931,32 @@
             "deadlineAtKst": "09:25",
             "qualityTier": "continuity",
             "diagnostics": {
+              "rawFound": 30,
+              "sourceCounts": {
+                "bookcoverarchive": 0,
+                "spine": 30,
+                "googlebooks": 0,
+                "metmuseum": 0
+              },
+              "poolCount": 0,
+              "preShortlistCount": 0,
+              "eligibleCount": 0,
+              "scannedCount": 0,
+              "validationRejected": {
+                "badTitle": 0,
+                "proxyHost": 0,
+                "http": 0,
+                "fetch": 0,
+                "other": 0
+              },
+              "validatedCount": 0,
+              "shortlistCount": 0,
+              "assessedCount": 0,
+              "selectedCount": 0,
+              "assessmentSummary": [],
               "deadlineApprovedFallback": 3,
               "noExternalCalls": true
-            },
-            "sourceRevision": "zcr-1bd8ab30"
+            }
           },
           "id": "S2",
           "problem": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
@@ -913,7 +972,9 @@
             "errors": []
           },
           "historicalQualityScore": 90,
-          "stars": "★★★★★"
+          "stars": "★★★★★",
+          "qualityTier": "hq",
+          "upgradePending": false
         },
         {
           "rank": 3,
@@ -1041,29 +1102,29 @@
           ],
           "evidence": [
             {
-              "text": "‘48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다 - 동아일보",
-              "kind": "뉴스 자료",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hQlJPSnA0elhHVTR4WWZQNlNKUF9RSXFLUVpYQUJZYXNqcEdnNkVXZ1hSV3VvbC0xd1hfZGFxeHhDTzk1bG5ZaEhOVEdWckxlM2FEQ1c0MnVrVXVSV1pHVnpId3h2VVQ1dDB4VV9QS1loT3VodFHSAWZBVV95cUxPbnNwY0NWSURmaEh5b1lfT2xMV0FjdlZQcmNnbVVvTF9PZkYwMmJUMUhneHBkZ0V5ekFyZXlGY3RWbTd4ZFBxaHlHMEJUeWdEdGtPRGd2OWYwaHJ3U0dvTER6MzBWdWc?oc=5"
-            },
-            {
-              "text": "\"분명 사형 집행했는데…\" 약물 두 번 맞고도 살아남은 女 - 한국경제",
-              "kind": "뉴스 자료",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTkl0S2hFTmNtaFNYSUhOQW16SXFReGdKQ0I5MGtHdzduaWh1cDh0eGh2T09yOFJFT1JWdW5oMFdTS1V1OS1hbVdxRVIySnZpQl9jaUZuaTVodw?oc=5"
-            },
-            {
               "text": "2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).",
               "kind": "YES24 자료",
-              "url": "https://www.yes24.com/product/goods/197289012"
+              "url": ""
             },
             {
-              "text": "트렌드 코리아 2027",
+              "text": "2027 공단기 소방단기 써니 행정법총론 기출문제집",
               "kind": "YES24 자료",
-              "url": "https://www.yes24.com/product/goods/195842609"
+              "url": ""
+            },
+            {
+              "text": "“AI 저작권부터 특허 포트폴리오까지”... 미래 IP 연구인재들이 던진 ‘새로운 해법’ - 특허뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBb1VHc0N1Q3Vtak5nbGF5WlBKZWZ1WWJ6UmRKUnR4ekU3NDNqeHR3Wkpkb01nRk94VGRzZDFRSHRaaFllT19uWg?oc=5"
+            },
+            {
+              "text": "안팎에서 본 주거문화 — 주거학연구회 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/1805453"
             }
           ],
           "sourceChannels": [
-            "google-news",
-            "yes24"
+            "yes24",
+            "google-news"
           ],
           "crossSourceCount": 2,
           "visualKeywords": [
@@ -1076,11 +1137,11 @@
             "status": "continuity-local",
             "collision": false
           },
-          "generationMode": "continuity-core-v21583",
+          "generationMode": "historical-high-quality-sealed-upgrade",
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-03T08:54:40.437Z",
+            "generatedAt": "2026-10-03T10:37:20.223Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1105,10 +1166,10 @@
               ]
             },
             "bookTitle": "주거 문제가 커지기 전에 남겨야 할 것들",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -1177,10 +1238,7 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
-            "sourceRevision": "zcr-1bd8ab30"
+            "sourceRevision": "zcr-94bf5eda"
           },
           "coverRefs": [
             {
@@ -1303,7 +1361,7 @@
           "coverReferenceMeta": {
             "version": "v2.15.58-gemma4-vision-state-safe",
             "status": "continuity-ready-hq-pending",
-            "generatedAt": "2026-10-03T04:00:53.606Z",
+            "generatedAt": "2026-10-03T01:01:05.411Z",
             "model": "deterministic-approved-local",
             "displayGuaranteed": true,
             "hqReady": false,
@@ -1312,10 +1370,32 @@
             "deadlineAtKst": "09:25",
             "qualityTier": "continuity",
             "diagnostics": {
+              "rawFound": 30,
+              "sourceCounts": {
+                "bookcoverarchive": 0,
+                "spine": 30,
+                "googlebooks": 0,
+                "metmuseum": 0
+              },
+              "poolCount": 0,
+              "preShortlistCount": 0,
+              "eligibleCount": 0,
+              "scannedCount": 0,
+              "validationRejected": {
+                "badTitle": 0,
+                "proxyHost": 0,
+                "http": 0,
+                "fetch": 0,
+                "other": 0
+              },
+              "validatedCount": 0,
+              "shortlistCount": 0,
+              "assessedCount": 0,
+              "selectedCount": 0,
+              "assessmentSummary": [],
               "deadlineApprovedFallback": 3,
               "noExternalCalls": true
-            },
-            "sourceRevision": "zcr-1bd8ab30"
+            }
           },
           "id": "S3",
           "problem": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
@@ -1331,7 +1411,9 @@
             "errors": []
           },
           "historicalQualityScore": 90,
-          "stars": "★★★★★"
+          "stars": "★★★★★",
+          "qualityTier": "hq",
+          "upgradePending": false
         }
       ],
       "cardnewsAutomation": {
