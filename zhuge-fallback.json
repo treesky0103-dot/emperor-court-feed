@@ -3,7 +3,7 @@
   "planDay": "2026-10-03",
   "planSetId": "zps-20261003-4c888305",
   "generatedAt": "2026-10-03T10:37:17.222Z",
-  "publishedAt": "2026-10-03T14:01:07.228Z",
+  "publishedAt": "2026-10-03T14:01:47.408Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.104",
   "morningEdition": {
@@ -469,7 +469,7 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:01:06.114Z",
+        "generatedAt": "2026-10-03T14:01:13.431Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -496,11 +496,51 @@
             "fetch": 0,
             "other": 0
           },
-          "validatedCount": 1,
+          "validatedCount": 7,
           "shortlistCount": 1,
           "assessedCount": 1,
           "selectedCount": 1,
           "metadataHqRecovery": 0,
+          "expandedRecovery": {
+            "used": true,
+            "raw": 23,
+            "checked": 14,
+            "validated": 6,
+            "selected": 1,
+            "diag": {
+              "nyt": "auth-401:208",
+              "ai": "ok:designing personal taste / building own style guide / cultivating preference framework",
+              "googlebooks": [
+                "specific:data numbers=0(cooldown)",
+                "ai:designing personal taste=0(cooldown)",
+                "ai:building own style guide=0(cooldown)"
+              ],
+              "openlibrary": [
+                "specific:data numbers=26",
+                "ai:designing personal taste=20",
+                "ai:building own style guide=27"
+              ],
+              "design": "spine:30 arena:40 reedsy:24",
+              "rejected": {
+                "offTopic": 336,
+                "style-block": 8,
+                "low-quality": 8
+              },
+              "rawCounts": {
+                "specific": 26,
+                "nyt": 208,
+                "ai": 47,
+                "design": 94
+              }
+            },
+            "rejected": {
+              "badTitle": 0,
+              "proxyHost": 0,
+              "http": 0,
+              "fetch": 8,
+              "other": 0
+            }
+          },
           "assessmentSummary": [
             {
               "title": "penn state teresa urrea",
@@ -931,8 +971,8 @@
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T13:30:53.212Z",
-        "model": "deterministic-approved-local",
+        "generatedAt": "2026-10-03T14:01:39.458Z",
+        "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -963,9 +1003,7 @@
           "assessedCount": 0,
           "selectedCount": 0,
           "metadataHqRecovery": 0,
-          "assessmentSummary": [],
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
+          "assessmentSummary": []
         },
         "sourceRevision": "zcr-94bf5eda"
       },
@@ -1254,6 +1292,42 @@
       "coverRefs": [
         {
           "ok": true,
+          "curated": true,
+          "validated": true,
+          "validationStatus": "image-http-ok",
+          "source": "nyt",
+          "sourceName": "The New York Times",
+          "imageUrl": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
+          "sourceUrl": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
+          "title": "Growing Home",
+          "subtitle": "",
+          "authors": [
+            "Beth Ferry"
+          ],
+          "publisher": "Simon & Schuster",
+          "year": 0,
+          "slot": "topic",
+          "selectionTier": "validated-hq-recovery-topic",
+          "curationBasis": "image-validated+source-topic-design-gate-v215103",
+          "metadataHqRecovery": true,
+          "role": "",
+          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
+          "gemmaScore": 0,
+          "gemmaTopicFit": 0,
+          "gemmaGenreFit": 0,
+          "gemmaDesignValue": 0,
+          "gemmaStatus": "metadata-validated-hq-recovery",
+          "gemmaParseStatus": "not-required",
+          "topicScore": 5,
+          "styleScore": 46,
+          "query": "NYT Children’s Middle Grade Hardcover",
+          "sourceRevision": "zcr-94bf5eda",
+          "deadlineGuaranteed": false,
+          "qualityTier": "hq",
+          "upgradePending": false
+        },
+        {
+          "ok": true,
           "source": "approved60-fallback",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
           "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
@@ -1282,26 +1356,6 @@
           "styleScore": 100,
           "role": "graphic",
           "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
           "approvedFallback": true,
           "validated": true,
           "validation": "approved-static-local",
@@ -1316,6 +1370,42 @@
       "coverReferences": [
         {
           "ok": true,
+          "curated": true,
+          "validated": true,
+          "validationStatus": "image-http-ok",
+          "source": "nyt",
+          "sourceName": "The New York Times",
+          "imageUrl": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
+          "sourceUrl": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
+          "title": "Growing Home",
+          "subtitle": "",
+          "authors": [
+            "Beth Ferry"
+          ],
+          "publisher": "Simon & Schuster",
+          "year": 0,
+          "slot": "topic",
+          "selectionTier": "validated-hq-recovery-topic",
+          "curationBasis": "image-validated+source-topic-design-gate-v215103",
+          "metadataHqRecovery": true,
+          "role": "",
+          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
+          "gemmaScore": 0,
+          "gemmaTopicFit": 0,
+          "gemmaGenreFit": 0,
+          "gemmaDesignValue": 0,
+          "gemmaStatus": "metadata-validated-hq-recovery",
+          "gemmaParseStatus": "not-required",
+          "topicScore": 5,
+          "styleScore": 46,
+          "query": "NYT Children’s Middle Grade Hardcover",
+          "sourceRevision": "zcr-94bf5eda",
+          "deadlineGuaranteed": false,
+          "qualityTier": "hq",
+          "upgradePending": false
+        },
+        {
+          "ok": true,
           "source": "approved60-fallback",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
           "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
@@ -1353,33 +1443,13 @@
           "upgradePending": true,
           "curated": true,
           "sourceRevision": "zcr-94bf5eda"
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
         }
       ],
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T13:30:55.856Z",
-        "model": "deterministic-approved-local",
+        "generatedAt": "2026-10-03T14:01:44.889Z",
+        "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -1405,14 +1475,56 @@
             "fetch": 0,
             "other": 0
           },
-          "validatedCount": 0,
+          "validatedCount": 8,
           "shortlistCount": 0,
           "assessedCount": 0,
-          "selectedCount": 0,
-          "metadataHqRecovery": 0,
-          "assessmentSummary": [],
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
+          "selectedCount": 1,
+          "metadataHqRecovery": 1,
+          "expandedRecovery": {
+            "used": true,
+            "raw": 24,
+            "checked": 14,
+            "validated": 8,
+            "selected": 1,
+            "diag": {
+              "nyt": "auth-401:208",
+              "ai": "ok:preventing housing disputes / resolving household conflicts / home life problem solving",
+              "googlebooks": [
+                "specific:psychology emotions decluttering=0(cooldown)",
+                "specific:psychology emotions=0(cooldown)",
+                "ai:preventing housing disputes=0(cooldown)",
+                "ai:resolving household conflicts=0(cooldown)",
+                "specific:decluttering writing=0(cooldown)"
+              ],
+              "openlibrary": [
+                "specific:psychology emotions decluttering=3",
+                "specific:psychology emotions=27",
+                "specific:decluttering writing=2",
+                "ai:resolving household conflicts=5",
+                "ai:preventing housing disputes=19"
+              ],
+              "design": "spine:30 arena:40 reedsy:24",
+              "rejected": {
+                "offTopic": 317,
+                "style-block": 9,
+                "low-quality": 7
+              },
+              "rawCounts": {
+                "specific": 32,
+                "nyt": 208,
+                "ai": 24,
+                "design": 94
+              }
+            },
+            "rejected": {
+              "badTitle": 0,
+              "proxyHost": 0,
+              "http": 0,
+              "fetch": 0,
+              "other": 0
+            }
+          },
+          "assessmentSummary": []
         },
         "sourceRevision": "zcr-94bf5eda"
       },
