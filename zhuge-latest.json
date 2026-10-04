@@ -3,7 +3,7 @@
   "planDay": "2026-10-04",
   "planSetId": "zps-20261004-8851d7f5",
   "generatedAt": "2026-10-04T00:12:38.356Z",
-  "publishedAt": "2026-10-04T04:00:41.384Z",
+  "publishedAt": "2026-10-04T10:45:27.937Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.88",
   "morningEdition": {
@@ -427,7 +427,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T04:00:28.482Z",
+        "generatedAt": "2026-10-04T10:01:03.314Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -436,11 +436,8 @@
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
         "diagnostics": {
-          "candidateBank": true,
-          "reusableCandidates": 6,
-          "backfilled": 1,
-          "crossPlanReused": 0,
-          "noGemma": true
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
         },
         "premiumHqReady": false,
         "hardGuarantee": true
@@ -921,7 +918,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T04:00:31.859Z",
+        "generatedAt": "2026-10-04T10:01:05.104Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -930,11 +927,8 @@
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
         "diagnostics": {
-          "candidateBank": true,
-          "reusableCandidates": 3,
-          "backfilled": 2,
-          "crossPlanReused": 0,
-          "noGemma": true
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
         },
         "premiumHqReady": false,
         "hardGuarantee": true
