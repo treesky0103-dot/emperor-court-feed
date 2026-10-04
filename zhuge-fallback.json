@@ -3,9 +3,9 @@
   "planDay": "2026-10-04",
   "planSetId": "zps-20261004-8851d7f5",
   "generatedAt": "2026-10-04T00:12:38.356Z",
-  "publishedAt": "2026-10-04T03:01:26.608Z",
+  "publishedAt": "2026-10-04T03:35:27.344Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.109",
+  "publisherVersion": "v2.15.88",
   "morningEdition": {
     "day": "2026-10-04",
     "planSetId": "zps-20261004-8851d7f5",
@@ -20,7 +20,7 @@
     "contentRevision": "zcr-06af603b",
     "hqVerifiedBy": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "sealedAt": "2026-10-04T00:10:00.000Z",
-    "build": "v2.15.109",
+    "build": "v2.15.112",
     "hqVerificationError": "",
     "hqUpgradedAt": "2026-10-04T00:12:38.631Z"
   },
@@ -1417,7 +1417,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-04T03:01:12.635Z",
+        "generatedAt": "2026-10-04T03:17:53.536Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1442,79 +1442,83 @@
           ]
         },
         "bookTitle": "뉴스에 흔들리지 않는 생활재무의 기준",
-        "provider": "rule-fallback",
+        "provider": "deterministic-editorial-hq-v215111",
         "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "궁금증",
-            "headline": "분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
+            "headline": "내 상황에 맞는 우선순위를 정하고 싶다",
             "body": "",
             "accent": "yellow",
             "sceneId": "008",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "local-editorial-hq"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "현상",
-            "headline": "순서로 번역해 내 결정을 만드는 생활재무 판단서.",
+            "headline": "이유는 선배 매년 꽃 보내줬다 (‘전참시’)",
             "body": "",
             "accent": "yellow",
             "sceneId": "013",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "local-editorial-hq"
           },
           {
             "index": 3,
             "role": "analysis",
             "beat": "원리",
-            "headline": "BTS 지민, 부산예고 직속 선배 매년 꽃 보내줬다 (‘전참시’).",
+            "headline": "구조를 보면 번역해 내 결정을 만드는 생활재무 판단서",
             "body": "",
             "accent": "yellow",
             "sceneId": "014",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "local-editorial-hq"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "설명",
-            "headline": "질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
+            "headline": "기준은 뉴스에도 반복 적용하는 구조를 제공한다",
             "body": "",
             "accent": "yellow",
             "sceneId": "015",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "local-editorial-hq"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "통찰",
-            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+            "headline": "선택은 판단표·질문·체크리스트를 본문 중심에 둔다",
             "body": "",
             "accent": "yellow",
             "sceneId": "033",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "local-editorial-hq"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "핵심 메시지",
-            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "headline": "결국 내 상황에 맞는 우선순위를 정하고 싶다",
             "body": "",
             "accent": "yellow",
             "sceneId": "047",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "local-editorial-hq"
           }
         ],
-        "sourceRevision": "zcr-06af603b"
+        "sourceRevision": "zcr-06af603b",
+        "localEditorialHq": true,
+        "qualityTier": "hq-local",
+        "deadlineGuaranteed": true,
+        "upgradePending": true
       }
     }
   ],
