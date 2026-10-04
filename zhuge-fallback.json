@@ -3,7 +3,7 @@
   "planDay": "2026-10-04",
   "planSetId": "zps-20261004-8851d7f5",
   "generatedAt": "2026-10-04T00:12:38.356Z",
-  "publishedAt": "2026-10-04T04:00:30.520Z",
+  "publishedAt": "2026-10-04T04:00:38.493Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.88",
   "morningEdition": {
@@ -744,8 +744,6 @@
           "year": 0,
           "slot": "topic",
           "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "typography",
           "reason": "여백을 활용한 타이포그래피 배치와 정제된 레이아웃은 실무 지침서의 신뢰감을 높이는 데 유효함",
           "gemmaScore": 65,
@@ -757,7 +755,6 @@
           "topicScore": 0,
           "styleScore": 60,
           "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -778,8 +775,6 @@
           "year": 0,
           "slot": "genre",
           "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "graphic",
           "reason": "추상적 그래픽과 과감한 레이아웃은 업무 재설계라는 구조적 개념을 시각화하기에 훌륭한 레퍼런스임",
           "gemmaScore": 65,
@@ -791,7 +786,6 @@
           "topicScore": 0,
           "styleScore": 60,
           "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -812,8 +806,6 @@
           "year": 0,
           "slot": "design",
           "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "typography",
           "reason": "추상적 그래픽보다 타이포그래피 중심의 레이아웃을 활용해 업무 재설계의 구조적 질서를 시각화하기에 적합함",
           "gemmaScore": 65,
@@ -825,7 +817,6 @@
           "topicScore": 0,
           "styleScore": 60,
           "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -848,8 +839,6 @@
           "year": 0,
           "slot": "topic",
           "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "typography",
           "reason": "여백을 활용한 타이포그래피 배치와 정제된 레이아웃은 실무 지침서의 신뢰감을 높이는 데 유효함",
           "gemmaScore": 65,
@@ -861,7 +850,6 @@
           "topicScore": 0,
           "styleScore": 60,
           "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -882,8 +870,6 @@
           "year": 0,
           "slot": "genre",
           "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "graphic",
           "reason": "추상적 그래픽과 과감한 레이아웃은 업무 재설계라는 구조적 개념을 시각화하기에 훌륭한 레퍼런스임",
           "gemmaScore": 65,
@@ -895,7 +881,6 @@
           "topicScore": 0,
           "styleScore": 60,
           "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -916,8 +901,6 @@
           "year": 0,
           "slot": "design",
           "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "typography",
           "reason": "추상적 그래픽보다 타이포그래피 중심의 레이아웃을 활용해 업무 재설계의 구조적 질서를 시각화하기에 적합함",
           "gemmaScore": 65,
@@ -929,7 +912,6 @@
           "topicScore": 0,
           "styleScore": 60,
           "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -939,7 +921,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T03:01:18.462Z",
+        "generatedAt": "2026-10-04T04:00:31.859Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -947,7 +929,15 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {}
+        "diagnostics": {
+          "candidateBank": true,
+          "reusableCandidates": 3,
+          "backfilled": 2,
+          "crossPlanReused": 0,
+          "noGemma": true
+        },
+        "premiumHqReady": false,
+        "hardGuarantee": true
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
