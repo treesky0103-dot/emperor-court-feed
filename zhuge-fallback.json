@@ -3,7 +3,7 @@
   "planDay": "2026-10-04",
   "planSetId": "zps-20261004-8851d7f5",
   "generatedAt": "2026-10-04T00:12:38.356Z",
-  "publishedAt": "2026-10-04T01:01:17.477Z",
+  "publishedAt": "2026-10-04T01:01:28.321Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.109",
   "morningEdition": {
@@ -949,7 +949,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T00:26:02.925Z",
+        "generatedAt": "2026-10-04T01:01:19.072Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1397,7 +1397,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-04T00:26:17.198Z",
+        "generatedAt": "2026-10-04T01:01:24.306Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -1411,33 +1411,7 @@
           "metadataHqRecovery": 0,
           "backfilled": 3,
           "crossPlanReused": 0,
-          "noGemma": true,
-          "gapRepair107": true,
-          "queries": [
-            "personal finance economics",
-            "personal finance",
-            "economics investing",
-            "business economics personal finance investing books",
-            "경제·생활재무 nonfiction books",
-            "practical nonfiction",
-            "popular nonfiction books",
-            "business finance nonfiction"
-          ],
-          "broad": 12,
-          "bca": 0,
-          "spine": 20,
-          "arena": 40,
-          "reedsy": 24,
-          "validated": 4,
-          "selectedBefore": 1,
-          "selectedAfter": 1,
-          "rejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 8,
-            "other": 0
-          }
+          "noGemma": true
         }
       },
       "cardnews": {
