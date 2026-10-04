@@ -1,43 +1,25 @@
 {
-  "date": "2026-10-03",
-  "planDay": "2026-10-03",
-  "planSetId": "zps-20261003-4c888305",
-  "generatedAt": "2026-10-03T10:37:17.222Z",
-  "publishedAt": "2026-10-03T14:50:51.734Z",
+  "date": "2026-10-04",
+  "planDay": "2026-10-04",
+  "planSetId": "zps-20261004-8851d7f5",
+  "generatedAt": "2026-10-04T00:00:00.053Z",
+  "publishedAt": "2026-10-04T00:00:08.577Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.106",
-  "morningEdition": {
-    "day": "2026-10-03",
-    "planSetId": "zps-20261003-4c888305",
-    "titles": [
-      "좋아하는 것을 더 잘 고르는 사람의 기준",
-      "대체되지 않는 사람은 일을 이렇게 남긴다",
-      "주거 문제가 커지기 전에 남겨야 할 것들"
-    ],
-    "generationMode": "historical-high-quality-sealed-upgrade",
-    "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
-    "hqReady": true,
-    "sealedAt": "2026-10-03T00:10:00.001Z",
-    "build": "v2.15.106",
-    "hqUpgradedAt": "2026-10-03T10:37:17.282Z",
-    "hqVerificationError": "",
-    "contentRevision": "zcr-94bf5eda",
-    "hqVerifiedBy": "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
-  },
+  "publisherVersion": "v2.15.109",
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 문화·라이프 · 커리어·AI · 주거·생활법을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 시장·독자·베스트셀러 신호를 바탕으로 독자 문제와 구매 이유가 서로 다른 출판 기획 3선입니다."
   ],
-  "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "model": "deterministic-local-no-ai",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
-  "generationMode": "historical-high-quality-sealed-upgrade",
+  "generationMode": "continuity-core-v21583",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-10-03T10:37:17.172Z",
+  "sourceSnapshotAt": "2026-10-03T23:39:52.644Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-10-03T09:39:05.434Z",
+    "newsUpdatedAt": "2026-10-03T23:39:52.644Z",
     "staleAdvisors": [
       "sima",
       "zhou",
@@ -46,10 +28,10 @@
       "xunyu",
       "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-10-03T00:01:01.743Z",
-    "bestsellerDataDate": "2026-10-02",
+    "bestsellerUpdatedAt": "2026-10-03T23:25:06.003Z",
+    "bestsellerDataDate": "2026-10-03",
     "stale": true,
-    "checkedAt": "2026-10-03T10:37:17.247Z",
+    "checkedAt": "2026-10-04T00:00:00.053Z",
     "policy": "confirm-and-mark",
     "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
@@ -58,22 +40,22 @@
       "rank": 1,
       "type": "즉시 기획",
       "field": "문화·라이프",
-      "title": "좋아하는 것을 더 잘 고르는 사람의 기준",
-      "concept": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
-      "oneLine": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
-      "why": "최근 공개 신호: 이혜정 작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
-      "competition": "YES24 자료에 나온 《세네카, 오늘을 빼앗기고 있는 당신에게》·《쇼펜하우어 인생수업 (30만 부 기념 개정증보판)》를 비교 대상으로 삼는다. 추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
+      "title": "좋아하는 것을 더 잘 고르는 사람의 기준: 예외 상황의 대응 순서",
+      "concept": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서. 실습 초점은 ‘예외 상황의 대응 순서’이다.",
+      "oneLine": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서. 실습 초점은 ‘예외 상황의 대응 순서’이다.",
+      "why": "최근 공개 신호: 머물고 스며든 김택상 작가의 개인전. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+      "competition": "YES24 자료에 나온 《세네카, 오늘을 빼앗기고 있는 당신에게》·《옥스브리지의 철학 수업》를 비교 대상으로 삼는다. 추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
       "reader": "여행·책·공연·음식 등 문화 선택지가 너무 많아 추천을 따라가면서도 내 취향은 선명해지지 않는 독자",
       "readerNeed": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
       "marketGap": "추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
-      "differentiation": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
-      "diff": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+      "differentiation": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다. 실습 초점은 ‘예외 상황의 대응 순서’에 둔다.",
+      "diff": "취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다. 실습 초점은 ‘예외 상황의 대응 순서’에 둔다.",
       "toc": [
         "추천보다 먼저 내 선택 패턴을 본다",
         "좋았던 경험을 구체적인 언어로 기록한다",
         "비슷한 선택을 비교해 기준을 찾는다",
         "남의 평점과 내 취향을 분리한다",
-        "다음 선택을 위한 취향 지도를 만든다"
+        "예외 상황의 대응 순서"
       ],
       "searchQueries": [
         "문화",
@@ -87,29 +69,24 @@
       },
       "authors": [
         {
-          "name": "정진호",
-          "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "루키우스 안나이우스 세네카",
+          "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+          "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+          "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/192474512",
+          "verification": "오늘 YES24 자료의 저자명"
         },
         {
-          "name": "기민경",
-          "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "박지호",
-          "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "하와이 대저택 편역",
+          "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+          "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+          "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/192474512",
+          "verification": "오늘 YES24 자료의 저자명"
         }
       ],
-      "author": "정진호",
-      "bestAuthor": "정진호",
+      "author": "루키우스 안나이우스 세네카",
+      "bestAuthor": "루키우스 안나이우스 세네카",
       "authorBrief": "문화·라이프의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
       "headlineCopy": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
       "marketingStrategy": {
@@ -123,13 +100,13 @@
           "mode": "정보·신뢰형"
         },
         "acquisition": "“남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
-        "trust": "좋아하는 것을 더 잘 고르는 사람의 기준의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
-        "conversion": "무료 정보의 나열이 아니라 “취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+        "trust": "좋아하는 것을 더 잘 고르는 사람의 기준: 예외 상황의 대응 순서의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+        "conversion": "무료 정보의 나열이 아니라 “취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다. 실습 초점은 ‘예외 상황의 대응 순서’에 둔다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "최근 공개 신호: 이혜정 작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+          "problem": "최근 공개 신호: 머물고 스며든 김택상 작가의 개인전. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
           "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
-          "solution": "목차와 상세페이지에서 추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+          "solution": "목차와 상세페이지에서 추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서. 실습 초점은 ‘예외 상황의 대응 순서’이다.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
         },
         "positioning": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
       },
@@ -138,66 +115,60 @@
         "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
       },
       "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
+        "market": 78,
+        "timing": 76,
+        "difference": 82,
+        "author": 76,
+        "marketing": 80,
+        "longtail": 84
       },
-      "score": 94,
+      "score": 80,
       "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
       "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
       "judgment": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
       "similarBooks": [
         {
-          "title": "조직문화 트렌드 2027",
-          "author": "정진호,기민경,박지호,박진호,최준오 저",
-          "publisher": "플랜비디자인",
-          "publicationDate": "20261010",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "matchedQuery": "문화",
-          "verification": "YES24 검색 결과"
+          "title": "세네카, 오늘을 빼앗기고 있는 당신에게",
+          "author": "루키우스 안나이우스 세네카 저/하와이 대저택 편역",
+          "publisher": "논픽션",
+          "publicationDate": "20260701",
+          "url": "https://www.yes24.com/product/goods/192474512"
         },
         {
-          "title": "EBS연계 변형 D-30 파이널 모의고사 최강불패 사회·문화 (2026년)",
-          "author": "편집부 저",
-          "publisher": "수능기출평가원",
-          "publicationDate": "20261008",
-          "url": "https://www.yes24.com/product/goods/197069158",
-          "matchedQuery": "문화",
-          "verification": "YES24 검색 결과"
+          "title": "옥스브리지의 철학 수업",
+          "author": "고요엘 저",
+          "publisher": "상상스퀘어",
+          "publicationDate": "20260902",
+          "url": "https://www.yes24.com/product/goods/195225852"
         },
         {
-          "title": "2027 나르샤 사회·문화 실전분석서+유형 공략 N제 (2026년)",
-          "author": "UND : 나르샤 저",
-          "publisher": "시대인재북스",
-          "publicationDate": "20260305",
-          "url": "https://www.yes24.com/product/goods/180385530",
-          "matchedQuery": "문화",
-          "verification": "YES24 검색 결과"
+          "title": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
+          "author": "쇼펜하우어 저/김지민 편",
+          "publisher": "하이스트",
+          "publicationDate": "20240220",
+          "url": "https://www.yes24.com/product/goods/125085536"
         }
       ],
       "evidence": [
         {
-          "text": "이혜정 작가 '부의 인간학', 교보문고 경제·경영 베스트셀러 8위 진입 - 팍스경제TV",
+          "text": "머물고 스며든 김택상 작가의 개인전 - W Korea",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xbkVtdF94a0FhZkQ4TmpSNG9nc3BBaF9mZDhKNV9lWVFIdE9LdjljNFdXaU1GZG5hVjA5b3BsNl9XRW5hSXRDc3RET0hLaExOUVZ3VG5jSVVCeUVEclhic29DTE5nYUtD?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXdvWHQtTDkxTjZhS3Uza29jakRacEZoS3k5dGFMN25Oem83RWd1NU9xSE95TzdMVjhQOU5QbzBTMWVaSUdLVHItZ3ZPeDJSUGNBaU04Wk1HMWhkNlNJTEJjZk1BejB1NmMyVi1kcXFMLW9kZnBYNk5WMnowTGhFRndVYzVmRGxrYndsZEh1NUFpV0hnZU1aMEs2MUE3UUh1dGlLemlBQ1c5MU5FMGdkUHJ5aTR6RktBb01lSGxmY25QWVhrRGQ3QndLQmkwV3FtVGVOVmJxd0tDbGgwVHQ0ckR5VDlZOWVWLWpmMUV5Y2MxYmU5Rml6RWhmeC0yQjF4NmY0ZHE3LVFqRjdKYzZtcw?oc=5"
         },
         {
-          "text": "산업정책으로 점수 따고, 부동산으로 점수 잃다 [2026 신뢰도 조사] - 시사IN",
+          "text": "[단독] 서울 하늘 아래 책 대출 격차 3배…강동이 ‘도서관 힙’ [.txt] - 한겨레",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NRkFsTlo2c2h1SEN2eHd4cVFXMW5NOEtFYkhydi1GQmo0VEZKbVk3Y2ZCUDhKUG9EX3NZVVJ3T2M0dVlVNHIxR29XUkFzVjQ2Ty1uZ0VVaFZ0ekxzX2pyNFlQTXpMWC1PRVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LTFlTUWVfVmo3Ynh3YjhGT243OXdoU2NPbk5XVC1fMGZ4TW9hbkNoX0M2eHlFUEFmX1IxOGZaMkE2YWVaTFo1cE1IMTRpTkVWLVVLZHVUcjI2am9aX3RQSjE1SQ?oc=5"
         },
         {
-          "text": "‘창립 10주년’ 맞은 한국저작권보호원, 미래상·추진전략 발표 - 문화일보",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82WGZsZEdWMWlNT1VoMmJ0N2Rrbk9jcnh2T09tdm1VTm1NaVRmdmtNU0tLdDV0QU1vNktnb3ZhRFNOdkllaGlJQy03VEdpcG5D?oc=5"
+          "text": "세네카, 오늘을 빼앗기고 있는 당신에게",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/192474512"
         },
         {
-          "text": "靑 정책실장에 하준경…경제 안정·사회정책 강화 - 연합뉴스TV",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEc3Z3SzUzcTVwNWVHb0ktNFBoei1sOE1JVFhQeFhEUVNWTGFBZFNzcU8xQzdvV3pFRkZ5bHM2a0pWc0ZDYUEtQWdybGZWcTdzaTEtTGFWQktMeGNkdV9zNXZJc2NOYUU?oc=5"
+          "text": "옥스브리지의 철학 수업",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195225852"
         }
       ],
       "sourceChannels": [
@@ -208,316 +179,35 @@
       "visualKeywords": [
         "문화·라이프",
         "culture",
-        "좋아하는 것을 더 잘 고르는 사람의 기준"
+        "좋아하는 것을 더 잘 고르는 사람의 기준: 예외 상황의 대응 순서"
       ],
       "fallbackCardComplete": true,
       "titleAudit": {
         "status": "continuity-local",
         "collision": false
       },
-      "generationMode": "historical-high-quality-sealed-upgrade",
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-03T14:50:46.847Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "내가 진짜 좋아하는 걸\n고르는 기준",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "002",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "추천만 따라가다 보면 내 취향이 흐려진다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "취향은 반복된 경험을 비교해 구조화될 때 선명해진다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "여행 일지·독서 메모·공연 감상표를 기록하고 점수화하면 선택 기준이 눈에 보인다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "좋아한다는 건 남의 평이 아니라 내 기록이 만든 규칙이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "037",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "내 선택은 기록에서 나온 규칙이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "043",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-94bf5eda"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/33aabbae-8628-45d9-a38d-5951c54c10b0/penn-state_teresa-urrea_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "penn state teresa urrea",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fixed-genre",
-          "role": "graphic",
-          "reason": "여백을 활용한 미니멀한 레이아웃과 감각적인 타이포그래피 배치는 취향을 설계하는 세련된 라이프스타일 도서의 시각적 문법으로 활용 가치가 높음",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "data numbers",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/autocorrect-etgar-keret.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/autocorrect-etgar-keret.jpg",
-          "title": "Autocorrect",
-          "context": "Autocorrect Etgar Keret Lauren Peters-Collaer",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
-          "title": "Luminous",
-          "context": "Luminous Silvia Park Alex Merto",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/33aabbae-8628-45d9-a38d-5951c54c10b0/penn-state_teresa-urrea_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "penn state teresa urrea",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fixed-genre",
-          "role": "graphic",
-          "reason": "여백을 활용한 미니멀한 레이아웃과 감각적인 타이포그래피 배치는 취향을 설계하는 세련된 라이프스타일 도서의 시각적 문법으로 활용 가치가 높음",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "data numbers",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/autocorrect-etgar-keret.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/autocorrect-etgar-keret.jpg",
-          "title": "Autocorrect",
-          "context": "Autocorrect Etgar Keret Lauren Peters-Collaer",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/luminous-silvia-park.jpg",
-          "title": "Luminous",
-          "context": "Luminous Silvia Park Alex Merto",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:50:42.771Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "continuity",
-        "diagnostics": {},
-        "sourceRevision": "zcr-94bf5eda"
-      },
-      "id": "S1",
-      "problem": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-03T01:35:20.506Z",
-        "queries": [
-          "문화",
-          "문화 라이프"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "historicalQualityScore": 90,
-      "stars": "★★★★★",
-      "qualityTier": "hq",
-      "upgradePending": false
+      "generationMode": "continuity-core-v21583"
     },
     {
       "rank": 2,
       "type": "6~12개월 선점 기획",
       "field": "커리어·AI",
-      "title": "대체되지 않는 사람은 일을 이렇게 남긴다",
-      "concept": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.",
-      "oneLine": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.",
-      "why": "최근 공개 신호: 트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
-      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》·《문해내공》를 비교 대상으로 삼는다. 도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+      "title": "내 일을 AI와 나눠 맡는 기준: 첫 일주일의 실행표",
+      "concept": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘첫 일주일의 실행표’이다.",
+      "oneLine": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘첫 일주일의 실행표’이다.",
+      "why": "최근 공개 신호: 비만 치료제 덕에 美 여성 취업 증가 의료 일자리 급증. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》·《옥스브리지의 철학 수업》를 비교 대상으로 삼는다. 도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
       "reader": "AI 도구가 빠르게 들어오는 조직에서 무엇을 배워야 하고 어떤 일을 직접 맡아야 하는지 불안한 직장인",
       "readerNeed": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
       "marketGap": "도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
-      "differentiation": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
-      "diff": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+      "differentiation": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘첫 일주일의 실행표’에 둔다.",
+      "diff": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘첫 일주일의 실행표’에 둔다.",
       "toc": [
         "내 직무가 아니라 내 작업을 쪼개 본다",
         "AI에 넘겨도 되는 일의 조건을 정한다",
         "사람이 끝까지 책임져야 할 판단을 찾는다",
         "성과를 기록해 대체 가능성을 낮춘다",
-        "다음 1년의 학습과 경력 이동을 설계한다"
+        "첫 일주일의 실행표"
       ],
       "searchQueries": [
         "커리어",
@@ -531,29 +221,24 @@
       },
       "authors": [
         {
-          "name": "정진웅",
-          "career": "《부사관, 인생 커리어를 설계하다!》 저자 · 하움출판사",
-          "why": "YES24에서 이 기획과 인접한 주제의 《부사관, 인생 커리어를 설계하다!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197222362",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "김난도",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
         },
         {
-          "name": "윤서영",
-          "career": "《청소년을 위한 직업별 마음 안내서》 저자 · 커리어북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《청소년을 위한 직업별 마음 안내서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197053859",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김영아",
-          "career": "《이제는 커리어 회복탄력성》 저자 · 지식과감성#",
-          "why": "YES24에서 이 기획과 인접한 주제의 《이제는 커리어 회복탄력성》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/92130626",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "전미영",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
         }
       ],
-      "author": "정진웅",
-      "bestAuthor": "정진웅",
+      "author": "김난도",
+      "bestAuthor": "김난도",
       "authorBrief": "커리어·AI의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
       "headlineCopy": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
       "marketingStrategy": {
@@ -567,13 +252,13 @@
           "mode": "정보·신뢰형"
         },
         "acquisition": "“막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
-        "trust": "대체되지 않는 사람은 일을 이렇게 남긴다의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
-        "conversion": "무료 정보의 나열이 아니라 “업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+        "trust": "내 일을 AI와 나눠 맡는 기준: 첫 일주일의 실행표의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+        "conversion": "무료 정보의 나열이 아니라 “업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘첫 일주일의 실행표’에 둔다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "최근 공개 신호: 트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+          "problem": "최근 공개 신호: 비만 치료제 덕에 美 여성 취업 증가 의료 일자리 급증. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
           "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
-          "solution": "목차와 상세페이지에서 직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+          "solution": "목차와 상세페이지에서 직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘첫 일주일의 실행표’이다.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
         },
         "positioning": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
       },
@@ -582,66 +267,53 @@
         "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
       },
       "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
+        "market": 78,
+        "timing": 76,
+        "difference": 82,
+        "author": 76,
+        "marketing": 80,
+        "longtail": 84
       },
-      "score": 94,
+      "score": 80,
       "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
       "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
       "judgment": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
       "similarBooks": [
         {
-          "title": "부사관, 인생 커리어를 설계하다!",
-          "author": "정진웅 저",
-          "publisher": "하움출판사",
-          "publicationDate": "20261014",
-          "url": "https://www.yes24.com/product/goods/197222362",
-          "matchedQuery": "커리어",
-          "verification": "YES24 검색 결과"
+          "title": "트렌드 코리아 2027",
+          "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+          "publisher": "미래의창",
+          "publicationDate": "20260930",
+          "url": "https://www.yes24.com/product/goods/195842609"
         },
         {
-          "title": "제3의 면접, 평판조회",
-          "author": "커리어케어 C·LENS 센터 저",
-          "publisher": "세이코리아",
-          "publicationDate": "20261007",
-          "url": "https://www.yes24.com/product/goods/196884130",
-          "matchedQuery": "커리어",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "청소년을 위한 직업별 마음 안내서",
-          "author": "윤서영 저",
-          "publisher": "커리어북스",
-          "publicationDate": "20261009",
-          "url": "https://www.yes24.com/product/goods/197053859",
-          "matchedQuery": "커리어",
-          "verification": "YES24 검색 결과"
+          "title": "옥스브리지의 철학 수업",
+          "author": "고요엘 저",
+          "publisher": "상상스퀘어",
+          "publicationDate": "20260902",
+          "url": "https://www.yes24.com/product/goods/195225852"
         }
       ],
       "evidence": [
         {
-          "text": "AI면접부터 마케팅까지…KT ‘사장이지’, 소상공인 경영 지원 서비스 확대 - 인공지능신문",
+          "text": "비만 치료제 덕에 美 여성 취업 증가 의료 일자리 급증 - 조선일보",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BU1dRWXA3bWJLbFRhMGJoN0ZzRGRSLTNKTlVkYWs1S3Eta3JOXzU2M0lqYXNNTklVYUNvLVMtLUhQcTY1M2xlWHVEb3MxUlJtdmU1bERyWWc1YjJ3OG1UbDFWLUhTckE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZG52OWJvWDNZeDBwQS1ZaFFkSk1ldUR5YWJtekVUS1hKMi1NLWNqR0E3Ulo3SFlwcmxvRmdBSDJFOHdYV1JjX2txT3kzeFFQZ1Rsd1RaR01HNHloM3pCUkdNNnNaeG9XUDBPNEJqY2xNUVZRMml4LWxCQ0RXTGJWWWxSa0I1Zw?oc=5"
         },
         {
-          "text": "“AI 저작권부터 특허 포트폴리오까지”... 미래 IP 연구인재들이 던진 ‘새로운 해법’ - 특허뉴스",
+          "text": "美 정부 업무 복귀...머스크, 국방부 프로젝트 참여 - 조선일보",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBb1VHc0N1Q3Vtak5nbGF5WlBKZWZ1WWJ6UmRKUnR4ekU3NDNqeHR3Wkpkb01nRk94VGRzZDFRSHRaaFllT19uWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JKVVI3ejdyZWV5bGsySV85VWxWdTBiWFV1YTJCVjgtdFR1UHdVNU5qQWw3RU5Idi0tV3pwVFJldnFLMHVEWVBmV3F6NTRFS0E5eWFPdzBad0ptN1AyazlFbWNGQ2JwMUkwRVBid1N5WXBkS3B5V2FmbkkwQTY5bVJVTDVFUHRkNU1ESlJIWURuS3NHWXBDckp4S05oQQ?oc=5"
         },
         {
-          "text": "부사관, 인생 커리어를 설계하다! — 정진웅 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197222362"
+          "text": "트렌드 코리아 2027",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195842609"
         },
         {
-          "text": "제3의 면접, 평판조회 — 커리어케어 C·LENS 센터 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/196884130"
+          "text": "옥스브리지의 철학 수업",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195225852"
         }
       ],
       "sourceChannels": [
@@ -652,426 +324,68 @@
       "visualKeywords": [
         "커리어·AI",
         "career",
-        "대체되지 않는 사람은 일을 이렇게 남긴다"
+        "내 일을 AI와 나눠 맡는 기준: 첫 일주일의 실행표"
       ],
       "fallbackCardComplete": true,
       "titleAudit": {
         "status": "continuity-local",
         "collision": false
       },
-      "generationMode": "historical-high-quality-sealed-upgrade",
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-03T13:30:53.488Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "AI에게 모든 일을 맡기면 사라지는 건 너다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "001",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "업무가 점점 자동화되고, 무엇을 직접 해야 할지 막막하다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "024",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "반복 작업을 AI에 넘기고, 판단은 남겨두고, 성과 증명은 고민한다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "023",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "그건 당신이 아직 핵심 가치를 놓치고 있다는 신호다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "016",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "지금 바로 업무를 자동화, 판단, 증명으로 구분하고 표로 정리하라",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "036",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "핵심은 직접 책임지는 일만 남기는 것이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "044",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-94bf5eda"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/8619501-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL7940253W",
-          "title": "Artificial intelligence for games",
-          "subtitle": "",
-          "authors": [
-            "Ian Millington"
-          ],
-          "publisher": "Taylor & Francis Group",
-          "year": 2006,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 18.4,
-          "styleScore": 24,
-          "query": "artificial intelligence",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/12673814-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL19996480W",
-          "title": "101 careers in social work",
-          "subtitle": "",
-          "authors": [
-            "Jessica A. Ritter"
-          ],
-          "publisher": "Springer Publishing Company, Incorporated",
-          "year": 2009,
-          "slot": "genre",
-          "selectionTier": "validated-hq-recovery-genre",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 장르·상업출판 문법 기준을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 17.5,
-          "styleScore": 40,
-          "query": "career work learning education",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "title": "Unfit",
-          "context": "Unfit Ariana Harwicz Erik Carter",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/8619501-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL7940253W",
-          "title": "Artificial intelligence for games",
-          "subtitle": "",
-          "authors": [
-            "Ian Millington"
-          ],
-          "publisher": "Taylor & Francis Group",
-          "year": 2006,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 18.4,
-          "styleScore": 24,
-          "query": "artificial intelligence",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/12673814-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL19996480W",
-          "title": "101 careers in social work",
-          "subtitle": "",
-          "authors": [
-            "Jessica A. Ritter"
-          ],
-          "publisher": "Springer Publishing Company, Incorporated",
-          "year": 2009,
-          "slot": "genre",
-          "selectionTier": "validated-hq-recovery-genre",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 장르·상업출판 문법 기준을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 17.5,
-          "styleScore": 40,
-          "query": "career work learning education",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "title": "Unfit",
-          "context": "Unfit Ariana Harwicz Erik Carter",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:50:48.168Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "continuity",
-        "diagnostics": {
-          "finalSlotRepair105": true,
-          "queries": [
-            "artificial intelligence career work",
-            "artificial intelligence",
-            "parenting education child development learning books",
-            "커리어·AI nonfiction books",
-            "practical nonfiction",
-            "popular nonfiction books"
-          ],
-          "google": [
-            "artificial intelligence career work:0(HTTP_429)",
-            "artificial intelligence:0(cooldown)",
-            "parenting education child development learning books:0(cooldown)",
-            "커리어·AI nonfiction books:0(cooldown)"
-          ],
-          "openlibrary": [
-            "artificial intelligence career work:6",
-            "artificial intelligence:23",
-            "parenting education child development learning books:20",
-            "커리어·AI nonfiction books:0"
-          ],
-          "design": "spine:30 arena:40 reedsy:24",
-          "validated": 8,
-          "gemma": 0,
-          "rejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 12,
-            "other": 0
-          }
-        },
-        "sourceRevision": "zcr-94bf5eda"
-      },
-      "id": "S2",
-      "problem": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-03T01:35:21.269Z",
-        "queries": [
-          "커리어",
-          "AI 직장인"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "historicalQualityScore": 90,
-      "stars": "★★★★★",
-      "qualityTier": "hq",
-      "upgradePending": false
+      "generationMode": "continuity-core-v21583"
     },
     {
       "rank": 3,
       "type": "틈새 기획",
-      "field": "주거·생활법",
-      "title": "주거 문제가 커지기 전에 남겨야 할 것들",
-      "concept": "주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
-      "oneLine": "주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.",
-      "why": "최근 공개 신호: 48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다. 주거·생활법 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
-      "competition": "YES24 자료에 나온 《2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).》·《트렌드 코리아 2027》를 비교 대상으로 삼는다. 법 조항 설명은 많지만 일반인이 문제가 발생한 첫날부터 무엇을 남기고 누구에게 어떤 순서로 묻는지 알려주는 책은 부족하다.",
-      "reader": "공사·하자·임대차·이웃 분쟁처럼 예상하지 못한 주거 문제가 생겼을 때 어디서부터 대응해야 할지 모르는 생활자",
-      "readerNeed": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
-      "marketGap": "법 조항 설명은 많지만 일반인이 문제가 발생한 첫날부터 무엇을 남기고 누구에게 어떤 순서로 묻는지 알려주는 책은 부족하다.",
-      "differentiation": "사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
-      "diff": "사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.",
+      "field": "경제·생활재무",
+      "title": "뉴스에 흔들리지 않는 생활재무의 기준",
+      "concept": "큰 경제 뉴스를 생활비·부채·현금흐름·장기자산의 순서로 번역해 내 결정을 만드는 생활재무 판단서.",
+      "oneLine": "큰 경제 뉴스를 생활비·부채·현금흐름·장기자산의 순서로 번역해 내 결정을 만드는 생활재무 판단서.",
+      "why": "최근 공개 신호: 타잔 “BTS 지민, 부산예고 직속 선배… 매년 꽃 보내줬다” (‘전참시’). 경제·생활재무 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》를 비교 대상으로 삼는다. 전망과 종목 정보는 많지만 뉴스가 내 가계의 어떤 숫자와 결정을 바꾸는지 연결해 주는 책은 드물다.",
+      "reader": "금리·정책·자산시장 뉴스가 나올 때마다 내 돈에 어떤 영향이 있는지 판단하기 어려운 30~50대 직장인",
+      "readerNeed": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
+      "marketGap": "전망과 종목 정보는 많지만 뉴스가 내 가계의 어떤 숫자와 결정을 바꾸는지 연결해 주는 책은 드물다.",
+      "differentiation": "기사 한 건을 해설하는 대신 현금흐름표·부채 점검표·결정 질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
+      "diff": "기사 한 건을 해설하는 대신 현금흐름표·부채 점검표·결정 질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
       "toc": [
-        "문제가 생긴 첫날 해야 할 일",
-        "사실과 추측을 분리해 기록한다",
-        "상대방과 기관에 묻는 순서를 정한다",
-        "전문가 도움이 필요한 경계를 판단한다",
-        "내 집의 기록 체계를 평소에 만들어 둔다"
+        "뉴스와 내 돈 사이의 거리를 재는 법",
+        "먼저 지켜야 할 현금흐름을 정한다",
+        "대출·연금·투자의 순서를 다시 세운다",
+        "변화가 클수록 하지 말아야 할 결정을 구분한다",
+        "나만의 생활재무 판단표를 완성한다"
       ],
       "searchQueries": [
-        "주거",
-        "주거 생활법"
+        "경제",
+        "생활 재무"
       ],
       "bookworthiness": {
-        "durability": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+        "durability": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
         "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
         "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "주거학연구회",
-          "career": "《안팎에서 본 주거문화》 저자 · 교문사",
-          "why": "YES24에서 이 기획과 인접한 주제의 《안팎에서 본 주거문화》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/1805453",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "김난도",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "경제·생활재무 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
         },
         {
-          "name": "마쓰시타 기와",
-          "career": "《주거 인테리어 해부도감》 저자 · 더숲",
-          "why": "YES24에서 이 기획과 인접한 주제의 《주거 인테리어 해부도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/8570026",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "황선종 역",
-          "career": "《주거 인테리어 해부도감》 저자 · 더숲",
-          "why": "YES24에서 이 기획과 인접한 주제의 《주거 인테리어 해부도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/8570026",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "전미영",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "경제·생활재무 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
         }
       ],
-      "author": "주거학연구회",
-      "bestAuthor": "주거학연구회",
-      "authorBrief": "주거·생활법의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
-      "headlineCopy": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
+      "author": "김난도",
+      "bestAuthor": "김난도",
+      "authorBrief": "경제·생활재무의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+      "headlineCopy": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
@@ -1082,405 +396,75 @@
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "“감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
-        "trust": "주거 문제가 커지기 전에 남겨야 할 것들의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
-        "conversion": "무료 정보의 나열이 아니라 “사진 기록표·상황 일지·문의 문장·전문가 상담 전 체크리스트를 한 흐름으로 연결한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+        "acquisition": "“투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+        "trust": "뉴스에 흔들리지 않는 생활재무의 기준의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+        "conversion": "무료 정보의 나열이 아니라 “기사 한 건을 해설하는 대신 현금흐름표·부채 점검표·결정 질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "최근 공개 신호: 48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다. 주거·생활법 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+          "problem": "최근 공개 신호: 타잔 “BTS 지민, 부산예고 직속 선배… 매년 꽃 보내줬다” (‘전참시’). 경제·생활재무 분야에서 사건 자체보다 독자가 반가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
           "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
-          "solution": "목차와 상세페이지에서 주거 분쟁의 원인을 단정하지 않으면서도 기록과 질문을 통해 대응력을 높이는 생활 문제 해결서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+          "solution": "목차와 상세페이지에서 큰 경제 뉴스를 생활비·부채·현금흐름·장기자산의 순서로 번역해 내 결정을 만드는 생활재무 판단서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
         },
-        "positioning": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+        "positioning": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
       },
       "devilsEditor": {
         "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
         "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
       },
       "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
+        "market": 78,
+        "timing": 76,
+        "difference": 82,
+        "author": 76,
+        "marketing": 80,
+        "longtail": 84
       },
-      "score": 94,
+      "score": 80,
       "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
       "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
-      "judgment": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+      "judgment": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
       "similarBooks": [
         {
-          "title": "안팎에서 본 주거문화",
-          "author": "주거학연구회 저",
-          "publisher": "교문사",
-          "publicationDate": "20040831",
-          "url": "https://www.yes24.com/product/goods/1805453",
-          "matchedQuery": "주거",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "주거 인테리어 해부도감",
-          "author": "마쓰시타 기와 저/황선종 역",
-          "publisher": "더숲",
-          "publicationDate": "20130308",
-          "url": "https://www.yes24.com/product/goods/8570026",
-          "matchedQuery": "주거",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "주거해부도감",
-          "author": "마스다 스스무 저/김준균 역",
-          "publisher": "더숲",
-          "publicationDate": "20121205",
-          "url": "https://www.yes24.com/product/goods/8109197",
-          "matchedQuery": "주거",
-          "verification": "YES24 검색 결과"
+          "title": "트렌드 코리아 2027",
+          "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+          "publisher": "미래의창",
+          "publicationDate": "20260930",
+          "url": "https://www.yes24.com/product/goods/195842609"
         }
       ],
       "evidence": [
         {
-          "text": "2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).",
-          "kind": "YES24 자료",
-          "url": ""
-        },
-        {
-          "text": "2027 공단기 소방단기 써니 행정법총론 기출문제집",
-          "kind": "YES24 자료",
-          "url": ""
-        },
-        {
-          "text": "“AI 저작권부터 특허 포트폴리오까지”... 미래 IP 연구인재들이 던진 ‘새로운 해법’ - 특허뉴스",
+          "text": "타잔 “BTS 지민, 부산예고 직속 선배… 매년 꽃 보내줬다” (‘전참시’) - 매일경제",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBb1VHc0N1Q3Vtak5nbGF5WlBKZWZ1WWJ6UmRKUnR4ekU3NDNqeHR3Wkpkb01nRk94VGRzZDFRSHRaaFllT19uWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c2NPSTA5ZkxGZS1ueFdoM25HdnFTSXNRWkNUbUdiNEdkMDRZTG9nYUFFMFZxdHJEODEyS2w1bDlaVmxKUW9FV1NMNHNVYVQ0YXlhYWp4cnNaempIUzVoWjFvTUQ2Zw?oc=5"
         },
         {
-          "text": "안팎에서 본 주거문화 — 주거학연구회 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/1805453"
+          "text": "[단독] 미국서 쫓겨난 '中 CCTV'…군대에 쫙 깔렸다 '초비상' - 한국경제",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QcThwV3J4R0lTUnpPOFl2M2pmdGVpOVkya2ZkWTdBN2RUZDN1WXpkYld1ZTBvODh0MjY3TURoMjgwUkJEQ1pSaHNGd3ZaREYwZUlSOFB2Nm9ZZw?oc=5"
+        },
+        {
+          "text": "트렌드 코리아 2027",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195842609"
         }
       ],
       "sourceChannels": [
-        "yes24",
-        "google-news"
+        "google-news",
+        "yes24"
       ],
       "crossSourceCount": 2,
       "visualKeywords": [
-        "주거·생활법",
-        "home",
-        "주거 문제가 커지기 전에 남겨야 할 것들"
+        "경제·생활재무",
+        "money",
+        "뉴스에 흔들리지 않는 생활재무의 기준"
       ],
       "fallbackCardComplete": true,
       "titleAudit": {
         "status": "continuity-local",
         "collision": false
       },
-      "generationMode": "historical-high-quality-sealed-upgrade",
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-03T13:30:53.488Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "주거 문제가 커지기 전에 남겨야 할 것들",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "집 안이 전쟁터가 되기 전에",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "001",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "새벽에 물이 새는 소리에 눈을 뜨고, 이웃과 소음으로 다투는 모습을 떠올린다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "016",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "불안과 분노가 뒤섞여 마음이 무겁게 내려앉는다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "023",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 기록과 질문이 있으면 문제는 해결의 실마리가 된다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "014",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "그 과정을 받아들이면 차분히 대응할 수 있다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "038",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "침착함은 준비된 기록에서 온다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "048",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-94bf5eda"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "nyt",
-          "sourceName": "The New York Times",
-          "imageUrl": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
-          "sourceUrl": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
-          "title": "Growing Home",
-          "subtitle": "",
-          "authors": [
-            "Beth Ferry"
-          ],
-          "publisher": "Simon & Schuster",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 5,
-          "styleScore": 46,
-          "query": "NYT Children’s Middle Grade Hardcover",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
-          "title": "Things in Nature Merely Grow",
-          "context": "Things in Nature Merely Grow Yiyun Li Na Kim",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Marcy-Dermansky-Hot-Air-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Marcy-Dermansky-Hot-Air-copy.jpg",
-          "title": "Hot Air",
-          "context": "Hot Air Marcy Dermansky Janet Hansen",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "nyt",
-          "sourceName": "The New York Times",
-          "imageUrl": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
-          "sourceUrl": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
-          "title": "Growing Home",
-          "subtitle": "",
-          "authors": [
-            "Beth Ferry"
-          ],
-          "publisher": "Simon & Schuster",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 5,
-          "styleScore": 46,
-          "query": "NYT Children’s Middle Grade Hardcover",
-          "sourceRevision": "zcr-94bf5eda",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
-          "title": "Things in Nature Merely Grow",
-          "context": "Things in Nature Merely Grow Yiyun Li Na Kim",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Marcy-Dermansky-Hot-Air-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Marcy-Dermansky-Hot-Air-copy.jpg",
-          "title": "Hot Air",
-          "context": "Hot Air Marcy Dermansky Janet Hansen",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true,
-          "sourceRevision": "zcr-94bf5eda"
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-03T14:20:17.233Z",
-        "model": "deterministic-approved-local",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "continuity",
-        "diagnostics": {
-          "candidateBank": true,
-          "reusableCandidates": 8,
-          "metadataHqRecovery": 0,
-          "backfilled": 3,
-          "crossPlanReused": 0,
-          "noGemma": true,
-          "deadlineApprovedFallback": 2,
-          "noExternalCalls": true
-        },
-        "sourceRevision": "zcr-94bf5eda"
-      },
-      "id": "S3",
-      "problem": "감정적으로 항의하기 전에 사실을 정리하고 증거·문의·협의·전문가 상담의 순서를 알고 싶다.",
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-03T01:35:21.909Z",
-        "queries": [
-          "주거",
-          "주거 생활법"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "historicalQualityScore": 90,
-      "stars": "★★★★★",
-      "qualityTier": "hq",
-      "upgradePending": false
+      "generationMode": "continuity-core-v21583"
     }
-  ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261003-4c888305",
-    "file": "cardnews/2026-10-03.json",
-    "cardCount": 6
-  }
+  ]
 }
