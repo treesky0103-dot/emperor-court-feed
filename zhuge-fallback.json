@@ -3,7 +3,7 @@
   "planDay": "2026-10-04",
   "planSetId": "zps-20261004-8851d7f5",
   "generatedAt": "2026-10-04T00:12:38.356Z",
-  "publishedAt": "2026-10-04T03:35:27.344Z",
+  "publishedAt": "2026-10-04T04:00:30.520Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.88",
   "morningEdition": {
@@ -250,8 +250,6 @@
           "year": 0,
           "slot": "topic",
           "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "typography",
           "reason": "여백을 활용한 타이포그래피의 질서와 배치 방식이 데이터 축적이라는 기획의 구조적 미학을 시각화하기에 적합함",
           "gemmaScore": 71,
@@ -263,7 +261,6 @@
           "topicScore": 2,
           "styleScore": 94,
           "query": "data numbers",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -284,8 +281,6 @@
           "year": 0,
           "slot": "genre",
           "selectionTier": "fixed-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "graphic",
           "reason": "정돈된 레이아웃과 절제된 그래픽은 취향을 데이터화하는 체계적인 실습서의 신뢰감을 전달하기에 적합함",
           "gemmaScore": 74,
@@ -297,7 +292,6 @@
           "topicScore": 2,
           "styleScore": 94,
           "query": "data numbers",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -318,8 +312,6 @@
           "year": 0,
           "slot": "design",
           "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "graphic",
           "reason": "추상적 그래픽과 타이포의 조화는 개인의 데이터를 체계화하는 설계서의 논리적 구조를 시각화하기에 유효한 레퍼런스임",
           "gemmaScore": 74,
@@ -331,7 +323,6 @@
           "topicScore": 0,
           "styleScore": 88,
           "query": "data numbers",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -354,8 +345,6 @@
           "year": 0,
           "slot": "topic",
           "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "typography",
           "reason": "여백을 활용한 타이포그래피의 질서와 배치 방식이 데이터 축적이라는 기획의 구조적 미학을 시각화하기에 적합함",
           "gemmaScore": 71,
@@ -367,7 +356,6 @@
           "topicScore": 2,
           "styleScore": 94,
           "query": "data numbers",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -388,8 +376,6 @@
           "year": 0,
           "slot": "genre",
           "selectionTier": "fixed-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "graphic",
           "reason": "정돈된 레이아웃과 절제된 그래픽은 취향을 데이터화하는 체계적인 실습서의 신뢰감을 전달하기에 적합함",
           "gemmaScore": 74,
@@ -401,7 +387,6 @@
           "topicScore": 2,
           "styleScore": 94,
           "query": "data numbers",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -422,8 +407,6 @@
           "year": 0,
           "slot": "design",
           "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
           "role": "graphic",
           "reason": "추상적 그래픽과 타이포의 조화는 개인의 데이터를 체계화하는 설계서의 논리적 구조를 시각화하기에 유효한 레퍼런스임",
           "gemmaScore": 74,
@@ -435,7 +418,6 @@
           "topicScore": 0,
           "styleScore": 88,
           "query": "data numbers",
-          "sourceRevision": "zcr-06af603b",
           "deadlineGuaranteed": false,
           "qualityTier": "hq",
           "upgradePending": false
@@ -445,7 +427,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T03:01:14.755Z",
+        "generatedAt": "2026-10-04T04:00:28.482Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -453,7 +435,15 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {}
+        "diagnostics": {
+          "candidateBank": true,
+          "reusableCandidates": 6,
+          "backfilled": 1,
+          "crossPlanReused": 0,
+          "noGemma": true
+        },
+        "premiumHqReady": false,
+        "hardGuarantee": true
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
