@@ -3,7 +3,7 @@
   "planDay": "2026-10-04",
   "planSetId": "zps-20261004-8851d7f5",
   "generatedAt": "2026-10-04T00:12:38.356Z",
-  "publishedAt": "2026-10-04T00:20:18.161Z",
+  "publishedAt": "2026-10-04T01:01:12.062Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.109",
   "morningEdition": {
@@ -445,7 +445,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T00:12:55.548Z",
+        "generatedAt": "2026-10-04T00:25:59.713Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -453,98 +453,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 6,
-          "preShortlistCount": 6,
-          "eligibleCount": 6,
-          "scannedCount": 6,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "duke the problem of passing",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 35,
-              "genre": 50,
-              "design": 85,
-              "score": 71,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 196946,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "minnesota a perfectionist impulse",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 45,
-              "genre": 70,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 86512,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "ABCD Awards 2018",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 315752,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens inco in paradise",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 30,
-              "genre": 45,
-              "design": 85,
-              "score": 69,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 340854,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
@@ -1040,7 +949,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "ready",
-        "generatedAt": "2026-10-04T00:13:06.061Z",
+        "generatedAt": "2026-10-04T00:26:02.925Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1048,82 +957,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 3,
-          "preShortlistCount": 3,
-          "eligibleCount": 3,
-          "scannedCount": 3,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 3,
-          "shortlistCount": 3,
-          "assessedCount": 3,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "mcgill queens inco in paradise",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 340854,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mercer a priest walks into a waffle house",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 96930,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mississippi andre dubus",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 70402,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
@@ -1563,7 +1397,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-06af603b",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-04T00:13:13.906Z",
+        "generatedAt": "2026-10-04T00:26:17.198Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -1572,75 +1406,13 @@
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
         "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 0,
-          "preShortlistCount": 0,
-          "eligibleCount": 0,
-          "scannedCount": 0,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 7,
-          "shortlistCount": 0,
-          "assessedCount": 0,
-          "selectedCount": 1,
-          "metadataHqRecovery": 1,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 7,
-            "selected": 1,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:financial decisions based news / personal finance crisis management / money management economic news",
-              "googlebooks": [
-                "specific:personal finance economics=0(cooldown)",
-                "specific:personal finance=0(cooldown)",
-                "ai:financial decisions based news=0(cooldown)",
-                "ai:personal finance crisis management=0(cooldown)",
-                "specific:economics investing=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:personal finance economics=23",
-                "specific:personal finance=29",
-                "ai:personal finance crisis management=20",
-                "ai:financial decisions based news=19",
-                "specific:economics investing=26"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "low-quality": 20,
-                "style-block": 5,
-                "offTopic": 303
-              },
-              "rawCounts": {
-                "specific": 78,
-                "nyt": 208,
-                "ai": 39,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 7,
-              "other": 0
-            }
-          },
-          "assessmentSummary": [],
-          "finalSlotRepair105": true,
+          "candidateBank": true,
+          "reusableCandidates": 7,
+          "metadataHqRecovery": 0,
+          "backfilled": 3,
+          "crossPlanReused": 0,
+          "noGemma": true,
+          "gapRepair107": true,
           "queries": [
             "personal finance economics",
             "personal finance",
@@ -1651,42 +1423,27 @@
             "popular nonfiction books",
             "business finance nonfiction"
           ],
-          "google": [
-            "personal finance economics:0(cooldown)",
-            "personal finance:0(cooldown)",
-            "business economics personal finance investing books:0(cooldown)",
-            "경제·생활재무 nonfiction books:0(cooldown)"
-          ],
-          "openlibrary": [
-            "personal finance economics:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "personal finance:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "business economics personal finance investing books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "경제·생활재무 nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)"
-          ],
-          "design": "spine:30 arena:0 reedsy:24",
-          "validated": 0,
-          "gemma": 0,
+          "broad": 12,
+          "bca": 0,
+          "spine": 20,
+          "arena": 40,
+          "reedsy": 24,
+          "validated": 4,
+          "selectedBefore": 1,
+          "selectedAfter": 1,
           "rejected": {
             "badTitle": 0,
             "proxyHost": 0,
             "http": 0,
-            "fetch": 1,
+            "fetch": 8,
             "other": 0
-          },
-          "gapRepair107": true,
-          "broad": 1,
-          "bca": 0,
-          "spine": 20,
-          "arena": 0,
-          "reedsy": 24,
-          "selectedBefore": 1,
-          "selectedAfter": 1
+          }
         }
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-04T00:18:57.398Z",
+        "generatedAt": "2026-10-04T00:25:57.262Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
