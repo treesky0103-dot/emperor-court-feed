@@ -1,0 +1,322 @@
+{
+  "day": "2026-10-04",
+  "planSetId": "zps-20261004-8851d7f5",
+  "sourceRevision": "zcr-06af603b",
+  "version": "v2.15.24-cardnews-3styles",
+  "signature": "4b48784479",
+  "planTitles": [
+    "좋아하는 것을 더 잘 고르는 사람의 기준: 예외 상황의 대응 순서",
+    "내 일을 AI와 나눠 맡는 기준: 첫 일주일의 실행표",
+    "뉴스에 흔들리지 않는 생활재무의 기준"
+  ],
+  "provider": "partial-mixed",
+  "generatedAt": "2026-10-04T00:13:40.699Z",
+  "sets": [
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-04T00:12:49.760Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "좋아하는 것을 더 잘 고르는 사람의 기준: 예외 상황의 대응 순서",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "남들이 좋다는 것을 다 봐도\n내 마음은 텅 빈 이유",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "001",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "줄 서서 들어간 전시장\n벽에 걸린 그림 앞에서\n고개만 끄덕이다 나온다",
+          "body": "사람들이 감탄하는 자리에 멈춰 서서",
+          "accent": "yellow",
+          "sceneId": "011",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "모두가 좋다고 말할수록\n정작 나는 무엇을 느끼는지\n점점 더 알 수 없어진다",
+          "body": "내 마음의 소리만 흐려지는 기분",
+          "accent": "yellow",
+          "sceneId": "026",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "하지만 진짜 내 취향은\n모두가 찬사할 때가 아니라\n기대가 빗나간 순간에 드러난다",
+          "body": "실망한 이유를 찬찬히 들여다볼 때",
+          "accent": "yellow",
+          "sceneId": "013",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "남들의 추천 목록 대신\n내가 왜 불편했는지를\n조용히 적어 두자",
+          "body": "어긋난 경험 속에 내 기준이 숨어 있다",
+          "accent": "yellow",
+          "sceneId": "035",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "실패한 선택을 기록할 때\n비로소 나만의 색이 또렷해진다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "043",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ],
+      "sourceRevision": "zcr-06af603b"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-04T00:12:58.901Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 증상",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "내 일을 AI와 나눠 맡는 기준: 첫 일주일의 실행표",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "AI와 일 나누는 건, 책임을 포기하는 게 아니다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "002",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "새 프로젝트에 AI를 도입했지만, 결과 검증을 놓친다면",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "021",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "보고서 자동화, 일정 조율, 데이터 정리까지 맡겼는데",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "028",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "그건 결국 내 업무의 핵심을 흐리는 행동이다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "011",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "오늘부터 검증 단계는 직접 체크하라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "031",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "AI는 도구, 주인은 내가 된다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "049",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ],
+      "sourceRevision": "zcr-06af603b"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-04T00:12:41.842Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "뉴스에 흔들리지 않는 생활재무의 기준",
+      "provider": "rule-fallback",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "no-ai-copy",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "008",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "순서로 번역해 내 결정을 만드는 생활재무 판단서.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "013",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "BTS 지민, 부산예고 직속 선배 매년 꽃 보내줬다 (‘전참시’).",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "014",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "015",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "033",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "047",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "sourceRevision": "zcr-06af603b"
+    }
+  ]
+}
