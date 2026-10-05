@@ -8,13 +8,13 @@
     "정책이 바뀔 때 내 돈을 지키는 판단 순서",
     "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-05T06:31:46.561Z",
+  "provider": "none",
+  "generatedAt": "2026-10-05T06:32:18.984Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-05T06:31:46.561Z",
+      "generatedAt": "2026-10-05T06:31:50.374Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -39,10 +39,10 @@
         ]
       },
       "bookTitle": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -110,15 +110,12 @@
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
-      ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true
+      ]
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-05T06:31:46.561Z",
+      "generatedAt": "2026-10-05T06:31:50.374Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -143,10 +140,10 @@
         ]
       },
       "bookTitle": "정책이 바뀔 때 내 돈을 지키는 판단 순서",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -214,15 +211,12 @@
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
-      ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true
+      ]
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-05T06:31:46.561Z",
+      "generatedAt": "2026-10-05T06:31:50.374Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -247,10 +241,10 @@
         ]
       },
       "bookTitle": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -318,10 +312,7 @@
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
-      ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true
+      ]
     }
   ]
 }
