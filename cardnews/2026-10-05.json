@@ -1,0 +1,327 @@
+{
+  "day": "2026-10-05",
+  "planSetId": "zps-20261005-55fe9b64",
+  "version": "v2.15.24-cardnews-3styles",
+  "signature": "b37a8b05ef",
+  "planTitles": [
+    "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
+    "정책이 바뀔 때 내 돈을 지키는 판단 순서",
+    "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법"
+  ],
+  "provider": "deterministic-local",
+  "generatedAt": "2026-10-05T06:31:46.561Z",
+  "sets": [
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-05T06:31:46.561Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
+      "provider": "deterministic-local",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "deadline-guarantee-no-ai",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "008",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "013",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "최근 공개 신호: 머물고 스며든 김택상 작가의 개인전.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "024",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "015",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "031",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "049",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "deadlineGuaranteed": true,
+      "qualityTier": "continuity",
+      "upgradePending": true
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-05T06:31:46.561Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "정책이 바뀔 때 내 돈을 지키는 판단 순서",
+      "provider": "deterministic-local",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "deadline-guarantee-no-ai",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "001",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "순서로 번역해 내 결정을 만드는 생활재무 판단서.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "011",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "신호: 50년 만의 기현상 美·日·유럽 국채금리 급등한 뜻밖 이유.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "018",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "039",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "049",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "deadlineGuaranteed": true,
+      "qualityTier": "continuity",
+      "upgradePending": true
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-05T06:31:46.561Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 증상",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법",
+      "provider": "deterministic-local",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "deadline-guarantee-no-ai",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "003",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "쪼개 AI에 넘길 일과 사람임질 일을 다시 설계하는 커리어 실전서.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "028",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "최근 공개 신호: 은행 'AI 해킹' 눈덩이.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "021",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "018",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "032",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "044",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "deadlineGuaranteed": true,
+      "qualityTier": "continuity",
+      "upgradePending": true
+    }
+  ]
+}
