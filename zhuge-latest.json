@@ -3,9 +3,9 @@
   "planDay": "2026-10-05",
   "planSetId": "zps-20261005-55fe9b64",
   "generatedAt": "2026-10-05T00:00:00.069Z",
-  "publishedAt": "2026-10-05T06:32:24.478Z",
+  "publishedAt": "2026-10-05T06:44:17.925Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.88",
+  "publisherVersion": "v2.15.104",
   "morningEdition": {
     "day": "2026-10-05",
     "planSetId": "zps-20261005-55fe9b64",
@@ -193,7 +193,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-05T06:31:50.374Z",
+        "generatedAt": "2026-10-05T06:44:14.481Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -218,10 +218,10 @@
           ]
         },
         "bookTitle": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
-        "provider": "rule-fallback",
+        "provider": "deterministic-local",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallbackReason": "deadline-guarantee-no-ai",
         "cards": [
           {
             "index": 1,
@@ -289,7 +289,11 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ]
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-dedf7b74"
       },
       "coverRefs": [
         {
@@ -483,15 +487,15 @@
       ],
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "ready",
+        "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-05T06:31:59.996Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": false,
+        "model": "deterministic-approved-local",
+        "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "qualityTier": "hq",
+        "hqReady": false,
+        "upgradePending": true,
+        "qualityTier": "continuity",
         "diagnostics": {
           "rawFound": 30,
           "sourceCounts": {
@@ -583,7 +587,8 @@
           ],
           "deadlineApprovedFallback": 0,
           "noExternalCalls": true
-        }
+        },
+        "sourceRevision": "zcr-dedf7b74"
       }
     },
     {
@@ -710,7 +715,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-05T06:31:50.374Z",
+        "generatedAt": "2026-10-05T06:44:14.481Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -735,10 +740,10 @@
           ]
         },
         "bookTitle": "정책이 바뀔 때 내 돈을 지키는 판단 순서",
-        "provider": "rule-fallback",
+        "provider": "deterministic-local",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallbackReason": "deadline-guarantee-no-ai",
         "cards": [
           {
             "index": 1,
@@ -806,7 +811,11 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ]
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-dedf7b74"
       },
       "coverRefs": [
         {
@@ -1000,15 +1009,15 @@
       ],
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "ready",
+        "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-05T06:32:08.321Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": false,
+        "model": "deterministic-approved-local",
+        "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "qualityTier": "hq",
+        "hqReady": false,
+        "upgradePending": true,
+        "qualityTier": "continuity",
         "diagnostics": {
           "rawFound": 30,
           "sourceCounts": {
@@ -1100,7 +1109,8 @@
           ],
           "deadlineApprovedFallback": 0,
           "noExternalCalls": true
-        }
+        },
+        "sourceRevision": "zcr-dedf7b74"
       }
     },
     {
@@ -1227,7 +1237,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-05T06:31:50.374Z",
+        "generatedAt": "2026-10-05T06:44:14.481Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1252,10 +1262,10 @@
           ]
         },
         "bookTitle": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법",
-        "provider": "rule-fallback",
+        "provider": "deterministic-local",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "fallbackReason": "deadline-guarantee-no-ai",
         "cards": [
           {
             "index": 1,
@@ -1323,7 +1333,11 @@
             "sceneCategory": "final",
             "source": "rule-fallback"
           }
-        ]
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-dedf7b74"
       },
       "coverRefs": [
         {
@@ -1517,15 +1531,15 @@
       ],
       "coverReferenceMeta": {
         "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "ready",
+        "status": "continuity-ready-hq-pending",
         "generatedAt": "2026-10-05T06:32:15.956Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": false,
+        "model": "deterministic-approved-local",
+        "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "qualityTier": "hq",
+        "hqReady": false,
+        "upgradePending": true,
+        "qualityTier": "continuity",
         "diagnostics": {
           "rawFound": 30,
           "sourceCounts": {
@@ -1614,8 +1628,11 @@
               "error": "",
               "rawPreview": ""
             }
-          ]
-        }
+          ],
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        },
+        "sourceRevision": "zcr-dedf7b74"
       }
     }
   ],
