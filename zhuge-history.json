@@ -6,7 +6,7 @@
       "planDay": "2026-10-05",
       "planSetId": "zps-20261005-55fe9b64",
       "generatedAt": "2026-10-05T06:46:08.342Z",
-      "publishedAt": "2026-10-05T06:46:21.634Z",
+      "publishedAt": "2026-10-05T06:46:53.349Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.104",
       "morningEdition": {
@@ -210,7 +210,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-05T06:44:14.481Z",
+            "generatedAt": "2026-10-05T06:46:20.350Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -235,82 +235,79 @@
               ]
             },
             "bookTitle": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "groq",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "감성 문장",
-                "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+                "headline": "취향은 남의 선택을\n베끼는 게 아니다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "008",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "장면",
-                "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
+                "headline": "거리의 작은 카페에서 메뉴를 고를 때, 사람들 눈길이 스쳐간다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "013",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "감정",
-                "headline": "최근 공개 신호: 머물고 스며든 김택상 작가의 개인전.",
+                "headline": "그때마다 남들의 추천에 흔들리는 자신이 답답하다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "024",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "관점 전환",
-                "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
+                "headline": "하지만 진짜 취향은 남이 아닌, 내 경험을 기록한 뒤 선택할 때 생긴다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "015",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "수용",
-                "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+                "headline": "그 기록을 보며, 오늘은 내가 원하는 걸 고를 수 있다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "031",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "여운",
-                "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+                "headline": "취향은 스스로 만든 작은 지도다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "049",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
-            "sourceRevision": "zcr-dedf7b74"
+            "sourceRevision": "zcr-772674d6"
           },
           "coverRefs": [
             {
@@ -719,7 +716,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-05T06:44:14.481Z",
+            "generatedAt": "2026-10-05T06:46:11.027Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -744,10 +741,10 @@
               ]
             },
             "bookTitle": "정책이 바뀔 때 내 돈을 지키는 판단 순서",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -816,10 +813,7 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
-            "sourceRevision": "zcr-dedf7b74"
+            "sourceRevision": "zcr-772674d6"
           },
           "coverRefs": [
             {
@@ -1228,7 +1222,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-05T06:44:14.481Z",
+            "generatedAt": "2026-10-05T06:46:20.350Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1253,82 +1247,79 @@
               ]
             },
             "bookTitle": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "groq",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "강한 선언",
-                "headline": "업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+                "headline": "AI에게 맡기면 안 되는 일, 바로 여기다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "003",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "warning",
                 "beat": "공감",
-                "headline": "쪼개 AI에 넘길 일과 사람임질 일을 다시 설계하는 커리어 실전서.",
+                "headline": "새로운 툴이 도입돼도 업무가 늘고, 책임감이 무거워진다면",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "028",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "구체적 증상",
-                "headline": "최근 공개 신호: 은행 'AI 해킹' 눈덩이.",
+                "headline": "반복 작업을 AI에 맡기고, 중요한 판단을 놓치고, 성과를 기록하지 못한다면",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "021",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "판단 기준",
-                "headline": "기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
+                "headline": "그건 AI가 대신할 수 없는 인간만의 판단을 포기한 것이다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "018",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "해결",
-                "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+                "headline": "먼저 업무를 세 단계로 나눠, 기록하고, AI에 넘기고, 검증하라.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "032",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "강한 결론",
-                "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+                "headline": "AI와 나, 역할을 명확히 하면 일은 쉬워진다.",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "044",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
-            "sourceRevision": "zcr-dedf7b74"
+            "sourceRevision": "zcr-772674d6"
           },
           "coverRefs": [
             {
