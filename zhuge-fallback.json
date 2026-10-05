@@ -3,9 +3,9 @@
   "planDay": "2026-10-05",
   "planSetId": "zps-20261005-55fe9b64",
   "generatedAt": "2026-10-05T06:46:08.342Z",
-  "publishedAt": "2026-10-05T08:00:21.877Z",
+  "publishedAt": "2026-10-05T08:35:19.228Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.104",
+  "publisherVersion": "v2.15.112",
   "morningEdition": {
     "day": "2026-10-05",
     "planSetId": "zps-20261005-55fe9b64",
@@ -18,7 +18,7 @@
     "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "hqReady": true,
     "sealedAt": "2026-10-05T00:10:00.002Z",
-    "build": "v2.15.104",
+    "build": "v2.15.112",
     "contentRevision": "zcr-772674d6",
     "hqVerifiedBy": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "hqUpgradedAt": "2026-10-05T06:46:08.427Z",
@@ -525,7 +525,10 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {},
+        "diagnostics": {
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        },
         "sourceRevision": "zcr-772674d6"
       },
       "id": "S1",
@@ -1024,7 +1027,10 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {},
+        "diagnostics": {
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        },
         "sourceRevision": "zcr-772674d6"
       },
       "id": "S2",
@@ -1523,7 +1529,10 @@
         "hqReady": true,
         "upgradePending": false,
         "qualityTier": "hq",
-        "diagnostics": {},
+        "diagnostics": {
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
+        },
         "sourceRevision": "zcr-772674d6"
       },
       "id": "S3",
