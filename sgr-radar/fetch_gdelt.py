@@ -213,7 +213,7 @@ def infer_language(title: str) -> str:
     letters = re.findall(r"[A-Za-z]", t)
     if len(letters) < 8:
         return ""
-    tokens = re.findall(r"[^\\W_]+", t.lower(), flags=re.UNICODE)
+    tokens = re.findall(r"[^\W_]+", t.lower(), flags=re.UNICODE)
     if len(tokens) < 2:
         return ""
     funcs = {"the","and","to","of","in","for","on","as","with","from","by","amid","after","before","into","over","at","is","are","will","new","how","why","what","could","can","its","their","against","across","through","under","without","more","than"}
