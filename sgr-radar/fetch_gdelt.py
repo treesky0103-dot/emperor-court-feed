@@ -46,7 +46,7 @@ NEWS_TERMS = {
         "corporate culture", "succession planning", "hybrid work", "leadership", "employee engagement",
         "workplace transformation", "business model", "corporate strategy", "business strategy",
         "corporate governance", "enterprise ai", "workplace ai", "automation at work",
-        "labor relations", "labour relations", "union", "job losses", "software development",
+        "labor relations", "labour relations", "job losses", "software development",
         "consumer behavior", "consumer behaviour", "pricing strategy", "hr strategy", "hr strategies",
         "human resources strategy", "workplace productivity", "employee resilience", "operating model",
         "target operating model", "business process automation", "process automation", "workflow automation",
@@ -119,6 +119,7 @@ BLOCKED_DOMAINS = {
     "prnewswire.com", "openpr.com", "einpresswire.com", "globenewswire.com",
     "newsfilecorp.com", "accesswire.com", "businesswire.com", "newswiretoday.com",
     "insidermonkey.com", "fool.com", "enewschannels.com", "naslovi.net",
+    "aol.com", "tmz.com",
 }
 STRONG_DOMAINS = {
     "reuters.com", "apnews.com", "bloomberg.com", "cnbc.com", "ft.com", "wsj.com",
@@ -137,9 +138,12 @@ NOISE_PATTERNS = [
     r"job in [a-z]|stellenangebote|vacancy|apply now|hiring now",
     r"why do investors like|what it means for investors|well-positioned to capitalize|investment thesis",
     r"motley fool|insider monkey|seeking alpha|zacks investment",
-    r"\\blawyer\\b|attorney profile|commercial, corporate governance & securities lawyer",
+    r"\blawyer\b|attorney profile|commercial, corporate governance & securities lawyer",
     r"public input on new water tariffs|water tariffs in ",
     r"produces song using instruments|meet .* humanoid robot working at .* repair shop",
+    r"sexual battery|sodomy|pleads not guilty|anniversary concert|symphony|orchestra",
+    r"wins funding to expand|named to .* next big things|fast company.*next big things",
+    r"^after the factory$|cloud symphony|st\. cloud",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
@@ -162,7 +166,7 @@ MANAGEMENT_SIGNAL_PATTERNS = [
 ]
 MANAGEMENT_BROAD_PATTERNS = [
     r"business model", r"corporate strategy", r"business strategy", r"corporate governance", r"enterprise ai", r"workplace ai",
-    r"automation.*work", r"software development", r"labor relations", r"labour relations", r"\bunion\b", r"job losses?",
+    r"automation.*work", r"software development", r"labor relations", r"labour relations", r"job losses?",
     r"consumer behavio(?:u)?r", r"pricing strategy", r"\bhr strateg(?:y|ies)\b", r"human resources strategy", r"workplace.*productivity",
     r"employee resilience", r"operating model", r"target operating model", r"business process automation", r"process automation",
     r"workflow automation", r"generative ai (?:adoption|deployment|rollout)", r"ai copilots?", r"coding assistants?", r"developer productivity",
@@ -209,7 +213,7 @@ def infer_language(title: str) -> str:
     letters = re.findall(r"[A-Za-z]", t)
     if len(letters) < 8:
         return ""
-    tokens = re.findall(r"[a-z0-9]+", t.lower())
+    tokens = re.findall(r"[^\\W_]+", t.lower(), flags=re.UNICODE)
     if len(tokens) < 2:
         return ""
     funcs = {"the","and","to","of","in","for","on","as","with","from","by","amid","after","before","into","over","at","is","are","will","new","how","why","what","could","can","its","their","against","across","through","under","without","more","than"}
@@ -219,16 +223,16 @@ def infer_language(title: str) -> str:
     english_score = len(token_set & funcs)
     strategic_score = len(token_set & strategic)
     foreign_score = len(token_set & foreign)
-    if foreign_score >= 2 and english_score == 0:
+    accented_latin = len(re.findall(r"[À-ɏ]", t))
+    if foreign_score >= 1 and english_score == 0:
         return ""
-    if english_score >= 1:
+    if accented_latin >= 2 and english_score < 2:
+        return ""
+    if english_score >= 2:
         return "English"
-    if strategic_score >= 2 and foreign_score == 0:
+    if english_score >= 1 and strategic_score >= 1 and foreign_score == 0:
         return "English"
-    ascii_letters = len(re.findall(r"[A-Za-z]", t))
-    latin_letters = len(re.findall(r"[A-Za-zÀ-ɏ]", t))
-    ascii_ratio = ascii_letters / latin_letters if latin_letters else 0
-    if strategic_score >= 1 and foreign_score == 0 and ascii_ratio >= 0.98 and len(tokens) >= 5:
+    if strategic_score >= 2 and foreign_score == 0 and accented_latin == 0:
         return "English"
     return ""
 
@@ -282,6 +286,27 @@ def relevance_score(title: str, terms: list[str]) -> int:
 def pattern_score(title: str, patterns: list[str]) -> int:
     return sum(1 for p in patterns if re.search(p, title, re.I))
 
+def industry_signal(title: str) -> int:
+    t = clean(title).lower()
+    if re.search(r"sexual battery|sodomy|anniversary concert|symphony|orchestra|st\\. cloud", t, re.I):
+        return 0
+    strong = [
+        r"\\bartificial intelligence\\b", r"\\bai\\b", r"semiconductor", r"\\bchip(?:s)?\\b",
+        r"data cent(?:er|re)", r"datacenter", r"\\bgpu(?:s)?\\b", r"biotech", r"shipbuilding",
+        r"manufacturing", r"advanced manufacturing", r"quantum", r"power grid",
+        r"인공지능", r"반도체", r"\\b칩\\b", r"데이터센터", r"바이오", r"조선", r"제조", r"양자", r"전력망",
+    ]
+    if any(re.search(p, t, re.I) for p in strong):
+        return 2
+    weak = [r"\\brobot(?:s|ics)?\\b", r"\\bbattery\\b", r"\\benergy\\b", r"\\bfactory\\b", r"\\bcloud\\b",
+            r"\\belectricity\\b", r"로봇", r"배터리", r"에너지", r"공장", r"클라우드", r"전력"]
+    context = [r"investment", r"invest", r"market", r"industry", r"technology", r"infrastructure", r"plant",
+               r"production", r"supply", r"strategy", r"storage", r"grid", r"capacity", r"startup", r"company",
+               r"투자", r"시장", r"산업", r"기술", r"인프라", r"생산", r"공급", r"전략", r"저장", r"설비", r"기업"]
+    if any(re.search(p, t, re.I) for p in weak) and any(re.search(p, t, re.I) for p in context):
+        return 1
+    return 0
+
 def management_signal(title: str) -> int:
     t = clean(title).lower()
     score = pattern_score(t, MANAGEMENT_SIGNAL_PATTERNS)
@@ -292,7 +317,7 @@ def management_signal(title: str) -> int:
 def management_broad_signal(title: str) -> int:
     t = clean(title).lower()
     score = pattern_score(t, MANAGEMENT_BROAD_PATTERNS)
-    if re.search(r"\bai\b|artificial intelligence|인공지능", t, re.I) and re.search(r"work|workplace|workforce|employee|worker|job|software development|coding|developer|productivity|business|enterprise|operating model|process|workflow|shared services|back office|customer service|governance|spending|budget|직원|인력|업무|일자리|기업|운영모델|프로세스|자동화|개발자|거버넌스", t, re.I):
+    if re.search(r"\bai\b|artificial intelligence|인공지능", t, re.I) and re.search(r"\bworkplace\b|\bworkforce\b|\bemployees?\b|\bworkers?\b|\bjobs?\b|software development|coding|developer|productivity|business|enterprise|operating model|process|workflow|shared services|back office|customer service|governance|spending|budget|직원|인력|업무|일자리|기업|운영모델|프로세스|자동화|개발자|거버넌스", t, re.I):
         score += 1
     return score
 
@@ -331,12 +356,12 @@ def potential(item: dict) -> bool:
     title = clean(item.get("title"))
     if len(title) < 14 or infer_language(title) not in {"Korean", "English"} or is_noise(item):
         return False
-    for key in ("industry", "management", "global"):
-        score = relevance_score(title, NEWS_TERMS[key])
-        if key == "management":
-            score += management_signal(title) + management_broad_signal(title)
-        if score >= 1:
-            return True
+    if industry_signal(title) >= 1:
+        return True
+    if management_signal(title) >= 1 or management_broad_signal(title) >= 1:
+        return True
+    if global_signal(title) >= 1:
+        return True
     return False
 
 def clearly_local_low_value(key: str, item: dict) -> bool:
@@ -357,8 +382,8 @@ def quality(key: str, item: dict) -> bool:
         return (not is_management_routine(item)) and (management_signal(title) >= 1 or management_broad_signal(title) >= 1)
     if key == "global":
         return global_signal(title) >= 1
-    if key == "industry" and "cloud seeding" in title.lower():
-        return False
+    if key == "industry":
+        return "cloud seeding" not in title.lower() and industry_signal(title) >= 1
     return relevance_score(title, NEWS_TERMS[key]) >= 1
 
 def topic_for(key: str, title: str) -> str:
@@ -409,6 +434,18 @@ def score_item(key: str, item: dict) -> int:
     if key == "global" and global_signal(title): score += 4
     return score
 
+def same_global_event(a: str, b: str) -> bool:
+    x, y = clean(a).lower(), clean(b).lower()
+    pairs = [
+        (r"u\\.?s\\.?|united states", r"trade (?:balance|deficit)|imports?"),
+        (r"federal reserve|\\bfed\\b", r"interest rates?|monetary policy"),
+        (r"oil", r"prices?|barrel"),
+    ]
+    for country_or_actor, event in pairs:
+        if re.search(country_or_actor, x, re.I) and re.search(country_or_actor, y, re.I) and re.search(event, x, re.I) and re.search(event, y, re.I):
+            return True
+    return False
+
 def select_diverse(key: str, items: list[dict], limit: int, strict: bool) -> list[dict]:
     ranked = sorted(items, key=lambda x: (score_item(key, x), clean(x.get("dateRaw"))), reverse=True)
     selected, topic_counts, domain_counts = [], {}, {}
@@ -421,12 +458,14 @@ def select_diverse(key: str, items: list[dict], limit: int, strict: bool) -> lis
             if topic != "other" and tc >= topic_cap + pass_no: continue
             if dc >= domain_cap + pass_no: continue
             if any(near_duplicate(item["title"], x["title"]) for x in selected): continue
+            if key == "global" and any(same_global_event(item["title"], x["title"]) for x in selected): continue
             selected.append(item); topic_counts[topic] = tc + 1; domain_counts[domain] = dc + 1
             if len(selected) >= limit: return selected
     for item in ranked:
         if len(selected) >= limit: break
         if any(item["id"] == x["id"] for x in selected): continue
         if any(near_duplicate(item["title"], x["title"]) for x in selected): continue
+        if key == "global" and any(same_global_event(item["title"], x["title"]) for x in selected): continue
         selected.append(item)
     return selected
 
