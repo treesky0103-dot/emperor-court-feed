@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 06:13:56",
+  "updatedAt": "2026. 10. 07. 오전 06:33:49",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,6 +48,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261006215651",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2632880",
+          "title": "국토위 국감 시작⋯서울 집값·공급대책 격돌",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:31:00Z",
+          "publishedAt": "2026-10-06T21:31:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2632880"
         },
         {
           "id": "https://www.newspim.com/news/view/20261006001295",
@@ -126,20 +138,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261006175833",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261006000316",
-          "title": "NH농협은행, 퀴즈 풀고 선물받는 '아이돌봄 팩트체크!' 이벤트 실시",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T05:47:11Z",
-          "publishedAt": "2026-10-06T05:47:11Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261006000316",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
@@ -149,11 +147,7 @@
         },
         {
           "word": "주거",
-          "count": 2
-        },
-        {
-          "word": "돌봄",
-          "count": 1
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -177,6 +171,20 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261007021003",
+          "title": "브이키, AI 경제의 AI 안전 및 보안 강화를 위해 클라우드사인 AI에 대한 전략적 지분 투자 발표",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T17:10:03Z",
+          "publishedAt": "2026-10-06T17:10:03Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261007021003",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.etnews.com/20261006000412",
           "title": "신한투자증권, 연금고객관리팀 신설…고객 생애주기별 연금관리 체계 구축",
           "source": "etnews.com",
@@ -191,18 +199,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261006180824",
-          "title": "서부발전, AI로 유연탄 수입·재고 전과정 통합 관리",
-          "source": "zdnet.co.kr",
+          "id": "https://www.etoday.co.kr/news/view/2630518",
+          "title": "IPO부터 스타트업 투자까지⋯“자금조달도 AI 기업이 독식, 계급화 극명” [AI 新계급 사회]",
+          "source": "etoday.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T09:08:24Z",
-          "publishedAt": "2026-10-06T09:08:24Z",
+          "dateRaw": "2026-10-06T21:31:00Z",
+          "publishedAt": "2026-10-06T21:31:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261006180824",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "url": "https://www.etoday.co.kr/news/view/2630518"
         },
         {
           "id": "https://www.newspim.com/news/view/20261007000010",
@@ -281,29 +287,19 @@
           "url": "https://www.etnews.com/20261006000411",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261006175147",
-          "title": "남부발전, ‘AI 퍼스트’ 경영성과 5대 혁신기술 ‘AI 페스타 26’에 공개",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T08:51:47Z",
-          "publishedAt": "2026-10-06T08:51:47Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261006175147",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 6
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "기업",
           "count": 1
         },
         {
@@ -325,6 +321,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261007021003",
+          "title": "브이키, AI 경제의 AI 안전 및 보안 강화를 위해 클라우드사인 AI에 대한 전략적 지분 투자 발표",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T17:10:03Z",
+          "publishedAt": "2026-10-06T17:10:03Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261007021003",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
         {
           "id": "https://www.etnews.com/20261006000074",
           "title": "[기획]ITCCK·ST “AI 시대 반도체 경쟁력, 전력·용수·자원 관리가 핵심”",
@@ -366,20 +376,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01462886645610624&mediaCodeNo=257"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261006181222",
-          "title": "하정우 부위원장 \"AI 모델만 잘해선 3강 못 간다…생태계 전체 키워야\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T09:28:05Z",
-          "publishedAt": "2026-10-06T09:28:05Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261006181222",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223245",
           "title": "코드021, 피지컬 AI 기반 조리로봇 개발 착수…카페쿠바노에프앤비 산단 입주 연계 추진",
           "source": "mbn.co.kr",
@@ -394,6 +390,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.etoday.co.kr/news/view/2631999",
+          "title": "대출도 투자도⋯AI가 다시 매기는 ‘금융 신분’ [AI 신계급사회]",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:31:00Z",
+          "publishedAt": "2026-10-06T21:31:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2631999"
+        },
+        {
           "id": "https://www.anewsa.com/detail.php?number=3205401",
           "title": "삼성·SK 반도체 핵심인력 중국행...CXMT 간 27명 중 26명 퇴사",
           "source": "anewsa.com",
@@ -404,6 +412,18 @@
           "publishedAt": "2026-10-06T17:47:00Z",
           "summary": "",
           "url": "https://www.anewsa.com/detail.php?number=3205401"
+        },
+        {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026092914432112952",
+          "title": "공장도 스마트폰처럼 업데이트… 지멘스 'SDS', 산업의 하드웨어 종속 깬다",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:31:00Z",
+          "publishedAt": "2026-10-06T21:31:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026092914432112952"
         },
         {
           "id": "https://www.etnews.com/20261006000367",
@@ -432,38 +452,12 @@
           "url": "https://www.mk.co.kr/news/business/12169571",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261006180412",
-          "title": "엔이에스, 프로젝트 기반 통합 업무 관리 툴 'AI 원웍스' 첫 선",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T09:13:57Z",
-          "publishedAt": "2026-10-06T09:13:57Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261006180412",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=07058566645610296&mediaCodeNo=257",
-          "title": "에이로봇, 방산혁신기업 선정…휴머노이드 군 시범운용 추진",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T15:31:00Z",
-          "publishedAt": "2026-10-06T15:31:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=07058566645610296&mediaCodeNo=257"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 6
         },
         {
           "word": "반도체",
@@ -471,7 +465,7 @@
         },
         {
           "word": "로봇",
-          "count": 3
+          "count": 2
         },
         {
           "word": "배터리",
@@ -483,6 +477,10 @@
         },
         {
           "word": "제조",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -652,16 +650,16 @@
           "url": "https://tradeonlytoday.com/industry-news/employment-survey-shows-q4-global-hiring-growth/"
         },
         {
-          "id": "http://www.thegazette.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_7ba488b6-110c-5ed4-b02d-f1da8eeaf3a3.html",
+          "id": "http://www.reflector.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_092be1d5-c8c0-597c-86ff-70fd9dc38fee.html",
           "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-          "source": "thegazette.com",
+          "source": "reflector.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:47:00Z",
-          "publishedAt": "2026-10-06T20:47:00Z",
+          "dateRaw": "2026-10-06T21:31:00Z",
+          "publishedAt": "2026-10-06T21:31:00Z",
           "summary": "",
-          "url": "http://www.thegazette.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_7ba488b6-110c-5ed4-b02d-f1da8eeaf3a3.html"
+          "url": "http://www.reflector.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_092be1d5-c8c0-597c-86ff-70fd9dc38fee.html"
         },
         {
           "id": "https://www.northernpen.ca/the-us-economy-added-253000-jobs-in-a-sign-of-labor-market-strength/",
@@ -748,25 +746,25 @@
           "url": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year"
         },
         {
-          "id": "https://economictimes.indiatimes.com/wealth/save/eps-pension-eligibility-is-eps-membership-mandatory-for-you-if-your-wages-are-rs-25000-check-status/articleshow/134705454.cms",
-          "title": "EPS pension eligibility: Is EPS membership mandatory for you if your wages are Rs 25,000+? Check status - The Economic Times",
-          "source": "economictimes.indiatimes.com",
+          "id": "https://www.juneesoutherncross.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
+          "title": "Population growth not stopping 'recession-like' economy",
+          "source": "juneesoutherncross.com.au",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T21:02:00Z",
-          "publishedAt": "2026-10-06T21:02:00Z",
+          "dateRaw": "2026-10-06T21:31:00Z",
+          "publishedAt": "2026-10-06T21:31:00Z",
           "summary": "",
-          "url": "https://economictimes.indiatimes.com/wealth/save/eps-pension-eligibility-is-eps-membership-mandatory-for-you-if-your-wages-are-rs-25000-check-status/articleshow/134705454.cms"
+          "url": "https://www.juneesoutherncross.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
         }
       ],
       "keywords": [
         {
-          "word": "고용",
-          "count": 2
+          "word": "성장",
+          "count": 3
         },
         {
-          "word": "성장",
+          "word": "고용",
           "count": 2
         },
         {
@@ -942,9 +940,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1241,
-    "fetchedItems": 4379,
-    "feedBytes": 1229698,
+    "poolSize": 1319,
+    "fetchedItems": 4290,
+    "feedBytes": 1184137,
     "rollingWindowHours": 72
   }
 }
