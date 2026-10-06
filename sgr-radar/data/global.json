@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 04:51:20",
+  "updatedAt": "2026. 10. 07. 오전 05:11:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 837,
-    "passed": 66,
-    "deduped": 66,
-    "eventDeduped": 66,
+    "raw": 897,
+    "passed": 67,
+    "deduped": 67,
+    "eventDeduped": 67,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -188,6 +188,18 @@
       "url": "https://www.newspim.com/news/view/20261007000005"
     },
     {
+      "id": "http://www.calcuttanews.net/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion",
+      "title": "US trade deficit widens to USD 105.6 billion in August as imports jump; deficit with India at USD 6.2 billion",
+      "source": "calcuttanews.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T20:02:00Z",
+      "publishedAt": "2026-10-06T20:02:00Z",
+      "summary": "",
+      "url": "http://www.calcuttanews.net/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion"
+    },
+    {
       "id": "https://globalnews.ca/news/12089828/donald-trump-tariffs-exports-august/",
       "title": "Exports to the U.S. spiked in August before Trump’s 50% tariffs: StatCan - National | Globalnews.ca",
       "source": "globalnews.ca",
@@ -198,18 +210,6 @@
       "publishedAt": "2026-10-06T19:46:00Z",
       "summary": "",
       "url": "https://globalnews.ca/news/12089828/donald-trump-tariffs-exports-august/"
-    },
-    {
-      "id": "http://www.vietnamtribune.com/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion",
-      "title": "US trade deficit widens to USD 105.6 billion in August as imports jump; deficit with India at USD 6.2 billion",
-      "source": "vietnamtribune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T19:46:00Z",
-      "publishedAt": "2026-10-06T19:46:00Z",
-      "summary": "",
-      "url": "http://www.vietnamtribune.com/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion"
     },
     {
       "id": "http://www.shanghaisun.com/news/279354553/dgtr-launches-five-anti-dumping-probes-on-chinese-imports-steps-up-trade-remedy-action",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 837,
-    "fetchedItems": 4658,
-    "relevantItems": 95,
-    "feedBytes": 1288533,
+    "poolSize": 897,
+    "fetchedItems": 4819,
+    "relevantItems": 82,
+    "feedBytes": 1375873,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
