@@ -155,6 +155,10 @@ NOISE_PATTERNS = [
     r"student loans?|student loan borrowers?|borrowers?.*student loan",
     r"serie a|premier league|loan exit|transfer window|footballer|midfielder|striker|defender",
     r"\[?美?특징주\]?|주가.*(?:급등|급락)|(?:급등|급락).*주가",
+    r"how to buy a home|va loans?|mortgage rates?|home loans?|assum(?:e|ing).*loan",
+    r"sets reference exchange rate at|reference exchange rate at",
+    r"ai hacker|cyberattacks?.*job losses|security & livelihoods",
+    r"congress votes to have say in data center discussion|immersion school",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
