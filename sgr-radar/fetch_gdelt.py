@@ -118,6 +118,7 @@ TOPIC_GROUPS = {
 BLOCKED_DOMAINS = {
     "prnewswire.com", "openpr.com", "einpresswire.com", "globenewswire.com",
     "newsfilecorp.com", "accesswire.com", "businesswire.com", "newswiretoday.com",
+    "insidermonkey.com", "fool.com", "enewschannels.com", "naslovi.net",
 }
 STRONG_DOMAINS = {
     "reuters.com", "apnews.com", "bloomberg.com", "cnbc.com", "ft.com", "wsj.com",
@@ -134,6 +135,11 @@ NOISE_PATTERNS = [
     r"stocks? worth watching|stock picks?|which .* stock is a better buy|price target|buy rating|sell rating",
     r"\bstock\s*:", r"\((?:nasdaq|nyse|nysearca):", r"murder|triple murder|police nab|pleads guilty|felon",
     r"job in [a-z]|stellenangebote|vacancy|apply now|hiring now",
+    r"why do investors like|what it means for investors|well-positioned to capitalize|investment thesis",
+    r"motley fool|insider monkey|seeking alpha|zacks investment",
+    r"\\blawyer\\b|attorney profile|commercial, corporate governance & securities lawyer",
+    r"public input on new water tariffs|water tariffs in ",
+    r"produces song using instruments|meet .* humanoid robot working at .* repair shop",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
@@ -208,12 +214,21 @@ def infer_language(title: str) -> str:
         return ""
     funcs = {"the","and","to","of","in","for","on","as","with","from","by","amid","after","before","into","over","at","is","are","will","new","how","why","what","could","can","its","their","against","across","through","under","without","more","than"}
     strategic = {"ai","artificial","intelligence","business","company","corporate","workforce","employee","workers","jobs","layoffs","leadership","management","strategy","market","trade","tariff","supply","chain","energy","oil","data","center","semiconductor","chip","robotics","manufacturing","investment","growth","productivity","consumer","technology","software","development","economy","inflation","rate"}
+    foreign = {"aktie","kurs","und","der","die","das","mit","fuer","il","lo","gli","della","delle","che","nel","danno","el","los","las","del","para","por","autoriza","le","les","des","avec","dans","uma","dos","com","pela","offese","agli","alla","dell","degli"}
     token_set = set(tokens)
-    if token_set & funcs:
+    english_score = len(token_set & funcs)
+    strategic_score = len(token_set & strategic)
+    foreign_score = len(token_set & foreign)
+    if foreign_score >= 2 and english_score == 0:
+        return ""
+    if english_score >= 1:
         return "English"
-    if len(token_set & strategic) >= 2:
+    if strategic_score >= 2 and foreign_score == 0:
         return "English"
-    if len(token_set & strategic) >= 1 and len(tokens) >= 5:
+    ascii_letters = len(re.findall(r"[A-Za-z]", t))
+    latin_letters = len(re.findall(r"[A-Za-zÀ-ɏ]", t))
+    ascii_ratio = ascii_letters / latin_letters if latin_letters else 0
+    if strategic_score >= 1 and foreign_score == 0 and ascii_ratio >= 0.98 and len(tokens) >= 5:
         return "English"
     return ""
 
@@ -254,8 +269,12 @@ def fetch_rss() -> tuple[list[dict], int]:
     return items, len(raw)
 
 def contains_term(text: str, term: str) -> bool:
-    t, q = text.lower(), term.lower()
-    return q in (f" {t} " if q.startswith(" ") or q.endswith(" ") else t)
+    t, q = text.lower(), clean(term).lower()
+    if not q:
+        return False
+    if re.fullmatch(r"[a-z0-9]+", q, re.I) and len(q) <= 3:
+        return re.search(r"\\b" + re.escape(q) + r"\\b", t, re.I) is not None
+    return q in t
 
 def relevance_score(title: str, terms: list[str]) -> int:
     return sum(1 for term in terms if contains_term(title, term))
@@ -320,9 +339,19 @@ def potential(item: dict) -> bool:
             return True
     return False
 
+def clearly_local_low_value(key: str, item: dict) -> bool:
+    title = clean(item.get("title")).lower()
+    if key == "management":
+        return re.search(r"school board|assistant superintendent|city council|county board|local charity|career fair|job fair|municipal|red cross unveils employer brand|state workforce summit", title, re.I) is not None
+    if key == "global":
+        return re.search(r"\\|\\s*[a-z -]+news\\s*$", clean(item.get("title")), re.I) is not None or re.search(r"public input on new water tariffs|county|municipal|local council", title, re.I) is not None
+    return False
+
 def quality(key: str, item: dict) -> bool:
     title = clean(item.get("title"))
     if len(title) < 14 or infer_language(title) not in {"Korean", "English"} or is_noise(item):
+        return False
+    if clearly_local_low_value(key, item):
         return False
     if key == "management":
         return (not is_management_routine(item)) and (management_signal(title) >= 1 or management_broad_signal(title) >= 1)
@@ -367,6 +396,11 @@ def dedupe(items: list[dict]) -> list[dict]:
 def score_item(key: str, item: dict) -> int:
     title = clean(item.get("title"))
     score = relevance_score(title, NEWS_TERMS[key]) * 2
+    domain = clean(item.get("source")).lower().removeprefix("www.")
+    if domain in {"insidermonkey.com","fool.com","seekingalpha.com","zacks.com"}:
+        score -= 20
+    if re.search(r"investors?|stock|shares?|buy rating|sell rating|price target", title, re.I):
+        score -= 8
     if topic_for(key, title) != "other": score += 2
     if clean(item.get("source")).lower().removeprefix("www.") in STRONG_DOMAINS: score += 4
     if item.get("language") == "Korean": score += 1
