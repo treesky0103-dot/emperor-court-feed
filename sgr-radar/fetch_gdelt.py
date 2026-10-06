@@ -149,6 +149,8 @@ NOISE_PATTERNS = [
     r"how much does a .* battery storage system cost|capex, revenue and roi explained",
     r"\bstatoil\b",
     r"not sanctioned by law|sanctioned by law|illegally detained|detained for .* after bail",
+    r"cloud storage for life|deal.*cloud storage|\b1tb\b.*cloud storage",
+    r"chocolate chip|cookie recipe|recipes? for .*cookies|fresh apple cake",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
@@ -390,7 +392,7 @@ def potential(item: dict) -> bool:
 def clearly_local_low_value(key: str, item: dict) -> bool:
     title = clean(item.get("title")).lower()
     if key == "management":
-        return re.search(r"school board|assistant superintendent|city council|county board|local charity|career fair|job fair|municipal|red cross unveils employer brand|state workforce summit", title, re.I) is not None
+        return re.search(r"school board|assistant superintendent|city council|county board|local charity|career fair|job fair|municipal|red cross unveils employer brand|state workforce summit|민선\d+기 조직개편|구청|시청|군청|지자체|도시환경국|미래정책실", title, re.I) is not None
     if key == "global":
         return re.search(r"\|\s*[a-z -]+news\s*$", clean(item.get("title")), re.I) is not None or re.search(r"public input on new water tariffs|county|municipal|local council", title, re.I) is not None
     return False
