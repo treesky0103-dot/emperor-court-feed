@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 03:23:52",
+  "updatedAt": "2026. 10. 07. 오전 03:39:30",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -489,6 +489,30 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.qatarliving.com/en/article/hmc-to-host-international-congress-on-healthy-ageing-and-geriatric-rehabilitation",
+          "title": "HMC to Host International Congress on Healthy Ageing and Geriatric Rehabilitation | Qatar Living",
+          "source": "qatarliving.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:32:00Z",
+          "publishedAt": "2026-10-06T18:32:00Z",
+          "summary": "",
+          "url": "https://www.qatarliving.com/en/article/hmc-to-host-international-congress-on-healthy-ageing-and-geriatric-rehabilitation"
+        },
+        {
+          "id": "https://www.adn.com/nation-world/2026/10/06/french-riot-police-fire-tear-gas-as-more-than-250000-rally-nationwide-for-school-funding/",
+          "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding",
+          "source": "adn.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:31:00Z",
+          "publishedAt": "2026-10-06T18:31:00Z",
+          "summary": "",
+          "url": "https://www.adn.com/nation-world/2026/10/06/french-riot-police-fire-tear-gas-as-more-than-250000-rally-nationwide-for-school-funding/"
+        },
+        {
           "id": "https://times.co.zm/south-africa-crackdowns-on-graft-at-borders-immigration-system/",
           "title": "South Africa crackdowns on graft at borders, immigration system - Times of Zambia",
           "source": "times.co.zm",
@@ -595,6 +619,14 @@
           "count": 2
         },
         {
+          "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "교육",
+          "count": 1
+        },
+        {
           "word": "불평등",
           "count": 1
         },
@@ -603,9 +635,9 @@
           "count": 1
         }
       ],
-      "displayed": 8,
+      "displayed": 10,
       "target": 10,
-      "targetMet": false
+      "targetMet": true
     },
     "economy": {
       "items": [
@@ -694,6 +726,18 @@
           "url": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year"
         },
         {
+          "id": "https://www.wellingtontimes.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
+          "title": "Population growth not stopping 'recession-like' economy",
+          "source": "wellingtontimes.com.au",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:31:00Z",
+          "publishedAt": "2026-10-06T18:31:00Z",
+          "summary": "",
+          "url": "https://www.wellingtontimes.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
+        },
+        {
           "id": "http://www.tucsonpost.com/news/279354891/nbfc-retail-loan-growth-accelerates-to-22-in-august-gold-loans-rise-69-rbi",
           "title": "NBFC retail loan growth accelerates to 22% in August; gold loans rise 69%: RBI",
           "source": "tucsonpost.com",
@@ -716,18 +760,6 @@
           "publishedAt": "2026-10-06T18:17:00Z",
           "summary": "",
           "url": "https://www.thehindubusinessline.com/money-and-banking/nbfcs-log-158-credit-growth-in-august-2026-on-the-back-of-loans-to-retail-and-agri-segments/article71552501.ece"
-        },
-        {
-          "id": "https://www.newcastleherald.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
-          "title": "Population growth not stopping 'recession-like' economy",
-          "source": "newcastleherald.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:01:00Z",
-          "publishedAt": "2026-10-06T18:01:00Z",
-          "summary": "",
-          "url": "https://www.newcastleherald.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
         }
       ],
       "keywords": [
@@ -908,9 +940,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 654,
-    "fetchedItems": 5536,
-    "feedBytes": 1591558,
+    "poolSize": 718,
+    "fetchedItems": 5760,
+    "feedBytes": 1612174,
     "rollingWindowHours": 72
   }
 }
