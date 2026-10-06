@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "category": "global",
+  "provider": "GDELT-RSS-GITHUB-ACTIONS",
+  "updatedAt": "",
+  "stale": true,
+  "cache": "GITHUB-ACTIONS-SEED",
+  "quality": {
+    "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
+    "raw": 0,
+    "passed": 0,
+    "deduped": 0,
+    "eventDeduped": 0,
+    "displayed": 0,
+    "displayTarget": 10,
+    "floorAdded": 0,
+    "targetMet": false
+  },
+  "items": [],
+  "trendItems": [],
+  "rss": {
+    "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
+    "mode": "AWAITING-FIRST-GITHUB-ACTIONS-RUN",
+    "poolSize": 0,
+    "fetchedItems": 0,
+    "relevantItems": 0,
+    "feedBytes": 0,
+    "rollingWindowHours": 24,
+    "displayTarget": 10
+  }
+}
