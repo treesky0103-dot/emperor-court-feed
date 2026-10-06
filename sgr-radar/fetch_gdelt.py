@@ -360,9 +360,9 @@ def global_signal(title: str) -> int:
 def url_embedded_date_is_stale(url: str, max_age_days: int = 3) -> bool:
     """Reject obviously resurfaced old articles when the URL itself carries an old publication date."""
     path = urlparse(clean(url)).path
-    match = re.search(r"/(20\\d{2})/(0?[1-9]|1[0-2])/(0?[1-9]|[12]\\d|3[01])(?:/|$)", path)
+    match = re.search(r"/(20\d{2})/(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])(?:/|$)", path)
     if not match:
-        match = re.search(r"/(20\\d{2})-(0?[1-9]|1[0-2])-(0?[1-9]|[12]\\d|3[01])(?:/|$)", path)
+        match = re.search(r"/(20\d{2})-(0?[1-9]|1[0-2])-(0?[1-9]|[12]\d|3[01])(?:/|$)", path)
     if not match:
         return False
     try:
