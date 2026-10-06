@@ -3,7 +3,7 @@
   "planDay": "2026-10-06",
   "planSetId": "zps-20261006-aa2d0344",
   "generatedAt": "2026-10-06T00:00:00.053Z",
-  "publishedAt": "2026-10-06T00:18:41.809Z",
+  "publishedAt": "2026-10-06T00:18:54.179Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.113",
   "morningEdition": {
@@ -212,7 +212,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-06T00:18:00.001Z",
+        "generatedAt": "2026-10-06T00:18:18.719Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -237,81 +237,78 @@
           ]
         },
         "bookTitle": "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "gemini",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "감성 문장",
-            "headline": "데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
+            "headline": "남들이 좋다는 곳에서\n자꾸만 길을 잃었다",
             "body": "",
             "accent": "yellow",
             "sceneId": "008",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "장면",
-            "headline": "경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서.",
-            "body": "",
+            "headline": "줄 서서 들어간 카페,\n기대와 달랐던 그 자리",
+            "body": "유명한 추천을 따라간 주말의 끝",
             "accent": "yellow",
             "sceneId": "012",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "감정",
-            "headline": "가장 어려운 시기 이례적 인정 페제시키안 대통령도 특단의 대책.",
-            "body": "",
+            "headline": "모두가 감탄하는데\n나만 겉도는 기분",
+            "body": "좋아해야 할 것 같은 압박이 남는다",
             "accent": "yellow",
             "sceneId": "021",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "관점 전환",
-            "headline": "카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다.",
-            "body": "",
+            "headline": "하지만 실망한 순간이\n내 기준을 선명하게 만든다",
+            "body": "어긋난 경험 속에 취향의 단서가 있다",
             "accent": "yellow",
             "sceneId": "014",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "수용",
-            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
-            "body": "",
+            "headline": "실패한 선택까지 기록할 때\n비로소 내 안목이 된다",
+            "body": "별로였던 이유를 적어두면 길을 잃지 않는다",
             "accent": "yellow",
             "sceneId": "032",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "여운",
-            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "headline": "취향은 찬사가 아니라\n거절의 기록에서 자란다",
             "body": "",
             "accent": "yellow",
             "sceneId": "042",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-d6d5aa4f"
       },
       "coverRefs": [
@@ -779,7 +776,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-06T00:18:00.001Z",
+        "generatedAt": "2026-10-06T00:18:18.719Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -804,81 +801,78 @@
           ]
         },
         "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "gemini",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "강한 선언",
-            "headline": "업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+            "headline": "AI가 다 해준 일에\n당신 몫은 없다",
             "body": "",
             "accent": "yellow",
             "sceneId": "001",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "warning",
             "beat": "공감",
-            "headline": "쪼개 AI에 넘길 일과 사람임질 일을 다시 설계하는 커리어 실전서.",
-            "body": "",
+            "headline": "클릭 몇 번으로 끝낸 보고서,\n어딘가 불안하지 않은가",
+            "body": "속도는 빨라졌지만 내 실력은 아니다",
             "accent": "yellow",
             "sceneId": "024",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "구체적 증상",
-            "headline": "신호: AI가 일을 끝내준 자리, ‘내가 해냈다’는 기분은 남았을까.",
-            "body": "",
+            "headline": "생성된 문장을 그대로 복사하고\n숫자 검증조차 건너뛴다면",
+            "body": "사고가 나는 건 시간문제다",
             "accent": "yellow",
             "sceneId": "027",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "판단 기준",
-            "headline": "기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다.",
-            "body": "",
+            "headline": "책임질 수 없는 결과물은\n성과가 아니라 위험이다",
+            "body": "누가 질문했을 때 설명할 수 있어야 한다",
             "accent": "yellow",
             "sceneId": "016",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "해결",
-            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
-            "body": "",
+            "headline": "도구를 쓰기 전과 후에\n검증할 기준 질문을 적어라",
+            "body": "기계에 넘길 일과 지킬 일을 분리하라",
             "accent": "yellow",
             "sceneId": "040",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "강한 결론",
-            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+            "headline": "마지막 확인을 하는 사람만이\n대체되지 않는다",
             "body": "",
             "accent": "yellow",
             "sceneId": "050",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-d6d5aa4f"
       },
       "coverRefs": [
@@ -1346,7 +1340,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-06T00:18:00.001Z",
+        "generatedAt": "2026-10-06T00:18:10.217Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1371,10 +1365,10 @@
           ]
         },
         "bookTitle": "돈의 결정을 미루지 않게 하는 다섯 가지 질문",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -1443,9 +1437,6 @@
             "source": "rule-fallback"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-d6d5aa4f"
       },
       "coverRefs": [
