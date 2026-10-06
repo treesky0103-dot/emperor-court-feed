@@ -436,6 +436,28 @@ def infer_language(title: str) -> str:
         return "English"
     return ""
 
+
+def parse_xml_relaxed(raw: bytes) -> ET.Element:
+    try:
+        return ET.fromstring(raw)
+    except ET.ParseError:
+        text = raw.decode("utf-8", errors="replace")
+        # XML 1.0 valid character ranges only.
+        text = "".join(
+            ch for ch in text
+            if ch in "\t\n\r"
+            or 0x20 <= ord(ch) <= 0xD7FF
+            or 0xE000 <= ord(ch) <= 0xFFFD
+            or 0x10000 <= ord(ch) <= 0x10FFFF
+        )
+        # Escape bare ampersands while preserving valid XML entities.
+        text = re.sub(
+            r"&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9A-Fa-f]+;)",
+            "&amp;",
+            text,
+        )
+        return ET.fromstring(text)
+
 def fetch_rss() -> tuple[list[dict], int]:
     req = urllib.request.Request(
         GDELT_RSS_URL,
@@ -448,7 +470,7 @@ def fetch_rss() -> tuple[list[dict], int]:
         raw = resp.read(16 * 1024 * 1024 + 1)
     if len(raw) > 16 * 1024 * 1024:
         raise RuntimeError("GDELT RSS exceeds 16MB guard")
-    root = ET.fromstring(raw)
+    root = parse_xml_relaxed(raw)
     items = []
     now_iso = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     for node in root.findall(".//item"):
