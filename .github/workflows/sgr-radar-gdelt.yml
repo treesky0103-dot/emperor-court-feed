@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: sgr-radar-gdelt-refresh
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -25,6 +25,9 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
+      - name: Sync latest main
+        run: git pull --ff-only origin main
 
       - name: Refresh SGR news JSON
         run: python sgr-radar/fetch_gdelt.py
@@ -41,5 +44,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sgr-radar/data
           git commit -m "Update SGR GDELT radar data"
-          git pull --rebase origin main
           git push origin HEAD:main
