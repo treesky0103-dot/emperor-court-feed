@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 05:11:43",
+  "updatedAt": "2026. 10. 07. 오전 05:36:24",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -169,16 +169,16 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/stock/12169387",
-          "title": "“아무리 확신 있어도 몰빵은 금물” … IMF 때도 웃은 최권욱의 투자법",
+          "id": "https://www.mk.co.kr/news/society/12169429",
+          "title": "휴대폰 방전 막은 게 86배 투자대박의 비결? … ‘배터리 풍수’의 비밀",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:00:00Z",
-          "publishedAt": "2026-10-07T05:00:00Z",
+          "dateRaw": "2026-10-07T05:30:00Z",
+          "publishedAt": "2026-10-07T05:30:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/stock/12169387",
+          "url": "https://www.mk.co.kr/news/society/12169429",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -249,18 +249,18 @@
           "url": "https://www.anewsa.com/detail.php?number=3205401"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12169729",
-          "title": "금리 올렸는데도 집값 올랐다…참여정부 7차례 인상기에 깨진 상식 그 이유는 [부동산 손자병법]",
+          "id": "https://www.mk.co.kr/news/stock/12169387",
+          "title": "“아무리 확신 있어도 몰빵은 금물” … IMF 때도 웃은 최권욱의 투자법",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:17:53Z",
-          "publishedAt": "2026-10-06T20:17:53Z",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T05:00:00Z",
+          "publishedAt": "2026-10-07T05:00:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12169729",
+          "url": "https://www.mk.co.kr/news/stock/12169387",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.etnews.com/20261006000411",
@@ -308,11 +308,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 3
-        },
-        {
-          "word": "금리",
-          "count": 1
+          "count": 4
         },
         {
           "word": "수출",
@@ -539,6 +535,66 @@
           "url": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/"
         },
         {
+          "id": "https://vtdigger.org/2026/10/06/vermont-colleges-chart-a-path-forward-against-demographic-and-financial-headwinds/",
+          "title": "Vermont colleges chart a path forward against demographic and financial headwinds - VTDigger",
+          "source": "vtdigger.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T20:32:00Z",
+          "publishedAt": "2026-10-06T20:32:00Z",
+          "summary": "",
+          "url": "https://vtdigger.org/2026/10/06/vermont-colleges-chart-a-path-forward-against-demographic-and-financial-headwinds/"
+        },
+        {
+          "id": "https://www.ncregister.com/cna/denver-migrants-refugees",
+          "title": "Denver Bishops Mark America 250 With Message on Migrants and Refugees",
+          "source": "ncregister.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T20:32:00Z",
+          "publishedAt": "2026-10-06T20:32:00Z",
+          "summary": "",
+          "url": "https://www.ncregister.com/cna/denver-migrants-refugees"
+        },
+        {
+          "id": "https://wjla.com/news/local/maryland-governor-debate-dan-cox-wes-moore",
+          "title": "Cox, Moore spar over taxes, Trump & immigration in Maryland governor’s debate",
+          "source": "wjla.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T20:32:00Z",
+          "publishedAt": "2026-10-06T20:32:00Z",
+          "summary": "",
+          "url": "https://wjla.com/news/local/maryland-governor-debate-dan-cox-wes-moore"
+        },
+        {
+          "id": "https://www.somersetcountygazette.co.uk/news/national/26613246.french-riot-police-fire-tear-gas-250-000-rally-school-funding/",
+          "title": "French riot police fire tear gas as more than 250,000 rally for school funding",
+          "source": "somersetcountygazette.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T20:31:00Z",
+          "publishedAt": "2026-10-06T20:31:00Z",
+          "summary": "",
+          "url": "https://www.somersetcountygazette.co.uk/news/national/26613246.french-riot-police-fire-tear-gas-250-000-rally-school-funding/"
+        },
+        {
+          "id": "https://www.sandiegouniontribune.com/2026/10/06/el-cajon-council-candidates-spar-over-surveillance-cameras-immigration-and-homelessness/",
+          "title": "El Cajon council candidates spar over surveillance cameras, immigration and homelessness",
+          "source": "sandiegouniontribune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T20:31:00Z",
+          "publishedAt": "2026-10-06T20:31:00Z",
+          "summary": "",
+          "url": "https://www.sandiegouniontribune.com/2026/10/06/el-cajon-council-candidates-spar-over-surveillance-cameras-immigration-and-homelessness/"
+        },
+        {
           "id": "https://www.jpost.com/international/article-910840",
           "title": "French protests a result of mass migration, Islam, says Donald Trump | The Jerusalem Post",
           "source": "jpost.com",
@@ -561,80 +617,16 @@
           "publishedAt": "2026-10-06T20:02:00Z",
           "summary": "",
           "url": "https://www.foxnews.com/world/trump-waltz-link-france-riots-mass-immigration-thousands-arrested"
-        },
-        {
-          "id": "https://belarusdigest.com/story/analytical-paper-reform-of-legal-education-in-belarus-and-the-united-kingdom/",
-          "title": "Analytical paper: Reform of legal education in Belarus and the United Kingdom",
-          "source": "belarusdigest.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:02:00Z",
-          "publishedAt": "2026-10-06T20:02:00Z",
-          "summary": "",
-          "url": "https://belarusdigest.com/story/analytical-paper-reform-of-legal-education-in-belarus-and-the-united-kingdom/"
-        },
-        {
-          "id": "https://timesofindia.indiatimes.com/city/guwahati/amid-illegal-foreigners-refugees-entry-mizoram-steps-up-checks-on-hotels-homestays/articleshow/134748328.cms",
-          "title": "Amid illegal foreigners, refugees’ entry, Mizoram steps up checks on hotels, homestays",
-          "source": "timesofindia.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:01:00Z",
-          "publishedAt": "2026-10-06T20:01:00Z",
-          "summary": "",
-          "url": "https://timesofindia.indiatimes.com/city/guwahati/amid-illegal-foreigners-refugees-entry-mizoram-steps-up-checks-on-hotels-homestays/articleshow/134748328.cms"
-        },
-        {
-          "id": "https://www.lewistownsentinel.com/news/agriculture/2026/10/usda-announces-actions-marking-new-era-of-companion-animal-welfare/",
-          "title": "USDA announces actions marking new era of companion animal welfare",
-          "source": "lewistownsentinel.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:01:00Z",
-          "publishedAt": "2026-10-06T20:01:00Z",
-          "summary": "",
-          "url": "https://www.lewistownsentinel.com/news/agriculture/2026/10/usda-announces-actions-marking-new-era-of-companion-animal-welfare/"
-        },
-        {
-          "id": "https://www.theleader.com.au/story/9360655/sutherland-shire-mental-health-expo-expands-to-meet-demand/",
-          "title": "Rotary's mental health expo in shire expands to meet surging demand",
-          "source": "theleader.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T19:47:00Z",
-          "publishedAt": "2026-10-06T19:47:00Z",
-          "summary": "",
-          "url": "https://www.theleader.com.au/story/9360655/sutherland-shire-mental-health-expo-expands-to-meet-demand/"
-        },
-        {
-          "id": "https://ghanaiantimes.com.gh/gnfs-to-integrate-fire-safety-education-into-basic-school-curriculum/",
-          "title": "GNFS to integrate fire safety education into basic school curriculum - Ghanaian Times",
-          "source": "ghanaiantimes.com.gh",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T19:47:00Z",
-          "publishedAt": "2026-10-06T19:47:00Z",
-          "summary": "",
-          "url": "https://ghanaiantimes.com.gh/gnfs-to-integrate-fire-safety-education-into-basic-school-curriculum/"
         }
       ],
       "keywords": [
         {
-          "word": "교육",
-          "count": 5
-        },
-        {
           "word": "이민",
-          "count": 4
+          "count": 6
         },
         {
-          "word": "정신건강",
-          "count": 1
+          "word": "교육",
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -654,6 +646,18 @@
           "publishedAt": "2026-10-06T17:02:00Z",
           "summary": "",
           "url": "https://tradeonlytoday.com/industry-news/employment-survey-shows-q4-global-hiring-growth/"
+        },
+        {
+          "id": "http://www.wataugademocrat.com/ap/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_abd6e25b-f814-57d6-bc31-f52f366f6097.html",
+          "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+          "source": "wataugademocrat.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T20:31:00Z",
+          "publishedAt": "2026-10-06T20:31:00Z",
+          "summary": "",
+          "url": "http://www.wataugademocrat.com/ap/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_abd6e25b-f814-57d6-bc31-f52f366f6097.html"
         },
         {
           "id": "https://www.northernpen.ca/the-us-economy-added-253000-jobs-in-a-sign-of-labor-market-strength/",
@@ -750,24 +754,12 @@
           "publishedAt": "2026-10-06T19:46:00Z",
           "summary": "",
           "url": "http://www.newzealandstar.com/news/279354891/nbfc-retail-loan-growth-accelerates-to-22-in-august-gold-loans-rise-69-rbi"
-        },
-        {
-          "id": "https://www.redlandcitybulletin.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
-          "title": "Population growth not stopping 'recession-like' economy",
-          "source": "redlandcitybulletin.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T19:03:00Z",
-          "publishedAt": "2026-10-06T19:03:00Z",
-          "summary": "",
-          "url": "https://www.redlandcitybulletin.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 4
+          "count": 3
         },
         {
           "word": "고용",
@@ -946,9 +938,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1007,
-    "fetchedItems": 4819,
-    "feedBytes": 1375873,
+    "poolSize": 1094,
+    "fetchedItems": 4643,
+    "feedBytes": 1281375,
     "rollingWindowHours": 72
   }
 }
