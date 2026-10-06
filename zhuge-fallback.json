@@ -3,9 +3,25 @@
   "planDay": "2026-10-06",
   "planSetId": "zps-20261006-4ccb830e",
   "generatedAt": "2026-10-06T02:00:57.423Z",
-  "publishedAt": "2026-10-06T02:01:47.763Z",
+  "publishedAt": "2026-10-06T02:16:29.044Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.118",
+  "publisherVersion": "v2.15.119",
+  "morningEdition": {
+    "day": "2026-10-06",
+    "planSetId": "zps-20261006-4ccb830e",
+    "titles": [
+      "불확실성 시대의 기업 생존 조건: 비재무적 리스크를 통제하는 경영 판단 순서",
+      "사는 이유를 만드는 설계: 쏟아지는 선택지 속에서 내 브랜드를 남기는 법",
+      "금리·자산 격변기, 내 돈을 지키는 방어 투자 판단 순서"
+    ],
+    "generationMode": "historical-high-quality-atomic",
+    "model": "gemini-3.8-flash",
+    "hqReady": true,
+    "contentRevision": "zcr-e4ed0aea",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-10-06T02:16:25.945Z",
+    "build": "v2.15.119"
+  },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
     "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 경영 · 마케팅 · 금융을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
@@ -524,7 +540,9 @@
               "error": "",
               "rawPreview": ""
             }
-          ]
+          ],
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
         }
       },
       "cardnews": {
@@ -1118,7 +1136,9 @@
               "error": "",
               "rawPreview": ""
             }
-          ]
+          ],
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
         }
       },
       "cardnews": {
@@ -1745,7 +1765,9 @@
               "error": "",
               "rawPreview": ""
             }
-          ]
+          ],
+          "deadlineApprovedFallback": 0,
+          "noExternalCalls": true
         }
       },
       "cardnews": {
