@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 07:12:35",
+  "updatedAt": "2026. 10. 07. 오전 07:34:21",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,6 +22,20 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.mk.co.kr/news/society/12169890",
+          "title": "85세 김혜자, 부국제 레드카펫서 기침에 부축까지…건강이상설 확산",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T07:15:36Z",
+          "publishedAt": "2026-10-07T07:15:36Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12169890",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02450166645610624&mediaCodeNo=257",
           "title": "장윤금 “AI가 대신 경험해줄 순 없어…인간을 더 인간답게 만드는 교육 필요”",
           "source": "edaily.co.kr",
@@ -32,20 +46,6 @@
           "publishedAt": "2026-10-06T22:02:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02450166645610624&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/economy/12169729",
-          "title": "금리 올렸는데도 집값 올랐다…참여정부 7차례 인상기에 깨진 상식 그 이유는 [부동산 손자병법]",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:17:53Z",
-          "publishedAt": "2026-10-06T20:17:53Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12169729",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261006215651",
@@ -143,7 +143,7 @@
         },
         {
           "word": "주거",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -245,6 +245,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.wikitree.co.kr/articles/1164416",
+          "title": "경기 끝나고 눈물 보인 황인범…‘대표팀 은퇴설’ 묻자 내놓은 답",
+          "source": "wikitree.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T22:31:00Z",
+          "publishedAt": "2026-10-06T22:31:00Z",
+          "summary": "",
+          "url": "https://www.wikitree.co.kr/articles/1164416"
+        },
+        {
           "id": "http://www.koreatimes.com/article/20261006/1632722",
           "title": "그래도 버틴다… “이란, 원유수출 막혀도 美 지치기 기다려” - 미주 한국일보",
           "source": "koreatimes.com",
@@ -267,26 +279,12 @@
           "publishedAt": "2026-10-06T17:47:00Z",
           "summary": "",
           "url": "https://www.anewsa.com/detail.php?number=3205401"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/stock/12169387",
-          "title": "“아무리 확신 있어도 몰빵은 금물” … IMF 때도 웃은 최권욱의 투자법",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:00:00Z",
-          "publishedAt": "2026-10-07T05:00:00Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/stock/12169387",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 5
         },
         {
           "word": "금리",
@@ -547,6 +545,18 @@
           "url": "https://www.abc.net.au/news/2026-10-07/coalition-migration-plan-risks-significant-economic-hit/107236278"
         },
         {
+          "id": "http://www.zerohedge.com/political/new-report-confirms-bidens-doj-did-target-parents-who-spoke-out-school-board-meetings",
+          "title": "New Report Confirms Biden's DOJ Did Target Parents Who Spoke Out At School Board Meetings",
+          "source": "zerohedge.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T22:31:00Z",
+          "publishedAt": "2026-10-06T22:31:00Z",
+          "summary": "",
+          "url": "http://www.zerohedge.com/political/new-report-confirms-bidens-doj-did-target-parents-who-spoke-out-school-board-meetings"
+        },
+        {
           "id": "https://fox56.com/news/local/state-police-investigate-report-of-possible-weapons-at-pleasant-valley-high-school",
           "title": "State police investigate report of possible weapons at Pleasant Valley High School",
           "source": "fox56.com",
@@ -593,18 +603,6 @@
           "publishedAt": "2026-10-06T21:01:00Z",
           "summary": "",
           "url": "https://jbhe.com/2026/10/yale-reports-a-decline-in-the-share-of-black-first-year-students/"
-        },
-        {
-          "id": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/",
-          "title": "Nearly half of Kenyan pupils barred from class over illegal school levies, survey finds",
-          "source": "kenya-today.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:47:00Z",
-          "publishedAt": "2026-10-06T18:47:00Z",
-          "summary": "",
-          "url": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/"
         }
       ],
       "keywords": [
@@ -809,6 +807,18 @@
           "url": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/"
         },
         {
+          "id": "https://www.industrytap.com/9-top-manufacturing-ai-agents-full-list/81739",
+          "title": "9 Top Manufacturing AI Agents (Full List)",
+          "source": "industrytap.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T22:31:00Z",
+          "publishedAt": "2026-10-06T22:31:00Z",
+          "summary": "",
+          "url": "https://www.industrytap.com/9-top-manufacturing-ai-agents-full-list/81739"
+        },
+        {
           "id": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/",
           "title": "GPU utilization in post-training shapes better AI agents - SiliconANGLE",
           "source": "siliconangle.com",
@@ -891,18 +901,6 @@
           "publishedAt": "2026-10-06T17:02:00Z",
           "summary": "",
           "url": "https://freerepublic.com/focus/f-news/4398155/posts"
-        },
-        {
-          "id": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/",
-          "title": "Energy security and AI infrastructure redraw Asia’s trade finance map",
-          "source": "gtreview.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T16:32:00Z",
-          "publishedAt": "2026-10-06T16:32:00Z",
-          "summary": "",
-          "url": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/"
         }
       ],
       "keywords": [
@@ -924,7 +922,7 @@
         },
         {
           "word": "제조",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -934,9 +932,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1439,
-    "fetchedItems": 4097,
-    "feedBytes": 1155873,
+    "poolSize": 1463,
+    "fetchedItems": 1098,
+    "feedBytes": 294199,
     "rollingWindowHours": 72
   }
 }

@@ -7,10 +7,10 @@
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1300,
-    "passed": 583,
-    "deduped": 583,
-    "eventDeduped": 583,
+    "raw": 1322,
+    "passed": 587,
+    "deduped": 587,
+    "eventDeduped": 587,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1300,
-    "fetchedItems": 4097,
-    "relevantItems": 126,
-    "feedBytes": 1155873,
+    "poolSize": 1322,
+    "fetchedItems": 1098,
+    "relevantItems": 38,
+    "feedBytes": 294199,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 07:12:31",
+  "updatedAt": "2026. 10. 07. 오전 07:34:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1300,
-    "passed": 54,
-    "deduped": 54,
-    "eventDeduped": 54,
+    "raw": 1322,
+    "passed": 56,
+    "deduped": 56,
+    "eventDeduped": 56,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -404,6 +404,18 @@
       "url": "https://www.etoday.co.kr/news/view/2630518"
     },
     {
+      "id": "https://www.kpcw.org/state-regional/2026-10-06/utahs-new-agreements-could-bring-ai-to-more-healthcare-processes",
+      "title": "Utah's new agreements could bring AI to more healthcare processes",
+      "source": "kpcw.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T22:31:00Z",
+      "publishedAt": "2026-10-06T22:31:00Z",
+      "summary": "",
+      "url": "https://www.kpcw.org/state-regional/2026-10-06/utahs-new-agreements-could-bring-ai-to-more-healthcare-processes"
+    },
+    {
       "id": "https://siliconangle.com/2026/10/06/cline-makes-the-case-for-an-open-ai-coding-harness-fullyconnected/",
       "title": "AI coding harness openness drives Cline's open-weight growth - SiliconANGLE",
       "source": "siliconangle.com",
@@ -584,6 +596,18 @@
       "url": "https://www.businessinsider.com/developers-are-burned-out-as-ai-coding-reshapes-work-survey-2026-10"
     },
     {
+      "id": "https://www.fox969.com/2026/10/06/wisconsin-steel-plant-to-layoff-nearly-100-workers/",
+      "title": "Wisconsin steel plant to layoff nearly 100 workers",
+      "source": "fox969.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T22:31:00Z",
+      "publishedAt": "2026-10-06T22:31:00Z",
+      "summary": "",
+      "url": "https://www.fox969.com/2026/10/06/wisconsin-steel-plant-to-layoff-nearly-100-workers/"
+    },
+    {
       "id": "https://thedailyblog.co.nz/unions-go-back-to-the-authority-to-stop-fenz-restructure-psa/",
       "title": "Unions Go Back To The Authority To Stop FENZ Restructure – PSA",
       "source": "thedailyblog.co.nz",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-06T19:46:00Z",
       "summary": "",
       "url": "https://www.wcvb.com/article/hubspot-layoffs-oct-6/74050651"
-    },
-    {
-      "id": "https://www.bnnbloomberg.ca/business/economics/2026/10/06/feds-give-us-owner-of-stelco-5-days-to-explain-planned-layoffs-at-hamilton-plant/",
-      "title": "Feds give U.S. owner of Stelco 5 days to explain planned layoffs at Hamilton plant",
-      "source": "bnnbloomberg.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T19:02:00Z",
-      "publishedAt": "2026-10-06T19:02:00Z",
-      "summary": "",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/06/feds-give-us-owner-of-stelco-5-days-to-explain-planned-layoffs-at-hamilton-plant/"
-    },
-    {
-      "id": "https://freerepublic.com/focus/f-news/4398175/posts",
-      "title": "Paramount, Warner Bros. Discovery complete $81B merger – and hint at layoffs",
-      "source": "freerepublic.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:32:00Z",
-      "publishedAt": "2026-10-06T18:32:00Z",
-      "summary": "",
-      "url": "https://freerepublic.com/focus/f-news/4398175/posts"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1300,
-    "fetchedItems": 4097,
-    "relevantItems": 126,
-    "feedBytes": 1155873,
+    "poolSize": 1322,
+    "fetchedItems": 1098,
+    "relevantItems": 38,
+    "feedBytes": 294199,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
