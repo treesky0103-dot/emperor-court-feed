@@ -143,6 +143,7 @@ SIGNAL_REJECT_PATTERNS = {
         r"stock rises?|shares? rise|stock market opens|morning squawk|price target|buy rating|sell rating",
         r"celebrity|actor|singer|church|jesus|atheist|sermon",
         r"주가.*(?:급등|급락)|(?:급등|급락).*주가|연예|배우|가수|교회|예수",
+        r"best graphics cards?|best gpu|bang for your buck|data center ban|data center moratorium|locals? are pushing back",
     ],
 }
 
@@ -537,6 +538,10 @@ def is_noise(item: dict) -> bool:
     source = domain_from_url(url) or clean(item.get("source")).lower().removeprefix("www.")
     if source in BLOCKED_DOMAINS or any(re.search(p, title, re.I) for p in NOISE_PATTERNS):
         return True
+    current_year = datetime.now(timezone.utc).year
+    stale_year = re.search(r"\b(?:by|for|in)\s+(20\d{2})\b", title, re.I)
+    if stale_year and int(stale_year.group(1)) < current_year - 1:
+        return True
     if url_embedded_date_is_stale(url):
         return True
     if any(x in url for x in ["/stellenangebote", "/jobs/", "/job/", "/careers/", "/horoscope/", "/crossword/", "/shopping/", "/deals/"]):
@@ -608,7 +613,10 @@ def signal_quality(scope: str, field: str, item: dict) -> bool:
         if re.search(r"city council|county board|municipal|local council|school board|zoning", title, re.I):
             return False
     if field == "humanities":
-        if not any(re.search(p, title, re.I) for p in HUMANITIES_STRATEGIC_PATTERNS):
+        if scope == "domestic":
+            if not re.search(r"저출생|출산율|고령화|인구감소|인구절벽|청년|주거|집값|전세|월세|교육|대학|의료|건강|정신건강|복지|불평등|돌봄|1인가구|지역소멸|이민|난민", title, re.I):
+                return False
+        elif not any(re.search(p, title, re.I) for p in HUMANITIES_STRATEGIC_PATTERNS):
             return False
     if field == "technology":
         if re.search(r"\bai\b|artificial intelligence|인공지능", title, re.I):
@@ -906,7 +914,7 @@ def main() -> int:
     pool = merge_pool(relevant, existing)
     signal_existing = load_json(SIGNAL_POOL_FILE, [])
     if not isinstance(signal_existing, list): signal_existing = []
-    signal_pool = merge_signal_pool(incoming, signal_existing)
+    signal_pool = merge_signal_pool(incoming + pool, signal_existing)
     changes = []
     if write_json_if_changed(POOL_FILE, pool): changes.append("pool")
     if write_json_if_changed(SIGNAL_POOL_FILE, signal_pool): changes.append("signal-pool")
