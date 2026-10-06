@@ -163,6 +163,10 @@ NOISE_PATTERNS = [
     r"fewer homes sell|home sales?.*interest rates?|housing market.*interest rates?",
     r"where are data centers located|what to know about data centers",
     r"what we said about supply chains in 2021",
+    r"govt sanctions? .*flyover|government sanctions? .*flyover|sanctions? .*\b(?:flyover|bridge|road project|construction project)\b",
+    r"regulators? deny .*rate hike.*layoffs?|rate hike.*utility.*layoffs?",
+    r"judge approves .*restructuring case|restructuring case.*(?:judge|court|artwork)",
+    r"weighs in on data center.*farm bill|data center.*farm bill.*beef imports",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
