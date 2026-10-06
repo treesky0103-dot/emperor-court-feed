@@ -277,7 +277,7 @@ def contains_term(text: str, term: str) -> bool:
     if not q:
         return False
     if re.fullmatch(r"[a-z0-9]+", q, re.I) and len(q) <= 3:
-        return re.search(r"\\b" + re.escape(q) + r"\\b", t, re.I) is not None
+        return re.search(r"\b" + re.escape(q) + r"\b", t, re.I) is not None
     return q in t
 
 def relevance_score(title: str, terms: list[str]) -> int:
@@ -291,15 +291,15 @@ def industry_signal(title: str) -> int:
     if re.search(r"sexual battery|sodomy|anniversary concert|symphony|orchestra|st\\. cloud", t, re.I):
         return 0
     strong = [
-        r"\\bartificial intelligence\\b", r"\\bai\\b", r"semiconductor", r"\\bchip(?:s)?\\b",
-        r"data cent(?:er|re)", r"datacenter", r"\\bgpu(?:s)?\\b", r"biotech", r"shipbuilding",
+        r"\bartificial intelligence\b", r"\bai\b", r"semiconductor", r"\bchip(?:s)?\b",
+        r"data cent(?:er|re)", r"datacenter", r"\bgpu(?:s)?\b", r"biotech", r"shipbuilding",
         r"manufacturing", r"advanced manufacturing", r"quantum", r"power grid",
-        r"인공지능", r"반도체", r"\\b칩\\b", r"데이터센터", r"바이오", r"조선", r"제조", r"양자", r"전력망",
+        r"인공지능", r"반도체", r"\b칩\b", r"데이터센터", r"바이오", r"조선", r"제조", r"양자", r"전력망",
     ]
     if any(re.search(p, t, re.I) for p in strong):
         return 2
-    weak = [r"\\brobot(?:s|ics)?\\b", r"\\bbattery\\b", r"\\benergy\\b", r"\\bfactory\\b", r"\\bcloud\\b",
-            r"\\belectricity\\b", r"로봇", r"배터리", r"에너지", r"공장", r"클라우드", r"전력"]
+    weak = [r"\brobot(?:s|ics)?\b", r"\bbattery\b", r"\benergy\b", r"\bfactory\b", r"\bcloud\b",
+            r"\belectricity\b", r"로봇", r"배터리", r"에너지", r"공장", r"클라우드", r"전력"]
     context = [r"investment", r"invest", r"market", r"industry", r"technology", r"infrastructure", r"plant",
                r"production", r"supply", r"strategy", r"storage", r"grid", r"capacity", r"startup", r"company",
                r"투자", r"시장", r"산업", r"기술", r"인프라", r"생산", r"공급", r"전략", r"저장", r"설비", r"기업"]
@@ -369,7 +369,7 @@ def clearly_local_low_value(key: str, item: dict) -> bool:
     if key == "management":
         return re.search(r"school board|assistant superintendent|city council|county board|local charity|career fair|job fair|municipal|red cross unveils employer brand|state workforce summit", title, re.I) is not None
     if key == "global":
-        return re.search(r"\\|\\s*[a-z -]+news\\s*$", clean(item.get("title")), re.I) is not None or re.search(r"public input on new water tariffs|county|municipal|local council", title, re.I) is not None
+        return re.search(r"\|\s*[a-z -]+news\s*$", clean(item.get("title")), re.I) is not None or re.search(r"public input on new water tariffs|county|municipal|local council", title, re.I) is not None
     return False
 
 def quality(key: str, item: dict) -> bool:
@@ -437,8 +437,8 @@ def score_item(key: str, item: dict) -> int:
 def same_global_event(a: str, b: str) -> bool:
     x, y = clean(a).lower(), clean(b).lower()
     pairs = [
-        (r"u\\.?s\\.?|united states", r"trade (?:balance|deficit)|imports?"),
-        (r"federal reserve|\\bfed\\b", r"interest rates?|monetary policy"),
+        (r"u\.?s\.?|united states", r"trade (?:balance|deficit)|imports?"),
+        (r"federal reserve|\bfed\b", r"interest rates?|monetary policy"),
         (r"oil", r"prices?|barrel"),
     ]
     for country_or_actor, event in pairs:
