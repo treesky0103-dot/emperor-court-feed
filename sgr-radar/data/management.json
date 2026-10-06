@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 08:42:24",
+  "updatedAt": "2026. 10. 07. 오전 08:58:35",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1558,
-    "passed": 61,
-    "deduped": 61,
-    "eventDeduped": 61,
+    "raw": 1626,
+    "passed": 62,
+    "deduped": 62,
+    "eventDeduped": 62,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -330,6 +330,18 @@
       "publishedAt": "2026-10-06T18:46:00Z",
       "summary": "",
       "url": "https://www.infoworld.com/article/4217752/techcrunch-disrupt-whats-next-for-ai-and-software-development.html"
+    },
+    {
+      "id": "https://oilprice.com/Company-News/Chevron-to-Shed-Hess-Midstream-Stake-in-Major-Bakken-Restructuring.html",
+      "title": "Chevron to Shed Hess Midstream Stake in Major Bakken Restructuring | OilPrice.com",
+      "source": "oilprice.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:46:00Z",
+      "publishedAt": "2026-10-06T23:46:00Z",
+      "summary": "",
+      "url": "https://oilprice.com/Company-News/Chevron-to-Shed-Hess-Midstream-Stake-in-Major-Bakken-Restructuring.html"
     },
     {
       "id": "https://bleedingcool.com/tv/skydance-wastes-no-time-warning-of-layoffs-changing-wb-water-tower/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-06T18:47:00Z",
       "summary": "",
       "url": "https://gamingbolt.com/supermassive-games-lays-off-more-than-70-employees-two-months-after-redundancy-consultation"
-    },
-    {
-      "id": "https://www.ibtimes.co.uk/paramount-warner-bros-discovery-acquisition-skydance-1824067",
-      "title": "Layoff Fears Mount as $81bn Paramount-Warner Bros Merger Closes, Staff Warned of 'Difficult Decisions'",
-      "source": "ibtimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:02:00Z",
-      "publishedAt": "2026-10-06T18:02:00Z",
-      "summary": "",
-      "url": "https://www.ibtimes.co.uk/paramount-warner-bros-discovery-acquisition-skydance-1824067"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1558,
-    "fetchedItems": 3629,
-    "relevantItems": 104,
-    "feedBytes": 979875,
+    "poolSize": 1626,
+    "fetchedItems": 3884,
+    "relevantItems": 109,
+    "feedBytes": 1041738,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

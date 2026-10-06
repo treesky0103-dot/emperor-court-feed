@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 08:42:23",
+  "updatedAt": "2026. 10. 07. 오전 08:58:34",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1558,
-    "passed": 663,
-    "deduped": 663,
-    "eventDeduped": 663,
+    "raw": 1626,
+    "passed": 688,
+    "deduped": 688,
+    "eventDeduped": 688,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,6 +308,18 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026092914432112952"
     },
     {
+      "id": "https://www.verdenews.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_2804463c-a008-5c01-ae21-bf89e0ea32b5.html",
+      "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+      "source": "verdenews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:46:00Z",
+      "publishedAt": "2026-10-06T23:46:00Z",
+      "summary": "",
+      "url": "https://www.verdenews.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_2804463c-a008-5c01-ae21-bf89e0ea32b5.html"
+    },
+    {
       "id": "https://www.thenationalnews.com/business/uk/2026/10/06/energy-forum-seeks-to-rescue-supply-disrupted-by-us-iran-war/",
       "title": "Energy forum seeks to rescue supply disrupted by US-Iran war | The National",
       "source": "thenationalnews.com",
@@ -342,18 +354,6 @@
       "publishedAt": "2026-10-06T22:46:00Z",
       "summary": "",
       "url": "https://www.machinedesign.com:443/automation-iiot/article/55409987/altech-corporation-power-and-control-components-address-evolving-data-center-infrastructure-challenges"
-    },
-    {
-      "id": "https://www.union-bulletin.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_33fcd361-b2c6-5928-8d02-8eed1c742296.html",
-      "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-      "source": "union-bulletin.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:02:00Z",
-      "publishedAt": "2026-10-06T22:02:00Z",
-      "summary": "",
-      "url": "https://www.union-bulletin.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_33fcd361-b2c6-5928-8d02-8eed1c742296.html"
     },
     {
       "id": "https://www.theblaze.com/tech/project-suncatcher-goes-to-space",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1558,
-    "fetchedItems": 3629,
-    "relevantItems": 104,
-    "feedBytes": 979875,
+    "poolSize": 1626,
+    "fetchedItems": 3884,
+    "relevantItems": 109,
+    "feedBytes": 1041738,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

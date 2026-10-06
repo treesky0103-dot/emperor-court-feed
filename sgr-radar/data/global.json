@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 08:42:25",
+  "updatedAt": "2026. 10. 07. 오전 08:58:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1558,
-    "passed": 105,
-    "deduped": 105,
-    "eventDeduped": 105,
+    "raw": 1626,
+    "passed": 106,
+    "deduped": 106,
+    "eventDeduped": 106,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -440,6 +440,18 @@
       "url": "https://www.newspim.com/news/view/20261007000011"
     },
     {
+      "id": "https://www.el-balad.com/17055786",
+      "title": "Connor Hellebuyck Trade talks intensify as Jets goalie is suspended - El-Balad.com",
+      "source": "el-balad.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:46:00Z",
+      "publishedAt": "2026-10-06T23:46:00Z",
+      "summary": "",
+      "url": "https://www.el-balad.com/17055786"
+    },
+    {
       "id": "https://www.ibtimes.com/gold-overtakes-us-bonds-worlds-top-reserve-asset-ecb-says-3803620",
       "title": "Gold Overtakes U.S. Bonds As The World's Top Reserve Asset, ECB Says",
       "source": "ibtimes.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-06T15:46:00Z",
       "summary": "",
       "url": "https://www.freshplaza.com/north-america/article/9880426/western-cape-exporters-warn-over-deteriorating-u-s-trade-relations/"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261007000028",
-      "title": "[채권/외환] 美 국채금리 24년 만의 고점서 후퇴…유로 반등·달러 약세",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:16:00Z",
-      "publishedAt": "2026-10-06T23:16:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261007000028"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1558,
-    "fetchedItems": 3629,
-    "relevantItems": 104,
-    "feedBytes": 979875,
+    "poolSize": 1626,
+    "fetchedItems": 3884,
+    "relevantItems": 109,
+    "feedBytes": 1041738,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
