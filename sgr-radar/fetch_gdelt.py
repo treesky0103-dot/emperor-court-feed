@@ -151,6 +151,10 @@ NOISE_PATTERNS = [
     r"not sanctioned by law|sanctioned by law|illegally detained|detained for .* after bail",
     r"cloud storage for life|deal.*cloud storage|\b1tb\b.*cloud storage",
     r"chocolate chip|cookie recipe|recipes? for .*cookies|fresh apple cake",
+    r"greek life|fraternit|sororit|cease-and-desist",
+    r"student loans?|student loan borrowers?|borrowers?.*student loan",
+    r"serie a|premier league|loan exit|transfer window|footballer|midfielder|striker|defender",
+    r"\[?美?특징주\]?|주가.*(?:급등|급락)|(?:급등|급락).*주가",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
@@ -317,19 +321,21 @@ def industry_signal(title: str) -> int:
 def management_signal(title: str) -> int:
     t = clean(title).lower()
     score = pattern_score(t, MANAGEMENT_SIGNAL_PATTERNS)
-    if re.search(r"\bai\b|artificial intelligence|인공지능", t, re.I) and re.search(r"employee|workforce|workplace|organization|productivity|developer|coding|enterprise|business|operating model|process|workflow|shared services|back office|customer service|governance|spending|budget|직원|인력|조직|업무|생산성|기업|운영모델|프로세스|자동화|개발자|거버넌스", t, re.I):
+    if re.search(r"\bai\b|artificial intelligence|인공지능", t, re.I) and re.search(r"employee|workforce|workplace|organization|productivity|developer|coding|enterprise|operating model|process|workflow|shared services|back office|customer service|governance|spending|budget|직원|인력|조직|업무|생산성|기업|운영모델|프로세스|자동화|개발자|거버넌스", t, re.I):
         score += 1
     return score
 
 def management_broad_signal(title: str) -> int:
     t = clean(title).lower()
     score = pattern_score(t, MANAGEMENT_BROAD_PATTERNS)
-    if re.search(r"\bai\b|artificial intelligence|인공지능", t, re.I) and re.search(r"\bworkplace\b|\bworkforce\b|\bemployees?\b|\bworkers?\b|\bjobs?\b|software development|coding|developer|productivity|business|enterprise|operating model|process|workflow|shared services|back office|customer service|governance|spending|budget|직원|인력|업무|일자리|기업|운영모델|프로세스|자동화|개발자|거버넌스", t, re.I):
+    if re.search(r"\bai\b|artificial intelligence|인공지능", t, re.I) and re.search(r"\bworkplace\b|\bworkforce\b|\bemployees?\b|\bworkers?\b|\bjobs?\b|software development|coding|developer|productivity|enterprise|operating model|process|workflow|shared services|back office|customer service|governance|spending|budget|직원|인력|업무|일자리|기업|운영모델|프로세스|자동화|개발자|거버넌스", t, re.I):
         score += 1
     return score
 
 def global_signal(title: str) -> int:
     t = clean(title).lower()
+    if re.search(r"student loans?|student loan borrowers?|greek life|fraternit|sororit|serie a|premier league|loan exit|transfer window|footballer|midfielder|striker|defender", t, re.I):
+        return 0
     if any(re.search(p, t, re.I) for p in GLOBAL_SIGNAL_PATTERNS):
         return 1
     if re.search(r"\btrade\b", t, re.I) and re.search(r"global|international|minister|government|policy|exports?|imports?|talks?|negotiat|agreement|deal|tariff", t, re.I):
@@ -392,7 +398,7 @@ def potential(item: dict) -> bool:
 def clearly_local_low_value(key: str, item: dict) -> bool:
     title = clean(item.get("title")).lower()
     if key == "management":
-        return re.search(r"school board|assistant superintendent|city council|county board|local charity|career fair|job fair|municipal|red cross unveils employer brand|state workforce summit|민선\d+기 조직개편|구청|시청|군청|지자체|도시환경국|미래정책실", title, re.I) is not None
+        return re.search(r"school board|assistant superintendent|school district|public school|teachers?'? union|educators?|city council|county board|local charity|career fair|job fair|municipal|red cross unveils employer brand|state workforce summit|민선\d+기 조직개편|구청|시청|군청|지자체|도시환경국|미래정책실", title, re.I) is not None
     if key == "global":
         return re.search(r"\|\s*[a-z -]+news\s*$", clean(item.get("title")), re.I) is not None or re.search(r"public input on new water tariffs|county|municipal|local council", title, re.I) is not None
     return False
