@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 02:50:01",
+  "updatedAt": "2026. 10. 07. 오전 03:03:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 385,
-    "passed": 285,
-    "deduped": 285,
-    "eventDeduped": 285,
+    "raw": 414,
+    "passed": 290,
+    "deduped": 290,
+    "eventDeduped": 290,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,6 +380,18 @@
       "url": "https://www.anewsa.com/detail.php?number=3205401"
     },
     {
+      "id": "https://www.pharmaceuticalonline.com/doc/an-overview-of-life-sciences-industry-trends-the-great-convergence-of-quality-manufacturing-and-intelligence-0001",
+      "title": "An Overview Of 2026 Life Sciences Industry Trends: The Great Convergence Of Quality, Manufacturing, And Intelligence",
+      "source": "pharmaceuticalonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:01:00Z",
+      "publishedAt": "2026-10-06T18:01:00Z",
+      "summary": "",
+      "url": "https://www.pharmaceuticalonline.com/doc/an-overview-of-life-sciences-industry-trends-the-great-convergence-of-quality-manufacturing-and-intelligence-0001"
+    },
+    {
       "id": "https://www.kcrg.com/2026/10/06/linn-county-needs-data-center-advisory-committee-members-heres-how-residents-can-volunteer/",
       "title": "Linn County needs Data Center Advisory Committee members. Here’s how residents can volunteer",
       "source": "kcrg.com",
@@ -390,18 +402,6 @@
       "publishedAt": "2026-10-06T17:47:00Z",
       "summary": "",
       "url": "https://www.kcrg.com/2026/10/06/linn-county-needs-data-center-advisory-committee-members-heres-how-residents-can-volunteer/"
-    },
-    {
-      "id": "https://www.canadianminingjournal.com/news/komatsu-marks-25-years-of-manufacturing-at-south-carolina-facility/",
-      "title": "Komatsu marks 25 years of manufacturing at South Carolina facility",
-      "source": "canadianminingjournal.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:46:00Z",
-      "publishedAt": "2026-10-06T17:46:00Z",
-      "summary": "",
-      "url": "https://www.canadianminingjournal.com/news/komatsu-marks-25-years-of-manufacturing-at-south-carolina-facility/"
     },
     {
       "id": "https://www.techtimes.com/articles/328625/20261006/broadcom-anthropics-chip-supplier-lender-debt-guarantor-60-billion-syndication-begins.htm",
@@ -620,16 +620,16 @@
       "url": "https://en.shafaqna.com/481143/china-factory-activity-expands-september-ai-boom/"
     },
     {
-      "id": "https://www.powderbulksolids.com/manufacturing-plants-facilities/food-beverage-manufacturing-projects-increase-again-in-september",
-      "title": "Food Manufacturing Projects Rise for Second Month",
-      "source": "powderbulksolids.com",
+      "id": "https://www.canadianminingjournal.com/news/komatsu-marks-25-years-of-manufacturing-at-south-carolina-facility/",
+      "title": "Komatsu marks 25 years of manufacturing at South Carolina facility",
+      "source": "canadianminingjournal.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:32:00Z",
-      "publishedAt": "2026-10-06T17:32:00Z",
+      "dateRaw": "2026-10-06T17:46:00Z",
+      "publishedAt": "2026-10-06T17:46:00Z",
       "summary": "",
-      "url": "https://www.powderbulksolids.com/manufacturing-plants-facilities/food-beverage-manufacturing-projects-increase-again-in-september"
+      "url": "https://www.canadianminingjournal.com/news/komatsu-marks-25-years-of-manufacturing-at-south-carolina-facility/"
     },
     {
       "id": "https://www.commondreams.org/tag/data-centers",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 385,
-    "fetchedItems": 6086,
-    "relevantItems": 102,
-    "feedBytes": 1716784,
+    "poolSize": 414,
+    "fetchedItems": 2015,
+    "relevantItems": 32,
+    "feedBytes": 578114,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
