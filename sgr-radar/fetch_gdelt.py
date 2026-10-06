@@ -168,6 +168,7 @@ NOISE_PATTERNS = [
     r"judge approves .*restructuring case|restructuring case.*(?:judge|court|artwork)",
     r"weighs in on data center.*farm bill|data center.*farm bill.*beef imports",
     r"(?:city|county|local)?\s*council.*data centers?|data centers?.*(?:city|county) code|data centers?.*zoning",
+    r"awards? .*supply chain|supply chain.*awards?",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
@@ -318,7 +319,7 @@ def industry_signal(title: str) -> int:
         r"\bartificial intelligence\b", r"\bai\b", r"semiconductor", r"\bchip(?:s)?\b",
         r"data cent(?:er|re)", r"datacenter", r"\bgpu(?:s)?\b", r"biotech", r"shipbuilding",
         r"manufacturing", r"advanced manufacturing", r"quantum", r"power grid",
-        r"인공지능", r"반도체", r"\b칩\b", r"데이터센터", r"바이오", r"조선", r"제조", r"양자", r"전력망",
+        r"인공지능", r"반도체", r"\b칩\b", r"데이터센터", r"바이오", r"조선(?:업|소|산업|기업|수주|선박|해양|기자재)", r"제조", r"양자", r"전력망",
     ]
     if any(re.search(p, t, re.I) for p in strong):
         return 2
