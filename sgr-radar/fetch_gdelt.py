@@ -22,8 +22,10 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 POOL_FILE = DATA_DIR / "pool.json"
+SIGNAL_POOL_FILE = DATA_DIR / "signal-pool.json"
 GDELT_RSS_URL = "https://data.gdeltproject.org/gdeltv3/gal/feed.rss"
 POOL_HOURS = 24
+SIGNAL_POOL_HOURS = 72
 POOL_LIMIT = 2000
 DISPLAY_TARGET = 10
 TREND_TARGET = 50
@@ -131,6 +133,7 @@ SIGNAL_REJECT_PATTERNS = {
         r"lockdown|student with gun|school bus crash|killed in .*school|annual meeting|free screening|full show|podcast",
         r"church|pastor|youth minister|minister - |startup.*lease|lease at university|garden network|sports?|celebrity|actor|singer",
         r"총격|사망|교통사고|연예|배우|가수|공연|행사 안내|채용|목사|교회",
+        r"alumni in action|campaign ad|annual meeting|community meeting|school garden|lockdown|arrest of student",
     ],
     "economy": [
         r"정보유출|해킹|사이버공격|보안 취약|민선\d+기 조직개편|구청|시청|군청|지자체|도시환경국|미래정책실",
@@ -145,16 +148,16 @@ SIGNAL_REJECT_PATTERNS = {
 
 TECH_AI_CONTEXT_PATTERNS = [
     r"model|platform|product|service|software|cloud|chip|semiconductor|gpu|data cent(?:er|re)|infrastructure|robot|automation",
-    r"research|startup|company|enterprise|workplace|developer|coding|investment|deal|partnership|manufacturing|energy|power",
+    r"research|startup|company|enterprise|workplace|developer|coding|investment|deal|partnership|manufacturing",
     r"모델|플랫폼|제품|서비스|소프트웨어|클라우드|반도체|칩|GPU|데이터센터|인프라|로봇|자동화|연구|스타트업",
-    r"기업|업무|개발자|코딩|투자|협력|제조|에너지|전력",
+    r"기업|업무|개발자|코딩|투자|협력|제조",
 ]
 
 
 SIGNAL_PATTERNS = {
     "humanities": [
-        r"low birth|birth rate|fertility|aging|ageing|demograph|population decline|migration|immigration|refugee",
-        r"housing affordability|housing cost|rent\b|education|university|school\b|healthcare|mental health|welfare",
+        r"low birth|birth rate|fertility|\baging\b|\bageing\b|demograph|population decline|migration|immigration|refugee",
+        r"housing affordability|housing cost|\brent\b|education|university|\bschool\b|healthcare|mental health|welfare",
         r"inequality|youth|young people|copyright|misinformation|disinformation|social media|digital divide|wellbeing|well-being",
         r"climate migration|care work|caregiving|loneliness|one-person household",
         r"저출생|출산율|고령화|인구감소|인구절벽|이민|난민|주거|집값|전세|월세|교육|대학|학교|의료|건강|정신건강",
@@ -162,9 +165,9 @@ SIGNAL_PATTERNS = {
     ],
     "economy": [
         r"\beconom(?:y|ic|ics)\b|gdp|growth|inflation|interest rates?|exchange rates?|central bank|employment|unemployment",
-        r"consumer|retail|business|corporate|investment|productivity|trade|tariff|export|import|supply chain|fdi|manufacturing",
+        r"consumer|retail|investment|productivity|trade|tariff|export|import|supply chain|fdi|manufacturing",
         r"labor market|labour market|wages?|household debt|business sentiment|recession|fiscal|monetary",
-        r"경제|성장률|물가|인플레이션|금리|환율|한국은행|고용|실업|소비|내수|기업|투자|생산성|무역|관세|수출|수입",
+        r"경제|성장률|물가|인플레이션|금리|환율|한국은행|고용|실업|소비|내수|투자|생산성|무역|관세|수출|수입",
         r"공급망|해외투자|제조업|노동시장|임금|가계부채|경기|재정|통화정책|경영|조직|인재|인력",
     ],
     "technology": [
@@ -713,7 +716,7 @@ def build_signal_payload(pool: list[dict], fetched_count: int, feed_bytes: int) 
             "poolSize": len(pool),
             "fetchedItems": fetched_count,
             "feedBytes": feed_bytes,
-            "rollingWindowHours": POOL_HOURS,
+            "rollingWindowHours": SIGNAL_POOL_HOURS,
         },
     }
 
@@ -848,6 +851,20 @@ def merge_pool(incoming: list[dict], existing: list[dict]) -> list[dict]:
     kept.sort(key=lambda x: clean(x.get("dateRaw")), reverse=True)
     return kept[:POOL_LIMIT]
 
+def merge_signal_pool(incoming: list[dict], existing: list[dict]) -> list[dict]:
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=SIGNAL_POOL_HOURS)
+    kept = []
+    for item in dedupe(incoming + existing):
+        dt = parse_dt(clean(item.get("dateRaw")) or clean(item.get("publishedAt")))
+        if dt and dt < cutoff:
+            continue
+        if signal_potential(item):
+            item["language"] = infer_language(item.get("title", ""))
+            item["source"] = domain_from_url(item.get("url", "")) or clean(item.get("source"))
+            kept.append(item)
+    kept.sort(key=lambda x: clean(x.get("dateRaw")), reverse=True)
+    return kept[:POOL_LIMIT]
+
 def stable_item_signature(items: list[dict]) -> list[tuple[str, str]]:
     return [(clean(x.get("id")), clean(x.get("title"))) for x in items]
 
@@ -887,12 +904,16 @@ def main() -> int:
     existing = load_json(POOL_FILE, [])
     if not isinstance(existing, list): existing = []
     pool = merge_pool(relevant, existing)
+    signal_existing = load_json(SIGNAL_POOL_FILE, [])
+    if not isinstance(signal_existing, list): signal_existing = []
+    signal_pool = merge_signal_pool(incoming, signal_existing)
     changes = []
     if write_json_if_changed(POOL_FILE, pool): changes.append("pool")
+    if write_json_if_changed(SIGNAL_POOL_FILE, signal_pool): changes.append("signal-pool")
     for key in ("industry", "management", "global"):
         payload = build_payload(key, pool, len(incoming), len(relevant), feed_bytes)
         if write_json_if_changed(DATA_DIR / f"{key}.json", payload): changes.append(key)
-    signal_payload = build_signal_payload(pool, len(incoming), feed_bytes)
+    signal_payload = build_signal_payload(signal_pool, len(incoming), feed_bytes)
     if write_json_if_changed(DATA_DIR / "signal-center.json", signal_payload): changes.append("signal-center")
     print(json.dumps({
         "ok": True, "fetched": len(incoming), "relevant": len(relevant), "pool": len(pool), "changed": changes,
