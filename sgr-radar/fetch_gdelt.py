@@ -167,6 +167,7 @@ NOISE_PATTERNS = [
     r"regulators? deny .*rate hike.*layoffs?|rate hike.*utility.*layoffs?",
     r"judge approves .*restructuring case|restructuring case.*(?:judge|court|artwork)",
     r"weighs in on data center.*farm bill|data center.*farm bill.*beef imports",
+    r"(?:city|county|local)?\s*council.*data centers?|data centers?.*(?:city|county) code|data centers?.*zoning",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
