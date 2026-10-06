@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 05:52:40",
+  "updatedAt": "2026. 10. 07. 오전 06:13:56",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,6 +48,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261006215651",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261006001295",
+          "title": "[오늘의 국감일정] 교육위·외통위·국방위 등 10개 상임위 - 10월 7일",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:01:00Z",
+          "publishedAt": "2026-10-06T21:01:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261006001295"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271830&CMPT_CD=M0153",
@@ -128,26 +140,12 @@
           "url": "https://www.etnews.com/20261006000316",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223348",
-          "title": "'연 최고 19%' 청년미래적금 2차 모집…내일부터 신청",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T10:00:00Z",
-          "publishedAt": "2026-10-06T10:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223348",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 8
         },
         {
           "word": "주거",
@@ -155,10 +153,6 @@
         },
         {
           "word": "돌봄",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -209,6 +203,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261006180824",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261007000010",
+          "title": "뉴욕증시, 금리 안정·실적 기대에 일제히 상승…S&P500·나스닥 신고가",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:02:00Z",
+          "publishedAt": "2026-10-06T21:02:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261007000010"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223223",
@@ -289,26 +295,16 @@
           "url": "https://zdnet.co.kr/view/?no=20261006175147",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223164",
-          "title": "[굿모닝경제] \"한국 2년 평균 성장률 G20 1위\" / 부정청약 의심 1669건 적발 / 하나금융 '인천시대' 시작",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-05",
-          "dateRaw": "2026-10-05T22:00:00Z",
-          "publishedAt": "2026-10-05T22:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223164",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
         {
           "word": "투자",
           "count": 4
+        },
+        {
+          "word": "금리",
+          "count": 1
         },
         {
           "word": "수출",
@@ -499,6 +495,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.glasgowtimes.co.uk/news/26613465.hospital-worker-jailed-sexual-assaulting-teen-glasgow/",
+          "title": "Healthcare worker jailed for sexual assaulting vulnerable teen in Glasgow hospital",
+          "source": "glasgowtimes.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:01:00Z",
+          "publishedAt": "2026-10-06T21:01:00Z",
+          "summary": "",
+          "url": "https://www.glasgowtimes.co.uk/news/26613465.hospital-worker-jailed-sexual-assaulting-teen-glasgow/"
+        },
+        {
           "id": "https://www.kfm.co.ug/over-200000-refugee-children-at-risk-of-dropping-out-of-school-this-year/",
           "title": "Over 200,000 refugee children at risk of dropping out of school this year - 93.3 KFM",
           "source": "kfm.co.ug",
@@ -547,16 +555,52 @@
           "url": "https://www.abc.net.au/news/2026-10-07/coalition-migration-plan-risks-significant-economic-hit/107236278"
         },
         {
-          "id": "https://midmichigannow.com/news/nation-world/new-doj-report-reveals-internal-objections-to-biden-era-school-board-directive-political-merrick-garland-fbi",
-          "title": "New DOJ report reveals internal objections to Biden-era school board directive",
-          "source": "midmichigannow.com",
+          "id": "https://fox56.com/news/local/state-police-investigate-report-of-possible-weapons-at-pleasant-valley-high-school",
+          "title": "State police investigate report of possible weapons at Pleasant Valley High School",
+          "source": "fox56.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:47:00Z",
-          "publishedAt": "2026-10-06T20:47:00Z",
+          "dateRaw": "2026-10-06T21:02:00Z",
+          "publishedAt": "2026-10-06T21:02:00Z",
           "summary": "",
-          "url": "https://midmichigannow.com/news/nation-world/new-doj-report-reveals-internal-objections-to-biden-era-school-board-directive-political-merrick-garland-fbi"
+          "url": "https://fox56.com/news/local/state-police-investigate-report-of-possible-weapons-at-pleasant-valley-high-school"
+        },
+        {
+          "id": "https://www.newsandstar.co.uk/news/26613441.police-issue-dispersal-order-carlisles-chances-park/",
+          "title": "Police issue dispersal order at park after reports of youth anti-social behaviour",
+          "source": "newsandstar.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:01:00Z",
+          "publishedAt": "2026-10-06T21:01:00Z",
+          "summary": "",
+          "url": "https://www.newsandstar.co.uk/news/26613441.police-issue-dispersal-order-carlisles-chances-park/"
+        },
+        {
+          "id": "https://bakersfieldnow.com/news/nation-world/new-doj-report-reveals-internal-objections-to-biden-era-school-board-directive-political-merrick-garland-fbi",
+          "title": "New DOJ report reveals internal objections to Biden-era school board directive",
+          "source": "bakersfieldnow.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:01:00Z",
+          "publishedAt": "2026-10-06T21:01:00Z",
+          "summary": "",
+          "url": "https://bakersfieldnow.com/news/nation-world/new-doj-report-reveals-internal-objections-to-biden-era-school-board-directive-political-merrick-garland-fbi"
+        },
+        {
+          "id": "https://jbhe.com/2026/10/yale-reports-a-decline-in-the-share-of-black-first-year-students/",
+          "title": "Yale University Reports a Decline in Black First-Year Students | The Journal of Blacks in Higher Education",
+          "source": "jbhe.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T21:01:00Z",
+          "publishedAt": "2026-10-06T21:01:00Z",
+          "summary": "",
+          "url": "https://jbhe.com/2026/10/yale-reports-a-decline-in-the-share-of-black-first-year-students/"
         },
         {
           "id": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/",
@@ -569,64 +613,16 @@
           "publishedAt": "2026-10-06T18:47:00Z",
           "summary": "",
           "url": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/"
-        },
-        {
-          "id": "https://www.rhyljournal.co.uk/news/national/26613246.french-riot-police-fire-tear-gas-250-000-rally-school-funding/",
-          "title": "French riot police fire tear gas as more than 250,000 rally for school funding",
-          "source": "rhyljournal.co.uk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:47:00Z",
-          "publishedAt": "2026-10-06T20:47:00Z",
-          "summary": "",
-          "url": "https://www.rhyljournal.co.uk/news/national/26613246.french-riot-police-fire-tear-gas-250-000-rally-school-funding/"
-        },
-        {
-          "id": "https://freerepublic.com/focus/f-news/4398186/posts",
-          "title": "Trump Says Islam Is 'Taking Over' France in Migration Warning Amid Protests",
-          "source": "freerepublic.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:47:00Z",
-          "publishedAt": "2026-10-06T20:47:00Z",
-          "summary": "",
-          "url": "https://freerepublic.com/focus/f-news/4398186/posts"
-        },
-        {
-          "id": "https://www.crikey.com.au/2026/10/07/business-community-unimpressed-with-angus-taylors-migration-pitch-openai-israel-october-7-jason-kwon-one-nation/",
-          "title": "Business community unimpressed with Taylor's migration pitch",
-          "source": "crikey.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:46:00Z",
-          "publishedAt": "2026-10-06T20:46:00Z",
-          "summary": "",
-          "url": "https://www.crikey.com.au/2026/10/07/business-community-unimpressed-with-angus-taylors-migration-pitch-openai-israel-october-7-jason-kwon-one-nation/"
-        },
-        {
-          "id": "https://www.london-now.co.uk/news/26612717.london-tiktok-linkup-trends-sparked-chaos/",
-          "title": "Inside all the TikTok youth ‘linkup’ trends that sparked chaos across London",
-          "source": "london-now.co.uk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:46:00Z",
-          "publishedAt": "2026-10-06T20:46:00Z",
-          "summary": "",
-          "url": "https://www.london-now.co.uk/news/26612717.london-tiktok-linkup-trends-sparked-chaos/"
         }
       ],
       "keywords": [
         {
-          "word": "이민",
-          "count": 6
+          "word": "교육",
+          "count": 7
         },
         {
-          "word": "교육",
-          "count": 5
+          "word": "이민",
+          "count": 4
         },
         {
           "word": "주거비",
@@ -752,25 +748,25 @@
           "url": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year"
         },
         {
-          "id": "https://www.edenmagnet.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
-          "title": "Population growth not stopping 'recession-like' economy",
-          "source": "edenmagnet.com.au",
+          "id": "https://economictimes.indiatimes.com/wealth/save/eps-pension-eligibility-is-eps-membership-mandatory-for-you-if-your-wages-are-rs-25000-check-status/articleshow/134705454.cms",
+          "title": "EPS pension eligibility: Is EPS membership mandatory for you if your wages are Rs 25,000+? Check status - The Economic Times",
+          "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T20:47:00Z",
-          "publishedAt": "2026-10-06T20:47:00Z",
+          "dateRaw": "2026-10-06T21:02:00Z",
+          "publishedAt": "2026-10-06T21:02:00Z",
           "summary": "",
-          "url": "https://www.edenmagnet.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
+          "url": "https://economictimes.indiatimes.com/wealth/save/eps-pension-eligibility-is-eps-membership-mandatory-for-you-if-your-wages-are-rs-25000-check-status/articleshow/134705454.cms"
         }
       ],
       "keywords": [
         {
-          "word": "성장",
-          "count": 3
+          "word": "고용",
+          "count": 2
         },
         {
-          "word": "고용",
+          "word": "성장",
           "count": 2
         },
         {
@@ -946,9 +942,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1168,
-    "fetchedItems": 4612,
-    "feedBytes": 1281434,
+    "poolSize": 1241,
+    "fetchedItems": 4379,
+    "feedBytes": 1229698,
     "rollingWindowHours": 72
   }
 }
