@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 02:45:56",
+  "updatedAt": "2026. 10. 07. 오전 02:48:10",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 301,
-    "passed": 263,
-    "deduped": 263,
-    "eventDeduped": 263,
+    "raw": 299,
+    "passed": 262,
+    "deduped": 262,
+    "eventDeduped": 262,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.inewsgr.com/330/Vertical-Gas-CorridorGreece-Upends-Turkeys-Energy-StrategyAKTOR-Takes-Strategic-Position-New-Energy-Map.htm"
     },
     {
-      "id": "https://www.diodeo.com/news/view/76658",
-      "title": "'옥탑방 왕세자' 정석원, `조선 최고 검술사가 트레이닝복을?! 반전변신`",
-      "source": "diodeo.com",
-      "language": "Korean",
+      "id": "https://www.christianpost.com/voices/i-was-an-atheist-quantum-physics-set-me-on-the-path-to-jesus.html",
+      "title": "I was an atheist. Quantum physics set me on the path to Jesus",
+      "source": "christianpost.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-06",
       "dateRaw": "2026-10-06T17:32:00Z",
       "publishedAt": "2026-10-06T17:32:00Z",
       "summary": "",
-      "url": "https://www.diodeo.com/news/view/76658"
+      "url": "https://www.christianpost.com/voices/i-was-an-atheist-quantum-physics-set-me-on-the-path-to-jesus.html"
     }
   ],
   "trendItems": [
@@ -330,18 +330,6 @@
       "publishedAt": "2026-10-06T17:02:00Z",
       "summary": "",
       "url": "https://www.euro-petrole.com/varopreem-marks-60-years-of-cressier-manufacturing-hub-at-the-heart-of-switzerland-s-energy-system-n-i-30742"
-    },
-    {
-      "id": "https://www.diodeo.com/news/view/76658",
-      "title": "'옥탑방 왕세자' 정석원, `조선 최고 검술사가 트레이닝복을?! 반전변신`",
-      "source": "diodeo.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:32:00Z",
-      "publishedAt": "2026-10-06T17:32:00Z",
-      "summary": "",
-      "url": "https://www.diodeo.com/news/view/76658"
     },
     {
       "id": "https://www.christianpost.com/voices/i-was-an-atheist-quantum-physics-set-me-on-the-path-to-jesus.html",
@@ -738,14 +726,26 @@
       "publishedAt": "2026-10-06T16:02:00Z",
       "summary": "",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/06/three-reasons-your-chief-ai-officer-may-soon-look-more-like-your-head-of-hr/"
+    },
+    {
+      "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/06/cognitive-concentration-the-hidden-risk-beneath-enterprise-ai/",
+      "title": "Cognitive Concentration: The Hidden Risk Beneath Enterprise AI",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T16:01:00Z",
+      "publishedAt": "2026-10-06T16:01:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/06/cognitive-concentration-the-hidden-risk-beneath-enterprise-ai/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 301,
+    "poolSize": 299,
     "fetchedItems": 5994,
-    "relevantItems": 38,
+    "relevantItems": 36,
     "feedBytes": 1715664,
     "rollingWindowHours": 24,
     "displayTarget": 10
