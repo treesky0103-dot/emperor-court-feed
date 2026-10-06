@@ -7,7 +7,7 @@
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 170,
+    "raw": 169,
     "passed": 11,
     "deduped": 11,
     "eventDeduped": 11,
@@ -275,9 +275,9 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 170,
+    "poolSize": 169,
     "fetchedItems": 6130,
-    "relevantItems": 61,
+    "relevantItems": 60,
     "feedBytes": 1741180,
     "rollingWindowHours": 24,
     "displayTarget": 10

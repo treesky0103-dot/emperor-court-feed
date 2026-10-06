@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 01:37:22",
+  "updatedAt": "2026. 10. 07. 오전 01:40:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 170,
-    "passed": 23,
-    "deduped": 23,
-    "eventDeduped": 23,
+    "raw": 169,
+    "passed": 22,
+    "deduped": 22,
+    "eventDeduped": 22,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -54,18 +54,6 @@
       "url": "https://www.freshplaza.com/north-america/article/9880426/western-cape-exporters-warn-over-deteriorating-u-s-trade-relations/"
     },
     {
-      "id": "https://www.livelaw.in/high-court/calcutta-high-court/not-sanctioned-by-law-calcutta-high-court-awards-536-lakh-to-man-illegally-detained-for-60-days-after-bail-553287",
-      "title": "'Not Sanctioned By Law': Calcutta High Court Awards ₹5.36 Lakh To Man Illegally Detained For 60 Days After Bail",
-      "source": "livelaw.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
-      "summary": "",
-      "url": "https://www.livelaw.in/high-court/calcutta-high-court/not-sanctioned-by-law-calcutta-high-court-awards-536-lakh-to-man-illegally-detained-for-60-days-after-bail-553287"
-    },
-    {
       "id": "https://www.hydrocarbonprocessing.com/news/2026/10/japans-iwatani-cosmo-to-develop-hydrogen-supply-chain-at-chiba-refinery/",
       "title": "Japan's Iwatani, Cosmo to develop hydrogen supply chain at Chiba refinery",
       "source": "hydrocarbonprocessing.com",
@@ -100,6 +88,18 @@
       "publishedAt": "2026-10-06T16:32:00Z",
       "summary": "",
       "url": "https://cyprus-mail.com/2026/10/06/eu-envoys-set-to-approve-major-new-russia-sanctions-on-wednesday"
+    },
+    {
+      "id": "https://www.cbsnews.com/news/trump-us-bosnia-herzegovina-sanctions-dodik-maga-firm-gas-pipeline/",
+      "title": "Democrats cry foul as U.S. lifts sanctions on Serb nationalist, MAGA-linked firm gets huge Bosnia energy contract",
+      "source": "cbsnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T16:32:00Z",
+      "publishedAt": "2026-10-06T16:32:00Z",
+      "summary": "",
+      "url": "https://www.cbsnews.com/news/trump-us-bosnia-herzegovina-sanctions-dodik-maga-firm-gas-pipeline/"
     },
     {
       "id": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year",
@@ -198,18 +198,6 @@
       "publishedAt": "2026-10-06T16:32:00Z",
       "summary": "",
       "url": "https://nationalpost.com/news/a-trump-advisers-outburst-and-a-new-poll-suggest-canadas-tariff-strategy-is-landing"
-    },
-    {
-      "id": "https://www.livelaw.in/high-court/calcutta-high-court/not-sanctioned-by-law-calcutta-high-court-awards-536-lakh-to-man-illegally-detained-for-60-days-after-bail-553287",
-      "title": "'Not Sanctioned By Law': Calcutta High Court Awards ₹5.36 Lakh To Man Illegally Detained For 60 Days After Bail",
-      "source": "livelaw.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
-      "summary": "",
-      "url": "https://www.livelaw.in/high-court/calcutta-high-court/not-sanctioned-by-law-calcutta-high-court-awards-536-lakh-to-man-illegally-detained-for-60-days-after-bail-553287"
     },
     {
       "id": "https://www.hydrocarbonprocessing.com/news/2026/10/japans-iwatani-cosmo-to-develop-hydrogen-supply-chain-at-chiba-refinery/",
@@ -383,9 +371,9 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 170,
+    "poolSize": 169,
     "fetchedItems": 6130,
-    "relevantItems": 61,
+    "relevantItems": 60,
     "feedBytes": 1741180,
     "rollingWindowHours": 24,
     "displayTarget": 10
