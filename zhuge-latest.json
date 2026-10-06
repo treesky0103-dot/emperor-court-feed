@@ -1,149 +1,156 @@
 {
   "date": "2026-10-06",
   "planDay": "2026-10-06",
-  "planSetId": "zps-20261006-497b4d1c",
-  "generatedAt": "2026-10-06T00:40:10.770Z",
-  "publishedAt": "2026-10-06T00:57:51.128Z",
+  "planSetId": "zps-20261006-4ccb830e",
+  "generatedAt": "2026-10-06T02:00:57.423Z",
+  "publishedAt": "2026-10-06T02:01:01.801Z",
   "publisher": "emperor-court-worker",
-  "publisherVersion": "v2.15.116",
+  "publisherVersion": "v2.15.118",
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 인문/철학 · 경제경영/재테크 · 자기계발/업무스킬을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 경영 · 마케팅 · 금융을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
   "model": "gemini-3.8-flash",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-10-06T00:40:10.333Z",
+  "sourceSnapshotAt": "2026-10-06T02:00:52.220Z",
   "inputFreshness": {
-    "fresh": true,
-    "newsFresh": true,
+    "fresh": false,
+    "newsFresh": false,
     "bestsellerFresh": true,
     "newsUpdatedAt": "2026-10-06T00:16:29.029Z",
-    "staleAdvisors": [],
+    "staleAdvisors": [
+      "sima",
+      "zhou",
+      "pang",
+      "cheng",
+      "xunyu",
+      "xunyou"
+    ],
     "bestsellerUpdatedAt": "2026-10-06T00:00:14.245Z",
     "bestsellerDataDate": "2026-10-05",
-    "stale": false,
-    "checkedAt": "2026-10-06T00:40:10.770Z",
+    "stale": true,
+    "checkedAt": "2026-10-06T02:00:57.423Z",
     "policy": "confirm-and-mark",
-    "label": ""
+    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "인문/철학",
-      "field": "인문/철학",
-      "title": "매일 휩쓸리는 감정을 분리하는 스토아식 하루 정리법",
-      "concept": "SNS 논란과 자극적인 정보 과잉 속에서 타인의 반응에 휘둘리지 않고 내 통제권 안의 일에 집중하는 고전적 실천법",
-      "why": "정치인과 인플루언서의 설화, 자극적인 온라인 분쟁이 일상을 침범하면서 감정적 탈진과 불안을 호소하는 현대인이 급증했다.",
-      "competition": "기존 스토아 철학서는 고전 원문 번역이나 단편 명언집 수준에 머물러, 일상의 구체적 분노와 불안 상황에 적용하기 어렵다.",
-      "reader": "온라인 논쟁이나 직장 내 가십에 쉽게 감정이 요동쳐 밤마다 후회하고 피로감을 느끼는 2040 독자",
-      "readerNeed": "타인의 말과 통제할 수 없는 외부 사건에 감정적으로 휘말렸을 때 즉각 마음을 가라앉히는 실천적 사고 훈련법이 없다.",
-      "marketGap": "고전의 무게감과 현대인의 일상 스트레스 사이를 잇는 실천적 인지 훈련 툴킷이 부족하다.",
-      "differentiation": "'통제할 수 있는 것 vs 없는 것' 이분법 분류 워크시트와 감정 반응 전 10초 멈춤 루틴 수록",
-      "diff": "'통제할 수 있는 것 vs 없는 것' 이분법 분류 워크시트와 감정 반응 전 10초 멈춤 루틴 수록",
+      "type": "경영",
+      "field": "경영",
+      "title": "불확실성 시대의 기업 생존 조건: 비재무적 리스크를 통제하는 경영 판단 순서",
+      "concept": "국제 정세 급변 및 바이오·보건 안보 리스크 등 외부 충격 속에서 기업의 존속을 위협하는 비재무적 위험 요인을 식별하고, 공급망과 운영 연속성을 방어하는 경영자 의사결정 매뉴얼.",
+      "why": "'트럼프, 러시아 병원체 유출에 강도 높게 살펴보고 있다' 보도처럼 지정학적 돌발 변수와 보건·생물학적 위험이 기업 운영을 즉각 위협하는 상황이 반복되고 있어, 단순 재무 지표를 넘어선 포괄적 위기 대응 프레임워크가 요구된다.",
+      "competition": "《미디어 기업의 지속가능성 경영》, 《지속가능성 경영과 기업가치 평가》 등 기존 도서는 학술적 가치 평가나 특정 산업군 이론에 치우쳐 있어 돌발적 글로벌 외생 변수 발생 시 중소·중견기업 경영진이 실행할 실무 지침을 제공하지 못한다.",
+      "reader": "지정학적 갈등, 글로벌 공급망 교란, 예기치 못한 비재무적 규제 신호 앞에서 사업 연속성 방어에 직면한 기업 대표 및 기획·전략 실무 책임자",
+      "readerNeed": "외부의 거대한 불확실성 신호가 떴을 때 회사 자원과 운영 리스크를 어떤 순서로 진단하고 통제해야 지속가능성을 지킬 수 있는지 알고 싶다.",
+      "marketGap": "이론적 ESG 담론이나 거시경제 해설서는 많지만, 외부 충격 발생 시 사업장·인력·공급망을 유지하기 위한 '의사결정 단계별 체크리스트'를 제시하는 실무서는 부재하다.",
+      "differentiation": "추상적 지속가능성 지표 대신 '위험 인지→운영 취약점 감사→비상 대응 수립→자금·공급망 재배치'의 4단계 실행 프로토콜과 위기 자가진단표를 제공한다.",
+      "diff": "추상적 지속가능성 지표 대신 '위험 인지→운영 취약점 감사→비상 대응 수립→자금·공급망 재배치'의 4단계 실행 프로토콜과 위기 자가진단표를 제공한다.",
       "toc": [
-        "1장. 왜 우리는 얼굴 모르는 사람의 말 한마디에 하루를 망치는가",
-        "2장. 통제의 이분법: 내 생각과 타인의 행동을 가르는 명확한 선",
-        "3장. 자극과 반응 사이의 틈 만들기: 충동적 판단을 멈추는 3가지 질문",
-        "4장. 관계의 잡음에서 나를 지키는 법: 비난과 칭찬을 다루는 스토아식 태도",
-        "5장. 잠들기 전 마음을 비우는 저녁 검토: 하루의 감정 부채 털어내기"
+        "외생 리스크가 기업 재무와 운영을 흔드는 경로",
+        "지속가능성을 위협하는 4대 비재무적 요인 식별",
+        "공급망과 인력 연속성을 위한 위기 진단표 작성",
+        "불확실성 속에서 자원 배분의 우선순위 재조정",
+        "회복 탄력성을 내재화하는 조직 운영 규칙 구축"
       ],
       "searchQueries": [
-        "스토아 철학 실천",
-        "감정 통제 내면 평정"
+        "기업 지속가능성 결정요인",
+        "경영 지속가능성 전략"
       ],
       "bookworthiness": {
-        "durability": "외부 자극에 흔들리지 않는 내면의 평정은 시대와 무관하게 유효한 고전적 인간 과제다.",
-        "repeatNeed": "관계 스트레스나 SNS 피로감이 극에 달할 때마다 반복해서 펼쳐보는 지침서",
-        "expansionPotential": "세네카, 에픽테토스의 핵심 원리와 현대 인지행동치료(CBT) 기법을 결합해 210쪽 집필 가능",
+        "durability": "글로벌 공급망 분절과 보건·안보 리스크는 단기 유행이 아닌 상시적 사업 환경이므로 지속적인 참조 가치를 지닌다.",
+        "repeatNeed": "위기 국면마다 경영진이 사업 계획을 재점검하고 비상 계획을 수정할 때 반복적으로 열어보는 지침서로 기능한다.",
+        "expansionPotential": "위험 식별, 지표화, 조직 내 실행, 사후 평가 등 경영 프레임워크 전 과정을 5개 장으로 200쪽 이상 충실히 전개 가능하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "요나스 잘츠게버",
-          "career": "《인생이 막막할 땐 스토아 철학》 저자 · 시프",
-          "why": "YES24에서 이 기획과 인접한 주제의 《인생이 막막할 땐 스토아 철학》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/109846326",
+          "name": "우형진",
+          "career": "《미디어 기업의 지속가능성 경영》 저자 · 한양대학교출판부",
+          "why": "YES24에서 이 기획과 인접한 주제의 《미디어 기업의 지속가능성 경영》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/123199280",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "이경희 역",
-          "career": "《인생이 막막할 땐 스토아 철학》 저자 · 시프",
-          "why": "YES24에서 이 기획과 인접한 주제의 《인생이 막막할 땐 스토아 철학》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/109846326",
+          "name": "이기훈",
+          "career": "《지속가능성 경영과 기업가치 평가》 저자 · (주)박영사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《지속가능성 경영과 기업가치 평가》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/1445540",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "편집부",
-          "career": "《뭉치 초등 첫 인문 철학왕 세트》 저자 · 뭉치",
-          "why": "YES24에서 이 기획과 인접한 주제의 《뭉치 초등 첫 인문 철학왕 세트》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/138929549",
+          "name": "최조순",
+          "career": "《사회적 기업의 지속가능성과 기업가정신》 저자 · 이담북스(이담Books)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《사회적 기업의 지속가능성과 기업가정신》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/7271363",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "요나스 잘츠게버",
-      "bestAuthor": "요나스 잘츠게버",
+      "author": "우형진",
+      "bestAuthor": "우형진",
       "authorBrief": "",
-      "headlineCopy": "바꿀 수 없는 타인의 말에 내 하루를 내어주지 않는 연습",
+      "headlineCopy": "외부 충격이 사업을 덮칠 때 경영자가 가장 먼저 확인해야 할 지속가능성 방어 순서",
       "marketingStrategy": {
-        "sampleBreadth": "넓음",
+        "sampleBreadth": "보통",
         "coreDesires": [
-          "외부 자극으로부터 멘탈 보호",
-          "불안과 분노로부터의 감정적 해방"
+          "실수 없이 판단하고 싶다",
+          "바로 적용할 기준이 필요하다"
         ],
         "quadrant": {
-          "audience": "대중형",
-          "mode": "감정·이미지형"
+          "audience": "니치형",
+          "mode": "정보·신뢰형"
         },
-        "acquisition": "인스타그램 및 유튜브 쇼츠를 통한 '멘탈을 지키는 1분 스토아 사고법' 바이럴",
-        "trust": "세네카 고전 철학의 정수와 현대 심리학적 인지 재구성 기법의 결합",
-        "conversion": "'마음 통제 2분 분류표' 및 '저녁 마음 정리 일기 양식' 제공",
+        "acquisition": "'글로벌 충격 발생 시 우리 회사는 며칠 동안 버틸 수 있는가?'라는 경영 취약성 점검 질문을 첫 장면에 던져 위기감을 현실적인 문제로 전환한다.",
+        "trust": "산업연구원 보고서 및 실제 기업 위기 관리 지표를 기반으로 한 20개 항목의 '사업 연속성 진단표'를 수록하여 실무적 타당성을 확보한다.",
+        "conversion": "이론 설명에 머물지 않고 즉시 경영회의 안건으로 올릴 수 있는 '단계별 위기 대응 판단 흐름도'를 상세페이지에 제시해 구매 결정을 유도한다.",
         "maxDropoff": {
-          "stage": "호기심",
-          "problem": "기존 철학 교양서의 지루한 역사 나열로 오인",
-          "objection": "철학책은 읽을 때만 좋고 현실 적용은 어렵지 않나?",
-          "solution": "직장 상사의 잔소리, SNS 악플 등 현대적 사례 중심의 문답식 구성 강조"
+          "stage": "탐색",
+          "problem": "거시 리스크 해설서나 학술 논문 요약집으로 오인될 경우 실무자 구매가 저하될 수 있다.",
+          "objection": "“우리 같은 규모의 기업에 당장 적용하기엔 너무 거창한 이야기 아닌가?”",
+          "solution": "중소·중견 제조 및 서비스 기업 현장에서 당일 적용 가능한 항목별 체크리스트를 전면에 배치하여 현실 적용성을 입증한다."
         },
-        "positioning": "어려운 철학 이론서가 아닌 출퇴근길 멘탈 방어 실천 매뉴얼"
+        "positioning": "이론적 ESG 교과서와 차별화된, 실무 경영자를 위한 위기 통제 및 사업 연속성 설계서"
       },
       "devilsEditor": {
-        "failureReason": "기존 쇼펜하우어나 세네카 잠언집과의 차별화 실패 시 묻힐 위험",
-        "fix": "명언 나열을 전면 배제하고 일상 감정 분리 연습 워크북 형태로 구성한다."
+        "failureReason": "개념적 지속가능성 규범이나 국제정치 뉴스 해설에 매몰되어 기업 현장의 실질적 행동 지침을 제시하지 못할 위험이 있다.",
+        "fix": "거시 뉴스는 촉발 배경으로만 축소하고, 사업장 보호·대체 공급망 확보·비상 현금 흐름 점검 등 구체적 실행 지표 중심으로 원고를 구성한다."
       },
       "scores": {
         "market": 92,
-        "timing": 92,
+        "timing": 96,
         "difference": 95,
         "author": 86,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 93,
+      "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "고전 철학 붐의 후발 주자로 보일 수 있음",
-      "riskResponse": "단순 인문 교양이 아닌 즉각 실천 가능한 인지 훈련 워크북 포지셔닝으로 차별화",
-      "judgment": "고전 인문서 판매 호조 속에서 실용성을 가미한 심리철학서로 롱셀러 가능성 높음",
+      "risk": "외교 안보 및 국제정치 이슈가 급변함에 따라 특정 사례의 유효 기간이 단축될 수 있다.",
+      "riskResponse": "개별 국가 사건 자체보다 '위기 발생 시 기업 내부 취약점을 점검하는 표준 절차'를 뼈대로 삼아 시의성에 구애받지 않도록 집필한다.",
+      "judgment": "거시적 위험 신호를 중소·중견 경영진이 당장 결재판 위에서 검토할 수 있는 '구체적 운영 통제 절차'로 환원해내는지가 성패를 가른다.",
       "evidence": [
         {
-          "text": "세네카, 오늘을 빼앗기고 있는 당신에게",
-          "kind": "YES24 자료",
-          "url": ""
+          "text": "미디어 기업의 지속가능성 경영 — 우형진 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/123199280"
         },
         {
-          "text": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
-          "kind": "YES24 자료",
-          "url": ""
-        },
-        {
-          "text": "李대통령이 `심야 X` 중독?…트럼프·밀레이 보니 글로벌 스탠다드, 그런데… [금주의 이슈] - 매일신문",
+          "text": "트럼프, 러시아 병원체 유출에 \"강도 높게 살펴보고 있다\" [이상은의 워싱턴나우] - hankyung.com",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WUU5HX3BzRE54ODhJdDdQTnpMenlDRDRQdkRHME14X0FMWWpGNmMyRTZ5RGllYmRoQnRkSXJzNWlBLWg2ZF9vU2pIa3J6TWZsZG9lMlF4SkVmZkpGRFBHRGd3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YcmFpQ3l1YVJRMzhNMlYyR1hUSkZDYlJJUm91dUxMV092aWpuQUMyOUdPcHJWdTdCaDNCVUZPa1loc2hhM2xkUHRyVy1FemxielBla29NWThUUQ?oc=5"
         },
         {
-          "text": "[전문] '암살자(들)' 논란 후폭풍..결국 SNS 이벤트 조기 종료 \"마음 무거워\" - starnewskorea.com",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWTjBKTjQ1ckE5MDVSSkI5R2ZwRFZfWmM4d2t4YmNfTGFONUROMXhIUEhuXzByYkJWQmM2ZEJWMWdoUGpDclF4U2dTdEhMRUxRRGk5TDhxNGlaUFBRbVF4WVV0WVFocHZPWmtLczBhblc4UVE?oc=5"
+          "text": "지속가능성 경영과 기업가치 평가 — 이기훈",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/1445540"
+        },
+        {
+          "text": "사회적 기업의 지속가능성과 기업가정신 — 최조순 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/7271363"
         }
       ],
       "sourceChannels": [
@@ -164,400 +171,170 @@
       },
       "similarBooks": [
         {
-          "title": "인생이 막막할 땐 스토아 철학",
-          "author": "요나스 잘츠게버 저/이경희 역",
-          "publisher": "시프",
-          "publicationDate": "20220610",
-          "url": "https://www.yes24.com/product/goods/109846326",
-          "matchedQuery": "스토아 철학 실천",
+          "title": "미디어 기업의 지속가능성 경영",
+          "author": "우형진 저",
+          "publisher": "한양대학교출판부",
+          "publicationDate": "20231130",
+          "url": "https://www.yes24.com/product/goods/123199280",
+          "matchedQuery": "기업 지속가능성 결정요인",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "뭉치 초등 첫 인문 철학왕 세트",
-          "author": "편집부 저",
-          "publisher": "뭉치",
-          "publicationDate": "20221024",
-          "url": "https://www.yes24.com/product/goods/138929549",
-          "matchedQuery": "인문 철학",
+          "title": "지속가능성 경영과 기업가치 평가",
+          "author": "이기훈",
+          "publisher": "(주)박영사",
+          "publicationDate": "20050110",
+          "url": "https://www.yes24.com/product/goods/1445540",
+          "matchedQuery": "기업 지속가능성 결정요인",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "고전 인문 철학 수업 6",
-          "author": "이지훈 저",
-          "publisher": "자유정신사",
-          "publicationDate": "20210205",
-          "url": "https://www.yes24.com/product/goods/97161598",
-          "matchedQuery": "인문 철학",
+          "title": "사회적 기업의 지속가능성과 기업가정신",
+          "author": "최조순 저",
+          "publisher": "이담북스(이담Books)",
+          "publicationDate": "20120629",
+          "url": "https://www.yes24.com/product/goods/7271363",
+          "matchedQuery": "기업 지속가능성 결정요인",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-06T00:32:30.376Z",
+        "updatedAt": "2026-10-06T01:58:25.103Z",
         "queries": [
-          "스토아 철학 실천",
-          "감정 통제 내면 평정"
+          "기업 지속가능성 결정요인",
+          "경영 지속가능성 전략"
         ],
         "resultCount": 3,
         "errors": []
       },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-06T00:39:29.806Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "매일 휩쓸리는 감정을 분리하는 스토아식 하루 정리법",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "바꿀 수 없는 타인의 말에 내 하루를 내어주지 않는 연습",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "007",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "휘말렸을 때 즉각 마음을 가라앉히는 실천적 사고 훈련법이 없다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "015",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "반응에 휘둘리지 않고 내 통제권 안의 일에 집중하는 고전적 실천법.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "030",
-            "sceneCategory": "warning",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "일상을 침범하면서 감정적 탈진과 불안을 호소하는 현대인이 급증했다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "017",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "것' 이분법 분류 워크시트와 감정 반응 전 10초 멈춤 루틴 수록.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "031",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "기존 쇼펜하우어나 세네카 잠언집과의 실패 시 묻힐 위험",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "045",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
-        "sourceRevision": "zcr-01a809e2"
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "coverRefs": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
-          "title": "One Day, Everyone Will Have Always Been Against This",
-          "context": "One Day, Everyone Will Have Always Been Against This Omar El Akkad Janet Hansen",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "title": "Sea, Poison",
-          "context": "Sea, Poison Caren Beilin Jamie Keenan",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/Ravn-WAX-CHILD-rgb-scaled.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/Ravn-WAX-CHILD-rgb-scaled.jpg",
-          "title": "The Wax Child",
-          "context": "The Wax Child Olga Ravn Paul Sahre",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Omar-El-Akkad-One-Day-Everyone-Will-Have-Always-Been-Against-This-copy.jpg",
-          "title": "One Day, Everyone Will Have Always Been Against This",
-          "context": "One Day, Everyone Will Have Always Been Against This Omar El Akkad Janet Hansen",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "title": "Sea, Poison",
-          "context": "Sea, Poison Caren Beilin Jamie Keenan",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/Ravn-WAX-CHILD-rgb-scaled.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/Ravn-WAX-CHILD-rgb-scaled.jpg",
-          "title": "The Wax Child",
-          "context": "The Wax Child Olga Ravn Paul Sahre",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-01a809e2",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-06T00:57:47.615Z",
-        "model": "deterministic-approved-local",
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "qualityTier": "continuity",
-        "diagnostics": {
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
-        }
-      }
+      "rank": 1
     },
     {
-      "type": "경제경영/재테크",
-      "field": "경제경영/재테크",
-      "title": "지정학 위기와 유가 충격 속 가계 자산 방어 순서",
-      "concept": "국제 분쟁과 유가·환율 변동 뉴스가 쏟아질 때 내 통장과 대출, 연금 포트폴리오를 점검하는 실행 순서",
-      "why": "중동 분쟁 등 지정학적 긴장과 금리·유가 불확실성이 지속되며 평범한 개인의 대출 이자와 투자 수익률이 직접적인 타격을 받고 있다.",
-      "competition": "기존 책은 거시경제 전망이나 주식 종목 추천에 치우쳐, 실제 개인이 어떤 순서로 현금과 대출을 방어해야 하는지 알려주지 않는다.",
-      "reader": "매일 뉴스에서 유가와 환율 급등 소식을 보며 내 적금과 주식, 주담대 이자를 어떻게 손봐야 할지 불안한 직장인 투자자",
-      "readerNeed": "글로벌 지정학 위기 뉴스를 보았을 때 오늘 밤 내 계좌에서 무엇을 매도하고 무엇을 비축해야 하는지 우선순위를 모른다.",
-      "marketGap": "국제정치 해설서와 주식 투자서 사이에서 '가계 현금흐름과 부채 안정'을 직접 연결해 주는 행동 매뉴얼이 부재하다.",
-      "differentiation": "유가·환율 3단계 위기 시나리오별 자산 재배분 점검표 및 대출 상환 우선순위 결정 트리 수록",
-      "diff": "유가·환율 3단계 위기 시나리오별 자산 재배분 점검표 및 대출 상환 우선순위 결정 트리 수록",
+      "type": "마케팅",
+      "field": "마케팅",
+      "title": "사는 이유를 만드는 설계: 쏟아지는 선택지 속에서 내 브랜드를 남기는 법",
+      "concept": "AI 기술 확산과 선택 과잉 시대에 고객의 뇌리에 각인되고 실제 결제로 이어지게 만드는 구매 결정 요인의 설계 매뉴얼.",
+      "why": "AI 인프라 표준화와 신기술 발표가 잇따르며 마케팅 자동화 도구는 보편화되었으나, 정작 고객이 왜 수많은 대안 중 이 상품을 골라야 하는지에 대한 설득 논리는 더욱 빈곤해지고 있다.",
+      "competition": "《프로농구 팬의 소비행동 결정요인이 팀 충성도 및 재관람 의사에 미치는 영향분석》 등은 특정 학술 분야에 한정되어 있고, 《핵폭탄마케팅》류는 자극적 구호에 치우쳐 있으며, 《전 직원이 AI로 마케팅하라》는 툴 사용법에 집중되어 고객의 본질적 심리 결정 요인을 짚어주지 못한다.",
+      "reader": "콘텐츠 노출이나 광고 집행은 늘렸으나 장바구니 담기와 최종 결제 단계에서 이탈률이 높아 고민하는 실무 마케터 및 브랜드 기획자",
+      "readerNeed": "수많은 대체재 속에서 소비자가 망설이지 않고 우리 제품을 선택하게 만드는 결정적 구매 트리거가 무엇인지 알고 싶다.",
+      "marketGap": "트래픽 확보법이나 생성형 AI 프롬프트 사용법을 다루는 책은 넘치지만, 고객이 결제 직전에 작동시키는 '선택 기준과 거절 이유'를 해부하고 이를 상세페이지와 카피에 이식하는 실무서는 부족하다.",
+      "differentiation": "단순 팁의 나열이 아니라 '결핍 자극→의심 해소→선택 정당화→행동 촉발'로 이어지는 소비자 의사결정 4단계 모델과 전환율 개선 워크시트를 제공한다.",
+      "diff": "단순 팁의 나열이 아니라 '결핍 자극→의심 해소→선택 정당화→행동 촉발'로 이어지는 소비자 의사결정 4단계 모델과 전환율 개선 워크시트를 제공한다.",
       "toc": [
-        "1장. 뉴스 속 지정학 리스크가 내 월급 통장에 도달하는 경로",
-        "2장. 유가와 환율이 동시에 오를 때 먼저 끊어야 할 금융 비용",
-        "3장. 위기 단계별 가계 현금 비축과 대출 상환 순서",
-        "4장. 변동성 장세에서 연금과 적립식 투자 계좌를 방어하는 법",
-        "5장. 공포 매매를 멈추는 위기 대응 캘린더와 포트폴리오 재배분"
+        "소비자가 결제를 망설이는 진짜 심리 장벽",
+        "노출보다 중요한 구매 결정 요인의 3가지 축",
+        "선택지를 줄여 결정을 돕는 제품 브랜딩 구조",
+        "의심을 확신으로 바꾸는 신뢰 증거 배치법",
+        "이탈을 막고 즉각 구매를 부르는 전환 설계 순서"
       ],
       "searchQueries": [
-        "유가 금리 가계부채",
-        "환율 변동 자산관리"
+        "소비자 구매결정 영향요인",
+        "마케팅 구매결정 전략"
       ],
       "bookworthiness": {
-        "durability": "지정학적 리스크와 유가 변동은 경기 순환마다 반복되는 구조적 위기 요인이다.",
-        "repeatNeed": "거시경제 충격이 올 때마다 상시적으로 꺼내어 자산 점검에 활용할 수 있다.",
-        "expansionPotential": "가계 현금흐름 분석, 대출 포트폴리오 재설계, 원자재·환율 연동 자산 배분법으로 240쪽 구성 가능",
+        "durability": "마케팅 플랫폼과 유행 툴이 바뀌어도 인간이 재화와 서비스를 구매할 때 거치는 심리적 기제는 본질적으로 유지된다.",
+        "repeatNeed": "새로운 제품을 기획하거나 기존 캠페인의 전환율이 정체될 때마다 반복해서 점검 도구로 활용할 수 있다.",
+        "expansionPotential": "결정 요인 분석, 거절 사유 해체, 상세페이지 기획, 가격 책정 논리 등 실무 단계별로 200쪽 이상의 체계적 확장이 가능하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "이광수",
-          "career": "《진보를 위한 주식투자》 저자 · 21세기북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《진보를 위한 주식투자》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/168226997",
+          "name": "박상일",
+          "career": "《프로농구 팬의 소비행동 결정요인이 팀 충성도 및 재관람 의사에 미치는 영향분석》 저자 · 한국학술정보",
+          "why": "YES24에서 이 기획과 인접한 주제의 《프로농구 팬의 소비행동 결정요인이 팀 충성도 및 재관람 의사에 미치는 영향분석》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/2136999",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "백승 노윤정",
-          "career": "《일본 부동산 직접 투자 최강 바이블》 저자 · 시원북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《일본 부동산 직접 투자 최강 바이블》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/167407760",
+          "name": "장위덕",
+          "career": "《핵폭탄마케팅》 저자 · 미다스북스(리틀미다스)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《핵폭탄마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/197071716",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김영조",
+          "career": "《전 직원이 AI로 마케팅하라》 저자 · 하움출판사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《전 직원이 AI로 마케팅하라》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/197078139",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "이광수",
-      "bestAuthor": "이광수",
+      "author": "박상일",
+      "bestAuthor": "박상일",
       "authorBrief": "",
-      "headlineCopy": "중동 뉴스가 뜰 때 주식 창 대신 먼저 열어봐야 할 내 통장 방어선",
+      "headlineCopy": "AI와 광고로 트래픽을 모아도 왜 안 팔리는지, 결제 직전 고객의 머릿속을 여는 마케팅 설계서",
       "marketingStrategy": {
         "sampleBreadth": "넓음",
         "coreDesires": [
-          "환율·유가 폭등 시 자산 손실 방어",
-          "불안 없는 안정적 현금흐름 유지"
+          "바로 적용할 기준이 필요하다",
+          "실수 없이 판단하고 싶다"
         ],
         "quadrant": {
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "환율 급등기 필수 대출 점검 카드뉴스 및 경제 유튜브 채널 인터뷰",
-        "trust": "실제 금리·환율 변동기 가계 데이터와 재무 상담 사례 기반의 객관적 분석",
-        "conversion": "'위기 시나리오별 자산 방어 체크리스트' 및 '대출 상환 시뮬레이터 표' 제공",
+        "acquisition": "'유입은 있는데 왜 결제로 이어지지 않는가?'라는 이커머스 및 브랜드 실무자의 가장 아픈 질문으로 클릭을 유도한다.",
+        "trust": "실제 전환 실패 사례 분석과 A/B 테스트 검증 데이터를 담은 '구매 결정 요인 12개 점검표'를 제시하여 전문성을 증명한다.",
+        "conversion": "이론 요약이 아닌, 자사 상세페이지와 광고 카피를 즉시 교정할 수 있는 '전환율 자가 진단 워크시트'를 구매 유인 요소로 삼는다.",
         "maxDropoff": {
-          "stage": "결제 직전",
-          "problem": "거시경제 분석서 특유의 난해함에 대한 두려움",
-          "objection": "경제학 지식이 부족한데 내가 따라 할 수 있을까?",
-          "solution": "전문 용어를 배제하고 순서도와 사지선다 질문형 의사결정 트리로 단순화"
+          "stage": "의심",
+          "problem": "기존의 흔한 마케팅 심리학 교양서나 성공 사례 나열서로 비칠 경우 구매 동력이 약화될 수 있다.",
+          "objection": "“이론은 알겠는데, 내 제품 상세페이지에는 어떻게 고쳐 쓰라는 건가?”",
+          "solution": "전후 비교(Before & After) 상세페이지 수정 가이드와 전환 체크리스트를 미리보기로 제공해 실무적 해결책을 보여준다."
         },
-        "positioning": "전망서가 아닌 가계 위기관리 실전 행동 지침서"
+        "positioning": "광고 툴 사용법을 넘어 전환의 본질인 '구매 결정 심리'를 설계하는 현장용 마케팅 실무서"
       },
       "devilsEditor": {
-        "failureReason": "정치·군사 뉴스 해설에 매몰되어 개인 재무 실용성이 흐려질 위험",
-        "fix": "국제정치 비중을 20% 이내로 줄이고 80%를 통장·대출·연금 관리 실행표에 집중한다."
+        "failureReason": "일반적인 행동경제학 이론이나 널리 알려진 심리 효과(닻내림 효과 등)를 백과사전식으로 나열하다 끝날 위험이 있다.",
+        "fix": "학술 개념어를 배제하고, 독자가 즉시 상품 소개서나 상세페이지 구성에 대입할 수 있는 '문장 및 배치 프레임워크'로 치환한다."
       },
       "scores": {
-        "market": 88,
-        "timing": 92,
+        "market": 92,
+        "timing": 96,
         "difference": 95,
-        "author": 82,
+        "author": 86,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 92,
+      "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "단기 정세 변화에 따라 독자의 체감 위기감이 출렁일 수 있음",
-      "riskResponse": "개별 사건이 아닌 '유가·환율 급변'이라는 범용적 시장 충격 대응 공식으로 체계화",
-      "judgment": "트렌드서와 주식 기본서 사이에서 실질적인 생활 방어 재무서로 틈새 시장 확보 가능",
+      "risk": "광고 플랫폼의 알고리즘 정책 변화나 단기 트렌드에 기대면 도서의 생명력이 급감한다.",
+      "riskResponse": "플랫폼 테크닉을 배제하고 인간의 인지 부하 감소 및 구매 결정 원리에 철저히 집중하여 집필한다.",
+      "judgment": "'트래픽 유입'의 도구적 기술에서 벗어나 '결제 전환'을 만드는 심리적 트리거를 구체적인 카피와 화면 설계 단위로 증명할 수 있는가가 관건이다.",
       "evidence": [
         {
-          "text": "튀르키예·파키스탄, 후티 공격받는 사우디에 병력 보낸다 - 연합뉴스",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HckVSV0Y3SE1QT2FXUGxUUGd3SVlTUTQ5MVplcG9JQUdsZnhtbks2OXNHVjM4d1pBSWtfZTM3LUdVeTZacTlhYW9LNzdTOTBmOGZzbndPSEZ6eXPSAWBBVV95cUxNVHRIaE5JZjFCaWxxcE1ERk9qUjVPT0RSNHZULVNrZlRBb0RzckRiUGRzanQyVmN4eFJJNEtwRGlOS2kzLWJEc1hIZno5VlA3U2FxNU4tdHI3WjV1TVpjTUc?oc=5"
+          "text": "프로농구 팬의 소비행동 결정요인이 팀 충성도 및 재관람 의사에 미치는 영향분석 — 박상일 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/2136999"
         },
         {
-          "text": "(주간증시전망)반도체 실적 기대 속 '금리·유가' 변수 - newstomato.com",
+          "text": "경찰, 금융기관 해킹 정식수사 전환…전담 수사팀 지정 - KBS 뉴스",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yaGFBTmtHeVpGMEVBZ0l6UE9Ld3pOdXJwMTJIeGVXckpYclkxbkd4dUpwUjJQWHY5T1lhUlppM2VoUFdQS21EaU9Jb2VMS1IxbnFkQ3pEMVZpdW5Eb24tNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQXlXdngyclVrcUl6WW5DSVlnaUtWaWtZbEYteWNMVUtZWWlaU0plUmZ0RjlaQkRfZWdyaVIyYks4WEhkVFZDWnJrWnI1MTVvMFI3T25oX3gzdFU?oc=5"
         },
         {
-          "text": "머니 트렌드 2027",
-          "kind": "YES24 자료",
-          "url": ""
+          "text": "핵폭탄마케팅 — 장위덕 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/197071716"
+        },
+        {
+          "text": "전 직원이 AI로 마케팅하라 — 김영조 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/197078139"
         }
       ],
       "sourceChannels": [
-        "google-news",
-        "yes24"
+        "yes24",
+        "google-news"
       ],
       "crossSourceCount": 2,
       "fallbackCardComplete": true,
@@ -573,393 +350,163 @@
       },
       "similarBooks": [
         {
-          "title": "진보를 위한 주식투자",
-          "author": "이광수 저",
-          "publisher": "21세기북스",
-          "publicationDate": "20251217",
-          "url": "https://www.yes24.com/product/goods/168226997",
-          "matchedQuery": "경제경영 재테크",
+          "title": "프로농구 팬의 소비행동 결정요인이 팀 충성도 및 재관람 의사에 미치는 영향분석",
+          "author": "박상일 저",
+          "publisher": "한국학술정보",
+          "publicationDate": "20060630",
+          "url": "https://www.yes24.com/product/goods/2136999",
+          "matchedQuery": "소비자 구매결정 영향요인",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "일본 부동산 직접 투자 최강 바이블",
-          "author": "백승 노윤정 저",
-          "publisher": "시원북스",
-          "publicationDate": "20251126",
-          "url": "https://www.yes24.com/product/goods/167407760",
-          "matchedQuery": "경제경영 재테크",
+          "title": "핵폭탄마케팅",
+          "author": "장위덕 저",
+          "publisher": "미다스북스(리틀미다스)",
+          "publicationDate": "20261013",
+          "url": "https://www.yes24.com/product/goods/197071716",
+          "matchedQuery": "마케팅",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "전 직원이 AI로 마케팅하라",
+          "author": "김영조 저",
+          "publisher": "하움출판사",
+          "publicationDate": "20260930",
+          "url": "https://www.yes24.com/product/goods/197078139",
+          "matchedQuery": "마케팅",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-06T00:32:32.344Z",
+        "updatedAt": "2026-10-06T01:58:28.091Z",
         "queries": [
-          "유가 금리 가계부채",
-          "환율 변동 자산관리"
+          "소비자 구매결정 영향요인",
+          "마케팅 구매결정 전략"
         ],
-        "resultCount": 2,
+        "resultCount": 3,
         "errors": []
       },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-06T00:39:29.806Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "지정학 위기와 유가 충격 속 가계 자산 방어 순서",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "중동 뉴스가 뜰 때 주식 창 대신 먼저 열어봐야 할 내 통장 방어선",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "003",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "계좌에서 무엇을 매도하고 무엇을 비축해야 하는지 우선순위를 모른다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "쏟아질 때 내 통장과 대출, 연금 포트폴리오를 점검하는 실행 순서.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "평범한 개인의 대출 이자와 투자 수익률이 직접적인 타격을 받고 있다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "012",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "시나리오별 자산 재배분 점검표 및 대출 상환 우선순위 결정 트리 수록.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "032",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "정치·군사 뉴스 해설에 매몰되어 개인 재무 실용성이 흐려질 위험",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "042",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
-        "sourceRevision": "zcr-01a809e2"
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "coverRefs": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
-          "title": "Minor Black Figures",
-          "context": "Minor Black Figures Brandon Taylor Grace Han",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Maggie-Su-Blob-A-Love-Story-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Maggie-Su-Blob-A-Love-Story-.jpeg",
-          "title": "Blob: A Love Story",
-          "context": "Blob: A Love Story Maggie Su Robin Bilardello",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
-          "title": "Covert Joy",
-          "context": "Covert Joy Clarice Lispector Paul Sahre",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
-          "title": "Minor Black Figures",
-          "context": "Minor Black Figures Brandon Taylor Grace Han",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Maggie-Su-Blob-A-Love-Story-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Maggie-Su-Blob-A-Love-Story-.jpeg",
-          "title": "Blob: A Love Story",
-          "context": "Blob: A Love Story Maggie Su Robin Bilardello",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
-          "title": "Covert Joy",
-          "context": "Covert Joy Clarice Lispector Paul Sahre",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-01a809e2",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-06T00:57:47.615Z",
-        "model": "deterministic-approved-local",
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "qualityTier": "continuity",
-        "diagnostics": {
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
-        }
-      }
+      "rank": 2
     },
     {
-      "type": "자기계발/업무스킬",
-      "field": "자기계발/업무스킬",
-      "title": "자동화 뒤에 남는 나의 업무 효능감: 일의 주도권을 지키는 기록법",
-      "concept": "AI와 자동화 도구로 결과물은 빨리 나왔지만 효능감과 성장 실감을 잃어버린 실무자를 위한 업무 주도권 점검법",
-      "why": "결과물 생산 속도는 비약적으로 빨라졌으나 '내가 해냈다'는 성취감이 사라지고 부품화되는 심리적 소외가 현장 직장인에게 확산되고 있다.",
-      "competition": "기존 도서는 프롬프트 작성법이나 생산성 극대화 테크닉만 가르치고, 작업 후 주체성을 남기는 심리적·구조적 매뉴얼은 다루지 않는다.",
-      "reader": "생산성 도구는 능숙하게 쓰지만 정작 퇴근길에 '내가 오늘 무엇을 성장시켰는가' 회의감이 드는 3~7년 차 지식노동자",
-      "readerNeed": "도구가 대신 써준 보고서와 기획안 앞에서 내 고유의 관점과 의사결정 흔적을 어디에 남겨야 할지 갈피를 잡지 못한다.",
-      "marketGap": "도구 효율화 책은 넘치지만, 기계가 채운 자리에서 내 역량과 기여도를 명확히 분리하고 주관적 성취를 회복시키는 지침서는 없다.",
-      "differentiation": "업무 흐름별 '도구 위임 영역 vs 인간 의사결정 영역' 매핑 시트와 성과 평가 시 내 고유 기여를 입증하는 코멘트 템플릿 제공",
-      "diff": "업무 흐름별 '도구 위임 영역 vs 인간 의사결정 영역' 매핑 시트와 성과 평가 시 내 고유 기여를 입증하는 코멘트 템플릿 제공",
+      "type": "금융",
+      "field": "금융",
+      "title": "금리·자산 격변기, 내 돈을 지키는 방어 투자 판단 순서",
+      "concept": "글로벌 금융 시장의 유동성 변화와 금리 충격 속에서 개인 투자자가 패닉 바잉이나 투매에 빠지지 않고 자산 배분과 현금 흐름을 재구축하는 실전 대응 매뉴얼.",
+      "why": "단기 유행 상품 소비는 번지지만 자산 시장은 불확실성이 지속되는 환경에서, 감정적 투자로 원금을 훼손당하기 쉬운 직장인들에게 체계적인 리스크 관리 규율이 시급하다.",
+      "competition": "《금융시장 불확실성이 기업자금 조달비용에 미치는 영향》은 거시 정책 연구서이고, 《고등어와 주식, 그리고 보이지 않는 손》은 교양 경제 에세이에 가까워 자산 시장의 변동성에 당장 대응해야 하는 개인 투자자의 실행 지침서 역할을 하지 못한다.",
+      "reader": "금리 변동 및 자산 시장의 급등락 뉴스를 볼 때마다 대출 상환, 예적금, 주식 비중을 어떻게 조정해야 할지 불안한 30~50대 직장인",
+      "readerNeed": "불확실한 시장 상황에서 손실을 막고 자산을 안정적으로 운용할 수 있는 명확한 의사결정 순서를 알고 싶다.",
+      "marketGap": "단기 대박 종목을 찍어주는 투자서나 학술적 거시경제 해설서는 많지만, 시장 위기 시 '자산 방어→부채 통제→현금 비중 조율→재진입'의 프로세스를 제시하는 현실적 가이드는 드물다.",
+      "differentiation": "막연한 장기 분산 투자가 아니라, 시장 충격 신호 발생 시 내 통장과 계좌에서 취해야 할 '단계별 대응 행동표'와 '대출·투자 리스크 판별 매트릭스'를 제공한다.",
+      "diff": "막연한 장기 분산 투자가 아니라, 시장 충격 신호 발생 시 내 통장과 계좌에서 취해야 할 '단계별 대응 행동표'와 '대출·투자 리스크 판별 매트릭스'를 제공한다.",
       "toc": [
-        "1장. 빨라진 속도 뒤에 찾아온 공허: 도구가 끝낸 일과 내가 만든 성장의 분리",
-        "2장. 무엇을 넘기고 무엇을 붙잡을 것인가: 주도권 방어선 4단계 기준",
-        "3장. 과정이 사라진 시대의 작업 기록: 결정 이유와 편집 이력을 자산화하기",
-        "4장. 평가와 피드백에서 내 몫 증명하기: 기여도 분리 리포트 작성법",
-        "5장. 도구에 끌려다니지 않고 일을 내 것으로 매듭짓는 퇴근 10분 회고"
+        "불확실성이 커질 때 자산 시장이 보내는 신호들",
+        "가장 먼저 닫아야 할 위험: 부채와 현금 흐름 점검",
+        "자산군별 비중을 재조정하는 3단계 방어 규칙",
+        "손실을 확정하지 않고 위기를 버텨내는 멘탈 관리법",
+        "시장이 돌아설 때를 대비한 안전한 재진입 기준표"
       ],
       "searchQueries": [
-        "업무 효능감 기록",
-        "일의 주도권 회고"
+        "금융시장 불확실성 대응전략",
+        "금융투자자 대응전략"
       ],
       "bookworthiness": {
-        "durability": "자동화 도구가 고도화될수록 인간 노동자의 고유 기여와 자기효능감 증명 문제는 지속적으로 심화된다.",
-        "repeatNeed": "프로젝트가 끝날 때마다 반복해서 내 역할과 성취를 확인해야 하는 실무자의 상시적 요구에 부합한다.",
-        "expansionPotential": "지식노동의 심리학, 실제 기획·개발·마케팅 직무별 사례, 평가 서식 및 회고 질문지 등으로 220쪽 구성 가능",
+        "durability": "금융 시장의 사이클과 변동성은 자본주의 환경에서 필연적이므로 위기 국면마다 지속적으로 소환된다.",
+        "repeatNeed": "새로운 거시 위기나 금리 정책 변화가 있을 때마다 자산 배분을 재검토하는 매뉴얼로 반복 사용된다.",
+        "expansionPotential": "부채 관리, 환율·금리 연동 자산 이해, 계좌 방어 전략, 재진입 타이밍 설계 등 실무 항목으로 200쪽 이상 집필 가능하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "벡토 네트워크",
-          "career": "《사장이 좋아하는 업무 기술 구체적 기록 관리 편》 저자 · 중앙북스(books)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《사장이 좋아하는 업무 기술 구체적 기록 관리 편》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/3773525",
+          "name": "김현석",
+          "career": "《금융시장 불확실성이 기업자금 조달비용에 미치는 영향》 저자 · 산업연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《금융시장 불확실성이 기업자금 조달비용에 미치는 영향》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/124586509",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "이정환 역",
-          "career": "《사장이 좋아하는 업무 기술 구체적 기록 관리 편》 저자 · 중앙북스(books)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《사장이 좋아하는 업무 기술 구체적 기록 관리 편》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/3773525",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "구마가이 마사토시 감수",
-          "career": "《사장이 좋아하는 업무 기술 구체적 기록 관리 편》 저자 · 중앙북스(books)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《사장이 좋아하는 업무 기술 구체적 기록 관리 편》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/3773525",
+          "name": "권오상",
+          "career": "《고등어와 주식, 그리고 보이지 않는 손》 저자 · 미래의창",
+          "why": "YES24에서 이 기획과 인접한 주제의 《고등어와 주식, 그리고 보이지 않는 손》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/18523128",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "벡토 네트워크",
-      "bestAuthor": "벡토 네트워크",
+      "author": "김현석",
+      "bestAuthor": "김현석",
       "authorBrief": "",
-      "headlineCopy": "일은 10분 만에 끝났는데 왜 내 실력은 제자리인 것 같을까?",
+      "headlineCopy": "흔들리는 시장 뉴스에 일희일비하지 않고 내 자산을 지켜내는 5단계 금융 판단 원칙",
       "marketingStrategy": {
         "sampleBreadth": "넓음",
         "coreDesires": [
-          "내 일의 존재 가치와 주도권 확인",
-          "평가와 이직에서 내 고유 역량 증명"
+          "실수 없이 판단하고 싶다",
+          "바로 적용할 기준이 필요하다"
         ],
         "quadrant": {
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "직장인 커뮤니티 및 링크드인 기반 'AI 시대 번아웃과 자기효능감 체크리스트' 배포",
-        "trust": "실제 조직 심리 연구 프레임과 다수 실무자 인터뷰를 바탕으로 한 신뢰성 확보",
-        "conversion": "'도구 위임 분리표' 및 '내 기여도 입증 템플릿' PDF 부록 제공",
+        "acquisition": "'지금 주식을 팔아야 할까, 예금에 묶어야 할까?'처럼 위기 시 누구나 하는 현실적 질문을 제시하여 공감을 획득한다.",
+        "trust": "과거 금리 인상기 및 금융 충격 국면의 실제 자산 방어 데이터와 수치 검증표를 통해 신뢰성을 확보한다.",
+        "conversion": "'나의 금융 리스크 노출도 자가진단표'와 '위기 시 행동 지침 10계명'을 상세페이지에서 공개하여 책의 즉각적 효용을 강조한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "단순 멘탈 관리나 힐링 에세이로 오해할 가능성",
-          "objection": "마음가짐만 바꾼다고 업무 불안이 사라질까?",
-          "solution": "실제 성과평가 면담과 이력서에 바로 쓰는 서식 중심 목차 강조"
+          "problem": "기존의 뻔한 재테크 교과서나 재산 형성 이론서로 치부될 경우 실질 구매로 이어지지 않는다.",
+          "objection": "“결국 우량주 장기 보유하라는 뻔한 이야기 아닌가?”",
+          "solution": "상승장이 아닌 '하락·횡보 불확실성 국면'에서 원금을 방어하고 현금을 확보하는 구체적 손절 및 비중 조절 규칙을 상세페이지에 명시한다."
         },
-        "positioning": "테크닉 위주 생산성 서적과 감성 위로 에세이 사이의 실무형 워크북"
+        "positioning": "수익률 극대화가 아닌 '시장 퇴출 방지와 자산 방어'에 초점을 맞춘 직장인 필수 금융 생존서"
       },
       "devilsEditor": {
-        "failureReason": "도구 활용 팁에 밀려 막연한 직업 윤리 설교로 흐르면 독자가 외면한다.",
-        "fix": "구체적인 주도권 체크리스트와 프로젝트별 기여도 분리 작성 양식을 전면에 배치한다."
+        "failureReason": "시황 예측이나 종목 추천으로 흐를 경우 출간 직후 시장 환경이 바뀌었을 때 신뢰도를 완전히 잃을 위험이 있다.",
+        "fix": "특정 상품이나 시황 예측을 전면 배제하고, 어떤 시장 충격에도 대응 가능한 '포트폴리오 비중 조절 공식과 부채 관리 원칙'에 집중한다."
       },
       "scores": {
-        "market": 92,
-        "timing": 88,
+        "market": 88,
+        "timing": 96,
         "difference": 95,
-        "author": 86,
+        "author": 82,
         "marketing": 96,
         "longtail": 99
       },
       "score": 93,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "생산성 도구 기능서에 비해 독자의 즉각적인 실무 갈증이 약해 보일 수 있음",
-      "riskResponse": "실제 평가 면담과 번아웃 예방이라는 구체적인 커리어 실용성으로 소구",
-      "judgment": "도구 피로감과 정체성 혼란을 겪는 지식노동자에게 적시성 있는 실용 심리·경력 관리서로 채택 가치 충분함",
+      "risk": "제도권 금융 규제나 세제 개편으로 인해 세부 상품 설명의 유효성이 변할 수 있다.",
+      "riskResponse": "세부 세제나 특정 금융상품보다는 '부채 상환 순서', '비상금 풀 구축', '변동성 분산'이라는 불변의 금융 원칙을 중심으로 서술한다.",
+      "judgment": "대박 수익에 대한 헛된 기대를 걷어내고, 시장 공포 속에서 독자가 실제로 원금을 지킬 수 있는 '방어의 규율'을 얼마나 단단하게 세워주느냐에 출간 성패가 달렸다.",
       "evidence": [
         {
-          "text": "AI가 일을 끝내준 자리, ‘내가 해냈다’는 기분은 남았을까 - 조선일보",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnN1d3d6WkJJNVZEMnRUb05qbFNxR1E0OTdaLTg4dUp5Z0tGNDFvNjZqS3RIdkJXalBSNDNoRmktOVIwTmpNX2RvOGVJbnZXTWJoVnFNdkFjekFiMDVsRGFMYkQyN0dFdUVtUGlvZmFoaFk4bTd3UmR1Yi1WNnZwcTZSSQ?oc=5"
+          "text": "금융시장 불확실성이 기업자금 조달비용에 미치는 영향 — 김현석 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/124586509"
         },
         {
-          "text": "트렌드 코리아 2027",
-          "kind": "YES24 자료",
-          "url": ""
+          "text": "경찰, 금융기관 해킹 정식수사 전환…전담 수사팀 지정 - KBS 뉴스",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQXlXdngyclVrcUl6WW5DSVlnaUtWaWtZbEYteWNMVUtZWWlaU0plUmZ0RjlaQkRfZWdyaVIyYks4WEhkVFZDWnJrWnI1MTVvMFI3T25oX3gzdFU?oc=5"
+        },
+        {
+          "text": "고등어와 주식, 그리고 보이지 않는 손 — 권오상 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/18523128"
+        },
+        {
+          "text": "(주간증시전망)반도체 실적 기대 속 '금리·유가' 변수 - 뉴스토마토",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yaGFBTmtHeVpGMEVBZ0l6UE9Ld3pOdXJwMTJIeGVXckpYclkxbkd4dUpwUjJQWHY5T1lhUlppM2VoUFdQS21EaU9Jb2VMS1IxbnFkQ3pEMVZpdW5Eb24tNg?oc=5"
         }
       ],
       "sourceChannels": [
-        "google-news",
-        "yes24"
+        "yes24",
+        "google-news"
       ],
       "crossSourceCount": 2,
       "fallbackCardComplete": true,
@@ -975,298 +522,40 @@
       },
       "similarBooks": [
         {
-          "title": "사장이 좋아하는 업무 기술 구체적 기록 관리 편",
-          "author": "벡토 네트워크 저/이정환 역/구마가이 마사토시 감수",
-          "publisher": "중앙북스(books)",
-          "publicationDate": "20100330",
-          "url": "https://www.yes24.com/product/goods/3773525",
-          "matchedQuery": "업무 효능감 기록",
+          "title": "금융시장 불확실성이 기업자금 조달비용에 미치는 영향",
+          "author": "김현석 저",
+          "publisher": "산업연구원",
+          "publicationDate": "20231123",
+          "url": "https://www.yes24.com/product/goods/124586509",
+          "matchedQuery": "금융시장 불확실성 대응전략",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "기록보존소의 기록관리 : 업무편람",
-          "author": "이젬마 저",
-          "publisher": "진리탐구",
-          "publicationDate": "20041215",
-          "url": "https://www.yes24.com/product/goods/3946983",
-          "matchedQuery": "업무 효능감 기록",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "자료관의 기록관리: 업무편람",
-          "author": "고선미 역",
-          "publisher": "진리탐구",
-          "publicationDate": "20060828",
-          "url": "https://www.yes24.com/product/goods/2535272",
-          "matchedQuery": "업무 효능감 기록",
+          "title": "고등어와 주식, 그리고 보이지 않는 손",
+          "author": "권오상 저",
+          "publisher": "미래의창",
+          "publicationDate": "20150622",
+          "url": "https://www.yes24.com/product/goods/18523128",
+          "matchedQuery": "금융시장 불확실성 대응전략",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-06T00:32:33.036Z",
+        "updatedAt": "2026-10-06T01:58:29.756Z",
         "queries": [
-          "업무 효능감 기록",
-          "일의 주도권 회고"
+          "금융시장 불확실성 대응전략",
+          "금융투자자 대응전략"
         ],
-        "resultCount": 3,
+        "resultCount": 2,
         "errors": []
       },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-06T00:39:29.806Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "자동화 뒤에 남는 나의 업무 효능감: 일의 주도권을 지키는 기록법",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "일은 10분 만에 끝났는데 왜 내 실력은 제자리인 것 같을까?",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "008",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "관점과 의사결정 흔적을 어디에 남겨야 할지 갈피를 잡지 못한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "023",
-            "sceneCategory": "warning",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "효능감과 성장 실감을 잃어버린 실무자를 위한 업무 주도권 점검법.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "030",
-            "sceneCategory": "warning",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "사라지고 부품화되는 심리적 소외가 현장 직장인에게 확산되고 있다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "시트와 성과 평가 시 내 고유 기여를 입증하는 코멘트 템플릿 제공.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "033",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "활용 팁에 밀려 막연한 직업 윤리 설교로 흐르면 독자가 외면한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "041",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
-        "sourceRevision": "zcr-01a809e2"
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "coverRefs": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "title": "Unfit",
-          "context": "Unfit Ariana Harwicz Erik Carter",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Virginia-Feito-Victorian-Psycho-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Virginia-Feito-Victorian-Psycho-.jpeg",
-          "title": "Victorian Psycho",
-          "context": "Victorian Psycho Virginia Feito Jaya Miceli",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
-          "title": "Playworld",
-          "context": "Playworld Adam Ross Oliver Munday",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/81KDXHen7WL._AC_UF10001000_QL80_.jpg",
-          "title": "Unfit",
-          "context": "Unfit Ariana Harwicz Erik Carter",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Virginia-Feito-Victorian-Psycho-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Virginia-Feito-Victorian-Psycho-.jpeg",
-          "title": "Victorian Psycho",
-          "context": "Victorian Psycho Virginia Feito Jaya Miceli",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Adam-ross-playworld-copy.jpg",
-          "title": "Playworld",
-          "context": "Playworld Adam Ross Oliver Munday",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-01a809e2",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-01a809e2",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-06T00:57:47.615Z",
-        "model": "deterministic-approved-local",
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "qualityTier": "continuity",
-        "diagnostics": {
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
-        }
-      }
+      "rank": 3
     }
-  ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261006-497b4d1c",
-    "file": "cardnews/2026-10-06.json",
-    "cardCount": 6
-  }
+  ]
 }
