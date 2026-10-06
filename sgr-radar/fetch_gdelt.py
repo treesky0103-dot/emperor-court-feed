@@ -148,6 +148,7 @@ NOISE_PATTERNS = [
     r"stocks? rise toward|stocks? poised|all-time high after oil prices|international asparagus summit",
     r"how much does a .* battery storage system cost|capex, revenue and roi explained",
     r"\bstatoil\b",
+    r"not sanctioned by law|sanctioned by law|illegally detained|detained for .* after bail",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
