@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 06:33:46",
+  "updatedAt": "2026. 10. 07. 오전 06:50:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1191,
-    "passed": 51,
-    "deduped": 51,
-    "eventDeduped": 51,
+    "raw": 1230,
+    "passed": 52,
+    "deduped": 52,
+    "eventDeduped": 52,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -632,6 +632,18 @@
       "url": "https://www.ibtimes.co.uk/paramount-warner-bros-discovery-acquisition-skydance-1824067"
     },
     {
+      "id": "https://www.northernpen.ca/microsofts-new-copilot-ai-agents-act-like-virtual-workers-to-automate-tasks/",
+      "title": "Microsoft's new Copilot AI agents act like virtual workers to automate tasks",
+      "source": "northernpen.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T21:46:00Z",
+      "publishedAt": "2026-10-06T21:46:00Z",
+      "summary": "",
+      "url": "https://www.northernpen.ca/microsofts-new-copilot-ai-agents-act-like-virtual-workers-to-automate-tasks/"
+    },
+    {
       "id": "https://www.cnbcafrica.com/2026/uae-trains-80000-government-workers-as-ai-super-users-as-ai-everything-abu-dhabi-opens",
       "title": "UAE trains 80,000 government workers as AI ‘super users’ as Ai Everything Abu Dhabi opens | CNBC Africa",
       "source": "cnbcafrica.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-06T17:46:00Z",
       "summary": "",
       "url": "https://variety.com/2026/film/news/skydance-ceo-memo-layoffs-paramount-warner-bros-merger-1236901335/"
-    },
-    {
-      "id": "https://www.niagarafallsreview.ca/thestar/politics/federal/mark-carney-s-government-demands-answers-from-stelco-on-layoffs/article_18ddf200-d438-5038-9e5b-033b41274a7f.html",
-      "title": "Mark Carney’s government demands answers from Stelco on layoffs",
-      "source": "niagarafallsreview.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:01:00Z",
-      "publishedAt": "2026-10-06T16:01:00Z",
-      "summary": "",
-      "url": "https://www.niagarafallsreview.ca/thestar/politics/federal/mark-carney-s-government-demands-answers-from-stelco-on-layoffs/article_18ddf200-d438-5038-9e5b-033b41274a7f.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1191,
-    "fetchedItems": 4290,
-    "relevantItems": 121,
-    "feedBytes": 1184137,
+    "poolSize": 1230,
+    "fetchedItems": 2624,
+    "relevantItems": 61,
+    "feedBytes": 716128,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
