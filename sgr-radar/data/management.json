@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 02:10:11",
+  "updatedAt": "2026. 10. 07. 오전 02:11:45",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 253,
-    "passed": 14,
-    "deduped": 14,
-    "eventDeduped": 14,
+    "raw": 249,
+    "passed": 13,
+    "deduped": 13,
+    "eventDeduped": 13,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -102,18 +102,6 @@
       "url": "https://www.niagarafallsreview.ca/thestar/politics/federal/mark-carney-s-government-demands-answers-from-stelco-on-layoffs/article_18ddf200-d438-5038-9e5b-033b41274a7f.html"
     },
     {
-      "id": "https://www.news4jax.com/news/politics/2026/10/06/politics-power-from-cyberattacks-to-job-losses-what-ai-means-for-security-livelihoods-worldwide/",
-      "title": "Politics & Power: From cyberattacks to job losses, what AI means for security & livelihoods worldwide",
-      "source": "news4jax.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
-      "summary": "",
-      "url": "https://www.news4jax.com/news/politics/2026/10/06/politics-power-from-cyberattacks-to-job-losses-what-ai-means-for-security-livelihoods-worldwide/"
-    },
-    {
       "id": "https://siliconangle.com/2026/10/06/dells-ai-data-platform-gets-a-knowledge-graph-for-agents-and-faster-nvidia-processing/",
       "title": "Dell's AI Data Platform gets a knowledge graph for agents and faster Nvidia processing - SiliconANGLE",
       "source": "siliconangle.com",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-06T16:47:00Z",
       "summary": "",
       "url": "https://itbrief.co.nz/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"
+    },
+    {
+      "id": "https://www.businessinsider.com/developers-are-burned-out-as-ai-coding-reshapes-work-survey-2026-10",
+      "title": "Developers are burned out, disengaged, and facing an AI-powered reset, a survey of 30,000 workers found",
+      "source": "businessinsider.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T16:02:00Z",
+      "publishedAt": "2026-10-06T16:02:00Z",
+      "summary": "",
+      "url": "https://www.businessinsider.com/developers-are-burned-out-as-ai-coding-reshapes-work-survey-2026-10"
     }
   ],
   "trendItems": [
@@ -260,18 +260,6 @@
       "url": "https://www.glassmagazine.com/news/2026/construction-layoffs-fall-all-time-low-august"
     },
     {
-      "id": "https://www.news4jax.com/news/politics/2026/10/06/politics-power-from-cyberattacks-to-job-losses-what-ai-means-for-security-livelihoods-worldwide/",
-      "title": "Politics & Power: From cyberattacks to job losses, what AI means for security & livelihoods worldwide",
-      "source": "news4jax.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
-      "summary": "",
-      "url": "https://www.news4jax.com/news/politics/2026/10/06/politics-power-from-cyberattacks-to-job-losses-what-ai-means-for-security-livelihoods-worldwide/"
-    },
-    {
       "id": "https://siliconangle.com/2026/10/06/dells-ai-data-platform-gets-a-knowledge-graph-for-agents-and-faster-nvidia-processing/",
       "title": "Dell's AI Data Platform gets a knowledge graph for agents and faster Nvidia processing - SiliconANGLE",
       "source": "siliconangle.com",
@@ -311,9 +299,9 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 253,
+    "poolSize": 249,
     "fetchedItems": 6019,
-    "relevantItems": 62,
+    "relevantItems": 58,
     "feedBytes": 1705517,
     "rollingWindowHours": 24,
     "displayTarget": 10
