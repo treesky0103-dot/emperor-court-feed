@@ -147,6 +147,7 @@ NOISE_PATTERNS = [
     r"best business laptop|hybrid workday|best time to invest in fixed deposits|fixed deposits",
     r"stocks? rise toward|stocks? poised|all-time high after oil prices|international asparagus summit",
     r"how much does a .* battery storage system cost|capex, revenue and roi explained",
+    r"\bstatoil\b",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
@@ -334,10 +335,26 @@ def global_signal(title: str) -> int:
         return 1
     return 0
 
+def url_embedded_date_is_stale(url: str, max_age_days: int = 3) -> bool:
+    """Reject obviously resurfaced old articles when the URL itself carries an old publication date."""
+    path = urlparse(clean(url)).path
+    match = re.search(r"/(20\\d{2})/(0?[1-9]|1[0-2])/(0?[1-9]|[12]\\d|3[01])(?:/|$)", path)
+    if not match:
+        match = re.search(r"/(20\\d{2})-(0?[1-9]|1[0-2])-(0?[1-9]|[12]\\d|3[01])(?:/|$)", path)
+    if not match:
+        return False
+    try:
+        embedded = datetime(int(match.group(1)), int(match.group(2)), int(match.group(3)), tzinfo=timezone.utc)
+    except ValueError:
+        return False
+    return embedded < datetime.now(timezone.utc) - timedelta(days=max_age_days)
+
 def is_noise(item: dict) -> bool:
     title, url = clean(item.get("title")).lower(), clean(item.get("url")).lower()
     source = domain_from_url(url) or clean(item.get("source")).lower().removeprefix("www.")
     if source in BLOCKED_DOMAINS or any(re.search(p, title, re.I) for p in NOISE_PATTERNS):
+        return True
+    if url_embedded_date_is_stale(url):
         return True
     if any(x in url for x in ["/stellenangebote", "/jobs/", "/job/", "/careers/", "/horoscope/", "/crossword/", "/shopping/", "/deals/"]):
         return True
