@@ -1,21 +1,21 @@
 {
   "day": "2026-10-06",
-  "planSetId": "zps-20261006-aa2d0344",
-  "sourceRevision": "zcr-d6d5aa4f",
+  "planSetId": "zps-20261006-4ccb830e",
+  "sourceRevision": "zcr-e4ed0aea",
   "version": "v2.15.24-cardnews-3styles",
-  "signature": "d92eb162ed",
+  "signature": "8bc386c2fb",
   "planTitles": [
-    "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서",
-    "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문",
-    "돈의 결정을 미루지 않게 하는 다섯 가지 질문"
+    "불확실성 시대의 기업 생존 조건: 비재무적 리스크를 통제하는 경영 판단 순서",
+    "사는 이유를 만드는 설계: 쏟아지는 선택지 속에서 내 브랜드를 남기는 법",
+    "금리·자산 격변기, 내 돈을 지키는 방어 투자 판단 순서"
   ],
   "provider": "partial-mixed",
-  "generatedAt": "2026-10-06T00:25:24.089Z",
+  "generatedAt": "2026-10-06T02:01:44.068Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-06T00:18:18.719Z",
+      "generatedAt": "2026-10-06T02:01:30.660Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -39,8 +39,8 @@
           "여운"
         ]
       },
-      "bookTitle": "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서",
-      "provider": "gemini",
+      "bookTitle": "불확실성 시대의 기업 생존 조건: 비재무적 리스크를 통제하는 경영 판단 순서",
+      "provider": "cloudflare",
       "aiCards": 6,
       "fallback": false,
       "fallbackReason": "",
@@ -49,10 +49,10 @@
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "남들이 좋다는 곳에서\n자꾸만 길을 잃었다",
+          "headline": "어떤 위험이든\n예측할 수 있어야\n한다",
           "body": "",
           "accent": "yellow",
-          "sceneId": "008",
+          "sceneId": "009",
           "sceneCategory": "cover",
           "source": "ai"
         },
@@ -60,8 +60,8 @@
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "줄 서서 들어간 카페,\n기대와 달랐던 그 자리",
-          "body": "유명한 추천을 따라간 주말의 끝",
+          "headline": "일상 속에서\n위험을 예측하는\n장면",
+          "body": "갑자기 공급망이\n교란되는 상황",
           "accent": "yellow",
           "sceneId": "012",
           "sceneCategory": "analysis",
@@ -71,8 +71,8 @@
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "모두가 감탄하는데\n나만 겉도는 기분",
-          "body": "좋아해야 할 것 같은 압박이 남는다",
+          "headline": "그런 상황에\n드는 마음",
+          "body": "불안하고\n어쩔 줄 모르겠다",
           "accent": "yellow",
           "sceneId": "021",
           "sceneCategory": "warning",
@@ -82,10 +82,10 @@
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "하지만 실망한 순간이\n내 기준을 선명하게 만든다",
-          "body": "어긋난 경험 속에 취향의 단서가 있다",
+          "headline": "하지만 어떤\n위험이든\n예측할 수 있다",
+          "body": "위험 인지와\n운영 취약점\n감사를 통해",
           "accent": "yellow",
-          "sceneId": "014",
+          "sceneId": "020",
           "sceneCategory": "analysis",
           "source": "ai"
         },
@@ -93,10 +93,10 @@
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "실패한 선택까지 기록할 때\n비로소 내 안목이 된다",
-          "body": "별로였던 이유를 적어두면 길을 잃지 않는다",
+          "headline": "위험을 예측하고\n대비하는 태도",
+          "body": "자원과 운영\n리스크를 진단하고\n통제하는 것",
           "accent": "yellow",
-          "sceneId": "032",
+          "sceneId": "034",
           "sceneCategory": "fix",
           "source": "ai"
         },
@@ -104,122 +104,20 @@
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "취향은 찬사가 아니라\n거절의 기록에서 자란다",
+          "headline": "위험을 예측하고\n대비하는 것이\n중요하다",
           "body": "",
           "accent": "yellow",
-          "sceneId": "042",
+          "sceneId": "044",
           "sceneCategory": "final",
           "source": "ai"
         }
       ],
-      "sourceRevision": "zcr-d6d5aa4f"
+      "sourceRevision": "zcr-e4ed0aea"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-06T00:18:18.719Z",
-      "character": "id-master-library",
-      "characterAsset": "",
-      "palette": [
-        "black",
-        "ivory",
-        "vermilion-red",
-        "mustard-yellow",
-        "white"
-      ],
-      "cardCount": 6,
-      "style": {
-        "key": "heist",
-        "label": "하이스트형",
-        "tone": "직설·후킹형",
-        "flow": [
-          "강한 선언",
-          "공감",
-          "구체적 증상",
-          "판단 기준",
-          "해결",
-          "강한 결론"
-        ]
-      },
-      "bookTitle": "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문",
-      "provider": "gemini",
-      "aiCards": 6,
-      "fallback": false,
-      "fallbackReason": "",
-      "cards": [
-        {
-          "index": 1,
-          "role": "cover",
-          "beat": "강한 선언",
-          "headline": "AI가 다 해준 일에\n당신 몫은 없다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "001",
-          "sceneCategory": "cover",
-          "source": "ai"
-        },
-        {
-          "index": 2,
-          "role": "warning",
-          "beat": "공감",
-          "headline": "클릭 몇 번으로 끝낸 보고서,\n어딘가 불안하지 않은가",
-          "body": "속도는 빨라졌지만 내 실력은 아니다",
-          "accent": "yellow",
-          "sceneId": "024",
-          "sceneCategory": "warning",
-          "source": "ai"
-        },
-        {
-          "index": 3,
-          "role": "warning",
-          "beat": "구체적 증상",
-          "headline": "생성된 문장을 그대로 복사하고\n숫자 검증조차 건너뛴다면",
-          "body": "사고가 나는 건 시간문제다",
-          "accent": "yellow",
-          "sceneId": "027",
-          "sceneCategory": "warning",
-          "source": "ai"
-        },
-        {
-          "index": 4,
-          "role": "analysis",
-          "beat": "판단 기준",
-          "headline": "책임질 수 없는 결과물은\n성과가 아니라 위험이다",
-          "body": "누가 질문했을 때 설명할 수 있어야 한다",
-          "accent": "yellow",
-          "sceneId": "016",
-          "sceneCategory": "analysis",
-          "source": "ai"
-        },
-        {
-          "index": 5,
-          "role": "fix",
-          "beat": "해결",
-          "headline": "도구를 쓰기 전과 후에\n검증할 기준 질문을 적어라",
-          "body": "기계에 넘길 일과 지킬 일을 분리하라",
-          "accent": "yellow",
-          "sceneId": "040",
-          "sceneCategory": "fix",
-          "source": "ai"
-        },
-        {
-          "index": 6,
-          "role": "final",
-          "beat": "강한 결론",
-          "headline": "마지막 확인을 하는 사람만이\n대체되지 않는다",
-          "body": "",
-          "accent": "yellow",
-          "sceneId": "050",
-          "sceneCategory": "final",
-          "source": "ai"
-        }
-      ],
-      "sourceRevision": "zcr-d6d5aa4f"
-    },
-    {
-      "version": "v2.15.24-cardnews-3styles",
-      "status": "ready",
-      "generatedAt": "2026-10-06T00:25:10.362Z",
+      "generatedAt": "2026-10-06T02:01:00.040Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -243,7 +141,7 @@
           "핵심 메시지"
         ]
       },
-      "bookTitle": "돈의 결정을 미루지 않게 하는 다섯 가지 질문",
+      "bookTitle": "사는 이유를 만드는 설계: 쏟아지는 선택지 속에서 내 브랜드를 남기는 법",
       "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
@@ -253,10 +151,10 @@
           "index": 1,
           "role": "cover",
           "beat": "궁금증",
-          "headline": "분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
+          "headline": "모아도 왜 안 팔리는지, 결제 직전 고객의 머릿속을 여는 설계서.",
           "body": "",
           "accent": "yellow",
-          "sceneId": "002",
+          "sceneId": "010",
           "sceneCategory": "cover",
           "source": "rule-fallback"
         },
@@ -264,7 +162,7 @@
           "index": 2,
           "role": "analysis",
           "beat": "현상",
-          "headline": "순서로 번역해 내 결정을 만드는 생활재무 판단서.",
+          "headline": "우리 제품을 선택하게 만드는 결정적 트리거가 무엇인지 알고 싶다.",
           "body": "",
           "accent": "yellow",
           "sceneId": "012",
@@ -275,10 +173,10 @@
           "index": 3,
           "role": "analysis",
           "beat": "원리",
-          "headline": "[단독] 서울 하늘 아래 책 대출 격차 3배 강동이 ‘관 힙’ [.",
+          "headline": "각인되고 실제 결제로 이어지게 만드는 결정 요인의 설계 매뉴얼.",
           "body": "",
           "accent": "yellow",
-          "sceneId": "015",
+          "sceneId": "011",
           "sceneCategory": "analysis",
           "source": "rule-fallback"
         },
@@ -286,10 +184,10 @@
           "index": 4,
           "role": "analysis",
           "beat": "설명",
-          "headline": "질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
+          "headline": "이 상품을 골라야 하는지에 대한 설득 논리는 더욱 빈곤해지고 있다.",
           "body": "",
           "accent": "yellow",
-          "sceneId": "014",
+          "sceneId": "020",
           "sceneCategory": "analysis",
           "source": "rule-fallback"
         },
@@ -297,10 +195,10 @@
           "index": 5,
           "role": "fix",
           "beat": "통찰",
-          "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+          "headline": "소비자 의사결정 4단계 모델과 전환율 개선 워크시트를 제공한다.",
           "body": "",
           "accent": "yellow",
-          "sceneId": "032",
+          "sceneId": "036",
           "sceneCategory": "fix",
           "source": "rule-fallback"
         },
@@ -308,15 +206,117 @@
           "index": 6,
           "role": "final",
           "beat": "핵심 메시지",
-          "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
+          "headline": "효과(닻내림 효과 등)를 백과사전식으로 나열하다 끝날 위험이 있다.",
           "body": "",
           "accent": "yellow",
-          "sceneId": "044",
+          "sceneId": "048",
           "sceneCategory": "final",
           "source": "rule-fallback"
         }
       ],
-      "sourceRevision": "zcr-d6d5aa4f"
+      "sourceRevision": "zcr-e4ed0aea"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-06T02:01:12.350Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 증상",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "금리·자산 격변기, 내 돈을 지키는 방어 투자 판단 순서",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "뉴스에 흔들려\n계좌를 열지 마라",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "010",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "금리가 뛴다는 속보에\n밤새 불안해하며\n앱만 들여다본다",
+          "body": "공포에 질려 내린 결정은 늘 틀린다",
+          "accent": "yellow",
+          "sceneId": "025",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "남들이 던질 때 던지고\n오를 때 뒤늦게 사며\n원금을 갉아먹고 있다",
+          "body": "원칙 없는 조급함이 계좌를 망친다",
+          "accent": "yellow",
+          "sceneId": "026",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "시장의 변동성은 재앙이 아니라\n규율 없는 사람을\n털어내는 거름망이다",
+          "body": "통제할 수 없는 파도에 베팅하지 마라",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "지금 당장 대출 이자부터 적고\n비상금 통장 잔고를 세라\n수익보다 방어가 먼저다",
+          "body": "공포 속에서 계좌를 닫고 순서를 지켜라",
+          "accent": "yellow",
+          "sceneId": "037",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "가장 큰 수익은\n끝까지 잃지 않고\n원금을 지켜낸 자리에 남는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "047",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ],
+      "sourceRevision": "zcr-e4ed0aea"
     }
   ]
 }
