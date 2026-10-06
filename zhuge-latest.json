@@ -1,43 +1,41 @@
 {
-  "date": "2026-10-05",
-  "planDay": "2026-10-05",
-  "planSetId": "zps-20261005-55fe9b64",
-  "generatedAt": "2026-10-05T06:46:08.342Z",
-  "publishedAt": "2026-10-05T12:00:20.389Z",
+  "date": "2026-10-06",
+  "planDay": "2026-10-06",
+  "planSetId": "zps-20261006-aa2d0344",
+  "generatedAt": "2026-10-06T00:00:00.053Z",
+  "publishedAt": "2026-10-06T00:00:10.459Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.113",
   "morningEdition": {
-    "day": "2026-10-05",
-    "planSetId": "zps-20261005-55fe9b64",
+    "day": "2026-10-06",
+    "planSetId": "zps-20261006-aa2d0344",
     "titles": [
-      "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
-      "정책이 바뀔 때 내 돈을 지키는 판단 순서",
-      "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법"
+      "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서",
+      "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문",
+      "돈의 결정을 미루지 않게 하는 다섯 가지 질문"
     ],
-    "generationMode": "historical-high-quality-sealed-upgrade",
-    "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "generationMode": "historical-high-quality-local-guarantee",
+    "model": "deterministic-editorial-hq-v215112",
     "hqReady": true,
-    "sealedAt": "2026-10-05T00:10:00.002Z",
-    "build": "v2.15.113",
-    "contentRevision": "zcr-772674d6",
-    "hqVerifiedBy": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
-    "hqUpgradedAt": "2026-10-05T06:46:08.427Z",
-    "hqVerificationError": ""
+    "contentRevision": "zcr-d6d5aa4f",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-10-06T00:00:00.053Z",
+    "build": "v2.15.113"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 문화·라이프 · 경제·생활재무 · 커리어·AI을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 시장·독자·베스트셀러 신호를 바탕으로 독자 문제와 구매 이유가 서로 다른 출판 기획 3선입니다."
   ],
-  "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+  "model": "deterministic-editorial-hq-v215112",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
-  "generationMode": "historical-high-quality-sealed-upgrade",
+  "generationMode": "historical-high-quality-local-guarantee",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-10-05T06:46:08.295Z",
+  "sourceSnapshotAt": "2026-10-05T23:25:05.801Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-10-05T05:39:46.439Z",
+    "newsUpdatedAt": "2026-10-05T22:38:49.622Z",
     "staleAdvisors": [
       "sima",
       "zhou",
@@ -46,10 +44,10 @@
       "xunyu",
       "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-10-05T00:00:33.435Z",
-    "bestsellerDataDate": "2026-10-04",
+    "bestsellerUpdatedAt": "2026-10-05T23:25:05.801Z",
+    "bestsellerDataDate": "2026-10-05",
     "stale": true,
-    "checkedAt": "2026-10-05T06:46:08.365Z",
+    "checkedAt": "2026-10-06T00:00:00.053Z",
     "policy": "confirm-and-mark",
     "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
@@ -58,10 +56,10 @@
       "rank": 1,
       "type": "즉시 기획",
       "field": "문화·라이프",
-      "title": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
+      "title": "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서",
       "concept": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서. 실습 초점은 ‘예외 상황의 대응 순서’이다.",
       "oneLine": "추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서. 실습 초점은 ‘예외 상황의 대응 순서’이다.",
-      "why": "최근 공개 신호: 머물고 스며든 김택상 작가의 개인전. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+      "why": "최근 공개 신호: 이란 안보수장 \"역사상 가장 어려운 시기\" 이례적 인정… 페제시키안 대통령도 \"특단의 대책. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
       "competition": "YES24 자료에 나온 《세네카, 오늘을 빼앗기고 있는 당신에게》·《쇼펜하우어 인생수업 (30만 부 기념 개정증보판)》를 비교 대상으로 삼는다. 추천 콘텐츠는 넘치지만 경험 뒤 무엇을 기록해야 다음 선택이 더 좋아지는지 알려주는 실용서는 드물다.",
       "reader": "여행·책·공연·음식 등 문화 선택지가 너무 많아 추천을 따라가면서도 내 취향은 선명해지지 않는 독자",
       "readerNeed": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
@@ -87,29 +85,24 @@
       },
       "authors": [
         {
-          "name": "정진호",
-          "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "루키우스 안나이우스 세네카",
+          "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+          "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+          "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/192474512",
+          "verification": "오늘 YES24 자료의 저자명"
         },
         {
-          "name": "기민경",
-          "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "박지호",
-          "career": "《조직문화 트렌드 2027》 저자 · 플랜비디자인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《조직문화 트렌드 2027》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "하와이 대저택 편역",
+          "books": "《세네카, 오늘을 빼앗기고 있는 당신에게》",
+          "career": "오늘 YES24 자료에서 확인된 《세네카, 오늘을 빼앗기고 있는 당신에게》 저자",
+          "why": "문화·라이프 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/192474512",
+          "verification": "오늘 YES24 자료의 저자명"
         }
       ],
-      "author": "정진호",
-      "bestAuthor": "정진호",
+      "author": "루키우스 안나이우스 세네카",
+      "bestAuthor": "루키우스 안나이우스 세네카",
       "authorBrief": "문화·라이프의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
       "headlineCopy": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
       "marketingStrategy": {
@@ -123,11 +116,11 @@
           "mode": "정보·신뢰형"
         },
         "acquisition": "“남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
-        "trust": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+        "trust": "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
         "conversion": "무료 정보의 나열이 아니라 “취향 질문지·경험 기록 카드·비교표·다음 선택 규칙을 통해 감상을 개인 데이터로 축적한다. 실습 초점은 ‘예외 상황의 대응 순서’에 둔다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "최근 공개 신호: 머물고 스며든 김택상 작가의 개인전. 문화·라이프 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+          "problem": "최근 공개 신호: 이란 안보수장 \"역사상 가장 어려운 시기\" 이례적 인정… 페제시키안 대통령도 \"특단의 대책. 문화·라이프 분야에서 사건 자체보가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
           "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
           "solution": "목차와 상세페이지에서 추천 목록이 아니라 경험을 기록하고 비교해 자신만의 선택 기준을 축적하는 취향 설계서. 실습 초점은 ‘예외 상황의 대응 순서’이다.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
         },
@@ -138,429 +131,241 @@
         "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
       },
       "scores": {
-        "market": 92,
-        "timing": 91,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
+        "market": 78,
+        "timing": 76,
+        "difference": 82,
+        "author": 76,
+        "marketing": 80,
+        "longtail": 84
       },
-      "score": 93,
+      "score": 80,
       "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
       "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
       "judgment": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
       "similarBooks": [
         {
-          "title": "조직문화 트렌드 2027",
-          "author": "정진호,기민경,박지호,박진호,최준오 저",
-          "publisher": "플랜비디자인",
-          "publicationDate": "20261010",
-          "url": "https://www.yes24.com/product/goods/196822138",
-          "matchedQuery": "문화",
-          "verification": "YES24 검색 결과"
+          "title": "세네카, 오늘을 빼앗기고 있는 당신에게",
+          "author": "루키우스 안나이우스 세네카 저/하와이 대저택 편역",
+          "publisher": "논픽션",
+          "publicationDate": "20260701",
+          "url": "https://www.yes24.com/product/goods/192474512"
         },
         {
-          "title": "EBS연계 변형 D-30 파이널 모의고사 최강불패 사회·문화 (2026년)",
-          "author": "편집부 저",
-          "publisher": "수능기출평가원",
-          "publicationDate": "20261008",
-          "url": "https://www.yes24.com/product/goods/197069158",
-          "matchedQuery": "문화",
-          "verification": "YES24 검색 결과"
+          "title": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
+          "author": "쇼펜하우어 저/김지민 편",
+          "publisher": "하이스트",
+          "publicationDate": "20240220",
+          "url": "https://www.yes24.com/product/goods/125085536"
         },
         {
-          "title": "룩 백 스페셜 에디션",
-          "author": "후지모토 타츠키 글,그림",
-          "publisher": "학산문화사",
-          "publicationDate": "20261015",
-          "url": "https://www.yes24.com/product/goods/196788031",
-          "matchedQuery": "문화",
-          "verification": "YES24 검색 결과"
+          "title": "머니 트렌드 2027",
+          "author": "정태익,김도윤,김광석,김용섭,김학렬,박세익,박정호,이효석 저",
+          "publisher": "북모먼트",
+          "publicationDate": "20260916",
+          "url": "https://www.yes24.com/product/goods/195613503"
         }
       ],
       "evidence": [
         {
-          "text": "2027 유휘운 행정법총론 통합형 진도별 기출문제집(통합 진.출).",
+          "text": "이란 안보수장 \"역사상 가장 어려운 시기\" 이례적 인정… 페제시키안 대통령도 \"특단의 대책\" - 뉴스핌",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LdTJ0bl9OODY5M2s5VWRfMzZ4RURnb2pCandKakFXa1BRS3MwMnJJRXNpa0Z5WHFCMXkwSDBFUUpDRnlHSzJoT0FfcG1MSmEyeDFpZldyTWVuR2xm?oc=5"
+        },
+        {
+          "text": "2026 울산 야외도서관 ‘소풍’, 책·음악·영화 한자리에…개천절 연휴 슬도서 ‘책 소풍’ - v.daum.net",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lTjJIMldmZXczMXRLYXVWZ2tPWnpTVjRqb0hvQmVmbXhEN3pSZ2VKUkM5c05yZ3F0SVFvVlhYSzN6VTBaZEEwclNHTjFHZGs?oc=5"
+        },
+        {
+          "text": "세네카, 오늘을 빼앗기고 있는 당신에게",
           "kind": "YES24 자료",
-          "url": ""
+          "url": "https://www.yes24.com/product/goods/192474512"
         },
         {
-          "text": "2027 공단기 소방단기 써니 행정법총론 기출문제집",
+          "text": "쇼펜하우어 인생수업 (30만 부 기념 개정증보판)",
           "kind": "YES24 자료",
-          "url": ""
-        },
-        {
-          "text": "조직문화 트렌드 2027 — 정진호,기민경,박지호,박진호,최준오 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/196822138"
-        },
-        {
-          "text": "EBS연계 변형 D-30 파이널 모의고사 최강불패 사회·문화 (2026년) — 편집부 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197069158"
+          "url": "https://www.yes24.com/product/goods/125085536"
         }
       ],
       "sourceChannels": [
-        "yes24"
+        "google-news",
+        "yes24",
+        "editorial-local"
       ],
-      "crossSourceCount": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-05T06:46:20.350Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "유행을 소비하지 않고 취향을 만드는 법: 예외 상황의 대응 순서",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "취향은 남의 선택을\n베끼는 게 아니다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "008",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "거리의 작은 카페에서 메뉴를 고를 때, 사람들 눈길이 스쳐간다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "그때마다 남들의 추천에 흔들리는 자신이 답답하다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "024",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 진짜 취향은 남이 아닌, 내 경험을 기록한 뒤 선택할 때 생긴다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "015",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "그 기록을 보며, 오늘은 내가 원하는 걸 고를 수 있다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "031",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "취향은 스스로 만든 작은 지도다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "049",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-772674d6"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0667c98e-6037-443c-b9bd-4dd00ea70791/duke_the-problem-of-passing_aug26_mattson-gallagher.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "duke the problem of passing",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피 배치와 절제된 레이아웃은 개인의 기록과 질서를 강조하는 기획의 시각적 질서로 활용하기 좋다.",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "data numbers",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/21f5de44-81f0-4afc-ba4f-59eaffdffbd4/minnesota_a-perfectionist-impulse_aug26_sandra-friesen.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "minnesota a perfectionist impulse",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fixed-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "미니멀한 레이아웃과 정제된 그래픽 요소가 개인의 데이터를 체계적으로 축적하는 설계서의 느낌을 잘 전달함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 70,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "data numbers",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e78fe94c-0e6a-4ac4-a9ac-f0e387d947ae/duke_archives-of-the-anthropocene_sept26_courtney-l-baker+copy.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "duke archives of the anthropocene",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "아카이브적 레이아웃과 질감이 데이터 축적이라는 기획 의도와 맞닿아 있어 시각적 모티프로 유효함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "data numbers",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
+      "crossSourceCount": 2,
+      "visualKeywords": [
+        "문화·라이프",
+        "culture",
+        "보고 듣고 떠난 뒤에도 남는 취향의 기록: 예외 상황의 대응 순서"
       ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0667c98e-6037-443c-b9bd-4dd00ea70791/duke_the-problem-of-passing_aug26_mattson-gallagher.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "duke the problem of passing",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피 배치와 절제된 레이아웃은 개인의 기록과 질서를 강조하는 기획의 시각적 질서로 활용하기 좋다.",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "data numbers",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/21f5de44-81f0-4afc-ba4f-59eaffdffbd4/minnesota_a-perfectionist-impulse_aug26_sandra-friesen.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "minnesota a perfectionist impulse",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fixed-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "미니멀한 레이아웃과 정제된 그래픽 요소가 개인의 데이터를 체계적으로 축적하는 설계서의 느낌을 잘 전달함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 70,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "data numbers",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e78fe94c-0e6a-4ac4-a9ac-f0e387d947ae/duke_archives-of-the-anthropocene_sept26_courtney-l-baker+copy.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "duke archives of the anthropocene",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "아카이브적 레이아웃과 질감이 데이터 축적이라는 기획 의도와 맞닿아 있어 시각적 모티프로 유효함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "data numbers",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "ready",
-        "generatedAt": "2026-10-05T11:00:13.965Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "qualityTier": "hq",
-        "diagnostics": {},
-        "sourceRevision": "zcr-772674d6"
-      },
-      "id": "S1",
-      "problem": "남들이 좋다는 것을 소비하는 데서 그치지 않고 내 취향의 이유를 알고 다음 선택에 활용하고 싶다.",
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-05T06:44:18.020Z",
-        "queries": [
-          "문화",
-          "문화 라이프"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "generationMode": "historical-high-quality-sealed-upgrade",
-      "qualityTier": "hq",
-      "upgradePending": false,
-      "historicalQualityScore": 90,
-      "stars": "★★★★★",
+      "fallbackCardComplete": true,
       "titleAudit": {
-        "status": "sealed-edition-fixed",
-        "collision": false,
-        "locked": true
-      }
+        "status": "local-unique-checked",
+        "collision": false
+      },
+      "generationMode": "historical-high-quality-local-guarantee",
+      "authorProfile": "문화·라이프의 실제 현장 경험이 있고, 복잡한 정보를 독자의 생활·업무 상황에 맞는 체크리스트와 판단 기준으로 번역할 수 있는 집필자를 우선 섭외한다.",
+      "qualityTier": "hq",
+      "localGuarantee": true
     },
     {
       "rank": 2,
       "type": "6~12개월 선점 기획",
+      "field": "커리어·AI",
+      "title": "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문",
+      "concept": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘실수 전에 확인할 질문’이다.",
+      "oneLine": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘실수 전에 확인할 질문’이다.",
+      "why": "최근 공개 신호: AI가 일을 끝내준 자리, ‘내가 해냈다’는 기분은 남았을까. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》·《머니 트렌드 2027》를 비교 대상으로 삼는다. 도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+      "reader": "AI 도구가 빠르게 들어오는 조직에서 무엇을 배워야 하고 어떤 일을 직접 맡아야 하는지 불안한 직장인",
+      "readerNeed": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+      "marketGap": "도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
+      "differentiation": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘실수 전에 확인할 질문’에 둔다.",
+      "diff": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘실수 전에 확인할 질문’에 둔다.",
+      "toc": [
+        "내 직무가 아니라 내 작업을 쪼개 본다",
+        "AI에 넘겨도 되는 일의 조건을 정한다",
+        "사람이 끝까지 책임져야 할 판단을 찾는다",
+        "성과를 기록해 대체 가능성을 낮춘다",
+        "실수 전에 확인할 질문"
+      ],
+      "searchQueries": [
+        "커리어",
+        "AI 직장인"
+      ],
+      "bookworthiness": {
+        "durability": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
+        "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
+        "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
+        "productDependency": "낮음"
+      },
+      "authors": [
+        {
+          "name": "김난도",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
+        },
+        {
+          "name": "전미영",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "커리어·AI 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
+        }
+      ],
+      "author": "김난도",
+      "bestAuthor": "김난도",
+      "authorBrief": "커리어·AI의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
+      "headlineCopy": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "실수 없이 판단하고 싶다",
+          "바로 적용할 기준이 필요하다"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "“막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
+        "trust": "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+        "conversion": "무료 정보의 나열이 아니라 “업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘실수 전에 확인할 질문’에 둔다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "최근 공개 신호: AI가 일을 끝내준 자리, ‘내가 해냈다’는 기분은 남았을까. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+          "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+          "solution": "목차와 상세페이지에서 직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘실수 전에 확인할 질문’이다.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
+        },
+        "positioning": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
+      },
+      "devilsEditor": {
+        "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
+        "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
+      },
+      "scores": {
+        "market": 78,
+        "timing": 76,
+        "difference": 82,
+        "author": 76,
+        "marketing": 80,
+        "longtail": 84
+      },
+      "score": 80,
+      "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
+      "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
+      "judgment": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
+      "similarBooks": [
+        {
+          "title": "트렌드 코리아 2027",
+          "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+          "publisher": "미래의창",
+          "publicationDate": "20260930",
+          "url": "https://www.yes24.com/product/goods/195842609"
+        },
+        {
+          "title": "머니 트렌드 2027",
+          "author": "정태익,김도윤,김광석,김용섭,김학렬,박세익,박정호,이효석 저",
+          "publisher": "북모먼트",
+          "publicationDate": "20260916",
+          "url": "https://www.yes24.com/product/goods/195613503"
+        }
+      ],
+      "evidence": [
+        {
+          "text": "AI가 일을 끝내준 자리, ‘내가 해냈다’는 기분은 남았을까 - 조선일보",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnN1d3d6WkJJNVZEMnRUb05qbFNxR1E0OTdaLTg4dUp5Z0tGNDFvNjZqS3RIdkJXalBSNDNoRmktOVIwTmpNX2RvOGVJbnZXTWJoVnFNdkFjekFiMDVsRGFMYkQyN0dFdUVtUGlvZmFoaFk4bTd3UmR1Yi1WNnZwcTZSSQ?oc=5"
+        },
+        {
+          "text": "정부, ‘독파모’ 2곳 선정 예정대로… ‘프런티어AI-산업 확산’ 투트랙으로 - 동아일보",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcmZtVHcxQmhUVVNHenExOU1kTnlZUTdBUHNlUW9aZDNJamNicmNtR2V4am9HbWxtVENEWjFMZ2NSemVrTWZnVlBib2VVTXpIMm11Qk9MeVVoRXRjTUJFMW4wcGJTSnZxMFlOWldVdllkSW1fVUHSAWZBVV95cUxQR2xoNVJwQzdReE94eHRoUHNrQm5hNnFNOE5uYUxhZjhNZVlYSVRCU1lyaENZYW9LRE12TTJUNXJIVlhkR2hFaEVET0xxbk1hcDJocmlvdGZvVDlHWWdncU13YktSMGc?oc=5"
+        },
+        {
+          "text": "트렌드 코리아 2027",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195842609"
+        },
+        {
+          "text": "머니 트렌드 2027",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195613503"
+        }
+      ],
+      "sourceChannels": [
+        "google-news",
+        "yes24",
+        "editorial-local"
+      ],
+      "crossSourceCount": 2,
+      "visualKeywords": [
+        "커리어·AI",
+        "career",
+        "대체되지 않는 사람은 일을 이렇게 남긴다: 실수 전에 확인할 질문"
+      ],
+      "fallbackCardComplete": true,
+      "titleAudit": {
+        "status": "local-unique-checked",
+        "collision": false
+      },
+      "generationMode": "historical-high-quality-local-guarantee",
+      "authorProfile": "커리어·AI의 실제 현장 경험이 있고, 복잡한 정보를 독자의 생활·업무 상황에 맞는 체크리스트와 판단 기준으로 번역할 수 있는 집필자를 우선 섭외한다.",
+      "qualityTier": "hq",
+      "localGuarantee": true
+    },
+    {
+      "rank": 3,
+      "type": "틈새 기획",
       "field": "경제·생활재무",
-      "title": "정책이 바뀔 때 내 돈을 지키는 판단 순서",
+      "title": "돈의 결정을 미루지 않게 하는 다섯 가지 질문",
       "concept": "큰 경제 뉴스를 생활비·부채·현금흐름·장기자산의 순서로 번역해 내 결정을 만드는 생활재무 판단서.",
       "oneLine": "큰 경제 뉴스를 생활비·부채·현금흐름·장기자산의 순서로 번역해 내 결정을 만드는 생활재무 판단서.",
-      "why": "최근 공개 신호: 50년 만의 기현상” 美·日·유럽 국채금리 급등한 뜻밖 이유. 경제·생활재무 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
-      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》를 비교 대상으로 삼는다. 전망과 종목 정보는 많지만 뉴스가 내 가계의 어떤 숫자와 결정을 바꾸는지 연결해 주는 책은 드물다.",
+      "why": "최근 공개 신호: [단독] 서울 하늘 아래 책 대출 격차 3배…강동이 ‘도서관 힙’ [.txt]. 경제·생활재무 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
+      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》·《머니 트렌드 2027》를 비교 대상으로 삼는다. 전망과 종목 정보는 많지만 뉴스가 내 가계의 어떤 숫자와 결정을 바꾸는지 연결해 주는 책은 드물다.",
       "reader": "금리·정책·자산시장 뉴스가 나올 때마다 내 돈에 어떤 영향이 있는지 판단하기 어려운 30~50대 직장인",
       "readerNeed": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
       "marketGap": "전망과 종목 정보는 많지만 뉴스가 내 가계의 어떤 숫자와 결정을 바꾸는지 연결해 주는 책은 드물다.",
@@ -585,29 +390,24 @@
       },
       "authors": [
         {
-          "name": "제럴드 가우스",
-          "career": "《정치경제철학 입문》 저자 · 필로소픽",
-          "why": "YES24에서 이 기획과 인접한 주제의 《정치경제철학 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196790203",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "김난도",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "경제·생활재무 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
         },
         {
-          "name": "존 스래셔",
-          "career": "《정치경제철학 입문》 저자 · 필로소픽",
-          "why": "YES24에서 이 기획과 인접한 주제의 《정치경제철학 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196790203",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "권홍우",
-          "career": "《정치경제철학 입문》 저자 · 필로소픽",
-          "why": "YES24에서 이 기획과 인접한 주제의 《정치경제철학 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/196790203",
-          "verification": "YES24 검색 결과의 실제 저자명"
+          "name": "전미영",
+          "books": "《트렌드 코리아 2027》",
+          "career": "오늘 YES24 자료에서 확인된 《트렌드 코리아 2027》 저자",
+          "why": "경제·생활재무 관련 저술 경험을 바탕으로 실제 집필 적합성을 검토할 후보",
+          "url": "https://www.yes24.com/product/goods/195842609",
+          "verification": "오늘 YES24 자료의 저자명"
         }
       ],
-      "author": "제럴드 가우스",
-      "bestAuthor": "제럴드 가우스",
+      "author": "김난도",
+      "bestAuthor": "김난도",
       "authorBrief": "경제·생활재무의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
       "headlineCopy": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
       "marketingStrategy": {
@@ -621,11 +421,11 @@
           "mode": "정보·신뢰형"
         },
         "acquisition": "“투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
-        "trust": "정책이 바뀔 때 내 돈을 지키는 판단 순서의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
+        "trust": "돈의 결정을 미루지 않게 하는 다섯 가지 질문의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
         "conversion": "무료 정보의 나열이 아니라 “기사 한 건을 해설하는 대신 현금흐름표·부채 점검표·결정 질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "최근 공개 신호: 50년 만의 기현상” 美·日·유럽 국채금리 급등한 뜻밖 이유. 경제·생활재무 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
+          "problem": "최근 공개 신호: [단독] 서울 하늘 아래 책 대출 격차 3배…강동이 ‘도서관 힙’ [.txt]. 경제·생활재무 분야에서 사건 자체보다 독자가 가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
           "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
           "solution": "목차와 상세페이지에서 큰 경제 뉴스를 생활비·부채·현금흐름·장기자산의 순서로 번역해 내 결정을 만드는 생활재무 판단서.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
         },
@@ -636,926 +436,75 @@
         "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
       },
       "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
+        "market": 78,
+        "timing": 76,
+        "difference": 82,
+        "author": 76,
+        "marketing": 80,
+        "longtail": 84
       },
-      "score": 94,
+      "score": 80,
       "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
       "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
       "judgment": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
       "similarBooks": [
         {
-          "title": "정치경제철학 입문",
-          "author": "제럴드 가우스,존 스래셔 저/권홍우,최정규 역",
-          "publisher": "필로소픽",
-          "publicationDate": "20261020",
-          "url": "https://www.yes24.com/product/goods/196790203",
-          "matchedQuery": "경제",
-          "verification": "YES24 검색 결과"
+          "title": "트렌드 코리아 2027",
+          "author": "김난도,전미영,최지혜,권정윤,한다혜,이혜원,전다현,이수진,서유현,이준영,이향은,김나은,문지수 저",
+          "publisher": "미래의창",
+          "publicationDate": "20260930",
+          "url": "https://www.yes24.com/product/goods/195842609"
         },
         {
-          "title": "모르면 호구 되는 경제상식",
-          "author": "이현우 저",
-          "publisher": "한스미디어",
-          "publicationDate": "20261007",
-          "url": "https://www.yes24.com/product/goods/197159704",
-          "matchedQuery": "경제",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI 비즈니스 트렌드 2027",
-          "author": "이소영,이예림 저",
-          "publisher": "매일경제신문사",
-          "publicationDate": "20261013",
-          "url": "https://www.yes24.com/product/goods/197257304",
-          "matchedQuery": "경제",
-          "verification": "YES24 검색 결과"
+          "title": "머니 트렌드 2027",
+          "author": "정태익,김도윤,김광석,김용섭,김학렬,박세익,박정호,이효석 저",
+          "publisher": "북모먼트",
+          "publicationDate": "20260916",
+          "url": "https://www.yes24.com/product/goods/195613503"
         }
       ],
       "evidence": [
         {
-          "text": "이란 “역사상 가장 어려운 시기”…경제위기 악화 이례적 시인 - KBS 뉴스",
+          "text": "[단독] 서울 하늘 아래 책 대출 격차 3배…강동이 ‘도서관 힙’ [.txt] - hani.co.kr",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VM2lwX0NmemhUVzhzZVdGT1VxWkJtUWtrY1JranFyVkVfVWZWMVdHbFhMbnVPZG05amU1ekdMVGpISEJjU3lxRThnbW5YZmpyZ1Y1cjIxaDRRcjQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LTFlTUWVfVmo3Ynh3YjhGT243OXdoU2NPbk5XVC1fMGZ4TW9hbkNoX0M2eHlFUEFmX1IxOGZaMkE2YWVaTFo1cE1IMTRpTkVWLVVLZHVUcjI2am9aX3RQSjE1SQ?oc=5"
         },
         {
-          "text": "정치경제철학 입문 — 제럴드 가우스,존 스래셔 저/권홍우,최정규 역",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/196790203"
+          "text": "(주간증시전망)반도체 실적 기대 속 '금리·유가' 변수 - newstomato.com",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yaGFBTmtHeVpGMEVBZ0l6UE9Ld3pOdXJwMTJIeGVXckpYclkxbkd4dUpwUjJQWHY5T1lhUlppM2VoUFdQS21EaU9Jb2VMS1IxbnFkQ3pEMVZpdW5Eb24tNg?oc=5"
         },
         {
-          "text": "모르면 호구 되는 경제상식 — 이현우 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197159704"
+          "text": "트렌드 코리아 2027",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195842609"
         },
         {
-          "text": "AI 비즈니스 트렌드 2027 — 이소영,이예림 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197257304"
+          "text": "머니 트렌드 2027",
+          "kind": "YES24 자료",
+          "url": "https://www.yes24.com/product/goods/195613503"
         }
       ],
       "sourceChannels": [
         "google-news",
-        "yes24"
+        "yes24",
+        "editorial-local"
       ],
       "crossSourceCount": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-05T12:00:14.129Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "정책이 바뀔 때 내 돈을 지키는 판단 순서",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "001",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "순서로 번역해 내 결정을 만드는 생활재무 판단서.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "신호: 50년 만의 기현상 美·日·유럽 국채금리 급등한 뜻밖 이유.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "018",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "질문표로 어떤 경제 뉴스에도 반복 적용하는 구조를 제공한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "049",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "sourceRevision": "zcr-772674d6"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0490382f-0ece-468a-abe4-99f747d69fdc/georgia_the-submerged_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "georgia the submerged",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃을 통해 복잡한 경제 지표를 시각적 질서로 치환하는 구조적 디자인 원리를 참고할 수 있음.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "personal finance economics",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "사회 비판적 메시지를 담은 파격적 타이포그래피 배치는 경제 실용서의 신뢰감보다는 실험적 시각 효과로서의 가치가 높음",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "personal finance economics",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1521203808974-S45QL034BWN73XXIE5JN/abcd.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "ABCD Awards 2018",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "정보의 위계와 질서를 강조하는 타이포그래피 배치는 복잡한 경제 지표를 구조화하는 책의 성격과 시각적 원리가 맞닿아 있음",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 88,
-          "query": "personal finance economics",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
+      "visualKeywords": [
+        "경제·생활재무",
+        "money",
+        "돈의 결정을 미루지 않게 하는 다섯 가지 질문"
       ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0490382f-0ece-468a-abe4-99f747d69fdc/georgia_the-submerged_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "georgia the submerged",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃을 통해 복잡한 경제 지표를 시각적 질서로 치환하는 구조적 디자인 원리를 참고할 수 있음.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "personal finance economics",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "사회 비판적 메시지를 담은 파격적 타이포그래피 배치는 경제 실용서의 신뢰감보다는 실험적 시각 효과로서의 가치가 높음",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "personal finance economics",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1521203808974-S45QL034BWN73XXIE5JN/abcd.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "ABCD Awards 2018",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "정보의 위계와 질서를 강조하는 타이포그래피 배치는 복잡한 경제 지표를 구조화하는 책의 성격과 시각적 원리가 맞닿아 있음",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 88,
-          "query": "personal finance economics",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "ready",
-        "generatedAt": "2026-10-05T11:00:15.738Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "qualityTier": "hq",
-        "diagnostics": {},
-        "sourceRevision": "zcr-772674d6"
-      },
-      "id": "S2",
-      "problem": "투자·대출·연금 결정을 뉴스 분위기에 따라 바꾸지 않고 내 상황에 맞는 우선순위를 정하고 싶다.",
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-05T06:44:19.188Z",
-        "queries": [
-          "경제",
-          "생활 재무"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "generationMode": "historical-high-quality-sealed-upgrade",
-      "qualityTier": "hq",
-      "upgradePending": false,
-      "historicalQualityScore": 90,
-      "stars": "★★★★★",
+      "fallbackCardComplete": true,
       "titleAudit": {
-        "status": "sealed-edition-fixed",
-        "collision": false,
-        "locked": true
-      }
-    },
-    {
-      "rank": 3,
-      "type": "틈새 기획",
-      "field": "커리어·AI",
-      "title": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법",
-      "concept": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘결정을 기록하는 방법’이다.",
-      "oneLine": "직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘결정을 기록하는 방법’이다.",
-      "why": "최근 공개 신호: 은행 'AI 해킹' 눈덩이...경찰, 본격 수사 임박. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제를 책으로 남길 시점이다.",
-      "competition": "YES24 자료에 나온 《트렌드 코리아 2027》를 비교 대상으로 삼는다. 도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
-      "reader": "AI 도구가 빠르게 들어오는 조직에서 무엇을 배워야 하고 어떤 일을 직접 맡아야 하는지 불안한 직장인",
-      "readerNeed": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
-      "marketGap": "도구 사용법과 미래 전망은 넘치지만 개인이 자신의 실제 업무를 재설계하고 경력 증거로 남기는 방법은 약하다.",
-      "differentiation": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘결정을 기록하는 방법’에 둔다.",
-      "diff": "업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘결정을 기록하는 방법’에 둔다.",
-      "toc": [
-        "내 직무가 아니라 내 작업을 쪼개 본다",
-        "AI에 넘겨도 되는 일의 조건을 정한다",
-        "사람이 끝까지 책임져야 할 판단을 찾는다",
-        "성과를 기록해 대체 가능성을 낮춘다",
-        "결정을 기록하는 방법"
-      ],
-      "searchQueries": [
-        "커리어",
-        "AI 직장인"
-      ],
-      "bookworthiness": {
-        "durability": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.는 특정 사건이 끝나도 반복되는 생활 문제라 6개월 이후에도 효용이 남는다.",
-        "repeatNeed": "독자는 비슷한 상황이 생길 때마다 판단 순서와 체크리스트를 다시 사용할 수 있다.",
-        "expansionPotential": "사례·비교표·체크리스트·질문지를 단계별로 확장해 200쪽 이상의 실용 구조로 만들 수 있다.",
-        "productDependency": "낮음"
+        "status": "local-unique-checked",
+        "collision": false
       },
-      "authors": [
-        {
-          "name": "정진웅",
-          "career": "《부사관, 인생 커리어를 설계하다!》 저자 · 하움출판사",
-          "why": "YES24에서 이 기획과 인접한 주제의 《부사관, 인생 커리어를 설계하다!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197222362",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "윤서영",
-          "career": "《청소년을 위한 직업별 마음 안내서》 저자 · 커리어북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《청소년을 위한 직업별 마음 안내서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197053859",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김영아",
-          "career": "《이제는 커리어 회복탄력성》 저자 · 지식과감성#",
-          "why": "YES24에서 이 기획과 인접한 주제의 《이제는 커리어 회복탄력성》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/92130626",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "정진웅",
-      "bestAuthor": "정진웅",
-      "authorBrief": "커리어·AI의 실제 현장 경험과 독자 문제를 구체적인 도구로 번역할 수 있는 저자를 우선 검토한다.",
-      "headlineCopy": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "실수 없이 판단하고 싶다",
-          "바로 적용할 기준이 필요하다"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "“막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.”라는 실제 상황을 첫 문장에 제시하고, 독자가 지금 무엇부터 확인해야 하는지 한 가지 질문으로 연결한다.",
-        "trust": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법의 핵심 판단 기준을 실제 사례·비교표·체크리스트로 반복 검증해 신뢰를 만든다.",
-        "conversion": "무료 정보의 나열이 아니라 “업무 분해표·AI 위임 기준·검수 질문·성과 기록표를 통해 독자가 자기 직무를 직접 재설계하도록 만든다. 실습 초점은 ‘결정을 기록하는 방법’에 둔다.”를 독자가 직접 써볼 수 있는 표·질문지·의사결정 순서로 제공한다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "최근 공개 신호: 은행 'AI 해킹' 눈덩이...경찰, 본격 수사 임박. 커리어·AI 분야에서 사건 자체보다 독자가 반복해서 맞닥뜨릴 판단 문제가 일시적 이슈로 보이면 책까지 살 이유가 약해질 수 있다.",
-          "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
-          "solution": "목차와 상세페이지에서 직무를 작업 단위로 쪼개 AI에 넘길 일과 사람이 책임질 일을 다시 설계하는 커리어 실전서. 실습 초점은 ‘결정을 기록하는 방법’이다.를 단계별 도구로 보여 검색 정보와 책의 차이를 증명한다."
-        },
-        "positioning": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 실제 도구와 순서로 해결하는 기획으로 검토한다."
-      },
-      "devilsEditor": {
-        "failureReason": "현재 이슈 설명에 치우치면 시간이 지나면서 책의 효용이 빠르게 약해질 수 있다.",
-        "fix": "시점성 정보는 사례로 제한하고, 반복해서 쓰는 판단표·질문·체크리스트를 본문 중심에 둔다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 94,
-      "risk": "현재 화제와 너무 가깝게 묶으면 뉴스 해설서로 보일 수 있다.",
-      "riskResponse": "최종 원고에서는 사건명보다 독자의 반복 문제와 적용 도구를 중심에 두고 최신 정보는 출간 직전 재확인한다.",
-      "judgment": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.를 일회성 정보가 아니라 반복 사용 가능한 의사결정 구조로 바꾸는 방향이라면 출간 검토 가치가 있다.",
-      "similarBooks": [
-        {
-          "title": "부사관, 인생 커리어를 설계하다!",
-          "author": "정진웅 저",
-          "publisher": "하움출판사",
-          "publicationDate": "20261014",
-          "url": "https://www.yes24.com/product/goods/197222362",
-          "matchedQuery": "커리어",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "제3의 면접, 평판조회",
-          "author": "커리어케어 C·LENS 센터 저",
-          "publisher": "세이코리아",
-          "publicationDate": "20261007",
-          "url": "https://www.yes24.com/product/goods/196884130",
-          "matchedQuery": "커리어",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "청소년을 위한 직업별 마음 안내서",
-          "author": "윤서영 저",
-          "publisher": "커리어북스",
-          "publicationDate": "20261009",
-          "url": "https://www.yes24.com/product/goods/197053859",
-          "matchedQuery": "커리어",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "evidence": [
-        {
-          "text": "제조AI 전환의 성공 조건은? - 영상 | 멀티미디어 - 정책브리핑",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMk9HbzRyUXB2N0ZXZlVXSGhkaWNfTVk0a250LUozSVItVVJCUVViTFJuODFqNVM1MkI5dUdvaXZ6Um56VDBkQXd4aGRnazBkR0RObXl1blNqRGwzaDRKdVdjdHJZSkNtMVloTQ?oc=5"
-        },
-        {
-          "text": "[AI픽] LGU+ '유독', 글로벌 AI 서비스 품는다 - 연합뉴스",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oUjZIMC1WV2RWYWc5NnF3dWdmQU9OVmJCY2J6VW5Kclk1UzZDNDZBbmlKN3RZQm5LMjJZYzFOS2hlcDhtalZRWFBHVVZBTFRvNUtKY01HQUNoeVVaVHFzaNIBYEFVX3lxTE5oUjZIMC1WV2RWYWc5NnF3dWdmQU9OVmJCY2J6VW5Kclk1UzZDNDZBbmlKN3RZQm5LMjJZYzFOS2hlcDhtalZRWFBHVVZBTFRvNUtKY01HQUNoeVVaVHFzaA?oc=5"
-        },
-        {
-          "text": "은행 'AI 해킹' 눈덩이...경찰, 본격 수사 임박 - YTN",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBUDhCR2x5b0RRNkV5Smw0aGE5ZTQ3NUhoYWtOVUtuSWc4aHAxb2M1U1BVWmVIYk1SanRXNzBzZm8wN0tyQ0U1OHZralpfT1pwX09oSEhRUlpLX1lBRmc?oc=5"
-        },
-        {
-          "text": "구글 간 LGU+ 크리에이터들…AI로 콘텐츠 만든다 - 디지털데일리",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNkZteWd6X0xIMG01UTBFTkI5UGt5UXlSU2NvZFNoU2I3LWFFTGJ3OE1WUG0yMWgybnVueHk1a1ZvQ1gyVGFEbUtPck50VElOdmh5OTU5YlhWZUJIeURMU20wTUc?oc=5"
-        }
-      ],
-      "sourceChannels": [
-        "google-news",
-        "yes24"
-      ],
-      "crossSourceCount": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-05T06:46:20.350Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "내 일을 AI와 나눠 맡는 기준: 결정을 기록하는 방법",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "AI에게 맡기면 안 되는 일, 바로 여기다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "003",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "새로운 툴이 도입돼도 업무가 늘고, 책임감이 무거워진다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "028",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "반복 작업을 AI에 맡기고, 중요한 판단을 놓치고, 성과를 기록하지 못한다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "021",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "그건 AI가 대신할 수 없는 인간만의 판단을 포기한 것이다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "018",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "먼저 업무를 세 단계로 나눠, 기록하고, AI에 넘기고, 검증하라.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "032",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "AI와 나, 역할을 명확히 하면 일은 쉬워진다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "044",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-772674d6"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6e2730b1-80dc-42cb-a7b7-2afeb5cf6ce2/mcgill-queens_postal-censorship-surveillance-resistance_sept26_jeremy-parker.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens postal censorship surveillance resistance",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "텍스트의 위계와 그리드 배치를 통해 복잡한 정보를 구조화하는 시각적 원리가 실무 지침서의 레이아웃 설계에 유용함",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0e276069-f9e7-451e-8adb-77a9d6b6d2ff/calgary_at-the-freak-show_sept26_melina-cusano.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "calgary at the freak show",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피의 배치와 여백을 활용해 업무의 구조적 분해를 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1601752952862-MPX0KPXCWW4J8AUMN4JA/7_ump-giffort-c.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "University Press Cover Round-Up",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃을 통해 업무의 구조화와 재설계라는 개념적 원리를 시각화하기에 적합함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 55,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6e2730b1-80dc-42cb-a7b7-2afeb5cf6ce2/mcgill-queens_postal-censorship-surveillance-resistance_sept26_jeremy-parker.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens postal censorship surveillance resistance",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "텍스트의 위계와 그리드 배치를 통해 복잡한 정보를 구조화하는 시각적 원리가 실무 지침서의 레이아웃 설계에 유용함",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0e276069-f9e7-451e-8adb-77a9d6b6d2ff/calgary_at-the-freak-show_sept26_melina-cusano.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "calgary at the freak show",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피의 배치와 여백을 활용해 업무의 구조적 분해를 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1601752952862-MPX0KPXCWW4J8AUMN4JA/7_ump-giffort-c.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "University Press Cover Round-Up",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃을 통해 업무의 구조화와 재설계라는 개념적 원리를 시각화하기에 적합함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 55,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence career work",
-          "sourceRevision": "zcr-772674d6",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "status": "ready",
-        "generatedAt": "2026-10-05T11:00:17.718Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "qualityTier": "hq",
-        "diagnostics": {},
-        "sourceRevision": "zcr-772674d6"
-      },
-      "id": "S3",
-      "problem": "막연한 AI 공부 대신 내 업무에서 자동화할 일·판단할 일·증명해야 할 성과를 구분하고 싶다.",
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-05T06:44:20.102Z",
-        "queries": [
-          "커리어",
-          "AI 직장인"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "generationMode": "historical-high-quality-sealed-upgrade",
+      "generationMode": "historical-high-quality-local-guarantee",
+      "authorProfile": "경제·생활재무의 실제 현장 경험이 있고, 복잡한 정보를 독자의 생활·업무 상황에 맞는 체크리스트와 판단 기준으로 번역할 수 있는 집필자를 우선 섭외한다.",
       "qualityTier": "hq",
-      "upgradePending": false,
-      "historicalQualityScore": 90,
-      "stars": "★★★★★",
-      "titleAudit": {
-        "status": "sealed-edition-fixed",
-        "collision": false,
-        "locked": true
-      }
+      "localGuarantee": true
     }
-  ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261005-55fe9b64",
-    "file": "cardnews/2026-10-05.json",
-    "cardCount": 6
-  }
+  ]
 }
