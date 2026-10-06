@@ -159,6 +159,10 @@ NOISE_PATTERNS = [
     r"sets reference exchange rate at|reference exchange rate at",
     r"ai hacker|cyberattacks?.*job losses|security & livelihoods",
     r"congress votes to have say in data center discussion|immersion school",
+    r"ai 해커|해커.*금융권|보안 취약정보",
+    r"fewer homes sell|home sales?.*interest rates?|housing market.*interest rates?",
+    r"where are data centers located|what to know about data centers",
+    r"what we said about supply chains in 2021",
 ]
 PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
