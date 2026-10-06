@@ -3,7 +3,7 @@
   "planDay": "2026-10-06",
   "planSetId": "zps-20261006-4ccb830e",
   "generatedAt": "2026-10-06T02:00:57.423Z",
-  "publishedAt": "2026-10-06T02:16:33.902Z",
+  "publishedAt": "2026-10-06T02:16:39.439Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -947,7 +947,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-e4ed0aea",
         "status": "ready",
-        "generatedAt": "2026-10-06T02:01:19.197Z",
+        "generatedAt": "2026-10-06T02:16:35.518Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -955,100 +955,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 19,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 1,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "northwestern blow yourself up",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 59088,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nyu fire in the heart of the city",
-              "source": "spine",
-              "status": "budget-fallback",
-              "parseStatus": "not-run",
-              "slot": "genre",
-              "topic": 0,
-              "genre": 0,
-              "design": 90,
-              "score": 62,
-              "selected": true,
-              "inputMode": "",
-              "imageBytes": 0,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "budget-fallback",
-              "parseStatus": "not-run",
-              "slot": "",
-              "topic": 0,
-              "genre": 0,
-              "design": 90,
-              "score": 62,
-              "selected": false,
-              "inputMode": "",
-              "imageBytes": 0,
-              "error": "",
-              "rawPreview": ""
-            }
-          ],
-          "deadlineApprovedFallback": 0,
-          "noExternalCalls": true
-        }
+        "diagnostics": {}
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
@@ -1533,7 +1440,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-e4ed0aea",
         "status": "ready",
-        "generatedAt": "2026-10-06T02:01:25.357Z",
+        "generatedAt": "2026-10-06T02:16:37.263Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1541,143 +1448,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 16,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 10,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 3,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 4,
-            "selected": 3,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:Global Financial Crisis Investing / Defensive Investing Strategies / Asset Allocation in Turbulence",
-              "googlebooks": [
-                "specific:economics personal finance=0(cooldown)",
-                "specific:economics=0(cooldown)",
-                "ai:Global Financial Crisis Investing=0(cooldown)",
-                "ai:Defensive Investing Strategies=0(cooldown)",
-                "specific:personal finance investing=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:economics personal finance=24",
-                "specific:economics=30",
-                "ai:Defensive Investing Strategies=11",
-                "ai:Global Financial Crisis Investing=21",
-                "specific:personal finance investing=30"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "offTopic": 301,
-                "low-quality": 17,
-                "style-block": 7
-              },
-              "rawCounts": {
-                "specific": 84,
-                "nyt": 208,
-                "ai": 32,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 10,
-              "other": 0
-            }
-          },
-          "assessmentSummary": [
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "budget-fallback",
-              "parseStatus": "not-run",
-              "slot": "genre",
-              "topic": 0,
-              "genre": 0,
-              "design": 90,
-              "score": 62,
-              "selected": true,
-              "inputMode": "",
-              "imageBytes": 0,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "pitt abider",
-              "source": "spine",
-              "status": "budget-fallback",
-              "parseStatus": "not-run",
-              "slot": "design",
-              "topic": 0,
-              "genre": 0,
-              "design": 90,
-              "score": 62,
-              "selected": true,
-              "inputMode": "",
-              "imageBytes": 0,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "west virginia what kind of mother",
-              "source": "spine",
-              "status": "budget-fallback",
-              "parseStatus": "not-run",
-              "slot": "",
-              "topic": 0,
-              "genre": 0,
-              "design": 90,
-              "score": 62,
-              "selected": false,
-              "inputMode": "",
-              "imageBytes": 0,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "yale darwin and the queer origins of life",
-              "source": "spine",
-              "status": "budget-fallback",
-              "parseStatus": "not-run",
-              "slot": "",
-              "topic": 0,
-              "genre": 0,
-              "design": 90,
-              "score": 62,
-              "selected": false,
-              "inputMode": "",
-              "imageBytes": 0,
-              "error": "",
-              "rawPreview": ""
-            }
-          ],
-          "deadlineApprovedFallback": 0,
-          "noExternalCalls": true
-        }
+        "diagnostics": {}
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
