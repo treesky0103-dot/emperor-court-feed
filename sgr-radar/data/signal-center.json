@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 06:50:45",
+  "updatedAt": "2026. 10. 07. 오전 07:12:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.etnews.com/20261006000364",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02450166645610624&mediaCodeNo=257",
+          "title": "장윤금 “AI가 대신 경험해줄 순 없어…인간을 더 인간답게 만드는 교육 필요”",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T22:02:00Z",
+          "publishedAt": "2026-10-06T22:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02450166645610624&mediaCodeNo=257"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12169729",
@@ -112,42 +124,26 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12169474",
-          "title": "전세사기 집 경매 넘어가도 보증금 3분의 1 국가가 보전",
-          "source": "mk.co.kr",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01649846645610624&mediaCodeNo=257",
+          "title": "[안치영의 메디컬와치]남원 병상 절반 텅텅, 의전원 부실교육 우려",
+          "source": "edaily.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T17:21:35Z",
-          "publishedAt": "2026-10-06T17:21:35Z",
+          "dateRaw": "2026-10-06T22:01:00Z",
+          "publishedAt": "2026-10-06T22:01:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12169474",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261006175833",
-          "title": "배민, 전북 외식업주 대상 4주 교육…로컬마케팅·푸드테크 다룬다",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T09:18:47Z",
-          "publishedAt": "2026-10-06T09:18:47Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261006175833",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01649846645610624&mediaCodeNo=257"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 8
+          "count": 9
         },
         {
           "word": "주거",
-          "count": 3
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -156,6 +152,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01430086645610624&mediaCodeNo=257",
+          "title": "美국채 금리 급등하자…핌코 \"투자매력 매우 높아졌다\"",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T22:02:00Z",
+          "publishedAt": "2026-10-06T22:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01430086645610624&mediaCodeNo=257"
+        },
         {
           "id": "https://www.mk.co.kr/news/society/12169429",
           "title": "휴대폰 방전 막은 게 86배 투자대박의 비결? … ‘배터리 풍수’의 비밀",
@@ -273,20 +281,6 @@
           "url": "https://www.mk.co.kr/news/stock/12169387",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.etnews.com/20261006000411",
-          "title": "유진투자증권, '절세·자산관리 이벤트' 진행…ISA·연금저축 신규 개설 혜택",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T09:05:57Z",
-          "publishedAt": "2026-10-06T09:05:57Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261006000411",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
@@ -296,7 +290,7 @@
         },
         {
           "word": "금리",
-          "count": 1
+          "count": 2
         },
         {
           "word": "기업",
@@ -662,16 +656,16 @@
           "url": "https://tradeonlytoday.com/industry-news/employment-survey-shows-q4-global-hiring-growth/"
         },
         {
-          "id": "http://www.idahopress.com/ap_news/us/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_5a9d72f6-8f42-55dc-8179-9a0c57230c7c.html",
+          "id": "https://www.union-bulletin.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_33fcd361-b2c6-5928-8d02-8eed1c742296.html",
           "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-          "source": "idahopress.com",
+          "source": "union-bulletin.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T21:46:00Z",
-          "publishedAt": "2026-10-06T21:46:00Z",
+          "dateRaw": "2026-10-06T22:02:00Z",
+          "publishedAt": "2026-10-06T22:02:00Z",
           "summary": "",
-          "url": "http://www.idahopress.com/ap_news/us/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_5a9d72f6-8f42-55dc-8179-9a0c57230c7c.html"
+          "url": "https://www.union-bulletin.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_33fcd361-b2c6-5928-8d02-8eed1c742296.html"
         },
         {
           "id": "https://www.northernpen.ca/the-us-economy-added-253000-jobs-in-a-sign-of-labor-market-strength/",
@@ -815,6 +809,18 @@
           "url": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/"
         },
         {
+          "id": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/",
+          "title": "GPU utilization in post-training shapes better AI agents - SiliconANGLE",
+          "source": "siliconangle.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T22:02:00Z",
+          "publishedAt": "2026-10-06T22:02:00Z",
+          "summary": "",
+          "url": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/"
+        },
+        {
           "id": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
           "title": "Google’s power-hungry data centers crave nuclear energy",
           "source": "theverge.com",
@@ -897,18 +903,6 @@
           "publishedAt": "2026-10-06T16:32:00Z",
           "summary": "",
           "url": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/"
-        },
-        {
-          "id": "https://www.crn.com/news/storage/2026/dell-supercharges-enterprise-ai-push-with-new-agents-accelerated-data-prep-and-cloud-storage",
-          "title": "Dell Supercharges Enterprise AI Push With New Agents, Accelerated Data Prep And Cloud Storage",
-          "source": "crn.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T16:32:00Z",
-          "publishedAt": "2026-10-06T16:32:00Z",
-          "summary": "",
-          "url": "https://www.crn.com/news/storage/2026/dell-supercharges-enterprise-ai-push-with-new-agents-accelerated-data-prep-and-cloud-storage"
         }
       ],
       "keywords": [
@@ -921,15 +915,15 @@
           "count": 3
         },
         {
+          "word": "GPU",
+          "count": 2
+        },
+        {
           "word": "반도체",
           "count": 2
         },
         {
           "word": "제조",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -940,9 +934,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1359,
-    "fetchedItems": 2624,
-    "feedBytes": 716128,
+    "poolSize": 1439,
+    "fetchedItems": 4097,
+    "feedBytes": 1155873,
     "rollingWindowHours": 72
   }
 }
