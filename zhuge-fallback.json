@@ -3,7 +3,7 @@
   "planDay": "2026-10-06",
   "planSetId": "zps-20261006-4ccb830e",
   "generatedAt": "2026-10-06T02:00:57.423Z",
-  "publishedAt": "2026-10-06T02:16:29.044Z",
+  "publishedAt": "2026-10-06T02:16:33.902Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -18,9 +18,11 @@
     "model": "gemini-3.8-flash",
     "hqReady": true,
     "contentRevision": "zcr-e4ed0aea",
-    "hqVerifiedBy": "v2.15.99",
+    "hqVerifiedBy": "gemini-3.8-flash",
     "sealedAt": "2026-10-06T02:16:25.945Z",
-    "build": "v2.15.119"
+    "build": "v2.15.119",
+    "hqUpgradedAt": "2026-10-06T02:16:31.989Z",
+    "hqVerificationError": ""
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
@@ -442,7 +444,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-e4ed0aea",
         "status": "ready",
-        "generatedAt": "2026-10-06T02:01:12.531Z",
+        "generatedAt": "2026-10-06T02:16:33.316Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -450,100 +452,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 22,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "minn the carceral surround",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 127092,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nebraska pyrrhic symphony",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 25,
-              "genre": 40,
-              "design": 85,
-              "score": 67,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 96222,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "newsouth trip reports",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 35,
-              "genre": 45,
-              "design": 85,
-              "score": 71,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 201038,
-              "error": "",
-              "rawPreview": ""
-            }
-          ],
-          "deadlineApprovedFallback": 0,
-          "noExternalCalls": true
-        }
+        "diagnostics": {}
       },
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
@@ -1144,7 +1053,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-06T02:01:00.040Z",
+        "generatedAt": "2026-10-06T02:16:30.624Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
