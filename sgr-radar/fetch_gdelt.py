@@ -26,6 +26,20 @@ SIGNAL_POOL_FILE = DATA_DIR / "signal-pool.json"
 GDELT_RSS_URL = "https://data.gdeltproject.org/gdeltv3/gal/feed.rss"
 POOL_HOURS = 24
 SIGNAL_POOL_HOURS = 72
+
+DOMESTIC_RSS_FEEDS = [
+    ("https://www.mk.co.kr/rss/30100041/", "economy"),
+    ("https://www.mk.co.kr/rss/50100032/", "economy"),
+    ("https://www.mk.co.kr/rss/50400012/", "humanities"),
+    ("https://www.mbn.co.kr/rss/economy/", "economy"),
+    ("https://www.mbn.co.kr/rss/society/", "humanities"),
+    ("http://rss.etnews.com/02.xml", "economy"),
+    ("http://rss.etnews.com/03.xml", "technology"),
+    ("http://rss.etnews.com/04046.xml", "technology"),
+    ("http://rss.etnews.com/22230.xml", "humanities"),
+    ("https://feeds.feedburner.com/zdkorea", "technology"),
+]
+
 POOL_LIMIT = 2000
 DISPLAY_TARGET = 10
 TREND_TARGET = 50
@@ -458,6 +472,78 @@ def fetch_rss() -> tuple[list[dict], int]:
         })
     return items, len(raw)
 
+
+def fetch_domestic_signal_feeds() -> tuple[list[dict], dict]:
+    items, stats = [], {"feeds": 0, "failed": 0, "items": 0}
+    now_iso = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    for feed_url, field_hint in DOMESTIC_RSS_FEEDS:
+        try:
+            req = urllib.request.Request(
+                feed_url,
+                headers={
+                    "User-Agent": "SGR-Strategy-Radar/2.1 (+https://github.com/treesky0103-dot/emperor-court-feed)",
+                    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+                },
+            )
+            with urllib.request.urlopen(req, timeout=18) as resp:
+                raw = resp.read(4 * 1024 * 1024 + 1)
+            if len(raw) > 4 * 1024 * 1024:
+                raise RuntimeError("domestic RSS exceeds 4MB guard")
+            root = ET.fromstring(raw)
+            nodes = root.findall(".//item")
+            for node in nodes:
+                title = clean(html.unescape(node.findtext("title") or ""))
+                url = clean(html.unescape(node.findtext("link") or ""))
+                if not title or not url:
+                    continue
+                pub = clean(node.findtext("pubDate") or node.findtext("{http://purl.org/dc/elements/1.1/}date") or "")
+                try:
+                    dt = parsedate_to_datetime(pub) if pub else datetime.now(timezone.utc)
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    date_raw = dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+                except Exception:
+                    try:
+                        dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
+                        if dt.tzinfo is None:
+                            dt = dt.replace(tzinfo=timezone.utc)
+                        date_raw = dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+                    except Exception:
+                        date_raw = now_iso
+                item = {
+                    "id": url,
+                    "title": title,
+                    "source": domain_from_url(url),
+                    "language": infer_language(title),
+                    "sourceCountry": "KR",
+                    "date": date_raw[:10],
+                    "dateRaw": date_raw,
+                    "publishedAt": date_raw,
+                    "summary": "",
+                    "url": url,
+                    "signalScopeHint": "domestic",
+                    "signalFieldHint": field_hint,
+                }
+                if infer_language(title) == "Korean" and not is_noise(item):
+                    items.append(item)
+            stats["feeds"] += 1
+        except Exception:
+            stats["failed"] += 1
+    stats["items"] = len(items)
+    return items, stats
+
+def signal_fast_dedupe(items: list[dict]) -> list[dict]:
+    out, urls, titles = [], set(), set()
+    for item in items:
+        url = clean(item.get("url")).lower()
+        title_key = normalized_title(clean(item.get("title")))
+        if not url or not title_key or url in urls or title_key in titles:
+            continue
+        urls.add(url)
+        titles.add(title_key)
+        out.append(item)
+    return out
+
 def contains_term(text: str, term: str) -> bool:
     t, q = text.lower(), clean(term).lower()
     if not q:
@@ -582,6 +668,8 @@ def signal_field_score(field: str, title: str) -> int:
     return pattern_score(t, SIGNAL_PATTERNS.get(field, []))
 
 def signal_scope(item: dict) -> str:
+    if clean(item.get("signalScopeHint")) in {"domestic", "global"}:
+        return clean(item.get("signalScopeHint"))
     title = clean(item.get("title"))
     lang = infer_language(title)
     if lang == "English":
@@ -605,7 +693,10 @@ def signal_potential(item: dict) -> bool:
 
 def signal_quality(scope: str, field: str, item: dict) -> bool:
     title = clean(item.get("title"))
-    if signal_scope(item) != scope or signal_field_score(field, title) <= 0 or is_noise(item):
+    hint = clean(item.get("signalFieldHint"))
+    if signal_scope(item) != scope or is_noise(item):
+        return False
+    if signal_field_score(field, title) <= 0 and hint != field:
         return False
     if any(re.search(p, title, re.I) for p in SIGNAL_REJECT_PATTERNS.get(field, [])):
         return False
@@ -614,7 +705,7 @@ def signal_quality(scope: str, field: str, item: dict) -> bool:
             return False
     if field == "humanities":
         if scope == "domestic":
-            if not re.search(r"저출생|출산율|고령화|인구감소|인구절벽|청년|주거|집값|전세|월세|교육|대학|의료|건강|정신건강|복지|불평등|돌봄|1인가구|지역소멸|이민|난민", title, re.I):
+            if hint != "humanities" and not re.search(r"저출생|출산율|고령화|인구감소|인구절벽|청년|주거|집값|전세|월세|교육|대학|의료|건강|정신건강|복지|불평등|돌봄|1인가구|지역소멸|이민|난민", title, re.I):
                 return False
         elif not any(re.search(p, title, re.I) for p in HUMANITIES_STRATEGIC_PATTERNS):
             return False
@@ -862,7 +953,7 @@ def merge_pool(incoming: list[dict], existing: list[dict]) -> list[dict]:
 def merge_signal_pool(incoming: list[dict], existing: list[dict]) -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=SIGNAL_POOL_HOURS)
     kept = []
-    for item in dedupe(incoming + existing):
+    for item in signal_fast_dedupe(incoming + existing):
         dt = parse_dt(clean(item.get("dateRaw")) or clean(item.get("publishedAt")))
         if dt and dt < cutoff:
             continue
@@ -912,9 +1003,10 @@ def main() -> int:
     existing = load_json(POOL_FILE, [])
     if not isinstance(existing, list): existing = []
     pool = merge_pool(relevant, existing)
+    domestic_signal_items, domestic_feed_stats = fetch_domestic_signal_feeds()
     signal_existing = load_json(SIGNAL_POOL_FILE, [])
     if not isinstance(signal_existing, list): signal_existing = []
-    signal_pool = merge_signal_pool(incoming + pool, signal_existing)
+    signal_pool = merge_signal_pool(domestic_signal_items + incoming + pool, signal_existing)
     changes = []
     if write_json_if_changed(POOL_FILE, pool): changes.append("pool")
     if write_json_if_changed(SIGNAL_POOL_FILE, signal_pool): changes.append("signal-pool")
@@ -925,6 +1017,7 @@ def main() -> int:
     if write_json_if_changed(DATA_DIR / "signal-center.json", signal_payload): changes.append("signal-center")
     print(json.dumps({
         "ok": True, "fetched": len(incoming), "relevant": len(relevant), "pool": len(pool), "changed": changes,
+        "domesticFeeds": domestic_feed_stats,
         "display": {
             **{k: len(load_json(DATA_DIR / f"{k}.json", {}).get("items", [])) for k in ("industry","management","global")},
             "signal": {
