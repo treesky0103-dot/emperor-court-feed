@@ -118,6 +118,39 @@ TOPIC_GROUPS = {
 
 SIGNAL_FIELDS = ("humanities", "economy", "technology")
 
+HUMANITIES_STRATEGIC_PATTERNS = [
+    r"policy|reform|survey|report|study|research|trend|rate|population|demograph|migration|immigration|refugee",
+    r"aging|ageing|fertility|birth rate|housing affordability|housing cost|inequality|mental health|welfare|digital divide",
+    r"education policy|school funding|university policy|social policy|public health|caregiving|care work|youth unemployment",
+    r"정책|개혁|조사|보고서|연구|추세|비율|인구|고령화|저출생|출산율|이민|난민|주거비|불평등|정신건강|복지",
+    r"교육정책|등록금|돌봄|청년실업|지역소멸|1인가구",
+]
+
+SIGNAL_REJECT_PATTERNS = {
+    "humanities": [
+        r"lockdown|student with gun|school bus crash|killed in .*school|annual meeting|free screening|full show|podcast",
+        r"church|pastor|youth minister|minister - |startup.*lease|lease at university|garden network|sports?|celebrity|actor|singer",
+        r"총격|사망|교통사고|연예|배우|가수|공연|행사 안내|채용|목사|교회",
+    ],
+    "economy": [
+        r"정보유출|해킹|사이버공격|보안 취약|민선\d+기 조직개편|구청|시청|군청|지자체|도시환경국|미래정책실",
+        r"school board|city council|county board|municipal|local council",
+    ],
+    "technology": [
+        r"stock rises?|shares? rise|stock market opens|morning squawk|price target|buy rating|sell rating",
+        r"celebrity|actor|singer|church|jesus|atheist|sermon",
+        r"주가.*(?:급등|급락)|(?:급등|급락).*주가|연예|배우|가수|교회|예수",
+    ],
+}
+
+TECH_AI_CONTEXT_PATTERNS = [
+    r"model|platform|product|service|software|cloud|chip|semiconductor|gpu|data cent(?:er|re)|infrastructure|robot|automation",
+    r"research|startup|company|enterprise|workplace|developer|coding|investment|deal|partnership|manufacturing|energy|power",
+    r"모델|플랫폼|제품|서비스|소프트웨어|클라우드|반도체|칩|GPU|데이터센터|인프라|로봇|자동화|연구|스타트업",
+    r"기업|업무|개발자|코딩|투자|협력|제조|에너지|전력",
+]
+
+
 SIGNAL_PATTERNS = {
     "humanities": [
         r"low birth|birth rate|fertility|aging|ageing|demograph|population decline|migration|immigration|refugee",
@@ -566,9 +599,26 @@ def signal_quality(scope: str, field: str, item: dict) -> bool:
     title = clean(item.get("title"))
     if signal_scope(item) != scope or signal_field_score(field, title) <= 0 or is_noise(item):
         return False
+    if any(re.search(p, title, re.I) for p in SIGNAL_REJECT_PATTERNS.get(field, [])):
+        return False
     if scope == "global" and field != "humanities":
         if re.search(r"city council|county board|municipal|local council|school board|zoning", title, re.I):
             return False
+    if field == "humanities":
+        if not any(re.search(p, title, re.I) for p in HUMANITIES_STRATEGIC_PATTERNS):
+            return False
+    if field == "technology":
+        if re.search(r"\bai\b|artificial intelligence|인공지능", title, re.I):
+            if not any(re.search(p, title, re.I) for p in TECH_AI_CONTEXT_PATTERNS):
+                return False
+    if field == "economy":
+        tech_score = signal_field_score("technology", title)
+        econ_score = signal_field_score("economy", title)
+        if tech_score > econ_score and not re.search(r"투자|고용|인력|생산성|경영|조직|인재|소비|시장|수출|무역|관세|investment|employment|workforce|productivity|management|organization|talent|consumer|market|export|trade|tariff", title, re.I):
+            return False
+        if re.search(r"\b기업\b|\bbusiness\b|\bcorporate\b", title, re.I) and econ_score == 1:
+            if not re.search(r"투자|고용|인력|생산성|경영|조직|인재|소비|시장|수출|무역|관세|investment|employment|workforce|productivity|management|organization|talent|consumer|market|export|trade|tariff", title, re.I):
+                return False
     return True
 
 def signal_score(scope: str, field: str, item: dict) -> int:
