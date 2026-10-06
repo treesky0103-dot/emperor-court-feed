@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 03:39:30",
+  "updatedAt": "2026. 10. 07. 오전 03:57:33",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -225,6 +225,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "http://www.koreatimes.com/article/20261006/1632722",
+          "title": "그래도 버틴다… “이란, 원유수출 막혀도 美 지치기 기다려” - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261006/1632722"
+        },
+        {
           "id": "https://www.anewsa.com/detail.php?number=3205401",
           "title": "삼성·SK 반도체 핵심인력 중국행...CXMT 간 27명 중 26명 퇴사",
           "source": "anewsa.com",
@@ -303,6 +315,10 @@
           "count": 1
         },
         {
+          "word": "수출",
+          "count": 1
+        },
+        {
           "word": "인력",
           "count": 1
         },
@@ -311,9 +327,9 @@
           "count": 1
         }
       ],
-      "displayed": 9,
+      "displayed": 10,
       "target": 10,
-      "targetMet": false
+      "targetMet": true
     },
     "technology": {
       "items": [
@@ -489,6 +505,54 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.abc.net.au/news/2026-10-07/coalition-migration-plan-risks-significant-economic-hit/107236278",
+          "title": "Taylor concedes aged care workers would be hit by migration plan",
+          "source": "abc.net.au",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:46:00Z",
+          "publishedAt": "2026-10-06T18:46:00Z",
+          "summary": "",
+          "url": "https://www.abc.net.au/news/2026-10-07/coalition-migration-plan-risks-significant-economic-hit/107236278"
+        },
+        {
+          "id": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/",
+          "title": "Nearly half of Kenyan pupils barred from class over illegal school levies, survey finds",
+          "source": "kenya-today.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
+          "summary": "",
+          "url": "https://kenya-today.com/report-nearly-half-of-kenyan-pupils-barred-from-class-over-illegal-school-levies-survey-finds-7614/"
+        },
+        {
+          "id": "https://www.wtxl.com/northeast-tallahassee/healthy-aging-what-older-adults-need-to-know",
+          "title": "Healthy aging: What older adults need to know",
+          "source": "wtxl.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
+          "summary": "",
+          "url": "https://www.wtxl.com/northeast-tallahassee/healthy-aging-what-older-adults-need-to-know"
+        },
+        {
+          "id": "https://www.odnako.org/from-argentina-to-calabria-the-challenge-of-reverse-emigration/",
+          "title": "From Argentina to Calabria, the challenge of \"reverse emigration\"",
+          "source": "odnako.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
+          "summary": "",
+          "url": "https://www.odnako.org/from-argentina-to-calabria-the-challenge-of-reverse-emigration/"
+        },
+        {
           "id": "https://www.qatarliving.com/en/article/hmc-to-host-international-congress-on-healthy-ageing-and-geriatric-rehabilitation",
           "title": "HMC to Host International Congress on Healthy Ageing and Geriatric Rehabilitation | Qatar Living",
           "source": "qatarliving.com",
@@ -559,79 +623,27 @@
           "publishedAt": "2026-10-06T18:17:00Z",
           "summary": "",
           "url": "https://www.lebanondemocrat.com/lifestyles/health/nearly-half-of-u-s-adults-who-need-mental-healthcare-dont-know-how-to-find/article_a0ab2f94-0ddb-56f8-a25a-143a93afbb65.html"
-        },
-        {
-          "id": "https://www.wect.com/2026/10/06/new-hanover-county-opens-applications-mental-health-fellows-program/",
-          "title": "New Hanover County opens applications for Mental Health Fellows Program",
-          "source": "wect.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:17:00Z",
-          "publishedAt": "2026-10-06T18:17:00Z",
-          "summary": "",
-          "url": "https://www.wect.com/2026/10/06/new-hanover-county-opens-applications-mental-health-fellows-program/"
-        },
-        {
-          "id": "https://u93.com/google-entertainment-news/ea26a8913596218236326f0da98d5c74",
-          "title": "‘We’re not going to go away’: the mom fighting for social media reform after her son’s suicide - The Guardian",
-          "source": "u93.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:01:00Z",
-          "publishedAt": "2026-10-06T18:01:00Z",
-          "summary": "",
-          "url": "https://u93.com/google-entertainment-news/ea26a8913596218236326f0da98d5c74"
-        },
-        {
-          "id": "https://www.tuamherald.ie/2026/10/06/%F0%9F%94%B4live-budget-2027-what-we-know-so-far-changes-to-tax-and-social-welfare-expected/",
-          "title": "ðŸ”´Live Budget 2027: What we know so far, changes to tax and social welfare expected | Tuam Herald",
-          "source": "tuamherald.ie",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T17:47:00Z",
-          "publishedAt": "2026-10-06T17:47:00Z",
-          "summary": "",
-          "url": "https://www.tuamherald.ie/2026/10/06/%F0%9F%94%B4live-budget-2027-what-we-know-so-far-changes-to-tax-and-social-welfare-expected/"
-        },
-        {
-          "id": "https://www.wypr.org/wypr-news/2026-10-06/high-housing-costs-are-driving-poverty-in-maryland-study-says",
-          "title": "High housing costs are driving poverty in Maryland, study says",
-          "source": "wypr.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T17:46:00Z",
-          "publishedAt": "2026-10-06T17:46:00Z",
-          "summary": "",
-          "url": "https://www.wypr.org/wypr-news/2026-10-06/high-housing-costs-are-driving-poverty-in-maryland-study-says"
         }
       ],
       "keywords": [
         {
           "word": "이민",
-          "count": 2
-        },
-        {
-          "word": "정신건강",
-          "count": 2
+          "count": 3
         },
         {
           "word": "고령화",
-          "count": 1
+          "count": 2
         },
         {
           "word": "교육",
-          "count": 1
+          "count": 2
         },
         {
           "word": "불평등",
           "count": 1
         },
         {
-          "word": "주거비",
+          "word": "정신건강",
           "count": 1
         }
       ],
@@ -652,6 +664,18 @@
           "publishedAt": "2026-10-06T17:02:00Z",
           "summary": "",
           "url": "https://tradeonlytoday.com/industry-news/employment-survey-shows-q4-global-hiring-growth/"
+        },
+        {
+          "id": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/",
+          "title": "Taiwan opens Phoenix office as $265 billion chip investment in Arizona grows, over China's objections | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/"
         },
         {
           "id": "https://www.logisticsmgmt.com/article/manufacturing_grows_in_september_amid_some_broad_economic_concerns_reports_ism/lm_october_2026",
@@ -702,18 +726,6 @@
           "url": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html"
         },
         {
-          "id": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/",
-          "title": "As AI reshapes the consumer journey, L’Oréal is rethinking its marketing engine | Fortune",
-          "source": "fortune.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T15:46:00Z",
-          "publishedAt": "2026-10-06T15:46:00Z",
-          "summary": "",
-          "url": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/"
-        },
-        {
           "id": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year",
           "title": "Ethiopia central bank allocates $840 mln for forex auctions for Q2 of 2026/27 fiscal year | CNBC Africa",
           "source": "cnbcafrica.com",
@@ -726,16 +738,28 @@
           "url": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year"
         },
         {
-          "id": "https://www.wellingtontimes.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
-          "title": "Population growth not stopping 'recession-like' economy",
-          "source": "wellingtontimes.com.au",
+          "id": "https://www.odt.co.nz/news/opinion/low-productivity-is-nzs-economic-elephant-in-the-room-xujafsgg",
+          "title": "Low productivity is NZ’s economic elephant in the room",
+          "source": "odt.co.nz",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:31:00Z",
-          "publishedAt": "2026-10-06T18:31:00Z",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
           "summary": "",
-          "url": "https://www.wellingtontimes.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
+          "url": "https://www.odt.co.nz/news/opinion/low-productivity-is-nzs-economic-elephant-in-the-room-xujafsgg"
+        },
+        {
+          "id": "https://www.katherinetimes.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/",
+          "title": "Population growth not stopping 'recession-like' economy",
+          "source": "katherinetimes.com.au",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:46:00Z",
+          "publishedAt": "2026-10-06T18:46:00Z",
+          "summary": "",
+          "url": "https://www.katherinetimes.com.au/story/9363928/population-growth-not-stopping-recession-like-economy/"
         },
         {
           "id": "http://www.tucsonpost.com/news/279354891/nbfc-retail-loan-growth-accelerates-to-22-in-august-gold-loans-rise-69-rbi",
@@ -748,24 +772,12 @@
           "publishedAt": "2026-10-06T18:17:00Z",
           "summary": "",
           "url": "http://www.tucsonpost.com/news/279354891/nbfc-retail-loan-growth-accelerates-to-22-in-august-gold-loans-rise-69-rbi"
-        },
-        {
-          "id": "https://www.thehindubusinessline.com/money-and-banking/nbfcs-log-158-credit-growth-in-august-2026-on-the-back-of-loans-to-retail-and-agri-segments/article71552501.ece",
-          "title": "NBFCs log 15.8% credit growth in August 2026 on the back of loans to retail and agri segments",
-          "source": "thehindubusinessline.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:17:00Z",
-          "publishedAt": "2026-10-06T18:17:00Z",
-          "summary": "",
-          "url": "https://www.thehindubusinessline.com/money-and-banking/nbfcs-log-158-credit-growth-in-august-2026-on-the-back-of-loans-to-retail-and-agri-segments/article71552501.ece"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 5
+          "count": 4
         },
         {
           "word": "고용",
@@ -782,6 +794,10 @@
         {
           "word": "무역",
           "count": 1
+        },
+        {
+          "word": "투자",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -790,6 +806,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/",
+          "title": "Taiwan opens Phoenix office as $265 billion chip investment in Arizona grows, over China's objections | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-06",
+          "dateRaw": "2026-10-06T18:47:00Z",
+          "publishedAt": "2026-10-06T18:47:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/"
+        },
         {
           "id": "https://www.achrnews.com/articles/166738-ai-and-manufacturing-how-hvac-oems-are-using-ai",
           "title": "AI and Manufacturing: How HVAC OEMs are Using AI",
@@ -897,18 +925,6 @@
           "publishedAt": "2026-10-06T15:16:00Z",
           "summary": "",
           "url": "https://www.networkworld.com/article/4231147/google-overhauls-cloud-modernization-portfolio-with-new-ai-agents.html"
-        },
-        {
-          "id": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-to-clean-up-legacy-waste-with-iswm-waste-to-energy-plants/article71552405.ece",
-          "title": "Kurnool to clean up legacy waste with ISWM, Waste-to-Energy plants",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T16:02:00Z",
-          "publishedAt": "2026-10-06T16:02:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-to-clean-up-legacy-waste-with-iswm-waste-to-energy-plants/article71552405.ece"
         }
       ],
       "keywords": [
@@ -917,15 +933,15 @@
           "count": 9
         },
         {
+          "word": "반도체",
+          "count": 2
+        },
+        {
           "word": "클라우드",
           "count": 2
         },
         {
           "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "반도체",
           "count": 1
         },
         {
@@ -940,9 +956,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 718,
-    "fetchedItems": 5760,
-    "feedBytes": 1612174,
+    "poolSize": 784,
+    "fetchedItems": 5431,
+    "feedBytes": 1540216,
     "rollingWindowHours": 72
   }
 }

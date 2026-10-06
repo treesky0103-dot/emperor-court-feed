@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 03:39:29",
+  "updatedAt": "2026. 10. 07. 오전 03:57:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 618,
-    "passed": 51,
-    "deduped": 51,
-    "eventDeduped": 51,
+    "raw": 681,
+    "passed": 54,
+    "deduped": 54,
+    "eventDeduped": 54,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -30,6 +30,18 @@
       "url": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html"
     },
     {
+      "id": "http://www.koreatimes.com/article/20261006/1632715",
+      "title": "캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증 - 미주 한국일보",
+      "source": "koreatimes.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "http://www.koreatimes.com/article/20261006/1632715"
+    },
+    {
       "id": "https://www.hani.co.kr/arti/international/europe/1209650.html",
       "title": "유럽도 일본 따라가나…미국과 15% 상호관세 합의설 솔솔",
       "source": "hani.co.kr",
@@ -40,18 +52,6 @@
       "publishedAt": "2026-10-06T18:17:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/international/europe/1209650.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/07/business/top-business/agri-trade-gap-widens-to-111b-as-exports-fall/2440353",
-      "title": "Agri trade gap widens to $1.11B as exports fall",
-      "source": "manilatimes.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:32:00Z",
-      "publishedAt": "2026-10-06T18:32:00Z",
-      "summary": "",
-      "url": "https://www.manilatimes.net/2026/10/07/business/top-business/agri-trade-gap-widens-to-111b-as-exports-fall/2440353"
     },
     {
       "id": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/",
@@ -152,6 +152,18 @@
       "url": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html"
     },
     {
+      "id": "http://www.koreatimes.com/article/20261006/1632715",
+      "title": "캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증 - 미주 한국일보",
+      "source": "koreatimes.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "http://www.koreatimes.com/article/20261006/1632715"
+    },
+    {
       "id": "https://www.hani.co.kr/arti/international/europe/1209650.html",
       "title": "유럽도 일본 따라가나…미국과 15% 상호관세 합의설 솔솔",
       "source": "hani.co.kr",
@@ -162,6 +174,30 @@
       "publishedAt": "2026-10-06T18:17:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/international/europe/1209650.html"
+    },
+    {
+      "id": "http://www.shanghaisun.com/news/279354553/dgtr-launches-five-anti-dumping-probes-on-chinese-imports-steps-up-trade-remedy-action",
+      "title": "DGTR launches five anti-dumping probes on Chinese imports, steps up trade-remedy action",
+      "source": "shanghaisun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "http://www.shanghaisun.com/news/279354553/dgtr-launches-five-anti-dumping-probes-on-chinese-imports-steps-up-trade-remedy-action"
+    },
+    {
+      "id": "http://www.taiwansun.com/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion",
+      "title": "US trade deficit widens to USD 105.6 billion in August as imports jump; deficit with India at USD 6.2 billion",
+      "source": "taiwansun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "http://www.taiwansun.com/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion"
     },
     {
       "id": "https://www.manilatimes.net/2026/10/07/business/top-business/agri-trade-gap-widens-to-111b-as-exports-fall/2440353",
@@ -176,42 +212,6 @@
       "url": "https://www.manilatimes.net/2026/10/07/business/top-business/agri-trade-gap-widens-to-111b-as-exports-fall/2440353"
     },
     {
-      "id": "https://dominicantoday.com/dominican-republic-removes-rice-import-tariffs-under-new-decree/",
-      "title": "Dominican Republic removes rice import tariffs under new decree",
-      "source": "dominicantoday.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:17:00Z",
-      "publishedAt": "2026-10-06T18:17:00Z",
-      "summary": "",
-      "url": "https://dominicantoday.com/dominican-republic-removes-rice-import-tariffs-under-new-decree/"
-    },
-    {
-      "id": "https://www.thecattlesite.com/news/canadas-trade-surplus-widens-as-exporters-rush-shipments-to-us",
-      "title": "Canada's trade surplus widens as exporters rush shipments to US",
-      "source": "thecattlesite.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:02:00Z",
-      "publishedAt": "2026-10-06T18:02:00Z",
-      "summary": "",
-      "url": "https://www.thecattlesite.com/news/canadas-trade-surplus-widens-as-exporters-rush-shipments-to-us"
-    },
-    {
-      "id": "http://www.cambodiantimes.com/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion",
-      "title": "US trade deficit widens to USD 105.6 billion in August as imports jump; deficit with India at USD 6.2 billion",
-      "source": "cambodiantimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:01:00Z",
-      "publishedAt": "2026-10-06T18:01:00Z",
-      "summary": "",
-      "url": "http://www.cambodiantimes.com/news/279355107/us-trade-deficit-widens-to-usd-1056-billion-in-august-as-imports-jump-deficit-with-india-at-usd-62-billion"
-    },
-    {
       "id": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/",
       "title": "Energy security and AI infrastructure redraw Asia’s trade finance map",
       "source": "gtreview.com",
@@ -222,6 +222,18 @@
       "publishedAt": "2026-10-06T16:32:00Z",
       "summary": "",
       "url": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/"
+    },
+    {
+      "id": "https://www.voakorea.com/a/8208391.html",
+      "title": "사우디 원유 수출 회복…트럼프 “이란 분쟁 끝나면 유가 급락”",
+      "source": "voakorea.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "https://www.voakorea.com/a/8208391.html"
     },
     {
       "id": "https://www.logisticsmgmt.com/article/ups_launches_secure_commerce_platform_to_help_shippers_manage_supply_chain_risk/lm_october_2026",
@@ -416,6 +428,18 @@
       "url": "https://www.chiangraitimes.com/business/cambodias-prince-group-sanctioned/"
     },
     {
+      "id": "https://www.stcatharinesstandard.ca/business/carney-to-again-visit-turkey-later-this-month-amid-trade-talks-lgbtq-crackdown/article_aa3a7b9a-afa5-5626-84f3-883b6f85acfd.html",
+      "title": "Carney to again visit Turkey later this month amid trade talks, LGBTQ+ crackdown",
+      "source": "stcatharinesstandard.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:46:00Z",
+      "publishedAt": "2026-10-06T18:46:00Z",
+      "summary": "",
+      "url": "https://www.stcatharinesstandard.ca/business/carney-to-again-visit-turkey-later-this-month-amid-trade-talks-lgbtq-crackdown/article_aa3a7b9a-afa5-5626-84f3-883b6f85acfd.html"
+    },
+    {
       "id": "https://euobserver.com/241347/how-bad-does-it-have-to-get-for-the-ecb-to-save-france/",
       "title": "How bad does it have to get for the ECB to save France?",
       "source": "euobserver.com",
@@ -426,18 +450,6 @@
       "publishedAt": "2026-10-06T18:32:00Z",
       "summary": "",
       "url": "https://euobserver.com/241347/how-bad-does-it-have-to-get-for-the-ecb-to-save-france/"
-    },
-    {
-      "id": "https://medicinehatnews.com/news/national-news/2026/10/06/carney-to-again-visit-turkey-later-this-month-amid-trade-talks-lgbtq-crackdown/",
-      "title": "Carney to again visit Turkey later this month amid trade talks, LGBTQ+ crackdown - Medicine Hat News",
-      "source": "medicinehatnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:17:00Z",
-      "publishedAt": "2026-10-06T18:17:00Z",
-      "summary": "",
-      "url": "https://medicinehatnews.com/news/national-news/2026/10/06/carney-to-again-visit-turkey-later-this-month-amid-trade-talks-lgbtq-crackdown/"
     },
     {
       "id": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-october-7-top-15-things-to-know-before-the-opening-bell-ahead-of-rbi-policy-outcome-14046085.html",
@@ -524,16 +536,16 @@
       "url": "https://www.investors.com:443/research/options/palo-alto-panw-stock-long-term-bull-put-spread-options/"
     },
     {
-      "id": "https://investinglive.com/central-banks/fed-s-daly-more-tightening-depends-on-whether-ai-tariff-and-energy-shocks-persist/",
-      "title": "Fed’s Daly: More tightening depends on whether AI, tariff and energy shocks persist",
-      "source": "investinglive.com",
+      "id": "https://dominicantoday.com/dominican-republic-removes-rice-import-tariffs-under-new-decree/",
+      "title": "Dominican Republic removes rice import tariffs under new decree",
+      "source": "dominicantoday.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:32:00Z",
-      "publishedAt": "2026-10-06T17:32:00Z",
+      "dateRaw": "2026-10-06T18:17:00Z",
+      "publishedAt": "2026-10-06T18:17:00Z",
       "summary": "",
-      "url": "https://investinglive.com/central-banks/fed-s-daly-more-tightening-depends-on-whether-ai-tariff-and-energy-shocks-persist/"
+      "url": "https://dominicantoday.com/dominican-republic-removes-rice-import-tariffs-under-new-decree/"
     },
     {
       "id": "https://www.hydrocarbonprocessing.com/news/2026/10/japans-iwatani-cosmo-to-develop-hydrogen-supply-chain-at-chiba-refinery/",
@@ -558,6 +570,30 @@
       "publishedAt": "2026-10-06T15:31:00Z",
       "summary": "",
       "url": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allocates-840-mln-for-forex-auctions-for-q2-of-2026-27-fiscal-year"
+    },
+    {
+      "id": "https://www.thecattlesite.com/news/canadas-trade-surplus-widens-as-exporters-rush-shipments-to-us",
+      "title": "Canada's trade surplus widens as exporters rush shipments to US",
+      "source": "thecattlesite.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:02:00Z",
+      "publishedAt": "2026-10-06T18:02:00Z",
+      "summary": "",
+      "url": "https://www.thecattlesite.com/news/canadas-trade-surplus-widens-as-exporters-rush-shipments-to-us"
+    },
+    {
+      "id": "https://investinglive.com/central-banks/fed-s-daly-more-tightening-depends-on-whether-ai-tariff-and-energy-shocks-persist/",
+      "title": "Fed’s Daly: More tightening depends on whether AI, tariff and energy shocks persist",
+      "source": "investinglive.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T17:32:00Z",
+      "publishedAt": "2026-10-06T17:32:00Z",
+      "summary": "",
+      "url": "https://investinglive.com/central-banks/fed-s-daly-more-tightening-depends-on-whether-ai-tariff-and-energy-shocks-persist/"
     },
     {
       "id": "https://www.freshplaza.com/north-america/article/9880426/western-cape-exporters-warn-over-deteriorating-u-s-trade-relations/",
@@ -695,10 +731,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 618,
-    "fetchedItems": 5760,
-    "relevantItems": 119,
-    "feedBytes": 1612174,
+    "poolSize": 681,
+    "fetchedItems": 5431,
+    "relevantItems": 91,
+    "feedBytes": 1540216,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
