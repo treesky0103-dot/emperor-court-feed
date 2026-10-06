@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 02:26:49",
+  "updatedAt": "2026. 10. 07. 오전 02:33:12",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 286,
-    "passed": 245,
-    "deduped": 245,
-    "eventDeduped": 245,
+    "raw": 287,
+    "passed": 248,
+    "deduped": 248,
+    "eventDeduped": 248,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.inewsgr.com/330/Vertical-Gas-CorridorGreece-Upends-Turkeys-Energy-StrategyAKTOR-Takes-Strategic-Position-New-Energy-Map.htm"
     },
     {
-      "id": "https://norfolkdailynews.com/select/news/fischer-weighs-in-on-data-center-electricity-farm-bill-beef-imports/article_05f29009-45cb-479f-b81e-56a84fd0d309.html",
-      "title": "Fischer weighs in on data center electricity, farm bill, beef imports",
-      "source": "norfolkdailynews.com",
+      "id": "https://mtstandard.com/news/state-and-regional/article_643f96cd-8e83-5b5e-b4af-9e82aa62dc73.html",
+      "title": "Council further restricts data centers by closing 'loophole' in Missoula city code",
+      "source": "mtstandard.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:17:00Z",
-      "publishedAt": "2026-10-06T17:17:00Z",
+      "dateRaw": "2026-10-06T17:31:00Z",
+      "publishedAt": "2026-10-06T17:31:00Z",
       "summary": "",
-      "url": "https://norfolkdailynews.com/select/news/fischer-weighs-in-on-data-center-electricity-farm-bill-beef-imports/article_05f29009-45cb-479f-b81e-56a84fd0d309.html"
+      "url": "https://mtstandard.com/news/state-and-regional/article_643f96cd-8e83-5b5e-b4af-9e82aa62dc73.html"
     }
   ],
   "trendItems": [
@@ -308,18 +308,6 @@
       "url": "https://www.inewsgr.com/330/Vertical-Gas-CorridorGreece-Upends-Turkeys-Energy-StrategyAKTOR-Takes-Strategic-Position-New-Energy-Map.htm"
     },
     {
-      "id": "https://norfolkdailynews.com/select/news/fischer-weighs-in-on-data-center-electricity-farm-bill-beef-imports/article_05f29009-45cb-479f-b81e-56a84fd0d309.html",
-      "title": "Fischer weighs in on data center electricity, farm bill, beef imports",
-      "source": "norfolkdailynews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:17:00Z",
-      "publishedAt": "2026-10-06T17:17:00Z",
-      "summary": "",
-      "url": "https://norfolkdailynews.com/select/news/fischer-weighs-in-on-data-center-electricity-farm-bill-beef-imports/article_05f29009-45cb-479f-b81e-56a84fd0d309.html"
-    },
-    {
       "id": "https://www.euro-petrole.com/varopreem-marks-60-years-of-cressier-manufacturing-hub-at-the-heart-of-switzerland-s-energy-system-n-i-30742",
       "title": "VAROPreem marks 60 years of Cressier manufacturing hub at the heart of Switzerland’s energy system",
       "source": "euro-petrole.com",
@@ -330,6 +318,18 @@
       "publishedAt": "2026-10-06T17:02:00Z",
       "summary": "",
       "url": "https://www.euro-petrole.com/varopreem-marks-60-years-of-cressier-manufacturing-hub-at-the-heart-of-switzerland-s-energy-system-n-i-30742"
+    },
+    {
+      "id": "https://mtstandard.com/news/state-and-regional/article_643f96cd-8e83-5b5e-b4af-9e82aa62dc73.html",
+      "title": "Council further restricts data centers by closing 'loophole' in Missoula city code",
+      "source": "mtstandard.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T17:31:00Z",
+      "publishedAt": "2026-10-06T17:31:00Z",
+      "summary": "",
+      "url": "https://mtstandard.com/news/state-and-regional/article_643f96cd-8e83-5b5e-b4af-9e82aa62dc73.html"
     },
     {
       "id": "https://www.commondreams.org/tag/data-centers",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 286,
-    "fetchedItems": 6312,
-    "relevantItems": 47,
-    "feedBytes": 1778336,
+    "poolSize": 287,
+    "fetchedItems": 1087,
+    "relevantItems": 11,
+    "feedBytes": 300105,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
