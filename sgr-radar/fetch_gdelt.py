@@ -143,9 +143,12 @@ NOISE_PATTERNS = [
     r"produces song using instruments|meet .* humanoid robot working at .* repair shop",
     r"sexual battery|sodomy|pleads not guilty|anniversary concert|symphony|orchestra",
     r"wins funding to expand|named to .* next big things|fast company.*next big things",
-    r"^after the factory$|cloud symphony|st\. cloud",
+    r"^after the factory$|cloud symphony|st\. cloud|^ice chips:",
+    r"best business laptop|hybrid workday|best time to invest in fixed deposits|fixed deposits",
+    r"stocks? rise toward|stocks? poised|all-time high after oil prices|international asparagus summit",
+    r"how much does a .* battery storage system cost|capex, revenue and roi explained",
 ]
-PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/business-wire/", "/accesswire/", "/prwire/"]
+PRESS_PATHS = ["/press-release/", "/press-releases/", "/newswire/", "/globenewswire/", "/pr-newswire/", "/pr-news/", "/business-wire/", "/accesswire/", "/prwire/"]
 SPONSORED_PATHS = ["/co-written-partner/", "/sponsored/", "/sponsored-content/", "/partner-content/", "/paid-post/", "/brandvoice/", "/brand-voice/"]
 
 MANAGEMENT_SIGNAL_PATTERNS = [
@@ -342,6 +345,8 @@ def is_noise(item: dict) -> bool:
         return True
     if re.search(r"sponsored content|partner content|paid post|brand voice", title, re.I):
         return True
+    if any(x in url for x in ["/paid-content/", "/advertorial/", "/sponsored-article/"]):
+        return True
     if re.search(r"^\||^home$|^news$|^index$|letters to the editor|photo gallery|daily horoscope|lottery results|weather forecast|press release$|^eqs\s*-?\s*news\s*:", title, re.I):
         return True
     return False
@@ -430,6 +435,7 @@ def score_item(key: str, item: dict) -> int:
     if clean(item.get("source")).lower().removeprefix("www.") in STRONG_DOMAINS: score += 4
     if item.get("language") == "Korean": score += 1
     if key == "industry" and re.search(r"investment|invest|factory|plant|production|strategy|partnership|supply|infrastructure|launch|expansion|투자|공장|생산|전략|협력|공급|인프라|출시|확대", title, re.I): score += 3
+    if key == "industry" and re.search(r"staffing|employment|layoffs?|hybrid work", title, re.I): score -= 5
     if key == "management": score += management_signal(title) * 3 + management_broad_signal(title) * 2
     if key == "global" and global_signal(title): score += 4
     return score
