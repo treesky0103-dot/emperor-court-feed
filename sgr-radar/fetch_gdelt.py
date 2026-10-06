@@ -318,13 +318,13 @@ def industry_signal(title: str) -> int:
     strong = [
         r"\bartificial intelligence\b", r"\bai\b", r"semiconductor", r"\bchip(?:s)?\b",
         r"data cent(?:er|re)", r"datacenter", r"\bgpu(?:s)?\b", r"biotech", r"shipbuilding",
-        r"manufacturing", r"advanced manufacturing", r"quantum", r"power grid",
-        r"인공지능", r"반도체", r"\b칩\b", r"데이터센터", r"바이오", r"조선(?:업|소|산업|기업|수주|선박|해양|기자재)", r"제조", r"양자", r"전력망",
+        r"manufacturing", r"advanced manufacturing", r"power grid",
+        r"인공지능", r"반도체", r"\b칩\b", r"데이터센터", r"바이오", r"조선(?:업|소|산업|기업|수주|선박|해양|기자재)", r"제조", r"전력망",
     ]
     if any(re.search(p, t, re.I) for p in strong):
         return 2
     weak = [r"\brobot(?:s|ics)?\b", r"\bbattery\b", r"\benergy\b", r"\bfactory\b", r"\bcloud\b",
-            r"\belectricity\b", r"로봇", r"배터리", r"에너지", r"공장", r"클라우드", r"전력"]
+            r"\belectricity\b", r"\bquantum\b", r"로봇", r"배터리", r"에너지", r"공장", r"클라우드", r"전력", r"양자"]
     context = [r"investment", r"invest", r"market", r"industry", r"technology", r"infrastructure", r"plant",
                r"production", r"supply", r"strategy", r"storage", r"grid", r"capacity", r"startup", r"company",
                r"투자", r"시장", r"산업", r"기술", r"인프라", r"생산", r"공급", r"전략", r"저장", r"설비", r"기업"]
