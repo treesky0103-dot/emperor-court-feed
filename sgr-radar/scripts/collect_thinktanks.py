@@ -18,13 +18,15 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "sgr-radar" / "data" / "thinktanks"
 STATUS = OUT / "status.json"
 MAX_ITEMS = 10
+MGI_PROXY = "https://sgr-strategy-radar.memorywithu.workers.dev/api/mgi-official"
+MGI_OFFICIAL_BASE = "https://www.mckinsey.com/mgi/overview?content_language=English"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
 MONTH = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
 
 # id, display name, default kind, official source pages, official hosts
 CFG = [
 ("mgi","McKinsey Global Institute","연구",
- ["https://www.mckinsey.com/sitemap.xml","https://www.mckinsey.com/mgi/overview?no_head=1","https://www.mckinsey.com/mgi/our-research/all-research"],
+ ["https://www.mckinsey.com/sitemap.xml","https://www.mckinsey.com/mgi/overview?no_head=1","https://www.mckinsey.com/mgi/our-research/all-research",MGI_PROXY],
  ["mckinsey.com"]),
 ("bhi","BCG Henderson Institute","이슈",
  ["https://www.bcg.com/bcg-institute"],
@@ -339,7 +341,9 @@ def one(cfg):
     got=[];errors=[];winner=""
     for src in sources:
         try:
-            h=fetch(src); p=dedupe(parse_mgi_sitemap(h,cfg,src)+parse_feed_xml(h,cfg,src)+parse_jsonld(h,cfg,src)+parse_anchors(h,cfg,src))
+            h=fetch(src)
+            parse_src=MGI_OFFICIAL_BASE if iid=="mgi" and src==MGI_PROXY else src
+            p=dedupe(parse_mgi_sitemap(h,cfg,parse_src)+parse_feed_xml(h,cfg,parse_src)+parse_jsonld(h,cfg,parse_src)+parse_anchors(h,cfg,parse_src))
             if not p and iid in ("bruegel","cigi"):
                 try:
                     hb=fetch_browser(src)
@@ -347,7 +351,7 @@ def one(cfg):
                 except Exception:
                     pass
             if p:
-                winner=winner or src;got.extend(p)
+                winner=winner or (MGI_OFFICIAL_BASE if iid=="mgi" and src==MGI_PROXY else src);got.extend(p)
             if len(dedupe(got))>=MAX_ITEMS:break
         except Exception as e:errors.append(f"{src}: {e}")
     live=dedupe(got)
