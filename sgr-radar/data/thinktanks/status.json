@@ -6,32 +6,40 @@
   "paidApi": false,
   "searchApi": false,
   "aiTokens": false,
-  "mode": "primary",
+  "mode": "retry",
   "runDateKst": "2026-10-07",
-  "updatedAt": "2026-10-07T06:23:42.640927Z",
-  "updatedAtKorea": "2026. 10. 07. 15:23:42 KST",
+  "updatedAt": "2026-10-07T06:30:30.149410Z",
+  "updatedAtKorea": "2026. 10. 07. 15:30:30 KST",
   "count": 15,
-  "successCount": 10,
+  "successCount": 12,
+  "freshSuccessCount": 12,
+  "staleCount": 0,
   "institutions": [
     {
       "id": "mgi",
       "institution": "McKinsey Global Institute",
       "ok": false,
+      "fetchOk": false,
+      "hasData": false,
+      "stale": false,
       "itemCount": 0,
       "fetchedAt": "",
       "sourceUrl": "https://www.mckinsey.com/mgi/overview?no_head=1",
-      "lastAttemptAt": "2026-10-07T06:22:00.383743Z",
-      "error": "https://www.mckinsey.com/mgi/overview?no_head=1: curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received | https://www.mckinsey.com/mgi/: curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received | https://www.mckinsey.com/mgi/overview?content_language=English: curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received"
+      "lastAttemptAt": "2026-10-07T06:28:18.774266Z",
+      "error": "https://www.mckinsey.com/mgi/overview?no_head=1: [2321:2348:1007/062853.256502:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2348:1007/062853.293475:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2348:1007/062854.325013:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2348:1007/062855.431237:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2321:1007/062859.850800:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2321:1007/062859.850855:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2348:1007/062859.850971:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2348:1007/062859.850990:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2321:1007/062859.920952:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2321:1007/062859.988673:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2348:1007/062900.009632:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2321:1007/062900.593121:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2321:1007/062900.626323:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2348:1007/062900.626428:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2321:1007/062900.719460:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2321:1007/062901.009977:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files\n[2321:2321:1007/062901.010377:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2348:1007/062901.010438:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2321:1007/062901.089021:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2348:1007/062901.089128:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2321:2321:1007/062901.150682:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2321:2321:1007/062904.048268:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_HTTP2_PROTOCOL_ERROR | https://www.mckinsey.com/mgi/: [2554:2576:1007/062929.713497:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2576:1007/062929.714611:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2576:1007/062929.722844:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2576:1007/062929.758953:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2554:1007/062929.830233:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2554:1007/062929.830312:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2576:1007/062929.830314:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2576:1007/062929.830351:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2554:1007/062929.830916:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2554:1007/062929.833660:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2576:1007/062929.834628:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2554:1007/062929.859832:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2554:1007/062929.860846:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2576:1007/062929.861506:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2554:1007/062929.866015:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2554:1007/062929.904380:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files\n[2554:2554:1007/062929.904447:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2576:1007/062929.905864:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2554:1007/062929.931747:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2576:1007/062929.931881:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2554:2554:1007/062929.951194:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2554:2554:1007/062930.281946:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_HTTP2_PROTOCOL_ERROR | https://www.mckinsey.com/mgi/overview?content_language=English: [2752:2773:1007/062955.506279:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2773:1007/062955.506811:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2773:1007/062955.513914:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2773:1007/062955.552105:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2752:1007/062955.620336:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2752:1007/062955.620397:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2773:1007/062955.620496:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2773:1007/062955.620539:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2752:1007/062955.620550:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2752:1007/062955.623680:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2773:1007/062955.623931:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2752:1007/062955.646981:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2752:1007/062955.647266:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2773:1007/062955.647834:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2752:1007/062955.652832:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2752:1007/062955.676018:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2752:1007/062955.676071:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files\n[2752:2773:1007/062955.680280:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2752:1007/062955.685415:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2773:1007/062955.685573:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[2752:2752:1007/062955.693707:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[2752:2752:1007/062956.009410:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_HTTP2_PROTOCOL_ERROR"
     },
     {
       "id": "bhi",
       "institution": "BCG Henderson Institute",
-      "ok": false,
+      "ok": true,
+      "fetchOk": true,
+      "hasData": true,
+      "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-07T05:17:12.025423Z",
+      "fetchedAt": "2026-10-07T06:30:01.830084Z",
       "sourceUrl": "https://www.bcg.com/bcg-institute",
-      "lastAttemptAt": "2026-10-07T06:23:16.391469Z",
-      "error": "https://www.bcg.com/bcg-institute: curl: (22) The requested URL returned error: 403"
+      "lastAttemptAt": "2026-10-07T06:29:56.894961Z",
+      "error": ""
     },
     {
       "id": "nri",
@@ -97,11 +105,14 @@
       "id": "bruegel",
       "institution": "Bruegel",
       "ok": false,
+      "fetchOk": false,
+      "hasData": false,
+      "stale": false,
       "itemCount": 0,
       "fetchedAt": "",
       "sourceUrl": "https://www.bruegel.org/publications?page=0",
-      "lastAttemptAt": "2026-10-07T06:23:26.143372Z",
-      "error": "https://www.bruegel.org/publications?page=0: curl: (22) The requested URL returned error: 403 | https://www.bruegel.org/publications: curl: (22) The requested URL returned error: 403 | https://www.bruegel.org/search?keyword=&page=0: curl: (22) The requested URL returned error: 403"
+      "lastAttemptAt": "2026-10-07T06:30:02.630923Z",
+      "error": "official parser returned no dated items"
     },
     {
       "id": "cfr",
@@ -136,12 +147,15 @@
     {
       "id": "fgv",
       "institution": "Fundação Getulio Vargas",
-      "ok": false,
-      "itemCount": 0,
-      "fetchedAt": "",
+      "ok": true,
+      "fetchOk": true,
+      "hasData": true,
+      "stale": false,
+      "itemCount": 10,
+      "fetchedAt": "2026-10-07T06:30:19.403594Z",
       "sourceUrl": "https://portal.fgv.br/en/news",
-      "lastAttemptAt": "2026-10-07T06:23:31.768355Z",
-      "error": "official parser returned no dated items"
+      "lastAttemptAt": "2026-10-07T06:30:14.864023Z",
+      "error": ""
     },
     {
       "id": "iss",
@@ -157,11 +171,14 @@
       "id": "cigi",
       "institution": "Centre for International Governance Innovation",
       "ok": false,
+      "fetchOk": false,
+      "hasData": false,
+      "stale": false,
       "itemCount": 0,
       "fetchedAt": "",
       "sourceUrl": "https://portal.cigionline.org/research/",
-      "lastAttemptAt": "2026-10-07T06:23:41.616850Z",
-      "error": "https://www.cigionline.org/publications/cigi-papers/: curl: (22) The requested URL returned error: 403"
+      "lastAttemptAt": "2026-10-07T06:30:20.204057Z",
+      "error": "official parser returned no dated items"
     }
   ]
 }
