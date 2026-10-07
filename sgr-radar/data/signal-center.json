@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 12:04:51",
+  "updatedAt": "2026. 10. 08. 오전 12:39:22",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -98,18 +98,6 @@
           "url": "https://www.etoday.co.kr/news/view/2633509"
         },
         {
-          "id": "https://www.seoul.co.kr/news/politics/2026/10/07/20261007500079",
-          "title": "[단독] 주춤한 청년 주거 지원…서울 청년안심주택 이어 매입임대 공급 뚝",
-          "source": "seoul.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:47:00Z",
-          "publishedAt": "2026-10-07T06:47:00Z",
-          "summary": "",
-          "url": "https://www.seoul.co.kr/news/politics/2026/10/07/20261007500079"
-        },
-        {
           "id": "https://womannews.net/detail.php?number=456743&thread=22r12r01%20style=",
           "title": "국무조정실, ‘2026 청년정책 공모전’ 개최…30일까지 청년 제안 접수",
           "source": "womannews.net",
@@ -132,20 +120,28 @@
           "publishedAt": "2026-10-07T10:46:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273500&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
+          "id": "https://cunews.net/detail.php?number=172888&thread=22r12r03%20style=",
+          "title": "박찬대 인천시장, 민선9기 100일 맞아 민생현장 점검…시장·산업·안전·의료 현장 방문 : 연합시민의소리",
+          "source": "cunews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T09:16:00Z",
+          "publishedAt": "2026-10-07T09:16:00Z",
+          "summary": "",
+          "url": "https://cunews.net/detail.php?number=172888&thread=22r12r03%20style="
         }
       ],
       "keywords": [
         {
           "word": "청년",
-          "count": 8
+          "count": 6
         },
         {
           "word": "교육",
           "count": 3
-        },
-        {
-          "word": "주거",
-          "count": 2
         },
         {
           "word": "고령화",
@@ -153,6 +149,10 @@
         },
         {
           "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "주거",
           "count": 1
         }
       ],
@@ -346,18 +346,28 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261007000426",
-          "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
+          "id": "https://www.etnews.com/20261007000188",
+          "title": "[人사이트] 장기벽 타임퍼센트 대표 “개인에게 불리한 투자시장 AI 퀀트로 극복”",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:19:48Z",
-          "publishedAt": "2026-10-07T07:19:48Z",
+          "dateRaw": "2026-10-07T10:32:00Z",
+          "publishedAt": "2026-10-07T10:32:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261007000426",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "https://www.etnews.com/20261007000188"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257",
+          "title": "“원하는 곳에 반도체 하나만 키운다”…고집적 AI칩 새 기술 나왔다",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:32:00Z",
+          "publishedAt": "2026-10-07T15:32:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257"
         },
         {
           "id": "https://www.newspim.com/news/view/20261007001644",
@@ -394,18 +404,6 @@
           "publishedAt": "2026-10-07T09:32:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2012864"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=05070886645610624&mediaCodeNo=257",
-          "title": "핀란드, 구글 데이터센터 공사 중단 명령…\"환경영향평가 없었다\"",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T09:17:00Z",
-          "publishedAt": "2026-10-07T09:17:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05070886645610624&mediaCodeNo=257"
         },
         {
           "id": "https://www.fnnews.com/news/202610071626430211",
@@ -451,15 +449,11 @@
         },
         {
           "word": "반도체",
-          "count": 7
+          "count": 8
         },
         {
           "word": "GPU",
           "count": 2
-        },
-        {
-          "word": "데이터센터",
-          "count": 1
         },
         {
           "word": "로봇",
@@ -474,18 +468,6 @@
   "global": {
     "humanities": {
       "items": [
-        {
-          "id": "https://itwire.com/business-it-news/hardware-and-storage/public-relations-bodies-unite-globally-to-launch-first-ever-worldwide-survey-of-the-profession-s-mental-health-and-wellbeing",
-          "title": "Public relations bodies unite globally to launch first-ever worldwide survey of the profession’s mental health and wellbeing | iTWire",
-          "source": "itwire.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:46:00Z",
-          "publishedAt": "2026-10-07T06:46:00Z",
-          "summary": "",
-          "url": "https://itwire.com/business-it-news/hardware-and-storage/public-relations-bodies-unite-globally-to-launch-first-ever-worldwide-survey-of-the-profession-s-mental-health-and-wellbeing"
-        },
         {
           "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/07/ai-agents-heading-for-a-cloud-migration-moment/",
           "title": "AI Agents Heading For A Cloud Migration Moment",
@@ -547,6 +529,18 @@
           "url": "https://www.live95fm.ie/news/live95-news/southill-hub-secures-funding-for-youth-nutrition-and-mental-health-programme/"
         },
         {
+          "id": "https://www.waff.com/2026/10/07/colbert-heights-principal-arrested/",
+          "title": "Colbert Heights High School Principal charged with failure to report a crime",
+          "source": "waff.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:32:00Z",
+          "publishedAt": "2026-10-07T15:32:00Z",
+          "summary": "",
+          "url": "https://www.waff.com/2026/10/07/colbert-heights-principal-arrested/"
+        },
+        {
           "id": "https://www.vtcng.com/shelburnenews/state_and_world/health_news/survey-more-parents-are-seeking-professional-mental-health-support-for-their-students/article_540d8818-374f-56b4-af20-1ccb6f20e3f7.html",
           "title": "Survey: More parents are seeking professional mental health support for their students",
           "source": "vtcng.com",
@@ -597,12 +591,12 @@
       ],
       "keywords": [
         {
-          "word": "정신건강",
-          "count": 5
+          "word": "교육",
+          "count": 4
         },
         {
-          "word": "교육",
-          "count": 3
+          "word": "정신건강",
+          "count": 4
         },
         {
           "word": "이민",
@@ -837,6 +831,30 @@
           "url": "https://balticbusinessnews.com/aimotion-and-google-cloud-collaborate-to-scale-ai-driven-automotive-marketing-globally/"
         },
         {
+          "id": "https://www.networkworld.com/article/4231781/amd-to-ramp-cpu-gpu-supply-in-2027-as-ai-demand-surges.html",
+          "title": "AMD to ramp up CPU, GPU supply in 2027 as AI demand surges",
+          "source": "networkworld.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:32:00Z",
+          "publishedAt": "2026-10-07T15:32:00Z",
+          "summary": "",
+          "url": "https://www.networkworld.com/article/4231781/amd-to-ramp-cpu-gpu-supply-in-2027-as-ai-demand-surges.html"
+        },
+        {
+          "id": "https://www.renewableenergymagazine.com/storage/rimac-technology-and-ecoblox-partner-to-bring-20261007",
+          "title": "Rimac Technology and Ecoblox partner to bring Rimac battery and power electronics technology to AI data centres",
+          "source": "renewableenergymagazine.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:32:00Z",
+          "publishedAt": "2026-10-07T15:32:00Z",
+          "summary": "",
+          "url": "https://www.renewableenergymagazine.com/storage/rimac-technology-and-ecoblox-partner-to-bring-20261007"
+        },
+        {
           "id": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/07/tech-companies-tap-debt-equity-to-fund-ai-and-cloud-expansion/",
           "title": "Tech companies tap debt, equity to fund AI and cloud expansion",
           "source": "bnnbloomberg.ca",
@@ -871,36 +889,12 @@
           "publishedAt": "2026-10-07T14:32:00Z",
           "summary": "",
           "url": "https://www.jawapos.com/oto-dan-tekno/2610070368/google-gandeng-constellation-energy-untuk-tambah-pasokan-nuklir-bagi-data-center-ai"
-        },
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69778763-behavox-signs-dollar-8-million-gpu-commitment-with-civo-for-sovereign-uk-ai-processing-004.htm",
-          "title": "Behavox Signs $8 Million GPU Commitment With Civo for Sovereign UK AI Processing",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:32:00Z",
-          "publishedAt": "2026-10-07T14:32:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69778763-behavox-signs-dollar-8-million-gpu-commitment-with-civo-for-sovereign-uk-ai-processing-004.htm"
-        },
-        {
-          "id": "https://www.thehindu.com/news/national/andhra-pradesh/finolex-cables-limited-sees-huge-opportunity-in-emerging-data-centre-hub-in-vizag/article71555208.ece",
-          "title": "Finolex Cables Limited sees huge opportunity in emerging data centre hub in Vizag",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:17:00Z",
-          "publishedAt": "2026-10-07T14:17:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/finolex-cables-limited-sees-huge-opportunity-in-emerging-data-centre-hub-in-vizag/article71555208.ece"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 9
         },
         {
           "word": "GPU",
@@ -915,6 +909,10 @@
           "count": 2
         },
         {
+          "word": "배터리",
+          "count": 1
+        },
+        {
           "word": "양자",
           "count": 1
         }
@@ -927,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 1874,
-    "feedBytes": 533318,
+    "fetchedItems": 6584,
+    "feedBytes": 1856550,
     "rollingWindowHours": 72
   }
 }
