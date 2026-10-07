@@ -8,8 +8,8 @@
   "aiTokens": false,
   "mode": "primary",
   "runDateKst": "2026-10-07",
-  "updatedAt": "2026-10-07T05:17:49.388971Z",
-  "updatedAtKorea": "2026. 10. 07. 14:17:49 KST",
+  "updatedAt": "2026-10-07T06:23:42.640927Z",
+  "updatedAtKorea": "2026. 10. 07. 15:23:42 KST",
   "count": 15,
   "successCount": 10,
   "institutions": [
@@ -19,28 +19,28 @@
       "ok": false,
       "itemCount": 0,
       "fetchedAt": "",
-      "sourceUrl": "https://www.mckinsey.com/mgi/overview?content_language=English",
-      "lastAttemptAt": "2026-10-07T05:17:08.462475Z",
-      "error": "https://www.mckinsey.com/mgi/overview?content_language=English: HTTP Error 403: Forbidden"
+      "sourceUrl": "https://www.mckinsey.com/mgi/overview?no_head=1",
+      "lastAttemptAt": "2026-10-07T06:22:00.383743Z",
+      "error": "https://www.mckinsey.com/mgi/overview?no_head=1: curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received | https://www.mckinsey.com/mgi/: curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received | https://www.mckinsey.com/mgi/overview?content_language=English: curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received"
     },
     {
       "id": "bhi",
       "institution": "BCG Henderson Institute",
-      "ok": true,
+      "ok": false,
       "itemCount": 10,
       "fetchedAt": "2026-10-07T05:17:12.025423Z",
       "sourceUrl": "https://www.bcg.com/bcg-institute",
-      "lastAttemptAt": "2026-10-07T05:17:11.626867Z",
-      "error": ""
+      "lastAttemptAt": "2026-10-07T06:23:16.391469Z",
+      "error": "https://www.bcg.com/bcg-institute: curl: (22) The requested URL returned error: 403"
     },
     {
       "id": "nri",
       "institution": "Nomura Research Institute",
       "ok": true,
       "itemCount": 10,
-      "fetchedAt": "2026-10-07T05:17:13.082418Z",
+      "fetchedAt": "2026-10-07T06:23:17.511452Z",
       "sourceUrl": "https://www.nri.com/en/knowledge",
-      "lastAttemptAt": "2026-10-07T05:17:12.826067Z",
+      "lastAttemptAt": "2026-10-07T06:23:17.374351Z",
       "error": ""
     },
     {
@@ -48,9 +48,9 @@
       "institution": "Center for Strategic and International Studies",
       "ok": true,
       "itemCount": 6,
-      "fetchedAt": "2026-10-07T05:17:14.299373Z",
+      "fetchedAt": "2026-10-07T06:23:18.635708Z",
       "sourceUrl": "https://www.csis.org/analysis",
-      "lastAttemptAt": "2026-10-07T05:17:13.882883Z",
+      "lastAttemptAt": "2026-10-07T06:23:18.312232Z",
       "error": ""
     },
     {
@@ -58,9 +58,9 @@
       "institution": "RAND Corporation",
       "ok": true,
       "itemCount": 4,
-      "fetchedAt": "2026-10-07T05:17:15.330038Z",
+      "fetchedAt": "2026-10-07T06:23:19.725395Z",
       "sourceUrl": "https://www.rand.org/pubs.html",
-      "lastAttemptAt": "2026-10-07T05:17:15.099787Z",
+      "lastAttemptAt": "2026-10-07T06:23:19.436385Z",
       "error": ""
     },
     {
@@ -68,9 +68,9 @@
       "institution": "Development Research Center of the State Council",
       "ok": true,
       "itemCount": 9,
-      "fetchedAt": "2026-10-07T05:17:20.078281Z",
+      "fetchedAt": "2026-10-07T06:23:22.262152Z",
       "sourceUrl": "https://en.drc.gov.cn/",
-      "lastAttemptAt": "2026-10-07T05:17:16.130400Z",
+      "lastAttemptAt": "2026-10-07T06:23:20.526068Z",
       "error": ""
     },
     {
@@ -78,20 +78,20 @@
       "institution": "Mitsubishi Research Institute",
       "ok": true,
       "itemCount": 10,
-      "fetchedAt": "2026-10-07T05:17:22.784535Z",
+      "fetchedAt": "2026-10-07T06:23:24.385926Z",
       "sourceUrl": "https://ir.mri.co.jp/ja/news.html",
-      "lastAttemptAt": "2026-10-07T05:17:20.878739Z",
+      "lastAttemptAt": "2026-10-07T06:23:23.062794Z",
       "error": ""
     },
     {
       "id": "chatham",
       "institution": "Chatham House",
-      "ok": false,
-      "itemCount": 0,
-      "fetchedAt": "",
-      "sourceUrl": "https://www.chathamhouse.org/publications/research-publications",
-      "lastAttemptAt": "2026-10-07T05:17:23.584988Z",
-      "error": "https://www.chathamhouse.org/publications/research-publications: HTTP Error 403: Forbidden"
+      "ok": true,
+      "itemCount": 10,
+      "fetchedAt": "2026-10-07T06:23:25.342867Z",
+      "sourceUrl": "https://www.chathamhouse.org/path/whatsnew.xml",
+      "lastAttemptAt": "2026-10-07T06:23:25.186683Z",
+      "error": ""
     },
     {
       "id": "bruegel",
@@ -99,18 +99,18 @@
       "ok": false,
       "itemCount": 0,
       "fetchedAt": "",
-      "sourceUrl": "https://www.bruegel.org/publications",
-      "lastAttemptAt": "2026-10-07T05:17:26.737354Z",
-      "error": "https://www.bruegel.org/publications: HTTP Error 403: Forbidden | https://www.bruegel.org/search?keyword=&page=0: HTTP Error 403: Forbidden"
+      "sourceUrl": "https://www.bruegel.org/publications?page=0",
+      "lastAttemptAt": "2026-10-07T06:23:26.143372Z",
+      "error": "https://www.bruegel.org/publications?page=0: curl: (22) The requested URL returned error: 403 | https://www.bruegel.org/publications: curl: (22) The requested URL returned error: 403 | https://www.bruegel.org/search?keyword=&page=0: curl: (22) The requested URL returned error: 403"
     },
     {
       "id": "cfr",
       "institution": "Council on Foreign Relations",
       "ok": true,
       "itemCount": 10,
-      "fetchedAt": "2026-10-07T05:17:32.599287Z",
+      "fetchedAt": "2026-10-07T06:23:28.014002Z",
       "sourceUrl": "https://www.cfr.org/latest",
-      "lastAttemptAt": "2026-10-07T05:17:32.010926Z",
+      "lastAttemptAt": "2026-10-07T06:23:27.372517Z",
       "error": ""
     },
     {
@@ -118,9 +118,9 @@
       "institution": "Observer Research Foundation",
       "ok": true,
       "itemCount": 10,
-      "fetchedAt": "2026-10-07T05:17:33.930003Z",
+      "fetchedAt": "2026-10-07T06:23:29.348738Z",
       "sourceUrl": "https://www.orfonline.org/all-updates",
-      "lastAttemptAt": "2026-10-07T05:17:33.399734Z",
+      "lastAttemptAt": "2026-10-07T06:23:28.814833Z",
       "error": ""
     },
     {
@@ -128,9 +128,9 @@
       "institution": "Lowy Institute",
       "ok": true,
       "itemCount": 10,
-      "fetchedAt": "2026-10-07T05:17:35.878362Z",
+      "fetchedAt": "2026-10-07T06:23:30.967561Z",
       "sourceUrl": "https://www.lowyinstitute.org/",
-      "lastAttemptAt": "2026-10-07T05:17:34.730465Z",
+      "lastAttemptAt": "2026-10-07T06:23:30.149541Z",
       "error": ""
     },
     {
@@ -140,17 +140,17 @@
       "itemCount": 0,
       "fetchedAt": "",
       "sourceUrl": "https://portal.fgv.br/en/news",
-      "lastAttemptAt": "2026-10-07T05:17:36.678816Z",
-      "error": "https://portal.fgv.br/en/news: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)> | https://portal.fgv.br/en: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)>"
+      "lastAttemptAt": "2026-10-07T06:23:31.768355Z",
+      "error": "official parser returned no dated items"
     },
     {
       "id": "iss",
       "institution": "Institute for Security Studies",
       "ok": true,
       "itemCount": 7,
-      "fetchedAt": "2026-10-07T05:17:46.039999Z",
+      "fetchedAt": "2026-10-07T06:23:40.816257Z",
       "sourceUrl": "https://issafrica.org/iss-today",
-      "lastAttemptAt": "2026-10-07T05:17:45.257482Z",
+      "lastAttemptAt": "2026-10-07T06:23:40.083085Z",
       "error": ""
     },
     {
@@ -159,9 +159,9 @@
       "ok": false,
       "itemCount": 0,
       "fetchedAt": "",
-      "sourceUrl": "https://www.cigionline.org/publications/",
-      "lastAttemptAt": "2026-10-07T05:17:46.840424Z",
-      "error": "https://www.cigionline.org/publications/cigi-papers/: HTTP Error 403: Forbidden"
+      "sourceUrl": "https://portal.cigionline.org/research/",
+      "lastAttemptAt": "2026-10-07T06:23:41.616850Z",
+      "error": "https://www.cigionline.org/publications/cigi-papers/: curl: (22) The requested URL returned error: 403"
     }
   ]
 }
