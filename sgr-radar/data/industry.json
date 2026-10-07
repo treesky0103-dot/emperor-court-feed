@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 09:00:52",
+  "updatedAt": "2026. 10. 07. 오후 09:33:58",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 664,
-    "deduped": 664,
-    "eventDeduped": 664,
+    "passed": 670,
+    "deduped": 670,
+    "eventDeduped": 670,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -620,6 +620,18 @@
       "url": "https://www.newspim.com/news/view/20261007000835"
     },
     {
+      "id": "https://www.fleetpoint.org/electric-vehicles-2/charging/solar-power/calisen-targets-electric-van-downtime-with-solar-battery-technology/",
+      "title": "Calisen targets electric van downtime with solar battery technology - FleetPoint",
+      "source": "fleetpoint.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T12:16:00Z",
+      "publishedAt": "2026-10-07T12:16:00Z",
+      "summary": "",
+      "url": "https://www.fleetpoint.org/electric-vehicles-2/charging/solar-power/calisen-targets-electric-van-downtime-with-solar-battery-technology/"
+    },
+    {
       "id": "https://www.kcra.com/article/trump-administration-shipbuilding-economy/74062803",
       "title": "What the Trump administration's shipbuilding initiative means for the economy",
       "source": "kcra.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-07T10:32:00Z",
       "summary": "",
       "url": "https://www.channelnewsasia.com/singapore/data-centre-regulations-digital-infrastructure-bill-6438941"
-    },
-    {
-      "id": "https://www.quintenews.com/2026/10/07/strong-mayor-powers/",
-      "title": "Strong Mayor powers on the table on data centres",
-      "source": "quintenews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T10:17:00Z",
-      "publishedAt": "2026-10-07T10:17:00Z",
-      "summary": "",
-      "url": "https://www.quintenews.com/2026/10/07/strong-mayor-powers/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6701,
-    "relevantItems": 109,
-    "feedBytes": 1915611,
+    "fetchedItems": 6762,
+    "relevantItems": 126,
+    "feedBytes": 1935229,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
