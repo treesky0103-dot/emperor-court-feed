@@ -6,7 +6,7 @@ No paid API, search API, LLM API, API key, or user-managed token.
 Runs in GitHub Actions and preserves each institution's last-good JSON on failure.
 """
 from __future__ import annotations
-import argparse, json, re, time, subprocess
+import argparse, json, re, time, subprocess, shutil
 from datetime import datetime, timedelta, timezone
 from html import unescape
 from pathlib import Path
@@ -116,6 +116,13 @@ def getdate(s):
             if x:return x
     return ""
 
+def getdate_dmy(s):
+    s=clean(s)
+    if not s:return ""
+    m=re.search(r"\b(\d{1,2})/(\d{1,2})/(20\d{2})\b",s)
+    if m:return mkdate(m.group(3),m.group(2),m.group(1))
+    return ""
+
 def date_url(url):
     p=urlparse(url).path
     for pat in (r"/(20\d{2})/(\d{1,2})/(\d{1,2})(?:/|$)",r"/(20\d{2})(\d{2})(\d{2})(?:/|[-_.])"):
@@ -222,7 +229,8 @@ def parse_anchors(html,cfg,src):
         near=html[lo:hi].replace(m.group(0),f" {title} ",1)
         # Other links are removed so their dates cannot contaminate this item.
         near=re.sub(r'<a\b[^>]*>[\s\S]*?</a>',' ',near,flags=re.I)
-        date=getdate(textify(near)) or date_url(url)
+        near_text=textify(near)
+        date=(getdate_dmy(near_text) if iid=="fgv" else "") or getdate(near_text) or date_url(url)
         if not good(title,url,date,sources,hosts):continue
         p=re.search(r'<p\b[^>]*>([\s\S]*?)</p>',near,re.I)
         note=textify(p.group(1))[:260] if p else ""
@@ -240,6 +248,22 @@ def dedupe(xs):
         seen_u.add(uk);seen_t.add(tk);out.append(x)
     out.sort(key=lambda x:(clean(x.get("date")),-int(x.get("order") or 0)),reverse=True)
     return out
+
+def fetch_browser(url):
+    exe=shutil.which("google-chrome") or shutil.which("google-chrome-stable") or shutil.which("chromium") or shutil.which("chromium-browser")
+    if not exe:raise RuntimeError("headless Chrome not available on runner")
+    try:
+        p=subprocess.run(
+            [exe,"--headless=new","--no-sandbox","--disable-gpu","--disable-dev-shm-usage",
+             "--disable-background-networking","--dump-dom",url],
+            stdout=subprocess.PIPE,stderr=subprocess.PIPE,check=False,timeout=28
+        )
+    except subprocess.TimeoutExpired:
+        raise RuntimeError("headless Chrome timed out")
+    if p.returncode==0 and len(p.stdout)>=200:
+        return p.stdout.decode("utf-8",errors="replace")
+    err=p.stderr.decode("utf-8",errors="replace").strip()
+    raise RuntimeError(err or f"headless Chrome exit {p.returncode}")
 
 def fetch(url):
     err=None
@@ -268,6 +292,10 @@ def fetch(url):
         if cerr: err=RuntimeError(cerr)
     except Exception as e:
         err=e
+    try:
+        return fetch_browser(url)
+    except Exception as e:
+        err=e
     raise RuntimeError(str(err))
 
 def load(path):
@@ -289,6 +317,12 @@ def one(cfg):
     for src in sources:
         try:
             h=fetch(src); p=dedupe(parse_feed_xml(h,cfg,src)+parse_jsonld(h,cfg,src)+parse_anchors(h,cfg,src))
+            if not p and iid in ("mgi","bruegel","cigi"):
+                try:
+                    hb=fetch_browser(src)
+                    p=dedupe(parse_feed_xml(hb,cfg,src)+parse_jsonld(hb,cfg,src)+parse_anchors(hb,cfg,src))
+                except Exception:
+                    pass
             if p:
                 winner=winner or src;got.extend(p)
             if len(dedupe(got))>=MAX_ITEMS:break
@@ -307,7 +341,7 @@ def targets(mode,prev):
     if mode!="retry":return CFG[:]
     today=datetime.now(KST).strftime("%Y-%m-%d")
     if not prev or prev.get("runDateKst")!=today:return CFG[:]
-    bad={x.get("id") for x in prev.get("institutions",[]) if not x.get("ok")}
+    bad={x.get("id") for x in prev.get("institutions",[]) if not x.get("fetchOk",x.get("ok"))}
     return [x for x in CFG if x[0] in bad]
 
 def main():
@@ -321,7 +355,10 @@ def main():
         iid,name,default,sources,hosts=cfg;started=datetime.now(timezone.utc)
         try:ok,payload,error=one(cfg)
         except Exception as e:ok,payload,error=False,load(OUT/f"{iid}.json"),str(e)
-        rows[iid]={"id":iid,"institution":name,"ok":bool(ok),"itemCount":len((payload or {}).get("items",[])) if isinstance(payload,dict) else 0,
+        item_count=len((payload or {}).get("items",[])) if isinstance(payload,dict) else 0
+        has_data=item_count>0
+        rows[iid]={"id":iid,"institution":name,"ok":bool(ok or has_data),"fetchOk":bool(ok),"hasData":has_data,
+                   "stale":bool((not ok) and has_data),"itemCount":item_count,
                    "fetchedAt":(payload or {}).get("fetchedAt","") if isinstance(payload,dict) else "",
                    "sourceUrl":(payload or {}).get("sourceUrl",sources[0]) if isinstance(payload,dict) else sources[0],
                    "lastAttemptAt":started.isoformat().replace("+00:00","Z"),"error":error}
@@ -332,7 +369,9 @@ def main():
     st={"ok":all(bool(x.get("ok")) for x in ordered),"version":"1.0.0","provider":"OFFICIAL-WEB-GITHUB-ACTIONS","officialOnly":True,
         "paidApi":False,"searchApi":False,"aiTokens":False,"mode":a.mode,"runDateKst":now.astimezone(KST).strftime("%Y-%m-%d"),
         "updatedAt":now.isoformat().replace("+00:00","Z"),"updatedAtKorea":now.astimezone(KST).strftime("%Y. %m. %d. %H:%M:%S KST"),
-        "count":15,"successCount":sum(1 for x in ordered if x.get("ok")),"institutions":ordered}
+        "count":15,"successCount":sum(1 for x in ordered if x.get("ok")),
+        "freshSuccessCount":sum(1 for x in ordered if x.get("fetchOk",x.get("ok"))),
+        "staleCount":sum(1 for x in ordered if x.get("stale")),"institutions":ordered}
     save(STATUS,st);print(f"[AUTO15] complete success={st['successCount']}/15")
     return 0
 
