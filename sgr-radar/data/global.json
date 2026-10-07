@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 05:29:18",
+  "updatedAt": "2026. 10. 07. 오후 05:50:45",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 119,
-    "deduped": 119,
-    "eventDeduped": 119,
+    "passed": 117,
+    "deduped": 117,
+    "eventDeduped": 117,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -488,6 +488,18 @@
       "url": "https://www.hellenicshippingnews.com/eu-steel-prices-to-rise-as-cbam-cost-could-reach-e5b-y-says-trasteel-ceo/"
     },
     {
+      "id": "https://www.tomsguide.com/phones/iphones/thats-my-dealbreaker-toms-guide-readers-sound-off-on-iphone-duo-trade-offs-and-if-theyll-buy",
+      "title": "'That’s my dealbreaker': Tom's Guide readers sound off on iPhone Duo trade-offs — and if they'll buy",
+      "source": "tomsguide.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T08:47:00Z",
+      "publishedAt": "2026-10-07T08:47:00Z",
+      "summary": "",
+      "url": "https://www.tomsguide.com/phones/iphones/thats-my-dealbreaker-toms-guide-readers-sound-off-on-iphone-duo-trade-offs-and-if-theyll-buy"
+    },
+    {
       "id": "https://www.rte.ie/news/business/2026/1007/1594341-france-does-not-need-ecb-help-at-present-bank-of-france/",
       "title": "France does not need ECB help at present - Bank of France",
       "source": "rte.ie",
@@ -656,16 +668,16 @@
       "url": "https://newsway.co.kr/news/view?ud=2026100707420244893"
     },
     {
-      "id": "http://www.arabherald.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program",
+      "id": "http://www.sandiegosun.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program",
       "title": "izmo Microsystems and IIT Madras Enter Phase II of 99.94 Crore MeitY-Sanctioned Silicon Photonics Program",
-      "source": "arabherald.com",
+      "source": "sandiegosun.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T08:17:00Z",
-      "publishedAt": "2026-10-07T08:17:00Z",
+      "dateRaw": "2026-10-07T08:46:00Z",
+      "publishedAt": "2026-10-07T08:46:00Z",
       "summary": "",
-      "url": "http://www.arabherald.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program"
+      "url": "http://www.sandiegosun.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program"
     },
     {
       "id": "https://www.akp.gov.kh/post/detail/383204",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-07T07:46:00Z",
       "summary": "",
       "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-spice-traders-seek-tariff-exemptions-for-indian-spices-under-potential-trade-deal/articleshow/134759493.cms"
-    },
-    {
-      "id": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs",
-      "title": "Before the Midterms: What Americans Think About Trade and Tariffs | Council on Foreign Relations",
-      "source": "cfr.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T00:17:00Z",
-      "publishedAt": "2026-10-07T00:17:00Z",
-      "summary": "",
-      "url": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5805,
-    "relevantItems": 106,
-    "feedBytes": 1662453,
+    "fetchedItems": 6031,
+    "relevantItems": 120,
+    "feedBytes": 1704889,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

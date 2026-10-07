@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 05:29:24",
+  "updatedAt": "2026. 10. 07. 오후 05:50:51",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,6 +48,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261007100139"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=04883926645610624&mediaCodeNo=257",
+          "title": "“전담인력 배치 끝났다”던 통합돌봄…3곳 중 2곳 현장엔 ‘0명’",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T08:47:00Z",
+          "publishedAt": "2026-10-07T08:47:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04883926645610624&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/society/health/1281355.html",
           "title": "월급 줄 돈도 없어…빚으로 버티는 지방의료원",
           "source": "hani.co.kr",
@@ -70,18 +82,6 @@
           "publishedAt": "2026-10-07T07:47:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2633509"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=04696966645610624&mediaCodeNo=257",
-          "title": "[포토] 강남구, 공동주책 동별대표자 교육",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:47:00Z",
-          "publishedAt": "2026-10-07T07:47:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04696966645610624&mediaCodeNo=257"
         },
         {
           "id": "https://www.seoul.co.kr/news/politics/2026/10/07/20261007500079",
@@ -138,16 +138,20 @@
           "count": 7
         },
         {
-          "word": "교육",
-          "count": 3
+          "word": "고령화",
+          "count": 2
         },
         {
-          "word": "고령화",
+          "word": "교육",
           "count": 2
         },
         {
           "word": "주거",
           "count": 2
+        },
+        {
+          "word": "돌봄",
+          "count": 1
         },
         {
           "word": "복지",
@@ -160,18 +164,6 @@
     },
     "economy": {
       "items": [
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02496086645610624&mediaCodeNo=257",
-          "title": "[단독]사학연금 대체투자 3배 뛸 때 운용인력은 10년째 제자리",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T23:32:00Z",
-          "publishedAt": "2026-10-06T23:32:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02496086645610624&mediaCodeNo=257"
-        },
         {
           "id": "https://www.etnews.com/20261007000426",
           "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
@@ -199,18 +191,30 @@
           "url": "https://www.hani.co.kr/arti/international/america/1281250.html"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12170581",
-          "title": "우상호 “강원 변화 시작”… 기업·관광 투자 성과 강조",
+          "id": "https://www.mk.co.kr/news/economy/12170703",
+          "title": "올 국내 외국인투자 149억弗 … 1년새 30% 늘어 사상 최대",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T16:48:23Z",
-          "publishedAt": "2026-10-07T16:48:23Z",
+          "dateRaw": "2026-10-07T17:43:13Z",
+          "publishedAt": "2026-10-07T17:43:13Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12170581",
+          "url": "https://www.mk.co.kr/news/economy/12170703",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=04890486645610624&mediaCodeNo=257",
+          "title": "李 1000조 지원·최태원 220조 투자…녹색전환 ‘감사 족쇄’ 푼다",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T08:47:00Z",
+          "publishedAt": "2026-10-07T08:47:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04890486645610624&mediaCodeNo=257"
         },
         {
           "id": "https://www.fnnews.com/news/202610071352511271",
@@ -273,16 +277,16 @@
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/07/473Z3QWL3VEWBOR5KYFZXE4SNM/"
         },
         {
-          "id": "https://ichannela.com/news/detail/000000554010.do",
-          "title": "우상호 강원지사 “대기업·관광 투자 유치로 강원도 산업 전환 이끌겠다”",
-          "source": "ichannela.com",
+          "id": "https://www.hankookilbo.com/news/article/A2026100715350001365",
+          "title": "변동성으로 돈 버는 글로벌 초단타 투자기관 7곳, 거래소 자문위 '단골'-경제ㅣ한국일보",
+          "source": "hankookilbo.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:47:00Z",
-          "publishedAt": "2026-10-07T07:47:00Z",
+          "dateRaw": "2026-10-07T08:47:00Z",
+          "publishedAt": "2026-10-07T08:47:00Z",
           "summary": "",
-          "url": "https://ichannela.com/news/detail/000000554010.do"
+          "url": "https://www.hankookilbo.com/news/article/A2026100715350001365"
         }
       ],
       "keywords": [
@@ -292,10 +296,6 @@
         },
         {
           "word": "인력",
-          "count": 3
-        },
-        {
-          "word": "기업",
           "count": 2
         }
       ],
@@ -318,16 +318,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03781846645610624&mediaCodeNo=257"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12170215",
-          "title": "농협금융, 서남권에 금융허브…AI·반도체 등 전략산업 지원",
+          "id": "https://www.mk.co.kr/news/economy/12170738",
+          "title": "농협금융, 서남권에 금융허브… AI·반도체 등 전략산업 지원",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T11:31:18Z",
-          "publishedAt": "2026-10-07T11:31:18Z",
+          "dateRaw": "2026-10-07T17:48:20Z",
+          "publishedAt": "2026-10-07T17:48:20Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12170215",
+          "url": "https://www.mk.co.kr/news/economy/12170738",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -368,18 +368,18 @@
           "url": "https://www.hani.co.kr/arti/economy/biznews/1281294.html"
         },
         {
-          "id": "https://www.etnews.com/20261007000245",
-          "title": "KT클라우드, 50㎿급 '청라 AIDC' 구축 참여…수도권 AI 인프라 수요 대응",
+          "id": "https://www.etnews.com/20261007000340",
+          "title": "투모로로보틱스, 로봇 AI '하빌리스 브레인 0' 공개",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:33:04Z",
-          "publishedAt": "2026-10-07T04:33:04Z",
+          "dateRaw": "2026-10-07T05:46:44Z",
+          "publishedAt": "2026-10-07T05:46:44Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261007000245",
+          "url": "https://www.etnews.com/20261007000340",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "signalFieldHint": "economy"
         },
         {
           "id": "http://inews24.com/view/2012593",
@@ -406,18 +406,6 @@
           "url": "https://www.huffingtonpost.kr:443/article/261032"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10894886",
-          "title": "‘반도체 여왕’ 리사 수 “AI 수요, 수년 더 간다”…AMD 신고가·뉴욕증시 또 최고 [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T23:32:00Z",
-          "publishedAt": "2026-10-06T23:32:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10894886"
-        },
-        {
           "id": "https://www.fnnews.com/news/202610071626430211",
           "title": "AMD 리사 수, 삼성전자-SK하이닉스 반도체 수장 만나..AI 협력 행보 강화",
           "source": "fnnews.com",
@@ -428,6 +416,18 @@
           "publishedAt": "2026-10-07T08:17:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610071626430211"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2633455",
+          "title": "리사 수 AMD 회장 “반도체는 팀 스포츠”⋯삼성ㆍSK와 AI 메모리 협력 강조",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T07:47:00Z",
+          "publishedAt": "2026-10-07T07:47:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2633455"
         }
       ],
       "keywords": [
@@ -444,15 +444,15 @@
           "count": 2
         },
         {
-          "word": "클라우드",
+          "word": "로봇",
           "count": 2
         },
         {
-          "word": "로봇",
+          "word": "전력",
           "count": 1
         },
         {
-          "word": "전력",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -525,6 +525,18 @@
           "url": "https://humanevents.com/2026/10/06/trump-calls-out-mass-migration-for-causing-french-education-riots-as-250000-take-to-the-streets"
         },
         {
+          "id": "https://www.ynetnews.com/article/ryhaphmogg",
+          "title": "Report: flydubai pilot accused of terror plot studied at prestigious British flight school",
+          "source": "ynetnews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T08:47:00Z",
+          "publishedAt": "2026-10-07T08:47:00Z",
+          "summary": "",
+          "url": "https://www.ynetnews.com/article/ryhaphmogg"
+        },
+        {
           "id": "https://asianews.network/vietnam-faces-ai-skills-gap-despite-strong-university-investment-report/",
           "title": "Vietnam faces AI skills gap despite strong university investment: report",
           "source": "asianews.network",
@@ -571,18 +583,6 @@
           "publishedAt": "2026-10-07T06:01:00Z",
           "summary": "",
           "url": "https://www.webwire.com/ViewPressRel.asp?aId=361528"
-        },
-        {
-          "id": "https://www.fox8live.com/2026/10/07/new-st-tammany-school-board-interim-superintendent-convenes-meeting-abuse-reporting/",
-          "title": "New St. Tammany school board interim superintendent convenes meeting on abuse reporting",
-          "source": "fox8live.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:46:00Z",
-          "publishedAt": "2026-10-07T05:46:00Z",
-          "summary": "",
-          "url": "https://www.fox8live.com/2026/10/07/new-st-tammany-school-board-interim-superintendent-convenes-meeting-abuse-reporting/"
         }
       ],
       "keywords": [
@@ -632,6 +632,18 @@
           "publishedAt": "2026-10-07T03:31:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-flat-focus-turns-fed-minutes-monetary-policy-path-clues"
+        },
+        {
+          "id": "https://www.energy-pedia.com/news/general/rystad-energy-announces-minority-growth-investment-from-marlin-equity-partners-and-leadership-change-205584",
+          "title": "Rystad Energy announces minority growth investment from Marlin Equity Partners and leadership change",
+          "source": "energy-pedia.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T08:47:00Z",
+          "publishedAt": "2026-10-07T08:47:00Z",
+          "summary": "",
+          "url": "https://www.energy-pedia.com/news/general/rystad-energy-announces-minority-growth-investment-from-marlin-equity-partners-and-leadership-change-205584"
         },
         {
           "id": "https://www.timeslive.co.za/news/business/2026-10-07-experts-propose-growth-and-investment-reset-to-aid-debt-ridden-developing-countries/",
@@ -716,28 +728,16 @@
           "publishedAt": "2026-10-07T03:01:00Z",
           "summary": "",
           "url": "https://kathmandupost.com/columns/2026/10/06/why-trade-loopholes-don-t-make-an-economic-strategy"
-        },
-        {
-          "id": "https://www.thedailystar.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_a15acee9-bc5b-560f-a85b-97a72e0317ba.html",
-          "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-          "source": "thedailystar.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:31:00Z",
-          "publishedAt": "2026-10-07T02:31:00Z",
-          "summary": "",
-          "url": "https://www.thedailystar.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_a15acee9-bc5b-560f-a85b-97a72e0317ba.html"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 6
+          "count": 7
         },
         {
           "word": "투자",
-          "count": 6
+          "count": 7
         },
         {
           "word": "FDI",
@@ -905,8 +905,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5805,
-    "feedBytes": 1662453,
+    "fetchedItems": 6031,
+    "feedBytes": 1704889,
     "rollingWindowHours": 72
   }
 }

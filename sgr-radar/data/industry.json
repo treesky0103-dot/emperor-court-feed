@@ -2,7 +2,7 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 05:29:16",
+  "updatedAt": "2026. 10. 07. 오후 05:50:43",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
@@ -560,18 +560,6 @@
       "url": "https://abcnews.com/Business/wireStory/amazon-invest-1b-data-center-communities-amid-backlash-136948782"
     },
     {
-      "id": "https://www.machinedesign.com:443/automation-iiot/article/55409987/altech-corporation-power-and-control-components-address-evolving-data-center-infrastructure-challenges",
-      "title": "Power and Control Components Address Evolving Data Center Infrastructure Challenges",
-      "source": "machinedesign.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:46:00Z",
-      "publishedAt": "2026-10-06T22:46:00Z",
-      "summary": "",
-      "url": "https://www.machinedesign.com:443/automation-iiot/article/55409987/altech-corporation-power-and-control-components-address-evolving-data-center-infrastructure-challenges"
-    },
-    {
       "id": "https://www.jpl.nasa.gov/topics/robotics/",
       "title": "Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL)",
       "source": "jpl.nasa.gov",
@@ -596,6 +584,18 @@
       "url": "https://www.newspim.com/news/view/20261007000835"
     },
     {
+      "id": "https://biz.heraldcorp.com/article/10895183",
+      "title": "현대엔지니어링 8700억 규모 ‘인천 원창동 데이터센터 사업’ 수주",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T01:02:00Z",
+      "publishedAt": "2026-10-07T01:02:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10895183"
+    },
+    {
       "id": "https://biz.heraldcorp.com/article/10894934",
       "title": "롯데하이마트, 산업 특화 ‘휴머노이드 로봇’ 실증 추진",
       "source": "biz.heraldcorp.com",
@@ -608,16 +608,16 @@
       "url": "https://biz.heraldcorp.com/article/10894934"
     },
     {
-      "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000020410&code=11151400&sid1=eco",
-      "title": "美 조선소 현대화 ‘2000억 달러·50년’… K조선엔 기회",
-      "source": "kmib.co.kr",
-      "language": "Korean",
+      "id": "https://www.koreaherald.com/article/10895928",
+      "title": "HD Hyundai strengthens shipbuilding leadership in early reshuffle",
+      "source": "koreaherald.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:47:00Z",
-      "publishedAt": "2026-10-06T22:47:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T07:17:00Z",
+      "publishedAt": "2026-10-07T07:17:00Z",
       "summary": "",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020410&code=11151400&sid1=eco"
+      "url": "https://www.koreaherald.com/article/10895928"
     },
     {
       "id": "https://www.businesstimes.com.sg/property/goodmans-japanese-data-centre-comes-under-fire-following-sydney-site-setback",
@@ -642,18 +642,6 @@
       "publishedAt": "2026-10-07T06:31:00Z",
       "summary": "",
       "url": "https://nairobiwire.com/2026/10/kenya-electric-vehicle-manufacturing-endelevu-mou-ruto-3-billion.html"
-    },
-    {
-      "id": "https://www.pymnts.com/healthcare/2026/robots-give-hospitals-more-capacity-without-adding-beds/",
-      "title": "Robots Give Hospitals More Capacity Without Adding Beds | PYMNTS.com",
-      "source": "pymnts.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:46:00Z",
-      "publishedAt": "2026-10-06T22:46:00Z",
-      "summary": "",
-      "url": "https://www.pymnts.com/healthcare/2026/robots-give-hospitals-more-capacity-without-adding-beds/"
     },
     {
       "id": "https://www.dealstreetasia.com/stories/airtrunk-japan-data-centre-497414",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-06T23:32:00Z",
       "summary": "",
       "url": "https://digg.com/ai/xcqgvul1"
+    },
+    {
+      "id": "https://www.livemint.com/market/stock-market-news/four-ev-battery-stocks-with-strong-future-roadmap-11791283445075.html",
+      "title": "Four EV battery stocks with strong future roadmap | Stock Market News",
+      "source": "livemint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T01:01:00Z",
+      "publishedAt": "2026-10-07T01:01:00Z",
+      "summary": "",
+      "url": "https://www.livemint.com/market/stock-market-news/four-ev-battery-stocks-with-strong-future-roadmap-11791283445075.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5805,
-    "relevantItems": 106,
-    "feedBytes": 1662453,
+    "fetchedItems": 6031,
+    "relevantItems": 120,
+    "feedBytes": 1704889,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
