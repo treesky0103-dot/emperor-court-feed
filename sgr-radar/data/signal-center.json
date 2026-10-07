@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 06:50:13",
+  "updatedAt": "2026. 10. 07. 오후 07:04:17",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,6 +48,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261007100139"
         },
         {
+          "id": "https://www.hani.co.kr/arti/area/area_general/1281392.html",
+          "title": "인구감소지역 89→92곳…동두천·통영·부산 금정구 추가",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T09:47:00Z",
+          "publishedAt": "2026-10-07T09:47:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1281392.html"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=05067606645610624&mediaCodeNo=257",
           "title": "[포토] 청년농업인과 소통하는 강호동 농협 회장",
           "source": "edaily.co.kr",
@@ -70,18 +82,6 @@
           "publishedAt": "2026-10-07T09:16:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261007001542"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/society/health/1281355.html",
-          "title": "월급 줄 돈도 없어…빚으로 버티는 지방의료원",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T08:17:00Z",
-          "publishedAt": "2026-10-07T08:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/society/health/1281355.html"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2633509",
@@ -151,6 +151,10 @@
         },
         {
           "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "인구감소",
           "count": 1
         }
       ],
@@ -273,16 +277,16 @@
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/07/473Z3QWL3VEWBOR5KYFZXE4SNM/"
         },
         {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1315888",
-          "title": "중 독점 LFP에 균열…미 ESS 타고 K배터리 소재사 ‘공급망’ 부상",
-          "source": "newstomato.com",
+          "id": "https://www.seoul.co.kr/news/society/2026/10/07/20261007500287",
+          "title": "민주당 경기도당 압수수색…수원시장 경선 자료 확보",
+          "source": "seoul.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T09:32:00Z",
-          "publishedAt": "2026-10-07T09:32:00Z",
+          "dateRaw": "2026-10-07T09:47:00Z",
+          "publishedAt": "2026-10-07T09:47:00Z",
           "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1315888"
+          "url": "https://www.seoul.co.kr/news/society/2026/10/07/20261007500287"
         }
       ],
       "keywords": [
@@ -293,10 +297,6 @@
         {
           "word": "인력",
           "count": 2
-        },
-        {
-          "word": "공급망",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -332,16 +332,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261007103158",
-          "title": "\"사람 대신 드론·로봇\"…더픽트, 공간 AI 운영체제 '제제OS' 주목",
+          "id": "https://zdnet.co.kr/view/?no=20261007172520",
+          "title": "\"GPU 다음은 데이터 병목\"…디노티시아, VDPU로 AI 인프라 새 판 짠다",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:47:00Z",
-          "publishedAt": "2026-10-07T06:47:00Z",
+          "dateRaw": "2026-10-07T08:35:08Z",
+          "publishedAt": "2026-10-07T08:35:08Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261007103158"
+          "url": "https://zdnet.co.kr/view/?no=20261007172520",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/07/VDLKDEZROJDFBMETG5FIZ4KEP4/",
@@ -436,15 +438,19 @@
           "count": 12
         },
         {
-          "word": "로봇",
-          "count": 3
-        },
-        {
           "word": "반도체",
           "count": 3
         },
         {
+          "word": "GPU",
+          "count": 2
+        },
+        {
           "word": "데이터센터",
+          "count": 2
+        },
+        {
+          "word": "로봇",
           "count": 2
         },
         {
@@ -751,6 +757,18 @@
     "technology": {
       "items": [
         {
+          "id": "https://balticbusinessnews.com/aimotion-and-google-cloud-collaborate-to-scale-ai-driven-automotive-marketing-globally/",
+          "title": "Aimotion and Google Cloud Collaborate to Scale AI-Driven Automotive Marketing Globally - Australian Bloggers",
+          "source": "balticbusinessnews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T09:46:00Z",
+          "publishedAt": "2026-10-07T09:46:00Z",
+          "summary": "",
+          "url": "https://balticbusinessnews.com/aimotion-and-google-cloud-collaborate-to-scale-ai-driven-automotive-marketing-globally/"
+        },
+        {
           "id": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
           "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
           "source": "cnbc.com",
@@ -857,18 +875,6 @@
           "publishedAt": "2026-10-07T02:31:00Z",
           "summary": "",
           "url": "https://newsonjapan.com/article/150976.php"
-        },
-        {
-          "id": "https://jp.ibtimes.com/seiko-solutions-partners-boomi-japan-cloud-ai-integration-104683",
-          "title": "Seiko Solutions partners with Boomi on Japan cloud and AI integration",
-          "source": "jp.ibtimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:01:00Z",
-          "publishedAt": "2026-10-07T02:01:00Z",
-          "summary": "",
-          "url": "https://jp.ibtimes.com/seiko-solutions-partners-boomi-japan-cloud-ai-integration-104683"
         }
       ],
       "keywords": [
@@ -905,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5938,
-    "feedBytes": 1681590,
+    "fetchedItems": 6615,
+    "feedBytes": 1842057,
     "rollingWindowHours": 72
   }
 }

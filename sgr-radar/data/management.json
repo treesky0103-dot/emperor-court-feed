@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 06:50:06",
+  "updatedAt": "2026. 10. 07. 오후 07:04:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 72,
+    "deduped": 72,
+    "eventDeduped": 72,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,18 +380,6 @@
       "url": "https://en.shafaqna.com/481401/bmw-restructuring-plan/"
     },
     {
-      "id": "https://oilprice.com/Company-News/Chevron-to-Shed-Hess-Midstream-Stake-in-Major-Bakken-Restructuring.html",
-      "title": "Chevron to Shed Hess Midstream Stake in Major Bakken Restructuring | OilPrice.com",
-      "source": "oilprice.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:46:00Z",
-      "publishedAt": "2026-10-06T23:46:00Z",
-      "summary": "",
-      "url": "https://oilprice.com/Company-News/Chevron-to-Shed-Hess-Midstream-Stake-in-Major-Bakken-Restructuring.html"
-    },
-    {
       "id": "https://www.ddaily.co.kr:443/page/view/2026100710231345969",
       "title": "리사 수 “韓서 AI 연구인력 수백명 채용”…AMD, AI CoE 설립 착수",
       "source": "ddaily.co.kr",
@@ -668,6 +656,18 @@
       "url": "https://www.taftmidwaydriller.com/business/key-energy-will-layoff-53-people-may-be-leaving-california/article_054eb8e1-f7b1-4316-9dee-802a894037c6.html"
     },
     {
+      "id": "https://www.techradar.com/pro/working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-brookes-lays-out-what-your-business-needs-in-the-agentic-ai-age-and-why-agents-wont-replace-your-human-workers-anytime-soon",
+      "title": "'Working with AI isn't single player any more — it's multiplayer': Atlassian CEO Mike Cannon-Brookes lays out what your business needs in the agentic AI age, and why agents won't replace your human workers anytime soon",
+      "source": "techradar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:47:00Z",
+      "publishedAt": "2026-10-07T09:47:00Z",
+      "summary": "",
+      "url": "https://www.techradar.com/pro/working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-brookes-lays-out-what-your-business-needs-in-the-agentic-ai-age-and-why-agents-wont-replace-your-human-workers-anytime-soon"
+    },
+    {
       "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-may-replace-only-5-of-human-work-over-next-decade-says-nobel-laureate-acemoglu/articleshow/134761301.cms",
       "title": "Nobel Laureate Predicts AI Will Only Replace 5% of Jobs in Next Decade",
       "source": "economictimes.indiatimes.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5938,
-    "relevantItems": 116,
-    "feedBytes": 1681590,
+    "fetchedItems": 6615,
+    "relevantItems": 101,
+    "feedBytes": 1842057,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
