@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 02:36:50",
+  "updatedAt": "2026. 10. 07. 오후 02:55:45",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -34,18 +34,30 @@
           "url": "https://zdnet.co.kr/view/?no=20261007100139"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12170388",
-          "title": "[단독]청년미래적금 외면한 청년도약계좌 가입자…갈아타기 단 10%에 그쳐",
+          "id": "https://www.mk.co.kr/news/society/12170402",
+          "title": "취임 100일 맞은 김석준 부산시교육감… AI 등 미래 교육 올인",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:36:18Z",
-          "publishedAt": "2026-10-07T14:36:18Z",
+          "dateRaw": "2026-10-07T14:43:06Z",
+          "publishedAt": "2026-10-07T14:43:06Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12170388",
+          "url": "https://www.mk.co.kr/news/society/12170402",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=04132806645610624&mediaCodeNo=257",
+          "title": "노브랜드 버거, 대학가 출점 속도…전체 매장 10% 넘었다",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T05:46:00Z",
+          "publishedAt": "2026-10-07T05:46:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04132806645610624&mediaCodeNo=257"
         },
         {
           "id": "https://cunews.net/detail.php?number=172869&thread=22r12r03",
@@ -58,18 +70,6 @@
           "publishedAt": "2026-10-07T04:46:00Z",
           "summary": "",
           "url": "https://cunews.net/detail.php?number=172869&thread=22r12r03"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=03732646645610624&mediaCodeNo=257",
-          "title": "교육부 국감 오른 ‘암살자(들)’…”역사 왜곡 위험”vs”영화 검열”",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:02:00Z",
-          "publishedAt": "2026-10-07T04:02:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03732646645610624&mediaCodeNo=257"
         },
         {
           "id": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/07/WLSJ6QIRYBGZ7NTU5WDWOGCICI/",
@@ -136,11 +136,11 @@
       ],
       "keywords": [
         {
-          "word": "청년",
+          "word": "교육",
           "count": 6
         },
         {
-          "word": "교육",
+          "word": "청년",
           "count": 4
         },
         {
@@ -275,29 +275,29 @@
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020479&code=61141111&sid1=eco"
         },
         {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026100710231345969",
-          "title": "리사 수 “韓서 AI 연구인력 수백명 채용”…AMD, AI CoE 설립 착수",
-          "source": "ddaily.co.kr",
+          "id": "https://www.munhwa.com:443/article/11621936",
+          "title": "“투자대상·운용기준 엄격히… 일자리 등 장기과제 집중”",
+          "source": "munhwa.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:32:00Z",
-          "publishedAt": "2026-10-07T05:32:00Z",
+          "dateRaw": "2026-10-07T05:47:00Z",
+          "publishedAt": "2026-10-07T05:47:00Z",
           "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026100710231345969"
+          "url": "https://www.munhwa.com:443/article/11621936"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
-        },
-        {
-          "word": "인력",
-          "count": 2
+          "count": 6
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "인력",
           "count": 1
         }
       ],
@@ -475,6 +475,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.madhyamam.com/world/donald-trump-france-student-protest-islam-remark-1561142",
+          "title": "‘ഇസ്‍ലാം ഫ്രാൻസ് പിടിച്ചടക്കുന്നു’; ഫ്രഞ്ച് വിദ്യാർഥി പ്രക്ഷോഭത്തിൽ വിദ്വേഷ പരാമർശവുമായി ട്രംപ് | Islam wanting to take over: Trump blames mass migration for France school protests | Madhyamam",
+          "source": "madhyamam.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T05:46:00Z",
+          "publishedAt": "2026-10-07T05:46:00Z",
+          "summary": "",
+          "url": "https://www.madhyamam.com/world/donald-trump-france-student-protest-islam-remark-1561142"
+        },
+        {
           "id": "https://paherald.sk.ca/health-foundation-local-businesses-host-breakfast-for-yorkton-healthcare-workers/",
           "title": "Health Foundation, local businesses host breakfast for Yorkton healthcare workers - Prince Albert Daily Herald",
           "source": "paherald.sk.ca",
@@ -559,6 +571,18 @@
           "url": "https://www.afr.com/politics/federal/we-ll-cut-your-rent-by-up-to-4k-hanson-ups-the-ante-on-immigration-20261007-p613bw"
         },
         {
+          "id": "https://www.fox8live.com/2026/10/07/new-st-tammany-school-board-interim-superintendent-convenes-meeting-abuse-reporting/",
+          "title": "New St. Tammany school board interim superintendent convenes meeting on abuse reporting",
+          "source": "fox8live.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T05:46:00Z",
+          "publishedAt": "2026-10-07T05:46:00Z",
+          "summary": "",
+          "url": "https://www.fox8live.com/2026/10/07/new-st-tammany-school-board-interim-superintendent-convenes-meeting-abuse-reporting/"
+        },
+        {
           "id": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/",
           "title": "EU ministers survey new ways to curb irregular migration - Shafaqna English | International Shia News & Fatwas",
           "source": "en.shafaqna.com",
@@ -569,47 +593,23 @@
           "publishedAt": "2026-10-07T04:46:00Z",
           "summary": "",
           "url": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/"
-        },
-        {
-          "id": "https://www.investmentwatchblog.com/uk-teenage-reform-activist-arrested-after-calling-tory-councillor-a-rent-boy/",
-          "title": "UK: Teenage Reform activist arrested after calling Tory councillor a “rent boy” - Investment Watch Blog",
-          "source": "investmentwatchblog.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:32:00Z",
-          "publishedAt": "2026-10-07T04:32:00Z",
-          "summary": "",
-          "url": "https://www.investmentwatchblog.com/uk-teenage-reform-activist-arrested-after-calling-tory-councillor-a-rent-boy/"
-        },
-        {
-          "id": "https://kpic.com/news/local/over-100-march-at-university-of-oregon-seeking-247-reporting-and-more-lighting-campus-sexual-assaults",
-          "title": "Over 100 march at University of Oregon, seeking 24/7 reporting and more lighting",
-          "source": "kpic.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:31:00Z",
-          "publishedAt": "2026-10-07T04:31:00Z",
-          "summary": "",
-          "url": "https://kpic.com/news/local/over-100-march-at-university-of-oregon-seeking-247-reporting-and-more-lighting-campus-sexual-assaults"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 5
         },
         {
           "word": "이민",
-          "count": 4
-        },
-        {
-          "word": "주거비",
-          "count": 2
+          "count": 5
         },
         {
           "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "주거비",
           "count": 1
         }
       ],
@@ -656,16 +656,16 @@
           "url": "https://www.chinamoneynetwork.com/2026/10/07/v-key-strengthens-ai-economic-security-with-strategic-investment-in-cloudsineai"
         },
         {
-          "id": "http://www.newyorkstatesman.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
+          "id": "http://www.mainemirror.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
           "title": "Vietnam GDP growth hits 9.95% as exports and investment surge",
-          "source": "newyorkstatesman.com",
+          "source": "mainemirror.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:31:00Z",
-          "publishedAt": "2026-10-07T05:31:00Z",
+          "dateRaw": "2026-10-07T05:46:00Z",
+          "publishedAt": "2026-10-07T05:46:00Z",
           "summary": "",
-          "url": "http://www.newyorkstatesman.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
+          "url": "http://www.mainemirror.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
         },
         {
           "id": "https://www.thisdaylive.com/2026/10/07/how-governor-sanwo-olus-purposeful-unga81-outing-positioned-lagos-for-global-partnerships-investment-and-growth/",
@@ -911,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4156,
-    "feedBytes": 1148693,
+    "fetchedItems": 4162,
+    "feedBytes": 1140778,
     "rollingWindowHours": 72
   }
 }
