@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 08:26:41",
+  "updatedAt": "2026. 10. 08. 오전 08:43:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 67,
-    "deduped": 67,
-    "eventDeduped": 67,
+    "passed": 69,
+    "deduped": 69,
+    "eventDeduped": 69,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -512,6 +512,18 @@
       "url": "https://www.walesonline.co.uk/news/wales-news/fears-jobs-major-welsh-employer-34723930"
     },
     {
+      "id": "https://www.etoday.co.kr/news/view/2631584",
+      "title": "AI가 만든 新격차…기업은 ‘토큰 비용’, 개인은 ‘경험’이 가른다 [AI 신계급사회]",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:31:00Z",
+      "publishedAt": "2026-10-07T23:31:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2631584"
+    },
+    {
       "id": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
       "source": "news.mit.edu",
@@ -534,6 +546,18 @@
       "publishedAt": "2026-10-07T21:31:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2631639"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "source": "arstechnica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:31:00Z",
+      "publishedAt": "2026-10-07T23:31:00Z",
+      "summary": "",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
     },
     {
       "id": "https://www.whio.com/news/local/students-cedarville-university-integrate-ai-into-job-hunting-process/WBOLOXVNHJDXXNCMEBSODDVLQM/",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-07T16:17:00Z",
       "summary": "",
       "url": "http://www.californiatelegraph.com/news/279357471/aehr-receives-follow-on-sonomatm-production-orders-for-lead-hyperscale-customer-next-generation-ai-processor"
-    },
-    {
-      "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680394",
-      "title": "“EU, 중국산 하이브리드 차 수입 제한조치 검토”",
-      "source": "news.kbs.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T15:32:00Z",
-      "publishedAt": "2026-10-07T15:32:00Z",
-      "summary": "",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680394"
-    },
-    {
-      "id": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/",
-      "title": "Castle Park in Riverside lays off more than 100 employees during makeover",
-      "source": "sgvtribune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:47:00Z",
-      "publishedAt": "2026-10-07T21:47:00Z",
-      "summary": "",
-      "url": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3951,
-    "relevantItems": 129,
-    "feedBytes": 1074064,
+    "fetchedItems": 3828,
+    "relevantItems": 134,
+    "feedBytes": 1032954,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
