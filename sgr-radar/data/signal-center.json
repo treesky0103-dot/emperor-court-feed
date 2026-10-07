@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 01:00:10",
+  "updatedAt": "2026. 10. 08. 오전 01:23:21",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,6 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.hani.co.kr/arti/opinion/column/1277834.html",
+          "title": "성소수자 혐오 부추긴 교육부 가이드북 [뉴스룸에서]",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T16:17:00Z",
+          "publishedAt": "2026-10-07T16:17:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1277834.html"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261007185830",
           "title": "LG전자, '주거공간 탄소중립' 로드맵 공개…\"히트펌프 전환 핵심\"",
           "source": "zdnet.co.kr",
@@ -34,18 +46,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261007185830",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/opinion/column/1281402.html",
-          "title": "극우 비인가 학교, 교화 대신 교육을 [세상읽기]",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:16:00Z",
-          "publishedAt": "2026-10-07T10:16:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/opinion/column/1281402.html"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=05067606645610624&mediaCodeNo=257",
@@ -141,7 +141,7 @@
         },
         {
           "word": "교육",
-          "count": 3
+          "count": 2
         },
         {
           "word": "고령화",
@@ -193,20 +193,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=05828566645610624&mediaCodeNo=257"
         },
         {
-          "id": "https://www.etnews.com/20261007000426",
-          "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:19:48Z",
-          "publishedAt": "2026-10-07T07:19:48Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261007000426",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://zdnet.co.kr/view/?no=20261007231002",
           "title": "어뷰식스, 장기적인 파트너 성장에 투자하기 위해 '어뷰식스 프론트라인' 출시",
           "source": "zdnet.co.kr",
@@ -219,6 +205,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261007231002",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.etnews.com/20261007000354",
+          "title": "K-GX에 '1220조' 투입…李 “녹색 기술 선제 확보” 崔 “투자 위험 분담 감사”",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T10:32:00Z",
+          "publishedAt": "2026-10-07T10:32:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261007000354"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/marketing/1281379.html",
@@ -295,19 +293,15 @@
       ],
       "keywords": [
         {
+          "word": "투자",
+          "count": 3
+        },
+        {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "투자",
-          "count": 2
-        },
-        {
           "word": "기업",
-          "count": 1
-        },
-        {
-          "word": "인력",
           "count": 1
         },
         {
@@ -348,20 +342,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261007172520",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261007000426",
-          "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:19:48Z",
-          "publishedAt": "2026-10-07T07:19:48Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261007000426",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257",
@@ -446,6 +426,18 @@
           "publishedAt": "2026-10-07T09:47:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10895232"
+        },
+        {
+          "id": "https://www.wikitree.co.kr/articles/1164619",
+          "title": "미래에셋자산운용, 'Global X' 앞세워 ETF 확대... AI 기반 투자 전략 강화",
+          "source": "wikitree.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T09:47:00Z",
+          "publishedAt": "2026-10-07T09:47:00Z",
+          "summary": "",
+          "url": "https://www.wikitree.co.kr/articles/1164619"
         }
       ],
       "keywords": [
@@ -636,6 +628,18 @@
           "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/hyderabad/granules-india-plans-2000-crore-investment-to-drive-growth-in-complex-generics-oncology-and-peptide-cdmo/articleshow/134744086.cms",
+          "title": "Granules India plans ₹2,000 crore investment to drive growth in complex generics, oncology, and peptide CDMO | Hyderabad News - The Times of India",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T16:17:00Z",
+          "publishedAt": "2026-10-07T16:17:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/granules-india-plans-2000-crore-investment-to-drive-growth-in-complex-generics-oncology-and-peptide-cdmo/articleshow/134744086.cms"
+        },
+        {
           "id": "http://www.greekherald.com/news/279357257/uae-italy-explore-stronger-economic-investment-cooperation-at-investopia-bridge-2026",
           "title": "UAE, Italy explore stronger economic, investment cooperation at Investopia Bridge 2026",
           "source": "greekherald.com",
@@ -730,28 +734,16 @@
           "publishedAt": "2026-10-07T10:46:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/property/ioi-properties-and-capitaland-investment-move-closer-acquiring-one-raffles-place-joint-bid"
-        },
-        {
-          "id": "https://tribuneonlineng.com/nigeria-targets-spanish-investment-to-unlock-blue-economy-potential/",
-          "title": "Nigeria targets Spanish investment to unlock blue economy potential",
-          "source": "tribuneonlineng.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:32:00Z",
-          "publishedAt": "2026-10-07T10:32:00Z",
-          "summary": "",
-          "url": "https://tribuneonlineng.com/nigeria-targets-spanish-investment-to-unlock-blue-economy-potential/"
         }
       ],
       "keywords": [
         {
-          "word": "투자",
+          "word": "성장",
           "count": 4
         },
         {
-          "word": "성장",
-          "count": 3
+          "word": "투자",
+          "count": 4
         },
         {
           "word": "무역",
@@ -837,6 +829,18 @@
           "url": "https://balticbusinessnews.com/aimotion-and-google-cloud-collaborate-to-scale-ai-driven-automotive-marketing-globally/"
         },
         {
+          "id": "http://www.californiatelegraph.com/news/279357553/kidz-ai-joins-afcom-as-solution-provider-member-to-advance-high-density-ai-infrastructure-and-enterprise-gpu-cloud-commercialization",
+          "title": "KIDZ AI Joins AFCOM as Solution Provider Member to Advance High-Density AI Infrastructure and Enterprise GPU Cloud Commercialization",
+          "source": "californiatelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T16:17:00Z",
+          "publishedAt": "2026-10-07T16:17:00Z",
+          "summary": "",
+          "url": "http://www.californiatelegraph.com/news/279357553/kidz-ai-joins-afcom-as-solution-provider-member-to-advance-high-density-ai-infrastructure-and-enterprise-gpu-cloud-commercialization"
+        },
+        {
           "id": "https://www.networkworld.com/article/4231781/amd-to-ramp-cpu-gpu-supply-in-2027-as-ai-demand-surges.html",
           "title": "AMD to ramp up CPU, GPU supply in 2027 as AI demand surges",
           "source": "networkworld.com",
@@ -883,36 +887,24 @@
           "publishedAt": "2026-10-07T14:32:00Z",
           "summary": "",
           "url": "https://nebraskapublicmedia.org/en/news/news-articles/nebraskans-are-used-to-cheap-energy-but-the-aging-grid-and-data-centers-are-driving-costs-up/"
-        },
-        {
-          "id": "https://www.jawapos.com/oto-dan-tekno/2610070368/google-gandeng-constellation-energy-untuk-tambah-pasokan-nuklir-bagi-data-center-ai",
-          "title": "Google Gandeng Constellation Energy untuk Tambah Pasokan Nuklir bagi Data Center AI",
-          "source": "jawapos.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:32:00Z",
-          "publishedAt": "2026-10-07T14:32:00Z",
-          "summary": "",
-          "url": "https://www.jawapos.com/oto-dan-tekno/2610070368/google-gandeng-constellation-energy-untuk-tambah-pasokan-nuklir-bagi-data-center-ai"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 10
         },
         {
           "word": "GPU",
-          "count": 4
+          "count": 6
         },
         {
           "word": "클라우드",
-          "count": 3
+          "count": 4
         },
         {
           "word": "데이터센터",
-          "count": 2
+          "count": 1
         },
         {
           "word": "배터리",
@@ -931,8 +923,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6668,
-    "feedBytes": 1890846,
+    "fetchedItems": 5939,
+    "feedBytes": 1677867,
     "rollingWindowHours": 72
   }
 }
