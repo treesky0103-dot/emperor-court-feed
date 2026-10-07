@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 11:50:00",
+  "updatedAt": "2026. 10. 08. 오전 12:04:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 706,
-    "deduped": 706,
-    "eventDeduped": 706,
+    "passed": 709,
+    "deduped": 709,
+    "eventDeduped": 709,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -464,16 +464,16 @@
       "url": "https://www.newspim.com/news/view/20261007000981"
     },
     {
-      "id": "https://www.fnnews.com/news/202610071352511271",
-      "title": "3분기 외국인투자 도착액 149억달러 '역대 최대'…제조업 2배로",
-      "source": "fnnews.com",
-      "language": "Korean",
+      "id": "http://www.perrytribune.com/news/bayer-to-invest-2-2-billion-in-new-manufacturing-site-in-ohio/article_d85df1cc-283f-5b8e-b9e2-d3a11e7704d5.html",
+      "title": "Bayer to invest $2.2 billion in new manufacturing site in Ohio",
+      "source": "perrytribune.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T06:02:00Z",
-      "publishedAt": "2026-10-07T06:02:00Z",
+      "dateRaw": "2026-10-07T15:01:00Z",
+      "publishedAt": "2026-10-07T15:01:00Z",
       "summary": "",
-      "url": "https://www.fnnews.com/news/202610071352511271"
+      "url": "http://www.perrytribune.com/news/bayer-to-invest-2-2-billion-in-new-manufacturing-site-in-ohio/article_d85df1cc-283f-5b8e-b9e2-d3a11e7704d5.html"
     },
     {
       "id": "https://www.valleynewslive.com/2026/10/07/minnkota-plans-gas-fired-power-plant-cass-county-adding-energy-development/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6817,
-    "relevantItems": 194,
-    "feedBytes": 1940494,
+    "fetchedItems": 1874,
+    "relevantItems": 38,
+    "feedBytes": 533318,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

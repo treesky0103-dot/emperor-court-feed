@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 11:50:02",
+  "updatedAt": "2026. 10. 08. 오전 12:04:44",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 139,
-    "deduped": 139,
-    "eventDeduped": 139,
+    "passed": 138,
+    "deduped": 138,
+    "eventDeduped": 138,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -296,6 +296,18 @@
       "url": "https://www.etoday.co.kr/news/view/2633493"
     },
     {
+      "id": "https://indianewengland.com/us-spice-industry-seeks-permanent-tariff-exemptions-for-indian-imports/",
+      "title": "US Spice Industry Seeks Permanent Tariff Exemptions for Indian Imports - INDIA New England News",
+      "source": "indianewengland.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T15:01:00Z",
+      "publishedAt": "2026-10-07T15:01:00Z",
+      "summary": "",
+      "url": "https://indianewengland.com/us-spice-industry-seeks-permanent-tariff-exemptions-for-indian-imports/"
+    },
+    {
       "id": "https://www.actionforex.com/contributors/technical-analysis/656761-brent-crude-oil-rises-on-fresh-geopolitical-escalation-supply-concerns/",
       "title": "Brent Crude Oil Rises on Fresh Geopolitical Escalation, Supply Concerns - ActionForex",
       "source": "actionforex.com",
@@ -330,18 +342,6 @@
       "publishedAt": "2026-10-07T12:47:00Z",
       "summary": "",
       "url": "https://www.mondaq.com:443/unitedstates/government/1852140/navigating-gpu-export-controls-and-ai-use-restrictions-in-data-center-operations"
-    },
-    {
-      "id": "https://www.livemint.com/global/us-trade-deficit-widens-as-data-center-build-out-boosts-imports-11791371883436.html",
-      "title": "U.S. trade deficit widens as data-center build-out boosts imports | Mint",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T12:17:00Z",
-      "publishedAt": "2026-10-07T12:17:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/global/us-trade-deficit-widens-as-data-center-build-out-boosts-imports-11791371883436.html"
     },
     {
       "id": "https://www.tnp.no/norway/economy/central-bank-norway-keep-key-interest-rates-0-50-percent/",
@@ -644,18 +644,6 @@
       "url": "https://www.timeslive.co.za/news/world/2026-10-07-explainer-why-india-us-trade-talks-have-stalled-again/"
     },
     {
-      "id": "http://europe.chinadaily.com.cn/a/202610/07/WS6ac5d3d4e4b06d4aa0561844.html",
-      "title": "China urges France, Germany to uphold free trade, avoid protectionism",
-      "source": "europe.chinadaily.com.cn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T06:01:00Z",
-      "publishedAt": "2026-10-07T06:01:00Z",
-      "summary": "",
-      "url": "http://europe.chinadaily.com.cn/a/202610/07/WS6ac5d3d4e4b06d4aa0561844.html"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10895966",
       "title": "집까지 따라가 살인 이유가 ‘어깨 부딪혀서’…‘번동 살인’ 구속 20대 사이코패스 검사 [세상&]",
       "source": "biz.heraldcorp.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T10:17:00Z",
       "summary": "",
       "url": "https://www.orissapost.com/us-traders-bat-for-tariff-exemptions-on-indian-spices/"
+    },
+    {
+      "id": "https://bdnews24.com/economy/0ein5adex8",
+      "title": "Bangladesh eyes export push to lift Indonesia trade past $10bn",
+      "source": "bdnews24.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:47:00Z",
+      "publishedAt": "2026-10-07T09:47:00Z",
+      "summary": "",
+      "url": "https://bdnews24.com/economy/0ein5adex8"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6817,
-    "relevantItems": 194,
-    "feedBytes": 1940494,
+    "fetchedItems": 1874,
+    "relevantItems": 38,
+    "feedBytes": 533318,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 11:50:08",
+  "updatedAt": "2026. 10. 08. 오전 12:04:51",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -346,16 +346,18 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261007000188",
-          "title": "[人사이트] 장기벽 타임퍼센트 대표 “개인에게 불리한 투자시장 AI 퀀트로 극복”",
+          "id": "https://www.etnews.com/20261007000426",
+          "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:32:00Z",
-          "publishedAt": "2026-10-07T10:32:00Z",
+          "dateRaw": "2026-10-07T07:19:48Z",
+          "publishedAt": "2026-10-07T07:19:48Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261007000188"
+          "url": "https://www.etnews.com/20261007000426",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.newspim.com/news/view/20261007001644",
@@ -545,6 +547,18 @@
           "url": "https://www.live95fm.ie/news/live95-news/southill-hub-secures-funding-for-youth-nutrition-and-mental-health-programme/"
         },
         {
+          "id": "https://www.vtcng.com/shelburnenews/state_and_world/health_news/survey-more-parents-are-seeking-professional-mental-health-support-for-their-students/article_540d8818-374f-56b4-af20-1ccb6f20e3f7.html",
+          "title": "Survey: More parents are seeking professional mental health support for their students",
+          "source": "vtcng.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:01:00Z",
+          "publishedAt": "2026-10-07T15:01:00Z",
+          "summary": "",
+          "url": "https://www.vtcng.com/shelburnenews/state_and_world/health_news/survey-more-parents-are-seeking-professional-mental-health-support-for-their-students/article_540d8818-374f-56b4-af20-1ccb6f20e3f7.html"
+        },
+        {
           "id": "http://www.bruneinews.net/news/279357464/new-era-of-astrology-education-cvpt-brings-research-led-structured-jyotish-learning-with-lj-university-certification",
           "title": "New Era of Astrology Education: CVPT Brings Research-Led, Structured Jyotish Learning with LJ University Certification",
           "source": "bruneinews.net",
@@ -579,18 +593,6 @@
           "publishedAt": "2026-10-07T13:32:00Z",
           "summary": "",
           "url": "https://www.pressherald.com/2026/10/07/peaks-island-writer-explores-the-human-consequences-of-immigration-policy/"
-        },
-        {
-          "id": "https://swimswam.com/calling-all-usa-swimming-coaches-help-advance-research-on-the-mental-health-benefits-of-swimming/",
-          "title": "Calling All USA Swimming Coaches: Help Advance Research on the Mental Health Benefits of Swimming",
-          "source": "swimswam.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:17:00Z",
-          "publishedAt": "2026-10-07T13:17:00Z",
-          "summary": "",
-          "url": "https://swimswam.com/calling-all-usa-swimming-coaches-help-advance-research-on-the-mental-health-benefits-of-swimming/"
         }
       ],
       "keywords": [
@@ -925,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6817,
-    "feedBytes": 1940494,
+    "fetchedItems": 1874,
+    "feedBytes": 533318,
     "rollingWindowHours": 72
   }
 }
