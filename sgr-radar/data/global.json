@@ -2,33 +2,21 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 06:27:57",
+  "updatedAt": "2026. 10. 07. 오후 06:50:07",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 114,
-    "deduped": 114,
-    "eventDeduped": 114,
+    "passed": 120,
+    "deduped": 120,
+    "eventDeduped": 120,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257",
-      "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257"
-    },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-flat-focus-turns-fed-minutes-monetary-policy-path-clues",
       "title": "Gold flat as focus turns to Fed minutes for monetary policy path clues",
@@ -40,6 +28,18 @@
       "publishedAt": "2026-10-07T03:31:00Z",
       "summary": "",
       "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-flat-focus-turns-fed-minutes-monetary-policy-path-clues"
+    },
+    {
+      "id": "https://www.hani.co.kr/arti/economy/marketing/1281379.html",
+      "title": "LG전자 3분기 영업이익 7818억원…환율하락이 실적 끌어내려",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:16:00Z",
+      "publishedAt": "2026-10-07T09:16:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1281379.html"
     },
     {
       "id": "https://www.huffingtonpost.kr:443/article/261047",
@@ -66,16 +66,16 @@
       "url": "https://biz.chosun.com/policy/policy_sub/2026/10/07/JY6334PQV5AVVBLRKXM2DTC4SQ/"
     },
     {
-      "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
-      "title": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각",
-      "source": "hani.co.kr",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=02761766645610624&mediaCodeNo=257",
+      "title": "\"관세 깎아줄게, 돈 더 내놔\" 트럼프, 韓 관세 또 압박",
+      "source": "edaily.co.kr",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:01:00Z",
-      "publishedAt": "2026-10-07T02:01:00Z",
+      "dateRaw": "2026-10-07T01:46:00Z",
+      "publishedAt": "2026-10-07T01:46:00Z",
       "summary": "",
-      "url": "https://www.hani.co.kr/arti/international/america/1281250.html"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02761766645610624&mediaCodeNo=257"
     },
     {
       "id": "https://www.northernpen.ca/dow-jones-futures-rise-oil-rises-on-us-sanctions-jp-morgan-unitedhealth-earnings-beat/",
@@ -114,6 +114,18 @@
       "url": "https://www.orissapost.com/piyush-goyal-represents-india-as-g20-trade-meet-opens/"
     },
     {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1315888",
+      "title": "중 독점 LFP에 균열…미 ESS 타고 K배터리 소재사 ‘공급망’ 부상",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315888"
+    },
+    {
       "id": "https://cunews.net/detail.php?number=172880&thread=22r12r03%20style=",
       "title": "박찬대 인천시장, 민선9기 100일 ‘인천 리레이팅’ 제시…G20 유치·동서평화물류고속도로 추진 : 연합시민의소리",
       "source": "cunews.net",
@@ -124,33 +136,9 @@
       "publishedAt": "2026-10-07T09:17:00Z",
       "summary": "",
       "url": "https://cunews.net/detail.php?number=172880&thread=22r12r03%20style="
-    },
-    {
-      "id": "https://gam.newspim.com/news/view/20261007001129",
-      "title": "[中 거인의 공급망] ①AI PCB로 접점 확장 '동산정밀' 없으면 '화웨이'도 없다",
-      "source": "gam.newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T06:46:00Z",
-      "publishedAt": "2026-10-07T06:46:00Z",
-      "summary": "",
-      "url": "https://gam.newspim.com/news/view/20261007001129"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257",
-      "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257"
-    },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-flat-focus-turns-fed-minutes-monetary-policy-path-clues",
       "title": "Gold flat as focus turns to Fed minutes for monetary policy path clues",
@@ -296,6 +284,42 @@
       "url": "https://www.orissapost.com/piyush-goyal-represents-india-as-g20-trade-meet-opens/"
     },
     {
+      "id": "https://biz.heraldcorp.com/article/10895923",
+      "title": "24년 만에 최고 찍고 꺾인 美국채금리…시장 시선은 연준보다 ‘장기채’[디브리핑]",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10895923"
+    },
+    {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1315888",
+      "title": "중 독점 LFP에 균열…미 ESS 타고 K배터리 소재사 ‘공급망’ 부상",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315888"
+    },
+    {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1315980",
+      "title": "코스피, 금리 반등·삼전 실적경계에 1.98% 하락",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315980"
+    },
+    {
       "id": "https://cunews.net/detail.php?number=172880&thread=22r12r03%20style=",
       "title": "박찬대 인천시장, 민선9기 100일 ‘인천 리레이팅’ 제시…G20 유치·동서평화물류고속도로 추진 : 연합시민의소리",
       "source": "cunews.net",
@@ -306,18 +330,6 @@
       "publishedAt": "2026-10-07T09:17:00Z",
       "summary": "",
       "url": "https://cunews.net/detail.php?number=172880&thread=22r12r03%20style="
-    },
-    {
-      "id": "http://www.koreatimes.com/article/20261006/1632770",
-      "title": "고금리 직격탄… 상업용 부동산 ‘거래 절벽’ 비상 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T07:17:00Z",
-      "publishedAt": "2026-10-07T07:17:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261006/1632770"
     },
     {
       "id": "https://gam.newspim.com/news/view/20261007001129",
@@ -464,18 +476,6 @@
       "url": "http://www.zimbabwestar.com/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute"
     },
     {
-      "id": "https://punto.com.ph/cdc-seeks-pampanga-business-inclusion-in-clark-supply-chain/",
-      "title": "CDC seeks Pampanga business inclusion in Clark supply chain , Punto! Central Luzon",
-      "source": "punto.com.ph",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T03:02:00Z",
-      "publishedAt": "2026-10-07T03:02:00Z",
-      "summary": "",
-      "url": "https://punto.com.ph/cdc-seeks-pampanga-business-inclusion-in-clark-supply-chain/"
-    },
-    {
       "id": "https://www.hellenicshippingnews.com/eu-steel-prices-to-rise-as-cbam-cost-could-reach-e5b-y-says-trasteel-ceo/",
       "title": "EU steel prices to rise as CBAM cost could reach €5B/y, says Trasteel CEO | Hellenic Shipping News Worldwide",
       "source": "hellenicshippingnews.com",
@@ -486,6 +486,42 @@
       "publishedAt": "2026-10-07T00:46:00Z",
       "summary": "",
       "url": "https://www.hellenicshippingnews.com/eu-steel-prices-to-rise-as-cbam-cost-could-reach-e5b-y-says-trasteel-ceo/"
+    },
+    {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1315987",
+      "title": "유가·물가에 무역적자까지…전쟁 늪에 빠진 트럼프",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315987"
+    },
+    {
+      "id": "https://www.politico.eu/article/eu-china-trade-talks-zero-in-on-cars/",
+      "title": "EU-China trade talks zero in on cars",
+      "source": "politico.eu",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "https://www.politico.eu/article/eu-china-trade-talks-zero-in-on-cars/"
+    },
+    {
+      "id": "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports",
+      "title": "EU trade chief heads to Beijing for crucial negotiations",
+      "source": "euronews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports"
     },
     {
       "id": "https://www.tomsguide.com/phones/iphones/thats-my-dealbreaker-toms-guide-readers-sound-off-on-iphone-duo-trade-offs-and-if-theyll-buy",
@@ -608,18 +644,6 @@
       "url": "https://www.el-balad.com/17055786"
     },
     {
-      "id": "https://www.ibtimes.com/gold-overtakes-us-bonds-worlds-top-reserve-asset-ecb-says-3803620",
-      "title": "Gold Overtakes U.S. Bonds As The World's Top Reserve Asset, ECB Says",
-      "source": "ibtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
-      "summary": "",
-      "url": "https://www.ibtimes.com/gold-overtakes-us-bonds-worlds-top-reserve-asset-ecb-says-3803620"
-    },
-    {
       "id": "https://ichannela.com/news/detail/000000553955.do",
       "title": "임오경, 암살자(들) 논란에 “유가족 이라면 2탄 나와야 된다고 생각할 것” [현장영상]",
       "source": "ichannela.com",
@@ -644,28 +668,28 @@
       "url": "https://timesofoman.com/article/177736-us-trade-deficit-widens-to-1056-billion-in-august-as-imports-jump"
     },
     {
-      "id": "http://www.koreatimes.com/article/20261006/1632755",
-      "title": "미 국채 쇼크 부른 기간 프리미엄…‘고금리랠리’ 반도체에 달려 - 미주 한국일보",
+      "id": "http://www.koreatimes.com/article/20261006/1632770",
+      "title": "고금리 직격탄… 상업용 부동산 ‘거래 절벽’ 비상 - 미주 한국일보",
       "source": "koreatimes.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T07:16:00Z",
-      "publishedAt": "2026-10-07T07:16:00Z",
+      "dateRaw": "2026-10-07T07:17:00Z",
+      "publishedAt": "2026-10-07T07:17:00Z",
       "summary": "",
-      "url": "http://www.koreatimes.com/article/20261006/1632755"
+      "url": "http://www.koreatimes.com/article/20261006/1632770"
     },
     {
-      "id": "https://www.business-standard.com/content/press-releases-ani/izmo-microsystems-and-iit-madras-enter-phase-ii-of-99-94-crore-meity-sanctioned-silicon-photonics-program-126100700417_1.html",
-      "title": "izmo Microsystems and IIT Madras Enter Phase II of ₹99.94 Crore MeitY-Sanctioned Silicon Photonics Program",
-      "source": "business-standard.com",
+      "id": "http://www.parisguardian.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program",
+      "title": "izmo Microsystems and IIT Madras Enter Phase II of 99.94 Crore MeitY-Sanctioned Silicon Photonics Program",
+      "source": "parisguardian.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T09:16:00Z",
-      "publishedAt": "2026-10-07T09:16:00Z",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
       "summary": "",
-      "url": "https://www.business-standard.com/content/press-releases-ani/izmo-microsystems-and-iit-madras-enter-phase-ii-of-99-94-crore-meity-sanctioned-silicon-photonics-program-126100700417_1.html"
+      "url": "http://www.parisguardian.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program"
     },
     {
       "id": "https://www.manilatimes.net/2026/10/07/tmt-newswire/plentisoft/bloomway-asean-development-center-unveils-regional-ai-visual-content-strategy/2440548",
@@ -680,16 +704,16 @@
       "url": "https://www.manilatimes.net/2026/10/07/tmt-newswire/plentisoft/bloomway-asean-development-center-unveils-regional-ai-visual-content-strategy/2440548"
     },
     {
-      "id": "https://www.ey.com/en_us/alliances/novartis-optimizes-supply-chain-with-real-time-risk-insight",
-      "title": "How Novartis optimized its supply chain",
-      "source": "ey.com",
+      "id": "https://punto.com.ph/cdc-seeks-pampanga-business-inclusion-in-clark-supply-chain/",
+      "title": "CDC seeks Pampanga business inclusion in Clark supply chain , Punto! Central Luzon",
+      "source": "punto.com.ph",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:17:00Z",
-      "publishedAt": "2026-10-06T23:17:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:02:00Z",
+      "publishedAt": "2026-10-07T03:02:00Z",
       "summary": "",
-      "url": "https://www.ey.com/en_us/alliances/novartis-optimizes-supply-chain-with-real-time-risk-insight"
+      "url": "https://punto.com.ph/cdc-seeks-pampanga-business-inclusion-in-clark-supply-chain/"
     },
     {
       "id": "https://www.riotimesonline.com/canada-exports-us-jump-august-tariffs-2026/",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-07T07:47:00Z",
       "summary": "",
       "url": "https://www.beefcentral.com/trade/trade-distortions-continue-to-buffet-september-beef-exports/"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-spice-traders-seek-tariff-exemptions-for-indian-spices-under-potential-trade-deal/articleshow/134759493.cms",
-      "title": "US spice traders seek tariff exemptions for Indian spices under potential trade deal",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T07:46:00Z",
-      "publishedAt": "2026-10-07T07:46:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-spice-traders-seek-tariff-exemptions-for-indian-spices-under-potential-trade-deal/articleshow/134759493.cms"
-    },
-    {
-      "id": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs",
-      "title": "Before the Midterms: What Americans Think About Trade and Tariffs | Council on Foreign Relations",
-      "source": "cfr.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T00:17:00Z",
-      "publishedAt": "2026-10-07T00:17:00Z",
-      "summary": "",
-      "url": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5761,
-    "relevantItems": 137,
-    "feedBytes": 1637928,
+    "fetchedItems": 5938,
+    "relevantItems": 116,
+    "feedBytes": 1681590,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
