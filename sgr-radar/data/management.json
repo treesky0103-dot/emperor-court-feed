@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 07:33:53",
+  "updatedAt": "2026. 10. 08. 오전 07:52:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 73,
-    "deduped": 73,
-    "eventDeduped": 73,
+    "passed": 71,
+    "deduped": 71,
+    "eventDeduped": 71,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -500,18 +500,6 @@
       "url": "https://www.walesonline.co.uk/news/wales-news/fears-jobs-major-welsh-employer-34723930"
     },
     {
-      "id": "https://theconversation.com/why-your-boss-matters-more-than-remote-or-hybrid-work-when-it-comes-to-burnout-and-job-satisfaction-293319",
-      "title": "Why your boss matters more than remote or hybrid work when it comes to burnout and job satisfaction",
-      "source": "theconversation.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T13:46:00Z",
-      "publishedAt": "2026-10-07T13:46:00Z",
-      "summary": "",
-      "url": "https://theconversation.com/why-your-boss-matters-more-than-remote-or-hybrid-work-when-it-comes-to-burnout-and-job-satisfaction-293319"
-    },
-    {
       "id": "https://www.etoday.co.kr/news/view/2631639",
       "title": "AI가 만든 금융 신계급…“디지털 약자 품고, 기업 재무체력 키워야”[AI 신계급 사회]",
       "source": "etoday.co.kr",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T15:32:00Z",
       "summary": "",
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680394"
+    },
+    {
+      "id": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/",
+      "title": "Castle Park in Riverside lays off more than 100 employees during makeover",
+      "source": "sgvtribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T21:47:00Z",
+      "publishedAt": "2026-10-07T21:47:00Z",
+      "summary": "",
+      "url": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4039,
-    "relevantItems": 128,
-    "feedBytes": 1094181,
+    "fetchedItems": 4112,
+    "relevantItems": 121,
+    "feedBytes": 1091315,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

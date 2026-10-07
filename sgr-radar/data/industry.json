@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 07:33:52",
+  "updatedAt": "2026. 10. 08. 오전 07:52:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 686,
-    "deduped": 686,
-    "eventDeduped": 686,
+    "passed": 684,
+    "deduped": 684,
+    "eventDeduped": 684,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -692,18 +692,6 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/finolex-cables-limited-sees-huge-opportunity-in-emerging-data-centre-hub-in-vizag/article71555208.ece"
     },
     {
-      "id": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-halt-to-incentives-for-google-data-centre-project/article71555249.ece",
-      "title": "CPI(M) seeks halt to incentives for Google data centre project",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T13:32:00Z",
-      "publishedAt": "2026-10-07T13:32:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-halt-to-incentives-for-google-data-centre-project/article71555249.ece"
-    },
-    {
       "id": "https://www.nbr.co.nz/politics/national-would-require-data-centres-to-provide-their-own-power/",
       "title": "National would require data centres to provide their own power - NBR | Business news & analysis | Independent, ad-free reporting",
       "source": "nbr.co.nz",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T21:32:00Z",
       "summary": "",
       "url": "https://www.geelongadvertiser.com.au/news/northern-geelong/plans-lodged-for-6bn-mega-data-centre-near-geelong-under-fasttrack-state-rules/news-story/a722b32d38653f037db9c3acd420a227&memtype=anonymous&mode=premium&nk=d0d0770f8a1ad0fcf44f0a4d4ecf8d95-1791408736"
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-10-08/mixed-response-to-proposed-data-centre-near-wagga-wagga/107214860",
+      "title": "Town questions $15b data centre set to use enough power for 1m homes",
+      "source": "abc.net.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T20:47:00Z",
+      "publishedAt": "2026-10-07T20:47:00Z",
+      "summary": "",
+      "url": "https://www.abc.net.au/news/2026-10-08/mixed-response-to-proposed-data-centre-near-wagga-wagga/107214860"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4039,
-    "relevantItems": 128,
-    "feedBytes": 1094181,
+    "fetchedItems": 4112,
+    "relevantItems": 121,
+    "feedBytes": 1091315,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
