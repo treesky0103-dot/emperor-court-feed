@@ -8,8 +8,8 @@
   "aiTokens": false,
   "mode": "retry",
   "runDateKst": "2026-10-07",
-  "updatedAt": "2026-10-07T06:38:40.963183Z",
-  "updatedAtKorea": "2026. 10. 07. 15:38:40 KST",
+  "updatedAt": "2026-10-07T06:43:39.899318Z",
+  "updatedAtKorea": "2026. 10. 07. 15:43:39 KST",
   "count": 15,
   "successCount": 14,
   "freshSuccessCount": 14,
@@ -24,9 +24,9 @@
       "stale": false,
       "itemCount": 0,
       "fetchedAt": "",
-      "sourceUrl": "https://www.mckinsey.com/mgi/overview?no_head=1",
-      "lastAttemptAt": "2026-10-07T06:37:33.933028Z",
-      "error": "wn error type: [2516:2516:1007/063840.495367:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files [2516:2537:1007/063840.497640:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\") [2516:2516:1007/063840.530929:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: [2516:2537:1007/063840.531109:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\") [2516:2516:1007/063840.561095:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: [2516:2516:1007/063840.856964:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_HTTP2_PROTOCOL_ERROR"
+      "sourceUrl": "https://www.mckinsey.com/sitemap.xml",
+      "lastAttemptAt": "2026-10-07T06:41:00.652779Z",
+      "error": "https://www.mckinsey.com/sitemap.xml: headless Chrome timed out | https://www.mckinsey.com/mgi/overview?no_head=1: headless Chrome timed out | https://www.mckinsey.com/mgi/our-research/all-research: headless Chrome timed out"
     },
     {
       "id": "bhi",
