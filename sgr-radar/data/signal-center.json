@@ -1,39 +1,37 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 10:16:11",
+  "updatedAt": "2026. 10. 07. 오전 10:37:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261006000364",
-          "title": "AI 활용을 넘어 '변화 설계'로… 태재대 AI·미래전략대학원, 산업·사회 전환 이끌 석사과정 신입생 모집",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T06:29:10Z",
-          "publishedAt": "2026-10-06T06:29:10Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261006000364",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/business/12170053",
-          "title": "재벌 4·5세 가장 많이 나온 국내 대학, 서울대 아니네?… 고려대 ‘최다’",
+          "id": "https://www.mk.co.kr/news/society/12170133",
+          "title": "[속보] 인구감소지역 89→92곳…부산 금정·동두천·통영 새로 편입",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T09:35:47Z",
-          "publishedAt": "2026-10-07T09:35:47Z",
+          "dateRaw": "2026-10-07T10:35:20Z",
+          "publishedAt": "2026-10-07T10:35:20Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12170053",
+          "url": "https://www.mk.co.kr/news/society/12170133",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.etnews.com/20261002000113",
+          "title": "[박건영의 셀프 입시]〈17〉인문대학으로 가는 생기부",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T01:32:00Z",
+          "publishedAt": "2026-10-07T01:32:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261002000113"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02814246645610624&mediaCodeNo=257",
@@ -139,7 +137,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 3
+          "count": 2
         },
         {
           "word": "청년",
@@ -147,6 +145,10 @@
         },
         {
           "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "인구감소",
           "count": 1
         },
         {
@@ -173,16 +175,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02496086645610624&mediaCodeNo=257"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12169429",
-          "title": "휴대폰 방전 막은 게 86배 투자대박의 비결? … ‘배터리 풍수’의 비밀",
+          "id": "https://www.mk.co.kr/news/society/12170116",
+          "title": "[100세시대 생애설계] 인생 한 번은 오디세이아: 거친 투자의 바다를 건너 ‘이타카’로 가는 길",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:30:00Z",
-          "publishedAt": "2026-10-07T05:30:00Z",
+          "dateRaw": "2026-10-07T10:20:46Z",
+          "publishedAt": "2026-10-07T10:20:46Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12169429",
+          "url": "https://www.mk.co.kr/news/society/12170116",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -213,6 +215,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261007021003",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/well/news/939843.html",
+          "title": "사랑의교회 오정현목사 재정비리 의혹",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T01:32:00Z",
+          "publishedAt": "2026-10-07T01:32:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/well/news/939843.html"
         },
         {
           "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000020479&code=61141111&sid1=eco",
@@ -275,24 +289,12 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223445",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10894886",
-          "title": "‘반도체 여왕’ 리사 수 “AI 수요, 수년 더 간다”…AMD 신고가·뉴욕증시 또 최고 [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T23:32:00Z",
-          "publishedAt": "2026-10-06T23:32:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10894886"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 8
+          "count": 7
         },
         {
           "word": "기업",
@@ -404,20 +406,6 @@
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020409&code=11151400&sid1=eco"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223245",
-          "title": "코드021, 피지컬 AI 기반 조리로봇 개발 착수…카페쿠바노에프앤비 산단 입주 연계 추진",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T00:52:00Z",
-          "publishedAt": "2026-10-06T00:52:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223245",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273167&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
           "title": "성수석 이천시장 \"반도체 R&D·역세권·경마공원으로 미래 먹거리 만든다\"",
           "source": "ohmynews.com",
@@ -440,19 +428,31 @@
           "publishedAt": "2026-10-07T01:01:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261007000194"
+        },
+        {
+          "id": "https://www.insight.co.kr/news/576741",
+          "title": "삼성물산·삼성전자 추가 출자 계획 없다...삼성바이오, 유증 감소분 3359억 자체 조달",
+          "source": "insight.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T00:17:00Z",
+          "publishedAt": "2026-10-07T00:17:00Z",
+          "summary": "",
+          "url": "https://www.insight.co.kr/news/576741"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "반도체",
           "count": 3
         },
         {
-          "word": "로봇",
+          "word": "바이오",
           "count": 2
         },
         {
@@ -468,7 +468,7 @@
           "count": 2
         },
         {
-          "word": "바이오",
+          "word": "로봇",
           "count": 1
         },
         {
@@ -682,6 +682,30 @@
           "url": "https://tradeonlytoday.com/industry-news/employment-survey-shows-q4-global-hiring-growth/"
         },
         {
+          "id": "http://www.bostonstar.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
+          "title": "Vietnam GDP growth hits 9.95% as exports and investment surge",
+          "source": "bostonstar.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T01:32:00Z",
+          "publishedAt": "2026-10-07T01:32:00Z",
+          "summary": "",
+          "url": "http://www.bostonstar.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
+        },
+        {
+          "id": "https://tribune.com.pk/story/2633365/investment-hinges-on-economic-stability",
+          "title": "Investment hinges on economic stability | The Express Tribune",
+          "source": "tribune.com.pk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T01:32:00Z",
+          "publishedAt": "2026-10-07T01:32:00Z",
+          "summary": "",
+          "url": "https://tribune.com.pk/story/2633365/investment-hinges-on-economic-stability"
+        },
+        {
           "id": "http://www.goskagit.com/news/nation/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_9fc87bf0-5b7b-58d5-b0ba-d68c832ffb4f.html",
           "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
           "source": "goskagit.com",
@@ -728,48 +752,20 @@
           "publishedAt": "2026-10-06T18:17:00Z",
           "summary": "",
           "url": "https://www.logisticsmgmt.com/article/manufacturing_grows_in_september_amid_some_broad_economic_concerns_reports_ism/lm_october_2026"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/international/europe/1209650.html",
-          "title": "유럽도 일본 따라가나…미국과 15% 상호관세 합의설 솔솔",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T18:17:00Z",
-          "publishedAt": "2026-10-06T18:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/international/europe/1209650.html"
-        },
-        {
-          "id": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth",
-          "title": "Bank of Canada governor warns new tariffs could cut fourth-quarter growth in half",
-          "source": "financialpost.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T17:16:00Z",
-          "publishedAt": "2026-10-06T17:16:00Z",
-          "summary": "",
-          "url": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth"
         }
       ],
       "keywords": [
         {
           "word": "투자",
+          "count": 5
+        },
+        {
+          "word": "성장",
           "count": 3
         },
         {
           "word": "고용",
           "count": 2
-        },
-        {
-          "word": "성장",
-          "count": 2
-        },
-        {
-          "word": "관세",
-          "count": 1
         },
         {
           "word": "무역",
@@ -932,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1992,
-    "fetchedItems": 3288,
-    "feedBytes": 858666,
+    "poolSize": 2000,
+    "fetchedItems": 3335,
+    "feedBytes": 884983,
     "rollingWindowHours": 72
   }
 }
