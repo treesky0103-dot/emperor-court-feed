@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 06:12:39",
+  "updatedAt": "2026. 10. 08. 오전 06:36:09",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -70,18 +70,6 @@
           "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552405"
         },
         {
-          "id": "https://www.diodeo.com/news/view/80378",
-          "title": "기념 인사말 하는 임채민 보건복지부 장관",
-          "source": "diodeo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:32:00Z",
-          "publishedAt": "2026-10-07T13:32:00Z",
-          "summary": "",
-          "url": "https://www.diodeo.com/news/view/80378"
-        },
-        {
           "id": "https://www.mk.co.kr/news/society/12170790",
           "title": "교육부, 지거국 지원 확대…AI 안경 부정행위도 손본다",
           "source": "mk.co.kr",
@@ -142,17 +130,13 @@
           "count": 4
         },
         {
-          "word": "복지",
-          "count": 1
-        },
-        {
           "word": "인구감소",
           "count": 1
         }
       ],
-      "displayed": 10,
+      "displayed": 9,
       "target": 10,
-      "targetMet": true
+      "targetMet": false
     },
     "economy": {
       "items": [
@@ -169,6 +153,18 @@
           "url": "https://www.mk.co.kr/news/society/12170623",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2633596",
+          "title": "[대전환! 이해관계자경영 시대] 7. 행동주의 투자자에겐 책임이 따른다",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T21:31:00Z",
+          "publishedAt": "2026-10-07T21:31:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2633596"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=06297606645610624&mediaCodeNo=257",
@@ -267,24 +263,12 @@
           "publishedAt": "2026-10-07T14:32:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10896212"
-        },
-        {
-          "id": "https://www.hankookilbo.com/news/article/A2026100714410001918",
-          "title": "챗GPT·제미나이 못 쓰는 한은, 자체 AI '보키'로 연 12만 시간 절감-경제ㅣ한국일보",
-          "source": "hankookilbo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T20:32:00Z",
-          "publishedAt": "2026-10-07T20:32:00Z",
-          "summary": "",
-          "url": "https://www.hankookilbo.com/news/article/A2026100714410001918"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 7
         },
         {
           "word": "금리",
@@ -316,6 +300,32 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.etoday.co.kr/news/view/2633593",
+          "title": "[논현광장-김상경의 Nature Finance] ⑧ AI 데이터센터 또 하나의 경쟁력 ‘물’",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T21:32:00Z",
+          "publishedAt": "2026-10-07T21:32:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2633593"
+        },
+        {
+          "id": "https://www.etnews.com/20261007000493",
+          "title": "뉴엔AI, AI 기술 선도 기업 사업화 플랫폼 코오롱베니트 AI 얼라이언스 합류",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T21:09:00Z",
+          "publishedAt": "2026-10-07T21:09:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261007000493",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257",
           "title": "“원하는 곳에 반도체 하나만 키운다”…고집적 AI칩 새 기술 나왔다",
           "source": "edaily.co.kr",
@@ -338,20 +348,6 @@
           "publishedAt": "2026-10-07T14:32:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261007001644"
-        },
-        {
-          "id": "https://www.etnews.com/20261007000112",
-          "title": "[기후테크, 산업을 바꾸다③]배터리 속 얇은 막 하나…화재 위험 낮추는 기술",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T19:00:00Z",
-          "publishedAt": "2026-10-07T19:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261007000112",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.hankookilbo.com/news/article/A2026100710510002629",
@@ -412,20 +408,6 @@
           "publishedAt": "2026-10-07T14:17:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272979&CMPT_CD=M0153"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261007231002",
-          "title": "어뷰식스, 장기적인 파트너 성장에 투자하기 위해 '어뷰식스 프론트라인' 출시",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:10:02Z",
-          "publishedAt": "2026-10-07T14:10:02Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261007231002",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
@@ -435,10 +417,10 @@
         },
         {
           "word": "AI",
-          "count": 3
+          "count": 6
         },
         {
-          "word": "배터리",
+          "word": "데이터센터",
           "count": 1
         },
         {
@@ -465,6 +447,18 @@
           "publishedAt": "2026-10-07T17:47:00Z",
           "summary": "",
           "url": "https://newsroomamerica.com/a/BgbqX02unJzaERzwfDfj7HrBUL/rice_university_s_dateline_roundup_highlights_faculty_commentary_on_texas_pediatricians_facing_investigations_a_tight_governor_s_race_gas_flaring_mortgage_costs_and_kinder_institute_research_on_falling_birth_rates.html"
+        },
+        {
+          "id": "https://barbadostoday.bb/2026/10/07/ncsa-synthetic-drugs-a-growing-challenge-for-healthcare-workers/",
+          "title": "NCSA: Synthetic drugs a growing challenge for healthcare workers - Barbados Today",
+          "source": "barbadostoday.bb",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T21:32:00Z",
+          "publishedAt": "2026-10-07T21:32:00Z",
+          "summary": "",
+          "url": "https://barbadostoday.bb/2026/10/07/ncsa-synthetic-drugs-a-growing-challenge-for-healthcare-workers/"
         },
         {
           "id": "https://nbcmontana.com/news/nation-world/massive-protests-sweep-france-over-school-conditions-as-trump-blames-immigration-politics",
@@ -561,24 +555,12 @@
           "publishedAt": "2026-10-07T13:46:00Z",
           "summary": "",
           "url": "https://www.springfieldnewssun.com/entertainment/events/local-youth-group-uses-dear-evan-hansen-stage-production-to-spark-conversations-on-teen-mental/article_f252ccda-56a7-5048-aba9-0deea16a54bd.html"
-        },
-        {
-          "id": "http://www.indiagazette.com/news/279358103/india-and-ghana-sign-historic-mou-to-advance-agricultural-research-education-and-technology-transfer",
-          "title": "India and Ghana sign historic MOU to advance agricultural research, education, and technology transfer",
-          "source": "indiagazette.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T20:47:00Z",
-          "publishedAt": "2026-10-07T20:47:00Z",
-          "summary": "",
-          "url": "http://www.indiagazette.com/news/279358103/india-and-ghana-sign-historic-mou-to-advance-agricultural-research-education-and-technology-transfer"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
         },
         {
           "word": "이민",
@@ -797,6 +779,18 @@
           "url": "https://wccftech.com/samsungs-12-hi-hbm4e-reportedly-passes-nvidia-qualification-paving-way-for-next-gen-ai-gpu-supply/"
         },
         {
+          "id": "https://www.whqr.org/2026-10-07/duke-energy-reaches-agreement-on-new-special-rates-for-large-users-like-data-centers",
+          "title": "Duke Energy reaches agreement on new, special rates for large users like data centers",
+          "source": "whqr.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T21:32:00Z",
+          "publishedAt": "2026-10-07T21:32:00Z",
+          "summary": "",
+          "url": "https://www.whqr.org/2026-10-07/duke-energy-reaches-agreement-on-new-special-rates-for-large-users-like-data-centers"
+        },
+        {
           "id": "https://digg.com/ai/wz8me19p",
           "title": "GitHub Copilot is set to route tasks between local and cloud AI models · Digg",
           "source": "digg.com",
@@ -845,18 +839,6 @@
           "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance"
         },
         {
-          "id": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-reaches-agreement-on-new-special-rates-for-large-users-like-data-centers",
-          "title": "Duke Energy reaches agreement on new, special rates for large users like data centers",
-          "source": "wfae.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T19:32:00Z",
-          "publishedAt": "2026-10-07T19:32:00Z",
-          "summary": "",
-          "url": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-reaches-agreement-on-new-special-rates-for-large-users-like-data-centers"
-        },
-        {
           "id": "https://www.industryweek.com/members/article/55410176/civil-reserve-manufacturing-network-wants-you-where-the-robots-reside-so-that-happened",
           "title": "Civil Reserve Manufacturing Network Wants You; Where the Robots Reside: So That Happened",
           "source": "industryweek.com",
@@ -903,8 +885,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4577,
-    "feedBytes": 1271207,
+    "fetchedItems": 4077,
+    "feedBytes": 1129995,
     "rollingWindowHours": 72
   }
 }
