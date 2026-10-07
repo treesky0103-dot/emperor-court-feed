@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 04:29:06",
+  "updatedAt": "2026. 10. 07. 오후 04:49:47",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 693,
-    "deduped": 693,
-    "eventDeduped": 693,
+    "passed": 695,
+    "deduped": 695,
+    "eventDeduped": 695,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -692,6 +692,18 @@
       "url": "https://www.bennettjones.com/Insights/Blogs/2026/10/Canada-Launches-Responsible-Data-Centre-Development-Principles-What-Clients-Need-to-Know"
     },
     {
+      "id": "https://www.aol.co.uk/articles/major-wiltshire-data-centre-starts-071359000.html",
+      "title": "Work on major Wiltshire data centre starts after legal agreements signed - AOL",
+      "source": "aol.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T07:46:00Z",
+      "publishedAt": "2026-10-07T07:46:00Z",
+      "summary": "",
+      "url": "https://www.aol.co.uk/articles/major-wiltshire-data-centre-starts-071359000.html"
+    },
+    {
       "id": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns",
       "title": "Finland orders halt to work on Google data centre sites",
       "source": "aljazeera.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-07T00:46:00Z",
       "summary": "",
       "url": "https://www.itnews.com.au/news/atlassian-data-centre-products-hit-by-unauthenticated-file-access-vulnerability-629460"
-    },
-    {
-      "id": "https://digg.com/ai/xcqgvul1",
-      "title": "Ben Affleck is quoted discussing Python, neural networks and GPUs · Digg",
-      "source": "digg.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
-      "summary": "",
-      "url": "https://digg.com/ai/xcqgvul1"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5450,
-    "relevantItems": 138,
-    "feedBytes": 1476151,
+    "fetchedItems": 931,
+    "relevantItems": 29,
+    "feedBytes": 257495,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

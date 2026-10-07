@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 04:29:07",
+  "updatedAt": "2026. 10. 07. 오후 04:49:49",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 116,
-    "deduped": 116,
-    "eventDeduped": 116,
+    "passed": 120,
+    "deduped": 120,
+    "eventDeduped": 120,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -668,16 +668,16 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=02315686645610624&mediaCodeNo=257"
     },
     {
-      "id": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs",
-      "title": "Before the Midterms: What Americans Think About Trade and Tariffs | Council on Foreign Relations",
-      "source": "cfr.org",
+      "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-spice-traders-seek-tariff-exemptions-for-indian-spices-under-potential-trade-deal/articleshow/134759493.cms",
+      "title": "US spice traders seek tariff exemptions for Indian spices under potential trade deal",
+      "source": "economictimes.indiatimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T00:17:00Z",
-      "publishedAt": "2026-10-07T00:17:00Z",
+      "dateRaw": "2026-10-07T07:46:00Z",
+      "publishedAt": "2026-10-07T07:46:00Z",
       "summary": "",
-      "url": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs"
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-spice-traders-seek-tariff-exemptions-for-indian-spices-under-potential-trade-deal/articleshow/134759493.cms"
     },
     {
       "id": "https://www.michigandaily.com/news/government/us-sanctions-ban-iranian-students-from-the-lsat/",
@@ -728,25 +728,25 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01430086645610624&mediaCodeNo=257"
     },
     {
-      "id": "https://bdnews24.com/business/6nb3tsekep",
-      "title": "‘Fuel import costs’ push Bangladesh trade deficit up 29% in two months",
-      "source": "bdnews24.com",
+      "id": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs",
+      "title": "Before the Midterms: What Americans Think About Trade and Tariffs | Council on Foreign Relations",
+      "source": "cfr.org",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T21:46:00Z",
-      "publishedAt": "2026-10-06T21:46:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
       "summary": "",
-      "url": "https://bdnews24.com/business/6nb3tsekep"
+      "url": "https://www.cfr.org/articles/before-the-midterms-what-americans-think-about-trade-and-tariffs"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5450,
-    "relevantItems": 138,
-    "feedBytes": 1476151,
+    "fetchedItems": 931,
+    "relevantItems": 29,
+    "feedBytes": 257495,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

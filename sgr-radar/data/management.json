@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 04:29:07",
+  "updatedAt": "2026. 10. 07. 오후 04:49:48",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 64,
-    "deduped": 64,
-    "eventDeduped": 64,
+    "passed": 65,
+    "deduped": 65,
+    "eventDeduped": 65,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -596,6 +596,18 @@
       "url": "https://itbrief.co.nz/story/gurucul-launches-ai-risk-response-for-enterprises"
     },
     {
+      "id": "https://brain.nextbigwhat.com/",
+      "title": "NBW Brain: consumer behaviour research you can question",
+      "source": "brain.nextbigwhat.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T07:46:00Z",
+      "publishedAt": "2026-10-07T07:46:00Z",
+      "summary": "",
+      "url": "https://brain.nextbigwhat.com/"
+    },
+    {
       "id": "https://www.huffingtonpost.kr:443/article/261037",
       "title": "혼다, 미국 시장 수요 증가에도 하이브리드 자동차 생산 몇 개월 뒤로 미뤄 : 틈을 타 치고 올라오는 현대차",
       "source": "huffingtonpost.kr",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-07T01:46:00Z",
       "summary": "",
       "url": "https://allafrica.com/stories/202610070052.html"
-    },
-    {
-      "id": "https://www.northernpen.ca/microsofts-new-copilot-ai-agents-act-like-virtual-workers-to-automate-tasks/",
-      "title": "Microsoft's new Copilot AI agents act like virtual workers to automate tasks",
-      "source": "northernpen.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T21:46:00Z",
-      "publishedAt": "2026-10-06T21:46:00Z",
-      "summary": "",
-      "url": "https://www.northernpen.ca/microsofts-new-copilot-ai-agents-act-like-virtual-workers-to-automate-tasks/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5450,
-    "relevantItems": 138,
-    "feedBytes": 1476151,
+    "fetchedItems": 931,
+    "relevantItems": 29,
+    "feedBytes": 257495,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

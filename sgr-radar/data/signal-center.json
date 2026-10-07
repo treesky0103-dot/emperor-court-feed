@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 04:29:12",
+  "updatedAt": "2026. 10. 07. 오후 04:49:55",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -34,18 +34,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261007100139"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12170425",
-          "title": "홍지선 국토장관 “연말쯤 집값 상승폭 줄어들 것···전세 감소는 메가트렌드”",
+          "id": "https://www.mk.co.kr/news/society/12170579",
+          "title": "안민석 경기도교육감 “AI교육·사교육비 반값 추진”…취임 100일 새 화두 제시",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:56:54Z",
-          "publishedAt": "2026-10-07T14:56:54Z",
+          "dateRaw": "2026-10-07T16:48:11Z",
+          "publishedAt": "2026-10-07T16:48:11Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12170425",
+          "url": "https://www.mk.co.kr/news/society/12170579",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.seoul.co.kr/news/politics/2026/10/07/20261007500079",
@@ -134,19 +134,19 @@
       ],
       "keywords": [
         {
+          "word": "교육",
+          "count": 7
+        },
+        {
           "word": "청년",
           "count": 5
         },
         {
-          "word": "교육",
-          "count": 4
+          "word": "복지",
+          "count": 2
         },
         {
           "word": "주거",
-          "count": 4
-        },
-        {
-          "word": "복지",
           "count": 2
         },
         {
@@ -173,6 +173,20 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02496086645610624&mediaCodeNo=257"
         },
         {
+          "id": "https://www.etnews.com/20261007000426",
+          "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T07:19:48Z",
+          "publishedAt": "2026-10-07T07:19:48Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261007000426",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
           "title": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각",
           "source": "hani.co.kr",
@@ -185,32 +199,18 @@
           "url": "https://www.hani.co.kr/arti/international/america/1281250.html"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12170561",
-          "title": "정해용 전 대구시 경제부시장, 대구경북경제자유구역청장에 임용",
+          "id": "https://www.mk.co.kr/news/society/12170581",
+          "title": "우상호 “강원 변화 시작”… 기업·관광 투자 성과 강조",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T16:23:48Z",
-          "publishedAt": "2026-10-07T16:23:48Z",
+          "dateRaw": "2026-10-07T16:48:23Z",
+          "publishedAt": "2026-10-07T16:48:23Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12170561",
+          "url": "https://www.mk.co.kr/news/society/12170581",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.etnews.com/20261007000188",
-          "title": "[人사이트] 장기벽 타임퍼센트 대표 “개인에게 불리한 투자시장 AI 퀀트로 극복”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:00:00Z",
-          "publishedAt": "2026-10-07T07:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261007000188",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202610071352511271",
@@ -292,7 +292,11 @@
         },
         {
           "word": "인력",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "기업",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -632,6 +636,18 @@
           "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-flat-focus-turns-fed-minutes-monetary-policy-path-clues"
         },
         {
+          "id": "http://www.iranherald.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
+          "title": "Vietnam GDP growth hits 9.95% as exports and investment surge",
+          "source": "iranherald.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T07:46:00Z",
+          "publishedAt": "2026-10-07T07:46:00Z",
+          "summary": "",
+          "url": "http://www.iranherald.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
+        },
+        {
           "id": "https://frontpageafricaonline.com/liberia-lseza-joins-africas-economic-zones-network-eyes-investment-jobs-and-exports/",
           "title": "Liberia: LSEZA Joins Africa’s Economic Zones Network, Eyes Investment, Jobs and Exports - FrontPageAfrica",
           "source": "frontpageafricaonline.com",
@@ -642,18 +658,6 @@
           "publishedAt": "2026-10-07T07:16:00Z",
           "summary": "",
           "url": "https://frontpageafricaonline.com/liberia-lseza-joins-africas-economic-zones-network-eyes-investment-jobs-and-exports/"
-        },
-        {
-          "id": "http://www.massachusettssun.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
-          "title": "Vietnam GDP growth hits 9.95% as exports and investment surge",
-          "source": "massachusettssun.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:46:00Z",
-          "publishedAt": "2026-10-07T06:46:00Z",
-          "summary": "",
-          "url": "http://www.massachusettssun.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
         },
         {
           "id": "https://www.livemint.com/money/personal-finance/rbi-mpc-speech-fdi-forex-reserves-credit-growth-what-governor-sanjay-malhotra-said-on-global-financials-11791351449224.html",
@@ -903,8 +907,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5450,
-    "feedBytes": 1476151,
+    "fetchedItems": 931,
+    "feedBytes": 257495,
     "rollingWindowHours": 72
   }
 }
