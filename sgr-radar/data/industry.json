@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 01:38:29",
+  "updatedAt": "2026. 10. 07. 오후 01:57:02",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 672,
-    "deduped": 672,
-    "eventDeduped": 672,
+    "passed": 667,
+    "deduped": 667,
+    "eventDeduped": 667,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -152,6 +152,18 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=03781846645610624&mediaCodeNo=257"
     },
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03893366645610624&mediaCodeNo=257",
+      "title": "\"몸속에서 항암 치료제 만든다\"...서울대기술지주, 바이오 벤처 '엠브릭스' 투자",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:46:00Z",
+      "publishedAt": "2026-10-07T04:46:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03893366645610624&mediaCodeNo=257"
+    },
+    {
       "id": "http://inews24.com/view/2012593",
       "title": "반도체·AI 데이터센터 투자 러쉬…외국인 투자 도착액 '역대 최대'",
       "source": "inews24.com",
@@ -270,18 +282,6 @@
       "publishedAt": "2026-10-07T04:32:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1281267.html"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=03765446645610624&mediaCodeNo=257",
-      "title": "“미팅 잡아라” K바이오, 바이오재팬서 종횡무진…파트너링 열기 ‘후끈’",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T04:02:00Z",
-      "publishedAt": "2026-10-07T04:02:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03765446645610624&mediaCodeNo=257"
     },
     {
       "id": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/",
@@ -414,6 +414,18 @@
       "publishedAt": "2026-10-06T21:31:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026092914432112952"
+    },
+    {
+      "id": "https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-signs-mou-with-247vc-to-create-investment-opportunities-for-quantum-and-deep-tech-startups/article71554249.ece",
+      "title": "Chandigarh University Signs MoU with 247VC to Create Investment Opportunities for Quantum and Deep-Tech Startups",
+      "source": "thehindubusinessline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:46:00Z",
+      "publishedAt": "2026-10-07T04:46:00Z",
+      "summary": "",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-signs-mou-with-247vc-to-create-investment-opportunities-for-quantum-and-deep-tech-startups/article71554249.ece"
     },
     {
       "id": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/godrej-consumer-products-invests-rs-250-crore-in-new-indonesia-manufacturing-facility/134754315",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-06T20:31:00Z",
       "summary": "",
       "url": "https://arynews.tv/finland-orders-halt-to-work-on-googles-data-centre-sites"
-    },
-    {
-      "id": "https://www.napaneetoday.ca/2026/10/06/99998/",
-      "title": "Stone Mills declares itself unwilling host for hyperscale data centres",
-      "source": "napaneetoday.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T19:47:00Z",
-      "publishedAt": "2026-10-06T19:47:00Z",
-      "summary": "",
-      "url": "https://www.napaneetoday.ca/2026/10/06/99998/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3875,
-    "relevantItems": 106,
-    "feedBytes": 1035156,
+    "fetchedItems": 3666,
+    "relevantItems": 90,
+    "feedBytes": 1026206,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
