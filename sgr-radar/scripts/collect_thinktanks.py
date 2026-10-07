@@ -6,7 +6,7 @@ No paid API, search API, LLM API, API key, or user-managed token.
 Runs in GitHub Actions and preserves each institution's last-good JSON on failure.
 """
 from __future__ import annotations
-import argparse, json, re, time
+import argparse, json, re, time, subprocess
 from datetime import datetime, timedelta, timezone
 from html import unescape
 from pathlib import Path
@@ -18,13 +18,13 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "sgr-radar" / "data" / "thinktanks"
 STATUS = OUT / "status.json"
 MAX_ITEMS = 10
-UA = "Mozilla/5.0 (compatible; SGR-Strategy-Radar/1.3.16; official-source-monitor)"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
 MONTH = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
 
 # id, display name, default kind, official source pages, official hosts
 CFG = [
 ("mgi","McKinsey Global Institute","연구",
- ["https://www.mckinsey.com/mgi/overview?content_language=English"],
+ ["https://www.mckinsey.com/mgi/","https://www.mckinsey.com/mgi/our-research/all-research","https://www.mckinsey.com/mgi/overview?content_language=English"],
  ["mckinsey.com"]),
 ("bhi","BCG Henderson Institute","이슈",
  ["https://www.bcg.com/bcg-institute"],
@@ -45,10 +45,10 @@ CFG = [
  ["https://ir.mri.co.jp/ja/news.html","https://dx.mri.co.jp/column/"],
  ["mri.co.jp"]),
 ("chatham","Chatham House","연구",
- ["https://www.chathamhouse.org/publications/research-publications"],
+ ["https://www.chathamhouse.org/path/whatsnew.xml","https://www.chathamhouse.org/publications/research-publications"],
  ["chathamhouse.org"]),
 ("bruegel","Bruegel","연구",
- ["https://www.bruegel.org/publications","https://www.bruegel.org/search?keyword=&page=0"],
+ ["https://www.bruegel.org/publications?page=0","https://www.bruegel.org/publications","https://www.bruegel.org/search?keyword=&page=0"],
  ["bruegel.org"]),
 ("cfr","Council on Foreign Relations","이슈",
  ["https://www.cfr.org/latest"],
@@ -66,7 +66,7 @@ CFG = [
  ["https://issafrica.org/iss-today","https://issafrica.org/"],
  ["issafrica.org"]),
 ("cigi","Centre for International Governance Innovation","연구",
- ["https://www.cigionline.org/publications/","https://www.cigionline.org/publications/cigi-papers/"],
+ ["https://www.cigionline.org/publications/cigi-papers/","https://www.cigionline.org/publications/"],
  ["cigionline.org"]),
 ]
 BY_ID = {x[0]: x for x in CFG}
@@ -191,6 +191,27 @@ def parse_jsonld(html,cfg,src):
             out.append(item(cfg,title,url,date,src,n,note)); n+=1
     return out
 
+def parse_feed_xml(xml,cfg,src):
+    iid,name,default,sources,hosts=cfg
+    out=[]; n=500
+    blocks=re.findall(r"<(?:item|entry)\b[\s\S]*?</(?:item|entry)>",xml or "",re.I)
+    for b in blocks:
+        tm=re.search(r"<title\b[^>]*>([\s\S]*?)</title>",b,re.I)
+        title=textify(tm.group(1) if tm else "")
+        lm=re.search(r"<link\b[^>]*href=[\"']([^\"']+)[\"'][^>]*/?>",b,re.I)
+        if not lm:
+            lm=re.search(r"<link\b[^>]*>([\s\S]*?)</link>",b,re.I)
+        raw=clean(unescape(lm.group(1) if lm else ""))
+        url=official(raw,src,hosts)
+        dm=re.search(r"<(?:pubDate|published|updated|dc:date)\b[^>]*>([\s\S]*?)</(?:pubDate|published|updated|dc:date)>",b,re.I)
+        date=getdate(textify(dm.group(1) if dm else "")) or date_url(url)
+        desc=""
+        xm=re.search(r"<(?:description|summary|content:encoded)\b[^>]*>([\s\S]*?)</(?:description|summary|content:encoded)>",b,re.I)
+        if xm: desc=textify(xm.group(1))[:260]
+        if not good(title,url,date,sources,hosts):continue
+        out.append(item(cfg,title,url,date,src,n,desc)); n+=1
+    return out
+
 def parse_anchors(html,cfg,src):
     iid,name,default,sources,hosts=cfg
     out=[]; n=1000
@@ -224,16 +245,30 @@ def fetch(url):
     err=None
     for i in range(2):
         try:
-            r=Request(url,headers={"User-Agent":UA,"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","Accept-Language":"en-US,en;q=0.8,ja;q=0.6","Cache-Control":"no-cache"})
+            r=Request(url,headers={"User-Agent":UA,"Accept":"text/html,application/xhtml+xml,application/xml,application/rss+xml,application/atom+xml;q=0.9,*/*;q=0.8","Accept-Language":"en-US,en;q=0.8,ja;q=0.6,pt-BR;q=0.5","Cache-Control":"no-cache"})
             with urlopen(r,timeout=25) as z:
                 b=z.read()
                 enc=z.headers.get_content_charset() or "utf-8"
-                s=b.decode(enc,errors="replace")
-                if len(s)<200:raise RuntimeError("response too short")
-                return s
+                text=b.decode(enc,errors="replace")
+                if len(text)<200:raise RuntimeError("response too short")
+                return text
         except Exception as e:
             err=e
             if i==0:time.sleep(2)
+    # GitHub runner curl fallback: still fetches only the same official source URL.
+    try:
+        p=subprocess.run(
+            ["curl","-L","--fail","--silent","--show-error","--compressed","--http1.1",
+             "-A",UA,"-H","Accept-Language: en-US,en;q=0.8,ja;q=0.6,pt-BR;q=0.5",
+             "--connect-timeout","15","--max-time","35",url],
+            stdout=subprocess.PIPE,stderr=subprocess.PIPE,check=False
+        )
+        if p.returncode==0 and len(p.stdout)>=200:
+            return p.stdout.decode("utf-8",errors="replace")
+        cerr=p.stderr.decode("utf-8",errors="replace").strip()
+        if cerr: err=RuntimeError(cerr)
+    except Exception as e:
+        err=e
     raise RuntimeError(str(err))
 
 def load(path):
@@ -254,7 +289,7 @@ def one(cfg):
     got=[];errors=[];winner=""
     for src in sources:
         try:
-            h=fetch(src); p=dedupe(parse_jsonld(h,cfg,src)+parse_anchors(h,cfg,src))
+            h=fetch(src); p=dedupe(parse_feed_xml(h,cfg,src)+parse_jsonld(h,cfg,src)+parse_anchors(h,cfg,src))
             if p:
                 winner=winner or src;got.extend(p)
             if len(dedupe(got))>=MAX_ITEMS:break
