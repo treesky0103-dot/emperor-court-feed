@@ -2,33 +2,21 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 11:14:13",
+  "updatedAt": "2026. 10. 07. 오전 11:36:35",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 124,
-    "deduped": 124,
-    "eventDeduped": 124,
+    "passed": 111,
+    "deduped": 111,
+    "eventDeduped": 111,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html",
-      "title": "Oil prices fall as traders weigh strong Mideast exports against Gulf tensions",
-      "source": "cnbc.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:46:00Z",
-      "publishedAt": "2026-10-06T16:46:00Z",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257",
       "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
@@ -40,6 +28,18 @@
       "publishedAt": "2026-10-06T23:32:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-prices-stable-market-weighs-supply-risks-rising-middle-east-exports",
+      "title": "Oil prices stable as market weighs supply risks, rising Middle East exports",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:16:00Z",
+      "publishedAt": "2026-10-06T23:16:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-prices-stable-market-weighs-supply-risks-rising-middle-east-exports"
     },
     {
       "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
@@ -102,18 +102,6 @@
       "url": "https://natlawreview.com/article/five-checks-what-supply-chain-leaders-should-rethink-trump-tariff-environment-20"
     },
     {
-      "id": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/",
-      "title": "Energy security and AI infrastructure redraw Asia’s trade finance map",
-      "source": "gtreview.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
-      "summary": "",
-      "url": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/"
-    },
-    {
       "id": "https://www.etoday.co.kr/news/view/2632864",
       "title": "[단독] 방사청, LIG D&A 제재 이달 말 심의…입찰제한에 무게",
       "source": "etoday.co.kr",
@@ -126,31 +114,31 @@
       "url": "https://www.etoday.co.kr/news/view/2632864"
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute",
-      "title": "EAM calls for supply chain resilience, global south's right to industrialise, strategic autonomy at Ghana Foreign Service Institute",
-      "source": "bignewsnetwork.com",
+      "id": "https://www.voakorea.com/a/8208391.html",
+      "title": "사우디 원유 수출 회복…트럼프 “이란 분쟁 끝나면 유가 급락”",
+      "source": "voakorea.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "https://www.voakorea.com/a/8208391.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/07/tmt-newswire/media-outreach-newswire/esg-symposium-2026-unites-asean-efforts-moving-from-proposals-to-real-action-building-on-three-key-agendas-toward-4p-collaboration-that-links-policy-business-and-communities-to-drive-a-tangible-and-scalable-transition/2440527",
+      "title": "ESG Symposium 2026 Unites ASEAN Efforts, Moving from Proposals to Real Action: Building on Three Key Agendas Toward 4P Collaboration That Links Policy, Business and Communities to Drive a Tangible and Scalable Transition",
+      "source": "manilatimes.net",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:01:00Z",
-      "publishedAt": "2026-10-07T02:01:00Z",
+      "dateRaw": "2026-10-07T02:31:00Z",
+      "publishedAt": "2026-10-07T02:31:00Z",
       "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute"
+      "url": "https://www.manilatimes.net/2026/10/07/tmt-newswire/media-outreach-newswire/esg-symposium-2026-unites-asean-efforts-moving-from-proposals-to-real-action-building-on-three-key-agendas-toward-4p-collaboration-that-links-policy-business-and-communities-to-drive-a-tangible-and-scalable-transition/2440527"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html",
-      "title": "Oil prices fall as traders weigh strong Mideast exports against Gulf tensions",
-      "source": "cnbc.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:46:00Z",
-      "publishedAt": "2026-10-06T16:46:00Z",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257",
       "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
@@ -162,6 +150,18 @@
       "publishedAt": "2026-10-06T23:32:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02765046645610624&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-prices-stable-market-weighs-supply-risks-rising-middle-east-exports",
+      "title": "Oil prices stable as market weighs supply risks, rising Middle East exports",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:16:00Z",
+      "publishedAt": "2026-10-06T23:16:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-prices-stable-market-weighs-supply-risks-rising-middle-east-exports"
     },
     {
       "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
@@ -272,18 +272,6 @@
       "url": "https://natlawreview.com/article/five-checks-what-supply-chain-leaders-should-rethink-trump-tariff-environment-20"
     },
     {
-      "id": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/",
-      "title": "Energy security and AI infrastructure redraw Asia’s trade finance map",
-      "source": "gtreview.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
-      "summary": "",
-      "url": "https://www.gtreview.com/news/features/energy-security-and-ai-infrastructure-redraw-asias-trade-finance-map/"
-    },
-    {
       "id": "https://newsway.co.kr/news/view?ud=2026100707420244893",
       "title": "실적 기대에 금리 부담 완화···S&P500·나스닥 또 '사상 최고' - 뉴스웨이",
       "source": "newsway.co.kr",
@@ -332,16 +320,28 @@
       "url": "https://www.voakorea.com/a/8208391.html"
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute",
-      "title": "EAM calls for supply chain resilience, global south's right to industrialise, strategic autonomy at Ghana Foreign Service Institute",
-      "source": "bignewsnetwork.com",
+      "id": "https://www.manilatimes.net/2026/10/07/tmt-newswire/media-outreach-newswire/esg-symposium-2026-unites-asean-efforts-moving-from-proposals-to-real-action-building-on-three-key-agendas-toward-4p-collaboration-that-links-policy-business-and-communities-to-drive-a-tangible-and-scalable-transition/2440527",
+      "title": "ESG Symposium 2026 Unites ASEAN Efforts, Moving from Proposals to Real Action: Building on Three Key Agendas Toward 4P Collaboration That Links Policy, Business and Communities to Drive a Tangible and Scalable Transition",
+      "source": "manilatimes.net",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:01:00Z",
-      "publishedAt": "2026-10-07T02:01:00Z",
+      "dateRaw": "2026-10-07T02:31:00Z",
+      "publishedAt": "2026-10-07T02:31:00Z",
       "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute"
+      "url": "https://www.manilatimes.net/2026/10/07/tmt-newswire/media-outreach-newswire/esg-symposium-2026-unites-asean-efforts-moving-from-proposals-to-real-action-building-on-three-key-agendas-toward-4p-collaboration-that-links-policy-business-and-communities-to-drive-a-tangible-and-scalable-transition/2440527"
+    },
+    {
+      "id": "http://www.calcuttanews.net/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute",
+      "title": "EAM calls for supply chain resilience, global south's right to industrialise, strategic autonomy at Ghana Foreign Service Institute",
+      "source": "calcuttanews.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T02:31:00Z",
+      "publishedAt": "2026-10-07T02:31:00Z",
+      "summary": "",
+      "url": "http://www.calcuttanews.net/news/279356086/eam-calls-for-supply-chain-resilience-global-south-right-to-industrialise-strategic-autonomy-at-ghana-foreign-service-institute"
     },
     {
       "id": "https://greentechlead.com/renewable-energy/asean-clean-energy-investment-16-19-gw-storage-gap-exposes-project-financing-bottleneck-55771",
@@ -462,30 +462,6 @@
       "publishedAt": "2026-10-06T19:02:00Z",
       "summary": "",
       "url": "https://www.elciudadano.com/en/youngo-2026-santiago-emerges-as-the-geopolitical-hub-for-latin-american-youth-climate-debate/10/06/"
-    },
-    {
-      "id": "https://sputnikglobe.com/20261006/putin-to-hold-bilateral-meeting-with-xi-on-sidelines-of-apec-summit---kremlin-aide-1124844232.html",
-      "title": "Putin to Hold Bilateral Meeting With Xi on Sidelines of APEC Summit - Kremlin Aide",
-      "source": "sputnikglobe.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:02:00Z",
-      "publishedAt": "2026-10-06T17:02:00Z",
-      "summary": "",
-      "url": "https://sputnikglobe.com/20261006/putin-to-hold-bilateral-meeting-with-xi-on-sidelines-of-apec-summit---kremlin-aide-1124844232.html"
-    },
-    {
-      "id": "https://theelders.org/news/climate-crisis-will-not-wait-world-s-geopolitics-improve",
-      "title": "The climate crisis will not wait for the world’s geopolitics to improve",
-      "source": "theelders.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:46:00Z",
-      "publishedAt": "2026-10-06T16:46:00Z",
-      "summary": "",
-      "url": "https://theelders.org/news/climate-crisis-will-not-wait-world-s-geopolitics-improve"
     },
     {
       "id": "https://www.newspim.com/news/view/20261007000011",
@@ -680,18 +656,6 @@
       "url": "https://www.northernpen.ca/stocks-and-bonds-gain-despite-boe-and-ecb-warnings-on-rates/"
     },
     {
-      "id": "https://www.investors.com:443/research/options/palo-alto-panw-stock-long-term-bull-put-spread-options/",
-      "title": "Palo Alto Stock Is Ideal For This Long-Term Options Trade",
-      "source": "investors.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:46:00Z",
-      "publishedAt": "2026-10-06T16:46:00Z",
-      "summary": "",
-      "url": "https://www.investors.com:443/research/options/palo-alto-panw-stock-long-term-bull-put-spread-options/"
-    },
-    {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02315686645610624&mediaCodeNo=257",
       "title": "美 3년물 국채 입찰금리 4.932%…2006년 이후 최고",
       "source": "edaily.co.kr",
@@ -728,25 +692,61 @@
       "url": "http://www.californiatelegraph.com/news/279355179/avio-usa-breaks-ground-in-virginia-on-first-us-solid-rocket-motor-facility-strengthening-defense-supply-chain-and-creating-over-1000-jobs"
     },
     {
-      "id": "https://cyprus-mail.com/2026/10/06/eu-envoys-set-to-approve-major-new-russia-sanctions-on-wednesday",
-      "title": "EU envoys set to approve major new Russia sanctions on Wednesday",
-      "source": "cyprus-mail.com",
+      "id": "https://sputnikglobe.com/20261006/putin-to-hold-bilateral-meeting-with-xi-on-sidelines-of-apec-summit---kremlin-aide-1124844232.html",
+      "title": "Putin to Hold Bilateral Meeting With Xi on Sidelines of APEC Summit - Kremlin Aide",
+      "source": "sputnikglobe.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:32:00Z",
-      "publishedAt": "2026-10-06T16:32:00Z",
+      "dateRaw": "2026-10-06T17:02:00Z",
+      "publishedAt": "2026-10-06T17:02:00Z",
       "summary": "",
-      "url": "https://cyprus-mail.com/2026/10/06/eu-envoys-set-to-approve-major-new-russia-sanctions-on-wednesday"
+      "url": "https://sputnikglobe.com/20261006/putin-to-hold-bilateral-meeting-with-xi-on-sidelines-of-apec-summit---kremlin-aide-1124844232.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261007000015",
+      "title": "[브라질증시] 유가 따라 하락…'보우소나루 트레이드' 주시",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:16:00Z",
+      "publishedAt": "2026-10-06T23:16:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261007000015"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01430086645610624&mediaCodeNo=257",
+      "title": "美국채 금리 급등하자…핌코 \"투자매력 매우 높아졌다\"",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T22:02:00Z",
+      "publishedAt": "2026-10-06T22:02:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01430086645610624&mediaCodeNo=257"
+    },
+    {
+      "id": "http://www.shanghaisun.com/news/279354553/dgtr-launches-five-anti-dumping-probes-on-chinese-imports-steps-up-trade-remedy-action",
+      "title": "DGTR launches five anti-dumping probes on Chinese imports, steps up trade-remedy action",
+      "source": "shanghaisun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T18:47:00Z",
+      "publishedAt": "2026-10-06T18:47:00Z",
+      "summary": "",
+      "url": "http://www.shanghaisun.com/news/279354553/dgtr-launches-five-anti-dumping-probes-on-chinese-imports-steps-up-trade-remedy-action"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3179,
-    "relevantItems": 108,
-    "feedBytes": 852269,
+    "fetchedItems": 3142,
+    "relevantItems": 142,
+    "feedBytes": 829726,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
