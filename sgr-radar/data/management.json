@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 04:04:13",
+  "updatedAt": "2026. 10. 08. 오전 04:28:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 73,
-    "deduped": 73,
-    "eventDeduped": 73,
+    "passed": 72,
+    "deduped": 72,
+    "eventDeduped": 72,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -428,16 +428,16 @@
       "url": "https://womannews.net/detail.php?number=456739&thread=22r10"
     },
     {
-      "id": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/",
-      "title": "Job cuts spread across the tech industry, with Microsoft laying off 10,000 people",
-      "source": "digbycourier.ca",
+      "id": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902",
+      "title": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' minister Joly warns Cleveland-Cliffs | CBC News",
+      "source": "cbc.ca",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T17:46:00Z",
-      "publishedAt": "2026-10-07T17:46:00Z",
+      "dateRaw": "2026-10-07T19:17:00Z",
+      "publishedAt": "2026-10-07T19:17:00Z",
       "summary": "",
-      "url": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/"
+      "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902"
     },
     {
       "id": "https://www.franklinfavorite.com/russellville/russellville/news/article_8edbe829-f99d-54c0-badb-eb02de2ea50c.html",
@@ -498,18 +498,6 @@
       "publishedAt": "2026-10-07T10:17:00Z",
       "summary": "",
       "url": "https://www.miragenews.com/ai-adoption-linked-to-increase-in-employment-1756146/"
-    },
-    {
-      "id": "https://www.techgoondu.com/2026/10/07/singapore-digital-economy-grows-to-19-3-per-cent-of-gdp-as-ai-adoption-deepens/",
-      "title": "Singapore digital economy grows to 19.3 per cent of GDP, as AI adoption deepens - Techgoondu",
-      "source": "techgoondu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T10:17:00Z",
-      "publishedAt": "2026-10-07T10:17:00Z",
-      "summary": "",
-      "url": "https://www.techgoondu.com/2026/10/07/singapore-digital-economy-grows-to-19-3-per-cent-of-gdp-as-ai-adoption-deepens/"
     },
     {
       "id": "https://www.accountingtoday.com/whitepaper/how-accounting-firms-can-start-using-ai-today-workflows-and-best-practices",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T18:31:00Z",
       "summary": "",
       "url": "https://www.livemint.com/companies/news/layoff-news-porsche-to-terminate-9-000-jobs-management-positions-face-40-cuts-car-prices-to-go-up-20-11791395563763.html"
+    },
+    {
+      "id": "https://www.derbytelegraph.co.uk/news/cost-of-living/eligibility-explained-latest-barclays-up-11188331",
+      "title": "People could receive up to £300 with newest Barclays offer",
+      "source": "derbytelegraph.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T17:47:00Z",
+      "publishedAt": "2026-10-07T17:47:00Z",
+      "summary": "",
+      "url": "https://www.derbytelegraph.co.uk/news/cost-of-living/eligibility-explained-latest-barclays-up-11188331"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2665,
+    "fetchedItems": 5173,
     "relevantItems": 67,
-    "feedBytes": 738073,
+    "feedBytes": 1462376,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
