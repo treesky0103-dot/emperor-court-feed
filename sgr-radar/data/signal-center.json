@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 02:55:45",
+  "updatedAt": "2026. 10. 07. 오후 03:14:52",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -34,18 +34,30 @@
           "url": "https://zdnet.co.kr/view/?no=20261007100139"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12170402",
-          "title": "취임 100일 맞은 김석준 부산시교육감… AI 등 미래 교육 올인",
+          "id": "https://www.mk.co.kr/news/economy/12170425",
+          "title": "홍지선 국토장관 “연말쯤 집값 상승폭 줄어들 것···전세 감소는 메가트렌드”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:43:06Z",
-          "publishedAt": "2026-10-07T14:43:06Z",
+          "dateRaw": "2026-10-07T14:56:54Z",
+          "publishedAt": "2026-10-07T14:56:54Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12170402",
+          "url": "https://www.mk.co.kr/news/economy/12170425",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/biznews/1281290.html",
+          "title": "서울여대, 국내 대학 최초 ‘2026 International Green Gown Awards’ 학생참여 부문 Highly Commended 수상",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T06:02:00Z",
+          "publishedAt": "2026-10-07T06:02:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1281290.html"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=04132806645610624&mediaCodeNo=257",
@@ -118,30 +130,20 @@
           "publishedAt": "2026-10-07T00:46:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273177&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223418",
-          "title": "[투데이 라인업] 누리호 5차 발사 / 국정감사 이틀째…'북한 지뢰' 쟁점 / '명태균 여론조사' 윤석열 전 대통령 항소심 선고 / 청년미래적금 2차 가입 신청 시작",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T22:00:00Z",
-          "publishedAt": "2026-10-06T22:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223418",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "주거",
+          "count": 3
         },
         {
           "word": "청년",
-          "count": 4
+          "count": 3
         },
         {
           "word": "복지",
@@ -149,10 +151,6 @@
         },
         {
           "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "주거",
           "count": 1
         }
       ],
@@ -199,6 +197,18 @@
           "url": "https://www.mk.co.kr/news/economy/12170145",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.fnnews.com/news/202610071352511271",
+          "title": "3분기 외국인투자 도착액 149억달러 '역대 최대'…제조업 2배로",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T06:02:00Z",
+          "publishedAt": "2026-10-07T06:02:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610071352511271"
         },
         {
           "id": "https://biz.chosun.com/policy/policy_sub/2026/10/07/ZGGLMN4IBZFT3IDETQDH7MOVEQ/",
@@ -273,18 +283,6 @@
           "publishedAt": "2026-10-06T22:46:00Z",
           "summary": "",
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020479&code=61141111&sid1=eco"
-        },
-        {
-          "id": "https://www.munhwa.com:443/article/11621936",
-          "title": "“투자대상·운용기준 엄격히… 일자리 등 장기과제 집중”",
-          "source": "munhwa.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:47:00Z",
-          "publishedAt": "2026-10-07T05:47:00Z",
-          "summary": "",
-          "url": "https://www.munhwa.com:443/article/11621936"
         }
       ],
       "keywords": [
@@ -334,16 +332,42 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261007000245",
-          "title": "KT클라우드, 50㎿급 '청라 AIDC' 구축 참여…수도권 AI 인프라 수요 대응",
+          "id": "https://www.hani.co.kr/arti/economy/biznews/1281294.html",
+          "title": "서울시립대학교 인공지능학과 학부연구생 박현우·엄준혁, 세계적 권위 AI 학회 NeurIPS 논문 발표",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T06:01:00Z",
+          "publishedAt": "2026-10-07T06:01:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1281294.html"
+        },
+        {
+          "id": "https://www.etnews.com/20261007000340",
+          "title": "투모로로보틱스, 로봇 AI '하빌리스 브레인 0' 공개",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:33:04Z",
-          "publishedAt": "2026-10-07T04:33:04Z",
+          "dateRaw": "2026-10-07T05:46:44Z",
+          "publishedAt": "2026-10-07T05:46:44Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261007000245",
+          "url": "https://www.etnews.com/20261007000340",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261007103158",
+          "title": "\"사람 대신 드론·로봇\"…더픽트, 공간 AI 운영체제 '제제OS' 주목",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T05:01:12Z",
+          "publishedAt": "2026-10-07T05:01:12Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261007103158",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -360,18 +384,6 @@
           "url": "http://inews24.com/view/2012593"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261007101114",
-          "title": "AI 지원금, 성과가 없어도 계속 투자해야 할까",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:32:00Z",
-          "publishedAt": "2026-10-07T02:32:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261007101114"
-        },
-        {
           "id": "https://www.huffingtonpost.kr:443/article/261032",
           "title": "한화그룹 'AI 기반 에너지 관리 시스템' 미국 혁신매체 차세대 신기술로 선정 : 인프라 전력솔루션 시장 경쟁력 키운다",
           "source": "huffingtonpost.kr",
@@ -382,18 +394,6 @@
           "publishedAt": "2026-10-07T02:02:00Z",
           "summary": "",
           "url": "https://www.huffingtonpost.kr:443/article/261032"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
-          "title": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:01:00Z",
-          "publishedAt": "2026-10-07T02:01:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/international/america/1281250.html"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10894886",
@@ -408,49 +408,45 @@
           "url": "https://biz.heraldcorp.com/article/10894886"
         },
         {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026100713370392402",
-          "title": "[종합] 리사 수 AMD, GPU·국산 NPU 묶는다…韓 '이기종 AI' 생태계 협력 시동",
-          "source": "ddaily.co.kr",
+          "id": "https://www.fnnews.com/news/202610071310568778",
+          "title": "[단독] AMD 리사 수, 삼성 반도체 수장 전영현 만날 듯…'AI 동맹' 재회",
+          "source": "fnnews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:32:00Z",
-          "publishedAt": "2026-10-07T05:32:00Z",
+          "dateRaw": "2026-10-07T06:02:00Z",
+          "publishedAt": "2026-10-07T06:02:00Z",
           "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026100713370392402"
+          "url": "https://www.fnnews.com/news/202610071310568778"
         },
         {
-          "id": "https://cunews.net/detail.php?number=172867&thread=22r12r03",
-          "title": "인천시, ‘피지컬 AI 실증센터’ 구축…제조·물류 산업 현장 적용 지원 : 연합시민의소리",
-          "source": "cunews.net",
+          "id": "https://www.newspim.com/news/view/20261007000937",
+          "title": "넥스트아이, 中 신송과 AI 검사로봇 개발",
+          "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:46:00Z",
-          "publishedAt": "2026-10-07T04:46:00Z",
+          "dateRaw": "2026-10-07T06:01:00Z",
+          "publishedAt": "2026-10-07T06:01:00Z",
           "summary": "",
-          "url": "https://cunews.net/detail.php?number=172867&thread=22r12r03"
+          "url": "https://www.newspim.com/news/view/20261007000937"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 11
         },
         {
           "word": "반도체",
+          "count": 4
+        },
+        {
+          "word": "로봇",
           "count": 3
         },
         {
-          "word": "GPU",
-          "count": 2
-        },
-        {
           "word": "데이터센터",
-          "count": 2
-        },
-        {
-          "word": "클라우드",
           "count": 2
         },
         {
@@ -458,11 +454,7 @@
           "count": 1
         },
         {
-          "word": "제조",
-          "count": 1
-        },
-        {
-          "word": "조선",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -571,28 +563,28 @@
           "url": "https://www.afr.com/politics/federal/we-ll-cut-your-rent-by-up-to-4k-hanson-ups-the-ante-on-immigration-20261007-p613bw"
         },
         {
-          "id": "https://www.fox8live.com/2026/10/07/new-st-tammany-school-board-interim-superintendent-convenes-meeting-abuse-reporting/",
-          "title": "New St. Tammany school board interim superintendent convenes meeting on abuse reporting",
-          "source": "fox8live.com",
+          "id": "https://www.tribuneindia.com/news/india/indias-2nd-mental-health-survey-adopts-who-diagnostic-tool-to-standardise-assessment/",
+          "title": "India’s 2nd mental health survey adopts WHO diagnostic tool to standardise assessment - The Tribune",
+          "source": "tribuneindia.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:46:00Z",
-          "publishedAt": "2026-10-07T05:46:00Z",
+          "dateRaw": "2026-10-07T06:02:00Z",
+          "publishedAt": "2026-10-07T06:02:00Z",
           "summary": "",
-          "url": "https://www.fox8live.com/2026/10/07/new-st-tammany-school-board-interim-superintendent-convenes-meeting-abuse-reporting/"
+          "url": "https://www.tribuneindia.com/news/india/indias-2nd-mental-health-survey-adopts-who-diagnostic-tool-to-standardise-assessment/"
         },
         {
-          "id": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/",
-          "title": "EU ministers survey new ways to curb irregular migration - Shafaqna English | International Shia News & Fatwas",
-          "source": "en.shafaqna.com",
+          "id": "https://www.freepressjournal.in/education/delhi-university-fire-blaze-breaks-out-at-dusu-office-in-north-campus-damages-sofa-furniture-no-casualties-reported",
+          "title": "Delhi University Fire: Blaze Breaks Out At DUSU Office In North Campus, Damages Sofa & Furniture; No Casualties Reported",
+          "source": "freepressjournal.in",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T04:46:00Z",
-          "publishedAt": "2026-10-07T04:46:00Z",
+          "dateRaw": "2026-10-07T06:01:00Z",
+          "publishedAt": "2026-10-07T06:01:00Z",
           "summary": "",
-          "url": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/"
+          "url": "https://www.freepressjournal.in/education/delhi-university-fire-blaze-breaks-out-at-dusu-office-in-north-campus-damages-sofa-furniture-no-casualties-reported"
         }
       ],
       "keywords": [
@@ -602,10 +594,14 @@
         },
         {
           "word": "이민",
-          "count": 5
+          "count": 4
         },
         {
           "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "정신건강",
           "count": 1
         },
         {
@@ -654,6 +650,18 @@
           "publishedAt": "2026-10-06T21:46:00Z",
           "summary": "",
           "url": "https://www.chinamoneynetwork.com/2026/10/07/v-key-strengthens-ai-economic-security-with-strategic-investment-in-cloudsineai"
+        },
+        {
+          "id": "https://www.livemint.com/money/personal-finance/rbi-mpc-speech-fdi-forex-reserves-credit-growth-what-governor-sanjay-malhotra-said-on-global-financials-11791351449224.html",
+          "title": "RBI MPC speech: FDI, forex reserves, credit growth — what Governor Sanjay Malhotra said on global financials | Mint",
+          "source": "livemint.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T06:02:00Z",
+          "publishedAt": "2026-10-07T06:02:00Z",
+          "summary": "",
+          "url": "https://www.livemint.com/money/personal-finance/rbi-mpc-speech-fdi-forex-reserves-credit-growth-what-governor-sanjay-malhotra-said-on-global-financials-11791351449224.html"
         },
         {
           "id": "http://www.mainemirror.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
@@ -726,36 +734,24 @@
           "publishedAt": "2026-10-07T01:46:00Z",
           "summary": "",
           "url": "http://en.ce.cn/main/latest/202610/t20261007_3248623.shtml"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02761766645610624&mediaCodeNo=257",
-          "title": "\"관세 깎아줄게, 돈 더 내놔\" 트럼프, 韓 관세 또 압박",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T01:46:00Z",
-          "publishedAt": "2026-10-07T01:46:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02761766645610624&mediaCodeNo=257"
         }
       ],
       "keywords": [
+        {
+          "word": "성장",
+          "count": 5
+        },
         {
           "word": "투자",
           "count": 5
         },
         {
-          "word": "성장",
-          "count": 4
-        },
-        {
-          "word": "관세",
-          "count": 2
-        },
-        {
           "word": "무역",
           "count": 2
+        },
+        {
+          "word": "FDI",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -775,6 +771,18 @@
           "publishedAt": "2026-10-06T21:46:00Z",
           "summary": "",
           "url": "https://www.chinamoneynetwork.com/2026/10/07/v-key-strengthens-ai-economic-security-with-strategic-investment-in-cloudsineai"
+        },
+        {
+          "id": "https://asia.nikkei.com/business/tech/semiconductors/samsung-takes-vietnam-up-semiconductor-value-chain-with-5bn-expansion",
+          "title": "Samsung takes Vietnam up semiconductor value chain with $5bn expansion",
+          "source": "asia.nikkei.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T06:01:00Z",
+          "publishedAt": "2026-10-07T06:01:00Z",
+          "summary": "",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-takes-vietnam-up-semiconductor-value-chain-with-5bn-expansion"
         },
         {
           "id": "https://www.govinfosecurity.com/webinars/live-webinar-retail-ready-ai-powered-resilience-splunk-google-cloud-w-7235",
@@ -871,24 +879,12 @@
           "publishedAt": "2026-10-06T23:16:00Z",
           "summary": "",
           "url": "https://theequity.ca/data-centres-make-up-half-of-quebecs-energy-requests-kebaowek-pauses-nsdf-consultation-quebec-riding-map-still-includes-parts-of-labrador/"
-        },
-        {
-          "id": "https://www.industrytap.com/9-top-manufacturing-ai-agents-full-list/81739",
-          "title": "9 Top Manufacturing AI Agents (Full List)",
-          "source": "industrytap.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T22:31:00Z",
-          "publishedAt": "2026-10-06T22:31:00Z",
-          "summary": "",
-          "url": "https://www.industrytap.com/9-top-manufacturing-ai-agents-full-list/81739"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 8
         },
         {
           "word": "클라우드",
@@ -899,7 +895,7 @@
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "반도체",
           "count": 1
         }
       ],
@@ -911,8 +907,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4162,
-    "feedBytes": 1140778,
+    "fetchedItems": 4265,
+    "feedBytes": 1179804,
     "rollingWindowHours": 72
   }
 }
