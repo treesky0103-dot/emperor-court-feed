@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 10:00:44",
+  "updatedAt": "2026. 10. 07. 오후 10:24:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 674,
-    "deduped": 674,
-    "eventDeduped": 674,
+    "passed": 677,
+    "deduped": 677,
+    "eventDeduped": 677,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -704,6 +704,18 @@
       "url": "https://www.dealstreetasia.com/stories/airtrunk-japan-data-centre-497414"
     },
     {
+      "id": "https://www.offshore-technology.com/analysis/next-generation-geothermal-oil-gas-tech-data-centre-boom/",
+      "title": "Next-generation geothermal: borrowing oil and gas tech for the data centre boom - Offshore Technology",
+      "source": "offshore-technology.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T13:17:00Z",
+      "publishedAt": "2026-10-07T13:17:00Z",
+      "summary": "",
+      "url": "https://www.offshore-technology.com/analysis/next-generation-geothermal-oil-gas-tech-data-centre-boom/"
+    },
+    {
       "id": "https://obj.ca/data/office-furniture-dealers/",
       "title": "OBJ Data Centre | Ottawa Business Journal",
       "source": "obj.ca",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-07T11:32:00Z",
       "summary": "",
       "url": "https://yle.fi/a/74-20250264"
-    },
-    {
-      "id": "https://www.channelnewsasia.com/singapore/data-centre-regulations-digital-infrastructure-bill-6438941",
-      "title": "MPs back tighter data centre regulations but raise questions on competitiveness, sustainability",
-      "source": "channelnewsasia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T10:32:00Z",
-      "publishedAt": "2026-10-07T10:32:00Z",
-      "summary": "",
-      "url": "https://www.channelnewsasia.com/singapore/data-centre-regulations-digital-infrastructure-bill-6438941"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6828,
-    "relevantItems": 118,
-    "feedBytes": 1939687,
+    "fetchedItems": 6958,
+    "relevantItems": 124,
+    "feedBytes": 1965004,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
