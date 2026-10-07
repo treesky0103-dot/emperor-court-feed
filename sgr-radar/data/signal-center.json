@@ -1,26 +1,12 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 08:43:04",
+  "updatedAt": "2026. 10. 08. 오전 08:59:18",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
-        {
-          "id": "https://www.mk.co.kr/news/society/12170639",
-          "title": "경남 청년 정책 한곳에 … 道, 광역거점센터 '첫발'",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T17:24:24Z",
-          "publishedAt": "2026-10-07T17:24:24Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12170639",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02148406645610952&mediaCodeNo=257",
           "title": "[건강 칼럼] 차갑고 건조한 계절, 따뜻한 생강 음식으로 건강한 식습관을 만든다.",
@@ -32,6 +18,20 @@
           "publishedAt": "2026-10-07T22:16:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02148406645610952&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/society/12170790",
+          "title": "교육부, 지거국 지원 확대…AI 안경 부정행위도 손본다",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T18:20:55Z",
+          "publishedAt": "2026-10-07T18:20:55Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12170790",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "http://www.koreatimes.com/article/20261007/1632910",
@@ -138,8 +138,8 @@
           "count": 4
         },
         {
-          "word": "청년",
-          "count": 2
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "복지",
@@ -147,6 +147,10 @@
         },
         {
           "word": "인구감소",
+          "count": 1
+        },
+        {
+          "word": "청년",
           "count": 1
         }
       ],
@@ -157,18 +161,18 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12170623",
-          "title": "[인사] 재정경제부 / 개인정보보호위원회",
+          "id": "https://www.mk.co.kr/news/business/12171051",
+          "title": "한진 지분 5% 넘긴 ‘호르무즈 베팅의 승자’…보유목적 묻자 “단순투자”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T17:14:24Z",
-          "publishedAt": "2026-10-07T17:14:24Z",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:11:36Z",
+          "publishedAt": "2026-10-08T06:11:36Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12170623",
+          "url": "https://www.mk.co.kr/news/business/12171051",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.chosun.com/stock/stock_general/2026/10/08/MI4WKZBTG43TGMZUGRTDONZYGQ/",
@@ -235,6 +239,18 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261008000103",
+          "title": "ECM 시장 경쟁 확대…'엘앤씨바이오' 공정·공급망 경쟁력 주목",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261008000103"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10896306",
           "title": "치솟는 금리 앞에 美증시도 일단 ‘멈춤’…3대 지수 일제 반락 [투자360]",
           "source": "biz.heraldcorp.com",
@@ -269,18 +285,6 @@
           "publishedAt": "2026-10-07T23:01:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11622065"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261007/1632910",
-          "title": "딱 5분 만에 ‘300달러’ 벌었다…주식 접은 美 청년들 몰려든 ‘대박 투자처’ 알고보니 - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T22:17:00Z",
-          "publishedAt": "2026-10-07T22:17:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261007/1632910"
         }
       ],
       "keywords": [
@@ -291,6 +295,10 @@
         {
           "word": "금리",
           "count": 3
+        },
+        {
+          "word": "공급망",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -312,6 +320,18 @@
           "url": "https://www.mk.co.kr/news/economy/12170738",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/marketing/1281177.html",
+          "title": "“삼성그룹 환영”…15년 전 ‘특허 악연’ 털어낸 한미반도체",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1281177.html"
         },
         {
           "id": "https://biz.chosun.com/policy/policy_sub/2026/10/08/UAERV6M4IRGLJHRTSUTPQ3W5YQ/",
@@ -410,20 +430,6 @@
           "publishedAt": "2026-10-07T17:47:00Z",
           "summary": "",
           "url": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261007101842",
-          "title": "[카드뉴스] AI지원금, 성과가 없어도 계속 투자해야 할까",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T21:54:14Z",
-          "publishedAt": "2026-10-07T21:54:14Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261007101842",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
@@ -433,7 +439,7 @@
         },
         {
           "word": "반도체",
-          "count": 2
+          "count": 3
         },
         {
           "word": "데이터센터",
@@ -525,65 +531,65 @@
           "url": "https://www.tnp.no/norway/panorama/5171-refugee-guide-to-higher-education-in-norway/"
         },
         {
-          "id": "https://www.nhpr.org/business/2026-10-07/nh-housing-costs-are-a-major-driver-of-poverty-analysis-finds",
-          "title": "NH housing costs are a major driver of poverty, analysis finds",
-          "source": "nhpr.org",
+          "id": "https://www.baltimoresun.com/2026/10/07/anne-arundel-state-deadline-ai-policy/",
+          "title": "AI policy deadline to be missed by Anne Arundel school board",
+          "source": "baltimoresun.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T23:31:00Z",
-          "publishedAt": "2026-10-07T23:31:00Z",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
           "summary": "",
-          "url": "https://www.nhpr.org/business/2026-10-07/nh-housing-costs-are-a-major-driver-of-poverty-analysis-finds"
+          "url": "https://www.baltimoresun.com/2026/10/07/anne-arundel-state-deadline-ai-policy/"
         },
         {
-          "id": "https://www.kentreporter.com/2026/10/07/election-2026-kent-school-district-levy-on-the-ballot/",
-          "title": "ELECTION 2026: Kent School District levy on the ballot - Kent Reporter",
-          "source": "kentreporter.com",
+          "id": "https://www.miragenews.com/berkeley-researcher-sees-hope-as-black-youth-1756609/",
+          "title": "Berkeley Researcher Sees Hope as Black Youth Suicide Rate Rises",
+          "source": "miragenews.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T23:31:00Z",
-          "publishedAt": "2026-10-07T23:31:00Z",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
           "summary": "",
-          "url": "https://www.kentreporter.com/2026/10/07/election-2026-kent-school-district-levy-on-the-ballot/"
+          "url": "https://www.miragenews.com/berkeley-researcher-sees-hope-as-black-youth-1756609/"
         },
         {
-          "id": "https://www.wtma.com/2026/10/07/newly-released-reports-detail-welfare-checks-before-deaths-of-justine-mays-daughters/",
-          "title": "Newly released reports detail welfare checks before deaths of Justine May’s daughters",
-          "source": "wtma.com",
+          "id": "https://english.pravda.ru/news/science/169713-cobalt-water-electrolysis-pyridine-hydrogenation/",
+          "title": "Yokohama University researchers use water as sole hydrogen source for pyridine hydrogenation",
+          "source": "english.pravda.ru",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T23:02:00Z",
-          "publishedAt": "2026-10-07T23:02:00Z",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
           "summary": "",
-          "url": "https://www.wtma.com/2026/10/07/newly-released-reports-detail-welfare-checks-before-deaths-of-justine-mays-daughters/"
+          "url": "https://english.pravda.ru/news/science/169713-cobalt-water-electrolysis-pyridine-hydrogenation/"
         },
         {
-          "id": "https://cloverdalereporter.com/2026/10/07/bomb-threat-at-secondary-school-in-prince-george-prompts-evacuation/",
-          "title": "Bomb threat at secondary school in Prince George prompts evacuation - Cloverdale Reporter",
-          "source": "cloverdalereporter.com",
+          "id": "https://dailyprogress.com/news/local/education/k-12/article_69059b9f-85ce-45e0-9cbb-6cd968f24bac.html",
+          "title": "Police arrest 3 Albemarle school admins for failing to report sexual assault allegations",
+          "source": "dailyprogress.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T22:47:00Z",
-          "publishedAt": "2026-10-07T22:47:00Z",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
           "summary": "",
-          "url": "https://cloverdalereporter.com/2026/10/07/bomb-threat-at-secondary-school-in-prince-george-prompts-evacuation/"
+          "url": "https://dailyprogress.com/news/local/education/k-12/article_69059b9f-85ce-45e0-9cbb-6cd968f24bac.html"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 7
         },
         {
           "word": "이민",
           "count": 3
         },
         {
-          "word": "주거비",
+          "word": "청년",
           "count": 1
         }
       ],
@@ -593,6 +599,30 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://www.newspim.com/news/view/20261008000051",
+          "title": "[채권/외환] 美 국채금리 24년 만에 최고 찍고 반락…프랑스 재정 불안에 유로화 급락",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T23:47:00Z",
+          "publishedAt": "2026-10-07T23:47:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261008000051"
+        },
+        {
+          "id": "https://www.10news.com/life/money/higher-interest-rates-are-dragging-down-consumer-stocks",
+          "title": "Higher interest rates are dragging down consumer stocks",
+          "source": "10news.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T23:46:00Z",
+          "publishedAt": "2026-10-07T23:46:00Z",
+          "summary": "",
+          "url": "https://www.10news.com/life/money/higher-interest-rates-are-dragging-down-consumer-stocks"
+        },
         {
           "id": "https://biz.chosun.com/international/international_general/2026/10/08/LXVXEL7PZNBDJBIGMYUA3WION4/",
           "title": "트럼프, 노벨평화상 발표 앞두고 또 자화자찬… “관세로 전쟁 막아”",
@@ -616,18 +646,6 @@
           "publishedAt": "2026-10-07T23:02:00Z",
           "summary": "",
           "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html"
-        },
-        {
-          "id": "https://www.wtxl.com/life/money/higher-interest-rates-are-dragging-down-consumer-stocks",
-          "title": "Higher interest rates are dragging down consumer stocks",
-          "source": "wtxl.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T22:47:00Z",
-          "publishedAt": "2026-10-07T22:47:00Z",
-          "summary": "",
-          "url": "https://www.wtxl.com/life/money/higher-interest-rates-are-dragging-down-consumer-stocks"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257",
@@ -700,36 +718,24 @@
           "publishedAt": "2026-10-07T20:32:00Z",
           "summary": "",
           "url": "https://www.wral.com/news/ap/7cb4a-5-traders-jailed-for-rigging-key-interest-rates-have-their-convictions-quashed/"
-        },
-        {
-          "id": "http://www.beijingbulletin.com/news/279357674/rajkot-aditya-engimach-exhibits-at-imts-2026-chicago-eyes-us-growth-amid-tariff-uncertainty",
-          "title": "Rajkot's Aditya Engimach Exhibits at IMTS 2026 Chicago, Eyes US Growth Amid Tariff Uncertainty",
-          "source": "beijingbulletin.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T20:17:00Z",
-          "publishedAt": "2026-10-07T20:17:00Z",
-          "summary": "",
-          "url": "http://www.beijingbulletin.com/news/279357674/rajkot-aditya-engimach-exhibits-at-imts-2026-chicago-eyes-us-growth-amid-tariff-uncertainty"
         }
       ],
       "keywords": [
         {
           "word": "금리",
-          "count": 3
+          "count": 4
         },
         {
           "word": "성장",
-          "count": 3
-        },
-        {
-          "word": "관세",
           "count": 2
         },
         {
           "word": "투자",
           "count": 2
+        },
+        {
+          "word": "관세",
+          "count": 1
         },
         {
           "word": "무역",
@@ -893,8 +899,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3828,
-    "feedBytes": 1032954,
+    "fetchedItems": 3677,
+    "feedBytes": 992268,
     "rollingWindowHours": 72
   }
 }

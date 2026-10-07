@@ -2,33 +2,21 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 08:42:59",
+  "updatedAt": "2026. 10. 08. 오전 08:59:11",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 677,
-    "deduped": 677,
-    "eventDeduped": 677,
+    "passed": 669,
+    "deduped": 669,
+    "eventDeduped": 669,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/how-ai-is-reshaping-the-power-strategy-of-data-centers/",
-      "title": "How AI Is Reshaping The Power Strategy Of Data Centers",
-      "source": "forbes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T14:32:00Z",
-      "publishedAt": "2026-10-07T14:32:00Z",
-      "summary": "",
-      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/how-ai-is-reshaping-the-power-strategy-of-data-centers/"
-    },
     {
       "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69781410-lattice-semiconductor-lattice-collaborates-with-arm-to-advance-secure-adaptable-ai-data-center-infrastructure-004.htm",
       "title": "Lattice Semiconductor: Lattice Collaborates with Arm to Advance Secure, Adaptable AI Data Center Infrastructure",
@@ -40,6 +28,18 @@
       "publishedAt": "2026-10-07T20:32:00Z",
       "summary": "",
       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69781410-lattice-semiconductor-lattice-collaborates-with-arm-to-advance-secure-adaptable-ai-data-center-infrastructure-004.htm"
+    },
+    {
+      "id": "https://www.freepressjournal.in/education/maharashtra-launches-cm-sristhi-scheme-to-boost-ai-quantum-computing-semiconductors-futuristic-tech-research",
+      "title": "Maharashtra Launches ‘CM-SRISTHI’ Scheme To Boost AI, Quantum Computing, Semiconductors & Futuristic Tech Research",
+      "source": "freepressjournal.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T19:47:00Z",
+      "publishedAt": "2026-10-07T19:47:00Z",
+      "summary": "",
+      "url": "https://www.freepressjournal.in/education/maharashtra-launches-cm-sristhi-scheme-to-boost-ai-quantum-computing-semiconductors-futuristic-tech-research"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257",
@@ -54,28 +54,40 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257"
     },
     {
-      "id": "https://biz.chosun.com/policy/policy_sub/2026/10/08/UAERV6M4IRGLJHRTSUTPQ3W5YQ/",
-      "title": "8월 경상수지 461.1억달러 흑자로 역대 2위… 반도체 수출 206.1%↑",
-      "source": "biz.chosun.com",
+      "id": "https://www.hani.co.kr/arti/economy/marketing/1281177.html",
+      "title": "“삼성그룹 환영”…15년 전 ‘특허 악연’ 털어낸 한미반도체",
+      "source": "hani.co.kr",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T23:32:00Z",
-      "publishedAt": "2026-10-07T23:32:00Z",
+      "dateRaw": "2026-10-07T23:46:00Z",
+      "publishedAt": "2026-10-07T23:46:00Z",
       "summary": "",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/10/08/UAERV6M4IRGLJHRTSUTPQ3W5YQ/"
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1281177.html"
     },
     {
-      "id": "https://www.newspim.com/news/view/20260918001095",
-      "title": "SK하이닉스 솔리다임, 美 낸드공장 검토설…첫 현지 생산거점 주목",
+      "id": "https://www.newspim.com/news/view/20261008000103",
+      "title": "ECM 시장 경쟁 확대…'엘앤씨바이오' 공정·공급망 경쟁력 주목",
       "source": "newspim.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T22:02:00Z",
-      "publishedAt": "2026-10-07T22:02:00Z",
+      "dateRaw": "2026-10-07T23:46:00Z",
+      "publishedAt": "2026-10-07T23:46:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20260918001095"
+      "url": "https://www.newspim.com/news/view/20261008000103"
+    },
+    {
+      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/how-to-raise-capital-when-your-biotech-has-a-consumer-business/",
+      "title": "How To Raise Capital When Your Biotech Has A Consumer Business",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T19:32:00Z",
+      "publishedAt": "2026-10-07T19:32:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/how-to-raise-capital-when-your-biotech-has-a-consumer-business/"
     },
     {
       "id": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002",
@@ -88,6 +100,18 @@
       "publishedAt": "2026-10-07T17:47:00Z",
       "summary": "",
       "url": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002"
+    },
+    {
+      "id": "https://www.wnem.com/2026/10/07/bay-plastics-investing-new-training-manufacturing-facility/",
+      "title": "Bay Plastics investing in new training and manufacturing facility",
+      "source": "wnem.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:46:00Z",
+      "publishedAt": "2026-10-07T23:46:00Z",
+      "summary": "",
+      "url": "https://www.wnem.com/2026/10/07/bay-plastics-investing-new-training-manufacturing-facility/"
     },
     {
       "id": "https://english.news.cn/20261007/25448abe6736490a88e457d28c121776/c.html",
@@ -112,45 +136,9 @@
       "publishedAt": "2026-10-07T22:02:00Z",
       "summary": "",
       "url": "https://www.hellenicshippingnews.com/trump-ties-tariff-cuts-to-s-koreas-150-billion-shipbuilding-investment/"
-    },
-    {
-      "id": "https://www.proactiveinvestors.com/companies/news/1099762/first-phosphate-advances-quebec-mine-to-battery-strategy-for-north-american-lfp-supply-chain.html",
-      "title": "First Phosphate advances Quebec mine-to-battery strategy for North American LFP supply chain",
-      "source": "proactiveinvestors.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:02:00Z",
-      "publishedAt": "2026-10-07T21:02:00Z",
-      "summary": "",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099762/first-phosphate-advances-quebec-mine-to-battery-strategy-for-north-american-lfp-supply-chain.html"
-    },
-    {
-      "id": "https://sanangelolive.com/news/texas/2026-10-07/gov-abbott-announces-texas-energy-fund-loan-452-mw-west-texas-power-plant",
-      "title": "Gov. Abbott Announces Texas Energy Fund Loan for 452 MW West Texas Power Plant",
-      "source": "sanangelolive.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:47:00Z",
-      "publishedAt": "2026-10-07T20:47:00Z",
-      "summary": "",
-      "url": "https://sanangelolive.com/news/texas/2026-10-07/gov-abbott-announces-texas-energy-fund-loan-452-mw-west-texas-power-plant"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/how-ai-is-reshaping-the-power-strategy-of-data-centers/",
-      "title": "How AI Is Reshaping The Power Strategy Of Data Centers",
-      "source": "forbes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T14:32:00Z",
-      "publishedAt": "2026-10-07T14:32:00Z",
-      "summary": "",
-      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/how-ai-is-reshaping-the-power-strategy-of-data-centers/"
-    },
     {
       "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69781410-lattice-semiconductor-lattice-collaborates-with-arm-to-advance-secure-adaptable-ai-data-center-infrastructure-004.htm",
       "title": "Lattice Semiconductor: Lattice Collaborates with Arm to Advance Secure, Adaptable AI Data Center Infrastructure",
@@ -212,6 +200,30 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257"
     },
     {
+      "id": "https://fortune.com/2026/10/07/cio-intelligence-dropbox-cto/",
+      "title": "Dropbox's CTO wants every employee at the cloud-storage company to use AI. He's letting them find their own ways to use it | Fortune",
+      "source": "fortune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T17:47:00Z",
+      "publishedAt": "2026-10-07T17:47:00Z",
+      "summary": "",
+      "url": "https://fortune.com/2026/10/07/cio-intelligence-dropbox-cto/"
+    },
+    {
+      "id": "https://www.hani.co.kr/arti/economy/marketing/1281177.html",
+      "title": "“삼성그룹 환영”…15년 전 ‘특허 악연’ 털어낸 한미반도체",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:46:00Z",
+      "publishedAt": "2026-10-07T23:46:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1281177.html"
+    },
+    {
       "id": "https://biz.chosun.com/policy/policy_sub/2026/10/08/UAERV6M4IRGLJHRTSUTPQ3W5YQ/",
       "title": "8월 경상수지 461.1억달러 흑자로 역대 2위… 반도체 수출 206.1%↑",
       "source": "biz.chosun.com",
@@ -222,6 +234,18 @@
       "publishedAt": "2026-10-07T23:32:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/policy/policy_sub/2026/10/08/UAERV6M4IRGLJHRTSUTPQ3W5YQ/"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261008000103",
+      "title": "ECM 시장 경쟁 확대…'엘앤씨바이오' 공정·공급망 경쟁력 주목",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:46:00Z",
+      "publishedAt": "2026-10-07T23:46:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261008000103"
     },
     {
       "id": "https://www.newspim.com/news/view/20260918001095",
@@ -272,6 +296,18 @@
       "url": "https://seoul.co.kr:443/news/economy/2026/10/08/20261008031006"
     },
     {
+      "id": "https://www.wnem.com/2026/10/07/bay-plastics-investing-new-training-manufacturing-facility/",
+      "title": "Bay Plastics investing in new training and manufacturing facility",
+      "source": "wnem.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:46:00Z",
+      "publishedAt": "2026-10-07T23:46:00Z",
+      "summary": "",
+      "url": "https://www.wnem.com/2026/10/07/bay-plastics-investing-new-training-manufacturing-facility/"
+    },
+    {
       "id": "https://english.news.cn/20261007/25448abe6736490a88e457d28c121776/c.html",
       "title": "24 killed, dozens injured in Russian attack on energy sites, infrastructure: Ukrainian authorities",
       "source": "english.news.cn",
@@ -318,18 +354,6 @@
       "publishedAt": "2026-10-07T21:46:00Z",
       "summary": "",
       "url": "https://www.wcpo.com/entertainment/local-a-e/people-dont-know-where-their-clothes-are-coming-from-west-end-factory-sends-message-to-industry-at-blink"
-    },
-    {
-      "id": "https://newsroomamerica.com/tag/semiconductor_supply_chain",
-      "title": "Tag: semiconductor_supply_chain",
-      "source": "newsroomamerica.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:32:00Z",
-      "publishedAt": "2026-10-07T21:32:00Z",
-      "summary": "",
-      "url": "https://newsroomamerica.com/tag/semiconductor_supply_chain"
     },
     {
       "id": "https://www.proactiveinvestors.com/companies/news/1099762/first-phosphate-advances-quebec-mine-to-battery-strategy-for-north-american-lfp-supply-chain.html",
@@ -414,18 +438,6 @@
       "publishedAt": "2026-10-07T19:01:00Z",
       "summary": "",
       "url": "https://oilprice.com/Metals/Gold/Data-Centers-Are-Now-Bankrolling-Finlands-New-Power-Supply.html"
-    },
-    {
-      "id": "https://www.westmeathexaminer.ie/2026/10/07/production-in-the-manufacturing-industries-up-54-cso-says/",
-      "title": "Production in the manufacturing industries up 54%, CSO says | Westmeath Examiner",
-      "source": "westmeathexaminer.ie",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T18:31:00Z",
-      "publishedAt": "2026-10-07T18:31:00Z",
-      "summary": "",
-      "url": "https://www.westmeathexaminer.ie/2026/10/07/production-in-the-manufacturing-industries-up-54-cso-says/"
     },
     {
       "id": "https://www.asiaasset.com/sovereign-wealth-funds/danantara-invests-in-energy-firm-highpeak/",
@@ -534,30 +546,6 @@
       "publishedAt": "2026-10-07T23:31:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2633666"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261008000006",
-      "title": "[GAM] 파스칼 ① 노벨상 수상자가 세운 佛 양자기업에 월가 '매수' 합창",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T22:02:00Z",
-      "publishedAt": "2026-10-07T22:02:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261008000006"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2633407",
-      "title": "[노트북 너머] 삼성바이오로직스 2차 파업, 글로벌 수주 신뢰 흔든다",
-      "source": "etoday.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:31:00Z",
-      "publishedAt": "2026-10-07T21:31:00Z",
-      "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2633407"
     },
     {
       "id": "https://boatingindustry.com/news/2026/10/07/abyc-and-us-coast-guard-to-address-navigation-lights-and-battery-systems-in-webinar/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T20:32:00Z",
       "summary": "",
       "url": "https://obj.ca/data/commercial-property-managers/"
+    },
+    {
+      "id": "https://www.bracknellnews.co.uk/news/26617030.new-berkshire-hospital-fears-thames-valley-data-centre-plans/",
+      "title": "Thames Valley data centre could hold up plans for a new Berkshire hospital, MP warns",
+      "source": "bracknellnews.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T20:32:00Z",
+      "publishedAt": "2026-10-07T20:32:00Z",
+      "summary": "",
+      "url": "https://www.bracknellnews.co.uk/news/26617030.new-berkshire-hospital-fears-thames-valley-data-centre-plans/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3828,
-    "relevantItems": 134,
-    "feedBytes": 1032954,
+    "fetchedItems": 3677,
+    "relevantItems": 111,
+    "feedBytes": 992268,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
