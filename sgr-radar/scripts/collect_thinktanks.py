@@ -24,7 +24,7 @@ MONTH = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9
 # id, display name, default kind, official source pages, official hosts
 CFG = [
 ("mgi","McKinsey Global Institute","연구",
- ["https://www.mckinsey.com/mgi/","https://www.mckinsey.com/mgi/our-research/all-research","https://www.mckinsey.com/mgi/overview?content_language=English"],
+ ["https://www.mckinsey.com/mgi/overview?no_head=1","https://www.mckinsey.com/mgi/","https://www.mckinsey.com/mgi/overview?content_language=English"],
  ["mckinsey.com"]),
 ("bhi","BCG Henderson Institute","이슈",
  ["https://www.bcg.com/bcg-institute"],
@@ -60,13 +60,13 @@ CFG = [
  ["https://www.lowyinstitute.org/publications","https://www.lowyinstitute.org/"],
  ["lowyinstitute.org"]),
 ("fgv","Fundação Getulio Vargas","소식",
- ["https://portal.fgv.br/en/news","https://portal.fgv.br/en"],
+ ["https://portal.fgv.br/en/news","https://portal.fgv.br/noticias/todas","https://portal.fgv.br/en"],
  ["portal.fgv.br","fgv.br"]),
 ("iss","Institute for Security Studies","이슈",
  ["https://issafrica.org/iss-today","https://issafrica.org/"],
  ["issafrica.org"]),
 ("cigi","Centre for International Governance Innovation","연구",
- ["https://www.cigionline.org/publications/cigi-papers/","https://www.cigionline.org/publications/"],
+ ["https://portal.cigionline.org/research/","https://www.cigionline.org/publications/cigi-papers/","https://www.cigionline.org/publications/"],
  ["cigionline.org"]),
 ]
 BY_ID = {x[0]: x for x in CFG}
@@ -243,10 +243,10 @@ def dedupe(xs):
 
 def fetch(url):
     err=None
-    for i in range(2):
+    for i in range(1):
         try:
             r=Request(url,headers={"User-Agent":UA,"Accept":"text/html,application/xhtml+xml,application/xml,application/rss+xml,application/atom+xml;q=0.9,*/*;q=0.8","Accept-Language":"en-US,en;q=0.8,ja;q=0.6,pt-BR;q=0.5","Cache-Control":"no-cache"})
-            with urlopen(r,timeout=25) as z:
+            with urlopen(r,timeout=10) as z:
                 b=z.read()
                 enc=z.headers.get_content_charset() or "utf-8"
                 text=b.decode(enc,errors="replace")
@@ -254,13 +254,12 @@ def fetch(url):
                 return text
         except Exception as e:
             err=e
-            if i==0:time.sleep(2)
     # GitHub runner curl fallback: still fetches only the same official source URL.
     try:
         p=subprocess.run(
             ["curl","-L","--fail","--silent","--show-error","--compressed","--http1.1",
              "-A",UA,"-H","Accept-Language: en-US,en;q=0.8,ja;q=0.6,pt-BR;q=0.5",
-             "--connect-timeout","15","--max-time","35",url],
+             "--connect-timeout","8","--max-time","15",url],
             stdout=subprocess.PIPE,stderr=subprocess.PIPE,check=False
         )
         if p.returncode==0 and len(p.stdout)>=200:
