@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 12:55:14",
+  "updatedAt": "2026. 10. 07. 오후 01:13:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 69,
-    "deduped": 69,
-    "eventDeduped": 69,
+    "passed": 68,
+    "deduped": 68,
+    "eventDeduped": 68,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -28,18 +28,6 @@
       "publishedAt": "2026-10-07T02:32:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261007112659"
-    },
-    {
-      "id": "https://www.deloitte.com/us/en/programs/center-for-board-effectiveness/articles/ai-board-governance-cyber-risk.html",
-      "title": "AI Governance: Board Oversight of AI and Cybersecurity",
-      "source": "deloitte.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:02:00Z",
-      "publishedAt": "2026-10-06T18:02:00Z",
-      "summary": "",
-      "url": "https://www.deloitte.com/us/en/programs/center-for-board-effectiveness/articles/ai-board-governance-cyber-risk.html"
     },
     {
       "id": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-06T23:17:00Z",
       "summary": "",
       "url": "https://www.ey.com/en_us/insights/industrial-products/how-xylem-scales-enterprise-ai-for-lasting-value"
+    },
+    {
+      "id": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/51951-central-committee-meeting-of-parliament-regarding-approval-of-the-delegation-to-attend-the-world-e-parliament-conference-2026-and-discussion-with-the-government-on-building-digital-trust-responsible-ai-for-a-stronger-democracy-and-empowered-communities.html",
+      "title": "St. Martin News Network - Central Committee meeting of Parliament regarding approval of the delegation to attend the World e-Parliament Conference 2026 and discussion with the Government on Building Digital Trust: Responsible AI for a Stronger Democracy and Empowered Communities.",
+      "source": "smn-news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T22:01:00Z",
+      "publishedAt": "2026-10-06T22:01:00Z",
+      "summary": "",
+      "url": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/51951-central-committee-meeting-of-parliament-regarding-approval-of-the-delegation-to-attend-the-world-e-parliament-conference-2026-and-discussion-with-the-government-on-building-digital-trust-responsible-ai-for-a-stronger-democracy-and-empowered-communities.html"
     }
   ],
   "trendItems": [
@@ -150,18 +150,6 @@
       "publishedAt": "2026-10-07T02:32:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261007112659"
-    },
-    {
-      "id": "https://www.deloitte.com/us/en/programs/center-for-board-effectiveness/articles/ai-board-governance-cyber-risk.html",
-      "title": "AI Governance: Board Oversight of AI and Cybersecurity",
-      "source": "deloitte.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:02:00Z",
-      "publishedAt": "2026-10-06T18:02:00Z",
-      "summary": "",
-      "url": "https://www.deloitte.com/us/en/programs/center-for-board-effectiveness/articles/ai-board-governance-cyber-risk.html"
     },
     {
       "id": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-06T19:46:00Z",
       "summary": "",
       "url": "https://www.newyorktheatreguide.com/theatre-news/news/drunk-christmas-carol-to-play-off-broadway-for-the-holidays"
+    },
+    {
+      "id": "https://www.southerngazette.ca/jpl-to-lay-off-more-than-500-employees-due-to-lack-of-funds-nbc-los-angeles/",
+      "title": "JPL to lay off more than 500 employees due to lack of funds — NBC Los Angeles",
+      "source": "southerngazette.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T19:02:00Z",
+      "publishedAt": "2026-10-06T19:02:00Z",
+      "summary": "",
+      "url": "https://www.southerngazette.ca/jpl-to-lay-off-more-than-500-employees-due-to-lack-of-funds-nbc-los-angeles/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3486,
-    "relevantItems": 79,
-    "feedBytes": 925546,
+    "fetchedItems": 3411,
+    "relevantItems": 70,
+    "feedBytes": 929319,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

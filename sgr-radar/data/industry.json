@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 12:55:13",
+  "updatedAt": "2026. 10. 07. 오후 01:13:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 669,
-    "deduped": 669,
-    "eventDeduped": 669,
+    "passed": 671,
+    "deduped": 671,
+    "eventDeduped": 671,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03781846645610624&mediaCodeNo=257",
+      "title": "“청라에 50MW급 AI 데이터센터 들어선다…kt cloud, 설계·운영 맡는다”",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:02:00Z",
+      "publishedAt": "2026-10-07T04:02:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03781846645610624&mediaCodeNo=257"
+    },
     {
       "id": "https://www.fnnews.com/news/202610070929566261",
       "title": "모건스탠리, AI 성장에 필요한 전력·데이터센터 공급 사태 불가피",
@@ -28,18 +40,6 @@
       "publishedAt": "2026-10-07T03:46:00Z",
       "summary": "",
       "url": "https://www.fnnews.com/news/202610070929566261"
-    },
-    {
-      "id": "https://zdnet.co.kr/view/?no=20261007101114",
-      "title": "AI 지원금, 성과가 없어도 계속 투자해야 할까",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:32:00Z",
-      "publishedAt": "2026-10-07T02:32:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261007101114"
     },
     {
       "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
@@ -66,16 +66,16 @@
       "url": "https://www.etnews.com/20261007000037"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=02788006645610624&mediaCodeNo=257",
-      "title": "롯데바이오로직스, 알보텍 美 바이오시밀러 맡는다…시러큐스 수주 확대",
-      "source": "edaily.co.kr",
+      "id": "https://zdnet.co.kr/view/?no=20261007110931",
+      "title": "한화, AI로 데이터센터 전력 낭비 잡는다…美 '차세대 신기술' 선정",
+      "source": "zdnet.co.kr",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T02:31:00Z",
+      "publishedAt": "2026-10-07T02:31:00Z",
       "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02788006645610624&mediaCodeNo=257"
+      "url": "https://zdnet.co.kr/view/?no=20261007110931"
     },
     {
       "id": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/",
@@ -140,6 +140,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03781846645610624&mediaCodeNo=257",
+      "title": "“청라에 50MW급 AI 데이터센터 들어선다…kt cloud, 설계·운영 맡는다”",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:02:00Z",
+      "publishedAt": "2026-10-07T04:02:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03781846645610624&mediaCodeNo=257"
+    },
+    {
       "id": "https://www.fnnews.com/news/202610070929566261",
       "title": "모건스탠리, AI 성장에 필요한 전력·데이터센터 공급 사태 불가피",
       "source": "fnnews.com",
@@ -186,18 +198,6 @@
       "publishedAt": "2026-10-07T02:31:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261007101456"
-    },
-    {
-      "id": "https://www.huffingtonpost.kr:443/article/261032",
-      "title": "한화그룹 'AI 기반 에너지 관리 시스템' 미국 혁신매체 차세대 신기술로 선정 : 인프라 전력솔루션 시장 경쟁력 키운다",
-      "source": "huffingtonpost.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:02:00Z",
-      "publishedAt": "2026-10-07T02:02:00Z",
-      "summary": "",
-      "url": "https://www.huffingtonpost.kr:443/article/261032"
     },
     {
       "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
@@ -248,6 +248,18 @@
       "url": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/"
     },
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03765446645610624&mediaCodeNo=257",
+      "title": "“미팅 잡아라” K바이오, 바이오재팬서 종횡무진…파트너링 열기 ‘후끈’",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:02:00Z",
+      "publishedAt": "2026-10-07T04:02:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03765446645610624&mediaCodeNo=257"
+    },
+    {
       "id": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/",
       "title": "삼성바이오 노조, 금감원·거래소에 3兆 유증 보류 요청…“노사분규 위험 재검토”",
       "source": "biz.chosun.com",
@@ -260,18 +272,6 @@
       "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=03673606645610624&mediaCodeNo=257",
-      "title": "반도체 호황에 기업 여윳돈 67조…역대 최대",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T03:31:00Z",
-      "publishedAt": "2026-10-07T03:31:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03673606645610624&mediaCodeNo=257"
-    },
-    {
       "id": "https://biz.chosun.com/policy/policy_sub/2026/10/07/B364C66B7NA2XBPJXW3MIWYJQE/",
       "title": "2분기 기업 여유자금 67.1조 늘어 역대 최대… “반도체 수출 호조 영향”",
       "source": "biz.chosun.com",
@@ -282,18 +282,6 @@
       "publishedAt": "2026-10-07T03:31:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/policy/policy_sub/2026/10/07/B364C66B7NA2XBPJXW3MIWYJQE/"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=03276726645610624&mediaCodeNo=257",
-      "title": "메드팩토, 바이오재팬서 MP010 파트너링 논의…\"미팅 20여건 예정\"",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T01:46:00Z",
-      "publishedAt": "2026-10-07T01:46:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03276726645610624&mediaCodeNo=257"
     },
     {
       "id": "https://www.eejournal.com/industry_news/omnivision-launches-industrys-first-2-2-micron-global-shutter-hdr-sensor-for-flagship-industrial-and-robotics-machine-vision-cameras/",
@@ -344,6 +332,18 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026100621134228359"
     },
     {
+      "id": "https://www.etoday.co.kr/news/view/2633109",
+      "title": "AMD “반도체 수요, 공급 크게 앞질러”⋯CEO 움직이자 주가는 최고치",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2633109"
+    },
+    {
       "id": "https://www.insight.co.kr/news/576750",
       "title": "롯데바이오로직스, 알보텍과 장기 생산 수주 계약 체결",
       "source": "insight.co.kr",
@@ -378,6 +378,30 @@
       "publishedAt": "2026-10-06T21:31:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026092914432112952"
+    },
+    {
+      "id": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/godrej-consumer-products-invests-rs-250-crore-in-new-indonesia-manufacturing-facility/134754315",
+      "title": "Godrej Consumer Products invests Rs 250 crore in new Indonesia manufacturing facility",
+      "source": "retail.economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:02:00Z",
+      "publishedAt": "2026-10-07T04:02:00Z",
+      "summary": "",
+      "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/godrej-consumer-products-invests-rs-250-crore-in-new-indonesia-manufacturing-facility/134754315"
+    },
+    {
+      "id": "https://punchng.com/don-urges-investment-in-microbial-biotechnology-for-food-security/",
+      "title": "Don urges investment in microbial biotechnology for food security",
+      "source": "punchng.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:02:00Z",
+      "publishedAt": "2026-10-07T04:02:00Z",
+      "summary": "",
+      "url": "https://punchng.com/don-urges-investment-in-microbial-biotechnology-for-food-security/"
     },
     {
       "id": "https://economictimes.indiatimes.com/tech/technology/black-hills-plans-1-8-billion-investment-to-power-googles-data-center/articleshow/134754626.cms",
@@ -500,18 +524,6 @@
       "url": "https://www.theblaze.com/tech/project-suncatcher-goes-to-space"
     },
     {
-      "id": "https://maritime-executive.com/article/anduril-and-us-navy-invest-6-6b-for-new-submarine-manufacturing-yard",
-      "title": "Anduril and US Navy Invest $6.6B for New Submarine Manufacturing Yard",
-      "source": "maritime-executive.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:01:00Z",
-      "publishedAt": "2026-10-06T22:01:00Z",
-      "summary": "",
-      "url": "https://maritime-executive.com/article/anduril-and-us-navy-invest-6-6b-for-new-submarine-manufacturing-yard"
-    },
-    {
       "id": "https://www.kgou.org/energy/2026-10-06/oklahoma-city-data-center-campus-invests-in-off-grid-power-plant",
       "title": "Oklahoma City data center campus invests in off-grid power plant",
       "source": "kgou.org",
@@ -536,16 +548,16 @@
       "url": "https://www.wcjb.com/2026/10/06/local-quantum-computing-company-hopes-help-companies-with-their-encryption-infrastructure/"
     },
     {
-      "id": "https://www.clinicalleader.com/doc/small-team-big-impact-how-a-biotech-startup-transformed-clinical-trial-supply-management-with-korio-0001",
-      "title": "Small Team, Big Impact: How A Biotech Startup Transformed Clinical Trial Supply Management With Korio",
-      "source": "clinicalleader.com",
+      "id": "https://www.jpl.nasa.gov/topics/robotics/",
+      "title": "Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL)",
+      "source": "jpl.nasa.gov",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T19:31:00Z",
-      "publishedAt": "2026-10-06T19:31:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T04:02:00Z",
+      "publishedAt": "2026-10-07T04:02:00Z",
       "summary": "",
-      "url": "https://www.clinicalleader.com/doc/small-team-big-impact-how-a-biotech-startup-transformed-clinical-trial-supply-management-with-korio-0001"
+      "url": "https://www.jpl.nasa.gov/topics/robotics/"
     },
     {
       "id": "https://www.marinetechnologynews.com/companies/company/ecosub-robotics-218200",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-06T19:47:00Z",
       "summary": "",
       "url": "https://www.napaneetoday.ca/2026/10/06/99998/"
-    },
-    {
-      "id": "https://www.livemint.com/market/stock-market-news/four-ev-battery-stocks-with-strong-future-roadmap-11791283445075.html",
-      "title": "Four EV battery stocks with strong future roadmap | Stock Market News",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T01:01:00Z",
-      "publishedAt": "2026-10-07T01:01:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/market/stock-market-news/four-ev-battery-stocks-with-strong-future-roadmap-11791283445075.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3486,
-    "relevantItems": 79,
-    "feedBytes": 925546,
+    "fetchedItems": 3411,
+    "relevantItems": 70,
+    "feedBytes": 929319,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
