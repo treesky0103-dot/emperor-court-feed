@@ -278,7 +278,7 @@ def fetch_browser(url):
     try:
         p=subprocess.run(
             [exe,"--headless=new","--no-sandbox","--disable-gpu","--disable-dev-shm-usage",
-             "--disable-background-networking","--dump-dom",url],
+             "--disable-background-networking","--disable-http2","--disable-quic","--dump-dom",url],
             stdout=subprocess.PIPE,stderr=subprocess.PIPE,check=False,timeout=28
         )
     except subprocess.TimeoutExpired:
