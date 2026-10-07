@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 10:37:28",
+  "updatedAt": "2026. 10. 07. 오전 10:52:59",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1889,
-    "passed": 67,
-    "deduped": 67,
-    "eventDeduped": 67,
+    "raw": 1974,
+    "passed": 69,
+    "deduped": 69,
+    "eventDeduped": 69,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -40,6 +40,18 @@
       "publishedAt": "2026-10-06T16:01:00Z",
       "summary": "",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/06/cognitive-concentration-the-hidden-risk-beneath-enterprise-ai/"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03273446645610624&mediaCodeNo=257",
+      "title": "금감원, 증권사에 \"해킹 경각심 가져야…IT보안 전면 재점검\" 당부",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T01:47:00Z",
+      "publishedAt": "2026-10-07T01:47:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03273446645610624&mediaCodeNo=257"
     },
     {
       "id": "https://www.etnews.com/20261006000302",
@@ -88,18 +100,6 @@
       "publishedAt": "2026-10-06T18:32:00Z",
       "summary": "",
       "url": "https://www.newswire.ca/news-releases/bmo-earns-top-recognition-for-responsible-ai-leadership-in-global-banking-826429901.html"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=02476406645610624&mediaCodeNo=257",
-      "title": "'AI 클라우드 기업' 엘리스그룹, 일반공모 돌입[오늘청약]",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02476406645610624&mediaCodeNo=257"
     },
     {
       "id": "https://www.thehindu.com/business/Economy/harness-engineering-is-how-ai-developers-are-now-trying-to-make-agents-work-reliably-explained/article71548899.ece",
@@ -162,6 +162,18 @@
       "publishedAt": "2026-10-06T16:01:00Z",
       "summary": "",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/06/cognitive-concentration-the-hidden-risk-beneath-enterprise-ai/"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03273446645610624&mediaCodeNo=257",
+      "title": "금감원, 증권사에 \"해킹 경각심 가져야…IT보안 전면 재점검\" 당부",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T01:47:00Z",
+      "publishedAt": "2026-10-07T01:47:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03273446645610624&mediaCodeNo=257"
     },
     {
       "id": "https://www.etnews.com/20261006000302",
@@ -402,18 +414,6 @@
       "publishedAt": "2026-10-06T21:01:00Z",
       "summary": "",
       "url": "https://www.theglobeandmail.com/business/article-west-coast-pipeline-national-interest-stelco-layoffs-prediction/"
-    },
-    {
-      "id": "https://www.capitalgazette.com/2026/10/06/orioles-make-layoffs-within-business-operations-ahead-of-expected-mlb-lockout/",
-      "title": "Orioles make layoffs within business ops ahead of expected MLB lockout",
-      "source": "capitalgazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T21:01:00Z",
-      "publishedAt": "2026-10-06T21:01:00Z",
-      "summary": "",
-      "url": "https://www.capitalgazette.com/2026/10/06/orioles-make-layoffs-within-business-operations-ahead-of-expected-mlb-lockout/"
     },
     {
       "id": "https://www.thehindubusinessline.com/info-tech/elevenlabs-karnataka-join-hands-to-advance-voice-ai-adoption/article71551925.ece",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1889,
-    "fetchedItems": 3335,
-    "relevantItems": 99,
-    "feedBytes": 884983,
+    "poolSize": 1974,
+    "fetchedItems": 2973,
+    "relevantItems": 122,
+    "feedBytes": 798085,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
