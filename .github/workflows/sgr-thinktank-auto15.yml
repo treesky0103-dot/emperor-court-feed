@@ -44,16 +44,16 @@ jobs:
         shell: bash
         run: |
           MODE="primary"
-          if [ "\${{ github.event_name }}" = "workflow_dispatch" ]; then
-            MODE="\${{ inputs.mode }}"
-          elif [ "\${{ github.event_name }}" = "schedule" ] && [ "\${{ github.event.schedule }}" = "17 0 * * *" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          elif [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 0 * * *" ]; then
             MODE="retry"
           fi
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           echo "AUTO15 mode: $MODE"
 
       - name: Collect official think-tank sources
-        run: python sgr-radar/scripts/collect_thinktanks.py --mode "\${{ steps.mode.outputs.mode }}"
+        run: python sgr-radar/scripts/collect_thinktanks.py --mode "${{ steps.mode.outputs.mode }}"
 
       - name: Commit last-good data when changed
         shell: bash
