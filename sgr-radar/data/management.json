@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 11:36:34",
+  "updatedAt": "2026. 10. 07. 오후 12:13:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 67,
-    "deduped": 67,
-    "eventDeduped": 67,
+    "passed": 70,
+    "deduped": 70,
+    "eventDeduped": 70,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,6 +416,18 @@
       "url": "https://www.logisticsmgmt.com/article/2026_3pl_study_highlights_ai_adoption_freight_fraud_and_supply_chain_disruption/lm_october_2026"
     },
     {
+      "id": "https://www.munhwa.com:443/article/11621883",
+      "title": "AMD “한국기업 13곳과 AI 인프라 구축”",
+      "source": "munhwa.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:01:00Z",
+      "publishedAt": "2026-10-07T03:01:00Z",
+      "summary": "",
+      "url": "https://www.munhwa.com:443/article/11621883"
+    },
+    {
       "id": "https://www.etoday.co.kr/news/view/2633271",
       "title": "가스공사, CEO 주도 'AX 추진 TF' 출범⋯\"AI 결합해 업무 혁신\"",
       "source": "etoday.co.kr",
@@ -450,6 +462,18 @@
       "publishedAt": "2026-10-06T21:31:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2630518"
+    },
+    {
+      "id": "http://www.stlouisstar.com/news/279355912/the-interregnum-publishes-ranked-enterprise-software-advice-tracking-ai-market-shift-in-europe",
+      "title": "The Interregnum Publishes Ranked Enterprise Software Advice Tracking AI Market Shift in Europe",
+      "source": "stlouisstar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:01:00Z",
+      "publishedAt": "2026-10-07T03:01:00Z",
+      "summary": "",
+      "url": "http://www.stlouisstar.com/news/279355912/the-interregnum-publishes-ranked-enterprise-software-advice-tracking-ai-market-shift-in-europe"
     },
     {
       "id": "https://itwire.com/business-it-news/data/new-relic-introduces-ai-evaluation-to-close-the-loop-across-the-entire-developer-to-production-lifecycle-with-transaction-level-business-impact",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-06T20:31:00Z",
       "summary": "",
       "url": "https://www.spokesman.com/stories/2026/oct/06/as-nasa-takes-back-jobs-contractor-amentum-to-lay-/"
-    },
-    {
-      "id": "https://www.newyorktheatreguide.com/theatre-news/news/drunk-christmas-carol-to-play-off-broadway-for-the-holidays",
-      "title": "'Drunk Christmas Carol' to play off Broadway for the holidays | New York Theatre Guide",
-      "source": "newyorktheatreguide.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T19:46:00Z",
-      "publishedAt": "2026-10-06T19:46:00Z",
-      "summary": "",
-      "url": "https://www.newyorktheatreguide.com/theatre-news/news/drunk-christmas-carol-to-play-off-broadway-for-the-holidays"
-    },
-    {
-      "id": "https://www.southerngazette.ca/jpl-to-lay-off-more-than-500-employees-due-to-lack-of-funds-nbc-los-angeles/",
-      "title": "JPL to lay off more than 500 employees due to lack of funds — NBC Los Angeles",
-      "source": "southerngazette.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T19:02:00Z",
-      "publishedAt": "2026-10-06T19:02:00Z",
-      "summary": "",
-      "url": "https://www.southerngazette.ca/jpl-to-lay-off-more-than-500-employees-due-to-lack-of-funds-nbc-los-angeles/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3142,
-    "relevantItems": 142,
-    "feedBytes": 829726,
+    "fetchedItems": 2752,
+    "relevantItems": 61,
+    "feedBytes": 726782,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
