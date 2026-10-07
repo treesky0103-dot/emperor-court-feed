@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 08:10:01",
+  "updatedAt": "2026. 10. 08. 오전 08:26:47",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -376,16 +376,16 @@
           "url": "https://www.hankookilbo.com/news/article/A2026100710510002629"
         },
         {
-          "id": "https://seoul.co.kr:443/news/economy/2026/10/08/20261008031006",
-          "title": "[단독] 호남 반도체 ‘물 공급’ 동복댐 공사 3000억 더 든다",
+          "id": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002",
+          "title": "외국인 투자 ‘역대 최대’로 들어왔는데…새 공장·지방 투자는 왜 줄었나 [강 기자의 세종실록]",
           "source": "seoul.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T16:31:00Z",
-          "publishedAt": "2026-10-07T16:31:00Z",
+          "dateRaw": "2026-10-07T17:47:00Z",
+          "publishedAt": "2026-10-07T17:47:00Z",
           "summary": "",
-          "url": "https://seoul.co.kr:443/news/economy/2026/10/08/20261008031006"
+          "url": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261007101842",
@@ -432,11 +432,11 @@
           "count": 6
         },
         {
-          "word": "반도체",
-          "count": 2
+          "word": "데이터센터",
+          "count": 1
         },
         {
-          "word": "데이터센터",
+          "word": "반도체",
           "count": 1
         },
         {
@@ -901,8 +901,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4141,
-    "feedBytes": 1098502,
+    "fetchedItems": 3951,
+    "feedBytes": 1074064,
     "rollingWindowHours": 72
   }
 }
