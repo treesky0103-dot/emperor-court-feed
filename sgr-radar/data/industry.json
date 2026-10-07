@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 04:49:47",
+  "updatedAt": "2026. 10. 07. 오후 05:29:16",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 687,
-    "deduped": 687,
-    "eventDeduped": 687,
+    "passed": 680,
+    "deduped": 680,
+    "eventDeduped": 680,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -476,6 +476,18 @@
       "url": "https://www.fnnews.com/news/202610070709226447"
     },
     {
+      "id": "https://www.mondaq.com:443/unitedstates/water/1851968/texas-escalates-data-center-oversight-with-attorney-general-water-use-investigation",
+      "title": "Texas Escalates Data Center Oversight With Attorney General Water-Use Investigation",
+      "source": "mondaq.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T08:16:00Z",
+      "publishedAt": "2026-10-07T08:16:00Z",
+      "summary": "",
+      "url": "https://www.mondaq.com:443/unitedstates/water/1851968/texas-escalates-data-center-oversight-with-attorney-general-water-use-investigation"
+    },
+    {
       "id": "https://aninews.in/news/business/chandigarh-university-signs-mou-with-247vc-to-create-investment-opportunities-for-quantum-and-deep-tech-startups20261007102420/",
       "title": "Chandigarh University Signs MoU with 247VC to Create Investment Opportunities for Quantum and Deep-Tech Startups",
       "source": "aninews.in",
@@ -558,18 +570,6 @@
       "publishedAt": "2026-10-06T22:46:00Z",
       "summary": "",
       "url": "https://www.machinedesign.com:443/automation-iiot/article/55409987/altech-corporation-power-and-control-components-address-evolving-data-center-infrastructure-challenges"
-    },
-    {
-      "id": "https://www.theblaze.com/tech/project-suncatcher-goes-to-space",
-      "title": "SpaceX's newest launch just took the first step to fill the skies with data centers | Blaze Media",
-      "source": "theblaze.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:02:00Z",
-      "publishedAt": "2026-10-06T22:02:00Z",
-      "summary": "",
-      "url": "https://www.theblaze.com/tech/project-suncatcher-goes-to-space"
     },
     {
       "id": "https://www.jpl.nasa.gov/topics/robotics/",
@@ -680,18 +680,6 @@
       "url": "https://www.iraq-businessnews.com/2026/10/07/iraq-huawei-data-centre-partnership/"
     },
     {
-      "id": "https://www.bennettjones.com/Insights/Blogs/2026/10/Canada-Launches-Responsible-Data-Centre-Development-Principles-What-Clients-Need-to-Know",
-      "title": "Canada Launches Responsible Data Centre Development Principles: What Clients Need to Know",
-      "source": "bennettjones.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:01:00Z",
-      "publishedAt": "2026-10-06T22:01:00Z",
-      "summary": "",
-      "url": "https://www.bennettjones.com/Insights/Blogs/2026/10/Canada-Launches-Responsible-Data-Centre-Development-Principles-What-Clients-Need-to-Know"
-    },
-    {
       "id": "https://www.aol.co.uk/articles/major-wiltshire-data-centre-starts-071359000.html",
       "title": "Work on major Wiltshire data centre starts after legal agreements signed - AOL",
       "source": "aol.co.uk",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T00:46:00Z",
       "summary": "",
       "url": "https://www.itnews.com.au/news/atlassian-data-centre-products-hit-by-unauthenticated-file-access-vulnerability-629460"
+    },
+    {
+      "id": "https://digg.com/ai/xcqgvul1",
+      "title": "Ben Affleck is quoted discussing Python, neural networks and GPUs · Digg",
+      "source": "digg.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T23:32:00Z",
+      "publishedAt": "2026-10-06T23:32:00Z",
+      "summary": "",
+      "url": "https://digg.com/ai/xcqgvul1"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5451,
-    "relevantItems": 133,
-    "feedBytes": 1531064,
+    "fetchedItems": 5805,
+    "relevantItems": 106,
+    "feedBytes": 1662453,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

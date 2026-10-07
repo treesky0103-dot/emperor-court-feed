@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 05:03:57",
+  "updatedAt": "2026. 10. 07. 오후 05:29:24",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,6 +22,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.mk.co.kr/news/society/12170639",
+          "title": "경남 청년 정책 한곳에 … 道, 광역거점센터 '첫발'",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T17:24:24Z",
+          "publishedAt": "2026-10-07T17:24:24Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12170639",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261007100139",
           "title": "메타넷디엘, 대학 IT 개발에 AI 심는다…분석부터 테스트까지 자동화",
           "source": "zdnet.co.kr",
@@ -34,18 +48,16 @@
           "url": "https://zdnet.co.kr/view/?no=20261007100139"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12170579",
-          "title": "안민석 경기도교육감 “AI교육·사교육비 반값 추진”…취임 100일 새 화두 제시",
-          "source": "mk.co.kr",
+          "id": "https://www.hani.co.kr/arti/society/health/1281355.html",
+          "title": "월급 줄 돈도 없어…빚으로 버티는 지방의료원",
+          "source": "hani.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T16:48:11Z",
-          "publishedAt": "2026-10-07T16:48:11Z",
+          "dateRaw": "2026-10-07T08:17:00Z",
+          "publishedAt": "2026-10-07T08:17:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12170579",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "url": "https://www.hani.co.kr/arti/society/health/1281355.html"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2633509",
@@ -82,18 +94,6 @@
           "publishedAt": "2026-10-07T06:47:00Z",
           "summary": "",
           "url": "https://www.seoul.co.kr/news/politics/2026/10/07/20261007500079"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/society/schooling/1281302.html",
-          "title": "국힘, 교육위 국감서 “암살자(들) 삼류 영화…단체 관람 관여해야”",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:46:00Z",
-          "publishedAt": "2026-10-07T06:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1281302.html"
         },
         {
           "id": "https://cunews.net/detail.php?number=172869&thread=22r12r03",
@@ -134,12 +134,12 @@
       ],
       "keywords": [
         {
-          "word": "교육",
+          "word": "청년",
           "count": 7
         },
         {
-          "word": "청년",
-          "count": 6
+          "word": "교육",
+          "count": 3
         },
         {
           "word": "고령화",
@@ -418,16 +418,16 @@
           "url": "https://biz.heraldcorp.com/article/10894886"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2633455",
-          "title": "리사 수 AMD 회장 “반도체는 팀 스포츠”⋯삼성ㆍSK와 AI 메모리 협력 강조",
-          "source": "etoday.co.kr",
+          "id": "https://www.fnnews.com/news/202610071626430211",
+          "title": "AMD 리사 수, 삼성전자-SK하이닉스 반도체 수장 만나..AI 협력 행보 강화",
+          "source": "fnnews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:47:00Z",
-          "publishedAt": "2026-10-07T07:47:00Z",
+          "dateRaw": "2026-10-07T08:17:00Z",
+          "publishedAt": "2026-10-07T08:17:00Z",
           "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2633455"
+          "url": "https://www.fnnews.com/news/202610071626430211"
         }
       ],
       "keywords": [
@@ -634,6 +634,18 @@
           "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-flat-focus-turns-fed-minutes-monetary-policy-path-clues"
         },
         {
+          "id": "https://www.timeslive.co.za/news/business/2026-10-07-experts-propose-growth-and-investment-reset-to-aid-debt-ridden-developing-countries/",
+          "title": "Experts propose ‘growth and investment reset’ to aid debt-ridden developing countries",
+          "source": "timeslive.co.za",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T08:17:00Z",
+          "publishedAt": "2026-10-07T08:17:00Z",
+          "summary": "",
+          "url": "https://www.timeslive.co.za/news/business/2026-10-07-experts-propose-growth-and-investment-reset-to-aid-debt-ridden-developing-countries/"
+        },
+        {
           "id": "http://www.iranherald.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
           "title": "Vietnam GDP growth hits 9.95% as exports and investment surge",
           "source": "iranherald.com",
@@ -716,35 +728,23 @@
           "publishedAt": "2026-10-07T02:31:00Z",
           "summary": "",
           "url": "https://www.thedailystar.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_a15acee9-bc5b-560f-a85b-97a72e0317ba.html"
-        },
-        {
-          "id": "http://en.ce.cn/main/latest/202610/t20261007_3248623.shtml",
-          "title": "China urges France, Germany to uphold open cooperation, free trade--China Economic Net",
-          "source": "en.ce.cn",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T01:46:00Z",
-          "publishedAt": "2026-10-07T01:46:00Z",
-          "summary": "",
-          "url": "http://en.ce.cn/main/latest/202610/t20261007_3248623.shtml"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 5
+          "count": 6
         },
         {
           "word": "투자",
-          "count": 5
-        },
-        {
-          "word": "무역",
-          "count": 2
+          "count": 6
         },
         {
           "word": "FDI",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         }
       ],
@@ -905,8 +905,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5451,
-    "feedBytes": 1531064,
+    "fetchedItems": 5805,
+    "feedBytes": 1662453,
     "rollingWindowHours": 72
   }
 }
