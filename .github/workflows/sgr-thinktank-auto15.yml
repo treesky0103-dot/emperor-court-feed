@@ -1,0 +1,78 @@
+name: SGR Think Tank AUTO15
+
+on:
+  schedule:
+    - cron: "17 21 * * *"
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "primary = all 15, retry = failed only"
+        required: false
+        default: "primary"
+        type: choice
+        options:
+          - primary
+          - retry
+  push:
+    paths:
+      - "sgr-radar/scripts/collect_thinktanks.py"
+      - ".github/workflows/sgr-thinktank-auto15.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sgr-thinktank-auto15
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Decide mode
+        id: mode
+        shell: bash
+        run: |
+          MODE="primary"
+          if [ "\${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="\${{ inputs.mode }}"
+          elif [ "\${{ github.event_name }}" = "schedule" ] && [ "\${{ github.event.schedule }}" = "17 0 * * *" ]; then
+            MODE="retry"
+          fi
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          echo "AUTO15 mode: $MODE"
+
+      - name: Collect official think-tank sources
+        run: python sgr-radar/scripts/collect_thinktanks.py --mode "\${{ steps.mode.outputs.mode }}"
+
+      - name: Commit last-good data when changed
+        shell: bash
+        run: |
+          if git diff --quiet -- sgr-radar/data/thinktanks; then
+            echo "No think-tank data changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sgr-radar/data/thinktanks
+          git commit -m "chore(sgr): refresh official think-tank AUTO15"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push race detected; retry $attempt/3"
+            sleep 5
+          done
+          echo "Failed to push AUTO15 data after retries."
+          exit 1
