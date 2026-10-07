@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 12:37:29",
+  "updatedAt": "2026. 10. 07. 오후 12:55:13",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 671,
-    "deduped": 671,
-    "eventDeduped": 671,
+    "passed": 669,
+    "deduped": 669,
+    "eventDeduped": 669,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.fnnews.com/news/202610070929566261",
+      "title": "모건스탠리, AI 성장에 필요한 전력·데이터센터 공급 사태 불가피",
+      "source": "fnnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:46:00Z",
+      "publishedAt": "2026-10-07T03:46:00Z",
+      "summary": "",
+      "url": "https://www.fnnews.com/news/202610070929566261"
+    },
     {
       "id": "https://zdnet.co.kr/view/?no=20261007101114",
       "title": "AI 지원금, 성과가 없어도 계속 투자해야 할까",
@@ -28,18 +40,6 @@
       "publishedAt": "2026-10-07T02:32:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261007101114"
-    },
-    {
-      "id": "https://www.huffingtonpost.kr:443/article/261032",
-      "title": "한화그룹 'AI 기반 에너지 관리 시스템' 미국 혁신매체 차세대 신기술로 선정 : 인프라 전력솔루션 시장 경쟁력 키운다",
-      "source": "huffingtonpost.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:02:00Z",
-      "publishedAt": "2026-10-07T02:02:00Z",
-      "summary": "",
-      "url": "https://www.huffingtonpost.kr:443/article/261032"
     },
     {
       "id": "https://www.hani.co.kr/arti/international/america/1281250.html",
@@ -114,18 +114,6 @@
       "url": "https://www.eejournal.com/industry_news/omnivision-launches-industrys-first-2-2-micron-global-shutter-hdr-sensor-for-flagship-industrial-and-robotics-machine-vision-cameras/"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/technology/tech-news/google-signs-3-6mw-power-deal-with-constellation-energy-to-fuel-data-center-expansion/articleshow/134746872.cms",
-      "title": "Google signs 3.6MW power deal with Constellation energy to fuel data center expansion",
-      "source": "timesofindia.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:46:00Z",
-      "publishedAt": "2026-10-06T17:46:00Z",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-signs-3-6mw-power-deal-with-constellation-energy-to-fuel-data-center-expansion/articleshow/134746872.cms"
-    },
-    {
       "id": "https://www.ddaily.co.kr:443/page/view/2026100709461684826",
       "title": "LS일렉트릭, 대만 최대 석화그룹과 합작법인…현지 전력 인프라 수주 본격화",
       "source": "ddaily.co.kr",
@@ -136,9 +124,33 @@
       "publishedAt": "2026-10-07T01:46:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026100709461684826"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2633109",
+      "title": "AMD “반도체 수요, 공급 크게 앞질러”⋯CEO 움직이자 주가는 최고치",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2633109"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.fnnews.com/news/202610070929566261",
+      "title": "모건스탠리, AI 성장에 필요한 전력·데이터센터 공급 사태 불가피",
+      "source": "fnnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:46:00Z",
+      "publishedAt": "2026-10-07T03:46:00Z",
+      "summary": "",
+      "url": "https://www.fnnews.com/news/202610070929566261"
+    },
     {
       "id": "https://zdnet.co.kr/view/?no=20261007101114",
       "title": "AI 지원금, 성과가 없어도 계속 투자해야 할까",
@@ -198,18 +210,6 @@
       "publishedAt": "2026-10-07T02:01:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/international/america/1281250.html"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=03253766645610624&mediaCodeNo=257",
-      "title": "리사 수 “AI 발전엔 개방형 생태계 필요…韓과 협력 확대”",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T01:46:00Z",
-      "publishedAt": "2026-10-07T01:46:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03253766645610624&mediaCodeNo=257"
     },
     {
       "id": "https://www.etnews.com/20261007000037",
@@ -284,6 +284,18 @@
       "url": "https://biz.chosun.com/policy/policy_sub/2026/10/07/B364C66B7NA2XBPJXW3MIWYJQE/"
     },
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03276726645610624&mediaCodeNo=257",
+      "title": "메드팩토, 바이오재팬서 MP010 파트너링 논의…\"미팅 20여건 예정\"",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T01:46:00Z",
+      "publishedAt": "2026-10-07T01:46:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03276726645610624&mediaCodeNo=257"
+    },
+    {
       "id": "https://www.eejournal.com/industry_news/omnivision-launches-industrys-first-2-2-micron-global-shutter-hdr-sensor-for-flagship-industrial-and-robotics-machine-vision-cameras/",
       "title": "OMNIVISION Launches Industry’s First 2.2-micron Global Shutter HDR Sensor for Flagship Industrial and Robotics Machine Vision Cameras",
       "source": "eejournal.com",
@@ -296,16 +308,16 @@
       "url": "https://www.eejournal.com/industry_news/omnivision-launches-industrys-first-2-2-micron-global-shutter-hdr-sensor-for-flagship-industrial-and-robotics-machine-vision-cameras/"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/technology/tech-news/google-signs-3-6mw-power-deal-with-constellation-energy-to-fuel-data-center-expansion/articleshow/134746872.cms",
-      "title": "Google signs 3.6MW power deal with Constellation energy to fuel data center expansion",
-      "source": "timesofindia.indiatimes.com",
-      "language": "English",
+      "id": "https://www.fnnews.com/news/202610061702098669",
+      "title": "AMD·국산 AI반도체 결합한 인프라 만든다…리사 수, 국내 기업과 협력 논의",
+      "source": "fnnews.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:46:00Z",
-      "publishedAt": "2026-10-06T17:46:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:46:00Z",
+      "publishedAt": "2026-10-07T03:46:00Z",
       "summary": "",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-signs-3-6mw-power-deal-with-constellation-energy-to-fuel-data-center-expansion/articleshow/134746872.cms"
+      "url": "https://www.fnnews.com/news/202610061702098669"
     },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026100709461684826",
@@ -330,18 +342,6 @@
       "publishedAt": "2026-10-07T01:46:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026100621134228359"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2633109",
-      "title": "AMD “반도체 수요, 공급 크게 앞질러”⋯CEO 움직이자 주가는 최고치",
-      "source": "etoday.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T00:17:00Z",
-      "publishedAt": "2026-10-07T00:17:00Z",
-      "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2633109"
     },
     {
       "id": "https://www.insight.co.kr/news/576750",
@@ -380,6 +380,30 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026092914432112952"
     },
     {
+      "id": "https://economictimes.indiatimes.com/tech/technology/black-hills-plans-1-8-billion-investment-to-power-googles-data-center/articleshow/134754626.cms",
+      "title": "Google data center: Black Hills plans $1.8 billion investment to power Google's data center - The Economic Times",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:46:00Z",
+      "publishedAt": "2026-10-07T03:46:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/tech/technology/black-hills-plans-1-8-billion-investment-to-power-googles-data-center/articleshow/134754626.cms"
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/",
+      "title": "Google backs 'existing nuclear plants' as data centres strain US energy grid | The National",
+      "source": "thenationalnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:46:00Z",
+      "publishedAt": "2026-10-07T03:46:00Z",
+      "summary": "",
+      "url": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/"
+    },
+    {
       "id": "https://www.thedailystar.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_a15acee9-bc5b-560f-a85b-97a72e0317ba.html",
       "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
       "source": "thedailystar.com",
@@ -414,18 +438,6 @@
       "publishedAt": "2026-10-07T01:32:00Z",
       "summary": "",
       "url": "https://www.straitstimes.com/asia/se-asia/marcos-makes-5th-singapore-visit-with-investments-nuclear-energy-on-agenda"
-    },
-    {
-      "id": "https://greentechlead.com/renewable-energy/asean-clean-energy-investment-16-19-gw-storage-gap-exposes-project-financing-bottleneck-55771",
-      "title": "ASEAN Clean Energy Investment: 16–19 GW Storage Gap Exposes Project Financing Bottleneck - GreentechLead",
-      "source": "greentechlead.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T01:01:00Z",
-      "publishedAt": "2026-10-07T01:01:00Z",
-      "summary": "",
-      "url": "https://greentechlead.com/renewable-energy/asean-clean-energy-investment-16-19-gw-storage-gap-exposes-project-financing-bottleneck-55771"
     },
     {
       "id": "https://www.theepochtimes.com/business/becton-dickinson-says-it-will-invest-19-billion-in-us-manufacturing-6099985",
@@ -546,30 +558,6 @@
       "publishedAt": "2026-10-06T21:02:00Z",
       "summary": "",
       "url": "https://www.marinetechnologynews.com/companies/company/ecosub-robotics-218200"
-    },
-    {
-      "id": "https://bankerandtradesman.com/robotics-startup-inks-50k-sf-lease-at-university-park/",
-      "title": "Robotics Startup Inks 50K SF Lease at University Park",
-      "source": "bankerandtradesman.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:47:00Z",
-      "publishedAt": "2026-10-06T17:47:00Z",
-      "summary": "",
-      "url": "https://bankerandtradesman.com/robotics-startup-inks-50k-sf-lease-at-university-park/"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10895308",
-      "title": "‘이젠 증권가 목표가까지 하락’ 노조 리스크까지 겹쳤다…삼성바이오로직스 주가 ‘울상’ [종목Pick]",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:31:00Z",
-      "publishedAt": "2026-10-07T02:31:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10895308"
     },
     {
       "id": "https://biz.heraldcorp.com/article/10894934",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-06T19:47:00Z",
       "summary": "",
       "url": "https://www.napaneetoday.ca/2026/10/06/99998/"
+    },
+    {
+      "id": "https://www.livemint.com/market/stock-market-news/four-ev-battery-stocks-with-strong-future-roadmap-11791283445075.html",
+      "title": "Four EV battery stocks with strong future roadmap | Stock Market News",
+      "source": "livemint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T01:01:00Z",
+      "publishedAt": "2026-10-07T01:01:00Z",
+      "summary": "",
+      "url": "https://www.livemint.com/market/stock-market-news/four-ev-battery-stocks-with-strong-future-roadmap-11791283445075.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3396,
-    "relevantItems": 101,
-    "feedBytes": 913898,
+    "fetchedItems": 3486,
+    "relevantItems": 79,
+    "feedBytes": 925546,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

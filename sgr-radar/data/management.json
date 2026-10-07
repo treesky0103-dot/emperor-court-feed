@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 12:37:30",
+  "updatedAt": "2026. 10. 07. 오후 12:55:14",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 69,
+    "deduped": 69,
+    "eventDeduped": 69,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -668,28 +668,16 @@
       "url": "https://www.informationweek.com/data-management/data-governance-ai-lower-the-barrier-to-entry-for-digital-twins"
     },
     {
-      "id": "https://www.stgeorgeutah.com/life/ai-may-soon-be-in-more-health-care-processes-in-utah-under-new-state-agreements/article_da0ad7ec-b9f5-464d-a577-84a995a5bf50.html",
-      "title": "AI may soon be in more health care processes in Utah under new state agreements",
-      "source": "stgeorgeutah.com",
+      "id": "https://www.taftmidwaydriller.com/business/key-energy-will-layoff-53-people-may-be-leaving-california/article_054eb8e1-f7b1-4316-9dee-802a894037c6.html",
+      "title": "Key Energy will layoff 53 people, may be leaving California",
+      "source": "taftmidwaydriller.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:46:00Z",
-      "publishedAt": "2026-10-06T17:46:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T03:46:00Z",
+      "publishedAt": "2026-10-07T03:46:00Z",
       "summary": "",
-      "url": "https://www.stgeorgeutah.com/life/ai-may-soon-be-in-more-health-care-processes-in-utah-under-new-state-agreements/article_da0ad7ec-b9f5-464d-a577-84a995a5bf50.html"
-    },
-    {
-      "id": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm",
-      "title": "US-China AI Gap Hits 3%, and DeepSeek V4.1 Flash Now Leads on Agentic Coding Benchmarks",
-      "source": "techtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:46:00Z",
-      "publishedAt": "2026-10-06T17:46:00Z",
-      "summary": "",
-      "url": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm"
+      "url": "https://www.taftmidwaydriller.com/business/key-energy-will-layoff-53-people-may-be-leaving-california/article_054eb8e1-f7b1-4316-9dee-802a894037c6.html"
     },
     {
       "id": "https://www.investmentwatchblog.com/china-shuts-down-hundreds-of-banks-as-beijing-restructures-its-banking-system-amid-economic-slowdown-the-cleanup-is-still-accelerating/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-06T20:31:00Z",
       "summary": "",
       "url": "https://www.spokesman.com/stories/2026/oct/06/as-nasa-takes-back-jobs-contractor-amentum-to-lay-/"
+    },
+    {
+      "id": "https://www.newyorktheatreguide.com/theatre-news/news/drunk-christmas-carol-to-play-off-broadway-for-the-holidays",
+      "title": "'Drunk Christmas Carol' to play off Broadway for the holidays | New York Theatre Guide",
+      "source": "newyorktheatreguide.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-06",
+      "dateRaw": "2026-10-06T19:46:00Z",
+      "publishedAt": "2026-10-06T19:46:00Z",
+      "summary": "",
+      "url": "https://www.newyorktheatreguide.com/theatre-news/news/drunk-christmas-carol-to-play-off-broadway-for-the-holidays"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3396,
-    "relevantItems": 101,
-    "feedBytes": 913898,
+    "fetchedItems": 3486,
+    "relevantItems": 79,
+    "feedBytes": 925546,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

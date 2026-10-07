@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 12:37:36",
+  "updatedAt": "2026. 10. 07. 오후 12:55:18",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -86,6 +86,18 @@
           "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552315"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261007000761",
+          "title": "[2026 국정감사] 정은경 복지부 장관 \"간납사 실태조사 중…내년 초 대응 마련\"",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261007000761"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273177&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
           "title": "세종교육감 취임 100일 회견에 교원단체 \"정책 검증 여전히 부족\"",
           "source": "ohmynews.com",
@@ -122,18 +134,6 @@
           "publishedAt": "2026-10-07T03:32:00Z",
           "summary": "",
           "url": "https://news.knn.co.kr/news/article_sns/1814"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10895631",
-          "title": "아이가 사라지자 노인을 잡았다…교육업계 2세들 ‘상조·시니어’에 꽂힌 이유[중기+]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T03:32:00Z",
-          "publishedAt": "2026-10-07T03:32:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10895631"
         }
       ],
       "keywords": [
@@ -143,7 +143,11 @@
         },
         {
           "word": "교육",
-          "count": 3
+          "count": 2
+        },
+        {
+          "word": "복지",
+          "count": 2
         },
         {
           "word": "주거",
@@ -151,10 +155,6 @@
         },
         {
           "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "복지",
           "count": 1
         }
       ],
@@ -267,41 +267,45 @@
           "url": "https://www.etoday.co.kr/news/view/2630518"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261007000617",
-          "title": "현대커머셜, 한국투자금융그룹 4개 계열사와 기업금융 협력",
+          "id": "http://kr.xinhuanet.com/20261007/6bd8e212a04a426ba9c7ff959fdea5e8/c.html",
+          "title": "WB, 올해 동아시아∙태평양 지역 경제성장률 전망 4.5%로 상향 조정",
+          "source": "kr.xinhuanet.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
+          "summary": "",
+          "url": "http://kr.xinhuanet.com/20261007/6bd8e212a04a426ba9c7ff959fdea5e8/c.html"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20260914000393",
+          "title": "국세청, 물가불안 조장 탈세 41곳 세무조사…1조 '꿀꺽'",
           "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T03:01:00Z",
-          "publishedAt": "2026-10-07T03:01:00Z",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
           "summary": "",
-          "url": "https://www.newspim.com/news/view/20261007000617"
-        },
-        {
-          "id": "https://newsway.co.kr/news/view?ud=2026100710160659183",
-          "title": "김성환 \"글로벌 투자전략 수요 확대\"···AQR 손잡고 퀀트 상품 넓힌다 - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T01:46:00Z",
-          "publishedAt": "2026-10-07T01:46:00Z",
-          "summary": "",
-          "url": "https://newsway.co.kr/news/view?ud=2026100710160659183"
+          "url": "https://www.newspim.com/news/view/20260914000393"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 8
-        },
-        {
-          "word": "기업",
-          "count": 2
+          "count": 6
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "기업",
+          "count": 1
+        },
+        {
+          "word": "물가",
           "count": 1
         },
         {
@@ -406,6 +410,30 @@
           "url": "https://biz.heraldcorp.com/article/10894886"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261005000143",
+          "title": "LG전자, 북미서 5GW 대형 수주…AI 데이터센터 냉각사업 본궤도",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261005000143"
+        },
+        {
+          "id": "https://www.fnnews.com/news/202610070929566261",
+          "title": "모건스탠리, AI 성장에 필요한 전력·데이터센터 공급 사태 불가피",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610070929566261"
+        },
+        {
           "id": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/",
           "title": "삼성바이오 노조, 금감원·거래소에 3兆 유증 보류 요청…“노사분규 위험 재검토”",
           "source": "biz.chosun.com",
@@ -416,30 +444,6 @@
           "publishedAt": "2026-10-07T03:32:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/"
-        },
-        {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026100709265256848",
-          "title": "“AI·반도체부터 해상풍력까지”…농협금융, 서남권에 세 번째 금융허브 낙점",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T01:47:00Z",
-          "publishedAt": "2026-10-07T01:47:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026100709265256848"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2633143",
-          "title": "스카이월드와이드, AI 인프라 사업 확대…조선·방산·제조로 고객군 넓힌다",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T00:17:00Z",
-          "publishedAt": "2026-10-07T00:17:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2633143"
         }
       ],
       "keywords": [
@@ -448,19 +452,19 @@
           "count": 8
         },
         {
-          "word": "반도체",
-          "count": 3
+          "word": "데이터센터",
+          "count": 2
         },
         {
-          "word": "바이오",
-          "count": 1
+          "word": "반도체",
+          "count": 2
         },
         {
           "word": "전력",
-          "count": 1
+          "count": 2
         },
         {
-          "word": "제조",
+          "word": "바이오",
           "count": 1
         },
         {
@@ -662,16 +666,28 @@
           "url": "https://www.chinamoneynetwork.com/2026/10/07/v-key-strengthens-ai-economic-security-with-strategic-investment-in-cloudsineai"
         },
         {
-          "id": "http://www.indiagazette.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
+          "id": "http://www.afghanistansun.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge",
           "title": "Vietnam GDP growth hits 9.95% as exports and investment surge",
-          "source": "indiagazette.com",
+          "source": "afghanistansun.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T03:31:00Z",
-          "publishedAt": "2026-10-07T03:31:00Z",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
           "summary": "",
-          "url": "http://www.indiagazette.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
+          "url": "http://www.afghanistansun.com/news/279349721/vietnam-gdp-growth-hits-9-95-as-exports-and-investment-surge"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/tech/technology/black-hills-plans-1-8-billion-investment-to-power-googles-data-center/articleshow/134754626.cms",
+          "title": "Google data center: Black Hills plans $1.8 billion investment to power Google's data center - The Economic Times",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/tech/technology/black-hills-plans-1-8-billion-investment-to-power-googles-data-center/articleshow/134754626.cms"
         },
         {
           "id": "https://kathmandupost.com/columns/2026/10/06/why-trade-loopholes-don-t-make-an-economic-strategy",
@@ -732,24 +748,12 @@
           "publishedAt": "2026-10-07T01:32:00Z",
           "summary": "",
           "url": "https://tribune.com.pk/story/2633365/investment-hinges-on-economic-stability"
-        },
-        {
-          "id": "https://www.northernpen.ca/the-us-economy-added-253000-jobs-in-a-sign-of-labor-market-strength/",
-          "title": "The US economy added 253,000 jobs in a sign of labor market strength",
-          "source": "northernpen.ca",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T19:03:00Z",
-          "publishedAt": "2026-10-06T19:03:00Z",
-          "summary": "",
-          "url": "https://www.northernpen.ca/the-us-economy-added-253000-jobs-in-a-sign-of-labor-market-strength/"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "관세",
@@ -762,10 +766,6 @@
         {
           "word": "성장",
           "count": 2
-        },
-        {
-          "word": "고용",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -797,6 +797,18 @@
           "publishedAt": "2026-10-06T18:47:00Z",
           "summary": "",
           "url": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/"
+        },
+        {
+          "id": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/",
+          "title": "Google backs 'existing nuclear plants' as data centres strain US energy grid | The National",
+          "source": "thenationalnews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T03:46:00Z",
+          "publishedAt": "2026-10-07T03:46:00Z",
+          "summary": "",
+          "url": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/"
         },
         {
           "id": "https://newsonjapan.com/article/150976.php",
@@ -881,28 +893,12 @@
           "publishedAt": "2026-10-06T22:31:00Z",
           "summary": "",
           "url": "https://www.industrytap.com/9-top-manufacturing-ai-agents-full-list/81739"
-        },
-        {
-          "id": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/",
-          "title": "GPU utilization in post-training shapes better AI agents - SiliconANGLE",
-          "source": "siliconangle.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T22:02:00Z",
-          "publishedAt": "2026-10-06T22:02:00Z",
-          "summary": "",
-          "url": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
-        },
-        {
-          "word": "GPU",
-          "count": 2
+          "count": 8
         },
         {
           "word": "클라우드",
@@ -929,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3396,
-    "feedBytes": 913898,
+    "fetchedItems": 3486,
+    "feedBytes": 925546,
     "rollingWindowHours": 72
   }
 }
