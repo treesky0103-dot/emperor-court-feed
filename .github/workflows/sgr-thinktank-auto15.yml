@@ -46,6 +46,8 @@ jobs:
           MODE="primary"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ inputs.mode }}"
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            MODE="retry"
           elif [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 0 * * *" ]; then
             MODE="retry"
           fi
