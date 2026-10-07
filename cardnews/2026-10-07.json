@@ -9,13 +9,13 @@
     "중년의 뇌를 지키는 대사 관리의 기준: 혈관과 혈당에서 시작하는 치매 예방 5단계",
     "베스트셀러는 어떻게 조작되는가: 사재기 의혹과 바이럴 마케팅 뒤에 숨은 출판 시장의 민낯"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-07T00:18:00.031Z",
+  "provider": "mixed:cloudflare+groq+gemini",
+  "generatedAt": "2026-10-07T00:19:09.467Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-07T00:18:00.031Z",
+      "generatedAt": "2026-10-07T00:19:07.032Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,87 +40,84 @@
         ]
       },
       "bookTitle": "숫자로 설득하는 비개발자의 기획서: 데이터와 지표로 경영진을 통과시키는 보고의 기술",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "cloudflare",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "궁금증",
-          "headline": "숫자로 증명해 단칼에 통과시키는 비개발자 맞춤 기획서 작성의 원칙.",
+          "headline": "기획서에 숫자가\n없으면?",
           "body": "",
           "accent": "yellow",
           "sceneId": "008",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "현상",
-          "headline": "필요성을 객관적 지표와 추정 재무 수치로 전환하는 산출 공식을 모름.",
-          "body": "",
+          "headline": "기획서가\n반려되는 이유",
+          "body": "투자 대비 효과가 부족해",
           "accent": "yellow",
           "sceneId": "017",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "analysis",
           "beat": "원리",
-          "headline": "논리로 엮어 상사를 설득하는 실무자 전용 데이터 기반 보고서 작성법.",
-          "body": "",
+          "headline": "기획서에\n숫자를 넣는 이유",
+          "body": "상사를 논리적으로 설득하기 위해",
           "accent": "yellow",
           "sceneId": "018",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "설명",
-          "headline": "대비 효과(ROI)와 근거 지표가 부실해 반려당하는 보고서가 급증함.",
-          "body": "",
+          "headline": "기획서에\n필요한 숫자",
+          "body": "핵심 비즈니스 지표와 근거 지표",
           "accent": "yellow",
           "sceneId": "019",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "통찰",
-          "headline": "경영 지표 환산표'와 '반려 방지용 반론 시나리오 작성 시트' 수록.",
-          "body": "",
+          "headline": "기획서를\n성공시키는 비법",
+          "body": "5대 경영 지표 환산표와 반론 시나리오 작성",
           "accent": "yellow",
           "sceneId": "035",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "핵심 메시지",
-          "headline": "일반적인 '보고서 잘 쓰는 법' 류의 뻔한 잔소리로 전락할 위험.",
+          "headline": "기획서의\n핵심은 숫자",
           "body": "",
           "accent": "yellow",
           "sceneId": "045",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-75e306b1"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-07T00:18:00.031Z",
+      "generatedAt": "2026-10-07T00:19:09.467Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,87 +142,84 @@
         ]
       },
       "bookTitle": "중년의 뇌를 지키는 대사 관리의 기준: 혈관과 혈당에서 시작하는 치매 예방 5단계",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "수치가 흔들릴 때 영양제보다 먼저 바로잡아야 할 뇌혈관 방어 순서.",
+          "headline": "뇌를 망치는 습관, 바로 잡아라",
           "body": "",
           "accent": "yellow",
           "sceneId": "009",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "무엇부터 조절해야 뇌 노화를 늦출 수 있는지 일상 관리 순서를 모름.",
+          "headline": "혈압이 살짝 높고 당이 흔들리면 기억이 흐려진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "028",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "등 대사 지표 통제부터 시작하는 단계별 뇌 건강 관리 솔루션.",
+          "headline": "아침에 졸리고, 손가락이 저리며, 집중이 안 된다면",
           "body": "",
           "accent": "yellow",
           "sceneId": "027",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "있다는 임상 인식이 확산되며 실질적 예방법에 대한 관심이 급증함.",
+          "headline": "이는 뇌 건강이 대사 지표에 위협받고 있다는 신호다",
           "body": "",
           "accent": "yellow",
           "sceneId": "014",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "수칙'과 병원 검진표 기반 '인지 기능 위험 자가진단표' 제공.",
+          "headline": "혈압과 혈당을 먼저 정상화하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "032",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "당뇨병·고혈압 관리 지침서와 목차가 유사해져 독창성을 잃을 위험.",
+          "headline": "대사 관리가 뇌를 지킨다",
           "body": "",
           "accent": "yellow",
           "sceneId": "050",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-75e306b1"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-07T00:18:00.031Z",
+      "generatedAt": "2026-10-07T00:18:47.189Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,81 +244,78 @@
         ]
       },
       "bookTitle": "베스트셀러는 어떻게 조작되는가: 사재기 의혹과 바이럴 마케팅 뒤에 숨은 출판 시장의 민낯",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "마주치는 베스트셀러 1위 뒤에 숨겨진 은밀한 유통과 조작의 공식.",
+          "headline": "우리가 믿고 산 목록에\n누군가의 욕망이\n적혀 있었다",
           "body": "",
           "accent": "yellow",
           "sceneId": "003",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "추천 광고 뒤에 숨겨진 기만적 마케팅을 걸러내는 기준을 모름.",
-          "body": "",
+          "headline": "가장 잘 보이는 진열대 앞\n빼곡히 쌓인 표지들을\n한참 들여다본다",
+          "body": "모두가 고른 선택이라 믿었다",
           "accent": "yellow",
           "sceneId": "011",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "파헤치고 독자가 진짜 양서를 분별하게 돕는 출판 생태계 비평 탐사서.",
-          "body": "",
+          "headline": "몇 장 넘기지 않아\n공허한 문장만 가득할 때\n밀려오는 씁쓸한 기분",
+          "body": "기대는 번번이 빗나간다",
           "accent": "yellow",
           "sceneId": "022",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "실태가 공중파 뉴스에 보도되며 추천 시스템에 대한 불신이 팽배함.",
-          "body": "",
+          "headline": "하지만 숫자로 만든 줄서기는\n누군가 짜놓은\n화려한 연출일 뿐이다",
+          "body": "보이는 순위가 전부는 아니다",
           "accent": "yellow",
           "sceneId": "019",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "패턴 분석표, '바이럴 광고 도서 식별 5단계 체크리스트' 제공.",
-          "body": "",
+          "headline": "순위에 마음을 내어주기보다\n내 손에 온전히 와닿는\n문장을 천천히 고르자",
+          "body": "선택의 주도권을 되찾는 일이다",
           "accent": "yellow",
           "sceneId": "031",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "업계 내부의 밥그릇 싸움이나 푸념처럼 비쳐 대중적 흥미를 잃을 위험.",
+          "headline": "진짜 울림을 주는 것은\n만들어진 순위가 아니라\n나만의 묵직한 발견이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "041",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-75e306b1"
     }
   ]
