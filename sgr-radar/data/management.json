@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 08:44:53",
+  "updatedAt": "2026. 10. 07. 오후 09:00:52",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 82,
-    "deduped": 82,
-    "eventDeduped": 82,
+    "passed": 80,
+    "deduped": 80,
+    "eventDeduped": 80,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,16 +452,16 @@
       "url": "https://www.munhwa.com:443/article/11621883"
     },
     {
-      "id": "https://www.etoday.co.kr/news/view/2633271",
-      "title": "가스공사, CEO 주도 'AX 추진 TF' 출범⋯\"AI 결합해 업무 혁신\"",
-      "source": "etoday.co.kr",
-      "language": "Korean",
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69777116-aehr-test-systems-aehr-receives-follow-on-sonoma-production-orders-for-lead-hyperscale-customer-s-next-generation-ai-processor-200.htm",
+      "title": "Aehr Test Systems: Aehr Receives Follow-On Sonoma Production Orders for Lead Hyperscale Customer's Next-Generation AI Processor",
+      "source": "finanznachrichten.de",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:31:00Z",
-      "publishedAt": "2026-10-07T02:31:00Z",
+      "dateRaw": "2026-10-07T11:47:00Z",
+      "publishedAt": "2026-10-07T11:47:00Z",
       "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2633271"
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69777116-aehr-test-systems-aehr-receives-follow-on-sonoma-production-orders-for-lead-hyperscale-customer-s-next-generation-ai-processor-200.htm"
     },
     {
       "id": "https://economictimes.indiatimes.com/magazines/panache/ben-afflecks-life-beyond-hollywood-python-coding-working-with-gpus-ai-and-neural-networks-for-years-actor-even-got-access-to-google-openais-labs/articleshow/134763247.cms",
@@ -608,18 +608,6 @@
       "url": "https://www.govinfosecurity.com/webinars/live-webinar-your-newest-workforce-isnt-human-securing-ai-agents-w-7321"
     },
     {
-      "id": "https://itwire.com/business-it-news/data/new-relic-introduces-ai-evaluation-to-close-the-loop-across-the-entire-developer-to-production-lifecycle-with-transaction-level-business-impact",
-      "title": "New Relic Introduces AI Evaluation to Close the Loop Across the Entire Developer-to-Production Lifecycle with Transaction-level Business Impact | iTWire",
-      "source": "itwire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T02:02:00Z",
-      "publishedAt": "2026-10-07T02:02:00Z",
-      "summary": "",
-      "url": "https://itwire.com/business-it-news/data/new-relic-introduces-ai-evaluation-to-close-the-loop-across-the-entire-developer-to-production-lifecycle-with-transaction-level-business-impact"
-    },
-    {
       "id": "https://wjla.com/news/local/dc-robotaxi-debate-grows-as-drivers-warn-of-job-losses-washington-city-council-autonomous-vehicles-uber-drivers-workforce-fund-regulatory-framework-waymo",
       "title": "DC robotaxi debate grows as drivers warn of job losses",
       "source": "wjla.com",
@@ -728,6 +716,18 @@
       "url": "https://www.taftmidwaydriller.com/business/key-energy-will-layoff-53-people-may-be-leaving-california/article_054eb8e1-f7b1-4316-9dee-802a894037c6.html"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/technology/tech-news/as-ai-fear-spreads-across-america-a-republican-state-becomes-first-to-allow-ai-doctor-that-critics-say-paves-way-to-jobs-in-medicine-getting-automated-with-ai/articleshow/134764430.cms",
+      "title": "As AI fear spreads across America, a Republican state becomes first to allow AI doctor; that critics say paves way to jobs in medicine getting automated with AI",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T11:47:00Z",
+      "publishedAt": "2026-10-07T11:47:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-ai-fear-spreads-across-america-a-republican-state-becomes-first-to-allow-ai-doctor-that-critics-say-paves-way-to-jobs-in-medicine-getting-automated-with-ai/articleshow/134764430.cms"
+    },
+    {
       "id": "https://www.irishtimes.com/business/2026/10/07/oracle-to-cut-another-70-jobs-in-ireland-in-ai-cost-cutting-push/",
       "title": "Oracle to cut another 70 jobs in Ireland in AI cost-cutting push",
       "source": "irishtimes.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6638,
-    "relevantItems": 95,
-    "feedBytes": 1859731,
+    "fetchedItems": 6701,
+    "relevantItems": 109,
+    "feedBytes": 1915611,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
