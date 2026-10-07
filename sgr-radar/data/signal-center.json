@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 09:29:33",
+  "updatedAt": "2026. 10. 07. 오전 09:56:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,18 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12169890",
-          "title": "85세 김혜자, 부국제 레드카펫서 기침에 부축까지…건강이상설 확산",
+          "id": "https://www.mk.co.kr/news/business/12170053",
+          "title": "재벌 4·5세 가장 많이 나온 국내 대학, 서울대 아니네?… 고려대 ‘최다’",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:15:36Z",
-          "publishedAt": "2026-10-07T07:15:36Z",
+          "dateRaw": "2026-10-07T09:35:47Z",
+          "publishedAt": "2026-10-07T09:35:47Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12169890",
+          "url": "https://www.mk.co.kr/news/business/12170053",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02814246645610624&mediaCodeNo=257",
@@ -60,6 +60,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261006155057",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273177&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "세종교육감 취임 100일 회견에 교원단체 \"정책 검증 여전히 부족\"",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T00:46:00Z",
+          "publishedAt": "2026-10-07T00:46:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273177&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223418",
@@ -122,24 +134,12 @@
           "publishedAt": "2026-10-06T23:47:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11621806"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10894931",
-          "title": "시흥시, 학부모와 교육 현안 논의하는 ‘시흥 벽깼수다’ 첫 개최",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T23:32:00Z",
-          "publishedAt": "2026-10-06T23:32:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10894931"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 3
+          "count": 4
         },
         {
           "word": "청년",
@@ -183,16 +183,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.etnews.com/20261006000406",
-          "title": "빅크, 대성창업투자·나우아이비캐피탈서 브릿지 투자 유치…글로벌 성장 가속",
+          "id": "https://www.etnews.com/20261007000045",
+          "title": "여경협·여기종·엔젤투자협회, 여성 스타트업 투자 활성화 '맞손'",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T00:00:00Z",
-          "publishedAt": "2026-10-07T00:00:00Z",
+          "dateRaw": "2026-10-07T00:25:10Z",
+          "publishedAt": "2026-10-07T00:25:10Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261006000406",
+          "url": "https://www.etnews.com/20261007000045",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -235,6 +235,20 @@
           "url": "https://www.etoday.co.kr/news/view/2630518"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223445",
+          "title": "[속보] 코스피 6864.25(▼77.14p, 1.11%) 개장, 원·달러 환율 1340.5원",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T00:05:00Z",
+          "publishedAt": "2026-10-07T00:05:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223445",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10894886",
           "title": "‘반도체 여왕’ 리사 수 “AI 수요, 수년 더 간다”…AMD 신고가·뉴욕증시 또 최고 [투자360]",
           "source": "biz.heraldcorp.com",
@@ -257,20 +271,6 @@
           "publishedAt": "2026-10-06T23:17:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20260929000956"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223223",
-          "title": "[속보] 코스피 7044.67(▲40.93p, 0.58%) 개장, 원·달러 환율 1344.0원",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T00:03:00Z",
-          "publishedAt": "2026-10-06T00:03:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223223",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://cunews.net/detail.php?number=172842&thread=22r04r03%20style=",
@@ -418,6 +418,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273167&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "성수석 이천시장 \"반도체 R&D·역세권·경마공원으로 미래 먹거리 만든다\"",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T00:46:00Z",
+          "publishedAt": "2026-10-07T00:46:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273167&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
           "id": "https://www.insight.co.kr/news/576741",
           "title": "삼성물산·삼성전자 추가 출자 계획 없다...삼성바이오, 유증 감소분 3359억 자체 조달",
           "source": "insight.co.kr",
@@ -428,18 +440,6 @@
           "publishedAt": "2026-10-07T00:17:00Z",
           "summary": "",
           "url": "https://www.insight.co.kr/news/576741"
-        },
-        {
-          "id": "https://www.fnnews.com/news/202610062203287473",
-          "title": "'아라비아 검' 포장 뜯으니… 물로 사라지는 친환경 반도체 [언박싱 연구실]",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-06",
-          "dateRaw": "2026-10-06T23:17:00Z",
-          "publishedAt": "2026-10-06T23:17:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610062203287473"
         }
       ],
       "keywords": [
@@ -682,16 +682,16 @@
           "url": "https://tradeonlytoday.com/industry-news/employment-survey-shows-q4-global-hiring-growth/"
         },
         {
-          "id": "http://www.postregister.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_b6854758-fac7-5434-b614-c301290081b7.html",
+          "id": "http://www.goskagit.com/news/nation/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_9fc87bf0-5b7b-58d5-b0ba-d68c832ffb4f.html",
           "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-          "source": "postregister.com",
+          "source": "goskagit.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T00:17:00Z",
-          "publishedAt": "2026-10-07T00:17:00Z",
+          "dateRaw": "2026-10-07T00:46:00Z",
+          "publishedAt": "2026-10-07T00:46:00Z",
           "summary": "",
-          "url": "http://www.postregister.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_b6854758-fac7-5434-b614-c301290081b7.html"
+          "url": "http://www.goskagit.com/news/nation/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_9fc87bf0-5b7b-58d5-b0ba-d68c832ffb4f.html"
         },
         {
           "id": "https://www.northernpen.ca/the-us-economy-added-253000-jobs-in-a-sign-of-labor-market-strength/",
@@ -932,9 +932,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1854,
-    "fetchedItems": 3568,
-    "feedBytes": 941685,
+    "poolSize": 1916,
+    "fetchedItems": 3368,
+    "feedBytes": 891072,
     "rollingWindowHours": 72
   }
 }
