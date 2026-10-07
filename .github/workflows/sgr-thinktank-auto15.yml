@@ -58,7 +58,7 @@ jobs:
       - name: Commit last-good data when changed
         shell: bash
         run: |
-          if git diff --quiet -- sgr-radar/data/thinktanks; then
+          if [ -z "$(git status --porcelain -- sgr-radar/data/thinktanks)" ]; then
             echo "No think-tank data changes."
             exit 0
           fi
