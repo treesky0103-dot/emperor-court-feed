@@ -24,7 +24,7 @@ MONTH = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9
 # id, display name, default kind, official source pages, official hosts
 CFG = [
 ("mgi","McKinsey Global Institute","연구",
- ["https://www.mckinsey.com/mgi/overview?no_head=1","https://www.mckinsey.com/mgi/our-research/all-research"],
+ ["https://www.mckinsey.com/sitemap.xml","https://www.mckinsey.com/mgi/overview?no_head=1","https://www.mckinsey.com/mgi/our-research/all-research"],
  ["mckinsey.com"]),
 ("bhi","BCG Henderson Institute","이슈",
  ["https://www.bcg.com/bcg-institute"],
