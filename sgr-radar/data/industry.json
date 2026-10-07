@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 02:11:14",
+  "updatedAt": "2026. 10. 08. 오전 02:37:51",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 698,
-    "deduped": 698,
-    "eventDeduped": 698,
+    "passed": 695,
+    "deduped": 695,
+    "eventDeduped": 695,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -272,18 +272,6 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=05070886645610624&mediaCodeNo=257"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=04864246645610624&mediaCodeNo=257",
-      "title": "삼성 반도체 성과급 ‘잭팟’…내년 3월 자사주로 받는다",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T08:47:00Z",
-      "publishedAt": "2026-10-07T08:47:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04864246645610624&mediaCodeNo=257"
-    },
-    {
       "id": "https://seoul.co.kr:443/news/economy/2026/10/08/20261008031006",
       "title": "[단독] 호남 반도체 ‘물 공급’ 동복댐 공사 3000억 더 든다",
       "source": "seoul.co.kr",
@@ -344,6 +332,18 @@
       "url": "https://newsway.co.kr/news/view?ud=2026100715012085536"
     },
     {
+      "id": "https://biz.heraldcorp.com/article/10895232",
+      "title": "“한 달 만에 무려 70% 급등” ‘삼전닉스’ 저리 가라…코스닥 이끈 ‘반도체 소부장’ [투자360]",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:47:00Z",
+      "publishedAt": "2026-10-07T09:47:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10895232"
+    },
+    {
       "id": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
       "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
       "source": "cnbc.com",
@@ -390,6 +390,18 @@
       "publishedAt": "2026-10-07T09:17:00Z",
       "summary": "",
       "url": "https://cunews.net/detail.php?number=172881&thread=22r12r03%20style="
+    },
+    {
+      "id": "https://ecorazzi.com/ukraine-faces-one-of-its-largest-russian-air-attacks-as-energy-infrastructure-comes-under-pressure/",
+      "title": "Ukraine Faces One of Its Largest Russian Air Attacks as Energy Infrastructure Comes Under Pressure - Ecorazzi",
+      "source": "ecorazzi.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T17:31:00Z",
+      "publishedAt": "2026-10-07T17:31:00Z",
+      "summary": "",
+      "url": "https://ecorazzi.com/ukraine-faces-one-of-its-largest-russian-air-attacks-as-energy-infrastructure-comes-under-pressure/"
     },
     {
       "id": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/form-8-greenland-energy-company-amendment-/9812096",
@@ -474,18 +486,6 @@
       "publishedAt": "2026-10-07T15:32:00Z",
       "summary": "",
       "url": "https://wisr680.com/department-of-energy-secretary-touts-investments-and-policies-in-cliffs/"
-    },
-    {
-      "id": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9811987",
-      "title": "Form 8.3 - DCC Energy Plc | Company Announcement | Investegate",
-      "source": "investegate.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T15:32:00Z",
-      "publishedAt": "2026-10-07T15:32:00Z",
-      "summary": "",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9811987"
     },
     {
       "id": "http://www.perrytribune.com/news/bayer-to-invest-2-2-billion-in-new-manufacturing-site-in-ohio/article_d85df1cc-283f-5b8e-b9e2-d3a11e7704d5.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6594,
-    "relevantItems": 127,
-    "feedBytes": 1800948,
+    "fetchedItems": 5483,
+    "relevantItems": 115,
+    "feedBytes": 1567121,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
