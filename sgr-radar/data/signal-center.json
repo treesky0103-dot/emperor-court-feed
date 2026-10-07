@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 12:39:22",
+  "updatedAt": "2026. 10. 08. 오전 01:00:10",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,20 +20,6 @@
           "url": "https://www.mk.co.kr/news/society/12170639",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.etnews.com/20261007000297",
-          "title": "오세훈 시장 “삶의 질 특별시 서울로”…청년 AI 지원 차질 우려",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T07:00:00Z",
-          "publishedAt": "2026-10-07T07:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261007000297",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261007185830",
@@ -84,6 +70,20 @@
           "publishedAt": "2026-10-07T09:16:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261007001542"
+        },
+        {
+          "id": "https://www.etnews.com/20261002000030",
+          "title": "이민우 킨텍스 대표 “AI로 사고 이후 대응에서 사전 예방 중심 안전관리로 전환”",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T08:00:00Z",
+          "publishedAt": "2026-10-07T08:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261002000030",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2633509",
@@ -137,7 +137,7 @@
       "keywords": [
         {
           "word": "청년",
-          "count": 6
+          "count": 5
         },
         {
           "word": "교육",
@@ -149,6 +149,10 @@
         },
         {
           "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "이민",
           "count": 1
         },
         {
@@ -265,6 +269,18 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680079"
         },
         {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273556&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "대구경북경제자유구역청장에 정해용 전 대구시 부시장 임명",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:47:00Z",
+          "publishedAt": "2026-10-07T15:47:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273556&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
           "id": "https://womannews.net/detail.php?number=456622&thread=22r04r03",
           "title": "인천TP, 창업기업 18개사 투자유치 지원…AC·VC 등 10개 기관과 1대1 상담",
           "source": "womannews.net",
@@ -275,27 +291,15 @@
           "publishedAt": "2026-10-07T14:32:00Z",
           "summary": "",
           "url": "https://womannews.net/detail.php?number=456622&thread=22r04r03"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10896212",
-          "title": "서울 강서구, 701억 규모 재난안전예산안 투자우선순위 검토안 심의",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:32:00Z",
-          "publishedAt": "2026-10-07T14:32:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10896212"
         }
       ],
       "keywords": [
         {
-          "word": "투자",
-          "count": 3
+          "word": "금리",
+          "count": 2
         },
         {
-          "word": "금리",
+          "word": "투자",
           "count": 2
         },
         {
@@ -346,16 +350,18 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261007000188",
-          "title": "[人사이트] 장기벽 타임퍼센트 대표 “개인에게 불리한 투자시장 AI 퀀트로 극복”",
+          "id": "https://www.etnews.com/20261007000426",
+          "title": "“AI가 바꾸는 IP서비스”…AI IP데이터분석사 첫 자격시험 시행, 'IP AX' 전문인력 양성 본격화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:32:00Z",
-          "publishedAt": "2026-10-07T10:32:00Z",
+          "dateRaw": "2026-10-07T07:19:48Z",
+          "publishedAt": "2026-10-07T07:19:48Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261007000188"
+          "url": "https://www.etnews.com/20261007000426",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257",
@@ -469,6 +475,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.tippmidwestradio.com/2026/10/07/new-mental-health-service-to-be-located-in-thurles-to-serve-young-people-in-north-tipperary/",
+          "title": "New Mental Health Service To Open In Thurles To Serve Young People In North Tipp - Tipp Mid West Radio",
+          "source": "tippmidwestradio.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:47:00Z",
+          "publishedAt": "2026-10-07T15:47:00Z",
+          "summary": "",
+          "url": "https://www.tippmidwestradio.com/2026/10/07/new-mental-health-service-to-be-located-in-thurles-to-serve-young-people-in-north-tipperary/"
+        },
+        {
           "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/07/ai-agents-heading-for-a-cloud-migration-moment/",
           "title": "AI Agents Heading For A Cloud Migration Moment",
           "source": "forbes.com",
@@ -529,6 +547,42 @@
           "url": "https://www.live95fm.ie/news/live95-news/southill-hub-secures-funding-for-youth-nutrition-and-mental-health-programme/"
         },
         {
+          "id": "https://www.northwestsignal.net/news/health/article_53f1a6ac-57cb-548e-8850-7393fa2b776d.html",
+          "title": "Survey: More parents are seeking professional mental health support for their students",
+          "source": "northwestsignal.net",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:47:00Z",
+          "publishedAt": "2026-10-07T15:47:00Z",
+          "summary": "",
+          "url": "https://www.northwestsignal.net/news/health/article_53f1a6ac-57cb-548e-8850-7393fa2b776d.html"
+        },
+        {
+          "id": "https://www.salisburyjournal.co.uk/news/26616445.moyles-court-school-break-in-probe-leads-arrest/",
+          "title": "Person arrested after attempted burglary report at former school",
+          "source": "salisburyjournal.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:47:00Z",
+          "publishedAt": "2026-10-07T15:47:00Z",
+          "summary": "",
+          "url": "https://www.salisburyjournal.co.uk/news/26616445.moyles-court-school-break-in-probe-leads-arrest/"
+        },
+        {
+          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69779902-one-health-innovation-district-breaks-ground-on-one-health-research-institute-anchored-by-purdue-university-and-elanco-animal-health-200.htm",
+          "title": "One Health Innovation District Breaks Ground on One Health Research Institute, Anchored by Purdue University and Elanco Animal Health",
+          "source": "finanznachrichten.de",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:47:00Z",
+          "publishedAt": "2026-10-07T15:47:00Z",
+          "summary": "",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69779902-one-health-innovation-district-breaks-ground-on-one-health-research-institute-anchored-by-purdue-university-and-elanco-animal-health-200.htm"
+        },
+        {
           "id": "https://www.waff.com/2026/10/07/colbert-heights-principal-arrested/",
           "title": "Colbert Heights High School Principal charged with failure to report a crime",
           "source": "waff.com",
@@ -539,75 +593,27 @@
           "publishedAt": "2026-10-07T15:32:00Z",
           "summary": "",
           "url": "https://www.waff.com/2026/10/07/colbert-heights-principal-arrested/"
-        },
-        {
-          "id": "https://www.vtcng.com/shelburnenews/state_and_world/health_news/survey-more-parents-are-seeking-professional-mental-health-support-for-their-students/article_540d8818-374f-56b4-af20-1ccb6f20e3f7.html",
-          "title": "Survey: More parents are seeking professional mental health support for their students",
-          "source": "vtcng.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T15:01:00Z",
-          "publishedAt": "2026-10-07T15:01:00Z",
-          "summary": "",
-          "url": "https://www.vtcng.com/shelburnenews/state_and_world/health_news/survey-more-parents-are-seeking-professional-mental-health-support-for-their-students/article_540d8818-374f-56b4-af20-1ccb6f20e3f7.html"
-        },
-        {
-          "id": "http://www.bruneinews.net/news/279357464/new-era-of-astrology-education-cvpt-brings-research-led-structured-jyotish-learning-with-lj-university-certification",
-          "title": "New Era of Astrology Education: CVPT Brings Research-Led, Structured Jyotish Learning with LJ University Certification",
-          "source": "bruneinews.net",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:16:00Z",
-          "publishedAt": "2026-10-07T14:16:00Z",
-          "summary": "",
-          "url": "http://www.bruneinews.net/news/279357464/new-era-of-astrology-education-cvpt-brings-research-led-structured-jyotish-learning-with-lj-university-certification"
-        },
-        {
-          "id": "https://www.tnp.no/norway/politics/2446-frp-top-politicians-shock-34they-are-victims-of-the-norwegian-immigration-pol/",
-          "title": "FRP Top Politicians Shock: \"They are Victims of the Norwegian Immigration Policy\" - The Nordic Page",
-          "source": "tnp.no",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:16:00Z",
-          "publishedAt": "2026-10-07T14:16:00Z",
-          "summary": "",
-          "url": "https://www.tnp.no/norway/politics/2446-frp-top-politicians-shock-34they-are-victims-of-the-norwegian-immigration-pol/"
-        },
-        {
-          "id": "https://www.pressherald.com/2026/10/07/peaks-island-writer-explores-the-human-consequences-of-immigration-policy/",
-          "title": "Peaks Island writer explores the human consequences of immigration policy",
-          "source": "pressherald.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:32:00Z",
-          "publishedAt": "2026-10-07T13:32:00Z",
-          "summary": "",
-          "url": "https://www.pressherald.com/2026/10/07/peaks-island-writer-explores-the-human-consequences-of-immigration-policy/"
         }
       ],
       "keywords": [
+        {
+          "word": "정신건강",
+          "count": 5
+        },
         {
           "word": "교육",
           "count": 4
         },
         {
-          "word": "정신건강",
+          "word": "청년",
           "count": 4
         },
         {
-          "word": "이민",
-          "count": 3
-        },
-        {
-          "word": "청년",
-          "count": 3
-        },
-        {
           "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "이민",
           "count": 1
         }
       ],
@@ -925,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6584,
-    "feedBytes": 1856550,
+    "fetchedItems": 6668,
+    "feedBytes": 1890846,
     "rollingWindowHours": 72
   }
 }
