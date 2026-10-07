@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 11:28:42",
+  "updatedAt": "2026. 10. 07. 오후 11:50:08",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -40,12 +40,14 @@
           "title": "LG전자, '주거공간 탄소중립' 로드맵 공개…\"히트펌프 전환 핵심\"",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:47:00Z",
-          "publishedAt": "2026-10-07T13:47:00Z",
+          "dateRaw": "2026-10-07T13:25:32Z",
+          "publishedAt": "2026-10-07T13:25:32Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261007185830"
+          "url": "https://zdnet.co.kr/view/?no=20261007185830",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.hani.co.kr/arti/opinion/column/1281402.html",
@@ -108,6 +110,18 @@
           "url": "https://www.seoul.co.kr/news/politics/2026/10/07/20261007500079"
         },
         {
+          "id": "https://womannews.net/detail.php?number=456743&thread=22r12r01%20style=",
+          "title": "국무조정실, ‘2026 청년정책 공모전’ 개최…30일까지 청년 제안 접수",
+          "source": "womannews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://womannews.net/detail.php?number=456743&thread=22r12r01%20style="
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273500&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
           "title": "안민석, 교사 300명과 열린토론… \"교사 지지 못 받으면 교육정책 실패\"",
           "source": "ohmynews.com",
@@ -118,24 +132,12 @@
           "publishedAt": "2026-10-07T10:46:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273500&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
-        },
-        {
-          "id": "https://cunews.net/detail.php?number=172888&thread=22r12r03%20style=",
-          "title": "박찬대 인천시장, 민선9기 100일 맞아 민생현장 점검…시장·산업·안전·의료 현장 방문 : 연합시민의소리",
-          "source": "cunews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T09:16:00Z",
-          "publishedAt": "2026-10-07T09:16:00Z",
-          "summary": "",
-          "url": "https://cunews.net/detail.php?number=172888&thread=22r12r03%20style="
         }
       ],
       "keywords": [
         {
           "word": "청년",
-          "count": 6
+          "count": 8
         },
         {
           "word": "교육",
@@ -201,6 +203,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261007231002",
+          "title": "어뷰식스, 장기적인 파트너 성장에 투자하기 위해 '어뷰식스 프론트라인' 출시",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:10:02Z",
+          "publishedAt": "2026-10-07T14:10:02Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261007231002",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/economy/marketing/1281379.html",
           "title": "LG전자 3분기 영업이익 7818억원…환율하락이 실적 끌어내려",
           "source": "hani.co.kr",
@@ -213,18 +229,6 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1281379.html"
         },
         {
-          "id": "https://www.fnnews.com/news/202610071352511271",
-          "title": "3분기 외국인투자 도착액 149억달러 '역대 최대'…제조업 2배로",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:02:00Z",
-          "publishedAt": "2026-10-07T06:02:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610071352511271"
-        },
-        {
           "id": "https://www.anewsa.com/detail.php?number=3205646",
           "title": "대전일자리경제진흥원-대전보건대, 지역인재 양성 협력",
           "source": "anewsa.com",
@@ -235,18 +239,6 @@
           "publishedAt": "2026-10-07T12:47:00Z",
           "summary": "",
           "url": "https://www.anewsa.com/detail.php?number=3205646"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261007134903",
-          "title": "KAI, 저궤도통신·관측위성 수출 추진…튀르키예·동남아 협력 모색",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:47:00Z",
-          "publishedAt": "2026-10-07T06:47:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261007134903"
         },
         {
           "id": "http://inews24.com/view/2012895",
@@ -273,33 +265,45 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680079"
         },
         {
-          "id": "https://www.voakorea.com/a/8208672.html",
-          "title": "트럼프 \"한국 측에 관세 낮추려면 대가 지불해야 한다고 말해\"",
-          "source": "voakorea.com",
+          "id": "https://womannews.net/detail.php?number=456622&thread=22r04r03",
+          "title": "인천TP, 창업기업 18개사 투자유치 지원…AC·VC 등 10개 기관과 1대1 상담",
+          "source": "womannews.net",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:17:00Z",
-          "publishedAt": "2026-10-07T13:17:00Z",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
           "summary": "",
-          "url": "https://www.voakorea.com/a/8208672.html"
+          "url": "https://womannews.net/detail.php?number=456622&thread=22r04r03"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10896212",
+          "title": "서울 강서구, 701억 규모 재난안전예산안 투자우선순위 검토안 심의",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10896212"
         }
       ],
       "keywords": [
+        {
+          "word": "투자",
+          "count": 3
+        },
         {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "수출",
+          "word": "기업",
           "count": 1
         },
         {
           "word": "인력",
-          "count": 1
-        },
-        {
-          "word": "투자",
           "count": 1
         },
         {
@@ -342,42 +346,28 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://biz.chosun.com/it-science/ict/2026/10/07/VDLKDEZROJDFBMETG5FIZ4KEP4/",
-          "title": "AMD 칩 옆에 국산 AI 칩 탑재… 리사 수 만난 딥엑스, 피지컬 AI 협업 가능성 열렸다",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:31:00Z",
-          "publishedAt": "2026-10-07T06:31:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/07/VDLKDEZROJDFBMETG5FIZ4KEP4/"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/biznews/1281294.html",
-          "title": "서울시립대학교 인공지능학과 학부연구생 박현우·엄준혁, 세계적 권위 AI 학회 NeurIPS 논문 발표",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T06:01:00Z",
-          "publishedAt": "2026-10-07T06:01:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/biznews/1281294.html"
-        },
-        {
-          "id": "https://www.etnews.com/20261007000340",
-          "title": "투모로로보틱스, 로봇 AI '하빌리스 브레인 0' 공개",
+          "id": "https://www.etnews.com/20261007000188",
+          "title": "[人사이트] 장기벽 타임퍼센트 대표 “개인에게 불리한 투자시장 AI 퀀트로 극복”",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T05:46:44Z",
-          "publishedAt": "2026-10-07T05:46:44Z",
+          "dateRaw": "2026-10-07T10:32:00Z",
+          "publishedAt": "2026-10-07T10:32:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261007000340",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "https://www.etnews.com/20261007000188"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261007001644",
+          "title": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 국채금리 급등에 반도체주 일제 약세",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261007001644"
         },
         {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1315953",
@@ -438,27 +428,39 @@
           "publishedAt": "2026-10-07T07:47:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2633455"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10895232",
+          "title": "“한 달 만에 무려 70% 급등” ‘삼전닉스’ 저리 가라…코스닥 이끈 ‘반도체 소부장’ [투자360]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T09:47:00Z",
+          "publishedAt": "2026-10-07T09:47:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10895232"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 11
+          "count": 8
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 7
         },
         {
           "word": "GPU",
           "count": 2
         },
         {
-          "word": "로봇",
-          "count": 2
+          "word": "데이터센터",
+          "count": 1
         },
         {
-          "word": "데이터센터",
+          "word": "로봇",
           "count": 1
         }
       ],
@@ -481,6 +483,18 @@
           "publishedAt": "2026-10-07T06:46:00Z",
           "summary": "",
           "url": "https://itwire.com/business-it-news/hardware-and-storage/public-relations-bodies-unite-globally-to-launch-first-ever-worldwide-survey-of-the-profession-s-mental-health-and-wellbeing"
+        },
+        {
+          "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/07/ai-agents-heading-for-a-cloud-migration-moment/",
+          "title": "AI Agents Heading For A Cloud Migration Moment",
+          "source": "forbes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/07/ai-agents-heading-for-a-cloud-migration-moment/"
         },
         {
           "id": "https://www.springfieldnewssun.com/entertainment/events/local-youth-group-uses-dear-evan-hansen-stage-production-to-spark-conversations-on-teen-mental/article_f252ccda-56a7-5048-aba9-0deea16a54bd.html",
@@ -577,18 +591,6 @@
           "publishedAt": "2026-10-07T13:17:00Z",
           "summary": "",
           "url": "https://swimswam.com/calling-all-usa-swimming-coaches-help-advance-research-on-the-mental-health-benefits-of-swimming/"
-        },
-        {
-          "id": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/women-and-law-in-southern-africa-research-and-education-trust-wlsa/",
-          "title": "Women and Law in Southern Africa Research and Education Trust (WLSA)",
-          "source": "girlsnotbrides.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:17:00Z",
-          "publishedAt": "2026-10-07T13:17:00Z",
-          "summary": "",
-          "url": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/women-and-law-in-southern-africa-research-and-education-trust-wlsa/"
         }
       ],
       "keywords": [
@@ -598,15 +600,15 @@
         },
         {
           "word": "교육",
-          "count": 4
-        },
-        {
-          "word": "청년",
           "count": 3
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "청년",
+          "count": 3
         },
         {
           "word": "고령화",
@@ -630,6 +632,42 @@
           "publishedAt": "2026-10-07T11:46:00Z",
           "summary": "",
           "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/"
+        },
+        {
+          "id": "http://www.greekherald.com/news/279357257/uae-italy-explore-stronger-economic-investment-cooperation-at-investopia-bridge-2026",
+          "title": "UAE, Italy explore stronger economic, investment cooperation at Investopia Bridge 2026",
+          "source": "greekherald.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "http://www.greekherald.com/news/279357257/uae-italy-explore-stronger-economic-investment-cooperation-at-investopia-bridge-2026"
+        },
+        {
+          "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/why-brand-events-that-lose-money-can-still-be-a-winning-investment/",
+          "title": "Why Brand Events That Lose Money Can Still Be A Winning Investment",
+          "source": "forbes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/07/why-brand-events-that-lose-money-can-still-be-a-winning-investment/"
+        },
+        {
+          "id": "https://chimpreports.com/uganda-south-sudan-urged-to-leverage-eac-market-for-trade-growth/",
+          "title": "Uganda, South Sudan Urged to Leverage EAC Market for Trade Growth",
+          "source": "chimpreports.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://chimpreports.com/uganda-south-sudan-urged-to-leverage-eac-market-for-trade-growth/"
         },
         {
           "id": "https://aninews.in/news/business/rajkots-aditya-engimach-exhibits-at-imts-2026-chicago-eyes-us-growth-amid-tariff-uncertainty20261007181746/",
@@ -702,52 +740,20 @@
           "publishedAt": "2026-10-07T10:32:00Z",
           "summary": "",
           "url": "https://tribuneonlineng.com/nigeria-targets-spanish-investment-to-unlock-blue-economy-potential/"
-        },
-        {
-          "id": "http://www.bignewsnetwork.com/news/279357257/uae-italy-explore-stronger-economic-investment-cooperation-at-investopia-bridge-2026",
-          "title": "UAE, Italy explore stronger economic, investment cooperation at Investopia Bridge 2026",
-          "source": "bignewsnetwork.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:32:00Z",
-          "publishedAt": "2026-10-07T10:32:00Z",
-          "summary": "",
-          "url": "http://www.bignewsnetwork.com/news/279357257/uae-italy-explore-stronger-economic-investment-cooperation-at-investopia-bridge-2026"
-        },
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69776187-alpha-compute-corp-alpha-compute-s-gamee-reports-q3-record-94-yoy-growth-reaches-monthly-profitability-with-over-118-million-game-plays-expands-i-399.htm",
-          "title": "Alpha Compute Corp.: Alpha Compute's GAMEE Reports Q3 Record 94% YoY Growth, Reaches Monthly Profitability with over 118 million game-plays, Expands Into AI-Powered Consumer Applications",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:32:00Z",
-          "publishedAt": "2026-10-07T10:32:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69776187-alpha-compute-corp-alpha-compute-s-gamee-reports-q3-record-94-yoy-growth-reaches-monthly-profitability-with-over-118-million-game-plays-expands-i-399.htm"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1281400.html",
-          "title": "중동 원유 수출 풀렸는데…운임 급증 탓 ‘유가 고공행진’",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:17:00Z",
-          "publishedAt": "2026-10-07T10:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1281400.html"
         }
       ],
       "keywords": [
+        {
+          "word": "투자",
+          "count": 4
+        },
         {
           "word": "성장",
           "count": 3
         },
         {
-          "word": "투자",
-          "count": 3
+          "word": "무역",
+          "count": 2
         },
         {
           "word": "FDI",
@@ -760,14 +766,6 @@
         {
           "word": "금리",
           "count": 1
-        },
-        {
-          "word": "무역",
-          "count": 1
-        },
-        {
-          "word": "수출",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -776,6 +774,30 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/07/ai-agents-heading-for-a-cloud-migration-moment/",
+          "title": "AI Agents Heading For A Cloud Migration Moment",
+          "source": "forbes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/07/ai-agents-heading-for-a-cloud-migration-moment/"
+        },
+        {
+          "id": "https://wccftech.com/samsungs-12-hi-hbm4e-reportedly-passes-nvidia-qualification-paving-way-for-next-gen-ai-gpu-supply/",
+          "title": "Samsung’s 12-Hi HBM4E Reportedly Passes NVIDIA Qualification, Paving Way For Next-Gen AI GPU Supply",
+          "source": "wccftech.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:33:00Z",
+          "publishedAt": "2026-10-07T14:33:00Z",
+          "summary": "",
+          "url": "https://wccftech.com/samsungs-12-hi-hbm4e-reportedly-passes-nvidia-qualification-paving-way-for-next-gen-ai-gpu-supply/"
+        },
         {
           "id": "https://www.koreatimes.co.kr/business/tech-science/20261007/amd-to-establish-ai-research-center-in-korea-this-year-hire-hundreds",
           "title": "AMD to establish AI research center in Korea this year, hire hundreds - The Korea Times",
@@ -813,6 +835,54 @@
           "url": "https://balticbusinessnews.com/aimotion-and-google-cloud-collaborate-to-scale-ai-driven-automotive-marketing-globally/"
         },
         {
+          "id": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/07/tech-companies-tap-debt-equity-to-fund-ai-and-cloud-expansion/",
+          "title": "Tech companies tap debt, equity to fund AI and cloud expansion",
+          "source": "bnnbloomberg.ca",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/07/tech-companies-tap-debt-equity-to-fund-ai-and-cloud-expansion/"
+        },
+        {
+          "id": "https://nebraskapublicmedia.org/en/news/news-articles/nebraskans-are-used-to-cheap-energy-but-the-aging-grid-and-data-centers-are-driving-costs-up/",
+          "title": "Nebraskans are used to cheap energy, but the aging grid and data centers are driving costs up",
+          "source": "nebraskapublicmedia.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/nebraskans-are-used-to-cheap-energy-but-the-aging-grid-and-data-centers-are-driving-costs-up/"
+        },
+        {
+          "id": "https://www.jawapos.com/oto-dan-tekno/2610070368/google-gandeng-constellation-energy-untuk-tambah-pasokan-nuklir-bagi-data-center-ai",
+          "title": "Google Gandeng Constellation Energy untuk Tambah Pasokan Nuklir bagi Data Center AI",
+          "source": "jawapos.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.jawapos.com/oto-dan-tekno/2610070368/google-gandeng-constellation-energy-untuk-tambah-pasokan-nuklir-bagi-data-center-ai"
+        },
+        {
+          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69778763-behavox-signs-dollar-8-million-gpu-commitment-with-civo-for-sovereign-uk-ai-processing-004.htm",
+          "title": "Behavox Signs $8 Million GPU Commitment With Civo for Sovereign UK AI Processing",
+          "source": "finanznachrichten.de",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T14:32:00Z",
+          "publishedAt": "2026-10-07T14:32:00Z",
+          "summary": "",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69778763-behavox-signs-dollar-8-million-gpu-commitment-with-civo-for-sovereign-uk-ai-processing-004.htm"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/andhra-pradesh/finolex-cables-limited-sees-huge-opportunity-in-emerging-data-centre-hub-in-vizag/article71555208.ece",
           "title": "Finolex Cables Limited sees huge opportunity in emerging data centre hub in Vizag",
           "source": "thehindu.com",
@@ -823,107 +893,27 @@
           "publishedAt": "2026-10-07T14:17:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/news/national/andhra-pradesh/finolex-cables-limited-sees-huge-opportunity-in-emerging-data-centre-hub-in-vizag/article71555208.ece"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/anant-raj-cloud-singapore-to-promote-haryana-as-a-preferred-global-hub-for-data-centres/articleshow/134766869.cms",
-          "title": "Anant Raj Cloud Singapore to promote Haryana as a preferred global hub for data centres",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:47:00Z",
-          "publishedAt": "2026-10-07T13:47:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/anant-raj-cloud-singapore-to-promote-haryana-as-a-preferred-global-hub-for-data-centres/articleshow/134766869.cms"
-        },
-        {
-          "id": "http://www.newjerseytelegraph.com/news/279357553/kidz-ai-joins-afcom-as-solution-provider-member-to-advance-high-density-ai-infrastructure-and-enterprise-gpu-cloud-commercialization",
-          "title": "KIDZ AI Joins AFCOM as Solution Provider Member to Advance High-Density AI Infrastructure and Enterprise GPU Cloud Commercialization",
-          "source": "newjerseytelegraph.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:17:00Z",
-          "publishedAt": "2026-10-07T13:17:00Z",
-          "summary": "",
-          "url": "http://www.newjerseytelegraph.com/news/279357553/kidz-ai-joins-afcom-as-solution-provider-member-to-advance-high-density-ai-infrastructure-and-enterprise-gpu-cloud-commercialization"
-        },
-        {
-          "id": "https://www.itweb.co.za/webinars/Wdgp45MaA1MX9l8E",
-          "title": "AI-accelerated cloud migration - Making cloud migration simpler with generative AI",
-          "source": "itweb.co.za",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T13:17:00Z",
-          "publishedAt": "2026-10-07T13:17:00Z",
-          "summary": "",
-          "url": "https://www.itweb.co.za/webinars/Wdgp45MaA1MX9l8E"
-        },
-        {
-          "id": "https://www.mondaq.com:443/unitedstates/government/1852140/navigating-gpu-export-controls-and-ai-use-restrictions-in-data-center-operations",
-          "title": "Navigating GPU Export Controls And AI Use Restrictions In Data Center Operations",
-          "source": "mondaq.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T12:47:00Z",
-          "publishedAt": "2026-10-07T12:47:00Z",
-          "summary": "",
-          "url": "https://www.mondaq.com:443/unitedstates/government/1852140/navigating-gpu-export-controls-and-ai-use-restrictions-in-data-center-operations"
-        },
-        {
-          "id": "https://www.edie.net/how-clean-energy-infrastructure-can-catch-up-with-the-ai-boom/",
-          "title": "How clean energy infrastructure can catch up with the AI boom - edie",
-          "source": "edie.net",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:46:00Z",
-          "publishedAt": "2026-10-07T10:46:00Z",
-          "summary": "",
-          "url": "https://www.edie.net/how-clean-energy-infrastructure-can-catch-up-with-the-ai-boom/"
-        },
-        {
-          "id": "https://aninews.in/news/business/india8217s-advanced-5g-network-to-drive-manufacturing-productivity-ai-adoption-pave-way-for-6g-ericsson-ceo20261007154904/",
-          "title": "India’s advanced 5G network to drive manufacturing productivity, AI adoption, pave way for 6G: Ericsson CEO",
-          "source": "aninews.in",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:32:00Z",
-          "publishedAt": "2026-10-07T10:32:00Z",
-          "summary": "",
-          "url": "https://aninews.in/news/business/india8217s-advanced-5g-network-to-drive-manufacturing-productivity-ai-adoption-pave-way-for-6g-ericsson-ceo20261007154904/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 10
-        },
-        {
-          "word": "클라우드",
-          "count": 5
+          "count": 8
         },
         {
           "word": "GPU",
           "count": 4
         },
         {
-          "word": "데이터센터",
-          "count": 1
+          "word": "클라우드",
+          "count": 3
         },
         {
-          "word": "수출규제",
-          "count": 1
+          "word": "데이터센터",
+          "count": 2
         },
         {
           "word": "양자",
-          "count": 1
-        },
-        {
-          "word": "제조",
           "count": 1
         }
       ],
@@ -935,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6877,
-    "feedBytes": 1945377,
+    "fetchedItems": 6817,
+    "feedBytes": 1940494,
     "rollingWindowHours": 72
   }
 }
