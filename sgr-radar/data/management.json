@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 10:52:59",
+  "updatedAt": "2026. 10. 07. 오전 11:14:12",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1974,
-    "passed": 69,
-    "deduped": 69,
-    "eventDeduped": 69,
+    "raw": 2000,
+    "passed": 68,
+    "deduped": 68,
+    "eventDeduped": 68,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -212,18 +212,6 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1099669/sap-to-buy-belgian-ai-workforce-software-firm-techwolf-1099669.html"
     },
     {
-      "id": "https://www.intelligentinsurer.com/ferma-forum-today/end-to-end-workflow-redesign-is-key-to-ai-adoption-swiss-res-baacke",
-      "title": "End-to-end workflow redesign is key to AI adoption: Swiss Re's Baacke",
-      "source": "intelligentinsurer.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T15:31:00Z",
-      "publishedAt": "2026-10-06T15:31:00Z",
-      "summary": "",
-      "url": "https://www.intelligentinsurer.com/ferma-forum-today/end-to-end-workflow-redesign-is-key-to-ai-adoption-swiss-res-baacke"
-    },
-    {
       "id": "https://www.forbes.com/councils/forbescommunicationscouncil/2026/10/06/14-authentic-ways-to-showcase-company-culture-and-employee-experiences/",
       "title": "14 Authentic Ways To Showcase Company Culture And Employee Experiences",
       "source": "forbes.com",
@@ -344,18 +332,6 @@
       "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/06/building-versus-buying-enterprise-software-in-an-ai-world/"
     },
     {
-      "id": "https://www.techradar.com/pro/anthropic-earmarks-usd100-million-to-train-over-10-000-ai-engineers-in-push-to-develop-enterprise-ai",
-      "title": "Anthropic earmarks $100 million to train over 10,000 AI engineers in push to develop enterprise AI",
-      "source": "techradar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T15:16:00Z",
-      "publishedAt": "2026-10-06T15:16:00Z",
-      "summary": "",
-      "url": "https://www.techradar.com/pro/anthropic-earmarks-usd100-million-to-train-over-10-000-ai-engineers-in-push-to-develop-enterprise-ai"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10895024",
       "title": "“기본조차 안 지킨다” 금감원, 증권업계 감사 강화 촉구",
       "source": "biz.heraldcorp.com",
@@ -462,6 +438,30 @@
       "publishedAt": "2026-10-06T21:31:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2630518"
+    },
+    {
+      "id": "https://itwire.com/business-it-news/data/new-relic-introduces-ai-evaluation-to-close-the-loop-across-the-entire-developer-to-production-lifecycle-with-transaction-level-business-impact",
+      "title": "New Relic Introduces AI Evaluation to Close the Loop Across the Entire Developer-to-Production Lifecycle with Transaction-level Business Impact | iTWire",
+      "source": "itwire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T02:02:00Z",
+      "publishedAt": "2026-10-07T02:02:00Z",
+      "summary": "",
+      "url": "https://itwire.com/business-it-news/data/new-relic-introduces-ai-evaluation-to-close-the-loop-across-the-entire-developer-to-production-lifecycle-with-transaction-level-business-impact"
+    },
+    {
+      "id": "https://ohsonline.com/whitepapers/2026/10/matrix-ai-powered-forklift-safety-practice-in-workplace.aspx",
+      "title": "Putting AI-Powered Forklift Safety Into Practice in Your Workplace -- Occupational Health & Safety",
+      "source": "ohsonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T02:01:00Z",
+      "publishedAt": "2026-10-07T02:01:00Z",
+      "summary": "",
+      "url": "https://ohsonline.com/whitepapers/2026/10/matrix-ai-powered-forklift-safety-practice-in-workplace.aspx"
     },
     {
       "id": "https://www.bankinfosecurity.com/webinars/webinar-beyond-point-solutions-securing-ai-coding-models-runtime-w-7401",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1974,
-    "fetchedItems": 2973,
-    "relevantItems": 122,
-    "feedBytes": 798085,
+    "poolSize": 2000,
+    "fetchedItems": 3179,
+    "relevantItems": 108,
+    "feedBytes": 852269,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
