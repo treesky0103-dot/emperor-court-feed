@@ -24,7 +24,7 @@ MONTH = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9
 # id, display name, default kind, official source pages, official hosts
 CFG = [
 ("mgi","McKinsey Global Institute","연구",
- ["https://www.mckinsey.com/mgi/overview?no_head=1"],
+ ["https://www.mckinsey.com/mgi/media-center"],
  ["mckinsey.com"]),
 ("bhi","BCG Henderson Institute","이슈",
  ["https://www.bcg.com/bcg-institute"],
@@ -48,7 +48,7 @@ CFG = [
  ["https://www.chathamhouse.org/path/whatsnew.xml","https://www.chathamhouse.org/publications/research-publications"],
  ["chathamhouse.org"]),
 ("bruegel","Bruegel","연구",
- ["https://www.bruegel.org/publications?page=0"],
+ ["https://beach.bruegel.org/","https://ets.bruegel.org/"],
  ["bruegel.org"]),
 ("cfr","Council on Foreign Relations","이슈",
  ["https://www.cfr.org/latest"],
@@ -66,7 +66,7 @@ CFG = [
  ["https://issafrica.org/iss-today","https://issafrica.org/"],
  ["issafrica.org"]),
 ("cigi","Centre for International Governance Innovation","연구",
- ["https://portal.cigionline.org/research/"],
+ ["https://portal.cigionline.org/"],
  ["cigionline.org"]),
 ]
 BY_ID = {x[0]: x for x in CFG}
