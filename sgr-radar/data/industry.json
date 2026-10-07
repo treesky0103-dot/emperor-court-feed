@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 09:33:58",
+  "updatedAt": "2026. 10. 07. 오후 10:00:44",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 670,
-    "deduped": 670,
-    "eventDeduped": 670,
+    "passed": 674,
+    "deduped": 674,
+    "eventDeduped": 674,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,16 +332,16 @@
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1281267.html"
     },
     {
-      "id": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/",
-      "title": "삼성바이오 노조, 금감원·거래소에 3兆 유증 보류 요청…“노사분규 위험 재검토”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
+      "id": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
+      "title": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
+      "source": "thehindu.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T03:32:00Z",
-      "publishedAt": "2026-10-07T03:32:00Z",
+      "dateRaw": "2026-10-07T12:47:00Z",
+      "publishedAt": "2026-10-07T12:47:00Z",
       "summary": "",
-      "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/HQYQTU7TY5AHFK6VULEN6WQHXI/"
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece"
     },
     {
       "id": "https://www.thehindu.com/business/Industry/gradiant-bets-big-on-india-secures-five-contracts-including-semiconductor-fab/article71555160.ece",
@@ -402,6 +402,18 @@
       "publishedAt": "2026-10-07T09:32:00Z",
       "summary": "",
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1315888"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10896148",
+      "title": "인천시, ‘송도 바이오’ 연구개발 역량 고도화… 글로벌 한인 과학자 네트워크와 협력",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T09:32:00Z",
+      "publishedAt": "2026-10-07T09:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10896148"
     },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/jurong-island-energy-storage-system-not-part-core-power-reserves-tan-see-leng",
@@ -572,18 +584,6 @@
       "url": "http://www.bruneinews.net/news/279356251/chandigarh-university-signs-mou-with-247vc-to-create-investment-opportunities-for-quantum-and-deep-tech-startups"
     },
     {
-      "id": "https://www.theconstructionindex.co.uk/news/view/werner-invests-in-manufacturing-in-burton-upon-trent",
-      "title": "Werner invests in manufacturing in Burton upon Trent",
-      "source": "theconstructionindex.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T10:31:00Z",
-      "publishedAt": "2026-10-07T10:31:00Z",
-      "summary": "",
-      "url": "https://www.theconstructionindex.co.uk/news/view/werner-invests-in-manufacturing-in-burton-upon-trent"
-    },
-    {
       "id": "https://www.jpl.nasa.gov/topics/robotics/",
       "title": "Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL)",
       "source": "jpl.nasa.gov",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6762,
-    "relevantItems": 126,
-    "feedBytes": 1935229,
+    "fetchedItems": 6828,
+    "relevantItems": 118,
+    "feedBytes": 1939687,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
