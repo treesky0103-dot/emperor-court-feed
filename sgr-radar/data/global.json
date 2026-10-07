@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 03:41:53",
+  "updatedAt": "2026. 10. 08. 오전 04:04:13",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 142,
-    "deduped": 142,
-    "eventDeduped": 142,
+    "passed": 143,
+    "deduped": 143,
+    "eventDeduped": 143,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.actionforex.com/contributors/technical-analysis/656761-brent-crude-oil-rises-on-fresh-geopolitical-escalation-supply-concerns/"
     },
     {
-      "id": "https://www.asiaone.com/malaysia/johor-mb-pushes-asean-emergency-talks-haze-hits-unhealthy-levels",
-      "title": "Johor MB pushes for ASEAN emergency talks as haze hits unhealthy levels",
-      "source": "asiaone.com",
+      "id": "https://naija247news.com/nnpc-cuts-federal-receivables-by-%E2%82%A66-31tn-after-energy-security-cost-reconciliation/",
+      "title": "NNPC Cuts Federal Receivables By ₦6.31tn After Energy Security Cost Reconciliation | Naija247news",
+      "source": "naija247news.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T18:31:00Z",
-      "publishedAt": "2026-10-07T18:31:00Z",
+      "dateRaw": "2026-10-07T19:01:00Z",
+      "publishedAt": "2026-10-07T19:01:00Z",
       "summary": "",
-      "url": "https://www.asiaone.com/malaysia/johor-mb-pushes-asean-emergency-talks-haze-hits-unhealthy-levels"
+      "url": "https://naija247news.com/nnpc-cuts-federal-receivables-by-%E2%82%A66-31tn-after-energy-security-cost-reconciliation/"
     }
   ],
   "trendItems": [
@@ -366,6 +366,18 @@
       "publishedAt": "2026-10-07T14:32:00Z",
       "summary": "",
       "url": "https://www.segye.com:443/newsView/20261007516605"
+    },
+    {
+      "id": "https://naija247news.com/nnpc-cuts-federal-receivables-by-%E2%82%A66-31tn-after-energy-security-cost-reconciliation/",
+      "title": "NNPC Cuts Federal Receivables By ₦6.31tn After Energy Security Cost Reconciliation | Naija247news",
+      "source": "naija247news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T19:01:00Z",
+      "publishedAt": "2026-10-07T19:01:00Z",
+      "summary": "",
+      "url": "https://naija247news.com/nnpc-cuts-federal-receivables-by-%E2%82%A66-31tn-after-energy-security-cost-reconciliation/"
     },
     {
       "id": "https://aa.com.tr/en/middle-east/israeli-banks-fear-new-sanctions-over-west-bank-settlement-financing-report/4081359",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-07T18:02:00Z",
       "summary": "",
       "url": "https://www.globaltimes.cn/page/202610/1371797.shtml"
-    },
-    {
-      "id": "https://www.rfdtv.com/u-s-agricultural-exports-rise-as-trade-mix-shifts",
-      "title": "U.S. Agricultural Exports Rise As Trade Mix Shifts",
-      "source": "rfdtv.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T14:32:00Z",
-      "publishedAt": "2026-10-07T14:32:00Z",
-      "summary": "",
-      "url": "https://www.rfdtv.com/u-s-agricultural-exports-rise-as-trade-mix-shifts"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5661,
-    "relevantItems": 125,
-    "feedBytes": 1617988,
+    "fetchedItems": 2665,
+    "relevantItems": 67,
+    "feedBytes": 738073,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

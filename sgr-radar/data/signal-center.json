@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 03:41:58",
+  "updatedAt": "2026. 10. 08. 오전 04:04:17",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -225,18 +225,6 @@
           "url": "https://www.anewsa.com/detail.php?number=3205646"
         },
         {
-          "id": "https://www.hani.co.kr/arti/opinion/because/1281397.html",
-          "title": "인재발굴 창 넓힐 국민추천제, 얼마나 성과 냈는지 궁금하다 [왜냐면]",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:17:00Z",
-          "publishedAt": "2026-10-07T10:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/opinion/because/1281397.html"
-        },
-        {
           "id": "http://inews24.com/view/2012895",
           "title": "[2026 국감] 홈플러스 정책자금 금리 낮아지나…이소영 \"적극 검토\"",
           "source": "inews24.com",
@@ -283,6 +271,18 @@
           "publishedAt": "2026-10-07T17:47:00Z",
           "summary": "",
           "url": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273556&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "대구경북경제자유구역청장에 정해용 전 대구시 부시장 임명",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T15:47:00Z",
+          "publishedAt": "2026-10-07T15:47:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273556&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         }
       ],
       "keywords": [
@@ -352,6 +352,20 @@
           "url": "https://zdnet.co.kr/view/?no=20261007164824"
         },
         {
+          "id": "https://www.etnews.com/20261007000112",
+          "title": "[기후테크, 산업을 바꾸다③]배터리 속 얇은 막 하나…화재 위험 낮추는 기술",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T19:00:00Z",
+          "publishedAt": "2026-10-07T19:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261007000112",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://seoul.co.kr:443/news/economy/2026/10/08/20261008031006",
           "title": "[단독] 호남 반도체 ‘물 공급’ 동복댐 공사 3000억 더 든다",
           "source": "seoul.co.kr",
@@ -410,18 +424,6 @@
           "publishedAt": "2026-10-07T11:16:00Z",
           "summary": "",
           "url": "https://www.huffingtonpost.kr:443/article/261051"
-        },
-        {
-          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680081",
-          "title": "경기 남양주 오남읍 식품제조공장서 불…1명 경상",
-          "source": "news.kbs.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:46:00Z",
-          "publishedAt": "2026-10-07T10:46:00Z",
-          "summary": "",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680081"
         }
       ],
       "keywords": [
@@ -434,8 +436,12 @@
           "count": 3
         },
         {
+          "word": "배터리",
+          "count": 1
+        },
+        {
           "word": "제조",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -899,8 +905,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5661,
-    "feedBytes": 1617988,
+    "fetchedItems": 2665,
+    "feedBytes": 738073,
     "rollingWindowHours": 72
   }
 }
