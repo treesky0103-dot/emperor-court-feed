@@ -69,12 +69,16 @@ jobs:
           git add sgr-radar/data/thinktanks
           git commit -m "chore(sgr): refresh official think-tank AUTO15"
           for attempt in 1 2 3; do
-            git pull --rebase origin main || true
+            if ! git pull --rebase origin main; then
+              git rebase --abort || true
+              echo "AUTO15 rebase conflict; refusing false-success."
+              exit 1
+            fi
             if git push origin HEAD:main; then
               exit 0
             fi
             echo "Push race detected; retry $attempt/3"
-            sleep 5
+            sleep 3
           done
           echo "Failed to push AUTO15 data after retries."
           exit 1
