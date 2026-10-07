@@ -198,6 +198,29 @@ def parse_jsonld(html,cfg,src):
             out.append(item(cfg,title,url,date,src,n,note)); n+=1
     return out
 
+def parse_mgi_sitemap(xml,cfg,src):
+    iid,name,default,sources,hosts=cfg
+    if iid!="mgi":return []
+    out=[]; n=50
+    for block in re.findall(r"<url\b[\s\S]*?</url>",xml or "",re.I):
+        lm=re.search(r"<loc\b[^>]*>([\s\S]*?)</loc>",block,re.I)
+        dm=re.search(r"<lastmod\b[^>]*>([\s\S]*?)</lastmod>",block,re.I)
+        raw=textify(lm.group(1) if lm else "")
+        url=official(raw,src,hosts)
+        if not url:continue
+        path=urlparse(url).path.lower().rstrip("/")
+        if "/mgi/our-research/" not in path and "/mckinsey-global-institute/our-research/" not in path:continue
+        if path.endswith("/all-research") or path.endswith("/our-research"):continue
+        date=getdate(textify(dm.group(1) if dm else "")) or date_url(url)
+        if not date:continue
+        slug=urlparse(url).path.rstrip("/").split("/")[-1]
+        title=clean(unescape(slug.replace("-"," ")))
+        if not title:continue
+        title=title[:1].upper()+title[1:]
+        out.append(item(cfg,title,url,date,src,n,"McKinsey 공식 sitemap에서 자동 수집한 MGI Research"))
+        n+=1
+    return dedupe(out)
+
 def parse_feed_xml(xml,cfg,src):
     iid,name,default,sources,hosts=cfg
     out=[]; n=500
@@ -316,8 +339,8 @@ def one(cfg):
     got=[];errors=[];winner=""
     for src in sources:
         try:
-            h=fetch(src); p=dedupe(parse_feed_xml(h,cfg,src)+parse_jsonld(h,cfg,src)+parse_anchors(h,cfg,src))
-            if not p and iid in ("mgi","bruegel","cigi"):
+            h=fetch(src); p=dedupe(parse_mgi_sitemap(h,cfg,src)+parse_feed_xml(h,cfg,src)+parse_jsonld(h,cfg,src)+parse_anchors(h,cfg,src))
+            if not p and iid in ("bruegel","cigi"):
                 try:
                     hb=fetch_browser(src)
                     p=dedupe(parse_feed_xml(hb,cfg,src)+parse_jsonld(hb,cfg,src)+parse_anchors(hb,cfg,src))
@@ -361,7 +384,7 @@ def main():
                    "stale":bool((not ok) and has_data),"itemCount":item_count,
                    "fetchedAt":(payload or {}).get("fetchedAt","") if isinstance(payload,dict) else "",
                    "sourceUrl":(payload or {}).get("sourceUrl",sources[0]) if isinstance(payload,dict) else sources[0],
-                   "lastAttemptAt":started.isoformat().replace("+00:00","Z"),"error":error}
+                   "lastAttemptAt":started.isoformat().replace("+00:00","Z"),"error":clean(error)[-1200:]}
         print(f"[AUTO15] {iid:7s} {'OK' if ok else 'FAIL'} items={rows[iid]['itemCount']} {error[:160]}")
         if not a.no_sleep and i+1<len(todo):time.sleep(.8)
     ordered=[rows.get(c[0],{"id":c[0],"institution":c[1],"ok":False,"itemCount":0,"fetchedAt":"","sourceUrl":c[3][0],"lastAttemptAt":"","error":"not attempted yet"}) for c in CFG]
