@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 06:36:04",
+  "updatedAt": "2026. 10. 08. 오전 06:54:48",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 74,
-    "deduped": 74,
-    "eventDeduped": 74,
+    "passed": 72,
+    "deduped": 72,
+    "eventDeduped": 72,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,6 +524,18 @@
       "url": "https://www.etoday.co.kr/news/view/2631639"
     },
     {
+      "id": "http://www.postregister.com/freeaccess/ai-may-soon-be-in-more-healthcare-processes-in-utah-under-new-state-agreements/article_e0220177-bb46-57ca-881a-e953513fedfc.html",
+      "title": "AI may soon be in more healthcare processes in Utah under new state agreements",
+      "source": "postregister.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T21:46:00Z",
+      "publishedAt": "2026-10-07T21:46:00Z",
+      "summary": "",
+      "url": "http://www.postregister.com/freeaccess/ai-may-soon-be-in-more-healthcare-processes-in-utah-under-new-state-agreements/article_e0220177-bb46-57ca-881a-e953513fedfc.html"
+    },
+    {
       "id": "https://campustechnology.com/articles/2026/10/07/survey-reveals-data-governance-enforcement-gap-for-agentic-ai-tools.aspx",
       "title": "Survey Reveals Data Governance Enforcement Gap for Agentic AI Tools -- Campus Technology",
       "source": "campustechnology.com",
@@ -704,18 +716,6 @@
       "url": "https://wowo.com/indiana-workforce-agency-uses-ai-to-simplify-government-documents/"
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279357357/one-diwali-budget-every-kind-of-gift-advantageclubai-makes-corporate-diwali-gifting-choice-led-flexible-and-simple",
-      "title": "One Diwali Budget. Every Kind of Gift: AdvantageClub.ai Makes Corporate Diwali Gifting Choice-Led, Flexible and Simple",
-      "source": "bignewsnetwork.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T12:47:00Z",
-      "publishedAt": "2026-10-07T12:47:00Z",
-      "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279357357/one-diwali-budget-every-kind-of-gift-advantageclubai-makes-corporate-diwali-gifting-choice-led-flexible-and-simple"
-    },
-    {
       "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680394",
       "title": "“EU, 중국산 하이브리드 차 수입 제한조치 검토”",
       "source": "news.kbs.co.kr",
@@ -728,25 +728,25 @@
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680394"
     },
     {
-      "id": "https://www.redlandsdailyfacts.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/",
+      "id": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/",
       "title": "Castle Park in Riverside lays off more than 100 employees during makeover",
-      "source": "redlandsdailyfacts.com",
+      "source": "sgvtribune.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:17:00Z",
-      "publishedAt": "2026-10-07T20:17:00Z",
+      "dateRaw": "2026-10-07T21:47:00Z",
+      "publishedAt": "2026-10-07T21:47:00Z",
       "summary": "",
-      "url": "https://www.redlandsdailyfacts.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/"
+      "url": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4077,
-    "relevantItems": 107,
-    "feedBytes": 1129995,
+    "fetchedItems": 4608,
+    "relevantItems": 157,
+    "feedBytes": 1272986,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
