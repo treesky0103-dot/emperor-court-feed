@@ -2,21 +2,33 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 07:11:27",
+  "updatedAt": "2026. 10. 08. 오전 07:33:53",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 132,
-    "deduped": 132,
-    "eventDeduped": 132,
+    "passed": 139,
+    "deduped": 139,
+    "eventDeduped": 139,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257",
+      "title": "매파적이던 연준도 예상 못한 변수…'고용쇼크' 후 금리 딜레마(종합)",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257"
+    },
     {
       "id": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
       "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
@@ -52,18 +64,6 @@
       "publishedAt": "2026-10-07T20:47:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10896235"
-    },
-    {
-      "id": "https://www.wral.com/news/ap/7cb4a-5-traders-jailed-for-rigging-key-interest-rates-have-their-convictions-quashed/",
-      "title": "5 traders jailed for rigging key interest rates have their convictions quashed",
-      "source": "wral.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:32:00Z",
-      "publishedAt": "2026-10-07T20:32:00Z",
-      "summary": "",
-      "url": "https://www.wral.com/news/ap/7cb4a-5-traders-jailed-for-rigging-key-interest-rates-have-their-convictions-quashed/"
     },
     {
       "id": "https://www.actionforex.com/contributors/technical-analysis/656761-brent-crude-oil-rises-on-fresh-geopolitical-escalation-supply-concerns/",
@@ -139,6 +139,30 @@
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257",
+      "title": "매파적이던 연준도 예상 못한 변수…'고용쇼크' 후 금리 딜레마(종합)",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01269366645610952&mediaCodeNo=257",
+      "title": "美국채금리 24년來 최고 찍자 매수세…10년물 입찰 '흥행'",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01269366645610952&mediaCodeNo=257"
+    },
     {
       "id": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
       "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
@@ -260,40 +284,16 @@
       "url": "https://www.bakersfield.com/ap/national/us-futures-slip-as-oil-prices-and-bond-yields-rise-with-markets-awaiting-latest-fed/article_3762d17c-ee9f-5505-93e5-e4084994ac9d.html"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261008000025",
-      "title": "뉴욕증시, 국채금리 부담에 하락 마감…다우 0.66%↓",
-      "source": "newspim.com",
+      "id": "http://www.koreatimes.com/article/20261007/1632906",
+      "title": "9월 FOMC 의사록 “금리 연내 추가인상 적절”…시기는 언급 안해 - 미주 한국일보",
+      "source": "koreatimes.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T22:02:00Z",
-      "publishedAt": "2026-10-07T22:02:00Z",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20261008000025"
-    },
-    {
-      "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000020861&code=61131111&sid1=int",
-      "title": "미 연준 “금리 연내 추가인상 적절”… 9월 FOMC 의사록 공개",
-      "source": "kmib.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T22:02:00Z",
-      "publishedAt": "2026-10-07T22:02:00Z",
-      "summary": "",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020861&code=61131111&sid1=int"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2633622",
-      "title": "뉴욕증시, 고금리·고유가 이중고에 하락⋯다우 0.66%↓[상보]",
-      "source": "etoday.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:32:00Z",
-      "publishedAt": "2026-10-07T21:32:00Z",
-      "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2633622"
+      "url": "http://www.koreatimes.com/article/20261007/1632906"
     },
     {
       "id": "https://www.segye.com:443/newsView/20261007516605",
@@ -306,6 +306,18 @@
       "publishedAt": "2026-10-07T14:32:00Z",
       "summary": "",
       "url": "https://www.segye.com:443/newsView/20261007516605"
+    },
+    {
+      "id": "https://www.chinatechnews.com/2026/10/08/130502-huawei-admits-china-lacks-euv-hardware-bets-on-radical-logic-folding-architecture-to-outsmart-u-s-sanctions",
+      "title": "Huawei Admits China Lacks EUV Hardware, Bets on Radical 'Logic Folding' Architecture to Outsmart U.S. Sanctions - ChinaTechNews.com",
+      "source": "chinatechnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:16:00Z",
+      "publishedAt": "2026-10-07T22:16:00Z",
+      "summary": "",
+      "url": "https://www.chinatechnews.com/2026/10/08/130502-huawei-admits-china-lacks-euv-hardware-bets-on-radical-logic-folding-architecture-to-outsmart-u-s-sanctions"
     },
     {
       "id": "https://www.mcall.com/2026/10/07/congress-russia-sanctions-trump/",
@@ -342,18 +354,6 @@
       "publishedAt": "2026-10-07T21:47:00Z",
       "summary": "",
       "url": "https://www.pymnts.com/news/cross-border-payments/2026/ofac-warning-shows-cfos-sanctions-risk-can-hide-in-the-payment-route/"
-    },
-    {
-      "id": "https://www.miragenews.com/us-sanctions-fijian-resident-over-corruption-1756500/",
-      "title": "U.S. Sanctions Fijian Resident Over Corruption for China-Based Actors",
-      "source": "miragenews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:31:00Z",
-      "publishedAt": "2026-10-07T21:31:00Z",
-      "summary": "",
-      "url": "https://www.miragenews.com/us-sanctions-fijian-resident-over-corruption-1756500/"
     },
     {
       "id": "https://www.proactiveinvestors.com/companies/news/1099762/first-phosphate-advances-quebec-mine-to-battery-strategy-for-north-american-lfp-supply-chain.html",
@@ -500,6 +500,30 @@
       "url": "https://www.wikitree.co.kr/articles/1164668"
     },
     {
+      "id": "https://www.afl.com.au/news/1628920/trade-talk-live-october-8-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period",
+      "title": "Trade Talk LIVE: Hawk's call looms, Blakey meeting locked in, will Marshall look elsewhere?",
+      "source": "afl.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
+      "summary": "",
+      "url": "https://www.afl.com.au/news/1628920/trade-talk-live-october-8-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period"
+    },
+    {
+      "id": "https://www.mumbrella.asia/2026/10/china-urges-france-and-germany-to.html",
+      "title": "China Urges France and Germany to Reject EU Protectionism: A Diplomatic Warning on Trade Policy",
+      "source": "mumbrella.asia",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
+      "summary": "",
+      "url": "https://www.mumbrella.asia/2026/10/china-urges-france-and-germany-to.html"
+    },
+    {
       "id": "https://slguardian.org/european-parliament-hardens-china-policy-as-trade-and-security-tensions-deepen/",
       "title": "European Parliament Hardens China Policy as Trade and Security Tensions Deepen",
       "source": "slguardian.org",
@@ -644,6 +668,18 @@
       "url": "https://oilonwhyte.com/oilers-rumours-oilers-trade-talk-continues-to-heat-up-01m4a36gxnwe"
     },
     {
+      "id": "http://inews24.com/view/2012946",
+      "title": "IEA 비축유 방출 속도 높이기로⋯국제유가 하락",
+      "source": "inews24.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
+      "summary": "",
+      "url": "http://inews24.com/view/2012946"
+    },
+    {
       "id": "https://www.newspim.com/news/view/20261008000034",
       "title": "[금/유가] IEA 비축유 방출 가속에 유가 하락, 브렌트 100달러선...금값 2개월래 최저",
       "source": "newspim.com",
@@ -680,73 +716,37 @@
       "url": "https://www.intrafish.com/trade/updates-some-but-not-all-older-imports-now-eligible-for-ieepa-tariff-refunds/2-1-1947300"
     },
     {
-      "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680380",
-      "title": "미 국채 다시 매도세…장중 10년물 금리 24년 만에 최고치",
-      "source": "news.kbs.co.kr",
+      "id": "http://inews24.com/view/2012947",
+      "title": "美 10년물 국채금리 5.36%⋯뉴욕증시 3대 지수 하락",
+      "source": "inews24.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T15:32:00Z",
-      "publishedAt": "2026-10-07T15:32:00Z",
+      "dateRaw": "2026-10-07T22:17:00Z",
+      "publishedAt": "2026-10-07T22:17:00Z",
       "summary": "",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680380"
+      "url": "http://inews24.com/view/2012947"
     },
     {
-      "id": "https://kashmirlife.net/jammu-kashmir-govt-operationalises-e-sanction-and-fund-re-appropriation-modules-on-jk-beams-455547/",
-      "title": "Jammu Kashmir Govt Operationalises e-Sanction and Fund Re-appropriation Modules on JK BEAMS",
-      "source": "kashmirlife.net",
+      "id": "https://www.miragenews.com/us-sanctions-fijian-resident-over-corruption-1756500/",
+      "title": "U.S. Sanctions Fijian Resident Over Corruption for China-Based Actors",
+      "source": "miragenews.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:17:00Z",
-      "publishedAt": "2026-10-07T20:17:00Z",
+      "dateRaw": "2026-10-07T21:31:00Z",
+      "publishedAt": "2026-10-07T21:31:00Z",
       "summary": "",
-      "url": "https://kashmirlife.net/jammu-kashmir-govt-operationalises-e-sanction-and-fund-re-appropriation-modules-on-jk-beams-455547/"
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/07/uae-seeks-to-boost-gulf-industrial-integration-and-supply-chain-resilience/",
-      "title": "UAE seeks to boost Gulf industrial integration and supply chain resilience | The National",
-      "source": "thenationalnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T18:01:00Z",
-      "publishedAt": "2026-10-07T18:01:00Z",
-      "summary": "",
-      "url": "https://www.thenationalnews.com/business/economy/2026/10/07/uae-seeks-to-boost-gulf-industrial-integration-and-supply-chain-resilience/"
-    },
-    {
-      "id": "https://www.thehindubusinessline.com/economy/fta-utilisation-cell-set-up-to-boost-trade-pact-gains-commerce-secretary/article71556730.ece",
-      "title": "FTA utilisation cell set up to boost trade pact gains: Commerce Secretary",
-      "source": "thehindubusinessline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T17:02:00Z",
-      "publishedAt": "2026-10-07T17:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindubusinessline.com/economy/fta-utilisation-cell-set-up-to-boost-trade-pact-gains-commerce-secretary/article71556730.ece"
-    },
-    {
-      "id": "https://www.chinamoneynetwork.com/2026/10/07/eu-plans-import-cap-on-chinese-hybrid-cars-amid-trade-deficit-concerns",
-      "title": "EU Plans Import Cap on Chinese Hybrid Cars Amid Trade Deficit Concerns",
-      "source": "chinamoneynetwork.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T16:17:00Z",
-      "publishedAt": "2026-10-07T16:17:00Z",
-      "summary": "",
-      "url": "https://www.chinamoneynetwork.com/2026/10/07/eu-plans-import-cap-on-chinese-hybrid-cars-amid-trade-deficit-concerns"
+      "url": "https://www.miragenews.com/us-sanctions-fijian-resident-over-corruption-1756500/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4456,
-    "relevantItems": 139,
-    "feedBytes": 1253304,
+    "fetchedItems": 4039,
+    "relevantItems": 128,
+    "feedBytes": 1094181,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

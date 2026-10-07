@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 07:11:33",
+  "updatedAt": "2026. 10. 08. 오전 07:33:58",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,6 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02148406645610952&mediaCodeNo=257",
+          "title": "[건강 칼럼] 차갑고 건조한 계절, 따뜻한 생강 음식으로 건강한 식습관을 만든다.",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:16:00Z",
+          "publishedAt": "2026-10-07T22:16:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02148406645610952&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/opinion/column/1277834.html",
           "title": "성소수자 혐오 부추긴 교육부 가이드북 [뉴스룸에서]",
           "source": "hani.co.kr",
@@ -32,6 +44,32 @@
           "publishedAt": "2026-10-07T16:17:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/opinion/column/1277834.html"
+        },
+        {
+          "id": "http://www.koreatimes.com/article/20261007/1632910",
+          "title": "딱 5분 만에 ‘300달러’ 벌었다…주식 접은 美 청년들 몰려든 ‘대박 투자처’ 알고보니 - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:17:00Z",
+          "publishedAt": "2026-10-07T22:17:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261007/1632910"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223660",
+          "title": "SNS서 만난 10대와 성관계한 30대…법원 \"피해자 측에 위자료 지급하라\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:16:00Z",
+          "publishedAt": "2026-10-07T22:16:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223660",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.newspim.com/news/view/20261007001495",
@@ -56,30 +94,6 @@
           "publishedAt": "2026-10-07T22:02:00Z",
           "summary": "",
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020781&code=11151100&sid1=eco"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261007/1632895",
-          "title": "교육부 국감서도 ‘암살자(들)’ 공방… “역사 왜곡” “머릿속 검열” - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T18:02:00Z",
-          "publishedAt": "2026-10-07T18:02:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261007/1632895"
-        },
-        {
-          "id": "http://www.knnews.co.kr/news/articleView.php?idxno=1552405",
-          "title": "창원 청년단체 3곳, 뮤지컬로 하나 되다",
-          "source": "knnews.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T15:32:00Z",
-          "publishedAt": "2026-10-07T15:32:00Z",
-          "summary": "",
-          "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552405"
         },
         {
           "id": "https://www.mk.co.kr/news/society/12170790",
@@ -118,28 +132,16 @@
           "publishedAt": "2026-10-07T22:02:00Z",
           "summary": "",
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020817&code=11171111&sid1=opi"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261007/1632837",
-          "title": "뉴욕주, 커뮤니티칼리지 무상 교육 확대 - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T18:02:00Z",
-          "publishedAt": "2026-10-07T18:02:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261007/1632837"
         }
       ],
       "keywords": [
         {
-          "word": "교육",
-          "count": 4
-        },
-        {
           "word": "주거",
           "count": 3
+        },
+        {
+          "word": "교육",
+          "count": 2
         },
         {
           "word": "청년",
@@ -175,6 +177,32 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02194326645610952&mediaCodeNo=257",
+          "title": "\"회의록 AI 넘어 조직 두뇌로\"…티로가 설계하는 AI비서[인터뷰]",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:17:00Z",
+          "publishedAt": "2026-10-07T22:17:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02194326645610952&mediaCodeNo=257"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261007101842",
+          "title": "[카드뉴스] AI지원금, 성과가 없어도 계속 투자해야 할까",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T21:54:14Z",
+          "publishedAt": "2026-10-07T21:54:14Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261007101842",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2633596",
           "title": "[대전환! 이해관계자경영 시대] 7. 행동주의 투자자에겐 책임이 따른다",
           "source": "etoday.co.kr",
@@ -187,16 +215,42 @@
           "url": "https://www.etoday.co.kr/news/view/2633596"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=06297606645610624&mediaCodeNo=257",
-          "title": "마벨, 상승 모멘텀 이어진다…투자의견·목표가 상향-TD코웬",
-          "source": "edaily.co.kr",
+          "id": "https://www.etnews.com/20261008000003",
+          "title": "챗GPT, 이용자 규모 앞서고…제미나이, 성장률 앞섰다",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:27:13Z",
+          "publishedAt": "2026-10-07T22:27:13Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000003",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
+          "id": "http://www.koreatimes.com/article/20261007/1632910",
+          "title": "딱 5분 만에 ‘300달러’ 벌었다…주식 접은 美 청년들 몰려든 ‘대박 투자처’ 알고보니 - 미주 한국일보",
+          "source": "koreatimes.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T15:32:00Z",
-          "publishedAt": "2026-10-07T15:32:00Z",
+          "dateRaw": "2026-10-07T22:17:00Z",
+          "publishedAt": "2026-10-07T22:17:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=06297606645610624&mediaCodeNo=257"
+          "url": "http://www.koreatimes.com/article/20261007/1632910"
+        },
+        {
+          "id": "http://inews24.com/view/2012947",
+          "title": "美 10년물 국채금리 5.36%⋯뉴욕증시 3대 지수 하락",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:17:00Z",
+          "publishedAt": "2026-10-07T22:17:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2012947"
         },
         {
           "id": "https://www.newspim.com/news/view/20261008000025",
@@ -233,64 +287,16 @@
           "publishedAt": "2026-10-07T18:02:00Z",
           "summary": "",
           "url": "https://www.voakorea.com/a/8208721.html"
-        },
-        {
-          "id": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002",
-          "title": "외국인 투자 ‘역대 최대’로 들어왔는데…새 공장·지방 투자는 왜 줄었나 [강 기자의 세종실록]",
-          "source": "seoul.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T17:47:00Z",
-          "publishedAt": "2026-10-07T17:47:00Z",
-          "summary": "",
-          "url": "https://seoul.co.kr:443/news/plan/Kangjournalist-Sejong/2026/10/08/20261008500002"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273556&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
-          "title": "대구경북경제자유구역청장에 정해용 전 대구시 부시장 임명",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T15:47:00Z",
-          "publishedAt": "2026-10-07T15:47:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273556&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
-        },
-        {
-          "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000020815&code=12120000&sid1=ens",
-          "title": "A매치 208경기 126골 48도움… 굿바이, 메시",
-          "source": "kmib.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T22:02:00Z",
-          "publishedAt": "2026-10-07T22:02:00Z",
-          "summary": "",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020815&code=12120000&sid1=ens"
-        },
-        {
-          "id": "https://www.hankookilbo.com/news/article/A2026100714410001918",
-          "title": "챗GPT·제미나이 못 쓰는 한은, 자체 AI '보키'로 연 12만 시간 절감-경제ㅣ한국일보",
-          "source": "hankookilbo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T20:32:00Z",
-          "publishedAt": "2026-10-07T20:32:00Z",
-          "summary": "",
-          "url": "https://www.hankookilbo.com/news/article/A2026100714410001918"
         }
       ],
       "keywords": [
         {
-          "word": "투자",
-          "count": 4
+          "word": "금리",
+          "count": 3
         },
         {
-          "word": "금리",
-          "count": 2
+          "word": "투자",
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -352,16 +358,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257",
-          "title": "“원하는 곳에 반도체 하나만 키운다”…고집적 AI칩 새 기술 나왔다",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02020486645610952&mediaCodeNo=257",
+          "title": "15년 만에 부산 찾은 양자경…\"부국제, 동서양 잇는 가교 역할\"",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T15:32:00Z",
-          "publishedAt": "2026-10-07T15:32:00Z",
+          "dateRaw": "2026-10-07T22:16:00Z",
+          "publishedAt": "2026-10-07T22:16:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645610952&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02020486645610952&mediaCodeNo=257"
         },
         {
           "id": "https://www.hankookilbo.com/news/article/A2026100710510002629",
@@ -400,16 +406,18 @@
           "url": "https://biz.heraldcorp.com/article/10896208"
         },
         {
-          "id": "http://www.knnews.co.kr/news/articleView.php?idxno=1552403",
-          "title": "[경남 제조 현장, 수용성 절삭유 해법은 없나] (3) 낙동강수계 보전 규제 논란",
-          "source": "knnews.co.kr",
+          "id": "https://zdnet.co.kr/view/?no=20261007101842",
+          "title": "[카드뉴스] AI지원금, 성과가 없어도 계속 투자해야 할까",
+          "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T15:32:00Z",
-          "publishedAt": "2026-10-07T15:32:00Z",
+          "dateRaw": "2026-10-07T21:54:14Z",
+          "publishedAt": "2026-10-07T21:54:14Z",
           "summary": "",
-          "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552403"
+          "url": "https://zdnet.co.kr/view/?no=20261007101842",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.anewsa.com/detail.php?number=3205701",
@@ -431,14 +439,14 @@
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 3
         },
         {
           "word": "데이터센터",
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "양자",
           "count": 1
         }
       ],
@@ -596,6 +604,30 @@
     "economy": {
       "items": [
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257",
+          "title": "매파적이던 연준도 예상 못한 변수…'고용쇼크' 후 금리 딜레마(종합)",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:17:00Z",
+          "publishedAt": "2026-10-07T22:17:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01354646645610952&mediaCodeNo=257"
+        },
+        {
+          "id": "https://buenosairesherald.com/economics/market-considers-economy-in-recession-as-it-curtails-2026-growth-prospects",
+          "title": "Market considers economy in recession as it curtails 2026 growth prospects - Buenos Aires Herald",
+          "source": "buenosairesherald.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T22:16:00Z",
+          "publishedAt": "2026-10-07T22:16:00Z",
+          "summary": "",
+          "url": "https://buenosairesherald.com/economics/market-considers-economy-in-recession-as-it-curtails-2026-growth-prospects"
+        },
+        {
           "id": "https://www.kztv10.com/life/money/higher-interest-rates-are-dragging-down-consumer-stocks",
           "title": "Higher interest rates are dragging down consumer stocks",
           "source": "kztv10.com",
@@ -690,47 +722,19 @@
           "publishedAt": "2026-10-07T19:17:00Z",
           "summary": "",
           "url": "https://mmbiztoday.com/myanmar-invites-investments-for-new-economic-zone-and-industrial-park/"
-        },
-        {
-          "id": "http://www.businessghana.com/site/news/business/357424/Sub-Saharan-Africa-records-strong-trade-growth-as-globalization-reaches-record-level",
-          "title": "Sub-Saharan Africa records strong trade growth as globalization reaches record level",
-          "source": "businessghana.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T18:31:00Z",
-          "publishedAt": "2026-10-07T18:31:00Z",
-          "summary": "",
-          "url": "http://www.businessghana.com/site/news/business/357424/Sub-Saharan-Africa-records-strong-trade-growth-as-globalization-reaches-record-level"
-        },
-        {
-          "id": "https://biz.chosun.com/international/international_economy/2026/10/08/EOLTY32GKFAPHOMRHE7GH66KN4/",
-          "title": "EU, 중국산 하이브리드차 수입 제한 검토…‘대중 무역적자’ 정조준",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T17:46:00Z",
-          "publishedAt": "2026-10-07T17:46:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/international/international_economy/2026/10/08/EOLTY32GKFAPHOMRHE7GH66KN4/"
         }
       ],
       "keywords": [
+        {
+          "word": "금리",
+          "count": 3
+        },
         {
           "word": "성장",
           "count": 3
         },
         {
           "word": "관세",
-          "count": 2
-        },
-        {
-          "word": "금리",
-          "count": 2
-        },
-        {
-          "word": "무역",
           "count": 2
         },
         {
@@ -779,18 +783,6 @@
           "publishedAt": "2026-10-07T19:47:00Z",
           "summary": "",
           "url": "https://www.freepressjournal.in/education/maharashtra-launches-cm-sristhi-scheme-to-boost-ai-quantum-computing-semiconductors-futuristic-tech-research"
-        },
-        {
-          "id": "https://wccftech.com/samsungs-12-hi-hbm4e-reportedly-passes-nvidia-qualification-paving-way-for-next-gen-ai-gpu-supply/",
-          "title": "Samsung’s 12-Hi HBM4E Reportedly Passes NVIDIA Qualification, Paving Way For Next-Gen AI GPU Supply",
-          "source": "wccftech.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T14:33:00Z",
-          "publishedAt": "2026-10-07T14:33:00Z",
-          "summary": "",
-          "url": "https://wccftech.com/samsungs-12-hi-hbm4e-reportedly-passes-nvidia-qualification-paving-way-for-next-gen-ai-gpu-supply/"
         },
         {
           "id": "https://www.businessreport.com/amid-data-center-rumors-a-500-mw-battery-project-emerges-in-livingston-parish/",
@@ -863,6 +855,18 @@
           "publishedAt": "2026-10-07T20:17:00Z",
           "summary": "",
           "url": "https://www.witn.com/2026/10/07/attorney-general-jeff-jackson-argues-data-centers-should-pay-more-their-energy-costs/"
+        },
+        {
+          "id": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance",
+          "title": "HPE’s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance",
+          "source": "datacenterknowledge.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T20:17:00Z",
+          "publishedAt": "2026-10-07T20:17:00Z",
+          "summary": "",
+          "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance"
         }
       ],
       "keywords": [
@@ -899,8 +903,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4456,
-    "feedBytes": 1253304,
+    "fetchedItems": 4039,
+    "feedBytes": 1094181,
     "rollingWindowHours": 72
   }
 }

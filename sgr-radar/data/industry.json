@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 07:11:25",
+  "updatedAt": "2026. 10. 08. 오전 07:33:52",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 688,
-    "deduped": 688,
-    "eventDeduped": 688,
+    "passed": 686,
+    "deduped": 686,
+    "eventDeduped": 686,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -488,18 +488,6 @@
       "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/data-center-progetto-green-arrowlazzari-per-13-centri-investimenti-per-1-mld-nRC_07102026_1311_366148169.html"
     },
     {
-      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69778265-press-release-wisesat-space-to-ring-the-nasdaq-opening-bell-on-october-9-and-highlight-secure-space-infrastructure-strategy-at-convene-quantum-space-015.htm",
-      "title": "Press Release: WISeSat.Space to Ring the Nasdaq Opening Bell on October 9 and Highlight Secure Space Infrastructure Strategy at Convene Quantum Space Security Roundtable",
-      "source": "finanznachrichten.de",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T13:31:00Z",
-      "publishedAt": "2026-10-07T13:31:00Z",
-      "summary": "",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69778265-press-release-wisesat-space-to-ring-the-nasdaq-opening-bell-on-october-9-and-highlight-secure-space-infrastructure-strategy-at-convene-quantum-space-015.htm"
-    },
-    {
       "id": "https://www.marinetechnologynews.com/companies/company/ecosub-robotics-218200",
       "title": "Ecosub Robotics - Marine Technology News",
       "source": "marinetechnologynews.com",
@@ -716,18 +704,6 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-halt-to-incentives-for-google-data-centre-project/article71555249.ece"
     },
     {
-      "id": "https://www.deccanchronicle.com/business/attracting-data-centre-investments-costly-affair-for-south-asia-world-bank-1993857",
-      "title": "Attracting Data Centre Investments Costly Affair for South Asia: World Bank",
-      "source": "deccanchronicle.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T13:31:00Z",
-      "publishedAt": "2026-10-07T13:31:00Z",
-      "summary": "",
-      "url": "https://www.deccanchronicle.com/business/attracting-data-centre-investments-costly-affair-for-south-asia-world-bank-1993857"
-    },
-    {
       "id": "https://www.nbr.co.nz/politics/national-would-require-data-centres-to-provide-their-own-power/",
       "title": "National would require data centres to provide their own power - NBR | Business news & analysis | Independent, ad-free reporting",
       "source": "nbr.co.nz",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-07T21:47:00Z",
       "summary": "",
       "url": "https://www.nbr.co.nz/politics/national-would-require-data-centres-to-provide-their-own-power/"
+    },
+    {
+      "id": "https://www.rttnews.com/3697329/finland-halts-work-at-two-planned-google-data-centres-over-forest-clearance.aspx",
+      "title": "Finland Halts Work At Two Planned Google Data Centres Over Forest Clearance",
+      "source": "rttnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T21:46:00Z",
+      "publishedAt": "2026-10-07T21:46:00Z",
+      "summary": "",
+      "url": "https://www.rttnews.com/3697329/finland-halts-work-at-two-planned-google-data-centres-over-forest-clearance.aspx"
+    },
+    {
+      "id": "https://www.geelongadvertiser.com.au/news/northern-geelong/plans-lodged-for-6bn-mega-data-centre-near-geelong-under-fasttrack-state-rules/news-story/a722b32d38653f037db9c3acd420a227&memtype=anonymous&mode=premium&nk=d0d0770f8a1ad0fcf44f0a4d4ecf8d95-1791408736",
+      "title": "Geelong set for massive $6bn data centre",
+      "source": "geelongadvertiser.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T21:32:00Z",
+      "publishedAt": "2026-10-07T21:32:00Z",
+      "summary": "",
+      "url": "https://www.geelongadvertiser.com.au/news/northern-geelong/plans-lodged-for-6bn-mega-data-centre-near-geelong-under-fasttrack-state-rules/news-story/a722b32d38653f037db9c3acd420a227&memtype=anonymous&mode=premium&nk=d0d0770f8a1ad0fcf44f0a4d4ecf8d95-1791408736"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4456,
-    "relevantItems": 139,
-    "feedBytes": 1253304,
+    "fetchedItems": 4039,
+    "relevantItems": 128,
+    "feedBytes": 1094181,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
