@@ -1,26 +1,12 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 08:02:20",
+  "updatedAt": "2026. 10. 07. 오후 08:26:11",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
-        {
-          "id": "https://www.etnews.com/20261007000165",
-          "title": "전통시장 고령화 심화…청년상인 줄고 지원 예산도 감소",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:14:13Z",
-          "publishedAt": "2026-10-07T02:14:13Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261007000165",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
         {
           "id": "https://www.mk.co.kr/news/society/12170639",
           "title": "경남 청년 정책 한곳에 … 道, 광역거점센터 '첫발'",
@@ -34,6 +20,20 @@
           "url": "https://www.mk.co.kr/news/society/12170639",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.etnews.com/20261007000297",
+          "title": "오세훈 시장 “삶의 질 특별시 서울로”…청년 AI 지원 차질 우려",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T07:00:00Z",
+          "publishedAt": "2026-10-07T07:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261007000297",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261007100139",
@@ -142,12 +142,12 @@
           "count": 4
         },
         {
-          "word": "고령화",
+          "word": "주거",
           "count": 2
         },
         {
-          "word": "주거",
-          "count": 2
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "복지",
@@ -273,16 +273,16 @@
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/07/473Z3QWL3VEWBOR5KYFZXE4SNM/"
         },
         {
-          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680079",
-          "title": "이소영 장관 “홈플러스 협력업체 정책자금 금리 인하 적극 검토”",
-          "source": "news.kbs.co.kr",
+          "id": "http://inews24.com/view/2012895",
+          "title": "[2026 국감] 홈플러스 정책자금 금리 낮아지나…이소영 \"적극 검토\"",
+          "source": "inews24.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-07",
-          "dateRaw": "2026-10-07T10:46:00Z",
-          "publishedAt": "2026-10-07T10:46:00Z",
+          "dateRaw": "2026-10-07T11:17:00Z",
+          "publishedAt": "2026-10-07T11:17:00Z",
           "summary": "",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680079"
+          "url": "http://inews24.com/view/2012895"
         }
       ],
       "keywords": [
@@ -400,18 +400,6 @@
           "url": "http://inews24.com/view/2012593"
         },
         {
-          "id": "https://www.huffingtonpost.kr:443/article/261032",
-          "title": "한화그룹 'AI 기반 에너지 관리 시스템' 미국 혁신매체 차세대 신기술로 선정 : 인프라 전력솔루션 시장 경쟁력 키운다",
-          "source": "huffingtonpost.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:02:00Z",
-          "publishedAt": "2026-10-07T02:02:00Z",
-          "summary": "",
-          "url": "https://www.huffingtonpost.kr:443/article/261032"
-        },
-        {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1315953",
           "title": "로봇, 다음은 ‘지능’…‘아마존 AI’ 주역에 아틀라스 맡긴 현대차",
           "source": "newstomato.com",
@@ -434,6 +422,18 @@
           "publishedAt": "2026-10-07T08:17:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610071626430211"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2633455",
+          "title": "리사 수 AMD 회장 “반도체는 팀 스포츠”⋯삼성ㆍSK와 AI 메모리 협력 강조",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T07:47:00Z",
+          "publishedAt": "2026-10-07T07:47:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2633455"
         }
       ],
       "keywords": [
@@ -443,7 +443,7 @@
         },
         {
           "word": "반도체",
-          "count": 3
+          "count": 4
         },
         {
           "word": "GPU",
@@ -456,10 +456,6 @@
         {
           "word": "로봇",
           "count": 2
-        },
-        {
-          "word": "전력",
-          "count": 1
         },
         {
           "word": "클라우드",
@@ -523,18 +519,6 @@
           "url": "https://paherald.sk.ca/health-foundation-local-businesses-host-breakfast-for-yorkton-healthcare-workers/"
         },
         {
-          "id": "https://www.australianageingagenda.com.au/aged-care/aged-care-workforce-in-one-nation-firing-line/",
-          "title": "Aged care workforce in One Nation firing line - The Ageing Agenda",
-          "source": "australianageingagenda.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T02:01:00Z",
-          "publishedAt": "2026-10-07T02:01:00Z",
-          "summary": "",
-          "url": "https://www.australianageingagenda.com.au/aged-care/aged-care-workforce-in-one-nation-firing-line/"
-        },
-        {
           "id": "https://www.tnp.no/norway/politics/2087-more-research-for-the-sake-of-welfare/",
           "title": "More Research for the Sake of Welfare - The Nordic Page",
           "source": "tnp.no",
@@ -593,12 +577,24 @@
           "publishedAt": "2026-10-07T06:47:00Z",
           "summary": "",
           "url": "https://asianews.network/vietnam-faces-ai-skills-gap-despite-strong-university-investment-report/"
+        },
+        {
+          "id": "https://www.tribuneindia.com/news/india/indias-2nd-mental-health-survey-adopts-who-diagnostic-tool-to-standardise-assessment/",
+          "title": "India’s 2nd mental health survey adopts WHO diagnostic tool to standardise assessment - The Tribune",
+          "source": "tribuneindia.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T06:02:00Z",
+          "publishedAt": "2026-10-07T06:02:00Z",
+          "summary": "",
+          "url": "https://www.tribuneindia.com/news/india/indias-2nd-mental-health-survey-adopts-who-diagnostic-tool-to-standardise-assessment/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 3
+          "count": 4
         },
         {
           "word": "교육",
@@ -607,10 +603,6 @@
         {
           "word": "이민",
           "count": 2
-        },
-        {
-          "word": "고령화",
-          "count": 1
         },
         {
           "word": "청년",
@@ -919,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4130,
-    "feedBytes": 1165007,
+    "fetchedItems": 6752,
+    "feedBytes": 1908471,
     "rollingWindowHours": 72
   }
 }
