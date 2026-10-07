@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오후 11:01:56",
+  "updatedAt": "2026. 10. 07. 오후 11:28:35",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 137,
-    "deduped": 137,
-    "eventDeduped": 137,
+    "passed": 136,
+    "deduped": 136,
+    "eventDeduped": 136,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,16 +392,16 @@
       "url": "https://www.fnnews.com/news/202610071432146879"
     },
     {
-      "id": "https://euobserver.com/241462/sanctions-in-february-handshakes-in-september-eus-flip-flop-iran-policy-is-putting-lives-at-risk/",
-      "title": "Sanctions in February, handshakes in September: EU’s flip-flop Iran policy is putting lives at risk",
-      "source": "euobserver.com",
+      "id": "http://www.newyorktelegraph.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program",
+      "title": "izmo Microsystems and IIT Madras Enter Phase II of 99.94 Crore MeitY-Sanctioned Silicon Photonics Program",
+      "source": "newyorktelegraph.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T13:47:00Z",
-      "publishedAt": "2026-10-07T13:47:00Z",
+      "dateRaw": "2026-10-07T14:17:00Z",
+      "publishedAt": "2026-10-07T14:17:00Z",
       "summary": "",
-      "url": "https://euobserver.com/241462/sanctions-in-february-handshakes-in-september-eus-flip-flop-iran-policy-is-putting-lives-at-risk/"
+      "url": "http://www.newyorktelegraph.com/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program"
     },
     {
       "id": "http://www.bignewsnetwork.com/news/279357585/uae-explores-supply-chain-resilience-at-gulf-industry-meetings",
@@ -692,16 +692,16 @@
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1281283.html"
     },
     {
-      "id": "http://www.shanghainews.net/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program",
-      "title": "izmo Microsystems and IIT Madras Enter Phase II of 99.94 Crore MeitY-Sanctioned Silicon Photonics Program",
-      "source": "shanghainews.net",
+      "id": "https://euobserver.com/241462/sanctions-in-february-handshakes-in-september-eus-flip-flop-iran-policy-is-putting-lives-at-risk/",
+      "title": "Sanctions in February, handshakes in September: EU’s flip-flop Iran policy is putting lives at risk",
+      "source": "euobserver.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-07",
-      "dateRaw": "2026-10-07T13:46:00Z",
-      "publishedAt": "2026-10-07T13:46:00Z",
+      "dateRaw": "2026-10-07T13:47:00Z",
+      "publishedAt": "2026-10-07T13:47:00Z",
       "summary": "",
-      "url": "http://www.shanghainews.net/news/279356873/izmo-microsystems-and-iit-madras-enter-phase-ii-of-9994-crore-meity-sanctioned-silicon-photonics-program"
+      "url": "https://euobserver.com/241462/sanctions-in-february-handshakes-in-september-eus-flip-flop-iran-policy-is-putting-lives-at-risk/"
     },
     {
       "id": "https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5961,
-    "relevantItems": 122,
-    "feedBytes": 1717969,
+    "fetchedItems": 6877,
+    "relevantItems": 141,
+    "feedBytes": 1945377,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
