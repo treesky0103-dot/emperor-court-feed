@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 08:58:34",
+  "updatedAt": "2026. 10. 07. 오전 09:29:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1626,
-    "passed": 688,
-    "deduped": 688,
-    "eventDeduped": 688,
+    "raw": 1699,
+    "passed": 712,
+    "deduped": 712,
+    "eventDeduped": 712,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.etoday.co.kr/news/view/2633143",
+      "title": "스카이월드와이드, AI 인프라 사업 확대…조선·방산·제조로 고객군 넓힌다",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2633143"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02788006645610624&mediaCodeNo=257",
       "title": "롯데바이오로직스, 알보텍 美 바이오시밀러 맡는다…시러큐스 수주 확대",
@@ -66,18 +78,6 @@
       "url": "https://biz.heraldcorp.com/article/10894886"
     },
     {
-      "id": "https://asia.nikkei.com/business/materials/taiwan-s-auo-innolux-bet-on-glass-as-next-gen-ai-chip-material",
-      "title": "Taiwan's AUO, Innolux bet on glass as next-gen AI chip material",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T15:32:00Z",
-      "publishedAt": "2026-10-06T15:32:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/materials/taiwan-s-auo-innolux-bet-on-glass-as-next-gen-ai-chip-material"
-    },
-    {
       "id": "https://www.eejournal.com/industry_news/omnivision-launches-industrys-first-2-2-micron-global-shutter-hdr-sensor-for-flagship-industrial-and-robotics-machine-vision-cameras/",
       "title": "OMNIVISION Launches Industry’s First 2.2-micron Global Shutter HDR Sensor for Flagship Industrial and Robotics Machine Vision Cameras",
       "source": "eejournal.com",
@@ -114,6 +114,18 @@
       "url": "http://en.kremlin.ru/events/president/news/80936"
     },
     {
+      "id": "https://www.insight.co.kr/news/576750",
+      "title": "롯데바이오로직스, 알보텍과 장기 생산 수주 계약 체결",
+      "source": "insight.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.insight.co.kr/news/576750"
+    },
+    {
       "id": "https://www.newspim.com/news/view/20261007000042",
       "title": "박희승 \"반도체 생산라인 멈춤 막고, 성과 공유하는 노사 상생 필요\"",
       "source": "newspim.com",
@@ -124,21 +136,21 @@
       "publishedAt": "2026-10-06T23:16:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261007000042"
-    },
-    {
-      "id": "https://www.fnnews.com/news/202610070709226447",
-      "title": "트럼프, 韓 관세 인하 대가로 1500억弗 조선업 투자 받아내",
-      "source": "fnnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:16:00Z",
-      "publishedAt": "2026-10-06T23:16:00Z",
-      "summary": "",
-      "url": "https://www.fnnews.com/news/202610070709226447"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.etoday.co.kr/news/view/2633143",
+      "title": "스카이월드와이드, AI 인프라 사업 확대…조선·방산·제조로 고객군 넓힌다",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2633143"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02788006645610624&mediaCodeNo=257",
       "title": "롯데바이오로직스, 알보텍 美 바이오시밀러 맡는다…시러큐스 수주 확대",
@@ -224,18 +236,6 @@
       "url": "https://asia.nikkei.com/business/materials/taiwan-s-auo-innolux-bet-on-glass-as-next-gen-ai-chip-material"
     },
     {
-      "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000020409&code=11151400&sid1=eco",
-      "title": "“우리 배도 못 만든다” 위기감… 日, AI·로봇 쏟아부어 ‘조선 재건’",
-      "source": "kmib.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T22:47:00Z",
-      "publishedAt": "2026-10-06T22:47:00Z",
-      "summary": "",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020409&code=11151400&sid1=eco"
-    },
-    {
       "id": "https://www.eejournal.com/industry_news/omnivision-launches-industrys-first-2-2-micron-global-shutter-hdr-sensor-for-flagship-industrial-and-robotics-machine-vision-cameras/",
       "title": "OMNIVISION Launches Industry’s First 2.2-micron Global Shutter HDR Sensor for Flagship Industrial and Robotics Machine Vision Cameras",
       "source": "eejournal.com",
@@ -270,6 +270,30 @@
       "publishedAt": "2026-10-06T16:32:00Z",
       "summary": "",
       "url": "http://en.kremlin.ru/events/president/news/80936"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2633109",
+      "title": "AMD “반도체 수요, 공급 크게 앞질러”⋯CEO 움직이자 주가는 최고치",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2633109"
+    },
+    {
+      "id": "https://www.insight.co.kr/news/576750",
+      "title": "롯데바이오로직스, 알보텍과 장기 생산 수주 계약 체결",
+      "source": "insight.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.insight.co.kr/news/576750"
     },
     {
       "id": "https://www.newspim.com/news/view/20261007000042",
@@ -308,16 +332,28 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026092914432112952"
     },
     {
-      "id": "https://www.verdenews.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_2804463c-a008-5c01-ae21-bf89e0ea32b5.html",
+      "id": "http://www.postregister.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_b6854758-fac7-5434-b614-c301290081b7.html",
       "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-      "source": "verdenews.com",
+      "source": "postregister.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:46:00Z",
-      "publishedAt": "2026-10-06T23:46:00Z",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
       "summary": "",
-      "url": "https://www.verdenews.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_2804463c-a008-5c01-ae21-bf89e0ea32b5.html"
+      "url": "http://www.postregister.com/news/national/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/article_b6854758-fac7-5434-b614-c301290081b7.html"
+    },
+    {
+      "id": "https://abcnews.com/Business/wireStory/amazon-invest-1b-data-center-communities-amid-backlash-136948782",
+      "title": "Amazon to invest $1B into communities amid backlash against data center rollouts",
+      "source": "abcnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://abcnews.com/Business/wireStory/amazon-invest-1b-data-center-communities-amid-backlash-136948782"
     },
     {
       "id": "https://www.thenationalnews.com/business/uk/2026/10/06/energy-forum-seeks-to-rescue-supply-disrupted-by-us-iran-war/",
@@ -416,18 +452,6 @@
       "url": "https://www.wcjb.com/2026/10/06/local-quantum-computing-company-hopes-help-companies-with-their-encryption-infrastructure/"
     },
     {
-      "id": "https://www.newswise.com/articles/uah-researcher-earns-nsf-award-to-investigate-how-cloud-droplets-become-raindrops-with-implications-for-both-earth-and-other-planets",
-      "title": "UAH researcher earns NSF award to investigate how cloud droplets become raindrops, with implications for both Earth and other planets | Newswise",
-      "source": "newswise.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T20:32:00Z",
-      "publishedAt": "2026-10-06T20:32:00Z",
-      "summary": "",
-      "url": "https://www.newswise.com/articles/uah-researcher-earns-nsf-award-to-investigate-how-cloud-droplets-become-raindrops-with-implications-for-both-earth-and-other-planets"
-    },
-    {
       "id": "https://jordantimes.com/news/local/cabinet-approves-investment-incentives-for-vehicle-assembly-manufacturing-projects",
       "title": "Cabinet approves investment incentives for vehicle assembly, manufacturing projects | Jordan Times",
       "source": "jordantimes.com",
@@ -524,6 +548,30 @@
       "url": "https://bankerandtradesman.com/robotics-startup-inks-50k-sf-lease-at-university-park/"
     },
     {
+      "id": "https://www.insight.co.kr/news/576741",
+      "title": "삼성물산·삼성전자 추가 출자 계획 없다...삼성바이오, 유증 감소분 3359억 자체 조달",
+      "source": "insight.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.insight.co.kr/news/576741"
+    },
+    {
+      "id": "https://www.insight.co.kr/news/576757",
+      "title": "알테오젠, 자회사 알테오젠바이오로직스 흡수합병",
+      "source": "insight.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:16:00Z",
+      "publishedAt": "2026-10-07T00:16:00Z",
+      "summary": "",
+      "url": "https://www.insight.co.kr/news/576757"
+    },
+    {
       "id": "https://biz.heraldcorp.com/article/10894934",
       "title": "롯데하이마트, 산업 특화 ‘휴머노이드 로봇’ 실증 추진",
       "source": "biz.heraldcorp.com",
@@ -534,18 +582,6 @@
       "publishedAt": "2026-10-06T23:32:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10894934"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10894891",
-      "title": "반도체가 끌어올린 한국 성장률 ‘눈높이’…해외 IB 전망 한달 새 3.3%→3.5%",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T23:32:00Z",
-      "publishedAt": "2026-10-06T23:32:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10894891"
     },
     {
       "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000020410&code=11151400&sid1=eco",
@@ -594,18 +630,6 @@
       "publishedAt": "2026-10-06T18:17:00Z",
       "summary": "",
       "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal-amazon-october-prime-day-sale-2026"
-    },
-    {
-      "id": "https://www.investors.com/news/technology/biotech-stocks-moderna-vaxcyte-revolution-medicines-sell-off/",
-      "title": "Biotechs Sell Off — These Are The Biggest Losers",
-      "source": "investors.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T16:01:00Z",
-      "publishedAt": "2026-10-06T16:01:00Z",
-      "summary": "",
-      "url": "https://www.investors.com/news/technology/biotech-stocks-moderna-vaxcyte-revolution-medicines-sell-off/"
     },
     {
       "id": "https://www.bennettjones.com/Insights/Blogs/2026/10/Canada-Launches-Responsible-Data-Centre-Development-Principles-What-Clients-Need-to-Know",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-06T17:17:00Z",
       "summary": "",
       "url": "https://financialpost.com/news/canada-could-be-data-centre-superpower-report"
-    },
-    {
-      "id": "https://www.helsinkitimes.fi/business/29355-google-ordered-to-halt-data-centre-works-in-finland-over-environmental-concerns.html",
-      "title": "Google ordered to halt data centre works in Finland over environmental concerns",
-      "source": "helsinkitimes.fi",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:17:00Z",
-      "publishedAt": "2026-10-06T17:17:00Z",
-      "summary": "",
-      "url": "https://www.helsinkitimes.fi/business/29355-google-ordered-to-halt-data-centre-works-in-finland-over-environmental-concerns.html"
-    },
-    {
-      "id": "https://www.dealstreetasia.com/stories/pldt-unit-data-centre-reit-ipo-497362",
-      "title": "PLDT unit shelves data centre REIT IPO until 2027 as market headwinds mount",
-      "source": "dealstreetasia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T17:02:00Z",
-      "publishedAt": "2026-10-06T17:02:00Z",
-      "summary": "",
-      "url": "https://www.dealstreetasia.com/stories/pldt-unit-data-centre-reit-ipo-497362"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1626,
-    "fetchedItems": 3884,
-    "relevantItems": 109,
-    "feedBytes": 1041738,
+    "poolSize": 1699,
+    "fetchedItems": 3568,
+    "relevantItems": 103,
+    "feedBytes": 941685,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

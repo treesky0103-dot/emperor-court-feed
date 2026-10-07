@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 07. 오전 08:58:35",
+  "updatedAt": "2026. 10. 07. 오전 09:29:27",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 1626,
-    "passed": 62,
-    "deduped": 62,
-    "eventDeduped": 62,
+    "raw": 1699,
+    "passed": 63,
+    "deduped": 63,
+    "eventDeduped": 63,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,6 +452,18 @@
       "url": "https://www.etoday.co.kr/news/view/2630518"
     },
     {
+      "id": "https://www.bankinfosecurity.com/webinars/webinar-beyond-point-solutions-securing-ai-coding-models-runtime-w-7401",
+      "title": "Webinar | Beyond Point Solutions: Securing AI Coding, Models, and Runtime Environments",
+      "source": "bankinfosecurity.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T00:17:00Z",
+      "publishedAt": "2026-10-07T00:17:00Z",
+      "summary": "",
+      "url": "https://www.bankinfosecurity.com/webinars/webinar-beyond-point-solutions-securing-ai-coding-models-runtime-w-7401"
+    },
+    {
       "id": "https://www.13abc.com/2026/10/06/how-you-can-prepare-ai-workforce/",
       "title": "How you can prepare for AI in the workforce",
       "source": "13abc.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-06T19:02:00Z",
       "summary": "",
       "url": "https://www.southerngazette.ca/jpl-to-lay-off-more-than-500-employees-due-to-lack-of-funds-nbc-los-angeles/"
-    },
-    {
-      "id": "https://gamingbolt.com/supermassive-games-lays-off-more-than-70-employees-two-months-after-redundancy-consultation",
-      "title": "Supermassive Games Lays Off “More Than 70” Employees Two Months After Redundancy Consultation",
-      "source": "gamingbolt.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-06",
-      "dateRaw": "2026-10-06T18:47:00Z",
-      "publishedAt": "2026-10-06T18:47:00Z",
-      "summary": "",
-      "url": "https://gamingbolt.com/supermassive-games-lays-off-more-than-70-employees-two-months-after-redundancy-consultation"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 1626,
-    "fetchedItems": 3884,
-    "relevantItems": 109,
-    "feedBytes": 1041738,
+    "poolSize": 1699,
+    "fetchedItems": 3568,
+    "relevantItems": 103,
+    "feedBytes": 941685,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
