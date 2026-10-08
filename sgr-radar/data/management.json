@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 11:52:52",
+  "updatedAt": "2026. 10. 08. 오후 12:12:57",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 74,
-    "deduped": 74,
-    "eventDeduped": 74,
+    "passed": 73,
+    "deduped": 73,
+    "eventDeduped": 73,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.miragenews.com/deloitte-india-avolution-partner-on-enterprise-1756726/",
+      "title": "Deloitte India, Avolution Partner on Enterprise Architecture, AI Governance",
+      "source": "miragenews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T03:01:00Z",
+      "publishedAt": "2026-10-08T03:01:00Z",
+      "summary": "",
+      "url": "https://www.miragenews.com/deloitte-india-avolution-partner-on-enterprise-1756726/"
+    },
     {
       "id": "https://betakit.com/ai-in-engineering-is-moving-toward-a-new-operating-model/",
       "title": "AI in engineering is moving toward a new operating model | BetaKit",
@@ -124,21 +136,21 @@
       "publishedAt": "2026-10-07T23:17:00Z",
       "summary": "",
       "url": "https://natlawreview.com/article/four-new-california-laws-reshape-rules-workplace-ai"
-    },
-    {
-      "id": "https://asia.nikkei.com/business/finance/japan-bank-to-connect-small-businesses-with-us-ai-developers",
-      "title": "Japan bank to connect small businesses with US AI developers",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:32:00Z",
-      "publishedAt": "2026-10-07T20:32:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-bank-to-connect-small-businesses-with-us-ai-developers"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.miragenews.com/deloitte-india-avolution-partner-on-enterprise-1756726/",
+      "title": "Deloitte India, Avolution Partner on Enterprise Architecture, AI Governance",
+      "source": "miragenews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T03:01:00Z",
+      "publishedAt": "2026-10-08T03:01:00Z",
+      "summary": "",
+      "url": "https://www.miragenews.com/deloitte-india-avolution-partner-on-enterprise-1756726/"
+    },
     {
       "id": "https://betakit.com/ai-in-engineering-is-moving-toward-a-new-operating-model/",
       "title": "AI in engineering is moving toward a new operating model | BetaKit",
@@ -680,16 +692,16 @@
       "url": "https://www.blocksandfiles.com/ai-ml/2026/10/07/making-enterprise-data-ai-ready-precisely/5301565"
     },
     {
-      "id": "https://skift.com/2026/10/07/convenience-vs-productivity-is-travel-ais-real-test/",
-      "title": "Convenience vs. Productivity Is Travel AI’s Real Test",
-      "source": "skift.com",
+      "id": "https://timesofindia.indiatimes.com/technology/tech-news/hubspot-one-of-the-uks-biggest-technology-companies-is-cutting-hundreds-of-jobs-ceo-in-layoff-email-to-employees-i-want-to-make-it-clear-that-/articleshow/134777875.cms",
+      "title": "HubSpot, one of the UK's biggest technology companies, is cutting hundreds of jobs; CEO in 'layoff email' to employees: I want to make it clear that ...",
+      "source": "timesofindia.indiatimes.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T17:47:00Z",
-      "publishedAt": "2026-10-07T17:47:00Z",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T03:01:00Z",
+      "publishedAt": "2026-10-08T03:01:00Z",
       "summary": "",
-      "url": "https://skift.com/2026/10/07/convenience-vs-productivity-is-travel-ais-real-test/"
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/hubspot-one-of-the-uks-biggest-technology-companies-is-cutting-hundreds-of-jobs-ceo-in-layoff-email-to-employees-i-want-to-make-it-clear-that-/articleshow/134777875.cms"
     },
     {
       "id": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T00:46:00Z",
       "summary": "",
       "url": "https://digg.com/gaming/9zbc89qe"
-    },
-    {
-      "id": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-      "title": "Gravity Well lays off more than 40 developers after losing its funding",
-      "source": "gamesindustry.biz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T00:17:00Z",
-      "publishedAt": "2026-10-08T00:17:00Z",
-      "summary": "",
-      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3410,
-    "relevantItems": 87,
-    "feedBytes": 889506,
+    "fetchedItems": 3435,
+    "relevantItems": 76,
+    "feedBytes": 878723,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
