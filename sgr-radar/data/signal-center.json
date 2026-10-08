@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 12:59:31",
+  "updatedAt": "2026. 10. 09. 오전 01:24:41",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,8 +22,8 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261008000143",
-          "title": "[2026 국감] 박홍근 “반도체 호황 재원, 청년·성장동력에 투자”",
+          "id": "https://www.etnews.com/20261008000321",
+          "title": "트럼프 행사 초청된 한국 창업자들… “다음 목표는 '동아시아 투자 교육 시장'”",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "",
@@ -31,7 +31,7 @@
           "dateRaw": "2026-10-08T12:47:00Z",
           "publishedAt": "2026-10-08T12:47:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000143"
+          "url": "https://www.etnews.com/20261008000321"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=06031926645610952&mediaCodeNo=257",
@@ -133,15 +133,15 @@
       "keywords": [
         {
           "word": "청년",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "교육",
+          "count": 2
         },
         {
           "word": "복지",
           "count": 2
-        },
-        {
-          "word": "교육",
-          "count": 1
         },
         {
           "word": "이민",
@@ -225,18 +225,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.fnnews.com/news/202610081525082439",
-          "title": "尹정부 긴축·감세정책 때린 박홍근, 확장재정 기조 재확인…\"투자 골든타임\"",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T08:02:00Z",
-          "publishedAt": "2026-10-08T08:02:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610081525082439"
-        },
-        {
           "id": "https://biz.chosun.com/topics/topics_social/2026/10/08/FCHZYRNXRVB2HERTYVVU5IZJWQ/",
           "title": "中 선전에 한인 경제인 총집결… ’2026 코리아 비즈니스 엑스포 선전’ 개막",
           "source": "biz.chosun.com",
@@ -247,18 +235,6 @@
           "publishedAt": "2026-10-08T12:16:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/08/FCHZYRNXRVB2HERTYVVU5IZJWQ/"
-        },
-        {
-          "id": "https://www.anewsa.com/detail.php?number=3206091",
-          "title": "대전시, 신임 경제수석보좌관에 김수영 전 재정경제부 부이사관 임명",
-          "source": "anewsa.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T08:02:00Z",
-          "publishedAt": "2026-10-08T08:02:00Z",
-          "summary": "",
-          "url": "https://www.anewsa.com/detail.php?number=3206091"
         },
         {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078",
@@ -283,6 +259,30 @@
           "publishedAt": "2026-10-08T09:47:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261007/1632956"
+        },
+        {
+          "id": "https://www.nspna.com/country/?mode=view&newsid=831155",
+          "title": "[오늘의 정책 픽] 추미애 경기지사, 취임 100일 판교서 교통혁신 방향 제시…‘CARE’ 발표",
+          "source": "nspna.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T14:47:00Z",
+          "publishedAt": "2026-10-08T14:47:00Z",
+          "summary": "",
+          "url": "https://www.nspna.com/country/?mode=view&newsid=831155"
+        },
+        {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026100820154719166",
+          "title": "최태원 SK그룹 회장, 9일 광주 군공항 첫 방문...반도체 투자 의지 밝힌다 - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T14:17:00Z",
+          "publishedAt": "2026-10-08T14:17:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100820154719166"
         }
       ],
       "keywords": [
@@ -404,16 +404,16 @@
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078"
         },
         {
-          "id": "https://www.seoul.co.kr/news/economy/2026/10/08/20261008500222",
-          "title": "KROH, Global AI for Humanity‘ 국회 정책 세미나서 K-컬처 기반 AI 국제협력 제안",
+          "id": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004",
+          "title": "“AI 공격 자동화… 보안 사각 ‘섀도 IT’ 노려”",
           "source": "seoul.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T08:02:00Z",
-          "publishedAt": "2026-10-08T08:02:00Z",
+          "dateRaw": "2026-10-08T13:17:00Z",
+          "publishedAt": "2026-10-08T13:17:00Z",
           "summary": "",
-          "url": "https://www.seoul.co.kr/news/economy/2026/10/08/20261008500222"
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004"
         },
         {
           "id": "https://news.knn.co.kr/news/article/193003",
@@ -431,7 +431,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "반도체",
@@ -467,16 +467,16 @@
           "url": "https://www.yorkregion.com/news/new-eg-home-supports-youth-leaving-child-welfare-system/article_061723a0-567d-58fb-a778-7fc953703cf2.html"
         },
         {
-          "id": "https://www.ilfordrecorder.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/",
+          "id": "https://www.hackneygazette.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/",
           "title": "Nearly 100 neurodivergent young people to receive mental health support at home",
-          "source": "ilfordrecorder.co.uk",
+          "source": "hackneygazette.co.uk",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T15:47:00Z",
-          "publishedAt": "2026-10-08T15:47:00Z",
+          "dateRaw": "2026-10-08T16:16:00Z",
+          "publishedAt": "2026-10-08T16:16:00Z",
           "summary": "",
-          "url": "https://www.ilfordrecorder.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/"
+          "url": "https://www.hackneygazette.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/"
         },
         {
           "id": "http://www.nepalnational.com/news/279359425/when-the-sea-comes-for-the-land-bangladeshs-quiet-climate-migration",
@@ -501,6 +501,30 @@
           "publishedAt": "2026-10-08T13:46:00Z",
           "summary": "",
           "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html"
+        },
+        {
+          "id": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/",
+          "title": "EU ministers survey new ways to curb irregular migration - Shafaqna English | International Shia News & Fatwas",
+          "source": "en.shafaqna.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T16:17:00Z",
+          "publishedAt": "2026-10-08T16:17:00Z",
+          "summary": "",
+          "url": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/"
+        },
+        {
+          "id": "https://www.caledonianrecord.com/news/state/nh-housing-costs-are-a-major-driver-of-poverty-analysis-finds/article_4a2c5d2d-b872-5399-9cc6-2f8ba6cbc142.html",
+          "title": "NH Housing Costs Are A Major Driver Of Poverty, Analysis Finds",
+          "source": "caledonianrecord.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T16:16:00Z",
+          "publishedAt": "2026-10-08T16:16:00Z",
+          "summary": "",
+          "url": "https://www.caledonianrecord.com/news/state/nh-housing-costs-are-a-major-driver-of-poverty-analysis-finds/article_4a2c5d2d-b872-5399-9cc6-2f8ba6cbc142.html"
         },
         {
           "id": "https://nbcmontana.com/news/local/university-of-montana-researcher-explores-whether-stress-leaves-clues-in-ancient-dna",
@@ -549,30 +573,6 @@
           "publishedAt": "2026-10-08T13:47:00Z",
           "summary": "",
           "url": "https://www.herefordtimes.com/news/26602729.outstanding-hereford-public-health-researcher-recognised/"
-        },
-        {
-          "id": "https://www.totalmedios.com/nota/65459/camila-pichardo-asciende-a-social-media-strategy-director-en-don-by-havas",
-          "title": "Camila Pichardo asciende a Social Media Strategy Director en DON by Havas",
-          "source": "totalmedios.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T13:46:00Z",
-          "publishedAt": "2026-10-08T13:46:00Z",
-          "summary": "",
-          "url": "https://www.totalmedios.com/nota/65459/camila-pichardo-asciende-a-social-media-strategy-director-en-don-by-havas"
-        },
-        {
-          "id": "https://timesofindia.indiatimes.com/india/indias-data-silos-cost-up-to-7-of-welfare-spending-threaten-ai-push-report/articleshow/134791638.cms",
-          "title": "India’s data silos cost up to 7% of welfare spending, threaten AI push: Report",
-          "source": "timesofindia.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T13:32:00Z",
-          "publishedAt": "2026-10-08T13:32:00Z",
-          "summary": "",
-          "url": "https://timesofindia.indiatimes.com/india/indias-data-silos-cost-up-to-7-of-welfare-spending-threaten-ai-push-report/articleshow/134791638.cms"
         }
       ],
       "keywords": [
@@ -589,15 +589,19 @@
           "count": 2
         },
         {
+          "word": "이민",
+          "count": 2
+        },
+        {
           "word": "기후이주",
           "count": 1
         },
         {
-          "word": "이민",
+          "word": "정신건강",
           "count": 1
         },
         {
-          "word": "정신건강",
+          "word": "주거비",
           "count": 1
         }
       ],
@@ -757,6 +761,18 @@
     "technology": {
       "items": [
         {
+          "id": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030",
+          "title": "Software could be the easiest fix for hyperscalers' AI power squeeze, researchers say — data center demand is expected to rival Japan's electricity usage by 2030",
+          "source": "tomshardware.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T16:17:00Z",
+          "publishedAt": "2026-10-08T16:17:00Z",
+          "summary": "",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030"
+        },
+        {
           "id": "http://www.indiagazette.com/news/279359618/airtel-showcases-sovereign-cloud-ai-security-quantum-telecom-research-to-scindia-at-imc-2026",
           "title": "Airtel showcases sovereign cloud, AI security, quantum telecom research to Scindia at IMC 2026",
           "source": "indiagazette.com",
@@ -769,28 +785,28 @@
           "url": "http://www.indiagazette.com/news/279359618/airtel-showcases-sovereign-cloud-ai-security-quantum-telecom-research-to-scindia-at-imc-2026"
         },
         {
-          "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks",
-          "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware — massive raise could fund roughly 360,000 Vera Rubin GPUs across 5,000 NVL72 racks",
-          "source": "tomshardware.com",
+          "id": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+          "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
+          "source": "asia.nikkei.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:31:00Z",
-          "publishedAt": "2026-10-08T11:31:00Z",
+          "dateRaw": "2026-10-08T16:17:00Z",
+          "publishedAt": "2026-10-08T16:17:00Z",
           "summary": "",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks"
+          "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak"
         },
         {
-          "id": "https://business-review.eu/energy/ai-enabled-buildings-can-cut-energy-use-by-up-to-22-save-on-annual-utility-costs-and-carbon-schneider-electric-research-301690",
-          "title": "AI-enabled buildings can cut energy use by up to 22%, save on annual utility costs and carbon - Schneider Electric research - Business Review",
-          "source": "business-review.eu",
+          "id": "https://www.thestar.com.my/tech/tech-news/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up",
+          "title": "Google Cloud introduces Gemini agent for work as AI race heats up",
+          "source": "thestar.com.my",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T08:31:00Z",
-          "publishedAt": "2026-10-08T08:31:00Z",
+          "dateRaw": "2026-10-08T16:17:00Z",
+          "publishedAt": "2026-10-08T16:17:00Z",
           "summary": "",
-          "url": "https://business-review.eu/energy/ai-enabled-buildings-can-cut-energy-use-by-up-to-22-save-on-annual-utility-costs-and-carbon-schneider-electric-research-301690"
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up"
         },
         {
           "id": "https://matr.net/news/meic-data-centers-threats-to-water-and-energy-bills/",
@@ -853,18 +869,6 @@
           "url": "https://www.euronews.com/2026/10/08/kazakhstan-seeks-to-build-an-ai-powered-economy-and-manufacturing-sector"
         },
         {
-          "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
-          "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
-          "source": "asia.nikkei.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:17:00Z",
-          "publishedAt": "2026-10-08T11:17:00Z",
-          "summary": "",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding"
-        },
-        {
           "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681157",
           "title": "대만 TSMC, AI 반도체 수요에 3분기 매출 50% 급증…역대 최대",
           "source": "news.kbs.co.kr",
@@ -884,7 +888,11 @@
         },
         {
           "word": "데이터센터",
-          "count": 1
+          "count": 2
+        },
+        {
+          "word": "클라우드",
+          "count": 2
         },
         {
           "word": "바이오",
@@ -899,11 +907,11 @@
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "전력",
           "count": 1
         },
         {
-          "word": "클라우드",
+          "word": "제조",
           "count": 1
         }
       ],
@@ -915,8 +923,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6683,
-    "feedBytes": 1893892,
+    "fetchedItems": 7008,
+    "feedBytes": 1997129,
     "rollingWindowHours": 72
   }
 }

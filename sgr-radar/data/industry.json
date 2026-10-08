@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 12:59:22",
+  "updatedAt": "2026. 10. 09. 오전 01:24:32",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 672,
-    "deduped": 672,
-    "eventDeduped": 672,
+    "passed": 668,
+    "deduped": 668,
+    "eventDeduped": 668,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,6 +42,18 @@
       "url": "https://www.etnews.com/20261008000143"
     },
     {
+      "id": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+      "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
+      "source": "asia.nikkei.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T16:17:00Z",
+      "publishedAt": "2026-10-08T16:17:00Z",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak"
+    },
+    {
       "id": "https://www.thehindu.com/news/national/kerala/kochi-corporation-rules-out-land-transfer-for-brahmapuram-waste-to-energy-plant/article71559639.ece",
       "title": "Kochi Corporation rules out land transfer for Brahmapuram waste-to-energy plant",
       "source": "thehindu.com",
@@ -64,18 +76,6 @@
       "publishedAt": "2026-10-08T12:17:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/it-science/ict/2026/10/08/EU3X5PCVMVHFBAATFELNZY7WAY/"
-    },
-    {
-      "id": "https://www.themarketsdaily.com/2026/10/08/china-bak-battery-targets-india-growth-ai-data-centers-with-major-capacity-expansion.html",
-      "title": "China BAK Battery Targets India Growth, AI Data Centers With Major Capacity Expansion",
-      "source": "themarketsdaily.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T08:32:00Z",
-      "publishedAt": "2026-10-08T08:32:00Z",
-      "summary": "",
-      "url": "https://www.themarketsdaily.com/2026/10/08/china-bak-battery-targets-india-growth-ai-data-centers-with-major-capacity-expansion.html"
     },
     {
       "id": "https://www.huffingtonpost.kr:443/article/261098",
@@ -176,16 +176,16 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=05434966645610952&mediaCodeNo=257"
     },
     {
-      "id": "https://www.etnews.com/20261008000293",
-      "title": "한컴, AWS와 손잡고 美 시장 공략…12월 AI 직원 플랫폼 '노마디안' 출시",
-      "source": "etnews.com",
-      "language": "Korean",
+      "id": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+      "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
+      "source": "asia.nikkei.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:47:00Z",
-      "publishedAt": "2026-10-08T07:47:00Z",
+      "dateRaw": "2026-10-08T16:17:00Z",
+      "publishedAt": "2026-10-08T16:17:00Z",
       "summary": "",
-      "url": "https://www.etnews.com/20261008000293"
+      "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak"
     },
     {
       "id": "https://www.thehindu.com/news/national/kerala/kochi-corporation-rules-out-land-transfer-for-brahmapuram-waste-to-energy-plant/article71559639.ece",
@@ -248,18 +248,6 @@
       "url": "https://www.thehindu.com/sci-tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-teases-muse-charm-product/article71502702.ece"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=04870806645610952&mediaCodeNo=257",
-      "title": "감자 도시가 AI 기지로…中, 남는 전기로 데이터센터 속도전",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:47:00Z",
-      "publishedAt": "2026-10-08T07:47:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04870806645610952&mediaCodeNo=257"
-    },
-    {
       "id": "https://www.huffingtonpost.kr:443/article/261098",
       "title": "HD건설기계 '데이터센터 발전용 엔진' 사업 도전에 결실 : 문재영 공장 새로 짓고 엔진 생산능력 높인다",
       "source": "huffingtonpost.kr",
@@ -270,6 +258,18 @@
       "publishedAt": "2026-10-08T11:17:00Z",
       "summary": "",
       "url": "https://www.huffingtonpost.kr:443/article/261098"
+    },
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261008223551",
+      "title": "AI 도메인 경쟁 뜨겁다…'닷에이전트' 13개사 각축",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261008223551"
     },
     {
       "id": "https://www.fastmarkets.com/insights/volkswagen-deepens-gotion-partnership-with-european-battery-manufacturing-push/",
@@ -356,28 +356,40 @@
       "url": "https://www.huffingtonpost.kr:443/article/261100"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261008001226",
-      "title": "'GS건설 합작' 아문에너지, 롯데정밀화학과 발전용 그린암모니아 공급계약",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:47:00Z",
-      "publishedAt": "2026-10-08T07:47:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261008001226"
-    },
-    {
-      "id": "https://www.military.com/us-shipbuilding-faces-a-shortage-of-up-to-250000-workers-could-robots-help-close-the-gap",
-      "title": "US Shipbuilding Needs Up to 250,000 More Workers. A Robotics Company Says It Can Help.",
-      "source": "military.com",
+      "id": "https://www.ansa.it/ansacom/notizie/economia/italiandatacenterassociation/2026/10/08/data-center-in-italia-37-miliardi-di-investimenti-potenziali-in-dieci-anni_ba2322d2-cb9f-42fc-bfad-98c074b48f2d.html",
+      "title": "Data center, in Italia 37 miliardi di investimenti potenziali in dieci anni - Economia - Ansa.it",
+      "source": "ansa.it",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:17:00Z",
-      "publishedAt": "2026-10-08T07:17:00Z",
+      "dateRaw": "2026-10-08T16:17:00Z",
+      "publishedAt": "2026-10-08T16:17:00Z",
       "summary": "",
-      "url": "https://www.military.com/us-shipbuilding-faces-a-shortage-of-up-to-250000-workers-could-robots-help-close-the-gap"
+      "url": "https://www.ansa.it/ansacom/notizie/economia/italiandatacenterassociation/2026/10/08/data-center-in-italia-37-miliardi-di-investimenti-potenziali-in-dieci-anni_ba2322d2-cb9f-42fc-bfad-98c074b48f2d.html"
+    },
+    {
+      "id": "https://www.proactiveinvestors.com/companies/news/1099762/mine-developer-first-phosphate-shows-progress-in-battery-strategy-1099762.html",
+      "title": "Mine developer First Phosphate shows progress in battery strategy",
+      "source": "proactiveinvestors.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T16:16:00Z",
+      "publishedAt": "2026-10-08T16:16:00Z",
+      "summary": "",
+      "url": "https://www.proactiveinvestors.com/companies/news/1099762/mine-developer-first-phosphate-shows-progress-in-battery-strategy-1099762.html"
+    },
+    {
+      "id": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9814306",
+      "title": "Form 8.3 - DCC Energy Plc | Company Announcement | Investegate",
+      "source": "investegate.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T15:32:00Z",
+      "publishedAt": "2026-10-08T15:32:00Z",
+      "summary": "",
+      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9814306"
     },
     {
       "id": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/data-center-urso-7-mld-gia--investiti-e-altri-25-annunciati-in-due-anni-nRC_08102026_1559_501932441.html",
@@ -428,18 +440,6 @@
       "url": "https://aninews.in/news/business/rising-memory-chip-prices-threaten-smartphone-penetration-icea-chairman-pankaj-mohindroo-calls-for-new-strategy20261008192856/"
     },
     {
-      "id": "https://247.libero.it/focus/68996953/1/data-center-in-italia-investimenti-potenziali-per-37-miliardi-in-10/",
-      "title": "Data Center, in Italia investimenti potenziali per 37 miliardi in 10 anni",
-      "source": "247.libero.it",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T14:16:00Z",
-      "publishedAt": "2026-10-08T14:16:00Z",
-      "summary": "",
-      "url": "https://247.libero.it/focus/68996953/1/data-center-in-italia-investimenti-potenziali-per-37-miliardi-in-10/"
-    },
-    {
       "id": "https://aninews.in/news/business/piyush-goyal-meets-saab-india-chief-to-discuss-defence-manufacturing-supply-chain-indigenisation20261008183455/",
       "title": "Piyush Goyal meets Saab India chief to discuss defence manufacturing, supply chain indigenisation",
       "source": "aninews.in",
@@ -486,6 +486,18 @@
       "publishedAt": "2026-10-08T10:47:00Z",
       "summary": "",
       "url": "https://www.digitimes.com/news/a20261008VL222/lam-research-manufacturing-equipment-technology-investment.html"
+    },
+    {
+      "id": "https://www.proactiveinvestors.com/companies/news/1099825/graphene-manufacturing-group-battery-cells-complete-1-000-cycles-with-no-performance-loss-1099825.html",
+      "title": "Graphene Manufacturing Group battery cells complete 1,000 cycles with no performance loss",
+      "source": "proactiveinvestors.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T16:17:00Z",
+      "publishedAt": "2026-10-08T16:17:00Z",
+      "summary": "",
+      "url": "https://www.proactiveinvestors.com/companies/news/1099825/graphene-manufacturing-group-battery-cells-complete-1-000-cycles-with-no-performance-loss-1099825.html"
     },
     {
       "id": "https://www.news-medical.net/news/20261008/Bio-Techne-expands-global-GMP-manufacturing-network-with-new-Bristol-facility-to-advance-scalable-cell-therapy-development.aspx",
@@ -560,16 +572,16 @@
       "url": "https://www.etoday.co.kr/news/view/2634030"
     },
     {
-      "id": "http://www.hawaiitelegraph.com/news/279360231/odysseyr-battery-joins-nfi-empire-project-reborn-providing-premium-battery-technology-to-support-the-brett-boyer-foundation",
+      "id": "http://www.californiatelegraph.com/news/279360231/odysseyr-battery-joins-nfi-empire-project-reborn-providing-premium-battery-technology-to-support-the-brett-boyer-foundation",
       "title": "ODYSSEY(R) Battery Joins NFI Empire's Project REBORN, Providing Premium Battery Technology to Support The Brett Boyer Foundation",
-      "source": "hawaiitelegraph.com",
+      "source": "californiatelegraph.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:32:00Z",
-      "publishedAt": "2026-10-08T15:32:00Z",
+      "dateRaw": "2026-10-08T16:17:00Z",
+      "publishedAt": "2026-10-08T16:17:00Z",
       "summary": "",
-      "url": "http://www.hawaiitelegraph.com/news/279360231/odysseyr-battery-joins-nfi-empire-project-reborn-providing-premium-battery-technology-to-support-the-brett-boyer-foundation"
+      "url": "http://www.californiatelegraph.com/news/279360231/odysseyr-battery-joins-nfi-empire-project-reborn-providing-premium-battery-technology-to-support-the-brett-boyer-foundation"
     },
     {
       "id": "https://greentechlead.com/renewable-energy/battery-storage-beats-gas-peaking-costs-in-43-markets-as-solar-leads-global-lcoe-rankings-55812",
@@ -596,18 +608,6 @@
       "url": "https://www.investors.com/news/technology/argenx-stock-sjogrens-disease-failure/"
     },
     {
-      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69790501-south-africa-to-procure-4-6-gw-of-battery-storage-451.htm",
-      "title": "South Africa to procure 4.6 GW of battery storage",
-      "source": "finanznachrichten.de",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T14:47:00Z",
-      "publishedAt": "2026-10-08T14:47:00Z",
-      "summary": "",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69790501-south-africa-to-procure-4-6-gw-of-battery-storage-451.htm"
-    },
-    {
       "id": "https://infotechlead.com/networking/quantum-computing-revenue-to-reach-1-1-billion-in-2027-as-gartner-warns-of-startup-shakeout-98708",
       "title": "Quantum Computing Revenue to Reach $1.1 Billion in 2027 as Gartner Warns of Startup Shakeout - InfotechLead",
       "source": "infotechlead.com",
@@ -630,18 +630,6 @@
       "publishedAt": "2026-10-08T12:47:00Z",
       "summary": "",
       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69789123-quantum-x-labs-inc-quantum-x-labs-files-u-s-patent-application-for-breakthrough-structured-beam-laser-cooling-technology-for-its-cold-atom-quantum-c-399.htm"
-    },
-    {
-      "id": "https://www.midweekherald.co.uk/news/26617269.axminster-battery-storage-appeal-dismissed-water-risks/",
-      "title": "Battery storage appeal dismissed over risks to drinking water near Axminster",
-      "source": "midweekherald.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T09:32:00Z",
-      "publishedAt": "2026-10-08T09:32:00Z",
-      "summary": "",
-      "url": "https://www.midweekherald.co.uk/news/26617269.axminster-battery-storage-appeal-dismissed-water-risks/"
     },
     {
       "id": "https://www.yasstribune.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T11:31:00Z",
       "summary": "",
       "url": "https://www.greenocktelegraph.co.uk/news/26615147.scottish-committee-launches-hyperscale-data-centre-inquiry/"
+    },
+    {
+      "id": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/",
+      "title": "No pause on data centres in Quinte West",
+      "source": "quintenews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T09:47:00Z",
+      "publishedAt": "2026-10-08T09:47:00Z",
+      "summary": "",
+      "url": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6683,
-    "relevantItems": 164,
-    "feedBytes": 1893892,
+    "fetchedItems": 7008,
+    "relevantItems": 200,
+    "feedBytes": 1997129,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
