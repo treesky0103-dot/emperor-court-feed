@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 07:21:17",
+  "updatedAt": "2026. 10. 08. 오후 07:47:11",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 690,
-    "deduped": 690,
-    "eventDeduped": 690,
+    "passed": 689,
+    "deduped": 689,
+    "eventDeduped": 689,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -620,16 +620,16 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1099778/australian-vanadium-and-tyfast-team-up-to-target-fast-charging-heavy-duty-battery-market-1099778.html"
     },
     {
-      "id": "https://www.queanbeyanage.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
+      "id": "https://www.naroomanewsonline.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
       "title": "Billions in tech infrastructure needed for data centres",
-      "source": "queanbeyanage.com.au",
+      "source": "naroomanewsonline.com.au",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T10:16:00Z",
-      "publishedAt": "2026-10-08T10:16:00Z",
+      "dateRaw": "2026-10-08T10:31:00Z",
+      "publishedAt": "2026-10-08T10:31:00Z",
       "summary": "",
-      "url": "https://www.queanbeyanage.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
+      "url": "https://www.naroomanewsonline.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
     },
     {
       "id": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2077,
-    "relevantItems": 34,
-    "feedBytes": 580706,
+    "fetchedItems": 6674,
+    "relevantItems": 116,
+    "feedBytes": 1861131,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
