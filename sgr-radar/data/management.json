@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 06:04:22",
+  "updatedAt": "2026. 10. 09. 오전 06:27:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 76,
-    "deduped": 76,
-    "eventDeduped": 76,
+    "passed": 74,
+    "deduped": 74,
+    "eventDeduped": 74,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,18 +392,6 @@
       "url": "https://gwhatchet.com/2026/10/08/sga-establishes-new-fund-for-large-scale-events-following-uwpf-restructuring/"
     },
     {
-      "id": "https://www.humanresourcesonline.net/crystal-jade-restructuring-affects-120-workers-as-four-outlets-are-shut-down",
-      "title": "Crystal Jade restructuring affects 120 workers as four outlets are shut down",
-      "source": "humanresourcesonline.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T12:47:00Z",
-      "publishedAt": "2026-10-08T12:47:00Z",
-      "summary": "",
-      "url": "https://www.humanresourcesonline.net/crystal-jade-restructuring-affects-120-workers-as-four-outlets-are-shut-down"
-    },
-    {
       "id": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004",
       "title": "“AI 공격 자동화… 보안 사각 ‘섀도 IT’ 노려”",
       "source": "seoul.co.kr",
@@ -728,6 +716,18 @@
       "url": "https://www.moneycontrol.com/news/trends/amazon-layoff-to-impact-employees-in-india-uk-email-is-viral-these-decisions-weren-t-made-lightly-14047874.html"
     },
     {
+      "id": "https://radioink.com/2026/10/06/seven-in-10-americans-expect-ai-to-cost-jobs-pew-finds/",
+      "title": "Seven In 10 Americans Expect AI To Cost Jobs, Pew Finds - Radio Ink",
+      "source": "radioink.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T21:16:00Z",
+      "publishedAt": "2026-10-08T21:16:00Z",
+      "summary": "",
+      "url": "https://radioink.com/2026/10/06/seven-in-10-americans-expect-ai-to-cost-jobs-pew-finds/"
+    },
+    {
       "id": "https://www.theepochtimes.com/tech/micron-workers-in-taiwan-authorize-strike-as-ai-memory-squeeze-deepens-6100987",
       "title": "Micron Workers in Taiwan Authorize Strike as AI Memory Squeeze Deepens",
       "source": "theepochtimes.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1700,
-    "relevantItems": 41,
-    "feedBytes": 474581,
+    "fetchedItems": 4274,
+    "relevantItems": 65,
+    "feedBytes": 1206839,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
