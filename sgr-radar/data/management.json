@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 06:47:50",
+  "updatedAt": "2026. 10. 09. 오전 07:01:53",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 75,
-    "deduped": 75,
-    "eventDeduped": 75,
+    "passed": 74,
+    "deduped": 74,
+    "eventDeduped": 74,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,6 +308,18 @@
       "url": "https://www.cityam.com/amazon-job-cuts-hit-hundreds-as-tech-giant-denies-ai-link/"
     },
     {
+      "id": "https://www.theglobeandmail.com/business/article-corus-completes-recapitalization-names-new-board-after-restructuring/",
+      "title": "Corus completes recapitalization, names new board after restructuring",
+      "source": "theglobeandmail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T21:46:00Z",
+      "publishedAt": "2026-10-08T21:46:00Z",
+      "summary": "",
+      "url": "https://www.theglobeandmail.com/business/article-corus-completes-recapitalization-names-new-board-after-restructuring/"
+    },
+    {
       "id": "https://www.fox32chicago.com/news/cook-county-budget-preckwinkle-avoids-layoffs-new-taxes-but-warns-of-tough-2028",
       "title": "Cook County budget: Preckwinkle avoids layoffs, new taxes, but warns of tough 2028",
       "source": "fox32chicago.com",
@@ -392,16 +404,28 @@
       "url": "https://gwhatchet.com/2026/10/08/sga-establishes-new-fund-for-large-scale-events-following-uwpf-restructuring/"
     },
     {
-      "id": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004",
-      "title": "“AI 공격 자동화… 보안 사각 ‘섀도 IT’ 노려”",
-      "source": "seoul.co.kr",
-      "language": "Korean",
+      "id": "https://www.informationweek.com/machine-learning-ai/how-cios-can-climb-out-of-the-ai-governance-chasm",
+      "title": "AI overload: Governance gaps that can swallow CIOs",
+      "source": "informationweek.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T13:17:00Z",
-      "publishedAt": "2026-10-08T13:17:00Z",
+      "dateRaw": "2026-10-08T21:47:00Z",
+      "publishedAt": "2026-10-08T21:47:00Z",
       "summary": "",
-      "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004"
+      "url": "https://www.informationweek.com/machine-learning-ai/how-cios-can-climb-out-of-the-ai-governance-chasm"
+    },
+    {
+      "id": "https://smallbiztrends.com/eset-uses-ai-to-deliver-enterprise-security-at-small-business-scale/",
+      "title": "ESET Uses AI to Deliver Enterprise Security at Small Business Scale",
+      "source": "smallbiztrends.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T21:46:00Z",
+      "publishedAt": "2026-10-08T21:46:00Z",
+      "summary": "",
+      "url": "https://smallbiztrends.com/eset-uses-ai-to-deliver-enterprise-security-at-small-business-scale/"
     },
     {
       "id": "https://campustechnology.com/webcasts/2026/11/druid-ai-no-new-budget-no-added-it-staff.aspx",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-08T21:16:00Z",
       "summary": "",
       "url": "https://radioink.com/2026/10/06/seven-in-10-americans-expect-ai-to-cost-jobs-pew-finds/"
-    },
-    {
-      "id": "https://www.theepochtimes.com/tech/micron-workers-in-taiwan-authorize-strike-as-ai-memory-squeeze-deepens-6100987",
-      "title": "Micron Workers in Taiwan Authorize Strike as AI Memory Squeeze Deepens",
-      "source": "theepochtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T20:47:00Z",
-      "publishedAt": "2026-10-08T20:47:00Z",
-      "summary": "",
-      "url": "https://www.theepochtimes.com/tech/micron-workers-in-taiwan-authorize-strike-as-ai-memory-squeeze-deepens-6100987"
-    },
-    {
-      "id": "https://theconversation.com/canadas-settlement-services-are-going-digital-ai-should-support-workers-not-replace-them-291942",
-      "title": "Canada’s settlement services are going digital. AI should support workers, not replace them",
-      "source": "theconversation.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T19:47:00Z",
-      "publishedAt": "2026-10-08T19:47:00Z",
-      "summary": "",
-      "url": "https://theconversation.com/canadas-settlement-services-are-going-digital-ai-should-support-workers-not-replace-them-291942"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4372,
-    "relevantItems": 93,
-    "feedBytes": 1231139,
+    "fetchedItems": 4611,
+    "relevantItems": 78,
+    "feedBytes": 1282296,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
