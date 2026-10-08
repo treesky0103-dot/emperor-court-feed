@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 01:37:52",
+  "updatedAt": "2026. 10. 08. 오후 02:36:33",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 77,
-    "deduped": 77,
-    "eventDeduped": 77,
+    "passed": 76,
+    "deduped": 76,
+    "eventDeduped": 76,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -248,6 +248,18 @@
       "url": "https://www.pressdemocrat.com/2026/10/07/economy-tech-jobs-workday-layoff-pleasanton-bay-area-meta-oracle-work/"
     },
     {
+      "id": "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/",
+      "title": "금융권 ‘보안 사각지대’ 파고든 AI… “자동화로 해킹 규모·속도 키워”",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T05:31:00Z",
+      "publishedAt": "2026-10-08T05:31:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/"
+    },
+    {
       "id": "https://zdnet.co.kr/view/?no=20261008130745",
       "title": "KOSA-한국벤처투자, AI·SW 기업 투자 지원 맞손…모태펀드 연계 확대",
       "source": "zdnet.co.kr",
@@ -342,18 +354,6 @@
       "publishedAt": "2026-10-07T20:17:00Z",
       "summary": "",
       "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance"
-    },
-    {
-      "id": "https://www.daltonsbusiness.com/listing/unique-subscription-business-model-with-18000-for-sale-DB2502039/",
-      "title": "Unique Subscription Business Model With 18,000+ Daily Paying Users… - Buy or Sell a UK Business with Daltons Business",
-      "source": "daltonsbusiness.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T19:46:00Z",
-      "publishedAt": "2026-10-07T19:46:00Z",
-      "summary": "",
-      "url": "https://www.daltonsbusiness.com/listing/unique-subscription-business-model-with-18000-for-sale-DB2502039/"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026100618294705720",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3981,
-    "relevantItems": 75,
-    "feedBytes": 1091257,
+    "fetchedItems": 4410,
+    "relevantItems": 117,
+    "feedBytes": 1219621,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
