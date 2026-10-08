@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 10:36:20",
+  "updatedAt": "2026. 10. 08. 오전 10:54:59",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/economy/12171206",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02788006645610952&mediaCodeNo=257",
+          "title": "“34세 넘었다고 포기했는데”…39세까지 전세 2억 보증, 신혼은 3억",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T01:47:00Z",
+          "publishedAt": "2026-10-08T01:47:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02788006645610952&mediaCodeNo=257"
         },
         {
           "id": "https://www.etnews.com/20261008000120",
@@ -60,18 +72,6 @@
           "url": "https://womannews.net/detail.php?number=456791&thread=22r03r01%20style="
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02669926645610952&mediaCodeNo=257",
-          "title": "\"회계사 선발인원 정상화\"…청년 회계사들, 국회 앞 1인 시위",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T00:17:00Z",
-          "publishedAt": "2026-10-08T00:17:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02669926645610952&mediaCodeNo=257"
-        },
-        {
           "id": "http://www.koreatimes.com/article/20261007/1632910",
           "title": "딱 5분 만에 ‘300달러’ 벌었다…주식 접은 美 청년들 몰려든 ‘대박 투자처’ 알고보니 - 미주 한국일보",
           "source": "koreatimes.com",
@@ -84,6 +84,18 @@
           "url": "http://www.koreatimes.com/article/20261007/1632910"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261008000392",
+          "title": "한국사회복지관협회, 노후 복지관 개선 사업 건의",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T01:47:00Z",
+          "publishedAt": "2026-10-08T01:47:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261008000392"
+        },
+        {
           "id": "https://www.fnnews.com/news/202610080724381272",
           "title": "'230억 자산가' 박정수, 보증금 22억 실버타운 고민한다…\"월세 500만원\"",
           "source": "fnnews.com",
@@ -94,18 +106,6 @@
           "publishedAt": "2026-10-08T01:32:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610080724381272"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261008000246",
-          "title": "LG CNS, 국제 청소년 로봇대회에서 IT 교육 진행",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T01:02:00Z",
-          "publishedAt": "2026-10-08T01:02:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261008000246"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2633780",
@@ -134,23 +134,23 @@
       ],
       "keywords": [
         {
-          "word": "교육",
+          "word": "주거",
           "count": 4
         },
         {
-          "word": "주거",
+          "word": "교육",
+          "count": 3
+        },
+        {
+          "word": "복지",
           "count": 3
         },
         {
           "word": "청년",
-          "count": 3
+          "count": 2
         },
         {
           "word": "돌봄",
-          "count": 1
-        },
-        {
-          "word": "복지",
           "count": 1
         }
       ],
@@ -183,20 +183,6 @@
           "publishedAt": "2026-10-08T09:19:57Z",
           "summary": "",
           "url": "https://www.mk.co.kr/news/economy/12171138",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261008000118",
-          "title": "한국투자증권, 연 5% 특판 발행어음 선착순 판매",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T01:30:42Z",
-          "publishedAt": "2026-10-08T01:30:42Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000118",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -239,6 +225,20 @@
           "url": "https://www.etoday.co.kr/news/view/2633596"
         },
         {
+          "id": "https://www.etnews.com/20261008000042",
+          "title": "인스웨이브-FPT, 개발인력 양성 및 SI사업 협력을 위한 MOU 체결",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T00:38:06Z",
+          "publishedAt": "2026-10-08T00:38:06Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000042",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.newspim.com/news/view/20261008000103",
           "title": "ECM 시장 경쟁 확대…'엘앤씨바이오' 공정·공급망 경쟁력 주목",
           "source": "newspim.com",
@@ -263,6 +263,18 @@
           "url": "https://biz.heraldcorp.com/article/10896306"
         },
         {
+          "id": "https://newsway.co.kr/news/view?ud=2026100810260242064",
+          "title": "현대커머셜, 기업·투자금융 5.6조···한투그룹과 '딜' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T01:47:00Z",
+          "publishedAt": "2026-10-08T01:47:00Z",
+          "summary": "",
+          "url": "https://newsway.co.kr/news/view?ud=2026100810260242064"
+        },
+        {
           "id": "https://www.fnnews.com/news/202610080702293831",
           "title": "美국채 상승에 주택대출금리 7.49%…3년 만에 최고",
           "source": "fnnews.com",
@@ -273,20 +285,6 @@
           "publishedAt": "2026-10-08T01:32:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610080702293831"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223697",
-          "title": "[속보] 코스피 6808.68(▲4.78p, 0.07%) 개장, 원·달러 환율 1340.1원",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T00:05:00Z",
-          "publishedAt": "2026-10-08T00:05:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223697",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
@@ -303,11 +301,15 @@
           "count": 1
         },
         {
+          "word": "기업",
+          "count": 1
+        },
+        {
           "word": "수출",
           "count": 1
         },
         {
-          "word": "환율",
+          "word": "인력",
           "count": 1
         }
       ],
@@ -432,16 +434,16 @@
           "url": "https://www.etoday.co.kr/news/view/2633593"
         },
         {
-          "id": "https://www.fnnews.com/news/202610080731257360",
-          "title": "구글·메타, AI학습용 바이오 데이터 구축 나선다[글로벌AI브리핑]",
-          "source": "fnnews.com",
+          "id": "https://newsway.co.kr/news/view?ud=2026100808180384286",
+          "title": "삼성전자, 국내 최초 '분기 영업익 100조'···반도체가 만든 신기록 - 뉴스웨이",
+          "source": "newsway.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T01:32:00Z",
-          "publishedAt": "2026-10-08T01:32:00Z",
+          "dateRaw": "2026-10-08T01:47:00Z",
+          "publishedAt": "2026-10-08T01:47:00Z",
           "summary": "",
-          "url": "https://www.fnnews.com/news/202610080731257360"
+          "url": "https://newsway.co.kr/news/view?ud=2026100808180384286"
         }
       ],
       "keywords": [
@@ -451,7 +453,7 @@
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "제조",
@@ -459,10 +461,6 @@
         },
         {
           "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "바이오",
           "count": 1
         }
       ],
@@ -535,6 +533,18 @@
           "url": "https://247wallst.com/personal-finance/2026/10/07/twenty-minutes-of-music-helped-burned-out-healthcare-workers-medicares-depression-screen-is-0-but-treatment-usually-costs-20/"
         },
         {
+          "id": "https://abc13.com/story/school-district-police-departments-cant-take-child-abuse-reports-new-texas-attorney-general-opinion-says/19919035/",
+          "title": "School district police departments can't take child abuse reports, new Texas Attorney General opinion says",
+          "source": "abc13.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T01:46:00Z",
+          "publishedAt": "2026-10-08T01:46:00Z",
+          "summary": "",
+          "url": "https://abc13.com/story/school-district-police-departments-cant-take-child-abuse-reports-new-texas-attorney-general-opinion-says/19919035/"
+        },
+        {
           "id": "https://abcnews4.com/news/local/newly-released-reports-detail-welfare-checks-before-deaths-of-justine-mays-daughters-crime-investigation-justine-may-charged-with-killing-her-daughters-family-concerned-for-her-well-being-before-discovery-was-made",
           "title": "Newly released reports detail welfare checks before deaths of Justine May's daughters",
           "source": "abcnews4.com",
@@ -581,18 +591,6 @@
           "publishedAt": "2026-10-08T01:01:00Z",
           "summary": "",
           "url": "https://stnonline.com/wire-reports/california-teen-hospitalized-after-reported-heat-exposure-on-school-bus/"
-        },
-        {
-          "id": "https://www.baltimoresun.com/2026/10/07/anne-arundel-state-deadline-ai-policy/",
-          "title": "AI policy deadline to be missed by Anne Arundel school board",
-          "source": "baltimoresun.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T23:46:00Z",
-          "publishedAt": "2026-10-07T23:46:00Z",
-          "summary": "",
-          "url": "https://www.baltimoresun.com/2026/10/07/anne-arundel-state-deadline-ai-policy/"
         }
       ],
       "keywords": [
@@ -611,6 +609,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth",
+          "title": "Bank of Canada governor warns new tariffs could cut fourth-quarter growth in half",
+          "source": "financialpost.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T01:47:00Z",
+          "publishedAt": "2026-10-08T01:47:00Z",
+          "summary": "",
+          "url": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth"
+        },
         {
           "id": "http://www.nepalnational.com/news/279357630/rajkot-aditya-engimach-exhibits-at-imts-2026-chicago-eyes-us-growth-amid-tariff-uncertainty",
           "title": "Rajkot's Aditya Engimach Exhibits at IMTS 2026 Chicago, Eyes US Growth Amid Tariff Uncertainty",
@@ -718,18 +728,6 @@
           "publishedAt": "2026-10-07T20:47:00Z",
           "summary": "",
           "url": "https://www.logisticsmgmt.com/article/manufacturing_grows_in_september_amid_some_broad_economic_concerns_reports_ism"
-        },
-        {
-          "id": "https://www.wpbf.com/article/port-st-lucie-mayoral-debate-2026-wpbf/73929045",
-          "title": "Port St. Lucie mayoral candidates discuss growth and investment in debate",
-          "source": "wpbf.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T20:46:00Z",
-          "publishedAt": "2026-10-07T20:46:00Z",
-          "summary": "",
-          "url": "https://www.wpbf.com/article/port-st-lucie-mayoral-debate-2026-wpbf/73929045"
         }
       ],
       "keywords": [
@@ -746,11 +744,11 @@
           "count": 2
         },
         {
-          "word": "투자",
-          "count": 2
+          "word": "무역",
+          "count": 1
         },
         {
-          "word": "무역",
+          "word": "투자",
           "count": 1
         }
       ],
@@ -911,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3285,
-    "feedBytes": 870086,
+    "fetchedItems": 3081,
+    "feedBytes": 810650,
     "rollingWindowHours": 72
   }
 }

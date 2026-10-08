@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 10:36:17",
+  "updatedAt": "2026. 10. 08. 오전 10:54:55",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 72,
+    "deduped": 72,
+    "eventDeduped": 72,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,40 +308,28 @@
       "url": "https://fortune.com/2026/10/07/cio-intelligence-dropbox-cto/"
     },
     {
-      "id": "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/",
-      "title": "Kore.ai launches Autoloop to keep tuning enterprise AI agents after they go live - SiliconANGLE",
-      "source": "siliconangle.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T16:31:00Z",
-      "publishedAt": "2026-10-07T16:31:00Z",
-      "summary": "",
-      "url": "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/"
-    },
-    {
-      "id": "https://www.fnnews.com/news/202610080920396709",
-      "title": "금감원 \"AI 해킹, IP 차단만으론 한계\"…금융권에 탐지 강화 주문",
-      "source": "fnnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:32:00Z",
-      "publishedAt": "2026-10-08T01:32:00Z",
-      "summary": "",
-      "url": "https://www.fnnews.com/news/202610080920396709"
-    },
-    {
-      "id": "https://www.newsway.co.kr/news/view?ud=2026100618294705720",
+      "id": "https://newsway.co.kr/news/view?ud=2026100618294705720",
       "title": "현대차그룹, 순환출자 풀 승계 시나리오···실탄 확보 관건 - 뉴스웨이",
       "source": "newsway.co.kr",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T00:47:00Z",
-      "publishedAt": "2026-10-08T00:47:00Z",
+      "dateRaw": "2026-10-08T01:47:00Z",
+      "publishedAt": "2026-10-08T01:47:00Z",
       "summary": "",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026100618294705720"
+      "url": "https://newsway.co.kr/news/view?ud=2026100618294705720"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261008000322",
+      "title": "금감원 \"직원 실수로 해지된 아들 예탁금 5000만원, 금융회사가 돌려줘야\"",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T01:47:00Z",
+      "publishedAt": "2026-10-08T01:47:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261008000322"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02194326645610952&mediaCodeNo=257",
@@ -728,6 +716,18 @@
       "url": "https://www.walb.com/2026/10/06/how-you-can-prepare-ai-workforce/"
     },
     {
+      "id": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/",
+      "title": "Starbucks lays off 51 retail and corporate employees in Washington",
+      "source": "columbian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T01:47:00Z",
+      "publishedAt": "2026-10-08T01:47:00Z",
+      "summary": "",
+      "url": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/"
+    },
+    {
       "id": "https://www.bankinfosecurity.com/whitepapers/78-organizations-have-already-seen-ai-enabled-attacks-are-defenses-w-16778",
       "title": "78% of Organizations Have Already Seen AI-Enabled Attacks. Are Defenses Keeping Up?",
       "source": "bankinfosecurity.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3285,
-    "relevantItems": 97,
-    "feedBytes": 870086,
+    "fetchedItems": 3081,
+    "relevantItems": 103,
+    "feedBytes": 810650,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
