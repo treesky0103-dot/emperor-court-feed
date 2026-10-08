@@ -1,24 +1,12 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 04:05:49",
+  "updatedAt": "2026. 10. 09. 오전 04:27:15",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
-        {
-          "id": "https://www.etnews.com/20261008000143",
-          "title": "[2026 국감] 박홍근 “반도체 호황 재원, 청년·성장동력에 투자”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000143"
-        },
         {
           "id": "https://www.mk.co.kr/news/business/12171906",
           "title": "“에너지분야 교육·연구·학술교류 확대”…남부발전, MIT와 협약 체결",
@@ -32,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/business/12171906",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etnews.com/20261008000398",
+          "title": "보트 타고 건너온 난민…4억짜리 집 받자마자, 이틀만에 미성년자 앞에서 성범죄",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:01:00Z",
+          "publishedAt": "2026-10-08T17:01:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000398"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273771&CMPT_CD=M0153",
@@ -82,42 +82,6 @@
           "url": "https://www.seoul.co.kr/news/life/publication-literature/2026/10/09/20261009016001"
         },
         {
-          "id": "https://news.knn.co.kr/news/article/193003",
-          "title": "조선업 호황...삼성중공업, 거제 청년에 문 연다",
-          "source": "news.knn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
-          "summary": "",
-          "url": "https://news.knn.co.kr/news/article/193003"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10897593",
-          "title": "아동학대로 부모에게 고발당한 ‘교권보호단 1호’ 부천오정초 교사, 혐의없어 불기소..경기도교육청, “교권 지킬 것”",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897593"
-        },
-        {
-          "id": "https://www.etnews.com/20261008000398",
-          "title": "보트 타고 건너온 난민…4억짜리 집 받자마자, 이틀만에 미성년자 앞에서 성범죄",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T17:01:00Z",
-          "publishedAt": "2026-10-08T17:01:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000398"
-        },
-        {
           "id": "https://www.mk.co.kr/news/politics/12171425",
           "title": "李대통령 “초·중·고 통일교육 교재, 신속히 대책 마련”…국감 내용 언급",
           "source": "mk.co.kr",
@@ -130,25 +94,37 @@
           "url": "https://www.mk.co.kr/news/politics/12171425",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://seoul.co.kr:443/news/international/2026/10/08/20261008500250",
+          "title": "보트 타고온 불법 난민…4억짜리 집 턱 받더니, 이틀 만에 성범죄 ‘경악’ [월드픽]",
+          "source": "seoul.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T13:17:00Z",
+          "publishedAt": "2026-10-08T13:17:00Z",
+          "summary": "",
+          "url": "https://seoul.co.kr:443/news/international/2026/10/08/20261008500250"
         }
       ],
       "keywords": [
         {
           "word": "청년",
-          "count": 5
+          "count": 3
         },
         {
           "word": "교육",
-          "count": 3
+          "count": 2
         },
         {
           "word": "복지",
           "count": 1
         }
       ],
-      "displayed": 10,
+      "displayed": 8,
       "target": 10,
-      "targetMet": true
+      "targetMet": false
     },
     "economy": {
       "items": [
@@ -217,16 +193,16 @@
           "url": "https://www.newsway.co.kr/news/view?ud=2026100820154719166"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10897414",
-          "title": "삼성전자 주가, 1월까지 기다려봐?…결국 믿을 건 ‘주주환원’ [투자360]",
-          "source": "biz.heraldcorp.com",
+          "id": "https://www.radioseoul1650.com/archives/159019",
+          "title": "\"문제는 경제야\"...미 선거광고서 민주 '물가' 공화 '감세' 방점",
+          "source": "radioseoul1650.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
+          "dateRaw": "2026-10-08T19:17:00Z",
+          "publishedAt": "2026-10-08T19:17:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897414"
+          "url": "https://www.radioseoul1650.com/archives/159019"
         },
         {
           "id": "http://www.koreatimes.com/article/20260923/1631068",
@@ -280,7 +256,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "고용",
@@ -288,6 +264,10 @@
         },
         {
           "word": "기업",
+          "count": 1
+        },
+        {
+          "word": "물가",
           "count": 1
         }
       ],
@@ -312,18 +292,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://biz.chosun.com/it-science/ict/2026/10/08/EU3X5PCVMVHFBAATFELNZY7WAY/",
-          "title": "TSMC, AI 반도체 수요에 3분기 매출 63조원…전년比 50% 증가 ‘역대 최대’",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:17:00Z",
-          "publishedAt": "2026-10-08T12:17:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/08/EU3X5PCVMVHFBAATFELNZY7WAY/"
-        },
-        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=07281606645610952&mediaCodeNo=257",
           "title": "NXP 세미콘덕터, 데이터센터 수혜 제한적...투자의견 하향-씨티",
           "source": "edaily.co.kr",
@@ -334,18 +302,6 @@
           "publishedAt": "2026-10-08T13:16:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=07281606645610952&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.etnews.com/20261008000143",
-          "title": "[2026 국감] 박홍근 “반도체 호황 재원, 청년·성장동력에 투자”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000143"
         },
         {
           "id": "https://www.newsway.co.kr/news/view?ud=2026100819485430273",
@@ -384,30 +340,6 @@
           "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004"
         },
         {
-          "id": "https://news.knn.co.kr/news/article/193003",
-          "title": "조선업 호황...삼성중공업, 거제 청년에 문 연다",
-          "source": "news.knn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
-          "summary": "",
-          "url": "https://news.knn.co.kr/news/article/193003"
-        },
-        {
-          "id": "https://www.dongascience.com:443/ko/news/72139",
-          "title": "\"우주·국방·바이오 이끄는 '레이저' 20년째 수리만…세계 최강 타이틀, 유명무실\"",
-          "source": "dongascience.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:17:00Z",
-          "publishedAt": "2026-10-08T12:17:00Z",
-          "summary": "",
-          "url": "https://www.dongascience.com:443/ko/news/72139"
-        },
-        {
           "id": "http://www.koreatimes.com/article/20261008/1633066",
           "title": "韓 국산 극초음속미사일 전격 공개…北지뢰에 첨단전력 시현 대응 - 미주 한국일보",
           "source": "koreatimes.com",
@@ -418,6 +350,56 @@
           "publishedAt": "2026-10-08T19:02:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261008/1633066"
+        },
+        {
+          "id": "https://www.anewsa.com/detail.php?number=3206157",
+          "title": "'유가 담합 의혹' SK에너지, \"국민 여러분께 심려 끼쳐 송구\"",
+          "source": "anewsa.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:47:00Z",
+          "publishedAt": "2026-10-08T17:47:00Z",
+          "summary": "",
+          "url": "https://www.anewsa.com/detail.php?number=3206157"
+        },
+        {
+          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681518",
+          "title": "금호타이어 곡성 공장서 불…인명피해 없이 완진",
+          "source": "news.kbs.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T15:32:00Z",
+          "publishedAt": "2026-10-08T15:32:00Z",
+          "summary": "",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681518"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10897264",
+          "title": "“오늘은 뭐 먹을까?”…엄마 대신 로봇이 부엌에 왔다[미담:味談]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T14:47:00Z",
+          "publishedAt": "2026-10-08T14:47:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10897264"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/business/12171501",
+          "title": "SK하이닉스, ‘AI 환경연구소’ 신설…반도체 녹색전환 주도한다",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T14:49:58Z",
+          "publishedAt": "2026-10-08T14:49:58Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12171501",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
@@ -426,23 +408,19 @@
           "count": 5
         },
         {
-          "word": "반도체",
-          "count": 3
-        },
-        {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "바이오",
+          "word": "반도체",
+          "count": 2
+        },
+        {
+          "word": "로봇",
           "count": 1
         },
         {
           "word": "전력",
-          "count": 1
-        },
-        {
-          "word": "조선",
           "count": 1
         }
       ],
@@ -539,6 +517,18 @@
           "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html"
         },
         {
+          "id": "https://www.wdsu.com/article/louisiana-st-tammany-steve-alfonso-police-mandatory-reporting-training/74080713",
+          "title": "Steve Alfonso, St. Tammany school leaders meet with law enforcement to discuss mandatory reporting",
+          "source": "wdsu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T19:17:00Z",
+          "publishedAt": "2026-10-08T19:17:00Z",
+          "summary": "",
+          "url": "https://www.wdsu.com/article/louisiana-st-tammany-steve-alfonso-police-mandatory-reporting-training/74080713"
+        },
+        {
           "id": "http://en.ammonnews.net/article/95968",
           "title": "Ammonnews : A Comprehensive Scientific Report and Call for International Cooperation in Education from Kindergarten Through University",
           "source": "en.ammonnews.net",
@@ -561,31 +551,19 @@
           "publishedAt": "2026-10-08T17:47:00Z",
           "summary": "",
           "url": "https://www.bgsu.edu/content/bgsu/en/news/2026/10/bgsu-strategy-for-navigating-higher-educations-enrollment-cliff-featured-on-bloomberg.html"
-        },
-        {
-          "id": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/",
-          "title": "EU ministers survey new ways to curb irregular migration - Shafaqna English | International Shia News & Fatwas",
-          "source": "en.shafaqna.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T16:17:00Z",
-          "publishedAt": "2026-10-08T16:17:00Z",
-          "summary": "",
-          "url": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 3
-        },
-        {
-          "word": "이민",
-          "count": 3
+          "count": 4
         },
         {
           "word": "고령화",
+          "count": 2
+        },
+        {
+          "word": "이민",
           "count": 2
         },
         {
@@ -789,6 +767,18 @@
           "url": "http://www.indiagazette.com/news/279359618/airtel-showcases-sovereign-cloud-ai-security-quantum-telecom-research-to-scindia-at-imc-2026"
         },
         {
+          "id": "https://www.mtpr.org/montana-news/2026-10-08/psc-district-1-candidates-campaign-on-energy-costs-data-centers-and-transparency",
+          "title": "PSC District 1 candidates campaign on energy costs, data centers and transparency",
+          "source": "mtpr.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T19:17:00Z",
+          "publishedAt": "2026-10-08T19:17:00Z",
+          "summary": "",
+          "url": "https://www.mtpr.org/montana-news/2026-10-08/psc-district-1-candidates-campaign-on-energy-costs-data-centers-and-transparency"
+        },
+        {
           "id": "https://www.livemint.com/companies/amitabh-bachchan-s-granddaughter-navya-naveli-nanda-launches-venture-arm-to-invest-in-ai-space-clean-energy-11791476581023.html",
           "title": "Amitabh Bachchan’s granddaughter Navya Naveli Nanda launches venture arm to invest in AI, space, clean energy | Company Business News",
           "source": "livemint.com",
@@ -859,36 +849,24 @@
           "publishedAt": "2026-10-08T17:46:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/news/cities/Visakhapatnam/ap-positions-north-andhra-as-a-hub-for-ai-data-centres-fintech-and-semiconductors/article71559929.ece"
-        },
-        {
-          "id": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
-          "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
-          "source": "creativebloq.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T17:17:00Z",
-          "publishedAt": "2026-10-08T17:17:00Z",
-          "summary": "",
-          "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "클라우드",
-          "count": 4
+          "count": 3
+        },
+        {
+          "word": "데이터센터",
+          "count": 2
         },
         {
           "word": "양자",
           "count": 2
-        },
-        {
-          "word": "데이터센터",
-          "count": 1
         },
         {
           "word": "반도체",
@@ -911,8 +889,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5056,
-    "feedBytes": 1436938,
+    "fetchedItems": 5792,
+    "feedBytes": 1622108,
     "rollingWindowHours": 72
   }
 }
