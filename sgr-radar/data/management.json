@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 09:02:13",
+  "updatedAt": "2026. 10. 08. 오후 09:34:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 84,
-    "deduped": 84,
-    "eventDeduped": 84,
+    "passed": 82,
+    "deduped": 82,
+    "eventDeduped": 82,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -296,18 +296,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261008102422"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=03480086645610952&mediaCodeNo=257",
-      "title": "씨이랩, AI 데이터센터 인프라 컨퍼런스 개최…기업 고객 확대 추진",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T02:47:00Z",
-      "publishedAt": "2026-10-08T02:47:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03480086645610952&mediaCodeNo=257"
-    },
-    {
       "id": "https://www.jagranjosh.com/general-knowledge/amazon-layoffs-2026-why-amazon-is-cutting-corporate-jobs-and-hiring-ai-talent-around-1000-jobs-cut-across-india-us-and-uk-1820012872-1",
       "title": "Amazon Layoffs 2026: Why Amazon Is Cutting Corporate Jobs And Hiring AI Talent? Around 1,000 Jobs Cut Across India, US And UK",
       "source": "jagranjosh.com",
@@ -318,18 +306,6 @@
       "publishedAt": "2026-10-08T10:47:00Z",
       "summary": "",
       "url": "https://www.jagranjosh.com/general-knowledge/amazon-layoffs-2026-why-amazon-is-cutting-corporate-jobs-and-hiring-ai-talent-around-1000-jobs-cut-across-india-us-and-uk-1820012872-1"
-    },
-    {
-      "id": "https://winetitles.com.au/twe-cuts-170-jobs-as-new-operating-model-comes-into-effect/",
-      "title": "TWE cuts 170 jobs as new operating model comes into effect - Winetitles",
-      "source": "winetitles.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T02:46:00Z",
-      "publishedAt": "2026-10-08T02:46:00Z",
-      "summary": "",
-      "url": "https://winetitles.com.au/twe-cuts-170-jobs-as-new-operating-model-comes-into-effect/"
     },
     {
       "id": "http://inews24.com/view/2013326",
@@ -548,6 +524,18 @@
       "url": "http://inews24.com/view/2013161"
     },
     {
+      "id": "https://www.logisticsmanager.com/zalando-and-ceva-deploy-ai-powered-robots-for-returns-processing/",
+      "title": "Zalando and CEVA deploy AI-powered robots for returns processing | Logistics Manager",
+      "source": "logisticsmanager.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T12:17:00Z",
+      "publishedAt": "2026-10-08T12:17:00Z",
+      "summary": "",
+      "url": "https://www.logisticsmanager.com/zalando-and-ceva-deploy-ai-powered-robots-for-returns-processing/"
+    },
+    {
       "id": "https://tvnewscheck.com/ai/article/spending-on-ai-is-becoming-almost-impossible-for-businesses-to-budget/",
       "title": "Spending On AI Is Becoming Almost Impossible for Businesses To Budget",
       "source": "tvnewscheck.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T04:32:00Z",
       "summary": "",
       "url": "https://natlawreview.com/article/ai-agents-workplace"
+    },
+    {
+      "id": "https://bernews.com/2026/10/pwc-survey-on-workforce-ai-skills-more/",
+      "title": "PwC Survey On Workforce, AI Skills & More - Bernews",
+      "source": "bernews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T04:01:00Z",
+      "publishedAt": "2026-10-08T04:01:00Z",
+      "summary": "",
+      "url": "https://bernews.com/2026/10/pwc-survey-on-workforce-ai-skills-more/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6771,
-    "relevantItems": 105,
-    "feedBytes": 1970156,
+    "fetchedItems": 6331,
+    "relevantItems": 71,
+    "feedBytes": 1762129,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
