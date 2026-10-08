@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 03:17:27",
+  "updatedAt": "2026. 10. 08. 오후 03:46:02",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -58,16 +58,18 @@
           "url": "https://biz.chosun.com/policy/politics/2026/10/08/N25URHFHGZBKZL4NC3IT4VNKXA/"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261008115527",
-          "title": "한국기술교육대, 자동흉부압박로봇 등 7개 기술로 관람객 눈길 끌어",
+          "id": "https://zdnet.co.kr/view/?no=20261008140451",
+          "title": "\"AI로 무얼 해봤니\"...오픈놀 미니인턴, 기업 실무 과제로 청년 역량 연결",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T04:32:00Z",
-          "publishedAt": "2026-10-08T04:32:00Z",
+          "dateRaw": "2026-10-08T05:04:51Z",
+          "publishedAt": "2026-10-08T05:04:51Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261008115527"
+          "url": "https://zdnet.co.kr/view/?no=20261008140451",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/biznews/1281453.html",
@@ -108,6 +110,18 @@
           "url": "https://womannews.net/detail.php?number=456791&thread=22r03r01%20style="
         },
         {
+          "id": "https://www.huffingtonpost.kr:443/article/261076",
+          "title": "학부모에게 고발당한 부천오정초 교사, 공소청이 불기소 처분 : '정치인 출신' 안민석 경기교육감 교권 보호 정책 탄력 붙나",
+          "source": "huffingtonpost.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:32:00Z",
+          "publishedAt": "2026-10-08T06:32:00Z",
+          "summary": "",
+          "url": "https://www.huffingtonpost.kr:443/article/261076"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10896930",
           "title": "구자열 원주시장, 서원주에 판교에 버금가는 미래 의료산업 거점 조성",
           "source": "biz.heraldcorp.com",
@@ -118,18 +132,6 @@
           "publishedAt": "2026-10-08T04:02:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10896930"
-        },
-        {
-          "id": "https://cunews.net/detail.php?number=172888&thread=22r12r03",
-          "title": "박찬대 인천시장, 민선9기 100일 맞아 민생현장 점검…시장·산업·안전·의료 현장 방문 : 연합시민의소리",
-          "source": "cunews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T02:46:00Z",
-          "publishedAt": "2026-10-08T02:46:00Z",
-          "summary": "",
-          "url": "https://cunews.net/detail.php?number=172888&thread=22r12r03"
         }
       ],
       "keywords": [
@@ -138,15 +140,15 @@
           "count": 6
         },
         {
+          "word": "청년",
+          "count": 2
+        },
+        {
           "word": "복지",
           "count": 1
         },
         {
           "word": "주거",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -175,14 +177,12 @@
           "title": "KOSA-한국벤처투자, AI·SW 기업 투자 지원 맞손…모태펀드 연계 확대",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T04:08:05Z",
-          "publishedAt": "2026-10-08T04:08:05Z",
+          "dateRaw": "2026-10-08T04:32:00Z",
+          "publishedAt": "2026-10-08T04:32:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261008130745",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "url": "https://zdnet.co.kr/view/?no=20261008130745"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02656806645610952&mediaCodeNo=257",
@@ -259,6 +259,18 @@
           "url": "https://biz.heraldcorp.com/article/10896306"
         },
         {
+          "id": "https://www.huffingtonpost.kr:443/article/261076",
+          "title": "학부모에게 고발당한 부천오정초 교사, 공소청이 불기소 처분 : '정치인 출신' 안민석 경기교육감 교권 보호 정책 탄력 붙나",
+          "source": "huffingtonpost.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:32:00Z",
+          "publishedAt": "2026-10-08T06:32:00Z",
+          "summary": "",
+          "url": "https://www.huffingtonpost.kr:443/article/261076"
+        },
+        {
           "id": "https://www.munhwa.com:443/article/11622229",
           "title": "“정치 역학” 까지 거론한 미국… 한국 ‘알래스카 투자 결단’ 촉구",
           "source": "munhwa.com",
@@ -269,24 +281,12 @@
           "publishedAt": "2026-10-08T06:02:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11622229"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026100810260242064",
-          "title": "현대커머셜, 기업·투자금융 5.6조···한투그룹과 '딜' - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T05:46:00Z",
-          "publishedAt": "2026-10-08T05:46:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026100810260242064"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 6
         },
         {
           "word": "금리",
@@ -294,7 +294,7 @@
         },
         {
           "word": "기업",
-          "count": 4
+          "count": 3
         },
         {
           "word": "공급망",
@@ -614,6 +614,18 @@
     "economy": {
       "items": [
         {
+          "id": "https://www.thehindu.com/news/international/eu-sends-envoy-to-beijing-as-rising-exports-from-china-raise-economic-anxiety/article71558543.ece",
+          "title": "EU sends envoy to Beijing as rising exports from China raise economic anxiety",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:32:00Z",
+          "publishedAt": "2026-10-08T06:32:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/international/eu-sends-envoy-to-beijing-as-rising-exports-from-china-raise-economic-anxiety/article71558543.ece"
+        },
+        {
           "id": "http://www.sydneysun.com/news/279358420/mitrade-appoints-veteran-brokerage-ceo-christopher-brankin-as-global-markets-advisor-global-macro-volatility-pushes-australian-interest-rates-to-15-year-highs",
           "title": "Mitrade Appoints Veteran Brokerage CEO Christopher Brankin as Global Markets Advisor; Global Macro Volatility Pushes Australian Interest Rates To 15-year Highs",
           "source": "sydneysun.com",
@@ -624,6 +636,18 @@
           "publishedAt": "2026-10-08T06:02:00Z",
           "summary": "",
           "url": "http://www.sydneysun.com/news/279358420/mitrade-appoints-veteran-brokerage-ceo-christopher-brankin-as-global-markets-advisor-global-macro-volatility-pushes-australian-interest-rates-to-15-year-highs"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/tech/technology/amazon-india-layoffs-pink-slips-handed-to-employees-across-retail-customer-service-functions/articleshow/134781923.cms",
+          "title": "Amazon india layoffs: Amazon India layoffs: Pink slips handed to employees across retail, customer service functions - The Economic Times",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:32:00Z",
+          "publishedAt": "2026-10-08T06:32:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/tech/technology/amazon-india-layoffs-pink-slips-handed-to-employees-across-retail-customer-service-functions/articleshow/134781923.cms"
         },
         {
           "id": "https://news.webindia123.com/news/Articles/Business/20261008/4508295.html",
@@ -708,40 +732,16 @@
           "publishedAt": "2026-10-08T02:02:00Z",
           "summary": "",
           "url": "https://www.canyon-news.com/nonfarm-payrolls-surprise-to-the-downside-where-can-unemployed-workers-find-new-investment-growth-opportunities/"
-        },
-        {
-          "id": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-sia-capitaland-investment",
-          "title": "Stocks to watch: SIA, CapitaLand Investment",
-          "source": "businesstimes.com.sg",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T02:01:00Z",
-          "publishedAt": "2026-10-08T02:01:00Z",
-          "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-sia-capitaland-investment"
-        },
-        {
-          "id": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth",
-          "title": "Bank of Canada governor warns new tariffs could cut fourth-quarter growth in half",
-          "source": "financialpost.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T01:47:00Z",
-          "publishedAt": "2026-10-08T01:47:00Z",
-          "summary": "",
-          "url": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 4
+          "count": 3
         },
         {
           "word": "투자",
-          "count": 4
+          "count": 3
         },
         {
           "word": "관세",
@@ -909,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4723,
-    "feedBytes": 1286917,
+    "fetchedItems": 5070,
+    "feedBytes": 1413270,
     "rollingWindowHours": 72
   }
 }
