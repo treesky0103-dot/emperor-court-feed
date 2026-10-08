@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 02:28:11",
+  "updatedAt": "2026. 10. 09. 오전 02:47:34",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 674,
-    "deduped": 674,
-    "eventDeduped": 674,
+    "passed": 669,
+    "deduped": 669,
+    "eventDeduped": 669,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -236,6 +236,18 @@
       "url": "https://www.huffingtonpost.kr:443/article/261098"
     },
     {
+      "id": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html",
+      "title": "‘10대’ 손예진과 ‘가짜’ 염혜란 사이…AI 배우, 어디까지 허용할까",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:32:00Z",
+      "publishedAt": "2026-10-08T17:32:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html"
+    },
+    {
       "id": "https://www.eejournal.com/industry_news/infineon-and-zuriq-deepen-partnership-to-advance-scalable-quantum-chips/",
       "title": "Infineon and ZuriQ deepen partnership to advance scalable quantum chips",
       "source": "eejournal.com",
@@ -258,18 +270,6 @@
       "publishedAt": "2026-10-08T15:47:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261008223551"
-    },
-    {
-      "id": "http://www.asiabulletin.com/news/279358979/ai-next-infrastructure-challenge-is-power-digitimes-examines-the-shift-toward-800vdc-data-centers",
-      "title": "AI's Next Infrastructure Challenge Is Power: DIGITIMES Examines the Shift Toward 800VDC Data Centers",
-      "source": "asiabulletin.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:01:00Z",
-      "publishedAt": "2026-10-08T15:01:00Z",
-      "summary": "",
-      "url": "http://www.asiabulletin.com/news/279358979/ai-next-infrastructure-challenge-is-power-digitimes-examines-the-shift-toward-800vdc-data-centers"
     },
     {
       "id": "https://www.fastmarkets.com/insights/volkswagen-deepens-gotion-partnership-with-european-battery-manufacturing-push/",
@@ -620,6 +620,18 @@
       "url": "https://www.yasstribune.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
     },
     {
+      "id": "https://www.helsinkitimes.fi/world-int/29366-russian-strike-kills-33-in-ukraine-as-drones-hit-yandex-data-centre.html",
+      "title": "Russian strike kills 33 in Ukraine as drones hit Yandex data centre",
+      "source": "helsinkitimes.fi",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:32:00Z",
+      "publishedAt": "2026-10-08T17:32:00Z",
+      "summary": "",
+      "url": "https://www.helsinkitimes.fi/world-int/29366-russian-strike-kills-33-in-ukraine-as-drones-hit-yandex-data-centre.html"
+    },
+    {
       "id": "https://cyprus-mail.com/2026/10/08/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike",
       "title": "Russia’s Yandex says unclear whether data centre can be restored after drone strike",
       "source": "cyprus-mail.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T09:47:00Z",
       "summary": "",
       "url": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/"
-    },
-    {
-      "id": "https://www.smh.com.au/topic/data-centres-6hqb",
-      "title": "Topic | Data centres | The Sydney Morning Herald",
-      "source": "smh.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T09:32:00Z",
-      "publishedAt": "2026-10-08T09:32:00Z",
-      "summary": "",
-      "url": "https://www.smh.com.au/topic/data-centres-6hqb"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6143,
-    "relevantItems": 147,
-    "feedBytes": 1751160,
+    "fetchedItems": 5791,
+    "relevantItems": 152,
+    "feedBytes": 1625001,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

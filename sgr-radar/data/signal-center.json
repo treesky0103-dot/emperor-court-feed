@@ -1,26 +1,12 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 02:28:19",
+  "updatedAt": "2026. 10. 09. 오전 02:47:42",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
-        {
-          "id": "https://www.mk.co.kr/news/economy/12171206",
-          "title": "이제 39세까지 청년 특례전세보증 받는다…신혼·양육가구는 한도 3억",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T10:16:29Z",
-          "publishedAt": "2026-10-08T10:16:29Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12171206",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
         {
           "id": "https://www.etnews.com/20261008000321",
           "title": "트럼프 행사 초청된 한국 창업자들… “다음 목표는 '동아시아 투자 교육 시장'”",
@@ -32,6 +18,32 @@
           "publishedAt": "2026-10-08T12:47:00Z",
           "summary": "",
           "url": "https://www.etnews.com/20261008000321"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/society/12171132",
+          "title": "미국투자이민, 유학생의 신분 문제 더 미루면 안 되는 이유",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T11:00:00Z",
+          "publishedAt": "2026-10-08T11:00:00Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12171132",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273771&CMPT_CD=M0153",
+          "title": "\"개 산책 알바도 170 대 1\"... 대한민국 청년들의 슬픈 현실",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:32:00Z",
+          "publishedAt": "2026-10-08T17:32:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273771&CMPT_CD=M0153"
         },
         {
           "id": "http://www.koreatimes.com/article/20261008/1633028",
@@ -116,18 +128,6 @@
           "publishedAt": "2026-10-08T11:32:00Z",
           "summary": "",
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1316106"
-        },
-        {
-          "id": "https://womannews.net/detail.php?number=456865&thread=22r12r01",
-          "title": "양주시, 민선9기 출범 100일…GTX-C·첨단산업·교육·의료 중심 자족도시 전환 추진",
-          "source": "womannews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:17:00Z",
-          "publishedAt": "2026-10-08T11:17:00Z",
-          "summary": "",
-          "url": "https://womannews.net/detail.php?number=456865&thread=22r12r01"
         }
       ],
       "keywords": [
@@ -137,14 +137,14 @@
         },
         {
           "word": "교육",
-          "count": 3
+          "count": 2
         },
         {
           "word": "복지",
           "count": 1
         },
         {
-          "word": "주거",
+          "word": "이민",
           "count": 1
         }
       ],
@@ -219,18 +219,6 @@
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078"
         },
         {
-          "id": "http://www.koreatimes.com/article/20261007/1632956",
-          "title": "7% 돌파 금리 또 급등… 주택시장 더 얼어붙나? - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T09:47:00Z",
-          "publishedAt": "2026-10-08T09:47:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261007/1632956"
-        },
-        {
           "id": "https://www.nspna.com/country/?mode=view&newsid=831155",
           "title": "[오늘의 정책 픽] 추미애 경기지사, 취임 100일 판교서 교통혁신 방향 제시…‘CARE’ 발표",
           "source": "nspna.com",
@@ -277,6 +265,18 @@
           "publishedAt": "2026-10-08T11:47:00Z",
           "summary": "",
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021080&code=11121100&sid1=pol"
+        },
+        {
+          "id": "https://www.hankookilbo.com/news/article/A2026100811230004067",
+          "title": "'우주 택배' 꿈꾸는 누리호, 발사 비용 낮추고 더 자주 쏴야-경제ㅣ한국일보",
+          "source": "hankookilbo.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:32:00Z",
+          "publishedAt": "2026-10-08T17:32:00Z",
+          "summary": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026100811230004067"
         }
       ],
       "keywords": [
@@ -287,10 +287,6 @@
         {
           "word": "기업",
           "count": 2
-        },
-        {
-          "word": "금리",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -374,18 +370,6 @@
           "url": "https://www.etoday.co.kr/news/view/2634063"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/marketing/1281572.html",
-          "title": "반도체 초호황인데 완제품은 적자…‘한 지붕 두 삼전’",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T09:47:00Z",
-          "publishedAt": "2026-10-08T09:47:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1281572.html"
-        },
-        {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078",
           "title": "‘AI 무인매장’ 기대주였는데…대기업·금융사가 투자한 인터마인즈 파산 앞과 뒤",
           "source": "ilyo.co.kr",
@@ -396,6 +380,18 @@
           "publishedAt": "2026-10-08T11:17:00Z",
           "summary": "",
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153",
+          "title": "\"AI 인류 장악 확률 33%\"... 이조차 낙관적이라는 연구원의 증언",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:32:00Z",
+          "publishedAt": "2026-10-08T17:32:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153"
         },
         {
           "id": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004",
@@ -425,11 +421,11 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 7
         },
         {
           "word": "반도체",
-          "count": 5
+          "count": 4
         },
         {
           "word": "데이터센터",
@@ -905,8 +901,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6143,
-    "feedBytes": 1751160,
+    "fetchedItems": 5791,
+    "feedBytes": 1625001,
     "rollingWindowHours": 72
   }
 }

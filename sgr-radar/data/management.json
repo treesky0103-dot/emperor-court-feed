@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 02:28:12",
+  "updatedAt": "2026. 10. 09. 오전 02:47:35",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 72,
-    "deduped": 72,
-    "eventDeduped": 72,
+    "passed": 75,
+    "deduped": 75,
+    "eventDeduped": 75,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -440,6 +440,18 @@
       "url": "https://www.design-reuse.com/news/202531250-vayavya-labs-and-tenstorrent-partner-to-accelerate-risc-v-hardware-and-software-development-through-virtual-platform-modeling/"
     },
     {
+      "id": "https://newsindiatimes.com/google-launches-universal-gemini-ai-agent-for-workplace/",
+      "title": "Google Launches ‘Universal’ Gemini AI Agent for Workplace - News India Times",
+      "source": "newsindiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:32:00Z",
+      "publishedAt": "2026-10-08T17:32:00Z",
+      "summary": "",
+      "url": "https://newsindiatimes.com/google-launches-universal-gemini-ai-agent-for-workplace/"
+    },
+    {
       "id": "http://www.europesun.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra",
       "title": "India can unlock AI gains by opening up enterprise data, says World Bank's Neelkanth Mishra",
       "source": "europesun.com",
@@ -596,18 +608,6 @@
       "url": "https://www.advanced-television.com/2026/10/08/report-ai-investment-not-driving-enterprise-performance/"
     },
     {
-      "id": "https://infotechlead.com/artificial-intelligence/claude-haiku-5-5-launches-with-lower-ai-costs-pricing-enterprise-uses-and-security-98702",
-      "title": "Claude Haiku 5.5 Launches With Lower AI Costs: Pricing, Enterprise Uses and Security - InfotechLead",
-      "source": "infotechlead.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T09:16:00Z",
-      "publishedAt": "2026-10-08T09:16:00Z",
-      "summary": "",
-      "url": "https://infotechlead.com/artificial-intelligence/claude-haiku-5-5-launches-with-lower-ai-costs-pricing-enterprise-uses-and-security-98702"
-    },
-    {
       "id": "https://deadline.com/2026/10/skydance-ynon-kreiz-labor-force-reduction-cost-savings-1237149888/",
       "title": "Skydance Co-CEO Ynon Kreiz Says Jobs Cuts Will Be Handled “Respectfully, Transparently” As Company Restructures",
       "source": "deadline.com",
@@ -630,6 +630,18 @@
       "publishedAt": "2026-10-08T14:16:00Z",
       "summary": "",
       "url": "https://www.moneycontrol.com/news/trends/amazon-layoff-to-impact-employees-in-india-uk-email-is-viral-these-decisions-weren-t-made-lightly-14047874.html"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-crowds-out-fresh-grads-at-wall-street-tech-hubs-in-india/articleshow/134781605.cms",
+      "title": "AI impacts on jobs: AI crowds out fresh grads at Wall Street tech hubs in India - The Economic Times",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:32:00Z",
+      "publishedAt": "2026-10-08T17:32:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-crowds-out-fresh-grads-at-wall-street-tech-hubs-in-india/articleshow/134781605.cms"
     },
     {
       "id": "https://bdnews24.com/technology/mimfpbdq7v",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T13:17:00Z",
       "summary": "",
       "url": "https://economictimes.indiatimes.com/news/international/us/jeff-bezos-says-ai-could-bring-a-3-day-work-week-so-why-is-amazon-cutting-jobs/articleshow/134790968.cms"
-    },
-    {
-      "id": "https://www.foxnews.com/live-news/ai-news-safety-detection-tech-10-08",
-      "title": "Fired OpenAI workers tell company about concern over losing AI systems' chain of thought",
-      "source": "foxnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T12:47:00Z",
-      "publishedAt": "2026-10-08T12:47:00Z",
-      "summary": "",
-      "url": "https://www.foxnews.com/live-news/ai-news-safety-detection-tech-10-08"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6143,
-    "relevantItems": 147,
-    "feedBytes": 1751160,
+    "fetchedItems": 5791,
+    "relevantItems": 152,
+    "feedBytes": 1625001,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
