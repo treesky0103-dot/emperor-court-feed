@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 04:47:08",
+  "updatedAt": "2026. 10. 09. 오전 05:01:51",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 676,
-    "deduped": 676,
-    "eventDeduped": 676,
+    "passed": 677,
+    "deduped": 677,
+    "eventDeduped": 677,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -704,18 +704,6 @@
       "url": "https://www.eteknix.com/borderless-gaming-brings-dlss-5-and-frame-generation-to-non-nvidia-gpus/"
     },
     {
-      "id": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-1080p-gaming-pc-for-less-than-usd1-000-right-now-fitted-with-nvidia-or-amd-gpus-save-up-to-usd350-to-secure-rigs-with-rtx-5060-or-rx-9060-gpus-at-low-prices",
-      "title": "Score a 1080p gaming PC for less than $1,000 right now, fitted with Nvidia or AMD GPUs — save up to $350 to secure rigs with RTX 5060 or RX 9060 GPUs at low prices",
-      "source": "tomshardware.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T11:31:00Z",
-      "publishedAt": "2026-10-08T11:31:00Z",
-      "summary": "",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-1080p-gaming-pc-for-less-than-usd1-000-right-now-fitted-with-nvidia-or-amd-gpus-save-up-to-usd350-to-secure-rigs-with-rtx-5060-or-rx-9060-gpus-at-low-prices"
-    },
-    {
       "id": "https://www.dailypolitical.com/2026/10/08/138545-shares-of-arqit-quantum-inc-arqq-bought-by-kessler-investment-group-llc.html",
       "title": "138,545 Shares of Arqit Quantum Inc. $ARQQ Bought by Kessler Investment Group LLC",
       "source": "dailypolitical.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T17:32:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html"
+    },
+    {
+      "id": "https://www.thehindu.com/news/cities/chennai/india-has-set-a-target-of-100-gw-of-wind-energy-capacity-by-2030-says-union-minister-pralhad-joshi/article71559273.ece",
+      "title": "India has set a target of 100 GW of wind energy capacity by 2030, says Union Minister Pralhad Joshi",
+      "source": "thehindu.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T19:46:00Z",
+      "publishedAt": "2026-10-08T19:46:00Z",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/chennai/india-has-set-a-target-of-100-gw-of-wind-energy-capacity-by-2030-says-union-minister-pralhad-joshi/article71559273.ece"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4979,
-    "relevantItems": 127,
-    "feedBytes": 1396205,
+    "fetchedItems": 4728,
+    "relevantItems": 131,
+    "feedBytes": 1306296,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
