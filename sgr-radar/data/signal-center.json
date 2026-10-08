@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 06:41:14",
+  "updatedAt": "2026. 10. 08. 오후 06:58:53",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -263,6 +263,18 @@
           "url": "https://www.anewsa.com/detail.php?number=3206091"
         },
         {
+          "id": "http://www.koreatimes.com/article/20261007/1632956",
+          "title": "7% 돌파 금리 또 급등… 주택시장 더 얼어붙나? - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T09:47:00Z",
+          "publishedAt": "2026-10-08T09:47:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261007/1632956"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2632884",
           "title": "금리도 못 꺾은 AI 랠리⋯엔비디아 6조달러 눈앞ㆍ머스크 조만장자 복귀 [금리 넘어선 AI 투자 열기]",
           "source": "etoday.co.kr",
@@ -273,28 +285,16 @@
           "publishedAt": "2026-10-08T07:46:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2632884"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261008001321",
-          "title": "미래에셋증권, 15일까지 개인투자용국채 10월 청약 시행",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T09:32:00Z",
-          "publishedAt": "2026-10-08T09:32:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261008001321"
         }
       ],
       "keywords": [
         {
-          "word": "투자",
-          "count": 7
+          "word": "금리",
+          "count": 6
         },
         {
-          "word": "금리",
-          "count": 5
+          "word": "투자",
+          "count": 6
         },
         {
           "word": "기업",
@@ -376,16 +376,30 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261008000293",
-          "title": "한컴, AWS와 손잡고 美 시장 공략…12월 AI 직원 플랫폼 '노마디안' 출시",
+          "id": "https://www.etnews.com/20261008000297",
+          "title": "KOSA, 한국벤처투자와 맞손…유망 AI·SW 기업 육성",
           "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:54:18Z",
+          "publishedAt": "2026-10-08T06:54:18Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000297",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/marketing/1281572.html",
+          "title": "반도체 초호황인데 완제품은 적자…‘한 지붕 두 삼전’",
+          "source": "hani.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:47:00Z",
-          "publishedAt": "2026-10-08T07:47:00Z",
+          "dateRaw": "2026-10-08T09:47:00Z",
+          "publishedAt": "2026-10-08T09:47:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000293"
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1281572.html"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2633981",
@@ -422,24 +436,12 @@
           "publishedAt": "2026-10-08T05:02:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261008000650"
-        },
-        {
-          "id": "https://kbench.com/?q=node/282142",
-          "title": "미디어텍, 구글북 겨냥 3나노 AI 칩 '디멘시티 CX C10 Max' 공개",
-          "source": "kbench.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T03:46:00Z",
-          "publishedAt": "2026-10-08T03:46:00Z",
-          "summary": "",
-          "url": "https://kbench.com/?q=node/282142"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 10
+          "count": 9
         },
         {
           "word": "GPU",
@@ -450,11 +452,11 @@
           "count": 3
         },
         {
-          "word": "로봇",
-          "count": 1
+          "word": "반도체",
+          "count": 2
         },
         {
-          "word": "반도체",
+          "word": "로봇",
           "count": 1
         },
         {
@@ -632,6 +634,30 @@
           "url": "http://www.australiannews.net/news/279358420/mitrade-appoints-veteran-brokerage-ceo-christopher-brankin-as-global-markets-advisor-global-macro-volatility-pushes-australian-interest-rates-to-15-year-highs"
         },
         {
+          "id": "https://aviationweek.com/mro/supply-chain/ontic-targets-repair-growth-15-million-uk-investment",
+          "title": "Ontic Targets Repair Growth With $15 Million UK Investment | Aviation Week",
+          "source": "aviationweek.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T09:47:00Z",
+          "publishedAt": "2026-10-08T09:47:00Z",
+          "summary": "",
+          "url": "https://aviationweek.com/mro/supply-chain/ontic-targets-repair-growth-15-million-uk-investment"
+        },
+        {
+          "id": "https://www.businesstimes.com.sg/opinion-features/take-some-pain-today-growth-tomorrow-why-policymakers-should-heed-imfs-call",
+          "title": "‘Take some pain today for growth tomorrow’: Why policymakers should heed IMF's call",
+          "source": "businesstimes.com.sg",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T09:47:00Z",
+          "publishedAt": "2026-10-08T09:47:00Z",
+          "summary": "",
+          "url": "https://www.businesstimes.com.sg/opinion-features/take-some-pain-today-growth-tomorrow-why-policymakers-should-heed-imfs-call"
+        },
+        {
           "id": "https://www.lemauricien.com/le-mauricien/world-banks-mauritius-country-growth-and-jobs-report-mauritius-cannot-afford-to-lose-its-people-and-import-its-future/719705/",
           "title": "World Bank’s Mauritius Country Growth and Jobs Report : Mauritius cannot afford to lose its people and import its future",
           "source": "lemauricien.com",
@@ -714,40 +740,16 @@
           "publishedAt": "2026-10-08T06:32:00Z",
           "summary": "",
           "url": "https://economictimes.indiatimes.com/tech/technology/amazon-india-layoffs-pink-slips-handed-to-employees-across-retail-customer-service-functions/articleshow/134781923.cms"
-        },
-        {
-          "id": "https://news.webindia123.com/news/Articles/Business/20261008/4508295.html",
-          "title": "Consumer staples revenue growth seen at 13% in Q2, margins face input-cost pressure: Report",
-          "source": "news.webindia123.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T06:02:00Z",
-          "publishedAt": "2026-10-08T06:02:00Z",
-          "summary": "",
-          "url": "https://news.webindia123.com/news/Articles/Business/20261008/4508295.html"
-        },
-        {
-          "id": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness",
-          "title": "PrairiesCan investments in defence-related projects will strengthen the Alberta economy and support Canada's military readiness",
-          "source": "torontotelegraph.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T05:47:00Z",
-          "publishedAt": "2026-10-08T05:47:00Z",
-          "summary": "",
-          "url": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 2
+          "count": 3
         },
         {
           "word": "투자",
-          "count": 2
+          "count": 3
         },
         {
           "word": "고용",
@@ -935,8 +937,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6174,
-    "feedBytes": 1717215,
+    "fetchedItems": 6473,
+    "feedBytes": 1837910,
     "rollingWindowHours": 72
   }
 }
