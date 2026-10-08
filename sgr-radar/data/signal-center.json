@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 03:25:00",
+  "updatedAt": "2026. 10. 09. 오전 03:49:45",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -118,16 +118,16 @@
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021073&code=11121400&sid1=pol"
         },
         {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1316106",
-          "title": "북, 이번엔 의료장비 지원 구상 맹비난…\"적대적 성격 결코 변할 수 없어\"",
-          "source": "newstomato.com",
+          "id": "https://www.etnews.com/20261008000398",
+          "title": "보트 타고 건너온 난민…4억짜리 집 받자마자, 이틀만에 미성년자 앞에서 성범죄",
+          "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:32:00Z",
-          "publishedAt": "2026-10-08T11:32:00Z",
+          "dateRaw": "2026-10-08T17:01:00Z",
+          "publishedAt": "2026-10-08T17:01:00Z",
           "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316106"
+          "url": "https://www.etnews.com/20261008000398"
         }
       ],
       "keywords": [
@@ -402,16 +402,16 @@
           "url": "https://www.dongascience.com:443/ko/news/72139"
         },
         {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1316130",
-          "title": "'반도체 날개'에 경상수지 신기록…석 달 연속 '400억달러' 돌파",
-          "source": "newstomato.com",
+          "id": "https://www.anewsa.com/detail.php?number=3206157",
+          "title": "'유가 담합 의혹' SK에너지, \"국민 여러분께 심려 끼쳐 송구\"",
+          "source": "anewsa.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:32:00Z",
-          "publishedAt": "2026-10-08T11:32:00Z",
+          "dateRaw": "2026-10-08T17:47:00Z",
+          "publishedAt": "2026-10-08T17:47:00Z",
           "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316130"
+          "url": "https://www.anewsa.com/detail.php?number=3206157"
         }
       ],
       "keywords": [
@@ -421,7 +421,7 @@
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 3
         },
         {
           "word": "데이터센터",
@@ -905,8 +905,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5584,
-    "feedBytes": 1572482,
+    "fetchedItems": 1017,
+    "feedBytes": 278554,
     "rollingWindowHours": 72
   }
 }
