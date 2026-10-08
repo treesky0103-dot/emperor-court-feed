@@ -8,9 +8,9 @@
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 77,
-    "deduped": 77,
-    "eventDeduped": 77,
+    "passed": 78,
+    "deduped": 78,
+    "eventDeduped": 78,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4067,
-    "relevantItems": 104,
-    "feedBytes": 1096527,
+    "fetchedItems": 3367,
+    "relevantItems": 77,
+    "feedBytes": 904793,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

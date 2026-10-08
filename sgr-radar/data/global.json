@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 01:37:53",
+  "updatedAt": "2026. 10. 08. 오후 01:55:45",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 154,
-    "deduped": 154,
-    "eventDeduped": 154,
+    "passed": 155,
+    "deduped": 155,
+    "eventDeduped": 155,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.newspim.com/news/view/20261008000103"
     },
     {
-      "id": "https://ianslive.in/well-be-out-of-iran-soon-oil-prices-will-come-down-like-a-rock-says-trump--20261008075403",
+      "id": "https://www.prokerala.com/news/articles/a1821750.html",
       "title": "We'll be out of Iran soon; oil prices will come down like a rock, says Trump",
-      "source": "ianslive.in",
+      "source": "prokerala.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T04:32:00Z",
-      "publishedAt": "2026-10-08T04:32:00Z",
+      "dateRaw": "2026-10-08T04:46:00Z",
+      "publishedAt": "2026-10-08T04:46:00Z",
       "summary": "",
-      "url": "https://ianslive.in/well-be-out-of-iran-soon-oil-prices-will-come-down-like-a-rock-says-trump--20261008075403"
+      "url": "https://www.prokerala.com/news/articles/a1821750.html"
     }
   ],
   "trendItems": [
@@ -356,16 +356,16 @@
       "url": "https://www.newspim.com/news/view/20261008000103"
     },
     {
-      "id": "https://ianslive.in/well-be-out-of-iran-soon-oil-prices-will-come-down-like-a-rock-says-trump--20261008075403",
+      "id": "https://www.prokerala.com/news/articles/a1821750.html",
       "title": "We'll be out of Iran soon; oil prices will come down like a rock, says Trump",
-      "source": "ianslive.in",
+      "source": "prokerala.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T04:32:00Z",
-      "publishedAt": "2026-10-08T04:32:00Z",
+      "dateRaw": "2026-10-08T04:46:00Z",
+      "publishedAt": "2026-10-08T04:46:00Z",
       "summary": "",
-      "url": "https://ianslive.in/well-be-out-of-iran-soon-oil-prices-will-come-down-like-a-rock-says-trump--20261008075403"
+      "url": "https://www.prokerala.com/news/articles/a1821750.html"
     },
     {
       "id": "http://www.calcuttanews.net/news/279358377/india-joins-us-13-economies-in-joint-statement-to-address-global-excess-capacity-after-g20-meeting",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4067,
-    "relevantItems": 104,
-    "feedBytes": 1096527,
+    "fetchedItems": 3367,
+    "relevantItems": 77,
+    "feedBytes": 904793,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

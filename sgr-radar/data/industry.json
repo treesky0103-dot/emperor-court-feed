@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 01:37:51",
+  "updatedAt": "2026. 10. 08. 오후 01:55:44",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 665,
-    "deduped": 665,
-    "eventDeduped": 665,
+    "passed": 671,
+    "deduped": 671,
+    "eventDeduped": 671,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -500,6 +500,18 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1099762/first-phosphate-advances-quebec-mine-to-battery-strategy-for-north-american-lfp-supply-chain.html"
     },
     {
+      "id": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina",
+      "title": "Duke Energy comes to an agreement on long-sought large load tariff for data centers in North Carolina",
+      "source": "wfae.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T04:46:00Z",
+      "publishedAt": "2026-10-08T04:46:00Z",
+      "summary": "",
+      "url": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina"
+    },
+    {
       "id": "https://www.roboticstomorrow.com/company_directory/zimmer-group-us-inc/11090",
       "title": "Industrial Automation, Robots and Unmanned Vehicles Company - Zimmer Group US, Inc. | RoboticsTomorrow",
       "source": "roboticstomorrow.com",
@@ -510,18 +522,6 @@
       "publishedAt": "2026-10-08T03:31:00Z",
       "summary": "",
       "url": "https://www.roboticstomorrow.com/company_directory/zimmer-group-us-inc/11090"
-    },
-    {
-      "id": "https://www.publicradioeast.org/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina",
-      "title": "Duke Energy comes to an agreement on long-sought large load tariff for data centers in North Carolina",
-      "source": "publicradioeast.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T03:31:00Z",
-      "publishedAt": "2026-10-08T03:31:00Z",
-      "summary": "",
-      "url": "https://www.publicradioeast.org/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina"
     },
     {
       "id": "https://www.koamnewsnow.com/news/local-news/tar-creek-conference-examines-nuclear-energy-and-data-centers-in-oklahoma/article_38a76749-f24b-4bec-a6ea-0b65b89d13e5.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4067,
-    "relevantItems": 104,
-    "feedBytes": 1096527,
+    "fetchedItems": 3367,
+    "relevantItems": 77,
+    "feedBytes": 904793,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
