@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 10:54:55",
+  "updatedAt": "2026. 10. 08. 오전 11:12:19",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 72,
-    "deduped": 72,
-    "eventDeduped": 72,
+    "passed": 74,
+    "deduped": 74,
+    "eventDeduped": 74,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -54,16 +54,28 @@
       "url": "https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/"
     },
     {
-      "id": "https://zdnet.co.kr/view/?no=20261008094203",
-      "title": "포르쉐, 9000명 감원·전 부문 비용 절감…수익성 방어 '고삐'",
-      "source": "zdnet.co.kr",
+      "id": "https://www.thehindubusinessline.com/news/amazon-cuts-jobs-in-stores-unit-as-latest-layoffs-affect-us-india-and-uk/article71558189.ece",
+      "title": "Amazon job cuts: Fewer than 1,000 workers affected in latest layoffs",
+      "source": "thehindubusinessline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T02:01:00Z",
+      "publishedAt": "2026-10-08T02:01:00Z",
+      "summary": "",
+      "url": "https://www.thehindubusinessline.com/news/amazon-cuts-jobs-in-stores-unit-as-latest-layoffs-affect-us-india-and-uk/article71558189.ece"
+    },
+    {
+      "id": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/",
+      "title": "‘정보 유출 사태’ 5대 은행장, 19일 금감원 국정감사 증인 소환",
+      "source": "biz.chosun.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:02:00Z",
-      "publishedAt": "2026-10-08T01:02:00Z",
+      "dateRaw": "2026-10-08T02:01:00Z",
+      "publishedAt": "2026-10-08T02:01:00Z",
       "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261008094203"
+      "url": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/"
     },
     {
       "id": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
@@ -76,18 +88,6 @@
       "publishedAt": "2026-10-07T23:02:00Z",
       "summary": "",
       "url": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/"
-    },
-    {
-      "id": "https://www.pressdemocrat.com/2026/10/07/economy-tech-jobs-workday-layoff-pleasanton-bay-area-meta-oracle-work/",
-      "title": "Pace of Bay Area tech layoffs slows as Workday reveals new job cuts",
-      "source": "pressdemocrat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:02:00Z",
-      "publishedAt": "2026-10-07T21:02:00Z",
-      "summary": "",
-      "url": "https://www.pressdemocrat.com/2026/10/07/economy-tech-jobs-workday-layoff-pleasanton-bay-area-meta-oracle-work/"
     },
     {
       "id": "https://natlawreview.com/article/four-new-california-laws-reshape-rules-workplace-ai",
@@ -176,6 +176,30 @@
       "url": "https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/"
     },
     {
+      "id": "https://www.thehindubusinessline.com/news/amazon-cuts-jobs-in-stores-unit-as-latest-layoffs-affect-us-india-and-uk/article71558189.ece",
+      "title": "Amazon job cuts: Fewer than 1,000 workers affected in latest layoffs",
+      "source": "thehindubusinessline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T02:01:00Z",
+      "publishedAt": "2026-10-08T02:01:00Z",
+      "summary": "",
+      "url": "https://www.thehindubusinessline.com/news/amazon-cuts-jobs-in-stores-unit-as-latest-layoffs-affect-us-india-and-uk/article71558189.ece"
+    },
+    {
+      "id": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/",
+      "title": "‘정보 유출 사태’ 5대 은행장, 19일 금감원 국정감사 증인 소환",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T02:01:00Z",
+      "publishedAt": "2026-10-08T02:01:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/"
+    },
+    {
       "id": "https://zdnet.co.kr/view/?no=20261008094203",
       "title": "포르쉐, 9000명 감원·전 부문 비용 절감…수익성 방어 '고삐'",
       "source": "zdnet.co.kr",
@@ -210,6 +234,18 @@
       "publishedAt": "2026-10-07T21:02:00Z",
       "summary": "",
       "url": "https://www.pressdemocrat.com/2026/10/07/economy-tech-jobs-workday-layoff-pleasanton-bay-area-meta-oracle-work/"
+    },
+    {
+      "id": "https://www.bostonglobe.com/2026/10/07/business/ai-boston-ptc-amazon-hubspot/",
+      "title": "AI is upending Boston-area tech businesses, amid buyouts and job cuts - The Boston Globe",
+      "source": "bostonglobe.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T02:02:00Z",
+      "publishedAt": "2026-10-08T02:02:00Z",
+      "summary": "",
+      "url": "https://www.bostonglobe.com/2026/10/07/business/ai-boston-ptc-amazon-hubspot/"
     },
     {
       "id": "https://natlawreview.com/article/four-new-california-laws-reshape-rules-workplace-ai",
@@ -260,30 +296,6 @@
       "url": "https://www.daltonsbusiness.com/listing/unique-subscription-business-model-with-18000-for-sale-DB2502039/"
     },
     {
-      "id": "https://www.livemint.com/companies/news/hsbc-layoffs-bank-to-cut-half-of-uk-wealth-management-jobs-as-ai-use-expands-11791394722537.html",
-      "title": "HSBC Layoffs: Bank to cut half of UK wealth management jobs as AI use expands | Company Business News",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T18:31:00Z",
-      "publishedAt": "2026-10-07T18:31:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/companies/news/hsbc-layoffs-bank-to-cut-half-of-uk-wealth-management-jobs-as-ai-use-expands-11791394722537.html"
-    },
-    {
-      "id": "https://www.ibtimes.co.uk/hubspot-cuts-660-jobs-ai-restructure-1824190",
-      "title": "HubSpot Axes 660 Jobs as AI Reshapes Company, Despite CEO Denying AI Is Behind Layoffs",
-      "source": "ibtimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T18:31:00Z",
-      "publishedAt": "2026-10-07T18:31:00Z",
-      "summary": "",
-      "url": "https://www.ibtimes.co.uk/hubspot-cuts-660-jobs-ai-restructure-1824190"
-    },
-    {
       "id": "https://itbrief.co.nz/story/avanade-urges-firms-to-use-ai-to-remake-business-models",
       "title": "Avanade urges firms to use AI to remake business models",
       "source": "itbrief.co.nz",
@@ -318,18 +330,6 @@
       "publishedAt": "2026-10-08T01:47:00Z",
       "summary": "",
       "url": "https://newsway.co.kr/news/view?ud=2026100618294705720"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261008000322",
-      "title": "금감원 \"직원 실수로 해지된 아들 예탁금 5000만원, 금융회사가 돌려줘야\"",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:47:00Z",
-      "publishedAt": "2026-10-08T01:47:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261008000322"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02194326645610952&mediaCodeNo=257",
@@ -704,18 +704,6 @@
       "url": "https://www.crn.com/news/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexone-2026"
     },
     {
-      "id": "https://www.walb.com/2026/10/06/how-you-can-prepare-ai-workforce/",
-      "title": "How you can prepare for AI in the workforce",
-      "source": "walb.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T16:32:00Z",
-      "publishedAt": "2026-10-07T16:32:00Z",
-      "summary": "",
-      "url": "https://www.walb.com/2026/10/06/how-you-can-prepare-ai-workforce/"
-    },
-    {
       "id": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/",
       "title": "Starbucks lays off 51 retail and corporate employees in Washington",
       "source": "columbian.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T01:02:00Z",
       "summary": "",
       "url": "https://www.bankinfosecurity.com/whitepapers/78-organizations-have-already-seen-ai-enabled-attacks-are-defenses-w-16778"
+    },
+    {
+      "id": "https://digg.com/gaming/9zbc89qe",
+      "title": "The Coalition addresses reported layoff fears and expects a faster next Gears game · Digg",
+      "source": "digg.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T00:46:00Z",
+      "publishedAt": "2026-10-08T00:46:00Z",
+      "summary": "",
+      "url": "https://digg.com/gaming/9zbc89qe"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3081,
-    "relevantItems": 103,
-    "feedBytes": 810650,
+    "fetchedItems": 3195,
+    "relevantItems": 111,
+    "feedBytes": 830472,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
