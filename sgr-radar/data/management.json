@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 06:19:12",
+  "updatedAt": "2026. 10. 08. 오후 06:41:07",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 81,
-    "deduped": 81,
-    "eventDeduped": 81,
+    "passed": 85,
+    "deduped": 85,
+    "eventDeduped": 85,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,6 +42,18 @@
       "url": "https://www.miragenews.com/deloitte-india-avolution-partner-on-enterprise-1756726/"
     },
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=06159846645610952&mediaCodeNo=257",
+      "title": "서울교통공사 제3노조 \"인력감축 전 불필요한 운영비부터 검토해야\"",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T09:32:00Z",
+      "publishedAt": "2026-10-08T09:32:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=06159846645610952&mediaCodeNo=257"
+    },
+    {
       "id": "http://www.indiagazette.com/news/279359277/30-organisations-report-voice-ai-adoption-drives-revenue-gains-and-global-expansion-for-indian-enterprises-nasscom-krisp-report",
       "title": "30% organisations report Voice AI adoption drives revenue gains and global expansion for Indian enterprises: Nasscom-Krisp Report",
       "source": "indiagazette.com",
@@ -66,30 +78,6 @@
       "url": "https://www.thehindubusinessline.com/news/amazon-cuts-jobs-in-stores-unit-as-latest-layoffs-affect-us-india-and-uk/article71558189.ece"
     },
     {
-      "id": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/",
-      "title": "‘정보 유출 사태’ 5대 은행장, 19일 금감원 국정감사 증인 소환",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T02:01:00Z",
-      "publishedAt": "2026-10-08T02:01:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=04145926645610952&mediaCodeNo=257",
-      "title": "상호금융 조합 절반이 적자…\"비즈니스 모델 고민 중\"",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T06:31:00Z",
-      "publishedAt": "2026-10-08T06:31:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04145926645610952&mediaCodeNo=257"
-    },
-    {
       "id": "https://www.etnews.com/20261008000293",
       "title": "한컴, AWS와 손잡고 美 시장 공략…12월 AI 직원 플랫폼 '노마디안' 출시",
       "source": "etnews.com",
@@ -100,6 +88,18 @@
       "publishedAt": "2026-10-08T07:47:00Z",
       "summary": "",
       "url": "https://www.etnews.com/20261008000293"
+    },
+    {
+      "id": "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/",
+      "title": "금융권 ‘보안 사각지대’ 파고든 AI… “자동화로 해킹 규모·속도 키워”",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T05:31:00Z",
+      "publishedAt": "2026-10-08T05:31:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261008130745",
@@ -162,6 +162,18 @@
       "publishedAt": "2026-10-08T03:01:00Z",
       "summary": "",
       "url": "https://www.miragenews.com/deloitte-india-avolution-partner-on-enterprise-1756726/"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=06159846645610952&mediaCodeNo=257",
+      "title": "서울교통공사 제3노조 \"인력감축 전 불필요한 운영비부터 검토해야\"",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T09:32:00Z",
+      "publishedAt": "2026-10-08T09:32:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=06159846645610952&mediaCodeNo=257"
     },
     {
       "id": "http://www.indiagazette.com/news/279359277/30-organisations-report-voice-ai-adoption-drives-revenue-gains-and-global-expansion-for-indian-enterprises-nasscom-krisp-report",
@@ -308,18 +320,6 @@
       "url": "https://winetitles.com.au/twe-cuts-170-jobs-as-new-operating-model-comes-into-effect/"
     },
     {
-      "id": "https://www.bostonglobe.com/2026/10/07/business/ai-boston-ptc-amazon-hubspot/",
-      "title": "AI is upending Boston-area tech businesses, amid buyouts and job cuts - The Boston Globe",
-      "source": "bostonglobe.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T02:02:00Z",
-      "publishedAt": "2026-10-08T02:02:00Z",
-      "summary": "",
-      "url": "https://www.bostonglobe.com/2026/10/07/business/ai-boston-ptc-amazon-hubspot/"
-    },
-    {
       "id": "https://www.hani.co.kr/arti/international/china/1281509.html",
       "title": "중, 대유럽 하이브리드차 수출 제한 거부…EU ‘세이프가드’ 꺼내나",
       "source": "hani.co.kr",
@@ -428,6 +428,18 @@
       "url": "https://autonews.gasgoo.com/articles/news/2108033462241284096"
     },
     {
+      "id": "https://www.design-reuse.com/news/202531250-vayavya-labs-and-tenstorrent-partner-to-accelerate-risc-v-hardware-and-software-development-through-virtual-platform-modeling/",
+      "title": "Vayavya Labs and Tenstorrent Partner to Accelerate RISC-V Hardware and Software Development Through Virtual Platform Modeling",
+      "source": "design-reuse.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T09:31:00Z",
+      "publishedAt": "2026-10-08T09:31:00Z",
+      "summary": "",
+      "url": "https://www.design-reuse.com/news/202531250-vayavya-labs-and-tenstorrent-partner-to-accelerate-risc-v-hardware-and-software-development-through-virtual-platform-modeling/"
+    },
+    {
       "id": "https://biz.heraldcorp.com/article/10897313",
       "title": "울산시, 지역 중소기업 인공지능 대전환 가속화",
       "source": "biz.heraldcorp.com",
@@ -474,6 +486,30 @@
       "publishedAt": "2026-10-08T01:02:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026100809120009460"
+    },
+    {
+      "id": "https://econews.com.au/logitech-unveils-its-biggest-enterprise-launch-ever-more-power-more-future-proofed-rooms-for-the-ai-revolution/",
+      "title": "Logitech Unveils Its Biggest Enterprise Launch Ever: More Power, More Future-Proofed Rooms for the AI Revolution | Empower Stories | Build Authority - Drive Impact",
+      "source": "econews.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T09:32:00Z",
+      "publishedAt": "2026-10-08T09:32:00Z",
+      "summary": "",
+      "url": "https://econews.com.au/logitech-unveils-its-biggest-enterprise-launch-ever-more-power-more-future-proofed-rooms-for-the-ai-revolution/"
+    },
+    {
+      "id": "https://www.advanced-television.com/2026/10/08/report-ai-investment-not-driving-enterprise-performance/",
+      "title": "Report: AI investment not driving enterprise performance",
+      "source": "advanced-television.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T09:32:00Z",
+      "publishedAt": "2026-10-08T09:32:00Z",
+      "summary": "",
+      "url": "https://www.advanced-television.com/2026/10/08/report-ai-investment-not-driving-enterprise-performance/"
     },
     {
       "id": "https://infotechlead.com/artificial-intelligence/claude-haiku-5-5-launches-with-lower-ai-costs-pricing-enterprise-uses-and-security-98702",
@@ -702,51 +738,15 @@
       "publishedAt": "2026-10-08T04:01:00Z",
       "summary": "",
       "url": "https://www.mamamia.com.au/menopause-marriage-shift/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/technology/tech-news/hubspot-one-of-the-uks-biggest-technology-companies-is-cutting-hundreds-of-jobs-ceo-in-layoff-email-to-employees-i-want-to-make-it-clear-that-/articleshow/134777875.cms",
-      "title": "HubSpot, one of the UK's biggest technology companies, is cutting hundreds of jobs; CEO in 'layoff email' to employees: I want to make it clear that ...",
-      "source": "timesofindia.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T03:01:00Z",
-      "publishedAt": "2026-10-08T03:01:00Z",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/hubspot-one-of-the-uks-biggest-technology-companies-is-cutting-hundreds-of-jobs-ceo-in-layoff-email-to-employees-i-want-to-make-it-clear-that-/articleshow/134777875.cms"
-    },
-    {
-      "id": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/",
-      "title": "Starbucks lays off 51 retail and corporate employees in Washington",
-      "source": "columbian.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:47:00Z",
-      "publishedAt": "2026-10-08T01:47:00Z",
-      "summary": "",
-      "url": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/"
-    },
-    {
-      "id": "https://www.bankinfosecurity.com/whitepapers/78-organizations-have-already-seen-ai-enabled-attacks-are-defenses-w-16778",
-      "title": "78% of Organizations Have Already Seen AI-Enabled Attacks. Are Defenses Keeping Up?",
-      "source": "bankinfosecurity.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:02:00Z",
-      "publishedAt": "2026-10-08T01:02:00Z",
-      "summary": "",
-      "url": "https://www.bankinfosecurity.com/whitepapers/78-organizations-have-already-seen-ai-enabled-attacks-are-defenses-w-16778"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3406,
-    "relevantItems": 75,
-    "feedBytes": 962715,
+    "fetchedItems": 6174,
+    "relevantItems": 122,
+    "feedBytes": 1717215,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
