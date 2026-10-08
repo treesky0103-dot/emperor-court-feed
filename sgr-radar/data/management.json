@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 02:36:33",
+  "updatedAt": "2026. 10. 08. 오후 02:54:32",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 76,
-    "deduped": 76,
-    "eventDeduped": 76,
+    "passed": 75,
+    "deduped": 75,
+    "eventDeduped": 75,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -330,30 +330,6 @@
       "publishedAt": "2026-10-07T23:17:00Z",
       "summary": "",
       "url": "https://natlawreview.com/article/four-new-california-laws-reshape-rules-workplace-ai"
-    },
-    {
-      "id": "https://asia.nikkei.com/business/finance/japan-bank-to-connect-small-businesses-with-us-ai-developers",
-      "title": "Japan bank to connect small businesses with US AI developers",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:32:00Z",
-      "publishedAt": "2026-10-07T20:32:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-bank-to-connect-small-businesses-with-us-ai-developers"
-    },
-    {
-      "id": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance",
-      "title": "HPE’s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance",
-      "source": "datacenterknowledge.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:17:00Z",
-      "publishedAt": "2026-10-07T20:17:00Z",
-      "summary": "",
-      "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026100618294705720",
@@ -680,18 +656,6 @@
       "url": "https://ventureburn.com/nous-research-raises-90-million-scale-hermes-enterprise-ai/"
     },
     {
-      "id": "https://www.govinfosecurity.com/webinars/live-webinar-identity-imperative-securing-enterprise-in-age-ai-driven-w-7416",
-      "title": "Live Webinar | The Identity Imperative: Securing the Enterprise in the Age of AI-Driven Risk",
-      "source": "govinfosecurity.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T20:17:00Z",
-      "publishedAt": "2026-10-07T20:17:00Z",
-      "summary": "",
-      "url": "https://www.govinfosecurity.com/webinars/live-webinar-identity-imperative-securing-enterprise-in-age-ai-driven-w-7416"
-    },
-    {
       "id": "https://www.mamamia.com.au/menopause-marriage-shift/",
       "title": "'Nobody told me about the way menopause restructures marriage. Here's what I wish I knew then.'",
       "source": "mamamia.com.au",
@@ -738,15 +702,51 @@
       "publishedAt": "2026-10-08T01:02:00Z",
       "summary": "",
       "url": "https://www.bankinfosecurity.com/whitepapers/78-organizations-have-already-seen-ai-enabled-attacks-are-defenses-w-16778"
+    },
+    {
+      "id": "https://digg.com/gaming/9zbc89qe",
+      "title": "The Coalition addresses reported layoff fears and expects a faster next Gears game · Digg",
+      "source": "digg.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T00:46:00Z",
+      "publishedAt": "2026-10-08T00:46:00Z",
+      "summary": "",
+      "url": "https://digg.com/gaming/9zbc89qe"
+    },
+    {
+      "id": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+      "title": "Gravity Well lays off more than 40 developers after losing its funding",
+      "source": "gamesindustry.biz",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T00:17:00Z",
+      "publishedAt": "2026-10-08T00:17:00Z",
+      "summary": "",
+      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
+    },
+    {
+      "id": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/",
+      "title": "Castle Park in Riverside lays off more than 100 employees during makeover",
+      "source": "sgvtribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T21:47:00Z",
+      "publishedAt": "2026-10-07T21:47:00Z",
+      "summary": "",
+      "url": "https://www.sgvtribune.com/2026/10/07/castle-park-lays-off-more-than-100-employees-during-makeover/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4410,
-    "relevantItems": 117,
-    "feedBytes": 1219621,
+    "fetchedItems": 4273,
+    "relevantItems": 107,
+    "feedBytes": 1186792,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

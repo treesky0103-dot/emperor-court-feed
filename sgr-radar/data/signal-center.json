@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 02:36:39",
+  "updatedAt": "2026. 10. 08. 오후 02:54:38",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/economy/12171206",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261008000882",
+          "title": "국회 복지위, 지역 거점 국립대학병원에 대한 국정감사",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T05:46:00Z",
+          "publishedAt": "2026-10-08T05:46:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261008000882"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03621126645610952&mediaCodeNo=257",
@@ -96,18 +108,6 @@
           "url": "https://womannews.net/detail.php?number=456791&thread=22r03r01%20style="
         },
         {
-          "id": "https://www.newspim.com/news/view/20261008000598",
-          "title": "'취임 100일' 구자열 원주시장…생활비 낮추고 의료AI로 성장동력 확보",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T05:01:00Z",
-          "publishedAt": "2026-10-08T05:01:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261008000598"
-        },
-        {
           "id": "https://biz.heraldcorp.com/article/10896930",
           "title": "구자열 원주시장, 서원주에 판교에 버금가는 미래 의료산업 거점 조성",
           "source": "biz.heraldcorp.com",
@@ -135,7 +135,11 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
+        },
+        {
+          "word": "복지",
+          "count": 1
         },
         {
           "word": "주거",
@@ -207,6 +211,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1281474.html",
+          "title": "‘조각 투자’ 토큰화 흐름에…IMF “금융 변혁 일으킬 잠재력 있다”",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T05:47:00Z",
+          "publishedAt": "2026-10-08T05:47:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1281474.html"
+        },
+        {
           "id": "https://biz.chosun.com/international/international_general/2026/10/08/GOH2CGQSNBENLEB6UVCYAX3OUU/",
           "title": "외교부 “경유·항공유 대러 수출통제 품목 아냐… 선적 경위 확인”",
           "source": "biz.chosun.com",
@@ -217,18 +233,6 @@
           "publishedAt": "2026-10-08T02:02:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/international/international_general/2026/10/08/GOH2CGQSNBENLEB6UVCYAX3OUU/"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/consumer/1281454.html",
-          "title": "[단독] 스벅 상품권·선불카드 소비자 상담, ‘탱크데이’ 논란 때 급증",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T02:46:00Z",
-          "publishedAt": "2026-10-08T02:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/consumer/1281454.html"
         },
         {
           "id": "https://www.newspim.com/news/view/20261008000103",
@@ -255,6 +259,18 @@
           "url": "https://biz.heraldcorp.com/article/10896306"
         },
         {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026100810260242064",
+          "title": "현대커머셜, 기업·투자금융 5.6조···한투그룹과 '딜' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T05:46:00Z",
+          "publishedAt": "2026-10-08T05:46:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100810260242064"
+        },
+        {
           "id": "http://inews24.com/view/2013022",
           "title": "기업은행, 금융사고 전력 기업 前 사장에 94억 투자·대출",
           "source": "inews24.com",
@@ -265,27 +281,15 @@
           "publishedAt": "2026-10-08T02:46:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2013022"
-        },
-        {
-          "id": "https://newsway.co.kr/news/view?ud=2026100810260242064",
-          "title": "현대커머셜, 기업·투자금융 5.6조···한투그룹과 '딜' - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T01:47:00Z",
-          "publishedAt": "2026-10-08T01:47:00Z",
-          "summary": "",
-          "url": "https://newsway.co.kr/news/view?ud=2026100810260242064"
         }
       ],
       "keywords": [
         {
-          "word": "기업",
-          "count": 6
+          "word": "투자",
+          "count": 7
         },
         {
-          "word": "투자",
+          "word": "기업",
           "count": 6
         },
         {
@@ -294,10 +298,6 @@
         },
         {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "소비",
           "count": 1
         },
         {
@@ -311,6 +311,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/business/12171501",
+          "title": "SK하이닉스, ‘AI 환경연구소’ 신설…반도체 녹색전환 주도한다",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T14:49:58Z",
+          "publishedAt": "2026-10-08T14:49:58Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12171501",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03778566645610952&mediaCodeNo=257",
           "title": "국산 AI 반도체, 누리호 타고 우주로…모빌린트 NPU 첫 탑재",
@@ -350,20 +364,6 @@
           "url": "https://www.etnews.com/20261008000047",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/society/12171325",
-          "title": "AI 잘 쓰면 연간 4000만원 더 번다…대형 로펌 ‘AI 독자 플랫폼’ 총력전",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:24:07Z",
-          "publishedAt": "2026-10-08T11:24:07Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12171325",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         },
         {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/",
@@ -441,11 +441,11 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 11
+          "count": 10
         },
         {
           "word": "반도체",
-          "count": 3
+          "count": 4
         },
         {
           "word": "데이터센터",
@@ -626,6 +626,18 @@
           "url": "http://www.vietnamtribune.com/news/279358420/mitrade-appoints-veteran-brokerage-ceo-christopher-brankin-as-global-markets-advisor-global-macro-volatility-pushes-australian-interest-rates-to-15-year-highs"
         },
         {
+          "id": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness",
+          "title": "PrairiesCan investments in defence-related projects will strengthen the Alberta economy and support Canada's military readiness",
+          "source": "torontotelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T05:47:00Z",
+          "publishedAt": "2026-10-08T05:47:00Z",
+          "summary": "",
+          "url": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness"
+        },
+        {
           "id": "http://www.indiagazette.com/news/279358907/consumer-staples-revenue-growth-seen-at-13-in-q2-margins-face-input-cost-pressure-report",
           "title": "Consumer staples revenue growth seen at 13% in Q2, margins face input-cost pressure: Report",
           "source": "indiagazette.com",
@@ -720,18 +732,6 @@
           "publishedAt": "2026-10-08T01:47:00Z",
           "summary": "",
           "url": "https://financialpost.com/news/economy/bank-of-canada-warns-tariffs-slash-fourth-quarter-growth"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261008000051",
-          "title": "[채권/외환] 美 국채금리 24년 만에 최고 찍고 반락…프랑스 재정 불안에 유로화 급락",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T23:47:00Z",
-          "publishedAt": "2026-10-07T23:47:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261008000051"
         }
       ],
       "keywords": [
@@ -744,11 +744,11 @@
           "count": 4
         },
         {
-          "word": "금리",
-          "count": 2
+          "word": "관세",
+          "count": 1
         },
         {
-          "word": "관세",
+          "word": "금리",
           "count": 1
         },
         {
@@ -763,28 +763,28 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.redandblack.com/athensnews/local-candidates-talk-data-centers-energy-policy-at-environmental-forum/article_ac1cb3dd-67ea-4c44-bde3-1fd947d810b6.html",
-          "title": "Local candidates talk data centers, energy policy at environmental forum",
-          "source": "redandblack.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T22:02:00Z",
-          "publishedAt": "2026-10-07T22:02:00Z",
-          "summary": "",
-          "url": "https://www.redandblack.com/athensnews/local-candidates-talk-data-centers-energy-policy-at-environmental-forum/article_ac1cb3dd-67ea-4c44-bde3-1fd947d810b6.html"
-        },
-        {
-          "id": "https://www.edenmagnet.com.au/story/9364636/data-centre-operators-on-board-with-energy-rules/",
+          "id": "https://www.manningrivertimes.com.au/story/9364636/data-centre-operators-on-board-with-energy-rules/",
           "title": "Data centre operators 'on board' with energy rules",
-          "source": "edenmagnet.com.au",
+          "source": "manningrivertimes.com.au",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T05:31:00Z",
-          "publishedAt": "2026-10-08T05:31:00Z",
+          "dateRaw": "2026-10-08T05:46:00Z",
+          "publishedAt": "2026-10-08T05:46:00Z",
           "summary": "",
-          "url": "https://www.edenmagnet.com.au/story/9364636/data-centre-operators-on-board-with-energy-rules/"
+          "url": "https://www.manningrivertimes.com.au/story/9364636/data-centre-operators-on-board-with-energy-rules/"
+        },
+        {
+          "id": "https://www.businesstimes.com.sg/companies-markets/reinvented-pc-microsoft-says-new-laptop-nvidia-chip-outperforms-macbooks-ai-tasks",
+          "title": "‘Reinvented’ PC: Microsoft says new laptop with Nvidia chip outperforms MacBooks on AI tasks",
+          "source": "businesstimes.com.sg",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T05:46:00Z",
+          "publishedAt": "2026-10-08T05:46:00Z",
+          "summary": "",
+          "url": "https://www.businesstimes.com.sg/companies-markets/reinvented-pc-microsoft-says-new-laptop-nvidia-chip-outperforms-macbooks-ai-tasks"
         },
         {
           "id": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina",
@@ -797,18 +797,6 @@
           "publishedAt": "2026-10-08T04:46:00Z",
           "summary": "",
           "url": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina"
-        },
-        {
-          "id": "https://www.businesstimes.com.sg/companies-markets/samsung-reaches-new-profit-record-memory-chip-windfall",
-          "title": "Samsung reaches new profit record with memory chip windfall",
-          "source": "businesstimes.com.sg",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T02:02:00Z",
-          "publishedAt": "2026-10-08T02:02:00Z",
-          "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/samsung-reaches-new-profit-record-memory-chip-windfall"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026100806410674574",
@@ -881,19 +869,35 @@
           "publishedAt": "2026-10-08T01:47:00Z",
           "summary": "",
           "url": "https://financialpost.com/news/canada-could-be-data-centre-superpower-report"
+        },
+        {
+          "id": "http://www.torontotelegraph.com/news/279358192/minister-joly-to-announce-new-investment-in-canada-radiopharmaceutical-manufacturing-sector",
+          "title": "Minister Joly to announce new investment in Canada's radiopharmaceutical manufacturing sector",
+          "source": "torontotelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T01:02:00Z",
+          "publishedAt": "2026-10-08T01:02:00Z",
+          "summary": "",
+          "url": "http://www.torontotelegraph.com/news/279358192/minister-joly-to-announce-new-investment-in-canada-radiopharmaceutical-manufacturing-sector"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "데이터센터",
-          "count": 3
+          "count": 2
         },
         {
           "word": "반도체",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         },
         {
@@ -909,8 +913,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4410,
-    "feedBytes": 1219621,
+    "fetchedItems": 4273,
+    "feedBytes": 1186792,
     "rollingWindowHours": 72
   }
 }
