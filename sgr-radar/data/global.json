@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 04:07:10",
+  "updatedAt": "2026. 10. 08. 오후 04:29:39",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 153,
-    "deduped": 153,
-    "eventDeduped": 153,
+    "passed": 152,
+    "deduped": 152,
+    "eventDeduped": 152,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -464,6 +464,18 @@
       "url": "https://www.hellenicshippingnews.com/trump-ties-tariff-cuts-to-s-koreas-150-billion-shipbuilding-investment/"
     },
     {
+      "id": "https://www.etoday.co.kr/news/view/2633967",
+      "title": "한은 \"토큰화 확산 따른 유동성 분절 우려⋯중앙은행 공급체계 설계해야\"",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T07:17:00Z",
+      "publishedAt": "2026-10-08T07:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2633967"
+    },
+    {
       "id": "https://www.hindustantimes.com/india-news/hindi-on-government-medicine-packets-sparks-row-in-tamil-nadu-dmk-tvk-trade-barbs-101791435528892.html",
       "title": "Hindi on government medicine packets sparks row in Tamil Nadu; DMK, TVK trade barbs",
       "source": "hindustantimes.com",
@@ -572,18 +584,6 @@
       "url": "https://www.mumbrella.asia/2026/10/china-urges-france-and-germany-to.html"
     },
     {
-      "id": "https://slguardian.org/european-parliament-hardens-china-policy-as-trade-and-security-tensions-deepen/",
-      "title": "European Parliament Hardens China Policy as Trade and Security Tensions Deepen",
-      "source": "slguardian.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:32:00Z",
-      "publishedAt": "2026-10-07T21:32:00Z",
-      "summary": "",
-      "url": "https://slguardian.org/european-parliament-hardens-china-policy-as-trade-and-security-tensions-deepen/"
-    },
-    {
       "id": "http://inews24.com/view/2012946",
       "title": "IEA 비축유 방출 속도 높이기로⋯국제유가 하락",
       "source": "inews24.com",
@@ -594,18 +594,6 @@
       "publishedAt": "2026-10-07T22:17:00Z",
       "summary": "",
       "url": "http://inews24.com/view/2012946"
-    },
-    {
-      "id": "https://www.forbes.ro/dan-andrei-muraru-romanias-ambassador-to-the-us-at-forbes-business-bridges-2026-the-stock-of-us-foreign-direct-investment-in-romania-has-exceeded-9-billion-524828",
-      "title": "Dan-Andrei Muraru, Romania's Ambassador to the US, at Forbes România Business Bridges 2026: \"The stock of US foreign direct investment in Romania has exceeded $9 billion\" - Forbes.ro",
-      "source": "forbes.ro",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T21:47:00Z",
-      "publishedAt": "2026-10-07T21:47:00Z",
-      "summary": "",
-      "url": "https://www.forbes.ro/dan-andrei-muraru-romanias-ambassador-to-the-us-at-forbes-business-bridges-2026-the-stock-of-us-foreign-direct-investment-in-romania-has-exceeded-9-billion-524828"
     },
     {
       "id": "https://biz.chosun.com/topics/topics_social/2026/10/08/ZGNXOXDKQ5HD5FJC2YXLCGBKOI/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-07T23:32:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/international/international_general/2026/10/08/UMS6AFKW4VBBDM2FWZPOW66FGU/"
+    },
+    {
+      "id": "https://biz.chosun.com/international/international_general/2026/10/08/UJNKPT7MCFE5DMUAWQYW7ADOAU/",
+      "title": "뉴욕증시, 국채금리 급등에 하락 마감… S&P500·나스닥 최고치서 ↓",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-07",
+      "dateRaw": "2026-10-07T23:31:00Z",
+      "publishedAt": "2026-10-07T23:31:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/international/international_general/2026/10/08/UJNKPT7MCFE5DMUAWQYW7ADOAU/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4945,
-    "relevantItems": 130,
-    "feedBytes": 1360737,
+    "fetchedItems": 4489,
+    "relevantItems": 111,
+    "feedBytes": 1239912,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
