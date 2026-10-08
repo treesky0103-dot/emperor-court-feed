@@ -2,33 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 12:40:51",
+  "updatedAt": "2026. 10. 09. 오전 12:59:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 79,
-    "deduped": 79,
-    "eventDeduped": 79,
+    "passed": 76,
+    "deduped": 76,
+    "eventDeduped": 76,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.webwire.com/ViewPressRel.asp?aId=362599",
-      "title": "Cohere and PwC partner to accelerate secure enterprise AI adoption",
-      "source": "webwire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:02:00Z",
-      "publishedAt": "2026-10-08T07:02:00Z",
-      "summary": "",
-      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362599"
-    },
     {
       "id": "https://wkfr.com/ixp/478/p/andrew-garfield-reveals-scary-reason-he-quit-chatgpt-after-playing-openai-boss/",
       "title": "AI governance takes center stage in 'Artificial' starring Andrew Garfield",
@@ -90,6 +78,18 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=06159846645610952&mediaCodeNo=257"
     },
     {
+      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/08/ai-adoption-mistakes-that-can-undermine-business-results/",
+      "title": "AI Adoption Mistakes That Can Undermine Business Results",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T14:16:00Z",
+      "publishedAt": "2026-10-08T14:16:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/08/ai-adoption-mistakes-that-can-undermine-business-results/"
+    },
+    {
       "id": "https://www.etnews.com/20261008000293",
       "title": "한컴, AWS와 손잡고 美 시장 공략…12월 AI 직원 플랫폼 '노마디안' 출시",
       "source": "etnews.com",
@@ -102,6 +102,18 @@
       "url": "https://www.etnews.com/20261008000293"
     },
     {
+      "id": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context",
+      "title": "Enterprise AI is drowning in data, but starving for context | IBM",
+      "source": "ibm.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
+      "summary": "",
+      "url": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context"
+    },
+    {
       "id": "https://www.channelnewsasia.com/watch/concerns-about-ai-safety-aicon-pushing-conversation-forward-responsible-ai-use-6442901",
       "title": "Concerns about AI safety: AICON pushing the conversation forward on responsible AI use",
       "source": "channelnewsasia.com",
@@ -112,18 +124,6 @@
       "publishedAt": "2026-10-08T15:02:00Z",
       "summary": "",
       "url": "https://www.channelnewsasia.com/watch/concerns-about-ai-safety-aicon-pushing-conversation-forward-responsible-ai-use-6442901"
-    },
-    {
-      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/08/agentic-ai-is-exposing-the-process-behind-the-process/",
-      "title": "​Agentic AI Is Exposing The Process Behind The Process",
-      "source": "forbes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T14:16:00Z",
-      "publishedAt": "2026-10-08T14:16:00Z",
-      "summary": "",
-      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/08/agentic-ai-is-exposing-the-process-behind-the-process/"
     },
     {
       "id": "https://www.mondaq.com:443/unitedstates/employee-rights-labour-relations/1852032/workplace-ai-just-got-more-complicated-new-requirements-for-california-employers-who-use-ai-in-employment-decisions",
@@ -139,18 +139,6 @@
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.webwire.com/ViewPressRel.asp?aId=362599",
-      "title": "Cohere and PwC partner to accelerate secure enterprise AI adoption",
-      "source": "webwire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:02:00Z",
-      "publishedAt": "2026-10-08T07:02:00Z",
-      "summary": "",
-      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362599"
-    },
     {
       "id": "https://wkfr.com/ixp/478/p/andrew-garfield-reveals-scary-reason-he-quit-chatgpt-after-playing-openai-boss/",
       "title": "AI governance takes center stage in 'Artificial' starring Andrew Garfield",
@@ -246,6 +234,18 @@
       "publishedAt": "2026-10-08T07:47:00Z",
       "summary": "",
       "url": "https://www.etnews.com/20261008000293"
+    },
+    {
+      "id": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context",
+      "title": "Enterprise AI is drowning in data, but starving for context | IBM",
+      "source": "ibm.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
+      "summary": "",
+      "url": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context"
     },
     {
       "id": "https://www.channelnewsasia.com/watch/concerns-about-ai-safety-aicon-pushing-conversation-forward-responsible-ai-use-6442901",
@@ -344,16 +344,16 @@
       "url": "https://www.hani.co.kr/arti/international/china/1281509.html"
     },
     {
-      "id": "http://www.heraldglobe.com/news/279359845/orgatec-india-2026-to-spotlight-india-workplace-transformation-with-worknxt-design-technology-and-experiences",
+      "id": "https://www.business-standard.com/content/press-releases-ani/orgatec-india-2026-to-spotlight-india-s-workplace-transformation-with-worknxt-design-technology-and-experiences-126100801196_1.html",
       "title": "ORGATEC India 2026 to Spotlight India's Workplace Transformation with 'WorkNXT - Design, Technology and Experiences'",
-      "source": "heraldglobe.com",
+      "source": "business-standard.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:32:00Z",
-      "publishedAt": "2026-10-08T15:32:00Z",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
       "summary": "",
-      "url": "http://www.heraldglobe.com/news/279359845/orgatec-india-2026-to-spotlight-india-workplace-transformation-with-worknxt-design-technology-and-experiences"
+      "url": "https://www.business-standard.com/content/press-releases-ani/orgatec-india-2026-to-spotlight-india-s-workplace-transformation-with-worknxt-design-technology-and-experiences-126100801196_1.html"
     },
     {
       "id": "https://gwhatchet.com/2026/10/08/sga-establishes-new-fund-for-large-scale-events-following-uwpf-restructuring/",
@@ -500,28 +500,28 @@
       "url": "https://biz.heraldcorp.com/article/10897313"
     },
     {
-      "id": "http://www.texasguardian.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra",
+      "id": "http://www.nigeriasun.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra",
       "title": "India can unlock AI gains by opening up enterprise data, says World Bank's Neelkanth Mishra",
-      "source": "texasguardian.com",
+      "source": "nigeriasun.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:32:00Z",
-      "publishedAt": "2026-10-08T15:32:00Z",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
       "summary": "",
-      "url": "http://www.texasguardian.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra"
+      "url": "http://www.nigeriasun.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra"
     },
     {
-      "id": "http://www.jamaicantimes.com/news/279359200/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zoho-sridhar-vembu",
+      "id": "http://www.zimbabwestar.com/news/279359200/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zoho-sridhar-vembu",
       "title": "Falling AI token costs positive for India, corporate spending likely to decline: Zoho's Sridhar Vembu",
-      "source": "jamaicantimes.com",
+      "source": "zimbabwestar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:32:00Z",
-      "publishedAt": "2026-10-08T15:32:00Z",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
       "summary": "",
-      "url": "http://www.jamaicantimes.com/news/279359200/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zoho-sridhar-vembu"
+      "url": "http://www.zimbabwestar.com/news/279359200/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zoho-sridhar-vembu"
     },
     {
       "id": "http://www.asiabulletin.com/news/279358976/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent",
@@ -692,28 +692,16 @@
       "url": "https://finchannel.com/georgias-fintech-push-needs-authority-budgets-for-ai-agents/135138/opinion/op-ed/2026/09/"
     },
     {
-      "id": "https://dynamicbusiness.com/ai-tools/pi-1-0-terminal-ai-agent-for-custom-workflows.html",
-      "title": "Pi 1.0 - Terminal AI Agent for Custom Workflows",
-      "source": "dynamicbusiness.com",
+      "id": "https://www.swissinfo.ch/eng/swiss-ai/how-artificial-intelligence-is-shaping-the-swiss-job-market/91750448",
+      "title": "How artificial intelligence is shaping the Swiss job market",
+      "source": "swissinfo.ch",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:16:00Z",
-      "publishedAt": "2026-10-08T07:16:00Z",
+      "dateRaw": "2026-10-08T08:02:00Z",
+      "publishedAt": "2026-10-08T08:02:00Z",
       "summary": "",
-      "url": "https://dynamicbusiness.com/ai-tools/pi-1-0-terminal-ai-agent-for-custom-workflows.html"
-    },
-    {
-      "id": "https://www.enr.com/articles/63810-de-risking-the-workforce-gap-can-ai-and-robotics-fill-an-immediate-need",
-      "title": "De-Risking the Workforce Gap: Can AI and Robotics Fill an Immediate Need?",
-      "source": "enr.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:16:00Z",
-      "publishedAt": "2026-10-08T07:16:00Z",
-      "summary": "",
-      "url": "https://www.enr.com/articles/63810-de-risking-the-workforce-gap-can-ai-and-robotics-fill-an-immediate-need"
+      "url": "https://www.swissinfo.ch/eng/swiss-ai/how-artificial-intelligence-is-shaping-the-swiss-job-market/91750448"
     },
     {
       "id": "https://deadline.com/2026/10/skydance-ynon-kreiz-labor-force-reduction-cost-savings-1237149888/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T14:16:00Z",
       "summary": "",
       "url": "https://www.moneycontrol.com/news/trends/amazon-layoff-to-impact-employees-in-india-uk-email-is-viral-these-decisions-weren-t-made-lightly-14047874.html"
+    },
+    {
+      "id": "http://www.nigeriasun.com/news/279359628/only-4-of-indian-jobs-at-risk-from-ai-disruption-far-below-developed-markets-world-bank-group-ed",
+      "title": "Only 4% of Indian jobs at risk from AI disruption, far below developed markets: World Bank Group ED",
+      "source": "nigeriasun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T15:47:00Z",
+      "publishedAt": "2026-10-08T15:47:00Z",
+      "summary": "",
+      "url": "http://www.nigeriasun.com/news/279359628/only-4-of-indian-jobs-at-risk-from-ai-disruption-far-below-developed-markets-world-bank-group-ed"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 7135,
-    "relevantItems": 229,
-    "feedBytes": 1985050,
+    "fetchedItems": 6683,
+    "relevantItems": 164,
+    "feedBytes": 1893892,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

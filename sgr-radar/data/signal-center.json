@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 12:40:59",
+  "updatedAt": "2026. 10. 09. 오전 12:59:31",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,8 +22,8 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261008000321",
-          "title": "트럼프 행사 초청된 한국 창업자들… “다음 목표는 '동아시아 투자 교육 시장'”",
+          "id": "https://www.etnews.com/20261008000143",
+          "title": "[2026 국감] 박홍근 “반도체 호황 재원, 청년·성장동력에 투자”",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "",
@@ -31,7 +31,7 @@
           "dateRaw": "2026-10-08T12:47:00Z",
           "publishedAt": "2026-10-08T12:47:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000321"
+          "url": "https://www.etnews.com/20261008000143"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=06031926645610952&mediaCodeNo=257",
@@ -82,6 +82,18 @@
           "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1281533.html"
         },
         {
+          "id": "http://www.koreatimes.com/article/20261008/1633028",
+          "title": "복지센터, 23일 VA서 ‘노르딕 워킹’ 세미나 - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T15:47:00Z",
+          "publishedAt": "2026-10-08T15:47:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261008/1633028"
+        },
+        {
           "id": "https://www.busan.com/view/busan/view.php?code=2026100819240363690",
           "title": "‘청년 어촌창업 아이디어 공모전’ 개최…총 상금 1500만 원 규모",
           "source": "busan.com",
@@ -116,31 +128,19 @@
           "publishedAt": "2026-10-08T12:47:00Z",
           "summary": "",
           "url": "https://news.knn.co.kr/news/article/193003"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10897593",
-          "title": "아동학대로 부모에게 고발당한 ‘교권보호단 1호’ 부천오정초 교사, 혐의없어 불기소..경기도교육청, “교권 지킬 것”",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T12:47:00Z",
-          "publishedAt": "2026-10-08T12:47:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897593"
         }
       ],
       "keywords": [
         {
           "word": "청년",
-          "count": 5
-        },
-        {
-          "word": "교육",
-          "count": 3
+          "count": 6
         },
         {
           "word": "복지",
+          "count": 2
+        },
+        {
+          "word": "교육",
           "count": 1
         },
         {
@@ -332,16 +332,16 @@
           "url": "https://biz.chosun.com/it-science/ict/2026/10/08/EU3X5PCVMVHFBAATFELNZY7WAY/"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=04870806645610952&mediaCodeNo=257",
-          "title": "감자 도시가 AI 기지로…中, 남는 전기로 데이터센터 속도전",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=07281606645610952&mediaCodeNo=257",
+          "title": "NXP 세미콘덕터, 데이터센터 수혜 제한적...투자의견 하향-씨티",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:47:00Z",
-          "publishedAt": "2026-10-08T07:47:00Z",
+          "dateRaw": "2026-10-08T13:16:00Z",
+          "publishedAt": "2026-10-08T13:16:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04870806645610952&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=07281606645610952&mediaCodeNo=257"
         },
         {
           "id": "https://www.etnews.com/20261008000143",
@@ -392,32 +392,6 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1281572.html"
         },
         {
-          "id": "http://inews24.com/view/2013242",
-          "title": "엔비디아 칩 품은 AI 노트북 쏟아진다…델·HP 등 6개사 출격",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:17:00Z",
-          "publishedAt": "2026-10-08T07:17:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2013242"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261008163421",
-          "title": "KISTI, 양자암호통신 시뮬레이터 등 차세대 기술 소개",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:34:21Z",
-          "publishedAt": "2026-10-08T07:34:21Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261008163421",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078",
           "title": "‘AI 무인매장’ 기대주였는데…대기업·금융사가 투자한 인터마인즈 파산 앞과 뒤",
           "source": "ilyo.co.kr",
@@ -428,6 +402,30 @@
           "publishedAt": "2026-10-08T11:17:00Z",
           "summary": "",
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078"
+        },
+        {
+          "id": "https://www.seoul.co.kr/news/economy/2026/10/08/20261008500222",
+          "title": "KROH, Global AI for Humanity‘ 국회 정책 세미나서 K-컬처 기반 AI 국제협력 제안",
+          "source": "seoul.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T08:02:00Z",
+          "publishedAt": "2026-10-08T08:02:00Z",
+          "summary": "",
+          "url": "https://www.seoul.co.kr/news/economy/2026/10/08/20261008500222"
+        },
+        {
+          "id": "https://news.knn.co.kr/news/article/193003",
+          "title": "조선업 호황...삼성중공업, 거제 청년에 문 연다",
+          "source": "news.knn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T12:47:00Z",
+          "publishedAt": "2026-10-08T12:47:00Z",
+          "summary": "",
+          "url": "https://news.knn.co.kr/news/article/193003"
         }
       ],
       "keywords": [
@@ -444,7 +442,7 @@
           "count": 2
         },
         {
-          "word": "양자",
+          "word": "조선",
           "count": 1
         }
       ],
@@ -469,16 +467,16 @@
           "url": "https://www.yorkregion.com/news/new-eg-home-supports-youth-leaving-child-welfare-system/article_061723a0-567d-58fb-a778-7fc953703cf2.html"
         },
         {
-          "id": "https://www.eppingforestguardian.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/",
+          "id": "https://www.ilfordrecorder.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/",
           "title": "Nearly 100 neurodivergent young people to receive mental health support at home",
-          "source": "eppingforestguardian.co.uk",
+          "source": "ilfordrecorder.co.uk",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T15:32:00Z",
-          "publishedAt": "2026-10-08T15:32:00Z",
+          "dateRaw": "2026-10-08T15:47:00Z",
+          "publishedAt": "2026-10-08T15:47:00Z",
           "summary": "",
-          "url": "https://www.eppingforestguardian.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/"
+          "url": "https://www.ilfordrecorder.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/"
         },
         {
           "id": "http://www.nepalnational.com/news/279359425/when-the-sea-comes-for-the-land-bangladeshs-quiet-climate-migration",
@@ -503,18 +501,6 @@
           "publishedAt": "2026-10-08T13:46:00Z",
           "summary": "",
           "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html"
-        },
-        {
-          "id": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915",
-          "title": "Historic Strike Involving Thousands of Oregon Healthcare Workers Comes to an End",
-          "source": "abcnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:47:00Z",
-          "publishedAt": "2026-10-08T07:47:00Z",
-          "summary": "",
-          "url": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915"
         },
         {
           "id": "https://nbcmontana.com/news/local/university-of-montana-researcher-explores-whether-stress-leaves-clues-in-ancient-dna",
@@ -575,6 +561,18 @@
           "publishedAt": "2026-10-08T13:46:00Z",
           "summary": "",
           "url": "https://www.totalmedios.com/nota/65459/camila-pichardo-asciende-a-social-media-strategy-director-en-don-by-havas"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/indias-data-silos-cost-up-to-7-of-welfare-spending-threaten-ai-push-report/articleshow/134791638.cms",
+          "title": "India’s data silos cost up to 7% of welfare spending, threaten AI push: Report",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T13:32:00Z",
+          "publishedAt": "2026-10-08T13:32:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/india/indias-data-silos-cost-up-to-7-of-welfare-spending-threaten-ai-push-report/articleshow/134791638.cms"
         }
       ],
       "keywords": [
@@ -917,8 +915,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 7135,
-    "feedBytes": 1985050,
+    "fetchedItems": 6683,
+    "feedBytes": 1893892,
     "rollingWindowHours": 72
   }
 }
