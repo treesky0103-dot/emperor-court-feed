@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 07:47:11",
+  "updatedAt": "2026. 10. 08. 오후 08:01:14",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 689,
-    "deduped": 689,
-    "eventDeduped": 689,
+    "passed": 683,
+    "deduped": 683,
+    "eventDeduped": 683,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,18 +332,6 @@
       "url": "https://www.ft.lk/business/Robotics-startup-Scouts-and-Vidullanka-launch-first-ever-drone-enhanced-security/34-798393"
     },
     {
-      "id": "https://zdnet.co.kr/view/?no=20261008093427",
-      "title": "효성중공업, 가상 전력망으로 대용량 송전 제어기 검증",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:02:00Z",
-      "publishedAt": "2026-10-08T01:02:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261008093427"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261008001226",
       "title": "'GS건설 합작' 아문에너지, 롯데정밀화학과 발전용 그린암모니아 공급계약",
       "source": "newspim.com",
@@ -414,6 +402,18 @@
       "publishedAt": "2026-10-08T05:46:00Z",
       "summary": "",
       "url": "https://www.newsway.co.kr/news/view?ud=2026100811335273957"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10896906",
+      "title": "“수소 생산 전력 확 낮춘다”…韓 연구진, 수전해 전압 ‘8분의 1’↓",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T03:31:00Z",
+      "publishedAt": "2026-10-08T03:31:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10896906"
     },
     {
       "id": "https://cunews.net/detail.php?number=172881&thread=22r12r03",
@@ -620,16 +620,28 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1099778/australian-vanadium-and-tyfast-team-up-to-target-fast-charging-heavy-duty-battery-market-1099778.html"
     },
     {
-      "id": "https://www.naroomanewsonline.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
+      "id": "https://www.juneesoutherncross.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
       "title": "Billions in tech infrastructure needed for data centres",
-      "source": "naroomanewsonline.com.au",
+      "source": "juneesoutherncross.com.au",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T10:31:00Z",
-      "publishedAt": "2026-10-08T10:31:00Z",
+      "dateRaw": "2026-10-08T10:47:00Z",
+      "publishedAt": "2026-10-08T10:47:00Z",
       "summary": "",
-      "url": "https://www.naroomanewsonline.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
+      "url": "https://www.juneesoutherncross.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
+    },
+    {
+      "id": "https://obj.ca/data/clean-tech-companies-72/",
+      "title": "OBJ Data Centre | Ottawa Business Journal",
+      "source": "obj.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T10:47:00Z",
+      "publishedAt": "2026-10-08T10:47:00Z",
+      "summary": "",
+      "url": "https://obj.ca/data/clean-tech-companies-72/"
     },
     {
       "id": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T06:32:00Z",
       "summary": "",
       "url": "https://www.afr.com/world/asia/china-s-remote-data-centre-build-out-is-on-steroids-20261008-p613w3"
-    },
-    {
-      "id": "https://www.crikey.com.au/podcast/cut-through/data-centres-artificial-intelligence-anthropic-openai-nerd-reich/",
-      "title": "Answering your questions on Australia's data centre moment",
-      "source": "crikey.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T04:32:00Z",
-      "publishedAt": "2026-10-08T04:32:00Z",
-      "summary": "",
-      "url": "https://www.crikey.com.au/podcast/cut-through/data-centres-artificial-intelligence-anthropic-openai-nerd-reich/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6674,
-    "relevantItems": 116,
-    "feedBytes": 1861131,
+    "fetchedItems": 4055,
+    "relevantItems": 69,
+    "feedBytes": 1170464,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
