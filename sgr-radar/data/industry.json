@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 05:58:27",
+  "updatedAt": "2026. 10. 08. 오후 06:19:11",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 697,
-    "deduped": 697,
-    "eventDeduped": 697,
+    "passed": 690,
+    "deduped": 690,
+    "eventDeduped": 690,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -608,28 +608,16 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1099778/australian-vanadium-and-tyfast-team-up-to-target-fast-charging-heavy-duty-battery-market-1099778.html"
     },
     {
-      "id": "https://boatingindustry.com/news/2026/10/07/abyc-and-us-coast-guard-to-address-navigation-lights-and-battery-systems-in-webinar/",
-      "title": "ABYC and U.S. Coast Guard to Address Navigation Lights and Battery Systems in Webinar | Boating Industry",
-      "source": "boatingindustry.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T23:31:00Z",
-      "publishedAt": "2026-10-07T23:31:00Z",
-      "summary": "",
-      "url": "https://boatingindustry.com/news/2026/10/07/abyc-and-us-coast-guard-to-address-navigation-lights-and-battery-systems-in-webinar/"
-    },
-    {
-      "id": "https://www.sconeadvocate.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
+      "id": "https://www.irrigator.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/",
       "title": "Billions in tech infrastructure needed for data centres",
-      "source": "sconeadvocate.com.au",
+      "source": "irrigator.com.au",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T08:47:00Z",
-      "publishedAt": "2026-10-08T08:47:00Z",
+      "dateRaw": "2026-10-08T09:16:00Z",
+      "publishedAt": "2026-10-08T09:16:00Z",
       "summary": "",
-      "url": "https://www.sconeadvocate.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
+      "url": "https://www.irrigator.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
     },
     {
       "id": "https://www.chronicle.lu/category/international-news/63864-drones-strike-yandex-data-centre-in-1st-major-russian-hub-attack",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T01:47:00Z",
       "summary": "",
       "url": "https://financialpost.com/news/canada-could-be-data-centre-superpower-report"
+    },
+    {
+      "id": "https://www.straitstimes.com/singapore/politics/major-data-centres-to-meet-stricter-security-resilience-rules-with-the-passing-of-new-bill",
+      "title": "Major data centres to meet strict security, resilience rules with the passing of new Bill",
+      "source": "straitstimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T00:46:00Z",
+      "publishedAt": "2026-10-08T00:46:00Z",
+      "summary": "",
+      "url": "https://www.straitstimes.com/singapore/politics/major-data-centres-to-meet-stricter-security-resilience-rules-with-the-passing-of-new-bill"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6841,
-    "relevantItems": 119,
-    "feedBytes": 1917104,
+    "fetchedItems": 3406,
+    "relevantItems": 75,
+    "feedBytes": 962715,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
