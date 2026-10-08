@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 08:01:20",
+  "updatedAt": "2026. 10. 08. 오후 08:27:25",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -177,20 +177,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261008000145",
-          "title": "NH농협은행, 'NH기업성장론' 출시…안전경영 우수기업에 금리 우대",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T01:57:05Z",
-          "publishedAt": "2026-10-08T01:57:05Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000145",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/economy/finance/1281526.html",
           "title": "엇갈린 미 국채금리 전망…10년물 “내년 6% 까지” “연말 5% 아래로”",
           "source": "hani.co.kr",
@@ -213,6 +199,20 @@
           "publishedAt": "2026-10-08T07:01:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/stock/stock_general/2026/10/08/XM6DZLHI6NH2JEDCPJVPPAYFGI/"
+        },
+        {
+          "id": "https://www.etnews.com/20261008000297",
+          "title": "KOSA, 한국벤처투자와 맞손…유망 AI·SW 기업 육성",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T06:54:18Z",
+          "publishedAt": "2026-10-08T06:54:18Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000297",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261008130745",
@@ -263,6 +263,18 @@
           "url": "https://www.anewsa.com/detail.php?number=3206091"
         },
         {
+          "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078",
+          "title": "‘AI 무인매장’ 기대주였는데…대기업·금융사가 투자한 인터마인즈 파산 앞과 뒤",
+          "source": "ilyo.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T11:17:00Z",
+          "publishedAt": "2026-10-08T11:17:00Z",
+          "summary": "",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078"
+        },
+        {
           "id": "http://www.koreatimes.com/article/20261007/1632956",
           "title": "7% 돌파 금리 또 급등… 주택시장 더 얼어붙나? - 미주 한국일보",
           "source": "koreatimes.com",
@@ -273,28 +285,16 @@
           "publishedAt": "2026-10-08T09:47:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261007/1632956"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2632884",
-          "title": "금리도 못 꺾은 AI 랠리⋯엔비디아 6조달러 눈앞ㆍ머스크 조만장자 복귀 [금리 넘어선 AI 투자 열기]",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:46:00Z",
-          "publishedAt": "2026-10-08T07:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2632884"
         }
       ],
       "keywords": [
         {
-          "word": "금리",
-          "count": 6
+          "word": "투자",
+          "count": 7
         },
         {
-          "word": "투자",
-          "count": 6
+          "word": "금리",
+          "count": 3
         },
         {
           "word": "기업",
@@ -630,6 +630,18 @@
           "url": "http://www.australiannews.net/news/279358420/mitrade-appoints-veteran-brokerage-ceo-christopher-brankin-as-global-markets-advisor-global-macro-volatility-pushes-australian-interest-rates-to-15-year-highs"
         },
         {
+          "id": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+          "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+          "source": "cnbc.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T11:16:00Z",
+          "publishedAt": "2026-10-08T11:16:00Z",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html"
+        },
+        {
           "id": "https://abcnews.com/Business/wireStory/5-traders-jailed-rigging-key-interest-rates-convictions-137067638",
           "title": "5 traders jailed for rigging key interest rates have their convictions quashed",
           "source": "abcnews.com",
@@ -724,18 +736,6 @@
           "publishedAt": "2026-10-08T08:32:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/policy/politics/assembly/2026/10/08/V63RFOKDZREF3MF7FZLWHT4ZPM/"
-        },
-        {
-          "id": "https://www.business-standard.com/industry/news/manufacturing-adds-1-4-million-jobs-as-investment-grows-in-fy25-mospi-126100800543_1.html",
-          "title": "Manufacturing Employment: Manufacturing adds 1.4 million jobs as investment grows in FY25: MoSPI",
-          "source": "business-standard.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:46:00Z",
-          "publishedAt": "2026-10-08T07:46:00Z",
-          "summary": "",
-          "url": "https://www.business-standard.com/industry/news/manufacturing-adds-1-4-million-jobs-as-investment-grows-in-fy25-mospi-126100800543_1.html"
         }
       ],
       "keywords": [
@@ -744,19 +744,19 @@
           "count": 5
         },
         {
-          "word": "투자",
-          "count": 3
-        },
-        {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "고용",
-          "count": 1
+          "word": "투자",
+          "count": 2
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         }
       ],
@@ -789,6 +789,18 @@
           "publishedAt": "2026-10-08T08:31:00Z",
           "summary": "",
           "url": "https://business-review.eu/energy/ai-enabled-buildings-can-cut-energy-use-by-up-to-22-save-on-annual-utility-costs-and-carbon-schneider-electric-research-301690"
+        },
+        {
+          "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+          "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+          "source": "asia.nikkei.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T11:17:00Z",
+          "publishedAt": "2026-10-08T11:17:00Z",
+          "summary": "",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding"
         },
         {
           "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681157",
@@ -873,18 +885,6 @@
           "publishedAt": "2026-10-08T07:47:00Z",
           "summary": "",
           "url": "https://www.business-standard.com/markets/news/mastek-gains-3-as-ai-led-oracle-cloud-transformation-deal-lifts-stock-126100800450_1.html"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261008001186",
-          "title": "[일본 증시] 닛케이, 다시 7만선 아래로...AI·반도체 매도",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T07:47:00Z",
-          "publishedAt": "2026-10-08T07:47:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261008001186"
         }
       ],
       "keywords": [
@@ -893,12 +893,12 @@
           "count": 8
         },
         {
-          "word": "반도체",
+          "word": "제조",
           "count": 3
         },
         {
-          "word": "제조",
-          "count": 3
+          "word": "반도체",
+          "count": 2
         },
         {
           "word": "클라우드",
@@ -925,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4055,
-    "feedBytes": 1170464,
+    "fetchedItems": 6811,
+    "feedBytes": 1952083,
     "rollingWindowHours": 72
   }
 }
