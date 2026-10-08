@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 08:37:23",
+  "updatedAt": "2026. 10. 09. 오전 08:54:58",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 122,
-    "deduped": 122,
-    "eventDeduped": 122,
+    "passed": 120,
+    "deduped": 120,
+    "eventDeduped": 120,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -608,18 +608,6 @@
       "url": "https://www.africa-newsroom.com/press/cracking-the-interoperability-code-of-african-continental-free-trade-area-afcftas-digital-trade-era-by-ludovic-thanay"
     },
     {
-      "id": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713",
-      "title": "EU envoy in Beijing for talks to tackle the bloc's 'unsustainable' trade imbalance with China",
-      "source": "dw.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T14:47:00Z",
-      "publishedAt": "2026-10-08T14:47:00Z",
-      "summary": "",
-      "url": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713"
-    },
-    {
       "id": "https://www.etoday.co.kr/news/view/2634134",
       "title": "국제유가, 중동 긴장ㆍ허리케인 접근에 상승⋯WTI 3.6%↑[상보]",
       "source": "etoday.co.kr",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T15:02:00Z",
       "summary": "",
       "url": "https://www.themoscowtimes.com/2026/10/08/uk-expands-sanctions-to-cover-90-of-russian-oil-output-shadow-fleet-and-finance-networks-a93922"
+    },
+    {
+      "id": "https://www.breitbart.com/europe/2026/10/08/british-diplomats-withdraw-from-israel-over-sanctions-row/",
+      "title": "British Diplomats Withdraw From Israel Over Sanctions Row",
+      "source": "breitbart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T23:17:00Z",
+      "publishedAt": "2026-10-08T23:17:00Z",
+      "summary": "",
+      "url": "https://www.breitbart.com/europe/2026/10/08/british-diplomats-withdraw-from-israel-over-sanctions-row/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3681,
-    "relevantItems": 98,
-    "feedBytes": 991330,
+    "fetchedItems": 3802,
+    "relevantItems": 100,
+    "feedBytes": 1040044,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
