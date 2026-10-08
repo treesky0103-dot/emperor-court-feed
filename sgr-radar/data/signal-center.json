@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 11:12:24",
+  "updatedAt": "2026. 10. 08. 오전 11:34:37",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -352,16 +352,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12171161",
-          "title": "“나도 반도체 ‘억대 보너스’ 노려볼까”…3분기 대기업 공고 102% 증가",
+          "id": "https://www.mk.co.kr/news/society/12171325",
+          "title": "AI 잘 쓰면 연간 4000만원 더 번다…대형 로펌 ‘AI 독자 플랫폼’ 총력전",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T09:38:09Z",
-          "publishedAt": "2026-10-08T09:38:09Z",
+          "dateRaw": "2026-10-08T11:24:07Z",
+          "publishedAt": "2026-10-08T11:24:07Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12171161",
+          "url": "https://www.mk.co.kr/news/society/12171325",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -441,11 +441,11 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 8
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 3
         },
         {
           "word": "제조",
@@ -767,18 +767,6 @@
           "url": "https://www.redandblack.com/athensnews/local-candidates-talk-data-centers-energy-policy-at-environmental-forum/article_ac1cb3dd-67ea-4c44-bde3-1fd947d810b6.html"
         },
         {
-          "id": "https://www.freepressjournal.in/education/maharashtra-launches-cm-sristhi-scheme-to-boost-ai-quantum-computing-semiconductors-futuristic-tech-research",
-          "title": "Maharashtra Launches ‘CM-SRISTHI’ Scheme To Boost AI, Quantum Computing, Semiconductors & Futuristic Tech Research",
-          "source": "freepressjournal.in",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-07",
-          "dateRaw": "2026-10-07T19:47:00Z",
-          "publishedAt": "2026-10-07T19:47:00Z",
-          "summary": "",
-          "url": "https://www.freepressjournal.in/education/maharashtra-launches-cm-sristhi-scheme-to-boost-ai-quantum-computing-semiconductors-futuristic-tech-research"
-        },
-        {
           "id": "https://www.businesstimes.com.sg/companies-markets/samsung-reaches-new-profit-record-memory-chip-windfall",
           "title": "Samsung reaches new profit record with memory chip windfall",
           "source": "businesstimes.com.sg",
@@ -873,6 +861,18 @@
           "publishedAt": "2026-10-07T21:46:00Z",
           "summary": "",
           "url": "https://www.tonyskansascity.com/2026/10/newsflash-data-centers-spike-missouri.html"
+        },
+        {
+          "id": "https://digg.com/ai/wz8me19p",
+          "title": "GitHub Copilot is set to route tasks between local and cloud AI models · Digg",
+          "source": "digg.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-07",
+          "dateRaw": "2026-10-07T20:47:00Z",
+          "publishedAt": "2026-10-07T20:47:00Z",
+          "summary": "",
+          "url": "https://digg.com/ai/wz8me19p"
         }
       ],
       "keywords": [
@@ -885,19 +885,15 @@
           "count": 4
         },
         {
+          "word": "클라우드",
+          "count": 2
+        },
+        {
           "word": "반도체",
           "count": 1
         },
         {
           "word": "배터리",
-          "count": 1
-        },
-        {
-          "word": "양자",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -909,8 +905,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3195,
-    "feedBytes": 830472,
+    "fetchedItems": 1018,
+    "feedBytes": 267779,
     "rollingWindowHours": 72
   }
 }

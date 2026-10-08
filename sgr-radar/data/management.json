@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오전 11:12:19",
+  "updatedAt": "2026. 10. 08. 오전 11:34:33",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 74,
-    "deduped": 74,
-    "eventDeduped": 74,
+    "passed": 73,
+    "deduped": 73,
+    "eventDeduped": 73,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -692,18 +692,6 @@
       "url": "https://skift.com/2026/10/07/convenience-vs-productivity-is-travel-ais-real-test/"
     },
     {
-      "id": "https://www.crn.com/news/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexone-2026",
-      "title": "8 New Cisco Workplace And AI Innovations Unveiled At WebexOne 2026",
-      "source": "crn.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T17:02:00Z",
-      "publishedAt": "2026-10-07T17:02:00Z",
-      "summary": "",
-      "url": "https://www.crn.com/news/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexone-2026"
-    },
-    {
       "id": "https://www.columbian.com/news/2026/oct/07/starbucks-lays-off-51-retail-and-corporate-employees-in-washington/",
       "title": "Starbucks lays off 51 retail and corporate employees in Washington",
       "source": "columbian.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T00:46:00Z",
       "summary": "",
       "url": "https://digg.com/gaming/9zbc89qe"
+    },
+    {
+      "id": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+      "title": "Gravity Well lays off more than 40 developers after losing its funding",
+      "source": "gamesindustry.biz",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T00:17:00Z",
+      "publishedAt": "2026-10-08T00:17:00Z",
+      "summary": "",
+      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3195,
-    "relevantItems": 111,
-    "feedBytes": 830472,
+    "fetchedItems": 1018,
+    "relevantItems": 43,
+    "feedBytes": 267779,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
