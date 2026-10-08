@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 01:49:23",
+  "updatedAt": "2026. 10. 09. 오전 02:04:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 154,
-    "deduped": 154,
-    "eventDeduped": 154,
+    "passed": 153,
+    "deduped": 153,
+    "eventDeduped": 153,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -344,6 +344,18 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=07229126645610952&mediaCodeNo=257"
     },
     {
+      "id": "https://www.clydebankpost.co.uk/news/national/26619353.ed-miliband-announces-new-sanctions-russia-visit-ukraine/",
+      "title": "Ed Miliband announces new sanctions on Russia during visit to Ukraine",
+      "source": "clydebankpost.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:01:00Z",
+      "publishedAt": "2026-10-08T17:01:00Z",
+      "summary": "",
+      "url": "https://www.clydebankpost.co.uk/news/national/26619353.ed-miliband-announces-new-sanctions-russia-visit-ukraine/"
+    },
+    {
       "id": "https://www.packagingeurope.com/recycled-plastic-pallet-to-slot-into-automated-fresh-produce-supply-chains/",
       "title": "Recycled plastic pallet to slot into automated fresh produce supply chains",
       "source": "packagingeurope.com",
@@ -354,18 +366,6 @@
       "publishedAt": "2026-10-08T16:32:00Z",
       "summary": "",
       "url": "https://www.packagingeurope.com/recycled-plastic-pallet-to-slot-into-automated-fresh-produce-supply-chains/"
-    },
-    {
-      "id": "https://www.guardian-series.co.uk/news/national/26619353.ed-miliband-announces-new-sanctions-russia-visit-ukraine/",
-      "title": "Ed Miliband announces new sanctions on Russia during visit to Ukraine",
-      "source": "guardian-series.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T16:31:00Z",
-      "publishedAt": "2026-10-08T16:31:00Z",
-      "summary": "",
-      "url": "https://www.guardian-series.co.uk/news/national/26619353.ed-miliband-announces-new-sanctions-russia-visit-ukraine/"
     },
     {
       "id": "https://link.springer.com/referencework/10.1007/978-981-95-1169-3",
@@ -716,16 +716,16 @@
       "url": "https://english.news.cn/20261008/f5024951b8954d30b5bcd0674031d9d3/c.html"
     },
     {
-      "id": "http://www.indiagazette.com/news/279359287/india-aims-for-usd-1-trillion-exports-in-fy27-despite-weak-global-trade-piyush-goyal",
-      "title": "India aims for USD 1 trillion exports in FY27 despite weak global trade: Piyush Goyal",
-      "source": "indiagazette.com",
+      "id": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo",
+      "title": "Business groups warn of irreversible economic consequences if trade deal remains in limbo",
+      "source": "financialpost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T08:31:00Z",
-      "publishedAt": "2026-10-08T08:31:00Z",
+      "dateRaw": "2026-10-08T17:01:00Z",
+      "publishedAt": "2026-10-08T17:01:00Z",
       "summary": "",
-      "url": "http://www.indiagazette.com/news/279359287/india-aims-for-usd-1-trillion-exports-in-fy27-despite-weak-global-trade-piyush-goyal"
+      "url": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo"
     },
     {
       "id": "https://www.chroniclejournal.com/news/national/supreme-court-of-canada-declines-to-hear-appeal-of-man-sanctioned-over-ties-to-moscow/article_f16c27e8-96c7-5a0d-8853-35d37e97a844.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6634,
-    "relevantItems": 193,
-    "feedBytes": 1798260,
+    "fetchedItems": 2651,
+    "relevantItems": 81,
+    "feedBytes": 736634,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

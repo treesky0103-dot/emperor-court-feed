@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 01:49:22",
+  "updatedAt": "2026. 10. 09. 오전 02:04:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 72,
+    "deduped": 72,
+    "eventDeduped": 72,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -320,6 +320,18 @@
       "url": "http://inews24.com/view/2013326"
     },
     {
+      "id": "https://www.business-standard.com/technology/tech-news/voice-ai-adoption-scales-up-in-india-moves-beyond-experimentation-126100801453_1.html",
+      "title": "Voice AI adoption scales up in India, moves beyond experimentation",
+      "source": "business-standard.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:01:00Z",
+      "publishedAt": "2026-10-08T17:01:00Z",
+      "summary": "",
+      "url": "https://www.business-standard.com/technology/tech-news/voice-ai-adoption-scales-up-in-india-moves-beyond-experimentation-126100801453_1.html"
+    },
+    {
       "id": "http://www.massachusettssun.com/news/279360030/orgatec-india-2026-to-spotlight-india-workplace-transformation-with-worknxt-design-technology-and-experiences",
       "title": "ORGATEC India 2026 to Spotlight India's Workplace Transformation with 'WorkNXT - Design, Technology and Experiences'",
       "source": "massachusettssun.com",
@@ -378,30 +390,6 @@
       "publishedAt": "2026-10-08T08:46:00Z",
       "summary": "",
       "url": "https://www.hindustantimes.com/education/features/the-ai-paradox-why-soft-skills-are-the-future-of-work-in-india-101791447967078.html"
-    },
-    {
-      "id": "https://ianslive.in/voice-ai-adoption-moves-from-pilots-to-production-in-india-report--20261008124202",
-      "title": "Voice AI adoption scales up in India as 31 pc of firms move to limited production: Report",
-      "source": "ianslive.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T08:31:00Z",
-      "publishedAt": "2026-10-08T08:31:00Z",
-      "summary": "",
-      "url": "https://ianslive.in/voice-ai-adoption-moves-from-pilots-to-production-in-india-report--20261008124202"
-    },
-    {
-      "id": "https://www.dailymail.com/mailonsunday/article-3858784/Jolly-japes-lashings-irony-Famous-Five-Brexit-clean-food-corporate-culture-hilarious-reboot-classic-stories.html",
-      "title": "The Famous Five take on Brexit, clean food and corporate culture",
-      "source": "dailymail.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T08:31:00Z",
-      "publishedAt": "2026-10-08T08:31:00Z",
-      "summary": "",
-      "url": "https://www.dailymail.com/mailonsunday/article-3858784/Jolly-japes-lashings-irony-Famous-Five-Brexit-clean-food-corporate-culture-hilarious-reboot-classic-stories.html"
     },
     {
       "id": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009031004",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T13:32:00Z",
       "summary": "",
       "url": "https://www.publishersweekly.com:443/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/news/international/us/jeff-bezos-says-ai-could-bring-a-3-day-work-week-so-why-is-amazon-cutting-jobs/articleshow/134790968.cms",
+      "title": "Jeff Bezos says AI could bring a 3 day work week, so why is Amazon cutting jobs?",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T13:17:00Z",
+      "publishedAt": "2026-10-08T13:17:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/news/international/us/jeff-bezos-says-ai-could-bring-a-3-day-work-week-so-why-is-amazon-cutting-jobs/articleshow/134790968.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6634,
-    "relevantItems": 193,
-    "feedBytes": 1798260,
+    "fetchedItems": 2651,
+    "relevantItems": 81,
+    "feedBytes": 736634,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
