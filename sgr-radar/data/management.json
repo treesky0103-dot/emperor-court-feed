@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 08:27:18",
+  "updatedAt": "2026. 10. 08. 오후 08:47:55",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 85,
-    "deduped": 85,
-    "eventDeduped": 85,
+    "passed": 82,
+    "deduped": 82,
+    "eventDeduped": 82,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -224,18 +224,6 @@
       "url": "https://www.thehindubusinessline.com/news/amazon-cuts-jobs-in-stores-unit-as-latest-layoffs-affect-us-india-and-uk/article71558189.ece"
     },
     {
-      "id": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/",
-      "title": "‘정보 유출 사태’ 5대 은행장, 19일 금감원 국정감사 증인 소환",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T02:01:00Z",
-      "publishedAt": "2026-10-08T02:01:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/stock/finance/2026/10/08/XL5M6Y3ESNBMBNEE6CQ2HNJSLE/"
-    },
-    {
       "id": "https://www.edaily.co.kr/News/Read?newsId=04145926645610952&mediaCodeNo=257",
       "title": "상호금융 조합 절반이 적자…\"비즈니스 모델 고민 중\"",
       "source": "edaily.co.kr",
@@ -356,6 +344,18 @@
       "url": "https://winetitles.com.au/twe-cuts-170-jobs-as-new-operating-model-comes-into-effect/"
     },
     {
+      "id": "https://www.bostonglobe.com/2026/10/07/business/ai-boston-ptc-amazon-hubspot/",
+      "title": "AI is upending Boston-area tech businesses, amid buyouts and job cuts - The Boston Globe",
+      "source": "bostonglobe.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T02:02:00Z",
+      "publishedAt": "2026-10-08T02:02:00Z",
+      "summary": "",
+      "url": "https://www.bostonglobe.com/2026/10/07/business/ai-boston-ptc-amazon-hubspot/"
+    },
+    {
       "id": "https://www.hani.co.kr/arti/international/china/1281509.html",
       "title": "중, 대유럽 하이브리드차 수출 제한 거부…EU ‘세이프가드’ 꺼내나",
       "source": "hani.co.kr",
@@ -380,16 +380,16 @@
       "url": "https://www.huffingtonpost.kr:443/article/261086"
     },
     {
-      "id": "https://newsway.co.kr/news/view?ud=2026100618294705720",
-      "title": "현대차그룹, 순환출자 풀 승계 시나리오···실탄 확보 관건 - 뉴스웨이",
-      "source": "newsway.co.kr",
-      "language": "Korean",
+      "id": "https://www.insideindianabusiness.com/articles/why-succession-planning-should-happen-years-before-youre-ready-to-leave-your-business",
+      "title": "Why succession planning should happen years before you’re ready to leave your business - Inside INdiana Business",
+      "source": "insideindianabusiness.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T01:47:00Z",
-      "publishedAt": "2026-10-08T01:47:00Z",
+      "dateRaw": "2026-10-08T11:32:00Z",
+      "publishedAt": "2026-10-08T11:32:00Z",
       "summary": "",
-      "url": "https://newsway.co.kr/news/view?ud=2026100618294705720"
+      "url": "https://www.insideindianabusiness.com/articles/why-succession-planning-should-happen-years-before-youre-ready-to-leave-your-business"
     },
     {
       "id": "https://www.hindustantimes.com/education/features/the-ai-paradox-why-soft-skills-are-the-future-of-work-in-india-101791447967078.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6811,
-    "relevantItems": 136,
-    "feedBytes": 1952083,
+    "fetchedItems": 6291,
+    "relevantItems": 107,
+    "feedBytes": 1774967,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
