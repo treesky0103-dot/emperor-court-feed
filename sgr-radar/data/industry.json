@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 08. 오후 04:51:23",
+  "updatedAt": "2026. 10. 08. 오후 05:14:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 679,
-    "deduped": 679,
-    "eventDeduped": 679,
+    "passed": 688,
+    "deduped": 688,
+    "eventDeduped": 688,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -512,18 +512,6 @@
       "url": "https://www.wnem.com/2026/10/07/bay-plastics-investing-new-training-manufacturing-facility/"
     },
     {
-      "id": "https://www.hellenicshippingnews.com/trump-ties-tariff-cuts-to-s-koreas-150-billion-shipbuilding-investment/",
-      "title": "Trump Ties Tariff Cuts to S. Korea's $150 Billion Shipbuilding Investment | Hellenic Shipping News Worldwide",
-      "source": "hellenicshippingnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-07",
-      "dateRaw": "2026-10-07T22:02:00Z",
-      "publishedAt": "2026-10-07T22:02:00Z",
-      "summary": "",
-      "url": "https://www.hellenicshippingnews.com/trump-ties-tariff-cuts-to-s-koreas-150-billion-shipbuilding-investment/"
-    },
-    {
       "id": "https://www.wfae.org/energy-environment/2026-10-07/duke-energy-comes-to-an-agreement-on-long-sought-large-load-tariff-for-data-centers-in-north-carolina",
       "title": "Duke Energy comes to an agreement on long-sought large load tariff for data centers in North Carolina",
       "source": "wfae.org",
@@ -632,6 +620,30 @@
       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69782392-chery-group-freelander-details-powertrain-battery-and-all-terrain-technology-for-international-left-hand-drive-freelander-8-399.htm"
     },
     {
+      "id": "https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664",
+      "title": "NT environmental regulator has 'low confidence' in plan for outback data centre",
+      "source": "abc.net.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T08:02:00Z",
+      "publishedAt": "2026-10-08T08:02:00Z",
+      "summary": "",
+      "url": "https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664"
+    },
+    {
+      "id": "https://www.dailyadvertiser.com.au/story/9365037/waggas-sam-ryot-has-been-announced-as-the-new-green-candidate/",
+      "title": "Why Wagga Greens candidate says housing must come before data centres",
+      "source": "dailyadvertiser.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T08:02:00Z",
+      "publishedAt": "2026-10-08T08:02:00Z",
+      "summary": "",
+      "url": "https://www.dailyadvertiser.com.au/story/9365037/waggas-sam-ryot-has-been-announced-as-the-new-green-candidate/"
+    },
+    {
       "id": "https://www.express.co.uk/news/world/2255403/yandex-russian-google-strike-drone",
       "title": "Chaos as 'Russian Google' hit 'by drones' as huge data centre engulfed by flames",
       "source": "express.co.uk",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T04:01:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=03575206645610952&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026100810405496247",
-      "title": "램리서치, 한국 생산 반도체 챔버 1만5000호기 출하… 전용 벤처펀드 출범",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T07:02:00Z",
-      "publishedAt": "2026-10-08T07:02:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026100810405496247"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5286,
-    "relevantItems": 110,
-    "feedBytes": 1494621,
+    "fetchedItems": 5436,
+    "relevantItems": 93,
+    "feedBytes": 1519502,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
