@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 08:20:56",
+  "updatedAt": "2026. 10. 09. 오전 08:37:27",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://biz.heraldcorp.com/article/10897640",
+          "title": "금천구, 자살예방 및 정신건강증진 우수기관 선정... 서울시장·복지부장관 표창",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10897640"
+        },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01685926645611280&mediaCodeNo=257",
           "title": "김여정, 의료장비 지원계획에 또 반발…\"한국 인간쓰레기 무시할 것\"",
@@ -70,18 +82,6 @@
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021224&code=61111611&sid1=pol"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10896899",
-          "title": "[단독]“성교육도 무용지물?”…직장 내 성희롱 신고 4년 새 44%↑",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T21:17:00Z",
-          "publishedAt": "2026-10-08T21:17:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10896899"
-        },
-        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273771&CMPT_CD=M0153",
           "title": "\"개 산책 알바도 170 대 1\"... 대한민국 청년들의 슬픈 현실",
           "source": "ohmynews.com",
@@ -135,7 +135,15 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 3
+        },
+        {
+          "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "정신건강",
+          "count": 1
         },
         {
           "word": "청년",
@@ -175,16 +183,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01449766645611280&mediaCodeNo=257"
         },
         {
-          "id": "https://biz.chosun.com/stock/stock_general/2026/10/09/GAYWMMBQGFTGCYJYMQ4DOYLDMY/",
-          "title": "8억 투자해 22억 번 자산가, 삼전닉스 투자 후 절대 하지 않은 것",
+          "id": "https://biz.chosun.com/industry/business-venture/2026/10/09/UOONDEC4S5E5XLZIRETZXMZMSA/",
+          "title": "[스타트UP] “주식매매 넘어 기업투자 인프라 만든다”…그로잉랩 박정재 대표의 승부수",
           "source": "biz.chosun.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T20:47:00Z",
-          "publishedAt": "2026-10-08T20:47:00Z",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
           "summary": "",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/09/GAYWMMBQGFTGCYJYMQ4DOYLDMY/"
+          "url": "https://biz.chosun.com/industry/business-venture/2026/10/09/UOONDEC4S5E5XLZIRETZXMZMSA/"
         },
         {
           "id": "https://www.fnnews.com/news/202610090600392880",
@@ -249,16 +257,16 @@
           "url": "https://www.nspna.com/news/?mode=view&newsid=831065"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10894251",
-          "title": "북한 경제 3년 연속 성장했지만…1인당 소득은 10년 전에도 못 미쳐",
+          "id": "https://biz.heraldcorp.com/article/10897321",
+          "title": "“트리마제 12억 떨어질 때 분당 5억 올라” 경매 ‘줍줍’도 서울보다 경기 남부 [부동산360]",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T21:17:00Z",
-          "publishedAt": "2026-10-08T21:17:00Z",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10894251"
+          "url": "https://biz.heraldcorp.com/article/10897321"
         },
         {
           "id": "https://www.radioseoul1650.com/archives/159019",
@@ -276,10 +284,14 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 6
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "기업",
           "count": 1
         },
         {
@@ -306,6 +318,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01449766645611280&mediaCodeNo=257"
         },
         {
+          "id": "https://biz.chosun.com/stock/stock_general/2026/10/09/7ODVNUMCMVAIZNJCWJ7EEOPD6Q/",
+          "title": "반도체 소부장 ETF 한 달 새 20% 상승 랠리… 코스닥 액티브도 덩달아 웃었다",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/09/7ODVNUMCMVAIZNJCWJ7EEOPD6Q/"
+        },
+        {
           "id": "https://www.mk.co.kr/news/business/12172041",
           "title": "최태원, 광주 반도체팹 예정지 찾는다 … 용지·전력 등 점검",
           "source": "mk.co.kr",
@@ -318,6 +342,18 @@
           "url": "https://www.mk.co.kr/news/business/12172041",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2633788",
+          "title": "HBM4로 더 벌고 성과급은 늘고⋯삼성 반도체 4분기 수익성 시험대",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2633788"
         },
         {
           "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000021221&code=61131111&sid1=int",
@@ -392,24 +428,12 @@
           "url": "https://www.mk.co.kr/news/business/12171907",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.fnnews.com/news/202610090005344417",
-          "title": "양자컴퓨터보다 AI가 먼저?…\"비트코인·이더리움 암호체계 뚫릴 수도\"",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T23:17:00Z",
-          "publishedAt": "2026-10-08T23:17:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610090005344417"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 4
+          "count": 6
         },
         {
           "word": "AI",
@@ -422,31 +446,39 @@
         {
           "word": "바이오",
           "count": 1
-        },
-        {
-          "word": "양자",
-          "count": 1
         }
       ],
-      "displayed": 9,
+      "displayed": 10,
       "target": 10,
-      "targetMet": false
+      "targetMet": true
     }
   },
   "global": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.aol.co.uk/articles/no-snowflakes-mental-health-review-230132000.html",
-          "title": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real - AOL",
-          "source": "aol.co.uk",
+          "id": "https://www.thecourierexpress.com/news/armanini-commends-investments-in-healthcare-workforce-education/article_4d99eb2a-02ad-4e69-b7a0-0b73b7a308b7.html",
+          "title": "Armanini commends investments in healthcare workforce education",
+          "source": "thecourierexpress.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T23:17:00Z",
-          "publishedAt": "2026-10-08T23:17:00Z",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
           "summary": "",
-          "url": "https://www.aol.co.uk/articles/no-snowflakes-mental-health-review-230132000.html"
+          "url": "https://www.thecourierexpress.com/news/armanini-commends-investments-in-healthcare-workforce-education/article_4d99eb2a-02ad-4e69-b7a0-0b73b7a308b7.html"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+          "title": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
+          "source": "theguardian.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:33:00Z",
+          "publishedAt": "2026-10-08T23:33:00Z",
+          "summary": "",
+          "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health"
         },
         {
           "id": "https://www.moneytalksnews.com/immigration-limits-threaten-the-care-workforce-what-does-this-mean-for-the-cost-of-home-care/",
@@ -543,18 +575,6 @@
           "publishedAt": "2026-10-08T22:18:00Z",
           "summary": "",
           "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
-        },
-        {
-          "id": "https://www.amren.com/news/2026/10/supreme-court-to-review-key-part-of-trumps-immigration-policy/",
-          "title": "Supreme Court to Review Key Part of Trump’s Immigration Policy - American Renaissance",
-          "source": "amren.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T22:17:00Z",
-          "publishedAt": "2026-10-08T22:17:00Z",
-          "summary": "",
-          "url": "https://www.amren.com/news/2026/10/supreme-court-to-review-key-part-of-trumps-immigration-policy/"
         }
       ],
       "keywords": [
@@ -563,7 +583,7 @@
           "count": 4
         },
         {
-          "word": "이민",
+          "word": "교육",
           "count": 2
         },
         {
@@ -575,11 +595,11 @@
           "count": 1
         },
         {
-          "word": "교육",
+          "word": "불평등",
           "count": 1
         },
         {
-          "word": "불평등",
+          "word": "이민",
           "count": 1
         }
       ],
@@ -589,6 +609,30 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://www.thezimbabwean.co/2026/10/mnangagwa-appoints-kuda-tagwirei-as-minister-of-economic-development-and-investment-promotion/",
+          "title": "Mnangagwa appoints Kuda Tagwirei as Minister of Economic Development and Investment Promotion",
+          "source": "thezimbabwean.co",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://www.thezimbabwean.co/2026/10/mnangagwa-appoints-kuda-tagwirei-as-minister-of-economic-development-and-investment-promotion/"
+        },
+        {
+          "id": "https://www.billboard.com/pro/beatport-growth-investment-square-nine-capital/",
+          "title": "Beatport Secures Growth Investment to ‘Expand the Ways We Serve the Global Electronic Music Community’",
+          "source": "billboard.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://www.billboard.com/pro/beatport-growth-investment-square-nine-capital/"
+        },
         {
           "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69793499-lapmaster-wolters-and-precision-surfacing-solutions-secures-strategic-minority-investment-from-the-cynosure-group-and-fernweh-group-to-accelerate-grow-004.htm",
           "title": "Lapmaster Wolters and Precision Surfacing Solutions Secures Strategic Minority Investment from The Cynosure Group and Fernweh Group to Accelerate Growth",
@@ -684,30 +728,6 @@
           "publishedAt": "2026-10-08T20:46:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01338246645611280&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.thehindu.com/news/cities/chennai/two-held-in-hyderabad-for-cheating-man-of-6226-lakh-in-investment-fraud/article71560917.ece",
-          "title": "Two held in Hyderabad for cheating man of ₹62.26 lakh in investment fraud",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T19:47:00Z",
-          "publishedAt": "2026-10-08T19:47:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/cities/chennai/two-held-in-hyderabad-for-cheating-man-of-6226-lakh-in-investment-fraud/article71560917.ece"
-        },
-        {
-          "id": "https://www.iif.com/Publications/ID/6740/IIF-Asia-Economic-Views-Thailand-An-investment-cycle-is-taking-shape",
-          "title": "IIF Asia Economic Views: Thailand — An investment cycle is taking shape",
-          "source": "iif.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T19:02:00Z",
-          "publishedAt": "2026-10-08T19:02:00Z",
-          "summary": "",
-          "url": "https://www.iif.com/Publications/ID/6740/IIF-Asia-Economic-Views-Thailand-An-investment-cycle-is-taking-shape"
         }
       ],
       "keywords": [
@@ -717,7 +737,7 @@
         },
         {
           "word": "성장",
-          "count": 4
+          "count": 5
         },
         {
           "word": "공급망",
@@ -779,6 +799,42 @@
           "url": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-data-centre-9.7373805",
+          "title": "Company hopes to build AI data centre at Edmonton Energy and Technology Park | CBC News",
+          "source": "cbc.ca",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-data-centre-9.7373805"
+        },
+        {
+          "id": "https://www.wrdw.com/2026/10/08/mobile-ai-manufacturing-lab-visits-georgia-cyber-center/",
+          "title": "Mobile AI, manufacturing lab visits Georgia Cyber Center",
+          "source": "wrdw.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://www.wrdw.com/2026/10/08/mobile-ai-manufacturing-lab-visits-georgia-cyber-center/"
+        },
+        {
+          "id": "https://www.bgr.com/2281608/amd-increase-supply-gpu-cpu-chips/",
+          "title": "AMD To Increase Supply Of GPU And CPU Chips - But Don't Celebrate Yet - BGR",
+          "source": "bgr.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T23:32:00Z",
+          "publishedAt": "2026-10-08T23:32:00Z",
+          "summary": "",
+          "url": "https://www.bgr.com/2281608/amd-increase-supply-gpu-cpu-chips/"
+        },
+        {
           "id": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086",
           "title": "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
           "source": "theregister.com",
@@ -825,42 +881,6 @@
           "publishedAt": "2026-10-08T21:01:00Z",
           "summary": "",
           "url": "https://www.thailand-business-news.com/japan/333216-thailand-and-japan-deepen-11-7-billion-industrial-partnership-around-semiconductors-evs-and-clean-energy"
-        },
-        {
-          "id": "https://siliconangle.com/2026/10/08/coreweave-makes-case-open-full-stack-ai-cloud-fullyconnected/",
-          "title": "CoreWeave makes the case for an open, full-stack AI cloud - SiliconANGLE",
-          "source": "siliconangle.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T21:01:00Z",
-          "publishedAt": "2026-10-08T21:01:00Z",
-          "summary": "",
-          "url": "https://siliconangle.com/2026/10/08/coreweave-makes-case-open-full-stack-ai-cloud-fullyconnected/"
-        },
-        {
-          "id": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design",
-          "title": "Synopsys looks to work with Chinese AI labs to speed up chip design",
-          "source": "asia.nikkei.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T20:47:00Z",
-          "publishedAt": "2026-10-08T20:47:00Z",
-          "summary": "",
-          "url": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/industry/renewables/google-amazon-meta-apple-fuel-indias-renewable-energy-boom-as-data-centre-demand-surges/articleshow/134799462.cms",
-          "title": "Google, Amazon, Meta, Apple fuel India's renewable energy boom as data centre demand surges",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T19:47:00Z",
-          "publishedAt": "2026-10-08T19:47:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/industry/renewables/google-amazon-meta-apple-fuel-indias-renewable-energy-boom-as-data-centre-demand-surges/articleshow/134799462.cms"
         }
       ],
       "keywords": [
@@ -870,7 +890,11 @@
         },
         {
           "word": "클라우드",
-          "count": 4
+          "count": 3
+        },
+        {
+          "word": "GPU",
+          "count": 2
         },
         {
           "word": "로봇",
@@ -881,11 +905,11 @@
           "count": 1
         },
         {
-          "word": "반도체",
+          "word": "전력",
           "count": 1
         },
         {
-          "word": "전력",
+          "word": "제조",
           "count": 1
         }
       ],
@@ -897,8 +921,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4006,
-    "feedBytes": 1069568,
+    "fetchedItems": 3681,
+    "feedBytes": 991330,
     "rollingWindowHours": 72
   }
 }

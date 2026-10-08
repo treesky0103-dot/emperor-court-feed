@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 08:20:49",
+  "updatedAt": "2026. 10. 09. 오전 08:37:22",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 75,
-    "deduped": 75,
-    "eventDeduped": 75,
+    "passed": 74,
+    "deduped": 74,
+    "eventDeduped": 74,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -54,16 +54,16 @@
       "url": "http://www.africaleader.com/news/279359277/30-organisations-report-voice-ai-adoption-drives-revenue-gains-and-global-expansion-for-indian-enterprises-nasscom-krisp-report"
     },
     {
-      "id": "https://canadianinquirer.net/2026/10/08/stelco-layoffs-put-hamilton-steelworkers-on-edge-as-job-cuts-take-effect/",
-      "title": "Stelco layoffs put Hamilton steelworkers on edge as job cuts take effect",
-      "source": "canadianinquirer.net",
+      "id": "https://www.canadianmanufacturing.com/manufacturing/stelco-begins-issuing-layoff-notices-as-first-job-cuts-set-to-take-effect-322016/",
+      "title": "Stelco begins issuing layoff notices as first job cuts set to take effect",
+      "source": "canadianmanufacturing.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T14:17:00Z",
-      "publishedAt": "2026-10-08T14:17:00Z",
+      "dateRaw": "2026-10-08T21:32:00Z",
+      "publishedAt": "2026-10-08T21:32:00Z",
       "summary": "",
-      "url": "https://canadianinquirer.net/2026/10/08/stelco-layoffs-put-hamilton-steelworkers-on-edge-as-job-cuts-take-effect/"
+      "url": "https://www.canadianmanufacturing.com/manufacturing/stelco-begins-issuing-layoff-notices-as-first-job-cuts-set-to-take-effect-322016/"
     },
     {
       "id": "https://wccftech.com/liquidjet-diamond-coldplate-for-enterprise-ai-chips-boosting-tokens-watt/",
@@ -176,18 +176,6 @@
       "url": "http://www.africaleader.com/news/279359277/30-organisations-report-voice-ai-adoption-drives-revenue-gains-and-global-expansion-for-indian-enterprises-nasscom-krisp-report"
     },
     {
-      "id": "https://canadianinquirer.net/2026/10/08/stelco-layoffs-put-hamilton-steelworkers-on-edge-as-job-cuts-take-effect/",
-      "title": "Stelco layoffs put Hamilton steelworkers on edge as job cuts take effect",
-      "source": "canadianinquirer.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T14:17:00Z",
-      "publishedAt": "2026-10-08T14:17:00Z",
-      "summary": "",
-      "url": "https://canadianinquirer.net/2026/10/08/stelco-layoffs-put-hamilton-steelworkers-on-edge-as-job-cuts-take-effect/"
-    },
-    {
       "id": "https://www.canadianmanufacturing.com/manufacturing/stelco-begins-issuing-layoff-notices-as-first-job-cuts-set-to-take-effect-322016/",
       "title": "Stelco begins issuing layoff notices as first job cuts set to take effect",
       "source": "canadianmanufacturing.com",
@@ -282,6 +270,18 @@
       "publishedAt": "2026-10-08T15:02:00Z",
       "summary": "",
       "url": "https://www.channelnewsasia.com/watch/concerns-about-ai-safety-aicon-pushing-conversation-forward-responsible-ai-use-6442901"
+    },
+    {
+      "id": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/",
+      "title": "Job cuts spread across the tech industry, with Microsoft laying off 10,000 people",
+      "source": "digbycourier.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T23:32:00Z",
+      "publishedAt": "2026-10-08T23:32:00Z",
+      "summary": "",
+      "url": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/"
     },
     {
       "id": "https://www.theyeshivaworld.com/news/general/2607344/unemployment-benefit-claims-dipped-slightly-last-week-as-layoffs-remain-low.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4006,
-    "relevantItems": 97,
-    "feedBytes": 1069568,
+    "fetchedItems": 3681,
+    "relevantItems": 98,
+    "feedBytes": 991330,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
