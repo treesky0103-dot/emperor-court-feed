@@ -1,15 +1,15 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 02:47:42",
+  "updatedAt": "2026. 10. 09. 오전 03:00:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261008000321",
-          "title": "트럼프 행사 초청된 한국 창업자들… “다음 목표는 '동아시아 투자 교육 시장'”",
+          "id": "https://www.etnews.com/20261008000143",
+          "title": "[2026 국감] 박홍근 “반도체 호황 재원, 청년·성장동력에 투자”",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "",
@@ -17,21 +17,21 @@
           "dateRaw": "2026-10-08T12:47:00Z",
           "publishedAt": "2026-10-08T12:47:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000321"
+          "url": "https://www.etnews.com/20261008000143"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12171132",
-          "title": "미국투자이민, 유학생의 신분 문제 더 미루면 안 되는 이유",
+          "id": "https://www.mk.co.kr/news/business/12171906",
+          "title": "“에너지분야 교육·연구·학술교류 확대”…남부발전, MIT와 협약 체결",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T11:00:00Z",
-          "publishedAt": "2026-10-08T11:00:00Z",
+          "dateRaw": "2026-10-08T18:53:00Z",
+          "publishedAt": "2026-10-08T18:53:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12171132",
+          "url": "https://www.mk.co.kr/news/business/12171906",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273771&CMPT_CD=M0153",
@@ -133,7 +133,7 @@
       "keywords": [
         {
           "word": "청년",
-          "count": 4
+          "count": 5
         },
         {
           "word": "교육",
@@ -141,10 +141,6 @@
         },
         {
           "word": "복지",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         }
       ],
@@ -358,18 +354,6 @@
           "url": "https://www.newsway.co.kr/news/view?ud=2026100819485430273"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2634063",
-          "title": "삼성 이어 TSMC도 ‘깜짝 실적’⋯AI 반도체 호황 지속",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T10:47:00Z",
-          "publishedAt": "2026-10-08T10:47:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2634063"
-        },
-        {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513078",
           "title": "‘AI 무인매장’ 기대주였는데…대기업·금융사가 투자한 인터마인즈 파산 앞과 뒤",
           "source": "ilyo.co.kr",
@@ -416,20 +400,36 @@
           "publishedAt": "2026-10-08T12:47:00Z",
           "summary": "",
           "url": "https://news.knn.co.kr/news/article/193003"
+        },
+        {
+          "id": "https://www.dongascience.com:443/ko/news/72139",
+          "title": "\"우주·국방·바이오 이끄는 '레이저' 20년째 수리만…세계 최강 타이틀, 유명무실\"",
+          "source": "dongascience.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T12:17:00Z",
+          "publishedAt": "2026-10-08T12:17:00Z",
+          "summary": "",
+          "url": "https://www.dongascience.com:443/ko/news/72139"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 3
         },
         {
           "word": "데이터센터",
           "count": 2
+        },
+        {
+          "word": "바이오",
+          "count": 1
         },
         {
           "word": "조선",
@@ -517,6 +517,18 @@
           "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html"
         },
         {
+          "id": "https://www.bgsu.edu/content/bgsu/en/news/2026/10/bgsu-strategy-for-navigating-higher-educations-enrollment-cliff-featured-on-bloomberg.html",
+          "title": "BGSU strategy for navigating higher education’s ‘enrollment cliff’ featured on Bloomberg",
+          "source": "bgsu.edu",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:47:00Z",
+          "publishedAt": "2026-10-08T17:47:00Z",
+          "summary": "",
+          "url": "https://www.bgsu.edu/content/bgsu/en/news/2026/10/bgsu-strategy-for-navigating-higher-educations-enrollment-cliff-featured-on-bloomberg.html"
+        },
+        {
           "id": "https://en.shafaqna.com/481782/eu-ministers-survey-new-ways-to-curb-irregular-migration/",
           "title": "EU ministers survey new ways to curb irregular migration - Shafaqna English | International Shia News & Fatwas",
           "source": "en.shafaqna.com",
@@ -551,27 +563,15 @@
           "publishedAt": "2026-10-08T15:31:00Z",
           "summary": "",
           "url": "https://nbcmontana.com/news/local/university-of-montana-researcher-explores-whether-stress-leaves-clues-in-ancient-dna"
-        },
-        {
-          "id": "https://allafrica.com/stories/202610080398.html",
-          "title": "Southern Africa: SADC Adopts Regional Strategy On Youth, Peace and Security Agenda",
-          "source": "allafrica.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T15:02:00Z",
-          "publishedAt": "2026-10-08T15:02:00Z",
-          "summary": "",
-          "url": "https://allafrica.com/stories/202610080398.html"
         }
       ],
       "keywords": [
         {
-          "word": "청년",
-          "count": 3
+          "word": "고령화",
+          "count": 2
         },
         {
-          "word": "고령화",
+          "word": "교육",
           "count": 2
         },
         {
@@ -583,8 +583,8 @@
           "count": 2
         },
         {
-          "word": "교육",
-          "count": 1
+          "word": "청년",
+          "count": 2
         },
         {
           "word": "기후이주",
@@ -605,6 +605,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://www.dailypolitical.com/2026/10/08/870462-shares-in-innovator-growth-100-power-buffer-etf-june-njun-bought-by-gradient-investments-llc.html",
+          "title": "870,462 Shares in Innovator Growth-100 Power Buffer ETF – June $NJUN Bought by Gradient Investments LLC",
+          "source": "dailypolitical.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:47:00Z",
+          "publishedAt": "2026-10-08T17:47:00Z",
+          "summary": "",
+          "url": "https://www.dailypolitical.com/2026/10/08/870462-shares-in-innovator-growth-100-power-buffer-etf-june-njun-bought-by-gradient-investments-llc.html"
+        },
         {
           "id": "http://www.bignewsnetwork.com/news/279360352/over-80-speakers-to-explore-economic-resilience-at-sharjah-investment-forum-2026",
           "title": "Over 80 speakers to explore economic resilience at Sharjah Investment Forum 2026",
@@ -712,18 +724,6 @@
           "publishedAt": "2026-10-08T14:17:00Z",
           "summary": "",
           "url": "https://www.forbes.com/councils/forbescoachescouncil/2026/10/08/why-cutting-leadership-investments-costs-more-than-it-saves/"
-        },
-        {
-          "id": "https://tribune.net.ph/2026/10/08/marcos-touts-create-more-as-key-investment-legacy",
-          "title": "Marcos Highlights CREATE MORE Act as Key to Boosting Philippine Investments and Economic Growth",
-          "source": "tribune.net.ph",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T13:47:00Z",
-          "publishedAt": "2026-10-08T13:47:00Z",
-          "summary": "",
-          "url": "https://tribune.net.ph/2026/10/08/marcos-touts-create-more-as-key-investment-legacy"
         }
       ],
       "keywords": [
@@ -787,16 +787,52 @@
           "url": "http://www.indiagazette.com/news/279359618/airtel-showcases-sovereign-cloud-ai-security-quantum-telecom-research-to-scindia-at-imc-2026"
         },
         {
-          "id": "https://www.eejournal.com/industry_news/infineon-and-zuriq-deepen-partnership-to-advance-scalable-quantum-chips/",
-          "title": "Infineon and ZuriQ deepen partnership to advance scalable quantum chips",
-          "source": "eejournal.com",
+          "id": "https://www.photonicsonline.com/doc/infineon-and-zuriq-deepen-partnership-to-advance-scalable-quantum-chips-0001",
+          "title": "Infineon And ZuriQ Deepen Partnership To Advance Scalable Quantum Chips",
+          "source": "photonicsonline.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T17:17:00Z",
-          "publishedAt": "2026-10-08T17:17:00Z",
+          "dateRaw": "2026-10-08T17:47:00Z",
+          "publishedAt": "2026-10-08T17:47:00Z",
           "summary": "",
-          "url": "https://www.eejournal.com/industry_news/infineon-and-zuriq-deepen-partnership-to-advance-scalable-quantum-chips/"
+          "url": "https://www.photonicsonline.com/doc/infineon-and-zuriq-deepen-partnership-to-advance-scalable-quantum-chips-0001"
+        },
+        {
+          "id": "https://www.tickerreport.com/banking-finance/13612609/taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-quintet-private-bank-europe-s-a.html",
+          "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Quintet Private Bank Europe S.A.",
+          "source": "tickerreport.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:47:00Z",
+          "publishedAt": "2026-10-08T17:47:00Z",
+          "summary": "",
+          "url": "https://www.tickerreport.com/banking-finance/13612609/taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-quintet-private-bank-europe-s-a.html"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/Visakhapatnam/ap-positions-north-andhra-as-a-hub-for-ai-data-centres-fintech-and-semiconductors/article71559929.ece",
+          "title": "A.P. positions north Andhra as a hub for AI, data centres, fintech and semiconductors",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:46:00Z",
+          "publishedAt": "2026-10-08T17:46:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/ap-positions-north-andhra-as-a-hub-for-ai-data-centres-fintech-and-semiconductors/article71559929.ece"
+        },
+        {
+          "id": "https://globalnews.ca/news/12092770/hydro-quebec-energy-costs-data-centres/",
+          "title": "Consultants for Hydro-Québec defend proposal to double energy costs for data centres - Montreal | Globalnews.ca",
+          "source": "globalnews.ca",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:46:00Z",
+          "publishedAt": "2026-10-08T17:46:00Z",
+          "summary": "",
+          "url": "https://globalnews.ca/news/12092770/hydro-quebec-energy-costs-data-centres/"
         },
         {
           "id": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
@@ -809,18 +845,6 @@
           "publishedAt": "2026-10-08T17:17:00Z",
           "summary": "",
           "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free"
-        },
-        {
-          "id": "https://www.niagarafallsreview.ca/business/consultants-for-hydro-qu-bec-defend-proposal-to-double-energy-costs-for-data-centres/article_25f52549-30ff-5c02-ac3b-a569532321c8.html",
-          "title": "Consultants for Hydro-Québec defend proposal to double energy costs for data centres",
-          "source": "niagarafallsreview.ca",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T17:17:00Z",
-          "publishedAt": "2026-10-08T17:17:00Z",
-          "summary": "",
-          "url": "https://www.niagarafallsreview.ca/business/consultants-for-hydro-qu-bec-defend-proposal-to-double-energy-costs-for-data-centres/article_25f52549-30ff-5c02-ac3b-a569532321c8.html"
         },
         {
           "id": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
@@ -845,36 +869,12 @@
           "publishedAt": "2026-10-08T15:32:00Z",
           "summary": "",
           "url": "https://matr.net/news/meic-data-centers-threats-to-water-and-energy-bills/"
-        },
-        {
-          "id": "https://fortune.com/2026/10/08/aws-pricing-team-18-tab-excel-model-into-ai-chatbot-evaluate-customer-deals-cfo/",
-          "title": "AWS pricing team turns 18-tab Excel model into an AI chatbot to evaluate customer deals, CFO says | Fortune",
-          "source": "fortune.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T15:32:00Z",
-          "publishedAt": "2026-10-08T15:32:00Z",
-          "summary": "",
-          "url": "https://fortune.com/2026/10/08/aws-pricing-team-18-tab-excel-model-into-ai-chatbot-evaluate-customer-deals-cfo/"
-        },
-        {
-          "id": "https://www.investors.com/news/ai-energy-infrastructure-stocks-buy-points/",
-          "title": "AI Energy Infrastructure Hoists Pipeline Stocks Near Buy Points",
-          "source": "investors.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T15:32:00Z",
-          "publishedAt": "2026-10-08T15:32:00Z",
-          "summary": "",
-          "url": "https://www.investors.com/news/ai-energy-infrastructure-stocks-buy-points/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "클라우드",
@@ -889,7 +889,15 @@
           "count": 2
         },
         {
+          "word": "반도체",
+          "count": 1
+        },
+        {
           "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         }
       ],
@@ -901,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5791,
-    "feedBytes": 1625001,
+    "fetchedItems": 5721,
+    "feedBytes": 1619400,
     "rollingWindowHours": 72
   }
 }
