@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 01:24:32",
+  "updatedAt": "2026. 10. 09. 오전 01:49:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 668,
-    "deduped": 668,
-    "eventDeduped": 668,
+    "passed": 666,
+    "deduped": 666,
+    "eventDeduped": 666,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -236,16 +236,16 @@
       "url": "https://www.themarketsdaily.com/2026/10/08/china-bak-battery-targets-india-growth-ai-data-centers-with-major-capacity-expansion.html"
     },
     {
-      "id": "https://www.thehindu.com/sci-tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-teases-muse-charm-product/article71502702.ece",
-      "title": "Meta launches camera-free AI glasses amid privacy pushback, teases Muse Charm product",
-      "source": "thehindu.com",
+      "id": "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html",
+      "title": "Google Cloud introduces Gemini agent for work as AI race heats up",
+      "source": "cnbc.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T08:02:00Z",
-      "publishedAt": "2026-10-08T08:02:00Z",
+      "dateRaw": "2026-10-08T16:32:00Z",
+      "publishedAt": "2026-10-08T16:32:00Z",
       "summary": "",
-      "url": "https://www.thehindu.com/sci-tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-teases-muse-charm-product/article71502702.ece"
+      "url": "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
     },
     {
       "id": "https://www.huffingtonpost.kr:443/article/261098",
@@ -644,6 +644,18 @@
       "url": "https://www.yasstribune.com.au/story/9364636/billions-in-tech-infrastructure-needed-for-data-centres/"
     },
     {
+      "id": "https://cyprus-mail.com/2026/10/08/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike",
+      "title": "Russia’s Yandex says unclear whether data centre can be restored after drone strike",
+      "source": "cyprus-mail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T16:31:00Z",
+      "publishedAt": "2026-10-08T16:31:00Z",
+      "summary": "",
+      "url": "https://cyprus-mail.com/2026/10/08/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike"
+    },
+    {
       "id": "https://www.businesspost.ie/companies/data-centre-firm-echelon-bringing-green-power-to-irish-grid-in-2028/",
       "title": "Data centre firm Echelon bringing green power to Irish grid in 2028",
       "source": "businesspost.ie",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T11:31:00Z",
       "summary": "",
       "url": "https://www.greenocktelegraph.co.uk/news/26615147.scottish-committee-launches-hyperscale-data-centre-inquiry/"
-    },
-    {
-      "id": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/",
-      "title": "No pause on data centres in Quinte West",
-      "source": "quintenews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T09:47:00Z",
-      "publishedAt": "2026-10-08T09:47:00Z",
-      "summary": "",
-      "url": "https://www.quintenews.com/2026/10/08/quinte-west-cancels-data-centre-pause/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 7008,
-    "relevantItems": 200,
-    "feedBytes": 1997129,
+    "fetchedItems": 6634,
+    "relevantItems": 193,
+    "feedBytes": 1798260,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
