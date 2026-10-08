@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 07:26:29",
+  "updatedAt": "2026. 10. 09. 오전 07:45:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 125,
-    "deduped": 125,
-    "eventDeduped": 125,
+    "passed": 126,
+    "deduped": 126,
+    "eventDeduped": 126,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.newspim.com/news/view/20261008001405"
     },
     {
-      "id": "https://saiia.org.za/project/futures-of-critical-minerals-in-southern-africa-building-anticipatory-governance/",
-      "title": "Futures of Critical Minerals in Southern Africa: Building Anticipatory Governance",
-      "source": "saiia.org.za",
+      "id": "http://theeconomiccollapseblog.com/the-energy-crisis-escalates-the-dual-threat-of-more-war-in-the-middle-east-and-hurricane-isaias-damaging-u-s-refineries-in-the-gulf-is-pushing-oil-prices-even-higher/",
+      "title": "The Energy Crisis Escalates: The Dual Threat Of More War In The Middle East And Hurricane Isaias Damaging U.S. Refineries In The Gulf Is Pushing Oil Prices Even Higher",
+      "source": "theeconomiccollapseblog.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T22:17:00Z",
-      "publishedAt": "2026-10-08T22:17:00Z",
+      "dateRaw": "2026-10-08T22:32:00Z",
+      "publishedAt": "2026-10-08T22:32:00Z",
       "summary": "",
-      "url": "https://saiia.org.za/project/futures-of-critical-minerals-in-southern-africa-building-anticipatory-governance/"
+      "url": "http://theeconomiccollapseblog.com/the-energy-crisis-escalates-the-dual-threat-of-more-war-in-the-middle-east-and-hurricane-isaias-damaging-u-s-refineries-in-the-gulf-is-pushing-oil-prices-even-higher/"
     }
   ],
   "trendItems": [
@@ -464,18 +464,6 @@
       "url": "https://www.channelnewsasia.com/watch/asean-making-good-progress-code-conduct-south-china-sea-philippine-president-6442811"
     },
     {
-      "id": "https://www.prokerala.com/news/articles/a1822016.html",
-      "title": "India backs regional energy action plan at ASEAN meet in Manila",
-      "source": "prokerala.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T13:32:00Z",
-      "publishedAt": "2026-10-08T13:32:00Z",
-      "summary": "",
-      "url": "https://www.prokerala.com/news/articles/a1822016.html"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/business/india-business/cancer-drug-prices-may-fall-as-government-plans-30-trade-margin-cap/articleshow/134800542.cms",
       "title": "Cancer drug prices may fall as government plans 30% trade margin cap",
       "source": "timesofindia.indiatimes.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T19:47:00Z",
       "summary": "",
       "url": "https://www.tnp.no/norway/economy/norway-to-start-trade-deal-negotiation-with-the-uk/"
+    },
+    {
+      "id": "https://www.tomshardware.com/tech-industry/semiconductors/department-of-war-dishes-out-usd1-5-billion-loan-commitment-to-boost-semiconductor-supply-chain-wolfspeed-to-focus-on-national-security-applications-as-part-of-30-year-agreement",
+      "title": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement",
+      "source": "tomshardware.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T17:46:00Z",
+      "publishedAt": "2026-10-08T17:46:00Z",
+      "summary": "",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/department-of-war-dishes-out-usd1-5-billion-loan-commitment-to-boost-semiconductor-supply-chain-wolfspeed-to-focus-on-national-security-applications-as-part-of-30-year-agreement"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4328,
-    "relevantItems": 92,
-    "feedBytes": 1187805,
+    "fetchedItems": 3834,
+    "relevantItems": 81,
+    "feedBytes": 1046751,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 07:26:28",
+  "updatedAt": "2026. 10. 09. 오전 07:45:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 701,
-    "deduped": 701,
-    "eventDeduped": 701,
+    "passed": 699,
+    "deduped": 699,
+    "eventDeduped": 699,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,18 +452,6 @@
       "url": "http://www.tennesseedaily.com/news/279359802/first-breach-expands-hiring-initiative-to-support-ammunition-production-growth-and-planned-drone-manufacturing-operations"
     },
     {
-      "id": "https://aninews.in/news/business/piyush-goyal-meets-saab-india-chief-to-discuss-defence-manufacturing-supply-chain-indigenisation20261008183455/",
-      "title": "Piyush Goyal meets Saab India chief to discuss defence manufacturing, supply chain indigenisation",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T13:32:00Z",
-      "publishedAt": "2026-10-08T13:32:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/business/piyush-goyal-meets-saab-india-chief-to-discuss-defence-manufacturing-supply-chain-indigenisation20261008183455/"
-    },
-    {
       "id": "https://www.roboticstomorrow.com/company_directory/mmp-inc--midwest-motion-products-inc/10391",
       "title": "Industrial Automation, Robots and Unmanned Vehicles Company - MMP Inc. / MIDWEST MOTION PRODUCTS, INC. | RoboticsTomorrow",
       "source": "roboticstomorrow.com",
@@ -486,6 +474,18 @@
       "publishedAt": "2026-10-08T22:17:00Z",
       "summary": "",
       "url": "https://www.roboticstomorrow.com/company_directory/cmes-robotics-inc-/12997"
+    },
+    {
+      "id": "https://link.springer.com/journal/170",
+      "title": "The International Journal of Advanced Manufacturing Technology",
+      "source": "link.springer.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T21:32:00Z",
+      "publishedAt": "2026-10-08T21:32:00Z",
+      "summary": "",
+      "url": "https://link.springer.com/journal/170"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/pds--precision-drive-systems/10130",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4328,
-    "relevantItems": 92,
-    "feedBytes": 1187805,
+    "fetchedItems": 3834,
+    "relevantItems": 81,
+    "feedBytes": 1046751,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
