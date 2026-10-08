@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 05:01:52",
+  "updatedAt": "2026. 10. 09. 오전 05:28:56",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 125,
-    "deduped": 125,
-    "eventDeduped": 125,
+    "passed": 123,
+    "deduped": 123,
+    "eventDeduped": 123,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,18 +308,6 @@
       "url": "https://gcaptain.com/mexican-auto-exports-slump-in-september-as-us-tariffs-take-toll/"
     },
     {
-      "id": "https://nineoclock.ro/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record/",
-      "title": "Tech beats tariffs: global trade growth accelerates and globalization sets new record",
-      "source": "nineoclock.ro",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T11:46:00Z",
-      "publishedAt": "2026-10-08T11:46:00Z",
-      "summary": "",
-      "url": "https://nineoclock.ro/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record/"
-    },
-    {
       "id": "http://www.koreatimes.com/article/20261008/1633075",
       "title": "트럼프 관세, 美소비재 물가 2.9%p 올려…뉴욕연은 보고서 - 미주 한국일보",
       "source": "koreatimes.com",
@@ -356,16 +344,28 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=07229126645610952&mediaCodeNo=257"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261008001374",
-      "title": "[인도증시] '고유가·고금리 발작' 인도 증시 사면초가…센섹스 32개월 만에 최저치로",
-      "source": "newspim.com",
-      "language": "Korean",
+      "id": "https://allafrica.com/stories/202610080600.html",
+      "title": "Nigeria: TUC Tells FG - Implement N800 to $1 Exchange Rate to Reduce Fuel Price",
+      "source": "allafrica.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T11:47:00Z",
-      "publishedAt": "2026-10-08T11:47:00Z",
+      "dateRaw": "2026-10-08T20:16:00Z",
+      "publishedAt": "2026-10-08T20:16:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20261008001374"
+      "url": "https://allafrica.com/stories/202610080600.html"
+    },
+    {
+      "id": "https://www.tnp.no/norway/economy/norway-to-start-trade-deal-negotiation-with-the-uk/",
+      "title": "Norway to Start Trade Deal Negotiation with the UK - The Nordic Page",
+      "source": "tnp.no",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T19:47:00Z",
+      "publishedAt": "2026-10-08T19:47:00Z",
+      "summary": "",
+      "url": "https://www.tnp.no/norway/economy/norway-to-start-trade-deal-negotiation-with-the-uk/"
     },
     {
       "id": "https://www.ksl.com:443/article/51634011/university-of-utah-gets-75m-federal-grant-to-advance-domestic-critical-minerals-search",
@@ -486,6 +486,30 @@
       "publishedAt": "2026-10-08T13:17:00Z",
       "summary": "",
       "url": "https://www.thediplomat.ro/2026/10/08/central-and-eastern-european-energy-organizations-sign-declaration-on-energy-security-and-competitiveness/"
+    },
+    {
+      "id": "https://www.tnp.no/norway/politics/1783-towards-a-new-international-arms-trade-treaty/",
+      "title": "Towards a New International Arms Trade Treaty - The Nordic Page",
+      "source": "tnp.no",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T20:17:00Z",
+      "publishedAt": "2026-10-08T20:17:00Z",
+      "summary": "",
+      "url": "https://www.tnp.no/norway/politics/1783-towards-a-new-international-arms-trade-treaty/"
+    },
+    {
+      "id": "https://talk1073.com/2026/10/08/louisiana-agriculture-trade-fuel-costs-harvest-safety-and-fall-crops/",
+      "title": "Louisiana Agriculture: Trade, Fuel Costs, Harvest Safety and Fall Crops - Talk 107.3FM",
+      "source": "talk1073.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T20:17:00Z",
+      "publishedAt": "2026-10-08T20:17:00Z",
+      "summary": "",
+      "url": "https://talk1073.com/2026/10/08/louisiana-agriculture-trade-fuel-costs-harvest-safety-and-fall-crops/"
     },
     {
       "id": "https://www.newstalk.com/podcasts/clairebyrne/trade-unions-are-unlikely-to-abandon-industrial-action",
@@ -692,16 +716,16 @@
       "url": "https://www.themoscowtimes.com/2026/10/08/uk-expands-sanctions-to-cover-90-of-russian-oil-output-shadow-fleet-and-finance-networks-a93922"
     },
     {
-      "id": "https://www.tnp.no/norway/economy/norway-to-start-trade-deal-negotiation-with-the-uk/",
-      "title": "Norway to Start Trade Deal Negotiation with the UK - The Nordic Page",
-      "source": "tnp.no",
+      "id": "https://reason.com/2026/10/08/republicans-are-getting-grilled-over-trumps-tariffs/",
+      "title": "Republicans are getting grilled over Trump's tariffs",
+      "source": "reason.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-08",
-      "dateRaw": "2026-10-08T19:47:00Z",
-      "publishedAt": "2026-10-08T19:47:00Z",
+      "dateRaw": "2026-10-08T19:17:00Z",
+      "publishedAt": "2026-10-08T19:17:00Z",
       "summary": "",
-      "url": "https://www.tnp.no/norway/economy/norway-to-start-trade-deal-negotiation-with-the-uk/"
+      "url": "https://reason.com/2026/10/08/republicans-are-getting-grilled-over-trumps-tariffs/"
     },
     {
       "id": "https://www.latintimes.com/flavio-bolsonaros-first-round-lead-sent-brazilian-real-surging-r450-brl-usd-exchange-rate-599951",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-08T19:02:00Z",
       "summary": "",
       "url": "https://www.latintimes.com/flavio-bolsonaros-first-round-lead-sent-brazilian-real-surging-r450-brl-usd-exchange-rate-599951"
-    },
-    {
-      "id": "https://www.marketplace.org/story/2026/10/07/regulating-the-tangled-ai-supply-chain",
-      "title": "\"Circular spaghetti\": What the tangled AI supply chain means for regulation",
-      "source": "marketplace.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T16:17:00Z",
-      "publishedAt": "2026-10-08T16:17:00Z",
-      "summary": "",
-      "url": "https://www.marketplace.org/story/2026/10/07/regulating-the-tangled-ai-supply-chain"
-    },
-    {
-      "id": "https://bworldonline.com/world/2026/10/08/785606/malaysia-to-work-towards-myanmars-full-reintegration-into-asean-pm-says/",
-      "title": "Malaysia to work towards Myanmar’s full reintegration into ASEAN, PM says - BusinessWorld Online",
-      "source": "bworldonline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T12:17:00Z",
-      "publishedAt": "2026-10-08T12:17:00Z",
-      "summary": "",
-      "url": "https://bworldonline.com/world/2026/10/08/785606/malaysia-to-work-towards-myanmars-full-reintegration-into-asean-pm-says/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4728,
-    "relevantItems": 131,
-    "feedBytes": 1306296,
+    "fetchedItems": 4757,
+    "relevantItems": 97,
+    "feedBytes": 1309559,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

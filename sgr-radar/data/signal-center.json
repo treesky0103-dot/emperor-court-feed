@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 05:01:55",
+  "updatedAt": "2026. 10. 09. 오전 05:29:02",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -229,16 +229,18 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681331"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10896011",
-          "title": "AG 조직위, 선수단 수송·태극기 게양 차질 공식 사과",
-          "source": "biz.heraldcorp.com",
+          "id": "https://www.mk.co.kr/news/society/12171745",
+          "title": "[인사] 재정경제부 / 공정거래위원회 / 대우건설 등",
+          "source": "mk.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T13:47:00Z",
-          "publishedAt": "2026-10-08T13:47:00Z",
+          "dateRaw": "2026-10-08T17:06:54Z",
+          "publishedAt": "2026-10-08T17:06:54Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10896011"
+          "url": "https://www.mk.co.kr/news/society/12171745",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
@@ -493,16 +495,28 @@
           "url": "http://www.nepalnational.com/news/279359425/when-the-sea-comes-for-the-land-bangladeshs-quiet-climate-migration"
         },
         {
-          "id": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-          "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-          "source": "cnbc.com",
+          "id": "https://orthospinenews.com/2026/10/08/u-s-ambulatory-surgery-center-market-reaches-49-19-billion-in-2026-as-outpatient-procedure-migration-higher-acuity-cases-and-asc-consolidation-reshape-u-s-surgical-care/",
+          "title": "U.S. Ambulatory Surgery Center Market Reaches $49.19 Billion in 2026 as Outpatient Procedure Migration, Higher-Acuity Cases and ASC Consolidation Reshape U.S. Surgical Care – Ortho Spine News",
+          "source": "orthospinenews.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-08",
-          "dateRaw": "2026-10-08T13:46:00Z",
-          "publishedAt": "2026-10-08T13:46:00Z",
+          "dateRaw": "2026-10-08T20:17:00Z",
+          "publishedAt": "2026-10-08T20:17:00Z",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html"
+          "url": "https://orthospinenews.com/2026/10/08/u-s-ambulatory-surgery-center-market-reaches-49-19-billion-in-2026-as-outpatient-procedure-migration-higher-acuity-cases-and-asc-consolidation-reshape-u-s-surgical-care/"
+        },
+        {
+          "id": "https://www.kcbd.com/2026/10/08/paws-change-invites-west-texas-families-harvest-market-benefiting-local-animal-welfare/",
+          "title": "Paws of Change Invites West Texas Families to Harvest Market Benefiting Local Animal Welfare",
+          "source": "kcbd.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T20:16:00Z",
+          "publishedAt": "2026-10-08T20:16:00Z",
+          "summary": "",
+          "url": "https://www.kcbd.com/2026/10/08/paws-change-invites-west-texas-families-harvest-market-benefiting-local-animal-welfare/"
         },
         {
           "id": "https://www.kmjnow.com/2026/10/08/reported-ice-activity-spark-protests-increased-school-absences-across-the-valley/",
@@ -527,32 +541,16 @@
           "publishedAt": "2026-10-08T19:32:00Z",
           "summary": "",
           "url": "https://oklahomawatch.org/newsletter/education-watch-feds-announce-new-probes-of-school-district-handling-of-sex-crime-reports/"
-        },
-        {
-          "id": "https://98kupd.com/episode/10-08-26-survey-asks-14-to-15yo-hs-students-if-they-think-theyre-gay-or-trans-23yo-woman-in-milwaukee-went-to-her-high-school-and-posed-as-a-substitute-teacher-and-segregated-her-classes-by-race/",
-          "title": "10-08-26 – Survey Asks 14 to 15yo HS Students If They Think They’re Gay Or Trans – 23yo Woman In Milwaukee Went To Her High School And Posed As A Substitute Teacher And Segregated Her Classes By Race And Features – 98KUPD – Arizona's Rock Station",
-          "source": "98kupd.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T19:32:00Z",
-          "publishedAt": "2026-10-08T19:32:00Z",
-          "summary": "",
-          "url": "https://98kupd.com/episode/10-08-26-survey-asks-14-to-15yo-hs-students-if-they-think-theyre-gay-or-trans-23yo-woman-in-milwaukee-went-to-her-high-school-and-posed-as-a-substitute-teacher-and-segregated-her-classes-by-race/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
-        },
-        {
-          "word": "고령화",
-          "count": 2
+          "count": 3
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
         },
         {
           "word": "정신건강",
@@ -561,6 +559,10 @@
         {
           "word": "청년",
           "count": 2
+        },
+        {
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "기후이주",
@@ -743,18 +745,6 @@
           "url": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030"
         },
         {
-          "id": "http://www.indiagazette.com/news/279359618/airtel-showcases-sovereign-cloud-ai-security-quantum-telecom-research-to-scindia-at-imc-2026",
-          "title": "Airtel showcases sovereign cloud, AI security, quantum telecom research to Scindia at IMC 2026",
-          "source": "indiagazette.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T13:47:00Z",
-          "publishedAt": "2026-10-08T13:47:00Z",
-          "summary": "",
-          "url": "http://www.indiagazette.com/news/279359618/airtel-showcases-sovereign-cloud-ai-security-quantum-telecom-research-to-scindia-at-imc-2026"
-        },
-        {
           "id": "https://economictimes.indiatimes.com/industry/renewables/google-amazon-meta-apple-fuel-indias-renewable-energy-boom-as-data-centre-demand-surges/articleshow/134799462.cms",
           "title": "Google, Amazon, Meta, Apple fuel India's renewable energy boom as data centre demand surges",
           "source": "economictimes.indiatimes.com",
@@ -837,6 +827,18 @@
           "publishedAt": "2026-10-08T17:47:00Z",
           "summary": "",
           "url": "https://www.tickerreport.com/banking-finance/13612609/taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-quintet-private-bank-europe-s-a.html"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/Visakhapatnam/ap-positions-north-andhra-as-a-hub-for-ai-data-centres-fintech-and-semiconductors/article71559929.ece",
+          "title": "A.P. positions north Andhra as a hub for AI, data centres, fintech and semiconductors",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T17:46:00Z",
+          "publishedAt": "2026-10-08T17:46:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/ap-positions-north-andhra-as-a-hub-for-ai-data-centres-fintech-and-semiconductors/article71559929.ece"
         }
       ],
       "keywords": [
@@ -845,19 +847,19 @@
           "count": 5
         },
         {
-          "word": "클라우드",
-          "count": 3
-        },
-        {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "양자",
+          "word": "클라우드",
           "count": 2
         },
         {
           "word": "반도체",
+          "count": 1
+        },
+        {
+          "word": "양자",
           "count": 1
         },
         {
@@ -877,8 +879,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4728,
-    "feedBytes": 1306296,
+    "fetchedItems": 4757,
+    "feedBytes": 1309559,
     "rollingWindowHours": 72
   }
 }
