@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 10:06:14",
+  "updatedAt": "2026. 10. 09. 오후 10:31:16",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 52,
-    "deduped": 52,
-    "eventDeduped": 52,
+    "passed": 50,
+    "deduped": 50,
+    "eventDeduped": 50,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -704,18 +704,6 @@
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-to-americans-you-are-getting-the-job-killer-wrong-it-is-not-ai-it-is-your-rising-/articleshow/134812304.cms"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms",
-      "title": "'Workers with AI skills in demand, but GenAI is hitting white-collar hiring'",
-      "source": "timesofindia.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T01:31:00Z",
-      "publishedAt": "2026-10-09T01:31:00Z",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms"
-    },
-    {
       "id": "https://politicalwire.com/2026/10/08/layoffs-at-extremely-low-levels-despite-gloom/",
       "title": "Layoffs at ‘Extremely Low Levels’ Despite Gloom",
       "source": "politicalwire.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T02:31:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/483637/flock-safety-workforce-reduction-surveillance/"
+    },
+    {
+      "id": "https://whyy.org/articles/stockton-university-layoffs-unions-25-million-deficit/",
+      "title": "Stockton University are planning layoffs to close a $25 million deficit",
+      "source": "whyy.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:46:00Z",
+      "publishedAt": "2026-10-09T01:46:00Z",
+      "summary": "",
+      "url": "https://whyy.org/articles/stockton-university-layoffs-unions-25-million-deficit/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6392,
-    "relevantItems": 108,
-    "feedBytes": 1825940,
+    "fetchedItems": 6640,
+    "relevantItems": 128,
+    "feedBytes": 1847081,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
