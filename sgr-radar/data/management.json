@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 07:16:52",
+  "updatedAt": "2026. 10. 09. 오후 07:38:24",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 52,
-    "deduped": 52,
-    "eventDeduped": 52,
+    "passed": 51,
+    "deduped": 51,
+    "eventDeduped": 51,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -428,18 +428,6 @@
       "url": "https://english.aawsat.com/business/5327587-world-bank-praises-saudi-arabia%E2%80%99s-experience-data-governance-and-ai-development"
     },
     {
-      "id": "https://www.asiaone.com/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack",
-      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "source": "asiaone.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T06:31:00Z",
-      "publishedAt": "2026-10-09T06:31:00Z",
-      "summary": "",
-      "url": "https://www.asiaone.com/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack"
-    },
-    {
       "id": "https://www.hcamag.com/us/specialization/hr-technology/can-ai-improve-employee-wellbeing/592912",
       "title": "Can AI improve employee wellbeing?",
       "source": "hcamag.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T23:17:00Z",
       "summary": "",
       "url": "https://www.theyeshivaworld.com/news/general/2607344/unemployment-benefit-claims-dipped-slightly-last-week-as-layoffs-remain-low.html"
+    },
+    {
+      "id": "https://abc7chicago.com/post/cook-county-budget-proposal-closes-550-million-deficit-tax-increases-layoffs-board-president-toni-preckwinkle-says/19922546/",
+      "title": "Cook County budget proposal closes $550 million deficit without tax increases, layoffs: Preckwinkle",
+      "source": "abc7chicago.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T22:17:00Z",
+      "publishedAt": "2026-10-08T22:17:00Z",
+      "summary": "",
+      "url": "https://abc7chicago.com/post/cook-county-budget-proposal-closes-550-million-deficit-tax-increases-layoffs-board-president-toni-preckwinkle-says/19922546/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6098,
-    "relevantItems": 78,
-    "feedBytes": 1708524,
+    "fetchedItems": 6573,
+    "relevantItems": 96,
+    "feedBytes": 1884573,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

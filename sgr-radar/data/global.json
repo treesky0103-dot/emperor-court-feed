@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 07:16:52",
+  "updatedAt": "2026. 10. 09. 오후 07:38:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 124,
-    "deduped": 124,
-    "eventDeduped": 124,
+    "passed": 125,
+    "deduped": 125,
+    "eventDeduped": 125,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -212,6 +212,18 @@
       "url": "https://fortune.com/2026/10/08/pepsico-price-hike-doritos-ruffles-sodas-178-million-tariff-refund/"
     },
     {
+      "id": "http://www.asiabulletin.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
+      "title": "US trade deficit widens 13.7% as imports hit record high",
+      "source": "asiabulletin.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T10:32:00Z",
+      "publishedAt": "2026-10-09T10:32:00Z",
+      "summary": "",
+      "url": "http://www.asiabulletin.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
+    },
+    {
       "id": "https://www.mdjonline.com/opinion/patrick-rosenstiel-a-2-000-tariff-on-a-4-000-canadian-painting-shows-what-s/article_a92bf2e7-caa5-4641-ab05-c15384d22da5.html",
       "title": "PATRICK ROSENSTIEL: A $2,000 Tariff on a $4,000 Canadian Painting Shows What’s Wrong With U.S. Trade Policy",
       "source": "mdjonline.com",
@@ -234,18 +246,6 @@
       "publishedAt": "2026-10-09T09:47:00Z",
       "summary": "",
       "url": "https://investinglive.com/commodities/oil-prices-ease-as-traders-unwind-the-escalation-risk-premium-after-trump-rules-out-strikes-on-iran/"
-    },
-    {
-      "id": "http://www.tucsonpost.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
-      "title": "US trade deficit widens 13.7% as imports hit record high",
-      "source": "tucsonpost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T09:46:00Z",
-      "publishedAt": "2026-10-09T09:46:00Z",
-      "summary": "",
-      "url": "http://www.tucsonpost.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
     },
     {
       "id": "https://www.bizcommunity.com/article/western-cape-exports-to-us-fall-162-as-trade-tensions-grow-292127a",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6098,
-    "relevantItems": 78,
-    "feedBytes": 1708524,
+    "fetchedItems": 6573,
+    "relevantItems": 96,
+    "feedBytes": 1884573,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
