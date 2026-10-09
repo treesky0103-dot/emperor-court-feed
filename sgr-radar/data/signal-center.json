@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 02:24:39",
+  "updatedAt": "2026. 10. 10. 오전 02:44:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,20 +46,6 @@
           "url": "https://www.etoday.co.kr/news/view/2633748"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12171834",
-          "title": "호주 투자에서 자산이전까지, 구조 설계가 성패를 가른다 [바른 상속·기업승계 리포트]",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T07:00:00Z",
-          "publishedAt": "2026-10-09T07:00:00Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12171834",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
           "id": "http://www.koreatimes.com/article/20261009/1633235",
           "title": "에스더하재단, 정신건강 응급처치 무료교육 세미나 - 미주 한국일보",
           "source": "koreatimes.com",
@@ -70,6 +56,20 @@
           "publishedAt": "2026-10-09T17:17:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261009/1633235"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/society/12172305",
+          "title": "김성문 연세대 교수, 한국경영과학회 제37대 회장 당선",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T15:36:34Z",
+          "publishedAt": "2026-10-09T15:36:34Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12172305",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.busan.com/view/busan/view.php?code=2026100918151944944",
@@ -161,18 +161,18 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12171834",
-          "title": "호주 투자에서 자산이전까지, 구조 설계가 성패를 가른다 [바른 상속·기업승계 리포트]",
+          "id": "https://www.mk.co.kr/news/business/12172442",
+          "title": "소비자는 高사양 쏠림, 제조사는 스펙 낮춰 재출시 … 칩플레이션 기현상",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T07:00:00Z",
-          "publishedAt": "2026-10-09T07:00:00Z",
+          "dateRaw": "2026-10-09T17:31:15Z",
+          "publishedAt": "2026-10-09T17:31:15Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12171834",
+          "url": "https://www.mk.co.kr/news/business/12172442",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=04595286645611280&mediaCodeNo=257",
@@ -288,14 +288,18 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
-        },
-        {
-          "word": "기업",
-          "count": 2
+          "count": 4
         },
         {
           "word": "고용",
+          "count": 1
+        },
+        {
+          "word": "기업",
+          "count": 1
+        },
+        {
+          "word": "소비",
           "count": 1
         },
         {
@@ -907,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6367,
-    "feedBytes": 1776996,
+    "fetchedItems": 583,
+    "feedBytes": 164823,
     "rollingWindowHours": 72
   }
 }

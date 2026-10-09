@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 02:24:34",
+  "updatedAt": "2026. 10. 10. 오전 02:44:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 668,
-    "deduped": 668,
-    "eventDeduped": 668,
+    "passed": 669,
+    "deduped": 669,
+    "eventDeduped": 669,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,16 +524,16 @@
       "url": "https://aninews.in/news/national/general-news/gujarat-state-biotechnology-mission-aau-to-sign-mou-to-establish-biomanufacturing-facilities-for-biofertilizers16020261009151135/"
     },
     {
-      "id": "http://www.asiabulletin.com/news/279362101/ceragon-networks-to-begin-manufacturing-in-india-in-coming-months-says-vp-erez-aviv",
-      "title": "Ceragon Networks to begin manufacturing in India in coming months, says VP Erez Aviv",
-      "source": "asiabulletin.com",
+      "id": "https://newsroomamerica.com/tag/manufacturing_pay_by_subsector",
+      "title": "Tag: manufacturing_pay_by_subsector",
+      "source": "newsroomamerica.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T16:47:00Z",
-      "publishedAt": "2026-10-09T16:47:00Z",
+      "dateRaw": "2026-10-09T17:31:00Z",
+      "publishedAt": "2026-10-09T17:31:00Z",
       "summary": "",
-      "url": "http://www.asiabulletin.com/news/279362101/ceragon-networks-to-begin-manufacturing-in-india-in-coming-months-says-vp-erez-aviv"
+      "url": "https://newsroomamerica.com/tag/manufacturing_pay_by_subsector"
     },
     {
       "id": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/tcg-crossover-raises-600m-for-debut-asian-biotech-fund-opens-shanghai-and-hong-kong-offices.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6367,
-    "relevantItems": 124,
-    "feedBytes": 1776996,
+    "fetchedItems": 583,
+    "relevantItems": 9,
+    "feedBytes": 164823,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
