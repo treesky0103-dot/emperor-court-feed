@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 07:55:04",
+  "updatedAt": "2026. 10. 10. 오전 08:11:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,6 +46,18 @@
           "publishedAt": "2026-10-09T14:32:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/biznews/1281720.html"
+        },
+        {
+          "id": "https://www.fnnews.com/news/202610100000552561",
+          "title": "\"도쿄는 매년 10만채 짓는데 서울은 3만채…이 시스템 못 깨면 집값 상승 불가피\"",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T23:02:00Z",
+          "publishedAt": "2026-10-09T23:02:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610100000552561"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10898055",
@@ -120,32 +132,20 @@
           "url": "https://www.mk.co.kr/news/business/12172410",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/biznews/1281719.html",
-          "title": "사이버한국외국어대학교, 대구광역시교육청과 산업체 위탁교육 협약 체결",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T14:31:00Z",
-          "publishedAt": "2026-10-09T14:31:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/biznews/1281719.html"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
-        },
-        {
-          "word": "청년",
           "count": 3
         },
         {
           "word": "주거",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "청년",
+          "count": 3
         },
         {
           "word": "복지",
@@ -344,6 +344,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.fnnews.com/news/202610100105391791",
+          "title": "\"반도체만 보면 안 된다\"…AI 시대 살아남는 복합 포트폴리오",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T23:01:00Z",
+          "publishedAt": "2026-10-09T23:01:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610100105391791"
+        },
+        {
           "id": "https://www.newspim.com/news/view/20261009000179",
           "title": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...이란 공격 유예에 반도체주 일제히 반등",
           "source": "newspim.com",
@@ -382,18 +394,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.fnnews.com/news/202610091500340924",
-          "title": "차세대 칩·공급 확대가 앞으로 성장세 가른다 [삼성전자 '꿈의 실적' 현실화③]",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T13:17:00Z",
-          "publishedAt": "2026-10-09T13:17:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610091500340924"
-        },
-        {
           "id": "https://www.mk.co.kr/news/business/12172442",
           "title": "소비자는 高사양 쏠림, 제조사는 스펙 낮춰 재출시 … 칩플레이션 기현상",
           "source": "mk.co.kr",
@@ -420,6 +420,18 @@
           "url": "https://biz.heraldcorp.com/article/10897052"
         },
         {
+          "id": "https://www.fnnews.com/news/202610100405261313",
+          "title": "\"100만명 폐업 현실\"…반도체 호황인데 자영업자는 왜 무너질까",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T23:02:00Z",
+          "publishedAt": "2026-10-09T23:02:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610100405261313"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261010051013",
           "title": "뉴 아시아 포럼, 발리서 열리는 첫 행사에서 뉴 아시아에 미화 300억 달러 투자 유치 목표",
           "source": "zdnet.co.kr",
@@ -437,11 +449,11 @@
       "keywords": [
         {
           "word": "반도체",
-          "count": 7
+          "count": 9
         },
         {
           "word": "AI",
-          "count": 3
+          "count": 4
         },
         {
           "word": "전력",
@@ -452,9 +464,9 @@
           "count": 1
         }
       ],
-      "displayed": 9,
+      "displayed": 10,
       "target": 10,
-      "targetMet": false
+      "targetMet": true
     }
   },
   "global": {
@@ -917,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3712,
-    "feedBytes": 1008171,
+    "fetchedItems": 3529,
+    "feedBytes": 942898,
     "rollingWindowHours": 72
   }
 }
