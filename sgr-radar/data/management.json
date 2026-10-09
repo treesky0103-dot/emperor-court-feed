@@ -2,33 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 07:13:37",
+  "updatedAt": "2026. 10. 10. 오전 07:35:39",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 35,
-    "deduped": 35,
-    "eventDeduped": 35,
+    "passed": 32,
+    "deduped": 32,
+    "eventDeduped": 32,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.fow.com/insights/buy-side-research-budgets-flatline-as-ai-spending-rises-40",
-      "title": "Buy-side research budgets flatline as AI spending rises 40% | FOW",
-      "source": "fow.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:47:00Z",
-      "publishedAt": "2026-10-09T11:47:00Z",
-      "summary": "",
-      "url": "https://www.fow.com/insights/buy-side-research-budgets-flatline-as-ai-spending-rises-40"
-    },
     {
       "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
       "title": "Senao Networks Launches x86 Enterprise Server Series for Enterprise AI",
@@ -136,21 +124,21 @@
       "publishedAt": "2026-10-09T15:16:00Z",
       "summary": "",
       "url": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/"
-    }
-  ],
-  "trendItems": [
+    },
     {
-      "id": "https://www.fow.com/insights/buy-side-research-budgets-flatline-as-ai-spending-rises-40",
-      "title": "Buy-side research budgets flatline as AI spending rises 40% | FOW",
-      "source": "fow.com",
+      "id": "http://www.russiaherald.com/news/279361725/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance",
+      "title": "Meghalaya's edGrid Showcased at World Bank's World Development Report 2026 India Launch as a Model for AI-Powered Education Governance",
+      "source": "russiaherald.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:47:00Z",
-      "publishedAt": "2026-10-09T11:47:00Z",
+      "dateRaw": "2026-10-09T21:32:00Z",
+      "publishedAt": "2026-10-09T21:32:00Z",
       "summary": "",
-      "url": "https://www.fow.com/insights/buy-side-research-budgets-flatline-as-ai-spending-rises-40"
-    },
+      "url": "http://www.russiaherald.com/news/279361725/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance"
+    }
+  ],
+  "trendItems": [
     {
       "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
       "title": "Senao Networks Launches x86 Enterprise Server Series for Enterprise AI",
@@ -368,18 +356,6 @@
       "url": "https://www.itweb.co.za/article/sap-says-enterprise-context-is-key-to-predictive-ai-operations/WnpNgM21V1b7VrGd"
     },
     {
-      "id": "https://www.therakyatpost.com/news/2026/10/09/budget-2027-sovereign-ai-cloud-planned-100000-more-free-ai-subscriptions-ai-app-to-check-scams/",
-      "title": "Budget 2027: Sovereign AI Cloud Planned, 100,000 More Free AI Subscriptions, AI App To Check Scams | TRP",
-      "source": "therakyatpost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:46:00Z",
-      "publishedAt": "2026-10-09T11:46:00Z",
-      "summary": "",
-      "url": "https://www.therakyatpost.com/news/2026/10/09/budget-2027-sovereign-ai-cloud-planned-100000-more-free-ai-subscriptions-ai-app-to-check-scams/"
-    },
-    {
       "id": "https://www.chroniclejournal.com/news/national/september-job-losses-pour-cold-water-on-bank-of-canada-rate-hike-chatter/article_6fe8fc51-8fe9-5c4d-a43f-9228531be40c.html",
       "title": "September job losses pour cold water on Bank of Canada rate hike chatter",
       "source": "chroniclejournal.com",
@@ -414,18 +390,6 @@
       "publishedAt": "2026-10-09T17:17:00Z",
       "summary": "",
       "url": "http://www.koreatimes.com/article/20261009/1633248"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20260920000110",
-      "title": "현대차, 5세대 투싼 공개…차체 키우고 하이브리드 성능 높였다",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:47:00Z",
-      "publishedAt": "2026-10-09T11:47:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20260920000110"
     },
     {
       "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
@@ -564,9 +528,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3912,
-    "relevantItems": 75,
-    "feedBytes": 1054105,
+    "fetchedItems": 4125,
+    "relevantItems": 57,
+    "feedBytes": 1124948,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

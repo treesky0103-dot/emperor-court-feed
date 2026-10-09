@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 07:13:46",
+  "updatedAt": "2026. 10. 10. 오전 07:35:46",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -356,18 +356,6 @@
           "url": "https://www.newspim.com/news/view/20261009000179"
         },
         {
-          "id": "https://www.etnews.com/20260922000456",
-          "title": "광주상의, 호남권 반도체 클러스터 성공 열쇠 '전력·용수·부지' 해법 논의",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T12:02:00Z",
-          "publishedAt": "2026-10-09T12:02:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20260922000456"
-        },
-        {
           "id": "https://www.pressian.com/pages/articles/2026100915580329821",
           "title": "최태원 회장, 호남권 반도체 클러스터 부지 광주 군공항 첫 방문…\"전력·용수 늦어도 먼저 착공\"",
           "source": "pressian.com",
@@ -432,22 +420,24 @@
           "url": "https://biz.heraldcorp.com/article/10897052"
         },
         {
-          "id": "https://www.etnews.com/20260824000353",
-          "title": "전남광주 각계 “'천지 개벽' 호남권 반도체 클러스터 반드시 성공시켜야”",
-          "source": "etnews.com",
+          "id": "https://zdnet.co.kr/view/?no=20261010051013",
+          "title": "뉴 아시아 포럼, 발리서 열리는 첫 행사에서 뉴 아시아에 미화 300억 달러 투자 유치 목표",
+          "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T12:02:00Z",
-          "publishedAt": "2026-10-09T12:02:00Z",
+          "dateRaw": "2026-10-09T20:10:13Z",
+          "publishedAt": "2026-10-09T20:10:13Z",
           "summary": "",
-          "url": "https://www.etnews.com/20260824000353"
+          "url": "https://zdnet.co.kr/view/?no=20261010051013",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 9
+          "count": 7
         },
         {
           "word": "AI",
@@ -455,16 +445,16 @@
         },
         {
           "word": "전력",
-          "count": 3
+          "count": 2
         },
         {
           "word": "제조",
           "count": 1
         }
       ],
-      "displayed": 10,
+      "displayed": 9,
       "target": 10,
-      "targetMet": true
+      "targetMet": false
     }
   },
   "global": {
@@ -481,6 +471,18 @@
           "publishedAt": "2026-10-09T18:32:00Z",
           "summary": "",
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
+        },
+        {
+          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=24",
+          "title": "Healthcare Workers See Insane Things Every Day, But Here Are The Craziest Ones (46 Stories)",
+          "source": "boredpanda.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T22:31:00Z",
+          "publishedAt": "2026-10-09T22:31:00Z",
+          "summary": "",
+          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=24"
         },
         {
           "id": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis",
@@ -577,18 +579,6 @@
           "publishedAt": "2026-10-09T14:01:00Z",
           "summary": "",
           "url": "https://www.oneindia.com/india/mental-health-day-six-organisations-join-hands-to-humanise-medicine-put-doctors-wellbeing-in-focu-8229877.html"
-        },
-        {
-          "id": "https://www.arkansasonline.com/news/2026/oct/09/report-74-of-last-years-educational-freedom/",
-          "title": "Report: 74% of last year’s Educational Freedom Account students did not come from public school | Arkansas Democrat Gazette",
-          "source": "arkansasonline.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T22:01:00Z",
-          "publishedAt": "2026-10-09T22:01:00Z",
-          "summary": "",
-          "url": "https://www.arkansasonline.com/news/2026/oct/09/report-74-of-last-years-educational-freedom/"
         }
       ],
       "keywords": [
@@ -597,15 +587,15 @@
           "count": 4
         },
         {
-          "word": "교육",
-          "count": 2
-        },
-        {
           "word": "청년",
           "count": 2
         },
         {
           "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "교육",
           "count": 1
         },
         {
@@ -630,6 +620,18 @@
           "publishedAt": "2026-10-09T14:46:00Z",
           "summary": "",
           "url": "https://harpers.co.uk/news/fullstory.php/aid/36503/Vinarchy_pushes_forward_with_growth_strategy_for_global_travel_retail.html"
+        },
+        {
+          "id": "https://www.gx94radio.com/2026/10/09/paul-martin-potash-rivals-aluminum-in-economic-clout-but-escapes-tariff-heat/",
+          "title": "Paul Martin: Potash rivals aluminum in economic clout, but escapes tariff heat",
+          "source": "gx94radio.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T22:31:00Z",
+          "publishedAt": "2026-10-09T22:31:00Z",
+          "summary": "",
+          "url": "https://www.gx94radio.com/2026/10/09/paul-martin-potash-rivals-aluminum-in-economic-clout-but-escapes-tariff-heat/"
         },
         {
           "id": "https://buenosairesherald.com/economics/market-considers-economy-in-recession-as-it-curtails-2026-growth-prospects",
@@ -726,18 +728,6 @@
           "publishedAt": "2026-10-09T16:47:00Z",
           "summary": "",
           "url": "https://english.news.cn/20261009/dab556b0e6b14c959879278bd23fdced/c.html"
-        },
-        {
-          "id": "https://cyprus-mail.com/2026/10/09/cyprus-targets-bigger-role-in-space-economy-with-e13-5m-investment",
-          "title": "Cyprus targets bigger role in space economy with €13.5m investment",
-          "source": "cyprus-mail.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T16:01:00Z",
-          "publishedAt": "2026-10-09T16:01:00Z",
-          "summary": "",
-          "url": "https://cyprus-mail.com/2026/10/09/cyprus-targets-bigger-role-in-space-economy-with-e13-5m-investment"
         }
       ],
       "keywords": [
@@ -751,10 +741,14 @@
         },
         {
           "word": "투자",
-          "count": 3
+          "count": 2
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "관세",
           "count": 1
         }
       ],
@@ -923,8 +917,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3912,
-    "feedBytes": 1054105,
+    "fetchedItems": 4125,
+    "feedBytes": 1124948,
     "rollingWindowHours": 72
   }
 }
