@@ -2,33 +2,21 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 12:03:25",
+  "updatedAt": "2026. 10. 10. 오전 12:26:33",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 138,
-    "deduped": 138,
-    "eventDeduped": 138,
+    "passed": 136,
+    "deduped": 136,
+    "eventDeduped": 136,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.hani.co.kr/arti/international/international_general/1281434.html",
-      "title": "트럼프 “관세로 전쟁 막았다”…또 노벨평화상 노골적 욕심",
-      "source": "hani.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:46:00Z",
-      "publishedAt": "2026-10-09T03:46:00Z",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1281434.html"
-    },
     {
       "id": "https://www.businesstimes.com.sg/international/asean/singapores-2027-asean-chairmanship-could-advance-sustainability-regional-energy-integration",
       "title": "Singapore’s 2027 Asean chairmanship could advance sustainability, regional energy integration",
@@ -64,6 +52,18 @@
       "publishedAt": "2026-10-09T05:31:00Z",
       "summary": "",
       "url": "https://www.punjabijagran.com/world/other-country-us-cracks-down-on-iran-oil-trade-sanctions-two-mumbai-firms-and-five-indian-nationals-9694891.html"
+    },
+    {
+      "id": "https://www.digbycourier.ca/canada-imposes-a-100-tariff-on-imports-of-electric-vehicles-made-in-china-similar-to-the-us/",
+      "title": "Canada imposes a 100% tariff on imports of electric vehicles made in China, similar to the US",
+      "source": "digbycourier.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:17:00Z",
+      "publishedAt": "2026-10-09T15:17:00Z",
+      "summary": "",
+      "url": "https://www.digbycourier.ca/canada-imposes-a-100-tariff-on-imports-of-electric-vehicles-made-in-china-similar-to-the-us/"
     },
     {
       "id": "https://livenews.co.nz/2026/10/10/documentary-2026-towards-the-hainan-free-trade-port-premieres-in-kuala-lumpur-encouraging-asean-businesses-to-establish-a-presence-in-hainan/",
@@ -140,18 +140,6 @@
   ],
   "trendItems": [
     {
-      "id": "https://www.hani.co.kr/arti/international/international_general/1281434.html",
-      "title": "트럼프 “관세로 전쟁 막았다”…또 노벨평화상 노골적 욕심",
-      "source": "hani.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:46:00Z",
-      "publishedAt": "2026-10-09T03:46:00Z",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1281434.html"
-    },
-    {
       "id": "https://www.businesstimes.com.sg/international/asean/singapores-2027-asean-chairmanship-could-advance-sustainability-regional-energy-integration",
       "title": "Singapore’s 2027 Asean chairmanship could advance sustainability, regional energy integration",
       "source": "businesstimes.com.sg",
@@ -186,6 +174,18 @@
       "publishedAt": "2026-10-09T05:31:00Z",
       "summary": "",
       "url": "https://www.punjabijagran.com/world/other-country-us-cracks-down-on-iran-oil-trade-sanctions-two-mumbai-firms-and-five-indian-nationals-9694891.html"
+    },
+    {
+      "id": "https://www.digbycourier.ca/canada-imposes-a-100-tariff-on-imports-of-electric-vehicles-made-in-china-similar-to-the-us/",
+      "title": "Canada imposes a 100% tariff on imports of electric vehicles made in China, similar to the US",
+      "source": "digbycourier.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:17:00Z",
+      "publishedAt": "2026-10-09T15:17:00Z",
+      "summary": "",
+      "url": "https://www.digbycourier.ca/canada-imposes-a-100-tariff-on-imports-of-electric-vehicles-made-in-china-similar-to-the-us/"
     },
     {
       "id": "https://livenews.co.nz/2026/10/10/documentary-2026-towards-the-hainan-free-trade-port-premieres-in-kuala-lumpur-encouraging-asean-businesses-to-establish-a-presence-in-hainan/",
@@ -234,18 +234,6 @@
       "publishedAt": "2026-10-09T12:02:00Z",
       "summary": "",
       "url": "https://shippingwatch.com/logistics/article19723336.ece"
-    },
-    {
-      "id": "http://www.tennesseedaily.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
-      "title": "US trade deficit widens 13.7% as imports hit record high",
-      "source": "tennesseedaily.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:02:00Z",
-      "publishedAt": "2026-10-09T11:02:00Z",
-      "summary": "",
-      "url": "http://www.tennesseedaily.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
     },
     {
       "id": "https://pajhwok.com/2026/10/09/us-imposes-new-sanctions-on-iranian-oil-networks-17-ships/",
@@ -320,6 +308,18 @@
       "url": "http://www.china.org.cn/2026-10/09/content_118726405.shtml"
     },
     {
+      "id": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/",
+      "title": "DHL: The biggest story in global trade right now is AI – not tariffs | Post & Parcel",
+      "source": "postandparcel.info",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T04:46:00Z",
+      "publishedAt": "2026-10-09T04:46:00Z",
+      "summary": "",
+      "url": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/"
+    },
+    {
       "id": "https://www.alwihdainfo.com/pinglu-canal-opens-to-boost-china-asean-connectivity-and-trade/",
       "title": "Pinglu Canal Opens to Boost China-ASEAN Connectivity and Trade",
       "source": "alwihdainfo.com",
@@ -392,6 +392,42 @@
       "url": "https://www.newspim.com/news/view/20261008000025"
     },
     {
+      "id": "https://www.greeleytribune.com/2026/10/09/trump-committee-fed-lisa-cook/",
+      "title": "Trump establishes committee to investigate Federal Reserve’s Lisa Cook in latest effort to fire her",
+      "source": "greeleytribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:17:00Z",
+      "publishedAt": "2026-10-09T15:17:00Z",
+      "summary": "",
+      "url": "https://www.greeleytribune.com/2026/10/09/trump-committee-fed-lisa-cook/"
+    },
+    {
+      "id": "https://en.interfax.com.ua/news/general/1217252.html",
+      "title": "Kyiv administration says state unblocks payments for some energy security projects",
+      "source": "en.interfax.com.ua",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:16:00Z",
+      "publishedAt": "2026-10-09T15:16:00Z",
+      "summary": "",
+      "url": "https://en.interfax.com.ua/news/general/1217252.html"
+    },
+    {
+      "id": "https://www.nutraingredients.com/Article/2026/10/09/nutracast-ann-armbrecht-on-sustainable-herb-sourcing-and-building-resilient-supply-chains/",
+      "title": "NutraCast: Ann Armbrecht on Sustainable Herb Sourcing and Building Resilient Supply Chains",
+      "source": "nutraingredients.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:16:00Z",
+      "publishedAt": "2026-10-09T15:16:00Z",
+      "summary": "",
+      "url": "https://www.nutraingredients.com/Article/2026/10/09/nutracast-ann-armbrecht-on-sustainable-herb-sourcing-and-building-resilient-supply-chains/"
+    },
+    {
       "id": "https://salinapost.com/posts/6635a649-6c98-4fae-a836-9bfd171eaec4",
       "title": "Higher diesel prices ripple through food supply chain",
       "source": "salinapost.com",
@@ -402,18 +438,6 @@
       "publishedAt": "2026-10-09T14:47:00Z",
       "summary": "",
       "url": "https://salinapost.com/posts/6635a649-6c98-4fae-a836-9bfd171eaec4"
-    },
-    {
-      "id": "https://www.republicanherald.com/2026/10/09/trump-committee-fed-lisa-cook/",
-      "title": "Trump establishes committee to investigate Federal Reserve’s Lisa Cook in latest effort to fire her",
-      "source": "republicanherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T14:47:00Z",
-      "publishedAt": "2026-10-09T14:47:00Z",
-      "summary": "",
-      "url": "https://www.republicanherald.com/2026/10/09/trump-committee-fed-lisa-cook/"
     },
     {
       "id": "https://leadership.ng/experts-to-deliberate-on-nigerias-energy-security-amid-policy/",
@@ -476,18 +500,6 @@
       "url": "https://www.intrafish.com/feed/well-known-seafood-companies-named-in-sweeping-fishmeal-supply-chain-probe/2-1-2056121"
     },
     {
-      "id": "https://www.pr-inside.com/stillwater-critical-minerals-upgrades-to-otcqx-best-market-expanding-r5231800.htm",
-      "title": "Stillwater Critical Minerals Upgrades to OTCQX Best Market, Expanding ...",
-      "source": "pr-inside.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T13:01:00Z",
-      "publishedAt": "2026-10-09T13:01:00Z",
-      "summary": "",
-      "url": "https://www.pr-inside.com/stillwater-critical-minerals-upgrades-to-otcqx-best-market-expanding-r5231800.htm"
-    },
-    {
       "id": "https://www.euro-petrole.com/seatrium-secures-full-scope-epcic-fsru-conversion-contract-from-excelerate-energy-advancing-energy-security-through-floating-lng-infrastructure-n-i-30766",
       "title": "Seatrium Secures Full-Scope EPCIC FSRU Conversion Contract from Excelerate Energy, Advancing Energy Security Through Floating LNG Infrastructure",
       "source": "euro-petrole.com",
@@ -512,18 +524,6 @@
       "url": "https://www.trend.az/casia/uzbekistan/4232934.html"
     },
     {
-      "id": "https://www.investmentwatchblog.com/tariff-pain-trumps-tariff-driven-price-squeeze-collides-with-voter-frustration-halloween-candy-costs-soar-71-republicans-face-a-growing-midterm-problem/",
-      "title": "TARIFF PAIN: Trump’s tariff-driven price squeeze collides with voter frustration. Halloween candy costs soar 71%. Republicans face a growing midterm problem - Investment Watch Blog",
-      "source": "investmentwatchblog.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:31:00Z",
-      "publishedAt": "2026-10-09T03:31:00Z",
-      "summary": "",
-      "url": "https://www.investmentwatchblog.com/tariff-pain-trumps-tariff-driven-price-squeeze-collides-with-voter-frustration-halloween-candy-costs-soar-71-republicans-face-a-growing-midterm-problem/"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261009000174",
       "title": "크루그먼의 경고 \"프랑스, 유럽중앙은행도 구제 못 할 수 있다\"",
       "source": "newspim.com",
@@ -534,6 +534,18 @@
       "publishedAt": "2026-10-09T13:47:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261009000174"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/global-trade-to-grow-4-in-2026-slower-than-4-4-in-2025-unctad/articleshow/134837236.cms",
+      "title": "Global trade to grow 4% in 2026, slower than 4.4% in 2025: UNCTAD",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:16:00Z",
+      "publishedAt": "2026-10-09T15:16:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/global-trade-to-grow-4-in-2026-slower-than-4-4-in-2025-unctad/articleshow/134837236.cms"
     },
     {
       "id": "https://www.freemalaysiatoday.com/category/business/2026/10/09/china-eu-agree-on-dialogue-cars-and-rare-earths-after-trade-talks",
@@ -656,18 +668,6 @@
       "url": "https://sputnikglobe.com/20261009/russia-china-trade-to-reach-record-270275-billion-by-yearend---deputy-pms-office-1124854388.html"
     },
     {
-      "id": "https://www.theyeshivaworld.com/news/general/2607458/trade-standoff-trump-administration-refuses-to-soften-position-in-negotiations-with-canada.html",
-      "title": "TRADE STANDOFF: Trump Administration Refuses To Soften Position In Negotiations With Canada",
-      "source": "theyeshivaworld.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:31:00Z",
-      "publishedAt": "2026-10-09T03:31:00Z",
-      "summary": "",
-      "url": "https://www.theyeshivaworld.com/news/general/2607458/trade-standoff-trump-administration-refuses-to-soften-position-in-negotiations-with-canada.html"
-    },
-    {
       "id": "https://www.busan.com/view/busan/view.php?code=2026100908091546549",
       "title": "트럼프 '11월 중간선거 전까지 이란 공격 안해'…국제 유가 상승폭 축소",
       "source": "busan.com",
@@ -680,16 +680,16 @@
       "url": "https://www.busan.com/view/busan/view.php?code=2026100908091546549"
     },
     {
-      "id": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/",
-      "title": "DHL: The biggest story in global trade right now is AI – not tariffs | Post & Parcel",
-      "source": "postandparcel.info",
+      "id": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
+      "title": "China to resume October fuel exports after a brief halt, four trade sources say – KSEV Radio",
+      "source": "ksevradio.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T04:46:00Z",
-      "publishedAt": "2026-10-09T04:46:00Z",
+      "dateRaw": "2026-10-09T04:31:00Z",
+      "publishedAt": "2026-10-09T04:31:00Z",
       "summary": "",
-      "url": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/"
+      "url": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/"
     },
     {
       "id": "http://www.ihalla.com/article.php?aid=1791545429791386073",
@@ -716,20 +716,20 @@
       "url": "https://www.fnnews.com/news/202610090702384473"
     },
     {
-      "id": "https://newsroomamerica.com/a/1MgFRCCecHfhefWFO6Nc8ASkZku/the_federal_reserve_board_has_published_the_findings_of_its_2025_survey_of_consumer_finances_offering_the_public_and_policymakers_detailed_insights_into_the_economic_condition_of_american_families.html",
-      "title": "Federal Reserve Board Releases Results of 2025 Survey of Consumer Finances",
-      "source": "newsroomamerica.com",
+      "id": "https://economictimes.indiatimes.com/industry/banking/finance/banking/central-bank-of-india-posts-30-credit-growth-at-rs-3-81-lakh-cr-in-q2/articleshow/134698077.cms",
+      "title": "Central Bank of India posts 30% credit growth at Rs 3.81 lakh cr in Q2",
+      "source": "economictimes.indiatimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T14:47:00Z",
-      "publishedAt": "2026-10-09T14:47:00Z",
+      "dateRaw": "2026-10-09T15:17:00Z",
+      "publishedAt": "2026-10-09T15:17:00Z",
       "summary": "",
-      "url": "https://newsroomamerica.com/a/1MgFRCCecHfhefWFO6Nc8ASkZku/the_federal_reserve_board_has_published_the_findings_of_its_2025_survey_of_consumer_finances_offering_the_public_and_policymakers_detailed_insights_into_the_economic_condition_of_american_families.html"
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/central-bank-of-india-posts-30-credit-growth-at-rs-3-81-lakh-cr-in-q2/articleshow/134698077.cms"
     },
     {
-      "id": "https://www.pr-inside.com/imc-rare-earths-insights-why-the-global-search-for-critical-minerals-r5231795.htm",
-      "title": "IMC Rare Earths Insights: Why the Global Search for Critical Minerals ...",
+      "id": "https://www.pr-inside.com/stillwater-critical-minerals-upgrades-to-otcqx-best-market-expanding-r5231800.htm",
+      "title": "Stillwater Critical Minerals Upgrades to OTCQX Best Market, Expanding ...",
       "source": "pr-inside.com",
       "language": "English",
       "sourceCountry": "",
@@ -737,16 +737,16 @@
       "dateRaw": "2026-10-09T13:01:00Z",
       "publishedAt": "2026-10-09T13:01:00Z",
       "summary": "",
-      "url": "https://www.pr-inside.com/imc-rare-earths-insights-why-the-global-search-for-critical-minerals-r5231795.htm"
+      "url": "https://www.pr-inside.com/stillwater-critical-minerals-upgrades-to-otcqx-best-market-expanding-r5231800.htm"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 7103,
-    "relevantItems": 130,
-    "feedBytes": 2038729,
+    "fetchedItems": 6672,
+    "relevantItems": 119,
+    "feedBytes": 1926293,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

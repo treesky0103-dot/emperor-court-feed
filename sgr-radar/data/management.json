@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 12:03:25",
+  "updatedAt": "2026. 10. 10. 오전 12:26:32",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 47,
-    "deduped": 47,
-    "eventDeduped": 47,
+    "passed": 44,
+    "deduped": 44,
+    "eventDeduped": 44,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,28 +332,16 @@
       "url": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/"
     },
     {
-      "id": "https://www.theyeshivaworld.com/news/general/2607309/more-amazon-layoffs-hundreds-of-corporate-jobs-cut-in-u-s-india-and-britain.html",
-      "title": "MORE AMAZON LAYOFFS: Hundreds of Corporate Jobs Cut in U.S., India and Britain",
-      "source": "theyeshivaworld.com",
+      "id": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/",
+      "title": "Stock bull market nears 4-year anniversary driven by AI spending — but there are looming risks",
+      "source": "nypost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:31:00Z",
-      "publishedAt": "2026-10-09T03:31:00Z",
+      "dateRaw": "2026-10-09T15:16:00Z",
+      "publishedAt": "2026-10-09T15:16:00Z",
       "summary": "",
-      "url": "https://www.theyeshivaworld.com/news/general/2607309/more-amazon-layoffs-hundreds-of-corporate-jobs-cut-in-u-s-india-and-britain.html"
-    },
-    {
-      "id": "https://en.shafaqna.com/481724/us-labor-market-steady-layoffs-57-year-low/",
-      "title": "US Labor Market Steady as Layoffs Hit 57-Year Low",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:31:00Z",
-      "publishedAt": "2026-10-09T03:31:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/481724/us-labor-market-steady-layoffs-57-year-low/"
+      "url": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/"
     },
     {
       "id": "https://asia.nikkei.com/business/technology/ai-casts-shadow-over-india-s-multinational-tech-job-machine",
@@ -560,18 +548,6 @@
       "url": "https://www.chroniclejournal.com/online_features/press_releases/how-to-turn-faster-ai-coding-into-faster-software-delivery/image_dfaed078-332d-5147-a0b0-c4f01b4c679b.html"
     },
     {
-      "id": "https://telecom.economictimes.indiatimes.com/news/industry/imc-2026-programmable-5g-sa-on-device-processing-critical-to-scale-ai-economy-say-executives/134804811",
-      "title": "IMC 2026: Programmable 5G SA, on-device processing critical to scale AI economy, say executives",
-      "source": "telecom.economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:32:00Z",
-      "publishedAt": "2026-10-09T03:32:00Z",
-      "summary": "",
-      "url": "https://telecom.economictimes.indiatimes.com/news/industry/imc-2026-programmable-5g-sa-on-device-processing-critical-to-scale-ai-economy-say-executives/134804811"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20260920000110",
       "title": "현대차, 5세대 투싼 공개…차체 키우고 하이브리드 성능 높였다",
       "source": "newspim.com",
@@ -582,18 +558,6 @@
       "publishedAt": "2026-10-09T11:47:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20260920000110"
-    },
-    {
-      "id": "https://www.newsway.co.kr/news/view?ud=2026100809524999112",
-      "title": "이젠 하이브리드보다 많이 산다···수입차 시장 휩쓴 전기차 - 뉴스웨이",
-      "source": "newsway.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:46:00Z",
-      "publishedAt": "2026-10-09T03:46:00Z",
-      "summary": "",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026100809524999112"
     },
     {
       "id": "https://www.globalcement.com/news/21341-cemex-s-denver-cement-plant-to-lay-off-70-workers",
@@ -708,9 +672,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 7103,
-    "relevantItems": 130,
-    "feedBytes": 2038729,
+    "fetchedItems": 6672,
+    "relevantItems": 119,
+    "feedBytes": 1926293,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

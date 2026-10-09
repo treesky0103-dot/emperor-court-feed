@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 12:03:29",
+  "updatedAt": "2026. 10. 10. 오전 12:26:37",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -771,6 +771,18 @@
           "url": "https://247wallst.com/companies/tsm/"
         },
         {
+          "id": "https://www.thehindu.com/sci-tech/technology/gadgets/imc-2026-iqoo-16-and-motorola-signature-27-to-run-snapdragon-8-elite-extreme-gen-6-soc-xiaomi-18-pro-will-use-snapdragon-8-elite-gen-6-chip/article71563357.ece",
+          "title": "IMC 2026: iQOO 16 and Motorola Signature 27 to run Snapdragon 8 Elite Extreme Gen 6 SoC, Xiaomi 18 Pro will use Snapdragon 8 Elite Gen 6 chip",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T15:17:00Z",
+          "publishedAt": "2026-10-09T15:17:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/sci-tech/technology/gadgets/imc-2026-iqoo-16-and-motorola-signature-27-to-run-snapdragon-8-elite-extreme-gen-6-soc-xiaomi-18-pro-will-use-snapdragon-8-elite-gen-6-chip/article71563357.ece"
+        },
+        {
           "id": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go",
           "title": "Don't blame the energy companies or data centers if your utilities go up",
           "source": "highlandcountypress.com",
@@ -853,18 +865,6 @@
           "publishedAt": "2026-10-09T09:46:00Z",
           "summary": "",
           "url": "https://www.dailymirror.lk/business-news/Quantum-AI-not-licensed-to-offer-securities-services-SEC/273-352168"
-        },
-        {
-          "id": "https://www.esi-africa.com/industry-sectors/smart-technologies/data-centres-reshaping-global-power-grid/",
-          "title": "How data centres are reshaping the global power grid",
-          "source": "esi-africa.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T09:32:00Z",
-          "publishedAt": "2026-10-09T09:32:00Z",
-          "summary": "",
-          "url": "https://www.esi-africa.com/industry-sectors/smart-technologies/data-centres-reshaping-global-power-grid/"
         }
       ],
       "keywords": [
@@ -881,19 +881,15 @@
           "count": 2
         },
         {
+          "word": "반도체",
+          "count": 2
+        },
+        {
           "word": "제조",
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 1
-        },
-        {
           "word": "양자",
-          "count": 1
-        },
-        {
-          "word": "전력",
           "count": 1
         },
         {
@@ -909,8 +905,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 7103,
-    "feedBytes": 2038729,
+    "fetchedItems": 6672,
+    "feedBytes": 1926293,
     "rollingWindowHours": 72
   }
 }
