@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 06:14:41",
+  "updatedAt": "2026. 10. 09. 오후 06:38:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 117,
-    "deduped": 117,
-    "eventDeduped": 117,
+    "passed": 123,
+    "deduped": 123,
+    "eventDeduped": 123,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -224,6 +224,18 @@
       "url": "https://www.geo.tv/latest/685676-us-sanctions-indian-uae-and-turkish-firms-over-iranian-oil-trade"
     },
     {
+      "id": "https://www.bizcommunity.com/article/western-cape-exports-to-us-fall-162-as-trade-tensions-grow-292127a",
+      "title": "Western Cape exports to US fall 16.2% as trade tensions grow",
+      "source": "bizcommunity.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T09:32:00Z",
+      "publishedAt": "2026-10-09T09:32:00Z",
+      "summary": "",
+      "url": "https://www.bizcommunity.com/article/western-cape-exports-to-us-fall-162-as-trade-tensions-grow-292127a"
+    },
+    {
       "id": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
       "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
       "source": "theguardian.com",
@@ -282,18 +294,6 @@
       "publishedAt": "2026-10-09T04:46:00Z",
       "summary": "",
       "url": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/"
-    },
-    {
-      "id": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
-      "title": "China to resume October fuel exports after a brief halt, four trade sources say – KSEV Radio",
-      "source": "ksevradio.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T04:31:00Z",
-      "publishedAt": "2026-10-09T04:31:00Z",
-      "summary": "",
-      "url": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/"
     },
     {
       "id": "https://www.alwihdainfo.com/pinglu-canal-opens-to-boost-china-asean-connectivity-and-trade/",
@@ -680,16 +680,16 @@
       "url": "https://www.israelnationalnews.com/news/434337"
     },
     {
-      "id": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html",
-      "title": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow | Mint",
-      "source": "livemint.com",
+      "id": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
+      "title": "China to resume October fuel exports after a brief halt, four trade sources say – KSEV Radio",
+      "source": "ksevradio.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T02:32:00Z",
-      "publishedAt": "2026-10-09T02:32:00Z",
+      "dateRaw": "2026-10-09T04:31:00Z",
+      "publishedAt": "2026-10-09T04:31:00Z",
       "summary": "",
-      "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html"
+      "url": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/"
     },
     {
       "id": "https://www.newspim.com/news/view/20261009000051",
@@ -728,25 +728,25 @@
       "url": "https://www.freshplaza.com/north-america/article/9879271/postharvest-packaging-aims-to-give-fresh-produce-more-time-in-the-supply-chain/"
     },
     {
-      "id": "https://www.moneycontrol.com/world/us-sanctions-iran-s-shadow-fleet-as-trump-pauses-attacks-until-midterms-article-14048090.html",
-      "title": "US sanctions Iran’s ‘shadow fleet’, Bessent says will continue to expose 'enablers' of oil sales- Moneycontrol.com",
-      "source": "moneycontrol.com",
+      "id": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html",
+      "title": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow | Mint",
+      "source": "livemint.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
       "dateRaw": "2026-10-09T02:32:00Z",
       "publishedAt": "2026-10-09T02:32:00Z",
       "summary": "",
-      "url": "https://www.moneycontrol.com/world/us-sanctions-iran-s-shadow-fleet-as-trump-pauses-attacks-until-midterms-article-14048090.html"
+      "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6302,
-    "relevantItems": 94,
-    "feedBytes": 1731571,
+    "fetchedItems": 6389,
+    "relevantItems": 78,
+    "feedBytes": 1790614,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
