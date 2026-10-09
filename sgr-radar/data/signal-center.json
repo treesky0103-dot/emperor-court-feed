@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 08:11:39",
+  "updatedAt": "2026. 10. 10. 오전 08:34:16",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -318,6 +318,20 @@
     "technology": {
       "items": [
         {
+          "id": "https://zdnet.co.kr/view/?no=20261009223603",
+          "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T23:00:04Z",
+          "publishedAt": "2026-10-09T23:00:04Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261009223603",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10897816",
           "title": "‘칠천피’도 불안한데 위기 아니다? 경상수지 흑자가 AI·반도체 투자에 주는 의미 [머니뭐니]",
           "source": "biz.heraldcorp.com",
@@ -380,18 +394,16 @@
           "url": "https://www.pressian.com/pages/articles/2026100915580329821"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261009223352",
-          "title": "[기경학회 기후&에너지 칼럼] 전력수급기본계획은 왜 빗나갈까",
-          "source": "zdnet.co.kr",
+          "id": "https://www.newsway.co.kr/news/view?ud=2026100815451602227",
+          "title": "배 만드는 HD현대重, '전력 공장' 짓는다 - 뉴스웨이",
+          "source": "newsway.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T13:33:52Z",
-          "publishedAt": "2026-10-09T13:33:52Z",
+          "dateRaw": "2026-10-09T23:31:00Z",
+          "publishedAt": "2026-10-09T23:31:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261009223352",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100815451602227"
         },
         {
           "id": "https://www.mk.co.kr/news/business/12172442",
@@ -430,30 +442,16 @@
           "publishedAt": "2026-10-09T23:02:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610100405261313"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261010051013",
-          "title": "뉴 아시아 포럼, 발리서 열리는 첫 행사에서 뉴 아시아에 미화 300억 달러 투자 유치 목표",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T20:10:13Z",
-          "publishedAt": "2026-10-09T20:10:13Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261010051013",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 9
+          "count": 10
         },
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "전력",
@@ -929,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3529,
-    "feedBytes": 942898,
+    "fetchedItems": 812,
+    "feedBytes": 214234,
     "rollingWindowHours": 72
   }
 }

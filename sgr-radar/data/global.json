@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 08:11:31",
+  "updatedAt": "2026. 10. 10. 오전 08:34:08",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 166,
-    "deduped": 166,
-    "eventDeduped": 166,
+    "passed": 165,
+    "deduped": 165,
+    "eventDeduped": 165,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,18 +308,6 @@
       "url": "https://livenews.co.nz/2026/10/10/documentary-2026-towards-the-hainan-free-trade-port-premieres-in-kuala-lumpur-encouraging-asean-businesses-to-establish-a-presence-in-hainan/"
     },
     {
-      "id": "https://www.thehindubusinessline.com/economy/next-round-of-review-meeting-of-asean-india-trade-in-goods-agreement-to-be-held-in-jan/article71563631.ece",
-      "title": "Next round of review meeting of ASEAN-India Trade in Goods Agreement to be held in Jan",
-      "source": "thehindubusinessline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T13:01:00Z",
-      "publishedAt": "2026-10-09T13:01:00Z",
-      "summary": "",
-      "url": "https://www.thehindubusinessline.com/economy/next-round-of-review-meeting-of-asean-india-trade-in-goods-agreement-to-be-held-in-jan/article71563631.ece"
-    },
-    {
       "id": "https://www.wikitree.co.kr/articles/1165081",
       "title": "레저 지갑 피해, CZ “공급망 공격 가능성”…테더는 USDT 9,000만 달러 동결했다",
       "source": "wikitree.co.kr",
@@ -342,6 +330,18 @@
       "publishedAt": "2026-10-09T20:32:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2633945"
+    },
+    {
+      "id": "http://www.ihalla.com/article.php?aid=1791545429791386073",
+      "title": "'연이은 고배' 제주 이번엔 G20 정상회의 유치 성공할까",
+      "source": "ihalla.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T14:47:00Z",
+      "publishedAt": "2026-10-09T14:47:00Z",
+      "summary": "",
+      "url": "http://www.ihalla.com/article.php?aid=1791545429791386073"
     },
     {
       "id": "https://biz.heraldcorp.com/article/10898049",
@@ -716,18 +716,6 @@
       "url": "https://www.fnnews.com/news/202610100258343497"
     },
     {
-      "id": "http://www.ihalla.com/article.php?aid=1791545429791386073",
-      "title": "'연이은 고배' 제주 이번엔 G20 정상회의 유치 성공할까",
-      "source": "ihalla.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T14:47:00Z",
-      "publishedAt": "2026-10-09T14:47:00Z",
-      "summary": "",
-      "url": "http://www.ihalla.com/article.php?aid=1791545429791386073"
-    },
-    {
       "id": "https://www.tpr.org/government-politics/2026-10-09/in-hotly-contested-tx35-candidates-debate-affordability-immigration-and-tariffs-impact-on-business-owners",
       "title": "In hotly contested TX35, candidates debate affordability, immigration and tariffs’ impact on business owners",
       "source": "tpr.org",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T22:32:00Z",
       "summary": "",
       "url": "https://www.tpr.org/government-politics/2026-10-09/in-hotly-contested-tx35-candidates-debate-affordability-immigration-and-tariffs-impact-on-business-owners"
+    },
+    {
+      "id": "http://www.thejakartapost.com/opinion/2026/10/10/myanmar-is-a-litmus-test-of-what-asean-way-amounts-to",
+      "title": "Myanmar is a litmus test of what ‘ASEAN way’ amounts to - Academia - The Jakarta Post",
+      "source": "thejakartapost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T21:47:00Z",
+      "publishedAt": "2026-10-09T21:47:00Z",
+      "summary": "",
+      "url": "http://www.thejakartapost.com/opinion/2026/10/10/myanmar-is-a-litmus-test-of-what-asean-way-amounts-to"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3529,
-    "relevantItems": 76,
-    "feedBytes": 942898,
+    "fetchedItems": 812,
+    "relevantItems": 18,
+    "feedBytes": 214234,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
