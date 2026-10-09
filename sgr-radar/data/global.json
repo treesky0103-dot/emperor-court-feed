@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 12:56:29",
+  "updatedAt": "2026. 10. 09. 오후 01:14:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 122,
-    "deduped": 122,
-    "eventDeduped": 122,
+    "passed": 117,
+    "deduped": 117,
+    "eventDeduped": 117,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -248,16 +248,16 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain"
     },
     {
-      "id": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
-      "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
-      "source": "cnbc.com",
+      "id": "http://www.newyorktelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
+      "title": "US trade deficit widens 13.7% as imports hit record high",
+      "source": "newyorktelegraph.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T17:17:00Z",
-      "publishedAt": "2026-10-08T17:17:00Z",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T04:01:00Z",
+      "publishedAt": "2026-10-09T04:01:00Z",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html"
+      "url": "http://www.newyorktelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
     },
     {
       "id": "https://www.alwihdainfo.com/pinglu-canal-opens-to-boost-china-asean-connectivity-and-trade/",
@@ -270,18 +270,6 @@
       "publishedAt": "2026-10-09T03:47:00Z",
       "summary": "",
       "url": "https://www.alwihdainfo.com/pinglu-canal-opens-to-boost-china-asean-connectivity-and-trade/"
-    },
-    {
-      "id": "http://www.africaleader.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
-      "title": "US trade deficit widens 13.7% as imports hit record high",
-      "source": "africaleader.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:47:00Z",
-      "publishedAt": "2026-10-09T03:47:00Z",
-      "summary": "",
-      "url": "http://www.africaleader.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
     },
     {
       "id": "http://www.bjreview.com.cn/Latest_Headlines/202610/t20261009_800448355.html",
@@ -306,6 +294,18 @@
       "publishedAt": "2026-10-09T02:32:00Z",
       "summary": "",
       "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html"
+    },
+    {
+      "id": "https://www.moneycontrol.com/world/us-sanctions-iran-s-shadow-fleet-as-trump-pauses-attacks-until-midterms-article-14048090.html",
+      "title": "US sanctions Iran’s ‘shadow fleet’, Bessent says will continue to expose 'enablers' of oil sales- Moneycontrol.com",
+      "source": "moneycontrol.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T02:32:00Z",
+      "publishedAt": "2026-10-09T02:32:00Z",
+      "summary": "",
+      "url": "https://www.moneycontrol.com/world/us-sanctions-iran-s-shadow-fleet-as-trump-pauses-attacks-until-midterms-article-14048090.html"
     },
     {
       "id": "https://home.nzcity.co.nz/news/article.aspx?id=455628",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3651,
-    "relevantItems": 68,
-    "feedBytes": 964397,
+    "fetchedItems": 3531,
+    "relevantItems": 87,
+    "feedBytes": 937487,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 12:56:28",
+  "updatedAt": "2026. 10. 09. 오후 01:14:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 73,
-    "deduped": 73,
-    "eventDeduped": 73,
+    "passed": 71,
+    "deduped": 71,
+    "eventDeduped": 71,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -248,18 +248,6 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth"
     },
     {
-      "id": "https://www.thehindu.com/news/national/karnataka/ai-can-optimise-bengalurus-bus-network-but-governance-remains-a-bigger-challenge/article71560903.ece",
-      "title": "AI can optimise Bengaluru’s bus network, but governance remains a bigger challenge",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T17:16:00Z",
-      "publishedAt": "2026-10-08T17:16:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/karnataka/ai-can-optimise-bengalurus-bus-network-but-governance-remains-a-bigger-challenge/article71560903.ece"
-    },
-    {
       "id": "https://www.theyeshivaworld.com/news/general/2607309/more-amazon-layoffs-hundreds-of-corporate-jobs-cut-in-u-s-india-and-britain.html",
       "title": "MORE AMAZON LAYOFFS: Hundreds of Corporate Jobs Cut in U.S., India and Britain",
       "source": "theyeshivaworld.com",
@@ -368,16 +356,28 @@
       "url": "https://balticbusinessnews.com/tam-jai-international-crowned-grand-winner-with-14-awards-at-employee-experience-awards-2025/"
     },
     {
-      "id": "https://www.dailyadvertiser.com.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/",
-      "title": "Asian stocks struggle on AI spending worries",
-      "source": "dailyadvertiser.com.au",
+      "id": "https://www.freemalaysiatoday.com/category/business/2026/10/09/tech-stocks-struggle-on-ai-spending-worries-elevated-yields",
+      "title": "Tech stocks struggle on AI spending worries, elevated yields",
+      "source": "freemalaysiatoday.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T03:47:00Z",
-      "publishedAt": "2026-10-09T03:47:00Z",
+      "dateRaw": "2026-10-09T04:02:00Z",
+      "publishedAt": "2026-10-09T04:02:00Z",
       "summary": "",
-      "url": "https://www.dailyadvertiser.com.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/"
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/09/tech-stocks-struggle-on-ai-spending-worries-elevated-yields"
+    },
+    {
+      "id": "https://www.northerndailyleader.com.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/",
+      "title": "Asian stocks struggle on AI spending worries",
+      "source": "northerndailyleader.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T04:01:00Z",
+      "publishedAt": "2026-10-09T04:01:00Z",
+      "summary": "",
+      "url": "https://www.northerndailyleader.com.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/"
     },
     {
       "id": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3651,
-    "relevantItems": 68,
-    "feedBytes": 964397,
+    "fetchedItems": 3531,
+    "relevantItems": 87,
+    "feedBytes": 937487,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
