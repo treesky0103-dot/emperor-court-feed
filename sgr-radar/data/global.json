@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 12:47:51",
+  "updatedAt": "2026. 10. 10. 오전 01:04:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 137,
-    "deduped": 137,
-    "eventDeduped": 137,
+    "passed": 139,
+    "deduped": 139,
+    "eventDeduped": 139,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,16 +392,16 @@
       "url": "https://www.newspim.com/news/view/20261008000025"
     },
     {
-      "id": "https://www.eastbaytimes.com/2026/10/09/trump-committee-fed-lisa-cook/",
-      "title": "Trump establishes committee to investigate Federal Reserve’s Lisa Cook in latest effort to fire her",
-      "source": "eastbaytimes.com",
+      "id": "https://www.wral.com/news/ap/debef-trump-establishes-committee-to-investigate-federal-reserves-lisa-cook-in-latest-effort-to-fire-her/",
+      "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+      "source": "wral.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T15:32:00Z",
-      "publishedAt": "2026-10-09T15:32:00Z",
+      "dateRaw": "2026-10-09T16:01:00Z",
+      "publishedAt": "2026-10-09T16:01:00Z",
       "summary": "",
-      "url": "https://www.eastbaytimes.com/2026/10/09/trump-committee-fed-lisa-cook/"
+      "url": "https://www.wral.com/news/ap/debef-trump-establishes-committee-to-investigate-federal-reserves-lisa-cook-in-latest-effort-to-fire-her/"
     },
     {
       "id": "https://en.interfax.com.ua/news/general/1217252.html",
@@ -692,18 +692,6 @@
       "url": "https://www.busan.com/view/busan/view.php?code=2026100908091546549"
     },
     {
-      "id": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
-      "title": "China to resume October fuel exports after a brief halt, four trade sources say – KSEV Radio",
-      "source": "ksevradio.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T04:31:00Z",
-      "publishedAt": "2026-10-09T04:31:00Z",
-      "summary": "",
-      "url": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261009000115",
       "title": "'APEC 성공도시' 경주서 동아시아·중남미 15개국 문화도시 협력 논의",
       "source": "newspim.com",
@@ -728,6 +716,18 @@
       "url": "https://www.fnnews.com/news/202610090702384473"
     },
     {
+      "id": "https://biz.heraldcorp.com/article/10897793",
+      "title": "미국 올해 재정적자 2조달러 육박…트럼프 관세에 발목, 국채에 덜미",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T05:02:00Z",
+      "publishedAt": "2026-10-09T05:02:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10897793"
+    },
+    {
       "id": "https://economictimes.indiatimes.com/industry/banking/finance/banking/central-bank-of-india-posts-30-credit-growth-at-rs-3-81-lakh-cr-in-q2/articleshow/134698077.cms",
       "title": "Central Bank of India posts 30% credit growth at Rs 3.81 lakh cr in Q2",
       "source": "economictimes.indiatimes.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5995,
-    "relevantItems": 109,
-    "feedBytes": 1684934,
+    "fetchedItems": 2160,
+    "relevantItems": 32,
+    "feedBytes": 598216,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
