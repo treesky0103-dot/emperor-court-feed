@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 11:14:11",
+  "updatedAt": "2026. 10. 09. 오전 11:36:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 698,
-    "deduped": 698,
-    "eventDeduped": 698,
+    "passed": 696,
+    "deduped": 696,
+    "eventDeduped": 696,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,30 +452,6 @@
       "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/lawter-to-close-mount-maunganui-manufacturing-plant-whareroa-marae-welcomes-change/premium/5JRV336XUVCHRL3SQSY54YGNMU/"
     },
     {
-      "id": "https://www.ansa.it/ansacom/notizie/economia/italiandatacenterassociation/2026/10/08/data-center-in-italia-37-miliardi-di-investimenti-potenziali-in-dieci-anni_ba2322d2-cb9f-42fc-bfad-98c074b48f2d.html",
-      "title": "Data center, in Italia 37 miliardi di investimenti potenziali in dieci anni - Economia - Ansa.it",
-      "source": "ansa.it",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T16:17:00Z",
-      "publishedAt": "2026-10-08T16:17:00Z",
-      "summary": "",
-      "url": "https://www.ansa.it/ansacom/notizie/economia/italiandatacenterassociation/2026/10/08/data-center-in-italia-37-miliardi-di-investimenti-potenziali-in-dieci-anni_ba2322d2-cb9f-42fc-bfad-98c074b48f2d.html"
-    },
-    {
-      "id": "https://www.proactiveinvestors.com/companies/news/1099762/mine-developer-first-phosphate-shows-progress-in-battery-strategy-1099762.html",
-      "title": "Mine developer First Phosphate shows progress in battery strategy",
-      "source": "proactiveinvestors.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T16:16:00Z",
-      "publishedAt": "2026-10-08T16:16:00Z",
-      "summary": "",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099762/mine-developer-first-phosphate-shows-progress-in-battery-strategy-1099762.html"
-    },
-    {
       "id": "https://www.powermag.com/fit-energy-will-use-gas-powered-fuel-cells-for-pennsylvania-data-center-project/",
       "title": "Fit Energy Will Use Gas-Powered Fuel Cells For Pennsylvania Data Center Project",
       "source": "powermag.com",
@@ -510,6 +486,18 @@
       "publishedAt": "2026-10-08T22:17:00Z",
       "summary": "",
       "url": "https://www.roboticstomorrow.com/company_directory/cmes-robotics-inc-/12997"
+    },
+    {
+      "id": "https://www.mtpr.org/montana-news/2026-10-08/psc-district-1-candidates-campaign-on-energy-costs-data-centers-and-transparency",
+      "title": "PSC District 1 candidates campaign on energy costs, data centers and transparency",
+      "source": "mtpr.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T19:17:00Z",
+      "publishedAt": "2026-10-08T19:17:00Z",
+      "summary": "",
+      "url": "https://www.mtpr.org/montana-news/2026-10-08/psc-district-1-candidates-campaign-on-energy-costs-data-centers-and-transparency"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/pds--precision-drive-systems/10130",
@@ -728,6 +716,18 @@
       "url": "https://www.dailypolitical.com/2026/10/08/138545-shares-of-arqit-quantum-inc-arqq-bought-by-kessler-investment-group-llc.html"
     },
     {
+      "id": "https://www.manilatimes.net/2026/10/09/tmt-newswire/plentisoft/stacks-founder-muneeb-ali-shares-his-2030-vision-for-stx-bitcoin-capital-markets-privacy-and-post-quantum-bitcoin/2442348",
+      "title": "Stacks Founder Muneeb Ali Shares His 2030 Vision for STX: Bitcoin Capital Markets, Privacy, and Post-Quantum Bitcoin",
+      "source": "manilatimes.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T02:32:00Z",
+      "publishedAt": "2026-10-09T02:32:00Z",
+      "summary": "",
+      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/plentisoft/stacks-founder-muneeb-ali-shares-his-2030-vision-for-stx-bitcoin-capital-markets-privacy-and-post-quantum-bitcoin/2442348"
+    },
+    {
       "id": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230",
       "title": "Breaking: Data centre operator pulls share market float after lacklustre investor demand",
       "source": "abc.net.au",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3073,
-    "relevantItems": 80,
-    "feedBytes": 804008,
+    "fetchedItems": 3121,
+    "relevantItems": 63,
+    "feedBytes": 813266,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
