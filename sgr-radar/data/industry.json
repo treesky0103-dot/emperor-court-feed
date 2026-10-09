@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 09:44:23",
+  "updatedAt": "2026. 10. 09. 오후 10:06:13",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 666,
-    "deduped": 666,
-    "eventDeduped": 666,
+    "passed": 652,
+    "deduped": 652,
+    "eventDeduped": 652,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -236,6 +236,18 @@
       "url": "https://www.hankookilbo.com/news/article/A2026100718500001675"
     },
     {
+      "id": "https://www.lankanewspapers.com/2026/10/09/sri-lanka-s-sec-warns-public-against-depositing-or-investing-in-quantum-ai-limited",
+      "title": "Sri Lanka's SEC Warns Public Against Depositing or Investing in Quantum AI Limited - Lanka Newspapers",
+      "source": "lankanewspapers.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T13:01:00Z",
+      "publishedAt": "2026-10-09T13:01:00Z",
+      "summary": "",
+      "url": "https://www.lankanewspapers.com/2026/10/09/sri-lanka-s-sec-warns-public-against-depositing-or-investing-in-quantum-ai-limited"
+    },
+    {
       "id": "https://www.etnews.com/20260824000353",
       "title": "전남광주 각계 “'천지 개벽' 호남권 반도체 클러스터 반드시 성공시켜야”",
       "source": "etnews.com",
@@ -270,18 +282,6 @@
       "publishedAt": "2026-10-09T10:47:00Z",
       "summary": "",
       "url": "https://www.industrialinfo.com/news/article/globalfoundries-reaches-supply-agreement-with-tsmc-for-ai-chip-component--363473"
-    },
-    {
-      "id": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547",
-      "title": "Zankore’s AI Factory: Can Central Java afford the water cost?",
-      "source": "theconversation.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T10:32:00Z",
-      "publishedAt": "2026-10-09T10:32:00Z",
-      "summary": "",
-      "url": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261009163220",
@@ -692,16 +692,16 @@
       "url": "https://www.etnews.com/20261009000054"
     },
     {
-      "id": "https://zdnet.co.kr/view/?no=20261009115744",
-      "title": "AI 잘 쓰는 한국인…'안전 역량'은 부족",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
+      "id": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547",
+      "title": "Zankore’s AI Factory: Can Central Java afford the water cost?",
+      "source": "theconversation.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T10:31:00Z",
-      "publishedAt": "2026-10-09T10:31:00Z",
+      "dateRaw": "2026-10-09T10:32:00Z",
+      "publishedAt": "2026-10-09T10:32:00Z",
       "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261009115744"
+      "url": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547"
     },
     {
       "id": "https://www.huffingtonpost.it/economia/2026/10/09/news/data_center_litalia_punta_a_23_gw_ma_la_partita_si_gioca_su_rete_e_territori-22877747/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 629,
-    "relevantItems": 5,
-    "feedBytes": 177981,
+    "fetchedItems": 6392,
+    "relevantItems": 108,
+    "feedBytes": 1825940,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

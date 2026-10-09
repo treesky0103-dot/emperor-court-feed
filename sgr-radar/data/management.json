@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 09:16:45",
+  "updatedAt": "2026. 10. 09. 오후 10:06:14",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 51,
-    "deduped": 51,
-    "eventDeduped": 51,
+    "passed": 52,
+    "deduped": 52,
+    "eventDeduped": 52,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -366,6 +366,18 @@
       "publishedAt": "2026-10-09T04:31:00Z",
       "summary": "",
       "url": "https://www.standard.net.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/"
+    },
+    {
+      "id": "https://www.business-standard.com/content/press-releases-ani/meghalaya-s-edgrid-showcased-at-world-bank-s-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance-126100900875_1.html",
+      "title": "Meghalaya's edGrid Showcased at World Bank's World Development Report 2026 India Launch as a Model for AI-Powered Education Governance",
+      "source": "business-standard.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T13:02:00Z",
+      "publishedAt": "2026-10-09T13:02:00Z",
+      "summary": "",
+      "url": "https://www.business-standard.com/content/press-releases-ani/meghalaya-s-edgrid-showcased-at-world-bank-s-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance-126100900875_1.html"
     },
     {
       "id": "https://www.itweb.co.za/article/sap-says-enterprise-context-is-key-to-predictive-ai-operations/WnpNgM21V1b7VrGd",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-09T02:31:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/483637/flock-safety-workforce-reduction-surveillance/"
-    },
-    {
-      "id": "https://www.nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-roading-contractor-layoffs-as-cyclone-gabrielle-highway-recovery-work-finishes/HVM36YEOLFFH5IXKJBS6NIBEOA/",
-      "title": "Hawke’s Bay roading contractor layoffs as Cyclone Gabrielle recovery work is finished",
-      "source": "nzherald.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T01:02:00Z",
-      "publishedAt": "2026-10-09T01:02:00Z",
-      "summary": "",
-      "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-roading-contractor-layoffs-as-cyclone-gabrielle-highway-recovery-work-finishes/HVM36YEOLFFH5IXKJBS6NIBEOA/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 629,
-    "relevantItems": 5,
-    "feedBytes": 177981,
+    "fetchedItems": 6392,
+    "relevantItems": 108,
+    "feedBytes": 1825940,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
