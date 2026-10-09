@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 06:58:09",
+  "updatedAt": "2026. 10. 09. 오후 07:16:51",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 649,
-    "deduped": 649,
-    "eventDeduped": 649,
+    "passed": 653,
+    "deduped": 653,
+    "eventDeduped": 653,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -90,6 +90,18 @@
       "url": "https://www.hankookilbo.com/news/article/A2026100718500001675"
     },
     {
+      "id": "https://www.4ni.co.uk/northern-ireland-news/335589/queen-s-opens-factory-of-the-future-to-drive-northern-ireland-manufacturing",
+      "title": "Queen’s Opens Factory Of The Future To Drive Northern Ireland Manufacturing",
+      "source": "4ni.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T10:01:00Z",
+      "publishedAt": "2026-10-09T10:01:00Z",
+      "summary": "",
+      "url": "https://www.4ni.co.uk/northern-ireland-news/335589/queen-s-opens-factory-of-the-future-to-drive-northern-ireland-manufacturing"
+    },
+    {
       "id": "https://www.thefastmode.com/technology-solutions/50965-kddi-launches-distributed-data-center-demonstration-using-retail-robots",
       "title": "KDDI Launches Distributed Data Center Demonstration Using Retail Robots",
       "source": "thefastmode.com",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-09T09:32:00Z",
       "summary": "",
       "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-091026/9815709"
-    },
-    {
-      "id": "https://allafrica.com/stories/202610090067.html",
-      "title": "Togo Plans Reform of Electricity Sector to Attract Investment",
-      "source": "allafrica.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T09:32:00Z",
-      "publishedAt": "2026-10-09T09:32:00Z",
-      "summary": "",
-      "url": "https://allafrica.com/stories/202610090067.html"
     }
   ],
   "trendItems": [
@@ -234,6 +234,18 @@
       "publishedAt": "2026-10-08T23:47:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10897655"
+    },
+    {
+      "id": "https://www.4ni.co.uk/northern-ireland-news/335589/queen-s-opens-factory-of-the-future-to-drive-northern-ireland-manufacturing",
+      "title": "Queen’s Opens Factory Of The Future To Drive Northern Ireland Manufacturing",
+      "source": "4ni.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T10:01:00Z",
+      "publishedAt": "2026-10-09T10:01:00Z",
+      "summary": "",
+      "url": "https://www.4ni.co.uk/northern-ireland-news/335589/queen-s-opens-factory-of-the-future-to-drive-northern-ireland-manufacturing"
     },
     {
       "id": "https://www.newsway.co.kr/news/view?ud=2026100813312926320",
@@ -536,18 +548,6 @@
       "url": "https://www.roboticstomorrow.com/company_directory/cmes-robotics-inc-/12997"
     },
     {
-      "id": "https://www.orissapost.com/indias-industrial-output-flags-widening-gap-between-textiles-and-apparel-manufacturing/",
-      "title": "India's industrial output flags widening gap between textiles and apparel manufacturing - OrissaPOST",
-      "source": "orissapost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T09:32:00Z",
-      "publishedAt": "2026-10-09T09:32:00Z",
-      "summary": "",
-      "url": "https://www.orissapost.com/indias-industrial-output-flags-widening-gap-between-textiles-and-apparel-manufacturing/"
-    },
-    {
       "id": "https://www.koreaherald.com/article/10897728",
       "title": "Battery ETFs among top performers this month: market data",
       "source": "koreaherald.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6203,
-    "relevantItems": 108,
-    "feedBytes": 1733074,
+    "fetchedItems": 6098,
+    "relevantItems": 78,
+    "feedBytes": 1708524,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
