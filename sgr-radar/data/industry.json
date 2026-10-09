@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 09:16:43",
+  "updatedAt": "2026. 10. 09. 오후 09:44:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 664,
-    "deduped": 664,
-    "eventDeduped": 664,
+    "passed": 666,
+    "deduped": 666,
+    "eventDeduped": 666,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -224,18 +224,6 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645611280&mediaCodeNo=257"
     },
     {
-      "id": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/",
-      "title": "Anthropic is launching a 'presidential engagement' effort to advise candidates on AI policy ahead of the 2028 election | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T23:47:00Z",
-      "publishedAt": "2026-10-08T23:47:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/"
-    },
-    {
       "id": "https://www.hankookilbo.com/news/article/A2026100718500001675",
       "title": "최태원 SK 회장 \"광주 반도체 공장 가장 빨리 짓겠다\"… '속도전' 선언-지역ㅣ한국일보",
       "source": "hankookilbo.com",
@@ -282,6 +270,18 @@
       "publishedAt": "2026-10-09T10:47:00Z",
       "summary": "",
       "url": "https://www.industrialinfo.com/news/article/globalfoundries-reaches-supply-agreement-with-tsmc-for-ai-chip-component--363473"
+    },
+    {
+      "id": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547",
+      "title": "Zankore’s AI Factory: Can Central Java afford the water cost?",
+      "source": "theconversation.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T10:32:00Z",
+      "publishedAt": "2026-10-09T10:32:00Z",
+      "summary": "",
+      "url": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261009163220",
@@ -692,16 +692,16 @@
       "url": "https://www.etnews.com/20261009000054"
     },
     {
-      "id": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547",
-      "title": "Zankore’s AI Factory: Can Central Java afford the water cost?",
-      "source": "theconversation.com",
-      "language": "English",
+      "id": "https://zdnet.co.kr/view/?no=20261009115744",
+      "title": "AI 잘 쓰는 한국인…'안전 역량'은 부족",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T10:32:00Z",
-      "publishedAt": "2026-10-09T10:32:00Z",
+      "dateRaw": "2026-10-09T10:31:00Z",
+      "publishedAt": "2026-10-09T10:31:00Z",
       "summary": "",
-      "url": "https://theconversation.com/zankores-ai-factory-can-central-java-afford-the-water-cost-293547"
+      "url": "https://zdnet.co.kr/view/?no=20261009115744"
     },
     {
       "id": "https://www.huffingtonpost.it/economia/2026/10/09/news/data_center_litalia_punta_a_23_gw_ma_la_partita_si_gioca_su_rete_e_territori-22877747/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6636,
-    "relevantItems": 101,
-    "feedBytes": 1873477,
+    "fetchedItems": 629,
+    "relevantItems": 5,
+    "feedBytes": 177981,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
