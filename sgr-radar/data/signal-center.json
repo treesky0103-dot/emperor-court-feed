@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 06:35:59",
+  "updatedAt": "2026. 10. 10. 오전 06:54:01",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -241,6 +241,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.wikitree.co.kr/articles/1165081",
+          "title": "레저 지갑 피해, CZ “공급망 공격 가능성”…테더는 USDT 9,000만 달러 동결했다",
+          "source": "wikitree.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T21:47:00Z",
+          "publishedAt": "2026-10-09T21:47:00Z",
+          "summary": "",
+          "url": "https://www.wikitree.co.kr/articles/1165081"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10897816",
           "title": "‘칠천피’도 불안한데 위기 아니다? 경상수지 흑자가 AI·반도체 투자에 주는 의미 [머니뭐니]",
           "source": "biz.heraldcorp.com",
@@ -275,18 +287,6 @@
           "publishedAt": "2026-10-09T18:16:00Z",
           "summary": "",
           "url": "https://h21.hani.co.kr/arti/society/society_general/59904.html"
-        },
-        {
-          "id": "https://www.kmib.co.kr/article/view.asp?arcid=9000021363&code=11131800&stg=wm_rank",
-          "title": "[단독] ‘상습 임금체불 업주’ 와 전쟁… 칼 빼든 정부, 제재 수위 높인다",
-          "source": "kmib.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T16:17:00Z",
-          "publishedAt": "2026-10-09T16:17:00Z",
-          "summary": "",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021363&code=11131800&stg=wm_rank"
         }
       ],
       "keywords": [
@@ -296,6 +296,10 @@
         },
         {
           "word": "고용",
+          "count": 1
+        },
+        {
+          "word": "공급망",
           "count": 1
         },
         {
@@ -577,16 +581,16 @@
           "url": "https://www.oneindia.com/india/mental-health-day-six-organisations-join-hands-to-humanise-medicine-put-doctors-wellbeing-in-focu-8229877.html"
         },
         {
-          "id": "http://www.russiaherald.com/news/279361725/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance",
-          "title": "Meghalaya's edGrid Showcased at World Bank's World Development Report 2026 India Launch as a Model for AI-Powered Education Governance",
-          "source": "russiaherald.com",
+          "id": "https://www.tnp.no/norway/panorama/1644-committee-formed-for-new-asylum-and-immigration-policy/",
+          "title": "Committee Formed for New Asylum and Immigration Policy - The Nordic Page",
+          "source": "tnp.no",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T21:32:00Z",
-          "publishedAt": "2026-10-09T21:32:00Z",
+          "dateRaw": "2026-10-09T21:47:00Z",
+          "publishedAt": "2026-10-09T21:47:00Z",
           "summary": "",
-          "url": "http://www.russiaherald.com/news/279361725/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance"
+          "url": "https://www.tnp.no/norway/panorama/1644-committee-formed-for-new-asylum-and-immigration-policy/"
         }
       ],
       "keywords": [
@@ -595,7 +599,7 @@
           "count": 4
         },
         {
-          "word": "교육",
+          "word": "이민",
           "count": 2
         },
         {
@@ -607,7 +611,7 @@
           "count": 1
         },
         {
-          "word": "이민",
+          "word": "교육",
           "count": 1
         }
       ],
@@ -917,8 +921,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3945,
-    "feedBytes": 1100610,
+    "fetchedItems": 4000,
+    "feedBytes": 1091369,
     "rollingWindowHours": 72
   }
 }
