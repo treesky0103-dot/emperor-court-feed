@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 10:17:56",
+  "updatedAt": "2026. 10. 09. 오전 10:38:14",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -493,6 +493,42 @@
           "url": "https://www.moneytalksnews.com/immigration-limits-threaten-the-care-workforce-what-does-this-mean-for-the-cost-of-home-care/"
         },
         {
+          "id": "https://devpolicy.org/education-is-my-only-beacon-of-hope/",
+          "title": "Education is my only beacon of hope - Devpolicy Blog from the Development Policy Centre",
+          "source": "devpolicy.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T01:32:00Z",
+          "publishedAt": "2026-10-09T01:32:00Z",
+          "summary": "",
+          "url": "https://devpolicy.org/education-is-my-only-beacon-of-hope/"
+        },
+        {
+          "id": "https://www.elciudadano.com/en/teachers-at-manuel-barros-borgono-high-school-report-excessive-police-action-on-campus/10/08/",
+          "title": "Teachers at Manuel Barros Borgoño High School Report Excessive Police Action on Campus",
+          "source": "elciudadano.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T01:31:00Z",
+          "publishedAt": "2026-10-09T01:31:00Z",
+          "summary": "",
+          "url": "https://www.elciudadano.com/en/teachers-at-manuel-barros-borgono-high-school-report-excessive-police-action-on-campus/10/08/"
+        },
+        {
+          "id": "https://www.theglobeandmail.com/business/commentary/article-canadian-population-decline-that-never-happened-what-it-means/",
+          "title": "Opinion: The Canadian population decline that never happened, and what it means for immigration policy",
+          "source": "theglobeandmail.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T01:31:00Z",
+          "publishedAt": "2026-10-09T01:31:00Z",
+          "summary": "",
+          "url": "https://www.theglobeandmail.com/business/commentary/article-canadian-population-decline-that-never-happened-what-it-means/"
+        },
+        {
           "id": "https://www.mondaq.com:443/unitedstates/social-media/1852364/nad-adds-another-social-media-platform-to-its-reporting-toolbox",
           "title": "NAD Adds Another Social Media Platform To Its Reporting Toolbox",
           "source": "mondaq.com",
@@ -539,59 +575,23 @@
           "publishedAt": "2026-10-09T00:46:00Z",
           "summary": "",
           "url": "https://www.carsonnow.org/10/08/2026/carson-city-school-board-to-discuss-15-million-unnamed-project-request-more-policy-changes"
-        },
-        {
-          "id": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden",
-          "title": "Center for Urban Research and Education (CURE) at Rutgers Universityâ€“Camden",
-          "source": "nextcity.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T23:46:00Z",
-          "publishedAt": "2026-10-08T23:46:00Z",
-          "summary": "",
-          "url": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden"
-        },
-        {
-          "id": "https://www.breitbart.com/health/2026/10/08/report-illegals-receive-top-tier-healthcare-over-citizens-in-zohran-mamdanis-nyc/",
-          "title": "Report: Illegals Receive Top-Tier Healthcare over Citizens in Zohran Mamdani's NYC",
-          "source": "breitbart.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T22:46:00Z",
-          "publishedAt": "2026-10-08T22:46:00Z",
-          "summary": "",
-          "url": "https://www.breitbart.com/health/2026/10/08/report-illegals-receive-top-tier-healthcare-over-citizens-in-zohran-mamdanis-nyc/"
-        },
-        {
-          "id": "https://www.medicaldaily.com/glp1-aging-clocks-novo-lilly-unreviewed-data-479718",
-          "title": "Ozempic and Zepbound Makers Report Slower Aging Clocks, but Unreviewed Data Do Not Prove Patients Age Slower",
-          "source": "medicaldaily.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T22:32:00Z",
-          "publishedAt": "2026-10-08T22:32:00Z",
-          "summary": "",
-          "url": "https://www.medicaldaily.com/glp1-aging-clocks-novo-lilly-unreviewed-data-479718"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 5
+        },
+        {
+          "word": "이민",
+          "count": 2
         },
         {
           "word": "정신건강",
           "count": 2
         },
         {
-          "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "이민",
+          "word": "인구",
           "count": 1
         },
         {
@@ -909,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3384,
-    "feedBytes": 884351,
+    "fetchedItems": 3297,
+    "feedBytes": 872848,
     "rollingWindowHours": 72
   }
 }

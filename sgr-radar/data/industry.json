@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 10:17:48",
+  "updatedAt": "2026. 10. 09. 오전 10:38:10",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 694,
-    "deduped": 694,
-    "eventDeduped": 694,
+    "passed": 688,
+    "deduped": 688,
+    "eventDeduped": 688,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -90,6 +90,18 @@
       "url": "https://www.thailand-business-news.com/japan/333216-thailand-and-japan-deepen-11-7-billion-industrial-partnership-around-semiconductors-evs-and-clean-energy"
     },
     {
+      "id": "https://www.calaverasenterprise.com/articles/news/amid-climate-of-data-center-concerns-biomass-plant-buyer-airs-greenpowered-plan/",
+      "title": "Amid climate of data center concerns, biomass plant buyer airs ‘green’powered plan - Calaveras Enterprise",
+      "source": "calaverasenterprise.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:31:00Z",
+      "publishedAt": "2026-10-09T01:31:00Z",
+      "summary": "",
+      "url": "https://www.calaverasenterprise.com/articles/news/amid-climate-of-data-center-concerns-biomass-plant-buyer-airs-greenpowered-plan/"
+    },
+    {
       "id": "http://www.econotimes.com/US-EU-Push-for-Action-Against-Asias-Excess-Factory-Capacity-1754417",
       "title": "US, EU Push for Action Against Asia’s Excess Factory Capacity - EconoTimes",
       "source": "econotimes.com",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-09T00:46:00Z",
       "summary": "",
       "url": "http://www.middleeaststar.com/news/279360377/minister-of-investment-saudi-minister-of-energy-sign-mou-to-enhance-railway-connectivity-infrastructure-integration"
-    },
-    {
-      "id": "https://commercialobserver.com/2026/10/data-centers-forum-commercial-observer-2026/",
-      "title": "Inside Commercial Observer's 2026 Data Centers Investment Forum",
-      "source": "commercialobserver.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T22:17:00Z",
-      "publishedAt": "2026-10-08T22:17:00Z",
-      "summary": "",
-      "url": "https://commercialobserver.com/2026/10/data-centers-forum-commercial-observer-2026/"
     }
   ],
   "trendItems": [
@@ -306,6 +306,18 @@
       "publishedAt": "2026-10-08T19:46:00Z",
       "summary": "",
       "url": "https://www.thehindu.com/news/cities/chennai/india-has-set-a-target-of-100-gw-of-wind-energy-capacity-by-2030-says-union-minister-pralhad-joshi/article71559273.ece"
+    },
+    {
+      "id": "https://www.calaverasenterprise.com/articles/news/amid-climate-of-data-center-concerns-biomass-plant-buyer-airs-greenpowered-plan/",
+      "title": "Amid climate of data center concerns, biomass plant buyer airs ‘green’powered plan - Calaveras Enterprise",
+      "source": "calaverasenterprise.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:31:00Z",
+      "publishedAt": "2026-10-09T01:31:00Z",
+      "summary": "",
+      "url": "https://www.calaverasenterprise.com/articles/news/amid-climate-of-data-center-concerns-biomass-plant-buyer-airs-greenpowered-plan/"
     },
     {
       "id": "http://www.econotimes.com/US-EU-Push-for-Action-Against-Asias-Excess-Factory-Capacity-1754417",
@@ -486,18 +498,6 @@
       "publishedAt": "2026-10-08T22:17:00Z",
       "summary": "",
       "url": "https://www.roboticstomorrow.com/company_directory/cmes-robotics-inc-/12997"
-    },
-    {
-      "id": "https://www.mtpr.org/montana-news/2026-10-08/psc-district-1-candidates-campaign-on-energy-costs-data-centers-and-transparency",
-      "title": "PSC District 1 candidates campaign on energy costs, data centers and transparency",
-      "source": "mtpr.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T19:17:00Z",
-      "publishedAt": "2026-10-08T19:17:00Z",
-      "summary": "",
-      "url": "https://www.mtpr.org/montana-news/2026-10-08/psc-district-1-candidates-campaign-on-energy-costs-data-centers-and-transparency"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/pds--precision-drive-systems/10130",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3384,
-    "relevantItems": 123,
-    "feedBytes": 884351,
+    "fetchedItems": 3297,
+    "relevantItems": 65,
+    "feedBytes": 872848,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
