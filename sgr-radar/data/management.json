@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 08:37:22",
+  "updatedAt": "2026. 10. 09. 오전 09:51:32",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 73,
-    "deduped": 73,
-    "eventDeduped": 73,
+    "passed": 72,
+    "deduped": 72,
+    "eventDeduped": 72,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -656,18 +656,6 @@
       "url": "http://www.asiabulletin.com/news/279358976/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent"
     },
     {
-      "id": "http://www.asiabulletin.com/news/279359547/smart-communications-expands-ai-powered-migration-to-help-enterprises-cut-legacy-costs-and-move-to-ai-faster",
-      "title": "Smart Communications Expands AI-Powered Migration to Help Enterprises Cut Legacy Costs and Move to AI Faster",
-      "source": "asiabulletin.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:02:00Z",
-      "publishedAt": "2026-10-08T15:02:00Z",
-      "summary": "",
-      "url": "http://www.asiabulletin.com/news/279359547/smart-communications-expands-ai-powered-migration-to-help-enterprises-cut-legacy-costs-and-move-to-ai-faster"
-    },
-    {
       "id": "https://www.tnp.no/norway/economy/5046-evry-lays-off-500-employees-in-norway-and-sweden/",
       "title": "Evry Lays Off 500 Employees in Norway and Sweden - The Nordic Page",
       "source": "tnp.no",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T17:46:00Z",
       "summary": "",
       "url": "http://www.chronline.com/stories/starbucks-lays-off-51-retail-and-corporate-employees-in-washington-state,409665"
+    },
+    {
+      "id": "https://deadline.com/2026/10/skydance-ynon-kreiz-labor-force-reduction-cost-savings-1237149888/",
+      "title": "Skydance Co-CEO Ynon Kreiz Says Jobs Cuts Will Be Handled “Respectfully, Transparently” As Company Restructures",
+      "source": "deadline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T15:02:00Z",
+      "publishedAt": "2026-10-08T15:02:00Z",
+      "summary": "",
+      "url": "https://deadline.com/2026/10/skydance-ynon-kreiz-labor-force-reduction-cost-savings-1237149888/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 817,
-    "relevantItems": 33,
-    "feedBytes": 216773,
+    "fetchedItems": 3242,
+    "relevantItems": 70,
+    "feedBytes": 854550,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
