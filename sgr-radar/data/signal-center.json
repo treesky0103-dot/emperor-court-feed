@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 01:38:08",
+  "updatedAt": "2026. 10. 09. 오후 01:56:14",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -44,18 +44,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01685926645611280&mediaCodeNo=257"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12171906",
-          "title": "“에너지분야 교육·연구·학술교류 확대”…남부발전, MIT와 협약 체결",
+          "id": "https://www.mk.co.kr/news/society/12171834",
+          "title": "호주 투자에서 자산이전까지, 구조 설계가 성패를 가른다 [바른 상속·기업승계 리포트]",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T18:53:00Z",
-          "publishedAt": "2026-10-08T18:53:00Z",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T07:00:00Z",
+          "publishedAt": "2026-10-09T07:00:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12171906",
+          "url": "https://www.mk.co.kr/news/society/12171834",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.newspim.com/news/view/20261009000044",
@@ -133,7 +133,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
         },
         {
           "word": "복지",
@@ -499,6 +499,54 @@
           "url": "https://www.moneytalksnews.com/immigration-limits-threaten-the-care-workforce-what-does-this-mean-for-the-cost-of-home-care/"
         },
         {
+          "id": "https://www.chesterstandard.co.uk/news/26619956.university-chester-recognised-research-partnerships/",
+          "title": "University of Chester recognised for excellence in research partnerships",
+          "source": "chesterstandard.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T04:46:00Z",
+          "publishedAt": "2026-10-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.chesterstandard.co.uk/news/26619956.university-chester-recognised-research-partnerships/"
+        },
+        {
+          "id": "https://news.webindia123.com/news/Articles/World/20261009/4508752.html",
+          "title": "\"You dont make America stronger by shutting door on talent\": California Governor Newsom criticises Trumps immigration policy",
+          "source": "news.webindia123.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T04:46:00Z",
+          "publishedAt": "2026-10-09T04:46:00Z",
+          "summary": "",
+          "url": "https://news.webindia123.com/news/Articles/World/20261009/4508752.html"
+        },
+        {
+          "id": "https://www.thesierraleonetelegraph.com/gates-foundation-report-spotlights-new-data-on-global-inequality/",
+          "title": "Gates Foundation Report spotlights new data on Global inequality",
+          "source": "thesierraleonetelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T04:46:00Z",
+          "publishedAt": "2026-10-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.thesierraleonetelegraph.com/gates-foundation-report-spotlights-new-data-on-global-inequality/"
+        },
+        {
+          "id": "https://www.fox21online.com/news/health/northland-health-survey-results-published-mental-health-needs-on-the-rise/article_b054a06e-655e-49c1-aad2-5f8bdfb1cbf5.html",
+          "title": "Northland health survey results published; mental health needs on the rise",
+          "source": "fox21online.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T04:46:00Z",
+          "publishedAt": "2026-10-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.fox21online.com/news/health/northland-health-survey-results-published-mental-health-needs-on-the-rise/article_b054a06e-655e-49c1-aad2-5f8bdfb1cbf5.html"
+        },
+        {
           "id": "https://www.moneycontrol.com/news/india/nhrc-seeks-report-on-unsafe-darbhanga-school-roof-propped-up-by-benches-and-bricks-14048231.html",
           "title": "NHRC seeks report on unsafe Darbhanga school roof propped up by benches and bricks- Moneycontrol.com",
           "source": "moneycontrol.com",
@@ -521,75 +569,27 @@
           "publishedAt": "2026-10-09T04:01:00Z",
           "summary": "",
           "url": "https://www.hindustantimes.com/education/news/nhrc-seeks-report-from-darbhanga-dm-over-bihar-school-s-collapsing-roof-safety-of-191-students-at-risk-101791517024945.html"
-        },
-        {
-          "id": "http://www.newyorktelegraph.com/news/279360897/you-dont-make-america-stronger-by-shutting-door-on-talent-california-governor-newsom-criticises-trump-immigration-policy",
-          "title": "\"You don't make America stronger by shutting door on talent\": California Governor Newsom criticises Trump's immigration policy",
-          "source": "newyorktelegraph.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T04:01:00Z",
-          "publishedAt": "2026-10-09T04:01:00Z",
-          "summary": "",
-          "url": "http://www.newyorktelegraph.com/news/279360897/you-dont-make-america-stronger-by-shutting-door-on-talent-california-governor-newsom-criticises-trump-immigration-policy"
-        },
-        {
-          "id": "https://blackagendareport.com/french-youth-rise-against-racism-austerity-and-rising-right-wing",
-          "title": "French Youth Rise Up Against Racism, Austerity, and the Rising Right Wing | Black Agenda Report",
-          "source": "blackagendareport.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T03:47:00Z",
-          "publishedAt": "2026-10-09T03:47:00Z",
-          "summary": "",
-          "url": "https://blackagendareport.com/french-youth-rise-against-racism-austerity-and-rising-right-wing"
-        },
-        {
-          "id": "https://www.investmentwatchblog.com/er-100-aging-reversal-drug-first-test-results-in-the-eye-with-glaucoma-announced/",
-          "title": "ER-100 - aging reversal drug first test results in the EYE with Glaucoma announced - Investment Watch Blog",
-          "source": "investmentwatchblog.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T03:32:00Z",
-          "publishedAt": "2026-10-09T03:32:00Z",
-          "summary": "",
-          "url": "https://www.investmentwatchblog.com/er-100-aging-reversal-drug-first-test-results-in-the-eye-with-glaucoma-announced/"
-        },
-        {
-          "id": "https://www.alipac.us/f12/report-illegals-receive-top-tier-healthcare-over-citizens-zohran-mamdani%92s-nyc-442242/",
-          "title": "Report: Illegals Receive Top-Tier Healthcare over Citizens in Zohran Mamdani's NYC",
-          "source": "alipac.us",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T02:46:00Z",
-          "publishedAt": "2026-10-09T02:46:00Z",
-          "summary": "",
-          "url": "https://www.alipac.us/f12/report-illegals-receive-top-tier-healthcare-over-citizens-zohran-mamdani%92s-nyc-442242/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 5
         },
         {
           "word": "이민",
           "count": 2
         },
         {
-          "word": "청년",
+          "word": "정신건강",
           "count": 2
         },
         {
-          "word": "고령화",
+          "word": "불평등",
           "count": 1
         },
         {
-          "word": "정신건강",
+          "word": "청년",
           "count": 1
         }
       ],
@@ -781,18 +781,6 @@
           "url": "https://econews.com.au/us-executive-order-targets-chinese-grid-hardware-but-battery-storage-serving-ai-data-centers-is-more-exposed/"
         },
         {
-          "id": "https://www.thehindu.com/sci-tech/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/article71562469.ece",
-          "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T03:46:00Z",
-          "publishedAt": "2026-10-09T03:46:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/sci-tech/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/article71562469.ece"
-        },
-        {
           "id": "https://www.businesstimes.com.sg/international/global/wto-lifts-goods-trade-forecast-ai-boom-cuts-services-outlook-amid-iran-war",
           "title": "WTO lifts goods trade forecast on AI boom but cuts services outlook amid Iran war",
           "source": "businesstimes.com.sg",
@@ -863,6 +851,18 @@
           "publishedAt": "2026-10-08T22:47:00Z",
           "summary": "",
           "url": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086"
+        },
+        {
+          "id": "https://www.legalbusinessonline.com:443/node/89431",
+          "title": "ALB Contracting for AI, Data, and Cloud Services Across Asia 2026",
+          "source": "legalbusinessonline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T21:32:00Z",
+          "publishedAt": "2026-10-08T21:32:00Z",
+          "summary": "",
+          "url": "https://www.legalbusinessonline.com:443/node/89431"
         }
       ],
       "keywords": [
@@ -883,15 +883,15 @@
           "count": 2
         },
         {
+          "word": "클라우드",
+          "count": 2
+        },
+        {
           "word": "반도체",
           "count": 1
         },
         {
           "word": "배터리",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -903,8 +903,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3930,
-    "feedBytes": 1082327,
+    "fetchedItems": 3247,
+    "feedBytes": 894341,
     "rollingWindowHours": 72
   }
 }
