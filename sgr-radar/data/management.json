@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 10:56:00",
+  "updatedAt": "2026. 10. 09. 오전 11:14:12",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 70,
+    "deduped": 70,
+    "eventDeduped": 70,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -114,18 +114,6 @@
       "url": "https://www.thehindu.com/news/national/karnataka/ai-can-optimise-bengalurus-bus-network-but-governance-remains-a-bigger-challenge/article71560903.ece"
     },
     {
-      "id": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context",
-      "title": "Enterprise AI is drowning in data, but starving for context | IBM",
-      "source": "ibm.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:47:00Z",
-      "publishedAt": "2026-10-08T15:47:00Z",
-      "summary": "",
-      "url": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context"
-    },
-    {
       "id": "https://www.digitaljournal.com/article/canadas-ai-adoption-is-accelerating-but-accountability-is-struggling-to-keep-pace/",
       "title": "Canada’s AI adoption is accelerating, but accountability is struggling to keep pace",
       "source": "digitaljournal.com",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-08T21:32:00Z",
       "summary": "",
       "url": "https://www.digitaljournal.com/article/canadas-ai-adoption-is-accelerating-but-accountability-is-struggling-to-keep-pace/"
+    },
+    {
+      "id": "http://www.indiagazette.com/news/279360030/orgatec-india-2026-to-spotlight-india-workplace-transformation-with-worknxt-design-technology-and-experiences",
+      "title": "ORGATEC India 2026 to Spotlight India's Workplace Transformation with 'WorkNXT - Design, Technology and Experiences'",
+      "source": "indiagazette.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T20:16:00Z",
+      "publishedAt": "2026-10-08T20:16:00Z",
+      "summary": "",
+      "url": "http://www.indiagazette.com/news/279360030/orgatec-india-2026-to-spotlight-india-workplace-transformation-with-worknxt-design-technology-and-experiences"
     }
   ],
   "trendItems": [
@@ -234,18 +234,6 @@
       "publishedAt": "2026-10-08T17:16:00Z",
       "summary": "",
       "url": "https://www.thehindu.com/news/national/karnataka/ai-can-optimise-bengalurus-bus-network-but-governance-remains-a-bigger-challenge/article71560903.ece"
-    },
-    {
-      "id": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context",
-      "title": "Enterprise AI is drowning in data, but starving for context | IBM",
-      "source": "ibm.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T15:47:00Z",
-      "publishedAt": "2026-10-08T15:47:00Z",
-      "summary": "",
-      "url": "https://www.ibm.com/think/perspectives/enterprise-ai-is-drowning-in-data-but-starving-for-context"
     },
     {
       "id": "https://www.nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-roading-contractor-layoffs-as-cyclone-gabrielle-highway-recovery-work-finishes/HVM36YEOLFFH5IXKJBS6NIBEOA/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T01:31:00Z",
       "summary": "",
       "url": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/09/exclusive-ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say",
+      "title": "Exclusive-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
+      "source": "thestar.com.my",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T00:46:00Z",
+      "publishedAt": "2026-10-09T00:46:00Z",
+      "summary": "",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/exclusive-ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3443,
-    "relevantItems": 85,
-    "feedBytes": 899401,
+    "fetchedItems": 3073,
+    "relevantItems": 80,
+    "feedBytes": 804008,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
