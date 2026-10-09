@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 02:55:55",
+  "updatedAt": "2026. 10. 09. 오후 03:16:57",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 117,
-    "deduped": 117,
-    "eventDeduped": 117,
+    "passed": 118,
+    "deduped": 118,
+    "eventDeduped": 118,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -260,16 +260,16 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain"
     },
     {
-      "id": "http://www.newjerseytelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
+      "id": "http://www.mexicostar.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
       "title": "US trade deficit widens 13.7% as imports hit record high",
-      "source": "newjerseytelegraph.com",
+      "source": "mexicostar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T05:46:00Z",
-      "publishedAt": "2026-10-09T05:46:00Z",
+      "dateRaw": "2026-10-09T06:02:00Z",
+      "publishedAt": "2026-10-09T06:02:00Z",
       "summary": "",
-      "url": "http://www.newjerseytelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
+      "url": "http://www.mexicostar.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
     },
     {
       "id": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/",
@@ -330,6 +330,18 @@
       "publishedAt": "2026-10-08T22:46:00Z",
       "summary": "",
       "url": "https://www.digbycourier.ca/oil-prices-rise-markets-narrow-odds-for-fed-hike/"
+    },
+    {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1315918",
+      "title": "홍해 물류 마비에 사우디 공습까지…현대차, 중동 공급망 ‘시험대’",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T06:01:00Z",
+      "publishedAt": "2026-10-09T06:01:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315918"
     },
     {
       "id": "https://www.newspim.com/news/view/20261008000025",
@@ -486,18 +498,6 @@
       "publishedAt": "2026-10-08T22:17:00Z",
       "summary": "",
       "url": "https://saiia.org.za/project/futures-of-critical-minerals-in-southern-africa-building-anticipatory-governance/"
-    },
-    {
-      "id": "https://www.freshplaza.com/north-america/article/9879271/postharvest-packaging-aims-to-give-fresh-produce-more-time-in-the-supply-chain/",
-      "title": "Postharvest packaging aims to give fresh produce more time in the supply chain",
-      "source": "freshplaza.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T21:46:00Z",
-      "publishedAt": "2026-10-08T21:46:00Z",
-      "summary": "",
-      "url": "https://www.freshplaza.com/north-america/article/9879271/postharvest-packaging-aims-to-give-fresh-produce-more-time-in-the-supply-chain/"
     },
     {
       "id": "https://sputnikglobe.com/20261009/russia-china-trade-to-reach-record-270275-billion-by-yearend---deputy-pms-office-1124854388.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4463,
-    "relevantItems": 89,
-    "feedBytes": 1214707,
+    "fetchedItems": 4266,
+    "relevantItems": 79,
+    "feedBytes": 1155296,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
