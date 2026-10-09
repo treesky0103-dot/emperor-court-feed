@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 11:36:02",
+  "updatedAt": "2026. 10. 09. 오전 11:53:15",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 74,
-    "deduped": 74,
-    "eventDeduped": 74,
+    "passed": 75,
+    "deduped": 75,
+    "eventDeduped": 75,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -248,6 +248,18 @@
       "url": "https://www.thehindu.com/news/national/karnataka/ai-can-optimise-bengalurus-bus-network-but-governance-remains-a-bigger-challenge/article71560903.ece"
     },
     {
+      "id": "https://politicalwire.com/2026/10/08/layoffs-at-extremely-low-levels-despite-gloom/",
+      "title": "Layoffs at ‘Extremely Low Levels’ Despite Gloom",
+      "source": "politicalwire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T02:46:00Z",
+      "publishedAt": "2026-10-09T02:46:00Z",
+      "summary": "",
+      "url": "https://politicalwire.com/2026/10/08/layoffs-at-extremely-low-levels-despite-gloom/"
+    },
+    {
       "id": "https://en.shafaqna.com/483637/flock-safety-workforce-reduction-surveillance/",
       "title": "Flock Safety Layoffs: AI Surveillance Firm Cuts 18% of Staff",
       "source": "en.shafaqna.com",
@@ -270,18 +282,6 @@
       "publishedAt": "2026-10-09T01:02:00Z",
       "summary": "",
       "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-roading-contractor-layoffs-as-cyclone-gabrielle-highway-recovery-work-finishes/HVM36YEOLFFH5IXKJBS6NIBEOA/"
-    },
-    {
-      "id": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/",
-      "title": "Job cuts spread across the tech industry, with Microsoft laying off 10,000 people",
-      "source": "digbycourier.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T23:32:00Z",
-      "publishedAt": "2026-10-08T23:32:00Z",
-      "summary": "",
-      "url": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/"
     },
     {
       "id": "https://www.theglobeandmail.com/business/article-corus-completes-recapitalization-names-new-board-after-restructuring/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3121,
-    "relevantItems": 63,
-    "feedBytes": 813266,
+    "fetchedItems": 2959,
+    "relevantItems": 61,
+    "feedBytes": 782091,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
