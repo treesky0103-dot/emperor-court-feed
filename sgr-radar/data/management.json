@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 03:47:12",
+  "updatedAt": "2026. 10. 09. 오후 04:06:43",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 64,
-    "deduped": 64,
-    "eventDeduped": 64,
+    "passed": 63,
+    "deduped": 63,
+    "eventDeduped": 63,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,6 +380,18 @@
       "url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/"
     },
     {
+      "id": "https://www.malaysiakini.com/announcement/886646-internet-alliance-summit-puts-people-at-the-heart-of-business-transformation",
+      "title": "Internet Alliance summit puts people at the heart of business transformation | Malaysiakini",
+      "source": "malaysiakini.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T07:02:00Z",
+      "publishedAt": "2026-10-09T07:02:00Z",
+      "summary": "",
+      "url": "https://www.malaysiakini.com/announcement/886646-internet-alliance-summit-puts-people-at-the-heart-of-business-transformation"
+    },
+    {
       "id": "https://english.aawsat.com/business/5327587-world-bank-praises-saudi-arabia%E2%80%99s-experience-data-governance-and-ai-development",
       "title": "World Bank Praises Saudi Arabia’s Experience in Data Governance and AI Development",
       "source": "english.aawsat.com",
@@ -608,30 +620,6 @@
       "url": "http://www.middleeaststar.com/news/279359854/ethiopian-government-officials-review-uae-experience-in-ai-driven-governance"
     },
     {
-      "id": "https://www.techradar.com/pro/new-study-shows-concerning-rise-in-developer-burnout-and-growing-distrust-in-how-ai-may-affect-their-jobs",
-      "title": "New study shows concerning rise in developer burnout — and growing distrust in how AI may affect their jobs",
-      "source": "techradar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T19:17:00Z",
-      "publishedAt": "2026-10-08T19:17:00Z",
-      "summary": "",
-      "url": "https://www.techradar.com/pro/new-study-shows-concerning-rise-in-developer-burnout-and-growing-distrust-in-how-ai-may-affect-their-jobs"
-    },
-    {
-      "id": "https://leadership.ng/ai-can-help-bridge-nigerias-health-workforce-gap-ahfid/",
-      "title": "AI Can Help Bridge Nigeria’s Health Workforce Gap — AHFID",
-      "source": "leadership.ng",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T19:17:00Z",
-      "publishedAt": "2026-10-08T19:17:00Z",
-      "summary": "",
-      "url": "https://leadership.ng/ai-can-help-bridge-nigerias-health-workforce-gap-ahfid/"
-    },
-    {
       "id": "https://www.newsway.co.kr/news/view?ud=2026100809524999112",
       "title": "이젠 하이브리드보다 많이 산다···수입차 시장 휩쓴 전기차 - 뉴스웨이",
       "source": "newsway.co.kr",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T03:47:00Z",
       "summary": "",
       "url": "https://bworldonline.com/technology/2026/10/09/785830/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say/"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms",
+      "title": "'Workers with AI skills in demand, but GenAI is hitting white-collar hiring'",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:31:00Z",
+      "publishedAt": "2026-10-09T01:31:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5384,
-    "relevantItems": 102,
-    "feedBytes": 1492810,
+    "fetchedItems": 4748,
+    "relevantItems": 98,
+    "feedBytes": 1313841,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
