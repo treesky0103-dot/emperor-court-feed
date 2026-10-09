@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 11:41:12",
+  "updatedAt": "2026. 10. 10. 오전 12:03:29",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -155,20 +155,6 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261009000027",
-          "title": "경기도·경기혁신센터, 기후테크 60여명과 성장단계별 투자전략을 공유",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T03:29:09Z",
-          "publishedAt": "2026-10-09T03:29:09Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261009000027",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.mk.co.kr/news/society/12171834",
           "title": "호주 투자에서 자산이전까지, 구조 설계가 성패를 가른다 [바른 상속·기업승계 리포트]",
           "source": "mk.co.kr",
@@ -183,16 +169,30 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01899126645611280&mediaCodeNo=257",
-          "title": "[VC's Pick]K방산 훈풍 타고 IPO 정조준…'디지트론' 프리 IPO 투자 유치",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=04595286645611280&mediaCodeNo=257",
+          "title": "CBOE, 투자의견 두 단계상향…옵션 거래 연장 효과 -모건스탠리",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T05:02:00Z",
-          "publishedAt": "2026-10-09T05:02:00Z",
+          "dateRaw": "2026-10-09T14:47:00Z",
+          "publishedAt": "2026-10-09T14:47:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01899126645611280&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04595286645611280&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.etnews.com/20261009000038",
+          "title": "신상진 성남시장, 폴란드·이탈리아서 자매결연·방산 수출 지원 본격화",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T04:31:43Z",
+          "publishedAt": "2026-10-09T04:31:43Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261009000038",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.chosun.com/topics/topics_social/2026/10/09/7WLR2XSB2RDVHMDTMCBB2DPLOE/",
@@ -205,18 +205,6 @@
           "publishedAt": "2026-10-09T12:02:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/09/7WLR2XSB2RDVHMDTMCBB2DPLOE/"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026100809524999112",
-          "title": "이젠 하이브리드보다 많이 산다···수입차 시장 휩쓴 전기차 - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T03:46:00Z",
-          "publishedAt": "2026-10-09T03:46:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026100809524999112"
         },
         {
           "id": "https://www.seoul.co.kr/news/politics/2026/10/09/20261009500098",
@@ -255,6 +243,18 @@
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513022"
         },
         {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026100916381161717",
+          "title": "최태원 \"호남 반도체 최대한 빨리 짓겠다\"···SK 400조 투자 '속도' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T08:47:00Z",
+          "publishedAt": "2026-10-09T08:47:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100916381161717"
+        },
+        {
           "id": "https://www.newspim.com/news/view/20261008001353",
           "title": "[코인 시황] 비트코인 일시 8만3000달러도 붕괴…이란 공격 우려에 유가·국채금리 급등",
           "source": "newspim.com",
@@ -289,11 +289,11 @@
           "count": 2
         },
         {
-          "word": "금리",
-          "count": 1
+          "word": "수출",
+          "count": 2
         },
         {
-          "word": "수출",
+          "word": "금리",
           "count": 1
         },
         {
@@ -461,6 +461,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.wuwf.org/florida-news/2026-10-09/ill-never-apologize-florida-will-cover-school-funding-hit-by-immigration-push-collins-says",
+          "title": "'I'll never apologize': Florida will cover school funding hit by immigration push, Collins says",
+          "source": "wuwf.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T14:47:00Z",
+          "publishedAt": "2026-10-09T14:47:00Z",
+          "summary": "",
+          "url": "https://www.wuwf.org/florida-news/2026-10-09/ill-never-apologize-florida-will-cover-school-funding-hit-by-immigration-push-collins-says"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/kerala/world-mental-health-day-awareness-event-to-be-held-in-kozhikode/article71563709.ece",
           "title": "World Mental Health Day awareness event to be held in Kozhikode",
           "source": "thehindu.com",
@@ -483,18 +495,6 @@
           "publishedAt": "2026-10-09T14:01:00Z",
           "summary": "",
           "url": "https://www.oneindia.com/india/mental-health-day-six-organisations-join-hands-to-humanise-medicine-put-doctors-wellbeing-in-focu-8229877.html"
-        },
-        {
-          "id": "https://www.wlrn.org/education/2026-10-09/florida-immigration-school-funding-collins",
-          "title": "'I'll never apologize': Florida will cover school funding hit by immigration push, Collins says",
-          "source": "wlrn.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T12:31:00Z",
-          "publishedAt": "2026-10-09T12:31:00Z",
-          "summary": "",
-          "url": "https://www.wlrn.org/education/2026-10-09/florida-immigration-school-funding-collins"
         },
         {
           "id": "https://www.miragenews.com/secrets-of-mental-health-well-being-for-happier-987221/",
@@ -626,6 +626,18 @@
           "url": "https://www.thestar.com.my/news/nation/2026/10/09/build-a-more-progressive-wage-ladder-centred-on-productivity-says-economic-outlook-2027"
         },
         {
+          "id": "https://harpers.co.uk/news/fullstory.php/aid/36503/Vinarchy_pushes_forward_with_growth_strategy_for_global_travel_retail.html",
+          "title": "Vinarchy pushes forward with growth strategy for global travel retail - Harpers Wine & Spirit Trade News",
+          "source": "harpers.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T14:46:00Z",
+          "publishedAt": "2026-10-09T14:46:00Z",
+          "summary": "",
+          "url": "https://harpers.co.uk/news/fullstory.php/aid/36503/Vinarchy_pushes_forward_with_growth_strategy_for_global_travel_retail.html"
+        },
+        {
           "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/09/pressure-test-these-tech-trends-before-making-a-major-investment/",
           "title": "Pressure-Test These Tech Trends Before Making A Major Investment",
           "source": "forbes.com",
@@ -708,18 +720,6 @@
           "publishedAt": "2026-10-09T09:01:00Z",
           "summary": "",
           "url": "https://www.oneindia.com/india/madhya-pradesh-travel-mart-2026-tourism-investment-growth-012-8229597.html"
-        },
-        {
-          "id": "https://indiaeducationdiary.in/bml-munjal-university-hosts-icats-2026-to-explore-how-ai-is-reshaping-trade-and-sustainable-growth/",
-          "title": "BML Munjal University hosts ICATS 2026 to explore how AI is reshaping trade and sustainable growth - India Education | Latest Education News | Global Educational News | Recent Educational News",
-          "source": "indiaeducationdiary.in",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T08:47:00Z",
-          "publishedAt": "2026-10-09T08:47:00Z",
-          "summary": "",
-          "url": "https://indiaeducationdiary.in/bml-munjal-university-hosts-icats-2026-to-explore-how-ai-is-reshaping-trade-and-sustainable-growth/"
         }
       ],
       "keywords": [
@@ -769,6 +769,18 @@
           "publishedAt": "2026-10-09T13:17:00Z",
           "summary": "",
           "url": "https://247wallst.com/companies/tsm/"
+        },
+        {
+          "id": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go",
+          "title": "Don't blame the energy companies or data centers if your utilities go up",
+          "source": "highlandcountypress.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T14:47:00Z",
+          "publishedAt": "2026-10-09T14:47:00Z",
+          "summary": "",
+          "url": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go"
         },
         {
           "id": "https://www.csoonline.com/article/4233081/exposed-nvidia-gpu-monitors-can-reveal-ai-infrastructure-secrets.html",
@@ -853,39 +865,23 @@
           "publishedAt": "2026-10-09T09:32:00Z",
           "summary": "",
           "url": "https://www.esi-africa.com/industry-sectors/smart-technologies/data-centres-reshaping-global-power-grid/"
-        },
-        {
-          "id": "https://www.moneycontrol.com/news/business/stocks/alibaba-nomura-retains-buy-target-price-of-178-as-ai-cloud-growth-offsets-ecommerce-pressures-14048364.html",
-          "title": "Alibaba: Nomura retains ‘Buy’, target price of $178 as AI cloud growth offsets ecommerce pressures- Moneycontrol.com",
-          "source": "moneycontrol.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T07:01:00Z",
-          "publishedAt": "2026-10-09T07:01:00Z",
-          "summary": "",
-          "url": "https://www.moneycontrol.com/news/business/stocks/alibaba-nomura-retains-buy-target-price-of-178-as-ai-cloud-growth-offsets-ecommerce-pressures-14048364.html"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
+        },
+        {
+          "word": "데이터센터",
+          "count": 3
         },
         {
           "word": "GPU",
           "count": 2
         },
         {
-          "word": "데이터센터",
-          "count": 2
-        },
-        {
           "word": "제조",
-          "count": 2
-        },
-        {
-          "word": "클라우드",
           "count": 2
         },
         {
@@ -899,6 +895,10 @@
         {
           "word": "전력",
           "count": 1
+        },
+        {
+          "word": "클라우드",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -909,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6372,
-    "feedBytes": 1791635,
+    "fetchedItems": 7103,
+    "feedBytes": 2038729,
     "rollingWindowHours": 72
   }
 }
