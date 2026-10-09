@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 04:44:50",
+  "updatedAt": "2026. 10. 10. 오전 04:59:47",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -157,6 +157,18 @@
     "economy": {
       "items": [
         {
+          "id": "https://biz.chosun.com/international/international_economy/2026/10/10/4MHQNYNWZZHXXF4RE2Z2UZRE6Q/",
+          "title": "美 10월 소비자심리지수 5개월 만에 최저…현재 경기평가 역대 최악",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T19:47:00Z",
+          "publishedAt": "2026-10-09T19:47:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/international/international_economy/2026/10/10/4MHQNYNWZZHXXF4RE2Z2UZRE6Q/"
+        },
+        {
           "id": "https://www.mk.co.kr/news/business/12172442",
           "title": "소비자는 高사양 쏠림, 제조사는 스펙 낮춰 재출시 … 칩플레이션 기현상",
           "source": "mk.co.kr",
@@ -207,18 +219,6 @@
           "url": "https://www.etnews.com/20261010000005",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://biz.chosun.com/topics/topics_social/2026/10/09/7WLR2XSB2RDVHMDTMCBB2DPLOE/",
-          "title": "군산 김… 선전서 日·中 6개 기업과 1억불 규모 수출 계약 체결",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T12:02:00Z",
-          "publishedAt": "2026-10-09T12:02:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/09/7WLR2XSB2RDVHMDTMCBB2DPLOE/"
         },
         {
           "id": "https://h21.hani.co.kr/arti/society/society_general/59904.html",
@@ -287,19 +287,11 @@
           "count": 4
         },
         {
-          "word": "고용",
-          "count": 1
-        },
-        {
-          "word": "기업",
-          "count": 1
-        },
-        {
           "word": "소비",
-          "count": 1
+          "count": 2
         },
         {
-          "word": "수출",
+          "word": "고용",
           "count": 1
         },
         {
@@ -412,34 +404,36 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026100916285062281"
         },
         {
-          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682006",
-          "title": "최태원, 호남 반도체부지 첫 방문…“가장 빠른 속도로 최대한 짓겠다”",
-          "source": "news.kbs.co.kr",
+          "id": "https://www.mk.co.kr/news/business/12172442",
+          "title": "소비자는 高사양 쏠림, 제조사는 스펙 낮춰 재출시 … 칩플레이션 기현상",
+          "source": "mk.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T10:01:00Z",
-          "publishedAt": "2026-10-09T10:01:00Z",
+          "dateRaw": "2026-10-09T17:31:15Z",
+          "publishedAt": "2026-10-09T17:31:15Z",
           "summary": "",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682006"
+          "url": "https://www.mk.co.kr/news/business/12172442",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2634165",
-          "title": "최태원 “광주 반도체, 용인의 3분의 2 규모”⋯전력·용수 늦어도 먼저 착공 [종합]",
-          "source": "etoday.co.kr",
+          "id": "https://www.etnews.com/20260824000353",
+          "title": "전남광주 각계 “'천지 개벽' 호남권 반도체 클러스터 반드시 성공시켜야”",
+          "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T10:01:00Z",
-          "publishedAt": "2026-10-09T10:01:00Z",
+          "dateRaw": "2026-10-09T12:02:00Z",
+          "publishedAt": "2026-10-09T12:02:00Z",
           "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2634165"
+          "url": "https://www.etnews.com/20260824000353"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 10
+          "count": 9
         },
         {
           "word": "AI",
@@ -447,7 +441,11 @@
         },
         {
           "word": "전력",
-          "count": 3
+          "count": 2
+        },
+        {
+          "word": "제조",
+          "count": 1
         },
         {
           "word": "클라우드",
@@ -473,6 +471,18 @@
           "publishedAt": "2026-10-09T18:32:00Z",
           "summary": "",
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
+        },
+        {
+          "id": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis",
+          "title": "‘We can’t simply ignore this anymore’ – Labour MP on youth mental health crisis",
+          "source": "channel4.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T19:47:00Z",
+          "publishedAt": "2026-10-09T19:47:00Z",
+          "summary": "",
+          "url": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis"
         },
         {
           "id": "https://londonlovesbusiness.com/modernise-or-rebuild-what-to-do-with-an-ageing-healthcare-app/",
@@ -559,37 +569,29 @@
           "url": "https://www.oneindia.com/india/mental-health-day-six-organisations-join-hands-to-humanise-medicine-put-doctors-wellbeing-in-focu-8229877.html"
         },
         {
-          "id": "https://www.prokerala.com/news/articles/a1822589.html",
-          "title": "Odisha to formulate social media policy for govt communication; strict fact-checking system soon",
-          "source": "prokerala.com",
+          "id": "https://www.latintimes.com/us-faces-growing-shortage-electricians-other-tradespeople-immigration-enforcement-intensifies-600026",
+          "title": "US Faces Growing Shortage of Electricians and Other Tradespeople as Immigration Enforcement Intensifies: Report",
+          "source": "latintimes.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T19:32:00Z",
-          "publishedAt": "2026-10-09T19:32:00Z",
+          "dateRaw": "2026-10-09T19:47:00Z",
+          "publishedAt": "2026-10-09T19:47:00Z",
           "summary": "",
-          "url": "https://www.prokerala.com/news/articles/a1822589.html"
-        },
-        {
-          "id": "http://www.bangladeshsun.com/news/279361658/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance",
-          "title": "Meghalaya's edGrid Showcased at World Bank's World Development Report 2026 India Launch as a Model for AI-Powered Education Governance",
-          "source": "bangladeshsun.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T19:17:00Z",
-          "publishedAt": "2026-10-09T19:17:00Z",
-          "summary": "",
-          "url": "http://www.bangladeshsun.com/news/279361658/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance"
+          "url": "https://www.latintimes.com/us-faces-growing-shortage-electricians-other-tradespeople-immigration-enforcement-intensifies-600026"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 3
+          "count": 4
         },
         {
-          "word": "교육",
+          "word": "이민",
+          "count": 2
+        },
+        {
+          "word": "청년",
           "count": 2
         },
         {
@@ -597,11 +599,7 @@
           "count": 1
         },
         {
-          "word": "이민",
-          "count": 1
-        },
-        {
-          "word": "청년",
+          "word": "교육",
           "count": 1
         }
       ],
@@ -777,6 +775,18 @@
           "url": "https://247wallst.com/companies/tsm/"
         },
         {
+          "id": "https://www.greeleytribune.com/2026/10/09/house-district-48-race/",
+          "title": "Data centers, energy production hot topics in Colorado House District 48 race",
+          "source": "greeleytribune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T19:46:00Z",
+          "publishedAt": "2026-10-09T19:46:00Z",
+          "summary": "",
+          "url": "https://www.greeleytribune.com/2026/10/09/house-district-48-race/"
+        },
+        {
           "id": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
           "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
           "source": "cnbc.com",
@@ -859,24 +869,16 @@
           "publishedAt": "2026-10-09T13:17:00Z",
           "summary": "",
           "url": "https://www.csoonline.com/article/4233081/exposed-nvidia-gpu-monitors-can-reveal-ai-infrastructure-secrets.html"
-        },
-        {
-          "id": "https://www.therakyatpost.com/news/2026/10/09/budget-2027-sovereign-ai-cloud-planned-100000-more-free-ai-subscriptions-ai-app-to-check-scams/",
-          "title": "Budget 2027: Sovereign AI Cloud Planned, 100,000 More Free AI Subscriptions, AI App To Check Scams | TRP",
-          "source": "therakyatpost.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T11:46:00Z",
-          "publishedAt": "2026-10-09T11:46:00Z",
-          "summary": "",
-          "url": "https://www.therakyatpost.com/news/2026/10/09/budget-2027-sovereign-ai-cloud-planned-100000-more-free-ai-subscriptions-ai-app-to-check-scams/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 4
+        },
+        {
+          "word": "데이터센터",
+          "count": 3
         },
         {
           "word": "반도체",
@@ -887,19 +889,15 @@
           "count": 2
         },
         {
-          "word": "데이터센터",
-          "count": 2
-        },
-        {
           "word": "제조",
           "count": 2
         },
         {
-          "word": "클라우드",
-          "count": 2
+          "word": "전력",
+          "count": 1
         },
         {
-          "word": "전력",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -911,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4840,
-    "feedBytes": 1325306,
+    "fetchedItems": 4879,
+    "feedBytes": 1383352,
     "rollingWindowHours": 72
   }
 }
