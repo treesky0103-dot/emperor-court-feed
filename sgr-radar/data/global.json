@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 08:54:58",
+  "updatedAt": "2026. 10. 09. 오전 09:20:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 120,
-    "deduped": 120,
-    "eventDeduped": 120,
+    "passed": 121,
+    "deduped": 121,
+    "eventDeduped": 121,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -464,6 +464,18 @@
       "url": "http://www.laosnews.net/news/279359426/uae-thailand-conclude-cepa-negotiations-opening-new-horizons-for-trade-investment"
     },
     {
+      "id": "https://www.hellenicshippingnews.com/ecbs-september-minutes-reveal-full-support-for-25bp-rate-hike/",
+      "title": "ECB's September minutes reveal full support for 25bp rate hike | Hellenic Shipping News Worldwide",
+      "source": "hellenicshippingnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T00:16:00Z",
+      "publishedAt": "2026-10-09T00:16:00Z",
+      "summary": "",
+      "url": "https://www.hellenicshippingnews.com/ecbs-september-minutes-reveal-full-support-for-25bp-rate-hike/"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/business/india-business/cancer-drug-prices-may-fall-as-government-plans-30-trade-margin-cap/articleshow/134800542.cms",
       "title": "Cancer drug prices may fall as government plans 30% trade margin cap",
       "source": "timesofindia.indiatimes.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T15:02:00Z",
       "summary": "",
       "url": "https://www.themoscowtimes.com/2026/10/08/uk-expands-sanctions-to-cover-90-of-russian-oil-output-shadow-fleet-and-finance-networks-a93922"
-    },
-    {
-      "id": "https://www.breitbart.com/europe/2026/10/08/british-diplomats-withdraw-from-israel-over-sanctions-row/",
-      "title": "British Diplomats Withdraw From Israel Over Sanctions Row",
-      "source": "breitbart.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T23:17:00Z",
-      "publishedAt": "2026-10-08T23:17:00Z",
-      "summary": "",
-      "url": "https://www.breitbart.com/europe/2026/10/08/british-diplomats-withdraw-from-israel-over-sanctions-row/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3802,
-    "relevantItems": 100,
-    "feedBytes": 1040044,
+    "fetchedItems": 817,
+    "relevantItems": 33,
+    "feedBytes": 216773,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

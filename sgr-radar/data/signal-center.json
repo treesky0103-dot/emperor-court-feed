@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 08:55:04",
+  "updatedAt": "2026. 10. 09. 오전 09:20:12",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -511,18 +511,6 @@
           "url": "https://www.guardian-series.co.uk/news/26619174.home-mental-health-support-neurodivergent-young-people/"
         },
         {
-          "id": "https://www.thehindu.com/news/national/kerala/keralam-to-organise-statewide-campaign-for-students-mental-health/article71560563.ece",
-          "title": "Keralam to organise Statewide campaign for students’ mental health",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T16:31:00Z",
-          "publishedAt": "2026-10-08T16:31:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/kerala/keralam-to-organise-statewide-campaign-for-students-mental-health/article71560563.ece"
-        },
-        {
           "id": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden",
           "title": "Center for Urban Research and Education (CURE) at Rutgers Universityâ€“Camden",
           "source": "nextcity.org",
@@ -569,16 +557,28 @@
           "publishedAt": "2026-10-08T22:32:00Z",
           "summary": "",
           "url": "https://www.medicaldaily.com/glp1-aging-clocks-novo-lilly-unreviewed-data-479718"
+        },
+        {
+          "id": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/",
+          "title": "SEL and ECG Training School Host International Technical Exchange Seminar for Engineers - Tanzania News Reports",
+          "source": "tanzanianewsreports.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T22:18:00Z",
+          "publishedAt": "2026-10-08T22:18:00Z",
+          "summary": "",
+          "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
         }
       ],
       "keywords": [
         {
-          "word": "정신건강",
-          "count": 4
+          "word": "교육",
+          "count": 3
         },
         {
-          "word": "교육",
-          "count": 2
+          "word": "정신건강",
+          "count": 3
         },
         {
           "word": "청년",
@@ -626,18 +626,6 @@
           "publishedAt": "2026-10-08T23:32:00Z",
           "summary": "",
           "url": "https://www.billboard.com/pro/beatport-growth-investment-square-nine-capital/"
-        },
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69793499-lapmaster-wolters-and-precision-surfacing-solutions-secures-strategic-minority-investment-from-the-cynosure-group-and-fernweh-group-to-accelerate-grow-004.htm",
-          "title": "Lapmaster Wolters and Precision Surfacing Solutions Secures Strategic Minority Investment from The Cynosure Group and Fernweh Group to Accelerate Growth",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T23:17:00Z",
-          "publishedAt": "2026-10-08T23:17:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69793499-lapmaster-wolters-and-precision-surfacing-solutions-secures-strategic-minority-investment-from-the-cynosure-group-and-fernweh-group-to-accelerate-grow-004.htm"
         },
         {
           "id": "https://fortune.com/2026/10/08/pepsico-price-hike-doritos-ruffles-sodas-178-million-tariff-refund/",
@@ -722,6 +710,18 @@
           "publishedAt": "2026-10-08T20:46:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01338246645611280&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/chennai/two-held-in-hyderabad-for-cheating-man-of-6226-lakh-in-investment-fraud/article71560917.ece",
+          "title": "Two held in Hyderabad for cheating man of ₹62.26 lakh in investment fraud",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-08",
+          "dateRaw": "2026-10-08T19:47:00Z",
+          "publishedAt": "2026-10-08T19:47:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/cities/chennai/two-held-in-hyderabad-for-cheating-man-of-6226-lakh-in-investment-fraud/article71560917.ece"
         }
       ],
       "keywords": [
@@ -731,7 +731,7 @@
         },
         {
           "word": "성장",
-          "count": 5
+          "count": 4
         },
         {
           "word": "공급망",
@@ -911,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3802,
-    "feedBytes": 1040044,
+    "fetchedItems": 817,
+    "feedBytes": 216773,
     "rollingWindowHours": 72
   }
 }
