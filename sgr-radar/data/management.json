@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 11:53:15",
+  "updatedAt": "2026. 10. 09. 오후 12:12:56",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 75,
-    "deduped": 75,
-    "eventDeduped": 75,
+    "passed": 73,
+    "deduped": 73,
+    "eventDeduped": 73,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -368,6 +368,18 @@
       "url": "https://www.business-standard.com/technology/tech-news/voice-ai-adoption-scales-up-in-india-moves-beyond-experimentation-126100801453_1.html"
     },
     {
+      "id": "https://www.goulburnpost.com.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/",
+      "title": "Asian stocks struggle on AI spending worries",
+      "source": "goulburnpost.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T03:02:00Z",
+      "publishedAt": "2026-10-09T03:02:00Z",
+      "summary": "",
+      "url": "https://www.goulburnpost.com.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/"
+    },
+    {
       "id": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/",
       "title": "Mark Cuban on why AI is the wrong job-killer target: It’s the health care costs, stupid | Fortune",
       "source": "fortune.com",
@@ -656,30 +668,6 @@
       "url": "https://newsindiatimes.com/google-launches-universal-gemini-ai-agent-for-workplace/"
     },
     {
-      "id": "http://www.europesun.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra",
-      "title": "India can unlock AI gains by opening up enterprise data, says World Bank's Neelkanth Mishra",
-      "source": "europesun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T16:31:00Z",
-      "publishedAt": "2026-10-08T16:31:00Z",
-      "summary": "",
-      "url": "http://www.europesun.com/news/279359316/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-bank-neelkanth-mishra"
-    },
-    {
-      "id": "http://www.orlandoecho.com/news/279359200/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zoho-sridhar-vembu",
-      "title": "Falling AI token costs positive for India, corporate spending likely to decline: Zoho's Sridhar Vembu",
-      "source": "orlandoecho.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T16:31:00Z",
-      "publishedAt": "2026-10-08T16:31:00Z",
-      "summary": "",
-      "url": "http://www.orlandoecho.com/news/279359200/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zoho-sridhar-vembu"
-    },
-    {
       "id": "https://www.moneycontrol.com/news/business/you-bring-in-indentured-servants-lay-off-americans-jd-vance-s-blistering-attack-on-h-1b-hiring-14048125.html",
       "title": "'You bring in indentured servants, lay off Americans': JD Vance's blistering attack on H-1B hiring- Moneycontrol.com",
       "source": "moneycontrol.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-08T19:47:00Z",
       "summary": "",
       "url": "https://news4sanantonio.com/sa-living/the-court-jesters-play-off-against-sapd-all-stars-in-this-game-to-support-anti-bullying"
+    },
+    {
+      "id": "https://playbill.com/article/traitorz-unauthorized-musical-parody-sets-off-broadway-premiere",
+      "title": "Musical Parody of Traitors Reality Show to Play Off-Broadway",
+      "source": "playbill.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T19:32:00Z",
+      "publishedAt": "2026-10-08T19:32:00Z",
+      "summary": "",
+      "url": "https://playbill.com/article/traitorz-unauthorized-musical-parody-sets-off-broadway-premiere"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2959,
-    "relevantItems": 61,
-    "feedBytes": 782091,
+    "fetchedItems": 3023,
+    "relevantItems": 63,
+    "feedBytes": 813806,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

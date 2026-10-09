@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 11:53:16",
+  "updatedAt": "2026. 10. 09. 오후 12:12:57",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 117,
-    "deduped": 117,
-    "eventDeduped": 117,
+    "passed": 115,
+    "deduped": 115,
+    "eventDeduped": 115,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -716,16 +716,16 @@
       "url": "https://www.fnnews.com/news/202610090600392880"
     },
     {
-      "id": "http://www.racv.com.au/royalauto/sustainability/solar-panels-batteries/what-is-a-solar-feed-in-tariff.html",
-      "title": "What is a solar feed-in tariff and how to compare rates in Victoria | RACV",
-      "source": "racv.com.au",
+      "id": "https://www.theepochtimes.com/us/benson-james-spar-over-tariffs-and-iran-war-in-michigan-governor-debate-6100669",
+      "title": "Benson, James Spar Over Tariffs and Iran War in Michigan Governor Debate",
+      "source": "theepochtimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T02:02:00Z",
-      "publishedAt": "2026-10-09T02:02:00Z",
+      "dateRaw": "2026-10-09T03:02:00Z",
+      "publishedAt": "2026-10-09T03:02:00Z",
       "summary": "",
-      "url": "http://www.racv.com.au/royalauto/sustainability/solar-panels-batteries/what-is-a-solar-feed-in-tariff.html"
+      "url": "https://www.theepochtimes.com/us/benson-james-spar-over-tariffs-and-iran-war-in-michigan-governor-debate-6100669"
     },
     {
       "id": "https://www.ksl.com:443/article/51634011/university-of-utah-gets-75m-federal-grant-to-advance-domestic-critical-minerals-search",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2959,
-    "relevantItems": 61,
-    "feedBytes": 782091,
+    "fetchedItems": 3023,
+    "relevantItems": 63,
+    "feedBytes": 813806,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
