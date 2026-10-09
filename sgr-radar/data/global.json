@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 06:53:53",
+  "updatedAt": "2026. 10. 10. 오전 07:13:38",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 160,
-    "deduped": 160,
-    "eventDeduped": 160,
+    "passed": 163,
+    "deduped": 163,
+    "eventDeduped": 163,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -28,6 +28,18 @@
       "publishedAt": "2026-10-09T19:47:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/international/international_general/2026/10/10/K22V4275GZFLBPVD6FZP765IVE/"
+    },
+    {
+      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/",
+      "title": "Supply Chains Were Always Probabilistic—AI Is Finally Catching Up",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T22:01:00Z",
+      "publishedAt": "2026-10-09T22:01:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/"
     },
     {
       "id": "http://www.russiaherald.com/news/279362724/washington-suspends-sanctions-on-russian-fuel-trade-including-import-to-us",
@@ -102,18 +114,6 @@
       "url": "http://www.laosnews.net/news/279361636/india-asean-push-to-expedite-pending-chapters-in-trade-pact-review-next-meeting-in-january"
     },
     {
-      "id": "https://www.wikitree.co.kr/articles/1165081",
-      "title": "레저 지갑 피해, CZ “공급망 공격 가능성”…테더는 USDT 9,000만 달러 동결했다",
-      "source": "wikitree.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:47:00Z",
-      "publishedAt": "2026-10-09T21:47:00Z",
-      "summary": "",
-      "url": "https://www.wikitree.co.kr/articles/1165081"
-    },
-    {
       "id": "https://www.etoday.co.kr/news/view/2633945",
       "title": "[금상소] 은행 안 가고 부동산 담보대출 받는다…금리도 저렴할까",
       "source": "etoday.co.kr",
@@ -150,6 +150,18 @@
       "publishedAt": "2026-10-09T19:47:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/international/international_general/2026/10/10/K22V4275GZFLBPVD6FZP765IVE/"
+    },
+    {
+      "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/",
+      "title": "Supply Chains Were Always Probabilistic—AI Is Finally Catching Up",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T22:01:00Z",
+      "publishedAt": "2026-10-09T22:01:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/"
     },
     {
       "id": "http://www.russiaherald.com/news/279362724/washington-suspends-sanctions-on-russian-fuel-trade-including-import-to-us",
@@ -356,6 +368,42 @@
       "url": "https://biz.heraldcorp.com/article/10898049"
     },
     {
+      "id": "https://www.chiangraitimes.com/china/chinas-synthetic-gas-push/",
+      "title": "China's Synthetic Gas Push: Energy Security at a High Environmental Cost",
+      "source": "chiangraitimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T22:01:00Z",
+      "publishedAt": "2026-10-09T22:01:00Z",
+      "summary": "",
+      "url": "https://www.chiangraitimes.com/china/chinas-synthetic-gas-push/"
+    },
+    {
+      "id": "https://buenosairesherald.com/economics/argentinas-central-bank-and-auditors-clash-over-gold-reserves",
+      "title": "Argentina’s Central Bank and auditors clash over gold reserves - Buenos Aires Herald",
+      "source": "buenosairesherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T22:01:00Z",
+      "publishedAt": "2026-10-09T22:01:00Z",
+      "summary": "",
+      "url": "https://buenosairesherald.com/economics/argentinas-central-bank-and-auditors-clash-over-gold-reserves"
+    },
+    {
+      "id": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo",
+      "title": "Business groups warn of irreversible economic consequences if trade deal remains in limbo",
+      "source": "financialpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T22:01:00Z",
+      "publishedAt": "2026-10-09T22:01:00Z",
+      "summary": "",
+      "url": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo"
+    },
+    {
       "id": "https://www.express.co.uk/finance/personalfinance/2255304/bank-boosts-interest-rate-current-account",
       "title": "Bank boosts interest rate on current account to 'tempting' 3%",
       "source": "express.co.uk",
@@ -378,30 +426,6 @@
       "publishedAt": "2026-10-09T21:47:00Z",
       "summary": "",
       "url": "https://politicaldog101.com/2026/10/trumps-gonna-try-the-ole-mortgage-crime-thing-against-federal-reserve-gov-lisa-cook/comment-page-1/"
-    },
-    {
-      "id": "https://statenews.com/article/2026/10/former-professor-lisa-cook-under-investigation-by-trump-committee",
-      "title": "Trump committee to investigate MSU professor, Federal Reserve Gov. Lisa Cook - The State News",
-      "source": "statenews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:47:00Z",
-      "publishedAt": "2026-10-09T21:47:00Z",
-      "summary": "",
-      "url": "https://statenews.com/article/2026/10/former-professor-lisa-cook-under-investigation-by-trump-committee"
-    },
-    {
-      "id": "https://www.bostonherald.com/2026/10/09/ticker-eu-and-china-strike-interim-trade-deal-trump-aims-at-cook-again/",
-      "title": "Ticker: EU and China strike interim trade deal; Trump aims at Cook, again",
-      "source": "bostonherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:32:00Z",
-      "publishedAt": "2026-10-09T21:32:00Z",
-      "summary": "",
-      "url": "https://www.bostonherald.com/2026/10/09/ticker-eu-and-china-strike-interim-trade-deal-trump-aims-at-cook-again/"
     },
     {
       "id": "https://en.shafaqna.com/483391/oil-prices-rise-supply-concerns-brent-wti/",
@@ -464,18 +488,6 @@
       "url": "http://www.californiatelegraph.com/news/279361750/imc-rare-earths-insights-why-the-global-search-for-critical-minerals-is-bringing-new-attention-to-brazil"
     },
     {
-      "id": "http://www.californiatelegraph.com/news/279361770/stillwater-critical-minerals-upgrades-to-otcqx-best-market-expanding-us-market-presence",
-      "title": "Stillwater Critical Minerals Upgrades to OTCQX Best Market, Expanding U.S. Market Presence",
-      "source": "californiatelegraph.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T18:31:00Z",
-      "publishedAt": "2026-10-09T18:31:00Z",
-      "summary": "",
-      "url": "http://www.californiatelegraph.com/news/279361770/stillwater-critical-minerals-upgrades-to-otcqx-best-market-expanding-us-market-presence"
-    },
-    {
       "id": "https://en.interfax.com.ua/news/general/1217252.html",
       "title": "Kyiv administration says state unblocks payments for some energy security projects",
       "source": "en.interfax.com.ua",
@@ -524,16 +536,28 @@
       "url": "https://www.newspim.com/news/view/20261009000174"
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279362757/eam-jaishankar-meets-ethiopian-fm-during-visit-holds-talks-on-trade-security-tech-india-au-partnership",
-      "title": "EAM Jaishankar meets Ethiopian FM during visit, holds talks on trade, security, tech, India-AU Partnership",
-      "source": "bignewsnetwork.com",
+      "id": "https://www.thespec.com/news/hamilton-region/union-says-stelco-pressuring-canada/article_61cf101f-a805-5233-a1ac-cca56182e619.html",
+      "title": "Union accuses Stelco of pressuring Canada to trade talks",
+      "source": "thespec.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:32:00Z",
-      "publishedAt": "2026-10-09T21:32:00Z",
+      "dateRaw": "2026-10-09T22:02:00Z",
+      "publishedAt": "2026-10-09T22:02:00Z",
       "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279362757/eam-jaishankar-meets-ethiopian-fm-during-visit-holds-talks-on-trade-security-tech-india-au-partnership"
+      "url": "https://www.thespec.com/news/hamilton-region/union-says-stelco-pressuring-canada/article_61cf101f-a805-5233-a1ac-cca56182e619.html"
+    },
+    {
+      "id": "http://www.africaleader.com/news/279362757/eam-jaishankar-meets-ethiopian-fm-during-visit-holds-talks-on-trade-security-tech-india-au-partnership",
+      "title": "EAM Jaishankar meets Ethiopian FM during visit, holds talks on trade, security, tech, India-AU Partnership",
+      "source": "africaleader.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T22:01:00Z",
+      "publishedAt": "2026-10-09T22:01:00Z",
+      "summary": "",
+      "url": "http://www.africaleader.com/news/279362757/eam-jaishankar-meets-ethiopian-fm-during-visit-holds-talks-on-trade-security-tech-india-au-partnership"
     },
     {
       "id": "https://wflaorlando.iheart.com/content/2025-06-27-president-trump-says-trade-talks-with-canada-have-been-terminated/",
@@ -704,18 +728,6 @@
       "url": "https://www.newspim.com/news/view/20261009000168"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261009000167",
-      "title": "[인도증시] 유가 상승세 완화에 투심 개선, 상승...25년래 최장기 하락세에 '마침표'",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:46:00Z",
-      "publishedAt": "2026-10-09T11:46:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261009000167"
-    },
-    {
       "id": "http://www.ihalla.com/article.php?aid=1791545429791386073",
       "title": "'연이은 고배' 제주 이번엔 G20 정상회의 유치 성공할까",
       "source": "ihalla.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-09T14:47:00Z",
       "summary": "",
       "url": "http://www.ihalla.com/article.php?aid=1791545429791386073"
-    },
-    {
-      "id": "https://www.latimes.com/world-nation/story/2026-10-09/trump-establishes-committee-to-investigate-federal-reserves-lisa-cook-in-latest-effort-to-fire-her",
-      "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
-      "source": "latimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:32:00Z",
-      "publishedAt": "2026-10-09T21:32:00Z",
-      "summary": "",
-      "url": "https://www.latimes.com/world-nation/story/2026-10-09/trump-establishes-committee-to-investigate-federal-reserves-lisa-cook-in-latest-effort-to-fire-her"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4000,
-    "relevantItems": 61,
-    "feedBytes": 1091369,
+    "fetchedItems": 3912,
+    "relevantItems": 75,
+    "feedBytes": 1054105,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

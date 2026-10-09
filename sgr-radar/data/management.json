@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 06:53:52",
+  "updatedAt": "2026. 10. 10. 오전 07:13:37",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 37,
-    "deduped": 37,
-    "eventDeduped": 37,
+    "passed": 35,
+    "deduped": 35,
+    "eventDeduped": 35,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,30 +380,6 @@
       "url": "https://www.therakyatpost.com/news/2026/10/09/budget-2027-sovereign-ai-cloud-planned-100000-more-free-ai-subscriptions-ai-app-to-check-scams/"
     },
     {
-      "id": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/",
-      "title": "Should INEC Deploy AI in Election Management Before Deploying its Governance Policy? -By Chidozie Ofoegbu",
-      "source": "opinionnigeria.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:31:00Z",
-      "publishedAt": "2026-10-09T11:31:00Z",
-      "summary": "",
-      "url": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/"
-    },
-    {
-      "id": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
-      "title": "I tried Google's new AI game generator and made two games in minutes — it impressed me, but I don't think developers need to worry just yet",
-      "source": "techradar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:31:00Z",
-      "publishedAt": "2026-10-09T11:31:00Z",
-      "summary": "",
-      "url": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them"
-    },
-    {
       "id": "https://www.chroniclejournal.com/news/national/september-job-losses-pour-cold-water-on-bank-of-canada-rate-hike-chatter/article_6fe8fc51-8fe9-5c4d-a43f-9228531be40c.html",
       "title": "September job losses pour cold water on Bank of Canada rate hike chatter",
       "source": "chroniclejournal.com",
@@ -588,9 +564,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4000,
-    "relevantItems": 61,
-    "feedBytes": 1091369,
+    "fetchedItems": 3912,
+    "relevantItems": 75,
+    "feedBytes": 1054105,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
