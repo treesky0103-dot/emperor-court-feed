@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오전 10:38:10",
+  "updatedAt": "2026. 10. 09. 오전 10:56:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 70,
-    "deduped": 70,
-    "eventDeduped": 70,
+    "passed": 71,
+    "deduped": 71,
+    "eventDeduped": 71,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,16 +380,40 @@
       "url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/"
     },
     {
-      "id": "https://www.bankinfosecurity.com/webinars/live-webinar-modernizing-enterprise-data-security-for-ai-era-what-must-w-7415",
-      "title": "Live Webinar | Modernizing Enterprise Data Security for the AI Era: What Must Change and Where to Start",
-      "source": "bankinfosecurity.com",
+      "id": "https://itwire.com/business-it-news/data/smart-communications-expands-ai-powered-migration-to-help-enterprises-cut-legacy-costs-and-move-to-ai-faster",
+      "title": "Smart Communications Expands AI-Powered Migration to Help Enterprises Cut Legacy Costs and Move to AI Faster | iTWire",
+      "source": "itwire.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T01:02:00Z",
-      "publishedAt": "2026-10-09T01:02:00Z",
+      "dateRaw": "2026-10-09T01:47:00Z",
+      "publishedAt": "2026-10-09T01:47:00Z",
       "summary": "",
-      "url": "https://www.bankinfosecurity.com/webinars/live-webinar-modernizing-enterprise-data-security-for-ai-era-what-must-w-7415"
+      "url": "https://itwire.com/business-it-news/data/smart-communications-expands-ai-powered-migration-to-help-enterprises-cut-legacy-costs-and-move-to-ai-faster"
+    },
+    {
+      "id": "https://itwire.com/guest-articles/guest-research/sailpoint-report-finds-79-of-enterprises-run-ai-agents-in-production-yet-only-2-have-deployed-purpose-built-security",
+      "title": "SailPoint Report Finds 79% of Enterprises Run AI Agents in Production, Yet Only 2% Have Deployed Purpose-built Security | iTWire",
+      "source": "itwire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:47:00Z",
+      "publishedAt": "2026-10-09T01:47:00Z",
+      "summary": "",
+      "url": "https://itwire.com/guest-articles/guest-research/sailpoint-report-finds-79-of-enterprises-run-ai-agents-in-production-yet-only-2-have-deployed-purpose-built-security"
+    },
+    {
+      "id": "https://www.govinfosecurity.com/webinars/live-webinar-modernizing-enterprise-data-security-for-ai-era-what-must-w-7415",
+      "title": "Live Webinar | Modernizing Enterprise Data Security for the AI Era: What Must Change and Where to Start",
+      "source": "govinfosecurity.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:47:00Z",
+      "publishedAt": "2026-10-09T01:47:00Z",
+      "summary": "",
+      "url": "https://www.govinfosecurity.com/webinars/live-webinar-modernizing-enterprise-data-security-for-ai-era-what-must-w-7415"
     },
     {
       "id": "https://itbrief.co.nz/story/smart-communications-boosts-ai-migration-for-enterprises",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-09T01:31:00Z",
       "summary": "",
       "url": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/09/exclusive-ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say",
-      "title": "Exclusive-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
-      "source": "thestar.com.my",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T00:46:00Z",
-      "publishedAt": "2026-10-09T00:46:00Z",
-      "summary": "",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/exclusive-ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say"
-    },
-    {
-      "id": "https://americanbazaaronline.com/2026/10/08/google-launches-gemini-agent-as-ai-giants-race-to-build-autonomous-workers-489653/",
-      "title": "Google launches Gemini agent as AI giants race to build autonomous workers",
-      "source": "americanbazaaronline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T22:46:00Z",
-      "publishedAt": "2026-10-08T22:46:00Z",
-      "summary": "",
-      "url": "https://americanbazaaronline.com/2026/10/08/google-launches-gemini-agent-as-ai-giants-race-to-build-autonomous-workers-489653/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3297,
-    "relevantItems": 65,
-    "feedBytes": 872848,
+    "fetchedItems": 3443,
+    "relevantItems": 85,
+    "feedBytes": 899401,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
