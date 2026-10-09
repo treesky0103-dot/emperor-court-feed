@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 01:56:07",
+  "updatedAt": "2026. 10. 09. 오후 02:14:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 68,
-    "deduped": 68,
-    "eventDeduped": 68,
+    "passed": 69,
+    "deduped": 69,
+    "eventDeduped": 69,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -236,6 +236,18 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth"
     },
     {
+      "id": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902",
+      "title": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' minister Joly warns Cleveland-Cliffs | CBC News",
+      "source": "cbc.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T05:02:00Z",
+      "publishedAt": "2026-10-09T05:02:00Z",
+      "summary": "",
+      "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902"
+    },
+    {
       "id": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/",
       "title": "A modernized health plan: Supporting cost management and the employee experience.",
       "source": "wbjournal.com",
@@ -270,18 +282,6 @@
       "publishedAt": "2026-10-09T03:31:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/481724/us-labor-market-steady-layoffs-57-year-low/"
-    },
-    {
-      "id": "https://politicalwire.com/2026/10/08/layoffs-at-extremely-low-levels-despite-gloom/",
-      "title": "Layoffs at ‘Extremely Low Levels’ Despite Gloom",
-      "source": "politicalwire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T02:46:00Z",
-      "publishedAt": "2026-10-09T02:46:00Z",
-      "summary": "",
-      "url": "https://politicalwire.com/2026/10/08/layoffs-at-extremely-low-levels-despite-gloom/"
     },
     {
       "id": "https://www.theglobeandmail.com/business/article-corus-completes-recapitalization-names-new-board-after-restructuring/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3247,
-    "relevantItems": 64,
-    "feedBytes": 894341,
+    "fetchedItems": 3795,
+    "relevantItems": 97,
+    "feedBytes": 1006899,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
