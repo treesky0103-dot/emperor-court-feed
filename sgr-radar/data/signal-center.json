@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 08:13:30",
+  "updatedAt": "2026. 10. 09. 오후 08:34:36",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -386,18 +386,6 @@
           "url": "https://www.newspim.com/news/view/20261008001152"
         },
         {
-          "id": "https://biz.chosun.com/stock/stock_general/2026/10/09/7ODVNUMCMVAIZNJCWJ7EEOPD6Q/",
-          "title": "반도체 소부장 ETF 한 달 새 20% 상승 랠리… 코스닥 액티브도 덩달아 웃었다",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T23:32:00Z",
-          "publishedAt": "2026-10-08T23:32:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/09/7ODVNUMCMVAIZNJCWJ7EEOPD6Q/"
-        },
-        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026100909310891552",
           "title": "시민 AI 해법, 정책으로 잇는다… 서울 AI 허브, AI 서비스 13개 발굴",
           "source": "ddaily.co.kr",
@@ -420,6 +408,18 @@
           "publishedAt": "2026-10-09T11:02:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11622403"
+        },
+        {
+          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682006",
+          "title": "최태원, 호남 반도체부지 첫 방문…“가장 빠른 속도로 최대한 짓겠다”",
+          "source": "news.kbs.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T10:01:00Z",
+          "publishedAt": "2026-10-09T10:01:00Z",
+          "summary": "",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682006"
         }
       ],
       "keywords": [
@@ -452,18 +452,6 @@
   "global": {
     "humanities": {
       "items": [
-        {
-          "id": "https://www.thecourierexpress.com/news/armanini-commends-investments-in-healthcare-workforce-education/article_4d99eb2a-02ad-4e69-b7a0-0b73b7a308b7.html",
-          "title": "Armanini commends investments in healthcare workforce education",
-          "source": "thecourierexpress.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-08",
-          "dateRaw": "2026-10-08T23:32:00Z",
-          "publishedAt": "2026-10-08T23:32:00Z",
-          "summary": "",
-          "url": "https://www.thecourierexpress.com/news/armanini-commends-investments-in-healthcare-workforce-education/article_4d99eb2a-02ad-4e69-b7a0-0b73b7a308b7.html"
-        },
         {
           "id": "https://www.miragenews.com/secrets-of-mental-health-well-being-for-happier-987221/",
           "title": "Secrets of Mental Health & Well-being for Happier Life",
@@ -571,20 +559,32 @@
           "publishedAt": "2026-10-09T09:32:00Z",
           "summary": "",
           "url": "https://dailytrust.com/bwari-tops-youth-unemployment-data-in-fct-survey/"
+        },
+        {
+          "id": "https://www.express.co.uk/life-style/health/2255641/mental-health-review-fonagy-autism-adhd",
+          "title": "The big changes in mental health services new 607-page report says are needed",
+          "source": "express.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T07:17:00Z",
+          "publishedAt": "2026-10-09T07:17:00Z",
+          "summary": "",
+          "url": "https://www.express.co.uk/life-style/health/2255641/mental-health-review-fonagy-autism-adhd"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
+        },
+        {
+          "word": "정신건강",
+          "count": 3
         },
         {
           "word": "청년",
           "count": 3
-        },
-        {
-          "word": "정신건강",
-          "count": 2
         },
         {
           "word": "이민",
@@ -909,8 +909,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6926,
-    "feedBytes": 1982949,
+    "fetchedItems": 1060,
+    "feedBytes": 295969,
     "rollingWindowHours": 72
   }
 }

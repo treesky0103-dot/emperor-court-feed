@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 08:13:23",
+  "updatedAt": "2026. 10. 09. 오후 08:34:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 126,
-    "deduped": 126,
-    "eventDeduped": 126,
+    "passed": 129,
+    "deduped": 129,
+    "eventDeduped": 129,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,16 +392,28 @@
       "url": "https://biz.chosun.com/international/international_economy/2026/10/09/WWQJZNRXIJFHXN6X5DS26JUOMA/"
     },
     {
-      "id": "https://www.ghanamma.com/2026/10/09/bank-of-ghana-releases-official-daily-exchange-rates-for-friday-october-9th-2026/",
-      "title": "Bank of Ghana Releases Official Daily Exchange Rates for Friday, October 9th, 2026 – Ghanamma.com",
-      "source": "ghanamma.com",
+      "id": "https://allafrica.com/stories/202610090345.html",
+      "title": "Angola: Carrinho and the Risks Angola's Central Bank Must Confront",
+      "source": "allafrica.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T11:02:00Z",
-      "publishedAt": "2026-10-09T11:02:00Z",
+      "dateRaw": "2026-10-09T11:31:00Z",
+      "publishedAt": "2026-10-09T11:31:00Z",
       "summary": "",
-      "url": "https://www.ghanamma.com/2026/10/09/bank-of-ghana-releases-official-daily-exchange-rates-for-friday-october-9th-2026/"
+      "url": "https://allafrica.com/stories/202610090345.html"
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69798824-otc-markets-stillwater-critical-minerals-corp-begins-trading-on-otcqx-best-market-399.htm",
+      "title": "OTC Markets: Stillwater Critical Minerals Corp. Begins Trading on OTCQX Best Market",
+      "source": "finanznachrichten.de",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T11:31:00Z",
+      "publishedAt": "2026-10-09T11:31:00Z",
+      "summary": "",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69798824-otc-markets-stillwater-critical-minerals-corp-begins-trading-on-otcqx-best-market-399.htm"
     },
     {
       "id": "https://www.euro-petrole.com/seatrium-secures-full-scope-epcic-fsru-conversion-contract-from-excelerate-energy-advancing-energy-security-through-floating-lng-infrastructure-n-i-30766",
@@ -474,18 +486,6 @@
       "publishedAt": "2026-10-09T08:47:00Z",
       "summary": "",
       "url": "https://www.politico.eu/article/eus-new-list-of-critical-mineral-projects-focuses-on-clean-energy-metals/"
-    },
-    {
-      "id": "https://www.emsnow.com/indias-electronic-components-market-is-evolving-is-the-supply-chain-ready/",
-      "title": "India’s Electronic Components Market Is Evolving. Is the Supply Chain Ready? · EMSNow",
-      "source": "emsnow.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T05:01:00Z",
-      "publishedAt": "2026-10-09T05:01:00Z",
-      "summary": "",
-      "url": "https://www.emsnow.com/indias-electronic-components-market-is-evolving-is-the-supply-chain-ready/"
     },
     {
       "id": "https://www.investmentwatchblog.com/tariff-pain-trumps-tariff-driven-price-squeeze-collides-with-voter-frustration-halloween-candy-costs-soar-71-republicans-face-a-growing-midterm-problem/",
@@ -716,16 +716,16 @@
       "url": "https://vietnamnews.vn/world/1801576/malaysia-to-work-towards-myanmar-s-full-reintegration-into-asean-pm-says.html"
     },
     {
-      "id": "https://economictimes.indiatimes.com/tech/technology/us-state-montana-governor-pitches-india-partnerships-in-quantum-aerospace-biosciences-critical-minerals/articleshow/134794159.cms",
-      "title": "quantum technology: US state Montana governor pitches India partnerships in quantum, aerospace, biosciences & critical minerals - The Economic Times",
-      "source": "economictimes.indiatimes.com",
+      "id": "https://www.emsnow.com/indias-electronic-components-market-is-evolving-is-the-supply-chain-ready/",
+      "title": "India’s Electronic Components Market Is Evolving. Is the Supply Chain Ready? · EMSNow",
+      "source": "emsnow.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T02:02:00Z",
-      "publishedAt": "2026-10-09T02:02:00Z",
+      "dateRaw": "2026-10-09T05:01:00Z",
+      "publishedAt": "2026-10-09T05:01:00Z",
       "summary": "",
-      "url": "https://economictimes.indiatimes.com/tech/technology/us-state-montana-governor-pitches-india-partnerships-in-quantum-aerospace-biosciences-critical-minerals/articleshow/134794159.cms"
+      "url": "https://www.emsnow.com/indias-electronic-components-market-is-evolving-is-the-supply-chain-ready/"
     },
     {
       "id": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6926,
-    "relevantItems": 92,
-    "feedBytes": 1982949,
+    "fetchedItems": 1060,
+    "relevantItems": 33,
+    "feedBytes": 295969,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

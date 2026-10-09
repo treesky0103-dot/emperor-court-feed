@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 08:13:22",
+  "updatedAt": "2026. 10. 09. 오후 08:34:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 49,
-    "deduped": 49,
-    "eventDeduped": 49,
+    "passed": 50,
+    "deduped": 50,
+    "eventDeduped": 50,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,6 +380,30 @@
       "url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid/"
     },
     {
+      "id": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/",
+      "title": "Should INEC Deploy AI in Election Management Before Deploying its Governance Policy? -By Chidozie Ofoegbu",
+      "source": "opinionnigeria.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T11:31:00Z",
+      "publishedAt": "2026-10-09T11:31:00Z",
+      "summary": "",
+      "url": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/"
+    },
+    {
+      "id": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
+      "title": "I tried Google's new AI game generator and made two games in minutes — it impressed me, but I don't think developers need to worry just yet",
+      "source": "techradar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T11:31:00Z",
+      "publishedAt": "2026-10-09T11:31:00Z",
+      "summary": "",
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them"
+    },
+    {
       "id": "https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/",
       "title": "AI Training Critical as Governance Challenges Grow",
       "source": "infosecurity-magazine.com",
@@ -704,18 +728,6 @@
       "url": "https://www.digbycourier.ca/job-cuts-spread-across-the-tech-industry-with-microsoft-laying-off-10000-people/"
     },
     {
-      "id": "https://www.theyeshivaworld.com/news/general/2607344/unemployment-benefit-claims-dipped-slightly-last-week-as-layoffs-remain-low.html",
-      "title": "Unemployment Benefit Claims Dipped Slightly Last Week as Layoffs Remain Low",
-      "source": "theyeshivaworld.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T23:17:00Z",
-      "publishedAt": "2026-10-08T23:17:00Z",
-      "summary": "",
-      "url": "https://www.theyeshivaworld.com/news/general/2607344/unemployment-benefit-claims-dipped-slightly-last-week-as-layoffs-remain-low.html"
-    },
-    {
       "id": "https://whyy.org/articles/stockton-university-layoffs-unions-25-million-deficit/",
       "title": "Stockton University are planning layoffs to close a $25 million deficit",
       "source": "whyy.org",
@@ -732,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6926,
-    "relevantItems": 92,
-    "feedBytes": 1982949,
+    "fetchedItems": 1060,
+    "relevantItems": 33,
+    "feedBytes": 295969,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
