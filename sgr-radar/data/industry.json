@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 02:14:27",
+  "updatedAt": "2026. 10. 09. 오후 02:37:56",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 675,
-    "deduped": 675,
-    "eventDeduped": 675,
+    "passed": 668,
+    "deduped": 668,
+    "eventDeduped": 668,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -608,28 +608,16 @@
       "url": "https://cbn.co.za/industry-news/power-energy-efficiency-news/commercial-solar-battery-storage-nid-project-shows-value-of-peak-demand-management/"
     },
     {
-      "id": "https://dailybulldog.com/education/umf-and-northeastern-university-create-pathway-to-a-masters-degree-in-biotechnology-at-the-roux-institute-to-help-students-advance-their-careers/",
-      "title": "UMF and Northeastern University create pathway to a Master’s degree in Biotechnology at the Roux Institute to help students advance their careers",
-      "source": "dailybulldog.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T18:17:00Z",
-      "publishedAt": "2026-10-08T18:17:00Z",
-      "summary": "",
-      "url": "https://dailybulldog.com/education/umf-and-northeastern-university-create-pathway-to-a-masters-degree-in-biotechnology-at-the-roux-institute-to-help-students-advance-their-careers/"
-    },
-    {
-      "id": "https://www.gleninnesexaminer.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/",
+      "id": "https://www.camdencourier.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/",
       "title": "Data centre stoushes a 'sad state of affairs', MPs told",
-      "source": "gleninnesexaminer.com.au",
+      "source": "camdencourier.com.au",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T05:02:00Z",
-      "publishedAt": "2026-10-09T05:02:00Z",
+      "dateRaw": "2026-10-09T05:31:00Z",
+      "publishedAt": "2026-10-09T05:31:00Z",
       "summary": "",
-      "url": "https://www.gleninnesexaminer.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/"
+      "url": "https://www.camdencourier.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/"
     },
     {
       "id": "https://www.bgr.com/2276390/how-long-nvidia-gpus-get-software-updates/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T05:02:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645611280&mediaCodeNo=257"
+    },
+    {
+      "id": "https://sana.sy/en/economic/2349073/",
+      "title": "Syria-Saudi partnership opens investment opportunities to develop energy sector",
+      "source": "sana.sy",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T00:16:00Z",
+      "publishedAt": "2026-10-09T00:16:00Z",
+      "summary": "",
+      "url": "https://sana.sy/en/economic/2349073/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3795,
-    "relevantItems": 97,
-    "feedBytes": 1006899,
+    "fetchedItems": 3652,
+    "relevantItems": 63,
+    "feedBytes": 1007834,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
