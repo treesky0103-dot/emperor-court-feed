@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 04:51:30",
+  "updatedAt": "2026. 10. 09. 오후 05:04:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -396,30 +396,28 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026100909310891552"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223942",
-          "title": "호남 반도체 부지 간 최태원 \"용인 3분의 2규모…최대한 빨리 짓겠다\"",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T07:15:00Z",
-          "publishedAt": "2026-10-09T07:15:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223942",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2634108",
-          "title": "최태원 SK그룹 회장, 9일 광주 군공항 반도체 부지 첫 방문",
-          "source": "etoday.co.kr",
+          "id": "https://www.fnnews.com/news/202610091511302368",
+          "title": "광주 찾은 최태원 \"용수·전력 늦어도 먼저 팹 건설 들어갈 것..반도체 수요 빠르게 늘어\"",
+          "source": "fnnews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-09",
-          "dateRaw": "2026-10-09T07:02:00Z",
-          "publishedAt": "2026-10-09T07:02:00Z",
+          "dateRaw": "2026-10-09T08:01:00Z",
+          "publishedAt": "2026-10-09T08:01:00Z",
           "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2634108"
+          "url": "https://www.fnnews.com/news/202610091511302368"
+        },
+        {
+          "id": "https://ichannela.com/news/detail/000000554346.do",
+          "title": "최태원 “호남반도체, 전력·용수 늦어도 먼저 착공…용인의 2/3”",
+          "source": "ichannela.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T08:01:00Z",
+          "publishedAt": "2026-10-09T08:01:00Z",
+          "summary": "",
+          "url": "https://ichannela.com/news/detail/000000554346.do"
         }
       ],
       "keywords": [
@@ -432,12 +430,12 @@
           "count": 6
         },
         {
-          "word": "데이터센터",
-          "count": 2
+          "word": "전력",
+          "count": 3
         },
         {
-          "word": "전력",
-          "count": 1
+          "word": "데이터센터",
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -905,8 +903,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2446,
-    "feedBytes": 678183,
+    "fetchedItems": 2415,
+    "feedBytes": 690105,
     "rollingWindowHours": 72
   }
 }
