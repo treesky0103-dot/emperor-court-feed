@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 12:26:32",
+  "updatedAt": "2026. 10. 10. 오전 12:47:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 44,
-    "deduped": 44,
-    "eventDeduped": 44,
+    "passed": 45,
+    "deduped": 45,
+    "eventDeduped": 45,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -560,6 +560,18 @@
       "url": "https://www.newspim.com/news/view/20260920000110"
     },
     {
+      "id": "https://www.denverpost.com/2026/10/09/cemex-to-lay-off-70-at-lyons-cement-plant/",
+      "title": "Cemex to lay off 70 at Lyons cement plant",
+      "source": "denverpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T15:31:00Z",
+      "publishedAt": "2026-10-09T15:31:00Z",
+      "summary": "",
+      "url": "https://www.denverpost.com/2026/10/09/cemex-to-lay-off-70-at-lyons-cement-plant/"
+    },
+    {
       "id": "https://www.globalcement.com/news/21341-cemex-s-denver-cement-plant-to-lay-off-70-workers",
       "title": "Cemex's Denver cement plant to lay off 70 workers - Cement Sector News",
       "source": "globalcement.com",
@@ -672,9 +684,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6672,
-    "relevantItems": 119,
-    "feedBytes": 1926293,
+    "fetchedItems": 5995,
+    "relevantItems": 109,
+    "feedBytes": 1684934,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
