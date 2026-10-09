@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 04:59:47",
+  "updatedAt": "2026. 10. 10. 오전 05:18:50",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -169,16 +169,16 @@
           "url": "https://biz.chosun.com/international/international_economy/2026/10/10/4MHQNYNWZZHXXF4RE2Z2UZRE6Q/"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12172442",
-          "title": "소비자는 高사양 쏠림, 제조사는 스펙 낮춰 재출시 … 칩플레이션 기현상",
+          "id": "https://www.mk.co.kr/news/economy/12172392",
+          "title": "투자 지식의 복리효과 … 매경플러스 200% 활용법",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T17:31:15Z",
-          "publishedAt": "2026-10-09T17:31:15Z",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T05:00:00Z",
+          "publishedAt": "2026-10-10T05:00:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12172442",
+          "url": "https://www.mk.co.kr/news/economy/12172392",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -284,14 +284,14 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 4
-        },
-        {
-          "word": "소비",
-          "count": 2
+          "count": 5
         },
         {
           "word": "고용",
+          "count": 1
+        },
+        {
+          "word": "소비",
           "count": 1
         },
         {
@@ -392,18 +392,6 @@
           "url": "https://www.munhwa.com:443/article/11622403"
         },
         {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026100916285062281",
-          "title": "최태원 SK 회장 광주行… \"호남 반도체 클러스터 속도감 있게 추진\"",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T10:02:00Z",
-          "publishedAt": "2026-10-09T10:02:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026100916285062281"
-        },
-        {
           "id": "https://www.mk.co.kr/news/business/12172442",
           "title": "소비자는 高사양 쏠림, 제조사는 스펙 낮춰 재출시 … 칩플레이션 기현상",
           "source": "mk.co.kr",
@@ -428,12 +416,26 @@
           "publishedAt": "2026-10-09T12:02:00Z",
           "summary": "",
           "url": "https://www.etnews.com/20260824000353"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261009223352",
+          "title": "[기경학회 기후&에너지 칼럼] 전력수급기본계획은 왜 빗나갈까",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T13:33:52Z",
+          "publishedAt": "2026-10-09T13:33:52Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261009223352",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 9
+          "count": 8
         },
         {
           "word": "AI",
@@ -441,7 +443,7 @@
         },
         {
           "word": "전력",
-          "count": 2
+          "count": 3
         },
         {
           "word": "제조",
@@ -909,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4879,
-    "feedBytes": 1383352,
+    "fetchedItems": 549,
+    "feedBytes": 155672,
     "rollingWindowHours": 72
   }
 }
