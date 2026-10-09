@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 02:37:57",
+  "updatedAt": "2026. 10. 09. 오후 02:55:54",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 66,
-    "deduped": 66,
-    "eventDeduped": 66,
+    "passed": 64,
+    "deduped": 64,
+    "eventDeduped": 64,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -632,30 +632,6 @@
       "url": "https://www.fonearena.com/blog/494521/google-gemini-universal-ai-agent-enterprise-work.html"
     },
     {
-      "id": "https://www.infoworld.com/contributor-content/4230849/ai-has-accelerated-coding-now-software-organizations-must-redesign-everything-around-it.html",
-      "title": "AI has accelerated coding. Now software organizations must redesign everything around it",
-      "source": "infoworld.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T18:46:00Z",
-      "publishedAt": "2026-10-08T18:46:00Z",
-      "summary": "",
-      "url": "https://www.infoworld.com/contributor-content/4230849/ai-has-accelerated-coding-now-software-organizations-must-redesign-everything-around-it.html"
-    },
-    {
-      "id": "https://www.businessinsider.com/jeff-bezos-ai-productivity-hiring-single-earner-households-2026-10",
-      "title": "Jeff Bezos says AI could power a return to single-earner households as it turbocharges productivity",
-      "source": "businessinsider.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T18:17:00Z",
-      "publishedAt": "2026-10-08T18:17:00Z",
-      "summary": "",
-      "url": "https://www.businessinsider.com/jeff-bezos-ai-productivity-hiring-single-earner-households-2026-10"
-    },
-    {
       "id": "https://www.newsway.co.kr/news/view?ud=2026100809524999112",
       "title": "이젠 하이브리드보다 많이 산다···수입차 시장 휩쓴 전기차 - 뉴스웨이",
       "source": "newsway.co.kr",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-08T19:32:00Z",
       "summary": "",
       "url": "https://playbill.com/article/traitorz-unauthorized-musical-parody-sets-off-broadway-premiere"
+    },
+    {
+      "id": "https://bworldonline.com/technology/2026/10/09/785830/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say/",
+      "title": "AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - BusinessWorld Online",
+      "source": "bworldonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T03:47:00Z",
+      "publishedAt": "2026-10-09T03:47:00Z",
+      "summary": "",
+      "url": "https://bworldonline.com/technology/2026/10/09/785830/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say/"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms",
+      "title": "'Workers with AI skills in demand, but GenAI is hitting white-collar hiring'",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T01:31:00Z",
+      "publishedAt": "2026-10-09T01:31:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/india/workers-with-ai-skills-in-demand-but-genai-is-hitting-white-collar-hiring/articleshow/134803295.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3652,
-    "relevantItems": 63,
-    "feedBytes": 1007834,
+    "fetchedItems": 4463,
+    "relevantItems": 89,
+    "feedBytes": 1214707,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

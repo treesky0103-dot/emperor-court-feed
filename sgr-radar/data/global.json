@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 02:37:58",
+  "updatedAt": "2026. 10. 09. 오후 02:55:55",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 114,
-    "deduped": 114,
-    "eventDeduped": 114,
+    "passed": 117,
+    "deduped": 117,
+    "eventDeduped": 117,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -260,16 +260,16 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain"
     },
     {
-      "id": "http://www.brazilsun.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
+      "id": "http://www.newjerseytelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
       "title": "US trade deficit widens 13.7% as imports hit record high",
-      "source": "brazilsun.com",
+      "source": "newjerseytelegraph.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T05:31:00Z",
-      "publishedAt": "2026-10-09T05:31:00Z",
+      "dateRaw": "2026-10-09T05:46:00Z",
+      "publishedAt": "2026-10-09T05:46:00Z",
       "summary": "",
-      "url": "http://www.brazilsun.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
+      "url": "http://www.newjerseytelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high"
     },
     {
       "id": "https://postandparcel.info/163030/news/e-commerce/dhl-the-biggest-story-in-global-trade-right-now-is-ai-not-tariffs/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3652,
-    "relevantItems": 63,
-    "feedBytes": 1007834,
+    "fetchedItems": 4463,
+    "relevantItems": 89,
+    "feedBytes": 1214707,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
