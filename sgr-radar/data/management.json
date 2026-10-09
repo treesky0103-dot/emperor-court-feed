@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 01:04:20",
+  "updatedAt": "2026. 10. 10. 오전 01:27:49",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 44,
-    "deduped": 44,
-    "eventDeduped": 44,
+    "passed": 45,
+    "deduped": 45,
+    "eventDeduped": 45,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,18 +332,6 @@
       "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902"
     },
     {
-      "id": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/",
-      "title": "A modernized health plan: Supporting cost management and the employee experience.",
-      "source": "wbjournal.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T04:32:00Z",
-      "publishedAt": "2026-10-09T04:32:00Z",
-      "summary": "",
-      "url": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/"
-    },
-    {
       "id": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/",
       "title": "Stock bull market nears 4-year anniversary driven by AI spending — but there are looming risks",
       "source": "nypost.com",
@@ -548,6 +536,18 @@
       "url": "https://www.newspim.com/news/view/20260920000110"
     },
     {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69801658-netflix-reportedly-plans-to-lay-off-5-of-its-workforce-020.htm",
+      "title": "Netflix Reportedly Plans To Lay Off 5% Of Its Workforce",
+      "source": "finanznachrichten.de",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T16:17:00Z",
+      "publishedAt": "2026-10-09T16:17:00Z",
+      "summary": "",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69801658-netflix-reportedly-plans-to-lay-off-5-of-its-workforce-020.htm"
+    },
+    {
       "id": "https://www.denverpost.com/2026/10/09/cemex-to-lay-off-70-at-lyons-cement-plant/",
       "title": "Cemex to lay off 70 at Lyons cement plant",
       "source": "denverpost.com",
@@ -582,6 +582,18 @@
       "publishedAt": "2026-10-09T09:32:00Z",
       "summary": "",
       "url": "https://www.peninsuladailynews.com/2026/10/09/dove-house-to-restructure-its-closet-program-in-port-townsend/"
+    },
+    {
+      "id": "https://live.worldbank.org/en/event/2026/annual-meetings-small-ai-big-jobs",
+      "title": "Small AI: More and Better Jobs | Annual Meetings 2026",
+      "source": "live.worldbank.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T16:16:00Z",
+      "publishedAt": "2026-10-09T16:16:00Z",
+      "summary": "",
+      "url": "https://live.worldbank.org/en/event/2026/annual-meetings-small-ai-big-jobs"
     },
     {
       "id": "https://www.nola.com/news/business/job-listings-are-changing-as-more-firms-use-ai/article_b1965552-8e32-54e5-8ad9-0dc93f5f7aea.html",
@@ -672,9 +684,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2160,
-    "relevantItems": 32,
-    "feedBytes": 598216,
+    "fetchedItems": 6024,
+    "relevantItems": 83,
+    "feedBytes": 1704002,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
