@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 01:14:29",
+  "updatedAt": "2026. 10. 09. 오후 01:38:02",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 678,
-    "deduped": 678,
-    "eventDeduped": 678,
+    "passed": 685,
+    "deduped": 685,
+    "eventDeduped": 685,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -632,6 +632,18 @@
       "url": "http://www.newjerseytelegraph.com/news/279360231/odysseyr-battery-joins-nfi-empire-project-reborn-providing-premium-battery-technology-to-support-the-brett-boyer-foundation"
     },
     {
+      "id": "https://www.bunburymail.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/",
+      "title": "Data centre stoushes a 'sad state of affairs', MPs told",
+      "source": "bunburymail.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T04:31:00Z",
+      "publishedAt": "2026-10-09T04:31:00Z",
+      "summary": "",
+      "url": "https://www.bunburymail.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/"
+    },
+    {
       "id": "https://www.bgr.com/2276390/how-long-nvidia-gpus-get-software-updates/",
       "title": "How Long Do Nvidia GPUs Get Software Updates? - BGR",
       "source": "bgr.com",
@@ -642,18 +654,6 @@
       "publishedAt": "2026-10-09T04:02:00Z",
       "summary": "",
       "url": "https://www.bgr.com/2276390/how-long-nvidia-gpus-get-software-updates/"
-    },
-    {
-      "id": "https://www.nvi.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/",
-      "title": "Data centre stoushes a 'sad state of affairs', MPs told",
-      "source": "nvi.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T04:01:00Z",
-      "publishedAt": "2026-10-09T04:01:00Z",
-      "summary": "",
-      "url": "https://www.nvi.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/"
     },
     {
       "id": "https://news.az/news/yandex-unsure-if-data-centre-can-be-restored-after-drone-strike",
@@ -704,18 +704,6 @@
       "url": "https://www.euronews.com/video/2026/10/08/fire-rages-at-yandex-data-centre-after-ukraine-drone-attack"
     },
     {
-      "id": "https://www.helsinkitimes.fi/world-int/29366-russian-strike-kills-33-in-ukraine-as-drones-hit-yandex-data-centre.html",
-      "title": "Russian strike kills 33 in Ukraine as drones hit Yandex data centre",
-      "source": "helsinkitimes.fi",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T17:32:00Z",
-      "publishedAt": "2026-10-08T17:32:00Z",
-      "summary": "",
-      "url": "https://www.helsinkitimes.fi/world-int/29366-russian-strike-kills-33-in-ukraine-as-drones-hit-yandex-data-centre.html"
-    },
-    {
       "id": "https://www.dailypolitical.com/2026/10/08/138545-shares-of-arqit-quantum-inc-arqq-bought-by-kessler-investment-group-llc.html",
       "title": "138,545 Shares of Arqit Quantum Inc. $ARQQ Bought by Kessler Investment Group LLC",
       "source": "dailypolitical.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T02:32:00Z",
       "summary": "",
       "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/plentisoft/stacks-founder-muneeb-ali-shares-his-2030-vision-for-stx-bitcoin-capital-markets-privacy-and-post-quantum-bitcoin/2442348"
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230",
+      "title": "Breaking: Data centre operator pulls share market float after lacklustre investor demand",
+      "source": "abc.net.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-08",
+      "dateRaw": "2026-10-08T23:17:00Z",
+      "publishedAt": "2026-10-08T23:17:00Z",
+      "summary": "",
+      "url": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3531,
-    "relevantItems": 87,
-    "feedBytes": 937487,
+    "fetchedItems": 3930,
+    "relevantItems": 65,
+    "feedBytes": 1082327,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

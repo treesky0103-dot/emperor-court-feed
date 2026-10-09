@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 01:14:31",
+  "updatedAt": "2026. 10. 09. 오후 01:38:03",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 117,
-    "deduped": 117,
-    "eventDeduped": 117,
+    "passed": 115,
+    "deduped": 115,
+    "eventDeduped": 115,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -248,6 +248,18 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain"
     },
     {
+      "id": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
+      "title": "China to resume October fuel exports after a brief halt, four trade sources say – KSEV Radio",
+      "source": "ksevradio.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T04:31:00Z",
+      "publishedAt": "2026-10-09T04:31:00Z",
+      "summary": "",
+      "url": "https://ksevradio.com/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/"
+    },
+    {
       "id": "http://www.newyorktelegraph.com/news/279355438/us-trade-deficit-widens-13-7-as-imports-hit-record-high",
       "title": "US trade deficit widens 13.7% as imports hit record high",
       "source": "newyorktelegraph.com",
@@ -306,18 +318,6 @@
       "publishedAt": "2026-10-09T02:32:00Z",
       "summary": "",
       "url": "https://www.moneycontrol.com/world/us-sanctions-iran-s-shadow-fleet-as-trump-pauses-attacks-until-midterms-article-14048090.html"
-    },
-    {
-      "id": "https://home.nzcity.co.nz/news/article.aspx?id=455628",
-      "title": "Food and fibre exports have exceeded expectations - despite tariffs and the war in Iran - 09-Oct-2026",
-      "source": "home.nzcity.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T01:02:00Z",
-      "publishedAt": "2026-10-09T01:02:00Z",
-      "summary": "",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=455628"
     },
     {
       "id": "https://www.digbycourier.ca/oil-prices-rise-markets-narrow-odds-for-fed-hike/",
@@ -668,6 +668,18 @@
       "url": "https://article.wn.com/view/2026/10/08/Global_Trade_Proved_More_Resilient_Than_Expected_This_Year_W/"
     },
     {
+      "id": "https://www.busan.com/view/busan/view.php?code=2026100908091546549",
+      "title": "트럼프 '11월 중간선거 전까지 이란 공격 안해'…국제 유가 상승폭 축소",
+      "source": "busan.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T04:32:00Z",
+      "publishedAt": "2026-10-09T04:32:00Z",
+      "summary": "",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026100908091546549"
+    },
+    {
       "id": "https://pann.nate.com/talk/375626046",
       "title": "결혼 안하고 혼자 사는 사람들은 이유가 있음 | 네이트 판",
       "source": "pann.nate.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T19:17:00Z",
       "summary": "",
       "url": "https://www.radioseoul1650.com/archives/159026"
-    },
-    {
-      "id": "https://www.anewsa.com/detail.php?number=3206157",
-      "title": "'유가 담합 의혹' SK에너지, \"국민 여러분께 심려 끼쳐 송구\"",
-      "source": "anewsa.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T17:47:00Z",
-      "publishedAt": "2026-10-08T17:47:00Z",
-      "summary": "",
-      "url": "https://www.anewsa.com/detail.php?number=3206157"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3531,
-    "relevantItems": 87,
-    "feedBytes": 937487,
+    "fetchedItems": 3930,
+    "relevantItems": 65,
+    "feedBytes": 1082327,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
