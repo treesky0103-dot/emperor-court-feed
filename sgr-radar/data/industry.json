@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 12:39:11",
+  "updatedAt": "2026. 10. 09. 오후 12:56:27",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 687,
-    "deduped": 687,
-    "eventDeduped": 687,
+    "passed": 683,
+    "deduped": 683,
+    "eventDeduped": 683,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -632,6 +632,18 @@
       "url": "http://www.newjerseytelegraph.com/news/279360231/odysseyr-battery-joins-nfi-empire-project-reborn-providing-premium-battery-technology-to-support-the-brett-boyer-foundation"
     },
     {
+      "id": "https://www.tenterfieldstar.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/",
+      "title": "Data centre stoushes a 'sad state of affairs', MPs told",
+      "source": "tenterfieldstar.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T03:47:00Z",
+      "publishedAt": "2026-10-09T03:47:00Z",
+      "summary": "",
+      "url": "https://www.tenterfieldstar.com.au/story/9365346/data-centre-stoushes-a-sad-state-of-affairs-mps-told/"
+    },
+    {
       "id": "https://news.az/news/yandex-unsure-if-data-centre-can-be-restored-after-drone-strike",
       "title": "Yandex unsure if data centre can be restored after drone strike | News.az",
       "source": "news.az",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-08T23:17:00Z",
       "summary": "",
       "url": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230"
-    },
-    {
-      "id": "https://www.marinelink.com/news/gecko-robotics-anduril-accelerate-543578",
-      "title": "Gecko Robotics, Anduril to Accelerate American Shipbuilding with Robotics, AI",
-      "source": "marinelink.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-08",
-      "dateRaw": "2026-10-08T21:16:00Z",
-      "publishedAt": "2026-10-08T21:16:00Z",
-      "summary": "",
-      "url": "https://www.marinelink.com/news/gecko-robotics-anduril-accelerate-543578"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3544,
-    "relevantItems": 95,
-    "feedBytes": 909593,
+    "fetchedItems": 3651,
+    "relevantItems": 68,
+    "feedBytes": 964397,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
