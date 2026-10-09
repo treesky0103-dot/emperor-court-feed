@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 03:24:24",
+  "updatedAt": "2026. 10. 10. 오전 03:48:27",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 44,
-    "deduped": 44,
-    "eventDeduped": 44,
+    "passed": 47,
+    "deduped": 47,
+    "eventDeduped": 47,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -500,6 +500,30 @@
       "url": "https://www.reseller.co.nz/article/4232873/datacom-spends-500k-a-month-on-ai-coding-but-focusses-on-outcomes-not-token-costs.html"
     },
     {
+      "id": "https://www.chroniclejournal.com/news/national/september-job-losses-pour-cold-water-on-bank-of-canada-rate-hike-chatter/article_6fe8fc51-8fe9-5c4d-a43f-9228531be40c.html",
+      "title": "September job losses pour cold water on Bank of Canada rate hike chatter",
+      "source": "chroniclejournal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T18:32:00Z",
+      "publishedAt": "2026-10-09T18:32:00Z",
+      "summary": "",
+      "url": "https://www.chroniclejournal.com/news/national/september-job-losses-pour-cold-water-on-bank-of-canada-rate-hike-chatter/article_6fe8fc51-8fe9-5c4d-a43f-9228531be40c.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261010000003",
+      "title": "유럽증시, EU·中 하이브리드車 수출 물량 합의 소식에 일제히 올라… 자동차 강세",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T18:31:00Z",
+      "publishedAt": "2026-10-09T18:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261010000003"
+    },
+    {
       "id": "http://www.koreatimes.com/article/20261009/1633248",
       "title": "中 “EU와 하이브리드차 무역 관련 합의…희토류 수출허가 편의” - 미주 한국일보",
       "source": "koreatimes.com",
@@ -522,6 +546,18 @@
       "publishedAt": "2026-10-09T11:47:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20260920000110"
+    },
+    {
+      "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
+      "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
+      "source": "natlawreview.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T18:32:00Z",
+      "publishedAt": "2026-10-09T18:32:00Z",
+      "summary": "",
+      "url": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices"
     },
     {
       "id": "https://www.timescall.com/2026/10/09/cemex-to-lay-off-70-at-lyons-cement-plant/",
@@ -672,9 +708,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5497,
-    "relevantItems": 156,
-    "feedBytes": 1535361,
+    "fetchedItems": 5239,
+    "relevantItems": 101,
+    "feedBytes": 1473931,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
