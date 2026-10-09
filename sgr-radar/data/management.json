@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 04:25:18",
+  "updatedAt": "2026. 10. 10. 오전 04:44:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 43,
-    "deduped": 43,
-    "eventDeduped": 43,
+    "passed": 41,
+    "deduped": 41,
+    "eventDeduped": 41,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -270,18 +270,6 @@
       "publishedAt": "2026-10-09T09:46:00Z",
       "summary": "",
       "url": "https://www.bangkokpost.com/business/general/3333848/cyberthreats-grow-as-ai-adoption-accelerates"
-    },
-    {
-      "id": "https://www.retaildetail.eu/news/food/luxury-pastry-shop-wittamer-receives-3-8-million-euros-in-fresh-capital-for-restructuring-and-expansion/",
-      "title": "Luxury pastry shop Wittamer receives 3.8 million euros in fresh capital for restructuring and expansion - RetailDetail EU",
-      "source": "retaildetail.eu",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T09:01:00Z",
-      "publishedAt": "2026-10-09T09:01:00Z",
-      "summary": "",
-      "url": "https://www.retaildetail.eu/news/food/luxury-pastry-shop-wittamer-receives-3-8-million-euros-in-fresh-capital-for-restructuring-and-expansion/"
     },
     {
       "id": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/",
@@ -620,18 +608,6 @@
       "url": "https://dunyanews.tv/en/Technology/976901-ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-"
     },
     {
-      "id": "https://www.channelnewsasia.com/singapore/standard-chartered-ceo-bill-winters-artificial-intelligence-guardrails-jobs-6445561",
-      "title": "Standard Chartered CEO calls for AI guardrails, says human judgment remains key to jobs",
-      "source": "channelnewsasia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T09:32:00Z",
-      "publishedAt": "2026-10-09T09:32:00Z",
-      "summary": "",
-      "url": "https://www.channelnewsasia.com/singapore/standard-chartered-ceo-bill-winters-artificial-intelligence-guardrails-jobs-6445561"
-    },
-    {
       "id": "https://legalinsurrection.com/2026/10/stockton-university-unions-trying-to-avoid-layoffs-despite-schools-25-million-deficit/",
       "title": "Stockton University Unions Trying to Avoid Layoffs Despite School's $25 Million Deficit",
       "source": "legalinsurrection.com",
@@ -660,9 +636,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5404,
-    "relevantItems": 91,
-    "feedBytes": 1509069,
+    "fetchedItems": 4840,
+    "relevantItems": 112,
+    "feedBytes": 1325306,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
