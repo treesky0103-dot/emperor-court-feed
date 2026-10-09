@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 09. 오후 08:54:05",
+  "updatedAt": "2026. 10. 09. 오후 09:16:45",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 50,
-    "deduped": 50,
-    "eventDeduped": 50,
+    "passed": 51,
+    "deduped": 51,
+    "eventDeduped": 51,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -366,6 +366,18 @@
       "publishedAt": "2026-10-09T04:31:00Z",
       "summary": "",
       "url": "https://www.standard.net.au/story/9365651/asian-stocks-struggle-on-ai-spending-worries/"
+    },
+    {
+      "id": "https://www.itweb.co.za/article/sap-says-enterprise-context-is-key-to-predictive-ai-operations/WnpNgM21V1b7VrGd",
+      "title": "SAP says enterprise context is key to predictive AI operations",
+      "source": "itweb.co.za",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-09",
+      "dateRaw": "2026-10-09T12:02:00Z",
+      "publishedAt": "2026-10-09T12:02:00Z",
+      "summary": "",
+      "url": "https://www.itweb.co.za/article/sap-says-enterprise-context-is-key-to-predictive-ai-operations/WnpNgM21V1b7VrGd"
     },
     {
       "id": "https://www.therakyatpost.com/news/2026/10/09/budget-2027-sovereign-ai-cloud-planned-100000-more-free-ai-subscriptions-ai-app-to-check-scams/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-09T01:02:00Z",
       "summary": "",
       "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/hawkes-bay-roading-contractor-layoffs-as-cyclone-gabrielle-highway-recovery-work-finishes/HVM36YEOLFFH5IXKJBS6NIBEOA/"
-    },
-    {
-      "id": "https://whyy.org/articles/stockton-university-layoffs-unions-25-million-deficit/",
-      "title": "Stockton University are planning layoffs to close a $25 million deficit",
-      "source": "whyy.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T01:46:00Z",
-      "publishedAt": "2026-10-09T01:46:00Z",
-      "summary": "",
-      "url": "https://whyy.org/articles/stockton-university-layoffs-unions-25-million-deficit/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6461,
-    "relevantItems": 90,
-    "feedBytes": 1832252,
+    "fetchedItems": 6636,
+    "relevantItems": 101,
+    "feedBytes": 1873477,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
