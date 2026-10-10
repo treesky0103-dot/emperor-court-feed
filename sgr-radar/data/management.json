@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 10:04:20",
+  "updatedAt": "2026. 10. 10. 오후 10:26:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 40,
-    "deduped": 40,
-    "eventDeduped": 40,
+    "passed": 42,
+    "deduped": 42,
+    "eventDeduped": 42,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -356,6 +356,30 @@
       "url": "https://www.financial-news.co.uk/is-hybrid-work-softening-your-company-connection-to-employees/"
     },
     {
+      "id": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/",
+      "title": "Tech Expertise Required for Futuristic Custom Software Development",
+      "source": "chiangraitimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T13:17:00Z",
+      "publishedAt": "2026-10-10T13:17:00Z",
+      "summary": "",
+      "url": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/"
+    },
+    {
+      "id": "https://www.investmentwatchblog.com/without-ai-and-the-government-running-huge-spending-deficits-wed-probably-be-in-a-depression-right-now/",
+      "title": "Without AI and the government running huge spending deficits we’d probably be in a depression right now - Investment Watch Blog",
+      "source": "investmentwatchblog.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T13:17:00Z",
+      "publishedAt": "2026-10-10T13:17:00Z",
+      "summary": "",
+      "url": "https://www.investmentwatchblog.com/without-ai-and-the-government-running-huge-spending-deficits-wed-probably-be-in-a-depression-right-now/"
+    },
+    {
       "id": "https://english.news.cn/20261010/ff8ee86a5edf407b8a2cdab73cd9f415/c.html",
       "title": "Economic Watch: AI-enabled spending fuels China's holiday economy",
       "source": "english.news.cn",
@@ -624,9 +648,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1951,
-    "relevantItems": 24,
-    "feedBytes": 551250,
+    "fetchedItems": 4619,
+    "relevantItems": 65,
+    "feedBytes": 1328545,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
