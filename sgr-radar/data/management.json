@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:25:22",
+  "updatedAt": "2026. 10. 10. 오후 04:45:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 39,
-    "deduped": 39,
-    "eventDeduped": 39,
+    "passed": 38,
+    "deduped": 38,
+    "eventDeduped": 38,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,18 +380,6 @@
       "url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10"
     },
     {
-      "id": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
-      "title": "AI Driving Game Players Are Burning Through So Many Tokens Its Developer Had to Take Out a Bank Loan to Keep It Running",
-      "source": "ign.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T17:46:00Z",
-      "publishedAt": "2026-10-09T17:46:00Z",
-      "summary": "",
-      "url": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan"
-    },
-    {
       "id": "https://www.mangalorean.com/vance-warns-of-tariffs-over-us-job-losses/",
       "title": "Vance warns of tariffs over US job losses - Mangalorean.com",
       "source": "mangalorean.com",
@@ -612,9 +600,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3949,
-    "relevantItems": 30,
-    "feedBytes": 1084075,
+    "fetchedItems": 4283,
+    "relevantItems": 50,
+    "feedBytes": 1202908,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

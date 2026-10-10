@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:25:22",
+  "updatedAt": "2026. 10. 10. 오후 04:45:17",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 550,
-    "deduped": 550,
-    "eventDeduped": 550,
+    "passed": 546,
+    "deduped": 546,
+    "eventDeduped": 546,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,6 +452,18 @@
       "url": "https://peakoil.com/consumption/dte-hints-at-new-data-center-development-stirs-fight-on-energy-sources"
     },
     {
+      "id": "https://lexch.com/life-entertainment/nation-world/home-gardening/article_f2cb2a79-4780-5ed0-9ff5-4f8fa64684b1.html",
+      "title": "Can a humanoid robot clean your house? A San Francisco company says yes",
+      "source": "lexch.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T07:31:00Z",
+      "publishedAt": "2026-10-10T07:31:00Z",
+      "summary": "",
+      "url": "https://lexch.com/life-entertainment/nation-world/home-gardening/article_f2cb2a79-4780-5ed0-9ff5-4f8fa64684b1.html"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/technology/tech-news/california-sends-illegal-notice-to-company-with-terminator-like-robot-ceo-posts-the-letter-online-celebrates-we-made-/articleshow/134848042.cms",
       "title": "California sends 'illegal' notice to company with 'Terminator'-like robot; CEO posts the letter online, celebrates: 'We made...'",
       "source": "timesofindia.indiatimes.com",
@@ -486,18 +498,6 @@
       "publishedAt": "2026-10-10T05:31:00Z",
       "summary": "",
       "url": "https://www.abc12.com/news/equipment-fire-at-manufacturing-company-contained-in-mayfield-township/article_e1c3547c-94e6-4a2d-ab85-6bd75e21966b.html"
-    },
-    {
-      "id": "https://ravallirepublic.com/life-entertainment/nation-world/home-gardening/article_e553155a-3e0b-5fee-8d27-38563d0a2b43.html",
-      "title": "Can a humanoid robot clean your house? A San Francisco company says yes",
-      "source": "ravallirepublic.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T03:32:00Z",
-      "publishedAt": "2026-10-10T03:32:00Z",
-      "summary": "",
-      "url": "https://ravallirepublic.com/life-entertainment/nation-world/home-gardening/article_e553155a-3e0b-5fee-8d27-38563d0a2b43.html"
     },
     {
       "id": "http://www.californiatelegraph.com/news/279362880/battery-x-metals-reports-estimated-driving-range-increase-of-approximately-101-kilometers-following-a-single-electric-vehicle-performance-evaluation-of-next-generation-patent-pending-lithium-ion-battery-rebalancing-technology",
@@ -668,18 +668,6 @@
       "url": "https://www.bbc.com/news/articles/c68xzqqn4ekro"
     },
     {
-      "id": "https://www.equitybulls.com/category.php?id=376676",
-      "title": "XtraNet Technologies Limited Approves Incorporation of Wholly Owned Subsidiary XtraNet Data Centre Private Limited",
-      "source": "equitybulls.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T17:17:00Z",
-      "publishedAt": "2026-10-09T17:17:00Z",
-      "summary": "",
-      "url": "https://www.equitybulls.com/category.php?id=376676"
-    },
-    {
       "id": "https://ecorazzi.com/the-data-centre-boom-is-creating-new-opportunities-for-property-investors-but-infrastructure-risks-are-growing/",
       "title": "The Data Centre Boom Is Creating New Opportunities for Property Investors, but Infrastructure Risks Are Growing - Ecorazzi",
       "source": "ecorazzi.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-09T20:32:00Z",
       "summary": "",
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
+    },
+    {
+      "id": "https://www.stdaily.com/web/English/2026-10/10/content_592511.html",
+      "title": "Roadmap Unveiled to Promote E-information Manufacturing",
+      "source": "stdaily.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T05:02:00Z",
+      "publishedAt": "2026-10-10T05:02:00Z",
+      "summary": "",
+      "url": "https://www.stdaily.com/web/English/2026-10/10/content_592511.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3949,
-    "relevantItems": 30,
-    "feedBytes": 1084075,
+    "fetchedItems": 4283,
+    "relevantItems": 50,
+    "feedBytes": 1202908,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
