@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 11:51:26",
+  "updatedAt": "2026. 10. 11. 오전 12:11:23",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -376,18 +376,6 @@
           "url": "https://www.fnnews.com/news/202610100105391791"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10897052",
-          "title": "40년 ‘반도체 검증’ 큐알티, AI·우주 타고 ‘퀀텀점프’ [그 회사 어때?]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T22:01:00Z",
-          "publishedAt": "2026-10-09T22:01:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897052"
-        },
-        {
           "id": "https://newsway.co.kr/news/view?ud=2026100915564612067",
           "title": "최태원 \"전력·용수 늦어도 먼저 착공\"···호남 반도체 투자 속도 낸다 - 뉴스웨이",
           "source": "newsway.co.kr",
@@ -422,6 +410,18 @@
           "publishedAt": "2026-10-10T11:47:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2634235"
+        },
+        {
+          "id": "http://inews24.com/view/2012573",
+          "title": "반도체 호조에 기업 여윳돈 역대 최대⋯가계는 예금 빼 주식",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T11:01:00Z",
+          "publishedAt": "2026-10-10T11:01:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2012573"
         }
       ],
       "keywords": [
@@ -431,7 +431,7 @@
         },
         {
           "word": "AI",
-          "count": 4
+          "count": 3
         },
         {
           "word": "전력",
@@ -600,6 +600,18 @@
           "url": "https://www.madhyamam.com/business/biz-news/qatar-central-bank-and-euroclear-partner-to-attract-more-foreign-investment-1562095"
         },
         {
+          "id": "https://www.prokerala.com/news/articles/a1822869.html",
+          "title": "FM Sitharaman discusses India's growth trajectory, investment opportunities with top CEOs",
+          "source": "prokerala.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T15:02:00Z",
+          "publishedAt": "2026-10-10T15:02:00Z",
+          "summary": "",
+          "url": "https://www.prokerala.com/news/articles/a1822869.html"
+        },
+        {
           "id": "https://finchannel.com/strategic-investment-in-healthcare-leadership-the-economic-value-of-public-health-expertise/135307/health-beauty/2026/09/",
           "title": "Strategic Investment in Healthcare Leadership: The Economic Value of Public Health Expertise - FINCHANNEL",
           "source": "finchannel.com",
@@ -694,18 +706,6 @@
           "publishedAt": "2026-10-10T05:31:00Z",
           "summary": "",
           "url": "https://www.kyuk.org/alaska-state-news/2026-10-09/trumps-push-for-50b-korean-investment-in-alaska-gasline-faces-familiar-economic-challenges"
-        },
-        {
-          "id": "https://www.investmentwatchblog.com/americans-debt-problems-are-flashing-a-warning-not-seen-since-the-great-recession-bank-repossessions-explode-42-in-a-year-nearly-5800-american-properties-seized-in-august/",
-          "title": "Americans' debt problems are flashing a warning not seen since the Great Recession. Bank repossessions explode 42% in a year. Nearly 5,800 American properties seized in August. - Investment Watch Blog",
-          "source": "investmentwatchblog.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T03:47:00Z",
-          "publishedAt": "2026-10-10T03:47:00Z",
-          "summary": "",
-          "url": "https://www.investmentwatchblog.com/americans-debt-problems-are-flashing-a-warning-not-seen-since-the-great-recession-bank-repossessions-explode-42-in-a-year-nearly-5800-american-properties-seized-in-august/"
         }
       ],
       "keywords": [
@@ -715,7 +715,7 @@
         },
         {
           "word": "성장",
-          "count": 2
+          "count": 3
         },
         {
           "word": "관세",
@@ -883,8 +883,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4130,
-    "feedBytes": 1181722,
+    "fetchedItems": 4219,
+    "feedBytes": 1220079,
     "rollingWindowHours": 72
   }
 }
