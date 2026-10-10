@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 10:07:31",
+  "updatedAt": "2026. 10. 10. 오전 10:27:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 598,
-    "deduped": 598,
-    "eventDeduped": 598,
+    "passed": 597,
+    "deduped": 597,
+    "eventDeduped": 597,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -284,6 +284,18 @@
       "url": "https://www.thehindu.com/sci-tech/technology/gadgets/imc-2026-iqoo-16-and-motorola-signature-27-to-run-snapdragon-8-elite-extreme-gen-6-soc-xiaomi-18-pro-will-use-snapdragon-8-elite-gen-6-chip/article71563357.ece"
     },
     {
+      "id": "https://siliconangle.com/2026/10/09/oxide-computer-raises-445m-to-step-up-data-center-rack-production/",
+      "title": "Oxide Computer raises $445M to step up data center rack production - SiliconANGLE",
+      "source": "siliconangle.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T01:16:00Z",
+      "publishedAt": "2026-10-10T01:16:00Z",
+      "summary": "",
+      "url": "https://siliconangle.com/2026/10/09/oxide-computer-raises-445m-to-step-up-data-center-rack-production/"
+    },
+    {
       "id": "https://english.news.cn/europe/20261010/91bc172fe6c9480f8ab64ab766f22b98/c.html",
       "title": "Putin, Trump hold phone talks on Ukraine crisis, energy supply",
       "source": "english.news.cn",
@@ -498,18 +510,6 @@
       "publishedAt": "2026-10-09T20:32:00Z",
       "summary": "",
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
-    },
-    {
-      "id": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go",
-      "title": "Don't blame the energy companies or data centers if your utilities go up",
-      "source": "highlandcountypress.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T14:47:00Z",
-      "publishedAt": "2026-10-09T14:47:00Z",
-      "summary": "",
-      "url": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go"
     },
     {
       "id": "https://thetandd.com/life-entertainment/nation-world/home-gardening/article_5e612901-385d-5504-bf3e-ca2677bbb998.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3200,
-    "relevantItems": 78,
-    "feedBytes": 832015,
+    "fetchedItems": 2912,
+    "relevantItems": 86,
+    "feedBytes": 808886,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
