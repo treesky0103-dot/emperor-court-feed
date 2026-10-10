@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 08:52:04",
+  "updatedAt": "2026. 10. 10. 오전 09:18:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -483,16 +483,16 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
-          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=2",
+          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=32",
           "title": "Healthcare Workers See Insane Things Every Day, But Here Are The Craziest Ones (46 Stories)",
           "source": "boredpanda.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T22:47:00Z",
-          "publishedAt": "2026-10-09T22:47:00Z",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T00:02:00Z",
+          "publishedAt": "2026-10-10T00:02:00Z",
           "summary": "",
-          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=2"
+          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=32"
         },
         {
           "id": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis",
@@ -781,18 +781,6 @@
           "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/09/your-data-platform-is-not-your-ai-security-strategy/"
         },
         {
-          "id": "https://247wallst.com/companies/tsm/",
-          "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Price, News & Analysis | 24/7 Wall St.",
-          "source": "247wallst.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T13:17:00Z",
-          "publishedAt": "2026-10-09T13:17:00Z",
-          "summary": "",
-          "url": "https://247wallst.com/companies/tsm/"
-        },
-        {
           "id": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development",
           "title": "South El Monte Puts 45 Day Moratorium on Data Center and Battery Facility Development - Streetsblog Los Angeles",
           "source": "la.streetsblog.org",
@@ -887,23 +875,31 @@
           "publishedAt": "2026-10-09T14:47:00Z",
           "summary": "",
           "url": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go"
+        },
+        {
+          "id": "http://www.zerohedge.com/ai/researchers-develop-ai-mind-reading-tool-reconstructs-what-your-eyes-see",
+          "title": "Researchers Develop AI 'Mind-Reading' Tool That Reconstructs What Your Eyes See",
+          "source": "zerohedge.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T00:01:00Z",
+          "publishedAt": "2026-10-10T00:01:00Z",
+          "summary": "",
+          "url": "http://www.zerohedge.com/ai/researchers-develop-ai-mind-reading-tool-reconstructs-what-your-eyes-see"
         }
       ],
       "keywords": [
+        {
+          "word": "AI",
+          "count": 4
+        },
         {
           "word": "데이터센터",
           "count": 4
         },
         {
-          "word": "AI",
-          "count": 3
-        },
-        {
           "word": "반도체",
-          "count": 3
-        },
-        {
-          "word": "제조",
           "count": 2
         },
         {
@@ -912,6 +908,10 @@
         },
         {
           "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         },
         {
@@ -927,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2987,
-    "feedBytes": 799381,
+    "fetchedItems": 3321,
+    "feedBytes": 892763,
     "rollingWindowHours": 72
   }
 }
