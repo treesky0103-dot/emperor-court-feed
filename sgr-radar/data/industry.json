@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 10:47:13",
+  "updatedAt": "2026. 10. 10. 오전 11:01:34",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 589,
-    "deduped": 589,
-    "eventDeduped": 589,
+    "passed": 585,
+    "deduped": 585,
+    "eventDeduped": 585,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -512,6 +512,18 @@
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
     },
     {
+      "id": "http://www.chronline.com/stories/commentary-during-manufacturing-tour-a-celebration-of-washingtons-hidden-makers,409774",
+      "title": "Commentary: During manufacturing tour, a celebration of Washington’s hidden makers - The Daily Chronicle",
+      "source": "chronline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T01:46:00Z",
+      "publishedAt": "2026-10-10T01:46:00Z",
+      "summary": "",
+      "url": "http://www.chronline.com/stories/commentary-during-manufacturing-tour-a-celebration-of-washingtons-hidden-makers,409774"
+    },
+    {
       "id": "https://wiscnews.com/life-entertainment/nation-world/home-gardening/article_a3364890-5c2e-5ecf-a311-3acf9b96e8f5.html",
       "title": "Can a humanoid robot clean your house? A San Francisco company says yes",
       "source": "wiscnews.com",
@@ -534,18 +546,6 @@
       "publishedAt": "2026-10-10T01:01:00Z",
       "summary": "",
       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69803458-battery-x-metals-reports-estimated-driving-range-increase-of-approximately-101-kilometers-following-a-single-electric-vehicle-performance-evaluation-o-200.htm"
-    },
-    {
-      "id": "https://interior-news.com/2026/10/09/centrebcs-sturko-promisesmanufacturing-boost/",
-      "title": "CentreBC's Sturko promises manufacturing boost - The Interior News - Smithers BC",
-      "source": "interior-news.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T23:46:00Z",
-      "publishedAt": "2026-10-09T23:46:00Z",
-      "summary": "",
-      "url": "https://interior-news.com/2026/10/09/centrebcs-sturko-promisesmanufacturing-boost/"
     },
     {
       "id": "https://www.tnp.no/norway/economy/2570-biotechnologys-future-in-chile-and-norway/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2923,
-    "relevantItems": 71,
-    "feedBytes": 770081,
+    "fetchedItems": 2686,
+    "relevantItems": 40,
+    "feedBytes": 719292,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

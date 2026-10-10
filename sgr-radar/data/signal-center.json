@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 10:47:23",
+  "updatedAt": "2026. 10. 10. 오전 11:01:43",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -199,18 +199,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=04595286645611280&mediaCodeNo=257",
-          "title": "CBOE, 투자의견 두 단계상향…옵션 거래 연장 효과 -모건스탠리",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T14:47:00Z",
-          "publishedAt": "2026-10-09T14:47:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04595286645611280&mediaCodeNo=257"
-        },
-        {
           "id": "http://www.koreatimes.com/article/20261009/1633217",
           "title": "“불체자라도 고용됐다면 정당한 임금 줘야한다” - 미주 한국일보",
           "source": "koreatimes.com",
@@ -283,12 +271,24 @@
           "publishedAt": "2026-10-09T21:47:00Z",
           "summary": "",
           "url": "https://www.wikitree.co.kr/articles/1165081"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2633945",
+          "title": "[금상소] 은행 안 가고 부동산 담보대출 받는다…금리도 저렴할까",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-09",
+          "dateRaw": "2026-10-09T20:32:00Z",
+          "publishedAt": "2026-10-09T20:32:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2633945"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "고용",
@@ -296,6 +296,10 @@
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "금리",
           "count": 1
         },
         {
@@ -495,6 +499,18 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
+          "id": "https://www.thehindu.com/news/national/kerala/world-mental-health-day-stigma-and-lack-of-awareness-on-mental-health-disorders-create-treatment-gap-in-keralam/article71563885.ece",
+          "title": "World Mental Health Day: Stigma and lack of awareness on mental health disorders create treatment gap in Keralam",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T01:47:00Z",
+          "publishedAt": "2026-10-10T01:47:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/national/kerala/world-mental-health-day-stigma-and-lack-of-awareness-on-mental-health-disorders-create-treatment-gap-in-keralam/article71563885.ece"
+        },
+        {
           "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=11",
           "title": "Healthcare Workers See Insane Things Every Day, But Here Are The Craziest Ones (46 Stories)",
           "source": "boredpanda.com",
@@ -577,27 +593,15 @@
           "publishedAt": "2026-10-09T14:47:00Z",
           "summary": "",
           "url": "https://www.wuwf.org/florida-news/2026-10-09/ill-never-apologize-florida-will-cover-school-funding-hit-by-immigration-push-collins-says"
-        },
-        {
-          "id": "https://www.mondaq.com:443/unitedstates/social-media/1852364/nad-adds-another-social-media-platform-to-its-reporting-toolbox",
-          "title": "NAD Adds Another Social Media Platform To Its Reporting Toolbox",
-          "source": "mondaq.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:32:00Z",
-          "publishedAt": "2026-10-10T01:32:00Z",
-          "summary": "",
-          "url": "https://www.mondaq.com:443/unitedstates/social-media/1852364/nad-adds-another-social-media-platform-to-its-reporting-toolbox"
         }
       ],
       "keywords": [
         {
-          "word": "이민",
-          "count": 2
+          "word": "정신건강",
+          "count": 4
         },
         {
-          "word": "정신건강",
+          "word": "이민",
           "count": 2
         },
         {
@@ -927,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2923,
-    "feedBytes": 770081,
+    "fetchedItems": 2686,
+    "feedBytes": 719292,
     "rollingWindowHours": 72
   }
 }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 10:47:14",
+  "updatedAt": "2026. 10. 10. 오전 11:01:35",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 31,
-    "deduped": 31,
-    "eventDeduped": 31,
+    "passed": 32,
+    "deduped": 32,
+    "eventDeduped": 32,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,6 +416,18 @@
       "url": "https://www.rttnews.com/3697934/netflix-reportedly-plans-to-lay-off-5-of-its-workforce.aspx"
     },
     {
+      "id": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html",
+      "title": "Becoming a female tradie in midlife is the ultimate AI-proof job",
+      "source": "dailymail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T01:47:00Z",
+      "publishedAt": "2026-10-10T01:47:00Z",
+      "summary": "",
+      "url": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html"
+    },
+    {
       "id": "https://www.boisestatepublicradio.org/2026-10-09/job-corps-is-having-a-comeback-and-teaching-potentially-ai-proof-trades",
       "title": "Job Corps is having a comeback and teaching potentially ‘AI-proof’ trades",
       "source": "boisestatepublicradio.org",
@@ -516,9 +528,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2923,
-    "relevantItems": 71,
-    "feedBytes": 770081,
+    "fetchedItems": 2686,
+    "relevantItems": 40,
+    "feedBytes": 719292,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
