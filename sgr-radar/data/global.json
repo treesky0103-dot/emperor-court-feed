@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 02:13:18",
+  "updatedAt": "2026. 10. 10. 오후 02:34:46",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 188,
-    "deduped": 188,
-    "eventDeduped": 188,
+    "passed": 191,
+    "deduped": 191,
+    "eventDeduped": 191,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,6 +380,18 @@
       "url": "https://www.wikitree.co.kr/articles/1165081"
     },
     {
+      "id": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/",
+      "title": "People-centered energy urged amid ASEAN Energy Forum",
+      "source": "bulatlat.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T05:31:00Z",
+      "publishedAt": "2026-10-10T05:31:00Z",
+      "summary": "",
+      "url": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/"
+    },
+    {
       "id": "https://www.mainlinemedianews.com/2026/10/09/trump-auto-manufacturing-fact-focus/",
       "title": "FACT FOCUS: Trump says tariffs have brought more US auto factories. His numbers are off.",
       "source": "mainlinemedianews.com",
@@ -450,18 +462,6 @@
       "publishedAt": "2026-10-09T22:01:00Z",
       "summary": "",
       "url": "https://www.chiangraitimes.com/china/chinas-synthetic-gas-push/"
-    },
-    {
-      "id": "http://www.thejakartapost.com/opinion/2026/10/10/myanmar-is-a-litmus-test-of-what-asean-way-amounts-to",
-      "title": "Myanmar is a litmus test of what ‘ASEAN way’ amounts to - Academia - The Jakarta Post",
-      "source": "thejakartapost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:47:00Z",
-      "publishedAt": "2026-10-09T21:47:00Z",
-      "summary": "",
-      "url": "http://www.thejakartapost.com/opinion/2026/10/10/myanmar-is-a-litmus-test-of-what-asean-way-amounts-to"
     },
     {
       "id": "https://www.homelandsecuritynewswire.com/dr20261009-evaluation-of-u-s-policies-to-increase-domestic-access-to-critical-minerals",
@@ -728,25 +728,25 @@
       "url": "https://www.mangalorean.com/vance-warns-of-tariffs-over-us-job-losses/"
     },
     {
-      "id": "http://www.californiatelegraph.com/news/279361750/imc-rare-earths-insights-why-the-global-search-for-critical-minerals-is-bringing-new-attention-to-brazil",
-      "title": "IMC Rare Earths Insights: Why the Global Search for Critical Minerals is Bringing New Attention to Brazil",
-      "source": "californiatelegraph.com",
+      "id": "http://www.thejakartapost.com/opinion/2026/10/10/myanmar-is-a-litmus-test-of-what-asean-way-amounts-to",
+      "title": "Myanmar is a litmus test of what ‘ASEAN way’ amounts to - Academia - The Jakarta Post",
+      "source": "thejakartapost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-09",
-      "dateRaw": "2026-10-09T18:32:00Z",
-      "publishedAt": "2026-10-09T18:32:00Z",
+      "dateRaw": "2026-10-09T21:47:00Z",
+      "publishedAt": "2026-10-09T21:47:00Z",
       "summary": "",
-      "url": "http://www.californiatelegraph.com/news/279361750/imc-rare-earths-insights-why-the-global-search-for-critical-minerals-is-bringing-new-attention-to-brazil"
+      "url": "http://www.thejakartapost.com/opinion/2026/10/10/myanmar-is-a-litmus-test-of-what-asean-way-amounts-to"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2963,
-    "relevantItems": 49,
-    "feedBytes": 785230,
+    "fetchedItems": 1882,
+    "relevantItems": 37,
+    "feedBytes": 518679,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
