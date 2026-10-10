@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 04:04:25",
+  "updatedAt": "2026. 10. 11. 오전 04:58:27",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 164,
-    "deduped": 164,
-    "eventDeduped": 164,
+    "passed": 162,
+    "deduped": 162,
+    "eventDeduped": 162,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -656,18 +656,6 @@
       "url": "https://www.thenews.com.pk/latest/1419359-eu-prepares-for-possible-china-trade-war-with-21bn-minerals-push"
     },
     {
-      "id": "https://www.cjme.com/2026/10/09/sask-ministers-to-join-largest-canadian-trade-delegation-to-india-in-30-years/",
-      "title": "Sask. ministers to join largest Canadian trade delegation to India in 30 years",
-      "source": "cjme.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T01:31:00Z",
-      "publishedAt": "2026-10-10T01:31:00Z",
-      "summary": "",
-      "url": "https://www.cjme.com/2026/10/09/sask-ministers-to-join-largest-canadian-trade-delegation-to-india-in-30-years/"
-    },
-    {
       "id": "http://www.koreatimes.com/article/20261009/1633301",
       "title": "트럼프-푸틴 경유딜, 유가 영향은…전문가 “물량 미약한 수준” - 미주 한국일보",
       "source": "koreatimes.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-10T07:31:00Z",
       "summary": "",
       "url": "https://ichannela.com/news/detail/000000554450.do"
+    },
+    {
+      "id": "https://vietnamnews.vn/politics-laws/1801695/asean-china-to-develop-e-court-and-ai-in-judicial-adjudication-for-future-prospects.html",
+      "title": "ASEAN, China to develop e-court and AI in judicial adjudication for future prospects",
+      "source": "vietnamnews.vn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T11:01:00Z",
+      "publishedAt": "2026-10-10T11:01:00Z",
+      "summary": "",
+      "url": "https://vietnamnews.vn/politics-laws/1801695/asean-china-to-develop-e-court-and-ai-in-judicial-adjudication-for-future-prospects.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3178,
-    "relevantItems": 55,
-    "feedBytes": 880827,
+    "fetchedItems": 3599,
+    "relevantItems": 48,
+    "feedBytes": 1020624,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
