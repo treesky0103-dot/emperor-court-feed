@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 03:27:06",
+  "updatedAt": "2026. 10. 11. 오전 04:04:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 163,
-    "deduped": 163,
-    "eventDeduped": 163,
+    "passed": 164,
+    "deduped": 164,
+    "eventDeduped": 164,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -488,6 +488,30 @@
       "url": "https://www.alaskasnewssource.com/2026/10/10/uaf-researchers-join-6-million-effort-extract-critical-minerals-coal-waste/"
     },
     {
+      "id": "https://www.qatarliving.com/en/article/qatar-joins-gcc-trade-industry-and-entrepreneurship-talks-in-bahrain",
+      "title": "Qatar joins GCC trade, industry and entrepreneurship talks in Bahrain | Qatar Living",
+      "source": "qatarliving.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T18:47:00Z",
+      "publishedAt": "2026-10-10T18:47:00Z",
+      "summary": "",
+      "url": "https://www.qatarliving.com/en/article/qatar-joins-gcc-trade-industry-and-entrepreneurship-talks-in-bahrain"
+    },
+    {
+      "id": "https://nripress.com/canada-maninder-sidhu-minister-lead-300-member-trade-delegation-to-india-to-unlock-new-bilateral-trade-opportunities/",
+      "title": "Canada Maninder Sidhu, Minister, lead 300-member trade delegation to India to unlock new bilateral trade opportunities",
+      "source": "nripress.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T18:46:00Z",
+      "publishedAt": "2026-10-10T18:46:00Z",
+      "summary": "",
+      "url": "https://nripress.com/canada-maninder-sidhu-minister-lead-300-member-trade-delegation-to-india-to-unlock-new-bilateral-trade-opportunities/"
+    },
+    {
       "id": "https://www.kjzz.org/business/2026-10-10/arizona-cardinals-finalizing-a-deal-to-trade-for-marvin-harrison-jr",
       "title": "Arizona Cardinals finalizing a deal to trade for Marvin Harrison Jr.",
       "source": "kjzz.org",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-10T07:31:00Z",
       "summary": "",
       "url": "https://ichannela.com/news/detail/000000554450.do"
-    },
-    {
-      "id": "https://vietnamnews.vn/politics-laws/1801695/asean-china-to-develop-e-court-and-ai-in-judicial-adjudication-for-future-prospects.html",
-      "title": "ASEAN, China to develop e-court and AI in judicial adjudication for future prospects",
-      "source": "vietnamnews.vn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:01:00Z",
-      "publishedAt": "2026-10-10T11:01:00Z",
-      "summary": "",
-      "url": "https://vietnamnews.vn/politics-laws/1801695/asean-china-to-develop-e-court-and-ai-in-judicial-adjudication-for-future-prospects.html"
-    },
-    {
-      "id": "https://newsway.co.kr/news/view?ud=2026101010484735577",
-      "title": "국제유가, 중동 긴장 완화 기대에도 상승···원유 공급 우려 지속 - 뉴스웨이",
-      "source": "newsway.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:16:00Z",
-      "publishedAt": "2026-10-10T11:16:00Z",
-      "summary": "",
-      "url": "https://newsway.co.kr/news/view?ud=2026101010484735577"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3515,
-    "relevantItems": 53,
-    "feedBytes": 1008088,
+    "fetchedItems": 3374,
+    "relevantItems": 47,
+    "feedBytes": 949738,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
