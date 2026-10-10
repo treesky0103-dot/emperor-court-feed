@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 12:41:04",
+  "updatedAt": "2026. 10. 10. 오후 01:37:24",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 560,
-    "deduped": 560,
-    "eventDeduped": 560,
+    "passed": 554,
+    "deduped": 554,
+    "eventDeduped": 554,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -212,16 +212,16 @@
       "url": "http://www.athensmessenger.com/news/electric-avenues-ai-data-centers-energy-needs-spur-natural-gas-solar-growth-challenge-power-grids/article_44b52eeb-b984-495d-9d6b-23cf691c68ac.html"
     },
     {
-      "id": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html",
-      "title": "The AI election: Wall Street braces for midterms amid mounting opposition to data centers",
-      "source": "cnbc.com",
-      "language": "English",
+      "id": "https://www.etnews.com/20261008000291",
+      "title": "“쿠팡이 쌀까, 무신사가 쌀까” AI 멀티 쇼핑 뜬다",
+      "source": "etnews.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T15:32:00Z",
-      "publishedAt": "2026-10-09T15:32:00Z",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T02:46:00Z",
+      "publishedAt": "2026-10-10T02:46:00Z",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html"
+      "url": "https://www.etnews.com/20261008000291"
     },
     {
       "id": "https://abc7amarillo.com/news/local/xcel-energy-launches-transparency-pledge-as-data-center-power-demand-raises-cost-fears-justin-smiley-southwest-power-pool-ercot-our-energy-pledge",
@@ -728,25 +728,25 @@
       "url": "https://ecorazzi.com/the-data-centre-boom-is-creating-new-opportunities-for-property-investors-but-infrastructure-risks-are-growing/"
     },
     {
-      "id": "https://www.etnews.com/20261008000291",
-      "title": "“쿠팡이 쌀까, 무신사가 쌀까” AI 멀티 쇼핑 뜬다",
-      "source": "etnews.com",
-      "language": "Korean",
+      "id": "https://en.shafaqna.com/482189/ai-investment-wave-data-center-spending/",
+      "title": "AI Investment Wave: $30 Trillion Data Center Bet by 2050",
+      "source": "en.shafaqna.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T02:46:00Z",
-      "publishedAt": "2026-10-10T02:46:00Z",
+      "dateRaw": "2026-10-10T02:32:00Z",
+      "publishedAt": "2026-10-10T02:32:00Z",
       "summary": "",
-      "url": "https://www.etnews.com/20261008000291"
+      "url": "https://en.shafaqna.com/482189/ai-investment-wave-data-center-spending/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2485,
-    "relevantItems": 28,
-    "feedBytes": 652526,
+    "fetchedItems": 3084,
+    "relevantItems": 50,
+    "feedBytes": 825794,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
