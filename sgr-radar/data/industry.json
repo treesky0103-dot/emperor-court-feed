@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 06:35:12",
+  "updatedAt": "2026. 10. 10. 오후 06:52:16",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 535,
-    "deduped": 535,
-    "eventDeduped": 535,
+    "passed": 528,
+    "deduped": 528,
+    "eventDeduped": 528,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -560,30 +560,6 @@
       "url": "https://www.biopharmadive.com/news/biotech-charts-xbi-private-public-merger-acquisition-deals/832398/"
     },
     {
-      "id": "https://www.miragenews.com/rejuvenation-biotechnology-the-quest-to-reverse-1049670/",
-      "title": "Rejuvenation Biotechnology: The Quest to Reverse Aging",
-      "source": "miragenews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T18:47:00Z",
-      "publishedAt": "2026-10-09T18:47:00Z",
-      "summary": "",
-      "url": "https://www.miragenews.com/rejuvenation-biotechnology-the-quest-to-reverse-1049670/"
-    },
-    {
-      "id": "https://www.business-standard.com/india-news/andhra-cm-urges-centre-to-set-up-shipbuilding-centre-at-dugarajapatnam-126100900772_1.html",
-      "title": "Andhra CM urges Centre to set up shipbuilding centre at Dugarajapatnam",
-      "source": "business-standard.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T18:47:00Z",
-      "publishedAt": "2026-10-09T18:47:00Z",
-      "summary": "",
-      "url": "https://www.business-standard.com/india-news/andhra-cm-urges-centre-to-set-up-shipbuilding-centre-at-dugarajapatnam-126100900772_1.html"
-    },
-    {
       "id": "https://www.brandonsun.com/local/2026/10/09/data-centres-included-in-rms-draft-zoning-bylaw",
       "title": "Data centres included in RM’s draft zoning bylaw",
       "source": "brandonsun.com",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-10T02:32:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/482189/ai-investment-wave-data-center-spending/"
+    },
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261010070839",
+      "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:46:00Z",
+      "publishedAt": "2026-10-10T00:46:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261010070839"
+    },
+    {
+      "id": "https://biz.chosun.com/industry/business-venture/2026/10/10/DETBRXPWCBFWJIPUTTNZ36UTVU/",
+      "title": "[스타트UP] “AI가 판단하는 현장 만든다”…와이매틱스 폐쇄망 AI 추론 시장 공략",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:02:00Z",
+      "publishedAt": "2026-10-10T00:02:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/industry/business-venture/2026/10/10/DETBRXPWCBFWJIPUTTNZ36UTVU/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4229,
-    "relevantItems": 73,
-    "feedBytes": 1195770,
+    "fetchedItems": 4437,
+    "relevantItems": 69,
+    "feedBytes": 1251207,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
