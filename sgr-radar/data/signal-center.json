@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 02:00:50",
+  "updatedAt": "2026. 10. 11. 오전 02:18:31",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,6 +46,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257"
         },
         {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&SRS_CD=0000021761&CMPT_CD=M0153",
+          "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T17:01:00Z",
+          "publishedAt": "2026-10-10T17:01:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&SRS_CD=0000021761&CMPT_CD=M0153"
+        },
+        {
           "id": "http://inews24.com/view/2013531",
           "title": "서울 대학서 지인 찌르고 출국한 영국인 검거…도주 9일만",
           "source": "inews24.com",
@@ -56,18 +68,6 @@
           "publishedAt": "2026-10-10T11:02:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2013531"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016",
-          "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T10:01:00Z",
-          "publishedAt": "2026-10-10T10:01:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016"
         },
         {
           "id": "http://kr.xinhuanet.com/20261010/ae6e5b4b6e0d441ba36df0c9676a8d49/c.html",
@@ -475,6 +475,18 @@
           "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-pm-faces-calls-for-immigration-cap-as-she-weighs-policy-on-foreigners"
         },
         {
+          "id": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines",
+          "title": "In Korea, towns compete to host prisons as population declines - The Korea Times",
+          "source": "koreatimes.co.kr",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T17:01:00Z",
+          "publishedAt": "2026-10-10T17:01:00Z",
+          "summary": "",
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines"
+        },
+        {
           "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=33",
           "title": "“It Had Tiny Leaves”: Some 46 Healthcare Workers Share The Cases They’ll Never Forget",
           "source": "boredpanda.com",
@@ -535,18 +547,6 @@
           "url": "https://www.freepressjournal.in/lifestyle/world-mental-health-day-2026-how-small-daily-routines-can-support-your-mind-and-wellbeing"
         },
         {
-          "id": "https://www.koreatimes.co.kr/business/companies/20261010/fast-food-fulfills-dreams-in-aging-society",
-          "title": "[INTERVIEW] Fast food fulfills dreams in aging society - The Korea Times",
-          "source": "koreatimes.co.kr",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T07:16:00Z",
-          "publishedAt": "2026-10-10T07:16:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.co.kr/business/companies/20261010/fast-food-fulfills-dreams-in-aging-society"
-        },
-        {
           "id": "https://www.businesstimes.com.sg/authors/nic-lee",
           "title": "Nic Lee - The writer is chief executive officer of the Singapore Association for Mental Health, a social service agency devoted to supporting people with mental health conditions and promoting mental wellness",
           "source": "businesstimes.com.sg",
@@ -578,10 +578,14 @@
         },
         {
           "word": "고령화",
-          "count": 2
+          "count": 1
         },
         {
           "word": "이민",
+          "count": 1
+        },
+        {
+          "word": "인구",
           "count": 1
         }
       ],
@@ -891,8 +895,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3970,
-    "feedBytes": 1151522,
+    "fetchedItems": 3639,
+    "feedBytes": 1022206,
     "rollingWindowHours": 72
   }
 }

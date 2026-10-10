@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 02:00:43",
+  "updatedAt": "2026. 10. 11. 오전 02:18:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 517,
-    "deduped": 517,
-    "eventDeduped": 517,
+    "passed": 518,
+    "deduped": 518,
+    "eventDeduped": 518,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -512,6 +512,18 @@
       "url": "http://www.californiatelegraph.com/news/279362880/battery-x-metals-reports-estimated-driving-range-increase-of-approximately-101-kilometers-following-a-single-electric-vehicle-performance-evaluation-of-next-generation-patent-pending-lithium-ion-battery-rebalancing-technology"
     },
     {
+      "id": "https://www.eteknix.com/amd-rdna-5-gpus-could-reach-clock-speeds-of-over-4-ghz/",
+      "title": "AMD RDNA 5 GPUs Could Reach Clock Speeds of Over 4 GHz",
+      "source": "eteknix.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T17:01:00Z",
+      "publishedAt": "2026-10-10T17:01:00Z",
+      "summary": "",
+      "url": "https://www.eteknix.com/amd-rdna-5-gpus-could-reach-clock-speeds-of-over-4-ghz/"
+    },
+    {
       "id": "https://www.surinenglish.com/spain/data-centres-facing-20260827150057-nt.html",
       "title": "Spanish data centres face new demands to demonstrate that their projects are viable | Sur in English",
       "source": "surinenglish.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-10T02:46:00Z",
       "summary": "",
       "url": "https://www.etnews.com/20261008000291"
-    },
-    {
-      "id": "https://en.shafaqna.com/482189/ai-investment-wave-data-center-spending/",
-      "title": "AI Investment Wave: $30 Trillion Data Center Bet by 2050",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T02:32:00Z",
-      "publishedAt": "2026-10-10T02:32:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/482189/ai-investment-wave-data-center-spending/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3970,
-    "relevantItems": 75,
-    "feedBytes": 1151522,
+    "fetchedItems": 3639,
+    "relevantItems": 44,
+    "feedBytes": 1022206,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
