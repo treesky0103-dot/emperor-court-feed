@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 06:52:25",
+  "updatedAt": "2026. 10. 10. 오후 07:11:11",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -56,6 +56,18 @@
           "publishedAt": "2026-10-09T23:46:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10883670"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016",
+          "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T10:01:00Z",
+          "publishedAt": "2026-10-10T10:01:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016"
         },
         {
           "id": "http://kr.xinhuanet.com/20261010/ae6e5b4b6e0d441ba36df0c9676a8d49/c.html",
@@ -116,18 +128,6 @@
           "publishedAt": "2026-10-10T02:32:00Z",
           "summary": "",
           "url": "https://www.wikitree.co.kr/articles/1164356"
-        },
-        {
-          "id": "https://newsway.co.kr/news/view?ud=2026100916492967029",
-          "title": "철길 따라 집값도 달렸다···신설역 들어서자 거래·가격 '들썩' - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:32:00Z",
-          "publishedAt": "2026-10-10T01:32:00Z",
-          "summary": "",
-          "url": "https://newsway.co.kr/news/view?ud=2026100916492967029"
         }
       ],
       "keywords": [
@@ -137,14 +137,14 @@
         },
         {
           "word": "주거",
-          "count": 3
-        },
-        {
-          "word": "이민",
-          "count": 1
+          "count": 2
         },
         {
           "word": "청년",
+          "count": 2
+        },
+        {
+          "word": "이민",
           "count": 1
         }
       ],
@@ -465,6 +465,18 @@
           "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-pm-faces-calls-for-immigration-cap-as-she-weighs-policy-on-foreigners"
         },
         {
+          "id": "https://www.barandbench.com/news/litigation/cji-surya-kant-constitutes-committee-on-judicial-well-being-to-address-mental-health-stress-issues-of-judges",
+          "title": "CJI Surya Kant constitutes Committee on Judicial Well-Being to address mental health, stress issues of judges",
+          "source": "barandbench.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T10:01:00Z",
+          "publishedAt": "2026-10-10T10:01:00Z",
+          "summary": "",
+          "url": "https://www.barandbench.com/news/litigation/cji-surya-kant-constitutes-committee-on-judicial-well-being-to-address-mental-health-stress-issues-of-judges"
+        },
+        {
           "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=35",
           "title": "“It Had Tiny Leaves”: Some 46 Healthcare Workers Share The Cases They’ll Never Forget",
           "source": "boredpanda.com",
@@ -559,28 +571,16 @@
           "publishedAt": "2026-10-09T19:47:00Z",
           "summary": "",
           "url": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis"
-        },
-        {
-          "id": "https://londonlovesbusiness.com/modernise-or-rebuild-what-to-do-with-an-ageing-healthcare-app/",
-          "title": "Modernise or rebuild? What to do with an ageing healthcare app - London Business News | Londonlovesbusiness.com",
-          "source": "londonlovesbusiness.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T19:32:00Z",
-          "publishedAt": "2026-10-09T19:32:00Z",
-          "summary": "",
-          "url": "https://londonlovesbusiness.com/modernise-or-rebuild-what-to-do-with-an-ageing-healthcare-app/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 5
+          "count": 6
         },
         {
           "word": "고령화",
-          "count": 2
+          "count": 1
         },
         {
           "word": "이민",
@@ -893,8 +893,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4437,
-    "feedBytes": 1251207,
+    "fetchedItems": 3852,
+    "feedBytes": 1082775,
     "rollingWindowHours": 72
   }
 }
