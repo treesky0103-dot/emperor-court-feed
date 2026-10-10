@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 07:34:25",
+  "updatedAt": "2026. 10. 10. 오후 07:51:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 524,
-    "deduped": 524,
-    "eventDeduped": 524,
+    "passed": 519,
+    "deduped": 519,
+    "eventDeduped": 519,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -440,6 +440,18 @@
       "url": "https://peakoil.com/consumption/dte-hints-at-new-data-center-development-stirs-fight-on-energy-sources"
     },
     {
+      "id": "https://retail.economictimes.indiatimes.com/news/health-and-beauty/nat-habit-raises-rs-142-crore-targets-5x-manufacturing-capacity-and-2-lakh-stores/134851424",
+      "title": "Nat Habit raises Rs 142 crore, targets 5x manufacturing capacity and 2 lakh stores",
+      "source": "retail.economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T10:46:00Z",
+      "publishedAt": "2026-10-10T10:46:00Z",
+      "summary": "",
+      "url": "https://retail.economictimes.indiatimes.com/news/health-and-beauty/nat-habit-raises-rs-142-crore-targets-5x-manufacturing-capacity-and-2-lakh-stores/134851424"
+    },
+    {
       "id": "https://wrp.org.uk/editorials/uk-bosses-fear-winter-energy-crisis-time-to-renationalise-energy-industry/",
       "title": "UK Bosses Fear Winter Energy Crisis. Time To Renationalise Energy Industry! - Workers Revolutionary Party",
       "source": "wrp.org.uk",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-10T10:01:00Z",
       "summary": "",
       "url": "https://www.motorward.com/2020/12/latest-technologies-in-car-manufacturing/"
-    },
-    {
-      "id": "https://sundayworld.co.za/motoring/isuzu-appoints-manufacturing-veteran-johan-vermeulen-to-executive-leadership-and-board/",
-      "title": "Isuzu appoints manufacturing veteran Johan Vermeulen to executive leadership and board",
-      "source": "sundayworld.co.za",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T09:32:00Z",
-      "publishedAt": "2026-10-10T09:32:00Z",
-      "summary": "",
-      "url": "https://sundayworld.co.za/motoring/isuzu-appoints-manufacturing-veteran-johan-vermeulen-to-executive-leadership-and-board/"
     },
     {
       "id": "https://lexch.com/life-entertainment/nation-world/home-gardening/article_f2cb2a79-4780-5ed0-9ff5-4f8fa64684b1.html",
@@ -668,6 +668,18 @@
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
     },
     {
+      "id": "https://sundayworld.co.za/motoring/isuzu-appoints-manufacturing-veteran-johan-vermeulen-to-executive-leadership-and-board/",
+      "title": "Isuzu appoints manufacturing veteran Johan Vermeulen to executive leadership and board",
+      "source": "sundayworld.co.za",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T09:32:00Z",
+      "publishedAt": "2026-10-10T09:32:00Z",
+      "summary": "",
+      "url": "https://sundayworld.co.za/motoring/isuzu-appoints-manufacturing-veteran-johan-vermeulen-to-executive-leadership-and-board/"
+    },
+    {
       "id": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry",
       "title": "Iran seeks more electricity from Türkiye, Turkmenistan as war hits industry | News.az",
       "source": "news.az",
@@ -678,18 +690,6 @@
       "publishedAt": "2026-10-10T08:32:00Z",
       "summary": "",
       "url": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry"
-    },
-    {
-      "id": "https://www.observertoday.com/news/local-region/2026/10/manufacturing-month-underway-in-region/",
-      "title": "Manufacturing Month underway in region",
-      "source": "observertoday.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T08:16:00Z",
-      "publishedAt": "2026-10-10T08:16:00Z",
-      "summary": "",
-      "url": "https://www.observertoday.com/news/local-region/2026/10/manufacturing-month-underway-in-region/"
     },
     {
       "id": "https://www.etnews.com/20261008000291",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2315,
-    "relevantItems": 41,
-    "feedBytes": 669350,
+    "fetchedItems": 4007,
+    "relevantItems": 78,
+    "feedBytes": 1130627,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
