@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 05:19:35",
+  "updatedAt": "2026. 10. 10. 오후 05:38:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 192,
-    "deduped": 192,
-    "eventDeduped": 192,
+    "passed": 194,
+    "deduped": 194,
+    "eventDeduped": 194,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -500,6 +500,18 @@
       "url": "https://www.business-standard.com/external-affairs-defence-security/news/jaishankar-holds-talks-with-ethiopian-counterpart-discusses-trade-investment-security-126100900872_1.html"
     },
     {
+      "id": "https://economictimes.indiatimes.com/news/international/world-news/china-says-can-avoid-escalation-after-eu-trade-talks/articleshow/134850386.cms",
+      "title": "China says can avoid 'escalation' after EU trade talks",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T08:31:00Z",
+      "publishedAt": "2026-10-10T08:31:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-can-avoid-escalation-after-eu-trade-talks/articleshow/134850386.cms"
+    },
+    {
       "id": "https://www.riotimesonline.com/egypt-and-south-korea-cepa-trade-talks-2026/",
       "title": "Egypt and South Korea Launch Trade Talks, Sign 12 Deals",
       "source": "riotimesonline.com",
@@ -716,37 +728,25 @@
       "url": "https://www.fnnews.com/news/202610101200564878"
     },
     {
-      "id": "https://www.progressiverailroading.com/passenger_rail/news/New-York-Gov-Hochul-Tariffs-pose-risk-to-MTA-fleet-renewal--77899",
-      "title": "Rail News - New York Gov. Hochul: Tariffs pose risk to MTA fleet renewal. For Railroad Career Professionals",
-      "source": "progressiverailroading.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T08:16:00Z",
-      "publishedAt": "2026-10-10T08:16:00Z",
-      "summary": "",
-      "url": "https://www.progressiverailroading.com/passenger_rail/news/New-York-Gov-Hochul-Tariffs-pose-risk-to-MTA-fleet-renewal--77899"
-    },
-    {
-      "id": "https://www.tnp.no/norway/global/3302-asia-needs-asean-ization-not-pakistanization-of-its-continent/",
-      "title": "Asia Needs ASEAN-ization not Pakistanization of Its Continent - The Nordic Page",
+      "id": "https://www.tnp.no/norway/economy/4393-norway-to-be-affected-by-free-trade-agreement-between-eu-and-usa/",
+      "title": "Norway to Be Affected By Free Trade Agreement between EU and USA - The Nordic Page",
       "source": "tnp.no",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T23:46:00Z",
-      "publishedAt": "2026-10-09T23:46:00Z",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T08:31:00Z",
+      "publishedAt": "2026-10-10T08:31:00Z",
       "summary": "",
-      "url": "https://www.tnp.no/norway/global/3302-asia-needs-asean-ization-not-pakistanization-of-its-continent/"
+      "url": "https://www.tnp.no/norway/economy/4393-norway-to-be-affected-by-free-trade-agreement-between-eu-and-usa/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4223,
-    "relevantItems": 58,
-    "feedBytes": 1168753,
+    "fetchedItems": 4337,
+    "relevantItems": 72,
+    "feedBytes": 1231103,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 05:19:43",
+  "updatedAt": "2026. 10. 10. 오후 05:38:25",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -600,6 +600,30 @@
     "economy": {
       "items": [
         {
+          "id": "https://www.madhyamam.com/business/biz-news/qatar-central-bank-and-euroclear-partner-to-attract-more-foreign-investment-1562095",
+          "title": "ഖത്തറിലേക്ക് കൂടുതൽ വിദേശനിക്ഷേപം; യൂറോക്ലിയറും ഖത്തർ സെൻട്രൽ ബാങ്കും സഹകരണം പ്രഖ്യാപിച്ചു | Euroclear and Qatar Central Bank Join Hands to Drive Foreign Investment in Qatar | Madhyamam",
+          "source": "madhyamam.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T08:32:00Z",
+          "publishedAt": "2026-10-10T08:32:00Z",
+          "summary": "",
+          "url": "https://www.madhyamam.com/business/biz-news/qatar-central-bank-and-euroclear-partner-to-attract-more-foreign-investment-1562095"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/news/international/world-news/wef-urges-leaders-to-treat-cybersecurity-as-economic-investment-not-just-a-cost/articleshow/134849914.cms",
+          "title": "WEF urges leaders to treat cybersecurity as economic investment, not just a cost",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T08:32:00Z",
+          "publishedAt": "2026-10-10T08:32:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/wef-urges-leaders-to-treat-cybersecurity-as-economic-investment-not-just-a-cost/articleshow/134849914.cms"
+        },
+        {
           "id": "http://english.anhuinews.com/newscenter/headline/202610/t20261010_9648345.html",
           "title": "【AICC Original Article】Anhui's consumer market maintains steady growth during National Day holiday",
           "source": "english.anhuinews.com",
@@ -648,18 +672,6 @@
           "url": "https://www.ghanamma.com/2026/10/10/mtn-ghanas-antoinette-kwofie-calls-for-greater-investment-in-womens-economic-empowerment-to/"
         },
         {
-          "id": "https://economictimes.indiatimes.com/wealth/invest/fd-interest-maturity-fixed-deposit-calculator-how-you-can-use-fd-laddering-for-rs-10-lakh-investment-after-rbi-raises-repo-rate/articleshow/134842338.cms",
-          "title": "How you can use FD laddering for Rs 10 lakh investment after RBI raises repo rate - The Economic Times",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:46:00Z",
-          "publishedAt": "2026-10-10T02:46:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/fd-interest-maturity-fixed-deposit-calculator-how-you-can-use-fd-laddering-for-rs-10-lakh-investment-after-rbi-raises-repo-rate/articleshow/134842338.cms"
-        },
-        {
           "id": "https://www.jobsnhire.com/articles/60163/20261009/labor-market-braces-september-employment-data-amid-hiring-slowdown.htm",
           "title": "Labor Market Braces for September Employment Data Amid Hiring Slowdown",
           "source": "jobsnhire.com",
@@ -706,35 +718,27 @@
           "publishedAt": "2026-10-09T22:31:00Z",
           "summary": "",
           "url": "https://www.gx94radio.com/2026/10/09/paul-martin-potash-rivals-aluminum-in-economic-clout-but-escapes-tariff-heat/"
-        },
-        {
-          "id": "https://buenosairesherald.com/economics/market-considers-economy-in-recession-as-it-curtails-2026-growth-prospects",
-          "title": "Market considers economy in recession as it curtails 2026 growth prospects - Buenos Aires Herald",
-          "source": "buenosairesherald.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T22:01:00Z",
-          "publishedAt": "2026-10-09T22:01:00Z",
-          "summary": "",
-          "url": "https://buenosairesherald.com/economics/market-considers-economy-in-recession-as-it-curtails-2026-growth-prospects"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
-        },
-        {
-          "word": "성장",
-          "count": 3
+          "count": 7
         },
         {
           "word": "고용",
           "count": 2
         },
         {
+          "word": "성장",
+          "count": 2
+        },
+        {
           "word": "관세",
+          "count": 1
+        },
+        {
+          "word": "금리",
           "count": 1
         }
       ],
@@ -895,8 +899,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4223,
-    "feedBytes": 1168753,
+    "fetchedItems": 4337,
+    "feedBytes": 1231103,
     "rollingWindowHours": 72
   }
 }

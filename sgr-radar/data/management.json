@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:59:35",
+  "updatedAt": "2026. 10. 10. 오후 05:38:17",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 37,
-    "deduped": 37,
-    "eventDeduped": 37,
+    "passed": 38,
+    "deduped": 38,
+    "eventDeduped": 38,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -78,6 +78,18 @@
       "url": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai"
     },
     {
+      "id": "https://ianslive.in/chinas-youth-unemployment-crisis-structural-transformation-driven-by-ai-adoption-govt-inaction--20261010135200",
+      "title": "China’s youth unemployment crisis structural transformation driven by AI adoption, govt inaction",
+      "source": "ianslive.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T08:32:00Z",
+      "publishedAt": "2026-10-10T08:32:00Z",
+      "summary": "",
+      "url": "https://ianslive.in/chinas-youth-unemployment-crisis-structural-transformation-driven-by-ai-adoption-govt-inaction--20261010135200"
+    },
+    {
       "id": "https://www.indiatimes.com/trending/netflix-restructuring-16000-employees-at-the-end-of-2025-but-now-850-jobs-may-be-at-risk-heres-what-changed-for-the-streaming-giant/articleshow/134846833.html",
       "title": "Netflix restructuring: 16,000 employees at the end of 2025, but now 850 jobs may be at risk! Here’s what changed for the streaming giant",
       "source": "indiatimes.com",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-09T23:46:00Z",
       "summary": "",
       "url": "https://www.financial-news.co.uk/is-hybrid-work-softening-your-company-connection-to-employees/"
-    },
-    {
-      "id": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204768",
-      "title": "ARTEX Developer Makes AI Agent Closed-Source After S. Korean Bank Hack",
-      "source": "world.kbs.co.kr",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T06:01:00Z",
-      "publishedAt": "2026-10-10T06:01:00Z",
-      "summary": "",
-      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204768"
     }
   ],
   "trendItems": [
@@ -210,6 +210,18 @@
       "publishedAt": "2026-10-09T19:46:00Z",
       "summary": "",
       "url": "https://www.livemint.com/companies/news/5-gst-on-ola-uber-swiggy-zomato-amazon-and-flipkart-regardless-of-business-model-report-11791567413508.html"
+    },
+    {
+      "id": "https://ianslive.in/chinas-youth-unemployment-crisis-structural-transformation-driven-by-ai-adoption-govt-inaction--20261010135200",
+      "title": "China’s youth unemployment crisis structural transformation driven by AI adoption, govt inaction",
+      "source": "ianslive.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T08:32:00Z",
+      "publishedAt": "2026-10-10T08:32:00Z",
+      "summary": "",
+      "url": "https://ianslive.in/chinas-youth-unemployment-crisis-structural-transformation-driven-by-ai-adoption-govt-inaction--20261010135200"
     },
     {
       "id": "https://www.indiatimes.com/trending/netflix-restructuring-16000-employees-at-the-end-of-2025-but-now-850-jobs-may-be-at-risk-heres-what-changed-for-the-streaming-giant/articleshow/134846833.html",
@@ -588,9 +600,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4223,
-    "relevantItems": 58,
-    "feedBytes": 1168753,
+    "fetchedItems": 4337,
+    "relevantItems": 72,
+    "feedBytes": 1231103,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
