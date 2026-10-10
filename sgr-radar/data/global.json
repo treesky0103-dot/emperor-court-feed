@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 08:10:21",
+  "updatedAt": "2026. 10. 11. 오전 08:27:11",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 152,
-    "deduped": 152,
-    "eventDeduped": 152,
+    "passed": 151,
+    "deduped": 151,
+    "eventDeduped": 151,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -476,16 +476,16 @@
       "url": "https://en.apa.az/america/witkoff-ukraines-energy-security-and-post-war-recovery-discussed-in-miami-529240"
     },
     {
-      "id": "https://www.alaskasnewssource.com/2026/10/10/uaf-researchers-join-6-million-effort-extract-critical-minerals-coal-waste/",
-      "title": "UAF researchers join $6 million effort to extract critical minerals from coal waste",
-      "source": "alaskasnewssource.com",
+      "id": "https://www.theglobeandmail.com/world/article-ottawa-negotiating-deal-with-angola-trade-diversification-efforts/",
+      "title": "Ottawa negotiating deal with Angola as trade diversification efforts expand",
+      "source": "theglobeandmail.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T04:31:00Z",
-      "publishedAt": "2026-10-10T04:31:00Z",
+      "dateRaw": "2026-10-10T23:16:00Z",
+      "publishedAt": "2026-10-10T23:16:00Z",
       "summary": "",
-      "url": "https://www.alaskasnewssource.com/2026/10/10/uaf-researchers-join-6-million-effort-extract-critical-minerals-coal-waste/"
+      "url": "https://www.theglobeandmail.com/world/article-ottawa-negotiating-deal-with-angola-trade-diversification-efforts/"
     },
     {
       "id": "https://www.tribuneindia.com/news/defence/choke-points-at-sea-trade-routes-getting-weaponised-says-defence-minister-rajnath/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2411,
-    "relevantItems": 38,
-    "feedBytes": 670763,
+    "fetchedItems": 2564,
+    "relevantItems": 45,
+    "feedBytes": 706624,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

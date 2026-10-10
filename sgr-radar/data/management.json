@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 07:51:30",
+  "updatedAt": "2026. 10. 11. 오전 08:27:10",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 43,
-    "deduped": 43,
-    "eventDeduped": 43,
+    "passed": 41,
+    "deduped": 41,
+    "eventDeduped": 41,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -78,18 +78,6 @@
       "url": "https://www.mmafighting.com/post/MBQvsHLFNM_x"
     },
     {
-      "id": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations",
-      "title": "Google launches enterprise AI agent for workspace automation with multi-platform integrations",
-      "source": "adgully.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T04:31:00Z",
-      "publishedAt": "2026-10-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
-    },
-    {
       "id": "http://www.northkoreatimes.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
       "title": "US jobless claims fall to 197,000 as layoffs remain low",
       "source": "northkoreatimes.com",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-10T11:31:00Z",
       "summary": "",
       "url": "https://ianslive.in/eight-in-ten-financial-planners-expect-ai-adoption-within-a-year--20261010164137"
+    },
+    {
+      "id": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/",
+      "title": "Tech Expertise Required for Futuristic Custom Software Development",
+      "source": "chiangraitimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T13:17:00Z",
+      "publishedAt": "2026-10-10T13:17:00Z",
+      "summary": "",
+      "url": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/"
     }
   ],
   "trendItems": [
@@ -210,18 +210,6 @@
       "publishedAt": "2026-10-10T06:46:00Z",
       "summary": "",
       "url": "https://www.daltonsbusiness.com/listing/unique-subscription-business-model-with-18000-for-sale-DB2502039/"
-    },
-    {
-      "id": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations",
-      "title": "Google launches enterprise AI agent for workspace automation with multi-platform integrations",
-      "source": "adgully.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T04:31:00Z",
-      "publishedAt": "2026-10-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
     },
     {
       "id": "http://www.northkoreatimes.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
@@ -608,18 +596,6 @@
       "url": "https://www.indiatimes.com/trending/being-ashamed-of-family-wealth-as-backup-why-young-indians-born-around-2005-face-a-tougher-future-with-ai-rising-house-prices-and-fewer-good-jobs/articleshow/134836708.html"
     },
     {
-      "id": "https://www.texarkanagazette.com/news/2026/oct/09/fearing-ai-workers-go-back-to-school-seeking-jobs/",
-      "title": "Fearing AI, workers go back to school seeking jobs that still need a human touch | Texarkana Gazette",
-      "source": "texarkanagazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T04:31:00Z",
-      "publishedAt": "2026-10-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.texarkanagazette.com/news/2026/oct/09/fearing-ai-workers-go-back-to-school-seeking-jobs/"
-    },
-    {
       "id": "https://www.theguardian.com/media/2026/oct/10/telegraph-owner-axel-springer-newsroom-job-cuts-u-turn",
       "title": "Telegraph owner poised to make newsroom job cuts in investment promise U-turn",
       "source": "theguardian.com",
@@ -660,9 +636,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2411,
-    "relevantItems": 38,
-    "feedBytes": 670763,
+    "fetchedItems": 2564,
+    "relevantItems": 45,
+    "feedBytes": 706624,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
