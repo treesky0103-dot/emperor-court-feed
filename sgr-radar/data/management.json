@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 10:26:28",
+  "updatedAt": "2026. 10. 10. 오후 10:59:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 42,
-    "deduped": 42,
-    "eventDeduped": 42,
+    "passed": 43,
+    "deduped": 43,
+    "eventDeduped": 43,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -54,6 +54,18 @@
       "url": "https://zdnet.co.kr/view/?no=20261010105326"
     },
     {
+      "id": "https://www.mmafighting.com/post/MBQvsHLFNM_x",
+      "title": "What do you think the \"Full Violence\" business model is? | MMA Fighting",
+      "source": "mmafighting.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T13:46:00Z",
+      "publishedAt": "2026-10-10T13:46:00Z",
+      "summary": "",
+      "url": "https://www.mmafighting.com/post/MBQvsHLFNM_x"
+    },
+    {
       "id": "https://www.daltonsbusiness.com/listing/unique-subscription-business-model-with-18000-for-sale-DB2502039/",
       "title": "Unique Subscription Business Model With 18,000+ Daily Paying Users… - Buy or Sell a UK Business with Daltons Business",
       "source": "daltonsbusiness.com",
@@ -76,18 +88,6 @@
       "publishedAt": "2026-10-10T04:31:00Z",
       "summary": "",
       "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
-    },
-    {
-      "id": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377",
-      "title": "VietJet moving towards hybrid business model and long haul routes: Vice chair",
-      "source": "centreforaviation.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T02:31:00Z",
-      "publishedAt": "2026-10-10T02:31:00Z",
-      "summary": "",
-      "url": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377"
     },
     {
       "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
@@ -174,6 +174,18 @@
       "publishedAt": "2026-10-10T05:31:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261010105326"
+    },
+    {
+      "id": "https://www.mmafighting.com/post/MBQvsHLFNM_x",
+      "title": "What do you think the \"Full Violence\" business model is? | MMA Fighting",
+      "source": "mmafighting.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T13:46:00Z",
+      "publishedAt": "2026-10-10T13:46:00Z",
+      "summary": "",
+      "url": "https://www.mmafighting.com/post/MBQvsHLFNM_x"
     },
     {
       "id": "https://www.daltonsbusiness.com/listing/unique-subscription-business-model-with-18000-for-sale-DB2502039/",
@@ -648,9 +660,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4120,
-    "relevantItems": 72,
-    "feedBytes": 1181674,
+    "fetchedItems": 3970,
+    "relevantItems": 63,
+    "feedBytes": 1117410,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
