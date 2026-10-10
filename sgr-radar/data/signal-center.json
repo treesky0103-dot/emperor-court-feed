@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:45:24",
+  "updatedAt": "2026. 10. 10. 오후 04:59:44",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -44,18 +44,6 @@
           "publishedAt": "2026-10-10T02:46:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/hanihealth/medical/1280544.html"
-        },
-        {
-          "id": "https://www.etnews.com/20261010000005",
-          "title": "국회 앞 모인 교사들…안민석 경기도교육감, 교권 보호 법률 개정 촉구",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:46:00Z",
-          "publishedAt": "2026-10-10T02:46:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261010000005"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10883670",
@@ -128,16 +116,28 @@
           "publishedAt": "2026-10-10T02:32:00Z",
           "summary": "",
           "url": "https://www.wikitree.co.kr/articles/1164356"
+        },
+        {
+          "id": "https://newsway.co.kr/news/view?ud=2026100916492967029",
+          "title": "철길 따라 집값도 달렸다···신설역 들어서자 거래·가격 '들썩' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T01:32:00Z",
+          "publishedAt": "2026-10-10T01:32:00Z",
+          "summary": "",
+          "url": "https://newsway.co.kr/news/view?ud=2026100916492967029"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
         },
         {
           "word": "주거",
-          "count": 2
+          "count": 3
         },
         {
           "word": "이민",
@@ -207,16 +207,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261010000005",
-          "title": "국회 앞 모인 교사들…안민석 경기도교육감, 교권 보호 법률 개정 촉구",
-          "source": "etnews.com",
+          "id": "https://www.etoday.co.kr/news/view/2633742",
+          "title": "경기 청약시장 ‘입지 양극화’ 뚜렷⋯성남·과천·동탄 웃고 외곽은 미달",
+          "source": "etoday.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:46:00Z",
-          "publishedAt": "2026-10-10T02:46:00Z",
+          "dateRaw": "2026-10-10T07:46:00Z",
+          "publishedAt": "2026-10-10T07:46:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261010000005"
+          "url": "https://www.etoday.co.kr/news/view/2633742"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10897481",
@@ -895,8 +895,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4283,
-    "feedBytes": 1202908,
+    "fetchedItems": 2110,
+    "feedBytes": 604176,
     "rollingWindowHours": 72
   }
 }

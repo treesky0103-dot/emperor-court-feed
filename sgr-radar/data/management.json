@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:45:18",
+  "updatedAt": "2026. 10. 10. 오후 04:59:35",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 38,
-    "deduped": 38,
-    "eventDeduped": 38,
+    "passed": 37,
+    "deduped": 37,
+    "eventDeduped": 37,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -582,27 +582,15 @@
       "publishedAt": "2026-10-09T19:17:00Z",
       "summary": "",
       "url": "https://wvmetronews.com/2026/10/09/harrison-county-based-traffic-company-faces-layoffs-after-losing-contract-with-antero/"
-    },
-    {
-      "id": "https://www.theverge.com/streaming/1008911/netflix-is-reportedly-planning-layoffs-soon",
-      "title": "Netflix is reportedly planning layoffs soon.",
-      "source": "theverge.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T17:46:00Z",
-      "publishedAt": "2026-10-09T17:46:00Z",
-      "summary": "",
-      "url": "https://www.theverge.com/streaming/1008911/netflix-is-reportedly-planning-layoffs-soon"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4283,
-    "relevantItems": 50,
-    "feedBytes": 1202908,
+    "fetchedItems": 2110,
+    "relevantItems": 20,
+    "feedBytes": 604176,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

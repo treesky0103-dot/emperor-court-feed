@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:45:17",
+  "updatedAt": "2026. 10. 10. 오후 04:59:34",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 546,
-    "deduped": 546,
-    "eventDeduped": 546,
+    "passed": 539,
+    "deduped": 539,
+    "eventDeduped": 539,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -584,18 +584,6 @@
       "url": "https://www.business-standard.com/india-news/andhra-cm-urges-centre-to-set-up-shipbuilding-centre-at-dugarajapatnam-126100900772_1.html"
     },
     {
-      "id": "https://www.investmentwatchblog.com/spacex-is-too-poor-to-purchase-their-own-gpus/",
-      "title": "SpaceX is too poor to purchase their own GPUs - Investment Watch Blog",
-      "source": "investmentwatchblog.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T17:46:00Z",
-      "publishedAt": "2026-10-09T17:46:00Z",
-      "summary": "",
-      "url": "https://www.investmentwatchblog.com/spacex-is-too-poor-to-purchase-their-own-gpus/"
-    },
-    {
       "id": "https://www.brandonsun.com/local/2026/10/09/data-centres-included-in-rms-draft-zoning-bylaw",
       "title": "Data centres included in RM’s draft zoning bylaw",
       "source": "brandonsun.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-10T05:02:00Z",
       "summary": "",
       "url": "https://www.stdaily.com/web/English/2026-10/10/content_592511.html"
+    },
+    {
+      "id": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html",
+      "title": "‘10대’ 손예진과 ‘가짜’ 염혜란 사이…AI 배우, 어디까지 허용할까",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T05:31:00Z",
+      "publishedAt": "2026-10-10T05:31:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4283,
-    "relevantItems": 50,
-    "feedBytes": 1202908,
+    "fetchedItems": 2110,
+    "relevantItems": 20,
+    "feedBytes": 604176,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
