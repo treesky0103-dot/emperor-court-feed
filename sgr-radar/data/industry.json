@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 11:17:16",
+  "updatedAt": "2026. 10. 10. 오후 11:36:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 516,
-    "deduped": 516,
-    "eventDeduped": 516,
+    "passed": 512,
+    "deduped": 512,
+    "eventDeduped": 512,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,6 +416,18 @@
       "url": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/"
     },
     {
+      "id": "https://www.andoveradvertiser.co.uk/news/26617707.150-pupils-explore-manufacturing-careers/",
+      "title": "More than 150 pupils explore manufacturing careers at Andover College event",
+      "source": "andoveradvertiser.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T14:31:00Z",
+      "publishedAt": "2026-10-10T14:31:00Z",
+      "summary": "",
+      "url": "https://www.andoveradvertiser.co.uk/news/26617707.150-pupils-explore-manufacturing-careers/"
+    },
+    {
       "id": "https://link.springer.com/journal/10845",
       "title": "Journal of Intelligent Manufacturing",
       "source": "link.springer.com",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-10T11:31:00Z",
       "summary": "",
       "url": "https://www.fingerlakes1.com/2026/10/10/two-battery-storage-units-proposed-on-lakeville-road-in-avon/"
-    },
-    {
-      "id": "https://www.businesstoday.in/latest/economy/story/make-in-india-why-indias-manufacturing-gains-look-stronger-against-a-turbulent-decade-560803-2026-10-10",
-      "title": "Make in India: Why India’s manufacturing gains look stronger against a turbulent decade - BusinessToday",
-      "source": "businesstoday.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:17:00Z",
-      "publishedAt": "2026-10-10T11:17:00Z",
-      "summary": "",
-      "url": "https://www.businesstoday.in/latest/economy/story/make-in-india-why-indias-manufacturing-gains-look-stronger-against-a-turbulent-decade-560803-2026-10-10"
     },
     {
       "id": "https://lexch.com/life-entertainment/nation-world/home-gardening/article_f2cb2a79-4780-5ed0-9ff5-4f8fa64684b1.html",
@@ -668,16 +668,16 @@
       "url": "https://peakoil.com/consumption/dte-hints-at-new-data-center-development-stirs-fight-on-energy-sources"
     },
     {
-      "id": "https://news.yam.md/ro/story/74162109",
-      "title": "Moldova plans domestic drone manufacturing for defense",
-      "source": "news.yam.md",
+      "id": "https://www.businesstoday.in/latest/economy/story/make-in-india-why-indias-manufacturing-gains-look-stronger-against-a-turbulent-decade-560803-2026-10-10",
+      "title": "Make in India: Why India’s manufacturing gains look stronger against a turbulent decade - BusinessToday",
+      "source": "businesstoday.in",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:01:00Z",
-      "publishedAt": "2026-10-10T11:01:00Z",
+      "dateRaw": "2026-10-10T11:17:00Z",
+      "publishedAt": "2026-10-10T11:17:00Z",
       "summary": "",
-      "url": "https://news.yam.md/ro/story/74162109"
+      "url": "https://www.businesstoday.in/latest/economy/story/make-in-india-why-indias-manufacturing-gains-look-stronger-against-a-turbulent-decade-560803-2026-10-10"
     },
     {
       "id": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3808,
-    "relevantItems": 58,
-    "feedBytes": 1082806,
+    "fetchedItems": 1127,
+    "relevantItems": 19,
+    "feedBytes": 321774,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
