@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 04:04:32",
+  "updatedAt": "2026. 10. 11. 오전 04:23:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -44,18 +44,6 @@
           "publishedAt": "2026-10-10T05:02:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.etnews.com/20261010000005",
-          "title": "국회 앞 모인 교사들…안민석 경기도교육감, 교권 보호 법률 개정 촉구",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:46:00Z",
-          "publishedAt": "2026-10-10T02:46:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261010000005"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&SRS_CD=0000021761&CMPT_CD=M0153",
@@ -128,6 +116,18 @@
           "publishedAt": "2026-10-10T02:46:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261010000032"
+        },
+        {
+          "id": "https://www.wikitree.co.kr/articles/1164356",
+          "title": "“10명 중 7명이 A학점”…요즘 대학 졸업생 성적표에 벌어진 일",
+          "source": "wikitree.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:32:00Z",
+          "publishedAt": "2026-10-10T02:32:00Z",
+          "summary": "",
+          "url": "https://www.wikitree.co.kr/articles/1164356"
         }
       ],
       "keywords": [
@@ -191,18 +191,6 @@
           "publishedAt": "2026-10-10T16:01:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1281539.html"
-        },
-        {
-          "id": "https://www.etnews.com/20261010000005",
-          "title": "국회 앞 모인 교사들…안민석 경기도교육감, 교권 보호 법률 개정 촉구",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:46:00Z",
-          "publishedAt": "2026-10-10T02:46:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261010000005"
         },
         {
           "id": "https://www.wikitree.co.kr/articles/1164613",
@@ -277,6 +265,18 @@
           "publishedAt": "2026-10-10T01:32:00Z",
           "summary": "",
           "url": "https://newsway.co.kr/news/view?ud=2026100915564612067"
+        },
+        {
+          "id": "https://www.segye.com:443/newsView/20261010504533",
+          "title": "“캣우먼 같지만 편안해”…英 육상 스타의 파격 경기복 화제",
+          "source": "segye.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T14:47:00Z",
+          "publishedAt": "2026-10-10T14:47:00Z",
+          "summary": "",
+          "url": "https://www.segye.com:443/newsView/20261010504533"
         }
       ],
       "keywords": [
@@ -887,8 +887,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3374,
-    "feedBytes": 949738,
+    "fetchedItems": 3225,
+    "feedBytes": 925600,
     "rollingWindowHours": 72
   }
 }
