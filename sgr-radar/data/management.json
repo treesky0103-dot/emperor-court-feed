@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 11:26:30",
+  "updatedAt": "2026. 10. 10. 오전 11:46:17",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 33,
-    "deduped": 33,
-    "eventDeduped": 33,
+    "passed": 35,
+    "deduped": 35,
+    "eventDeduped": 35,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377",
+      "title": "VietJet moving towards hybrid business model and long haul routes: Vice chair",
+      "source": "centreforaviation.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T02:31:00Z",
+      "publishedAt": "2026-10-10T02:31:00Z",
+      "summary": "",
+      "url": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377"
+    },
     {
       "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
       "title": "Senao Networks Launches x86 Enterprise Server Series for Enterprise AI",
@@ -114,31 +126,31 @@
       "url": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/"
     },
     {
-      "id": "https://www.govinfosecurity.com/ai-agent-governance-starts-identity-a-33063",
-      "title": "AI Agent Governance Starts With Identity",
-      "source": "govinfosecurity.com",
+      "id": "https://www.jobsnhire.com/articles/60164/20261009/corporate-communication-shifts-ai-models-integrate-employee-data.htm",
+      "title": "Corporate Communication Shifts as AI Models Integrate Employee Data",
+      "source": "jobsnhire.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T01:17:00Z",
-      "publishedAt": "2026-10-10T01:17:00Z",
+      "dateRaw": "2026-10-10T02:31:00Z",
+      "publishedAt": "2026-10-10T02:31:00Z",
       "summary": "",
-      "url": "https://www.govinfosecurity.com/ai-agent-governance-starts-identity-a-33063"
-    },
-    {
-      "id": "http://www.russiaherald.com/news/279361725/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance",
-      "title": "Meghalaya's edGrid Showcased at World Bank's World Development Report 2026 India Launch as a Model for AI-Powered Education Governance",
-      "source": "russiaherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:32:00Z",
-      "publishedAt": "2026-10-09T21:32:00Z",
-      "summary": "",
-      "url": "http://www.russiaherald.com/news/279361725/meghalaya-edgrid-showcased-at-world-bank-world-development-report-2026-india-launch-as-a-model-for-ai-powered-education-governance"
+      "url": "https://www.jobsnhire.com/articles/60164/20261009/corporate-communication-shifts-ai-models-integrate-employee-data.htm"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377",
+      "title": "VietJet moving towards hybrid business model and long haul routes: Vice chair",
+      "source": "centreforaviation.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T02:31:00Z",
+      "publishedAt": "2026-10-10T02:31:00Z",
+      "summary": "",
+      "url": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377"
+    },
     {
       "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
       "title": "Senao Networks Launches x86 Enterprise Server Series for Enterprise AI",
@@ -270,6 +282,18 @@
       "publishedAt": "2026-10-09T15:16:00Z",
       "summary": "",
       "url": "https://nypost.com/2026/10/09/business/stock-bull-market-nears-4-year-anniversary-thanks-to-ai-spending/"
+    },
+    {
+      "id": "https://www.jobsnhire.com/articles/60164/20261009/corporate-communication-shifts-ai-models-integrate-employee-data.htm",
+      "title": "Corporate Communication Shifts as AI Models Integrate Employee Data",
+      "source": "jobsnhire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T02:31:00Z",
+      "publishedAt": "2026-10-10T02:31:00Z",
+      "summary": "",
+      "url": "https://www.jobsnhire.com/articles/60164/20261009/corporate-communication-shifts-ai-models-integrate-employee-data.htm"
     },
     {
       "id": "https://www.govinfosecurity.com/ai-agent-governance-starts-identity-a-33063",
@@ -540,9 +564,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2830,
-    "relevantItems": 50,
-    "feedBytes": 735059,
+    "fetchedItems": 2942,
+    "relevantItems": 63,
+    "feedBytes": 751492,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
