@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 06:11:22",
+  "updatedAt": "2026. 10. 10. 오후 06:35:13",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 197,
-    "deduped": 197,
-    "eventDeduped": 197,
+    "passed": 196,
+    "deduped": 196,
+    "eventDeduped": 196,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -368,6 +368,30 @@
       "url": "https://www.rfdtv.com/tariff-costs-shift-through-global-cotton-supply-chains"
     },
     {
+      "id": "https://www.newspim.com/news/view/20261008001405",
+      "title": "월드옥타, APEC·혁신도시 中 선전서 글로벌 공동 번영 모색",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T09:31:00Z",
+      "publishedAt": "2026-10-10T09:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261008001405"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261006000091",
+      "title": "다카이치, 시진핑과 회담 필요성 커졌지만...11월 APEC 성사 '불투명'",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T09:31:00Z",
+      "publishedAt": "2026-10-10T09:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261006000091"
+    },
+    {
       "id": "https://www.wikitree.co.kr/articles/1165081",
       "title": "레저 지갑 피해, CZ “공급망 공격 가능성”…테더는 USDT 9,000만 달러 동결했다",
       "source": "wikitree.co.kr",
@@ -402,30 +426,6 @@
       "publishedAt": "2026-10-10T08:16:00Z",
       "summary": "",
       "url": "https://www.adgully.com/post/22067/turtle-wax-appoints-ashutosh-saxena-as-md-for-india-and-asean"
-    },
-    {
-      "id": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/",
-      "title": "People-centered energy urged amid ASEAN Energy Forum",
-      "source": "bulatlat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T05:31:00Z",
-      "publishedAt": "2026-10-10T05:31:00Z",
-      "summary": "",
-      "url": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/"
-    },
-    {
-      "id": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry",
-      "title": "Philippine President Marcos looks to Singapore to build on ASEAN digital pact amid US-China rivalry",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T05:02:00Z",
-      "publishedAt": "2026-10-10T05:02:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry"
     },
     {
       "id": "https://en.apa.az/america/witkoff-ukraines-energy-security-and-post-war-recovery-discussed-in-miami-529240",
@@ -728,25 +728,25 @@
       "url": "https://biz.heraldcorp.com/article/10898095"
     },
     {
-      "id": "https://www.tnp.no/norway/global/3302-asia-needs-asean-ization-not-pakistanization-of-its-continent/",
-      "title": "Asia Needs ASEAN-ization not Pakistanization of Its Continent - The Nordic Page",
-      "source": "tnp.no",
+      "id": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/",
+      "title": "People-centered energy urged amid ASEAN Energy Forum",
+      "source": "bulatlat.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T23:46:00Z",
-      "publishedAt": "2026-10-09T23:46:00Z",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T05:31:00Z",
+      "publishedAt": "2026-10-10T05:31:00Z",
       "summary": "",
-      "url": "https://www.tnp.no/norway/global/3302-asia-needs-asean-ization-not-pakistanization-of-its-continent/"
+      "url": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4585,
-    "relevantItems": 66,
-    "feedBytes": 1278767,
+    "fetchedItems": 4229,
+    "relevantItems": 73,
+    "feedBytes": 1195770,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

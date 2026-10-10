@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 06:11:21",
+  "updatedAt": "2026. 10. 10. 오후 06:35:12",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 537,
-    "deduped": 537,
-    "eventDeduped": 537,
+    "passed": 535,
+    "deduped": 535,
+    "eventDeduped": 535,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,6 +452,18 @@
       "url": "https://peakoil.com/consumption/dte-hints-at-new-data-center-development-stirs-fight-on-energy-sources"
     },
     {
+      "id": "https://sundayworld.co.za/motoring/isuzu-appoints-manufacturing-veteran-johan-vermeulen-to-executive-leadership-and-board/",
+      "title": "Isuzu appoints manufacturing veteran Johan Vermeulen to executive leadership and board",
+      "source": "sundayworld.co.za",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T09:32:00Z",
+      "publishedAt": "2026-10-10T09:32:00Z",
+      "summary": "",
+      "url": "https://sundayworld.co.za/motoring/isuzu-appoints-manufacturing-veteran-johan-vermeulen-to-executive-leadership-and-board/"
+    },
+    {
       "id": "https://www.observertoday.com/news/local-region/2026/10/manufacturing-month-underway-in-region/",
       "title": "Manufacturing Month underway in region",
       "source": "observertoday.com",
@@ -486,18 +498,6 @@
       "publishedAt": "2026-10-10T06:01:00Z",
       "summary": "",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/california-sends-illegal-notice-to-company-with-terminator-like-robot-ceo-posts-the-letter-online-celebrates-we-made-/articleshow/134848042.cms"
-    },
-    {
-      "id": "https://www.diamondworld.net/news/from-craft-to-high-tech-linus-drogs-of-au-enterprises-on-the-future-of-jewellery-casting-technology-and-manufacturing",
-      "title": "FROM CRAFT TO HIGH-TECH: Linus Drogs of Au Enterprises on the Future of Jewellery Casting, Technology, and Manufacturing",
-      "source": "diamondworld.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T05:46:00Z",
-      "publishedAt": "2026-10-10T05:46:00Z",
-      "summary": "",
-      "url": "https://www.diamondworld.net/news/from-craft-to-high-tech-linus-drogs-of-au-enterprises-on-the-future-of-jewellery-casting-technology-and-manufacturing"
     },
     {
       "id": "http://www.californiatelegraph.com/news/279362880/battery-x-metals-reports-estimated-driving-range-increase-of-approximately-101-kilometers-following-a-single-electric-vehicle-performance-evaluation-of-next-generation-patent-pending-lithium-ion-battery-rebalancing-technology",
@@ -704,16 +704,16 @@
       "url": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry"
     },
     {
-      "id": "https://www.abc12.com/news/equipment-fire-at-manufacturing-company-contained-in-mayfield-township/article_e1c3547c-94e6-4a2d-ab85-6bd75e21966b.html",
-      "title": "Equipment fire at manufacturing company contained in Mayfield Township",
-      "source": "abc12.com",
+      "id": "https://www.diamondworld.net/news/from-craft-to-high-tech-linus-drogs-of-au-enterprises-on-the-future-of-jewellery-casting-technology-and-manufacturing",
+      "title": "FROM CRAFT TO HIGH-TECH: Linus Drogs of Au Enterprises on the Future of Jewellery Casting, Technology, and Manufacturing",
+      "source": "diamondworld.net",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T05:31:00Z",
-      "publishedAt": "2026-10-10T05:31:00Z",
+      "dateRaw": "2026-10-10T05:46:00Z",
+      "publishedAt": "2026-10-10T05:46:00Z",
       "summary": "",
-      "url": "https://www.abc12.com/news/equipment-fire-at-manufacturing-company-contained-in-mayfield-township/article_e1c3547c-94e6-4a2d-ab85-6bd75e21966b.html"
+      "url": "https://www.diamondworld.net/news/from-craft-to-high-tech-linus-drogs-of-au-enterprises-on-the-future-of-jewellery-casting-technology-and-manufacturing"
     },
     {
       "id": "https://www.etnews.com/20261008000291",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4585,
-    "relevantItems": 66,
-    "feedBytes": 1278767,
+    "fetchedItems": 4229,
+    "relevantItems": 73,
+    "feedBytes": 1195770,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
