@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 02:35:14",
+  "updatedAt": "2026. 10. 11. 오전 03:48:15",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -463,18 +463,6 @@
           "url": "https://luxe.outlookindia.com/longevity/world-mental-health-day-2026-why-mental-well-being-matters-for-healthy-ageing"
         },
         {
-          "id": "https://asia.nikkei.com/spotlight/japan-immigration/japan-pm-faces-calls-for-immigration-cap-as-she-weighs-policy-on-foreigners",
-          "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
-          "source": "asia.nikkei.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:02:00Z",
-          "publishedAt": "2026-10-10T01:02:00Z",
-          "summary": "",
-          "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-pm-faces-calls-for-immigration-cap-as-she-weighs-policy-on-foreigners"
-        },
-        {
           "id": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines",
           "title": "In Korea, towns compete to host prisons as population declines - The Korea Times",
           "source": "koreatimes.co.kr",
@@ -569,6 +557,18 @@
           "publishedAt": "2026-10-10T06:46:00Z",
           "summary": "",
           "url": "https://www.wsws.org/en/articles/2026/10/10/sybp-o10.html"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/nimhans-study-finds-loneliness-linked-to-psychological-distress-excessive-series-watching-among-parents-of-emigrated-children/article71564189.ece",
+          "title": "NIMHANS study finds loneliness linked to psychological distress, excessive series watching among parents of emigrated children",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:31:00Z",
+          "publishedAt": "2026-10-10T02:31:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/national/karnataka/nimhans-study-finds-loneliness-linked-to-psychological-distress-excessive-series-watching-among-parents-of-emigrated-children/article71564189.ece"
         }
       ],
       "keywords": [
@@ -578,10 +578,6 @@
         },
         {
           "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         },
         {
@@ -857,26 +853,26 @@
           "url": "https://www.dailyadvertiser.com.au/story/9364129/wagga-data-centre-plan-concerns-raised-amid-call-for-more-scrutiny/"
         },
         {
-          "id": "https://abc7amarillo.com/news/local/xcel-energy-launches-transparency-pledge-as-data-center-power-demand-raises-cost-fears-justin-smiley-southwest-power-pool-ercot-our-energy-pledge",
-          "title": "Xcel Energy launches transparency pledge as data center power demand raises cost fears",
-          "source": "abc7amarillo.com",
+          "id": "https://georgiatoday.ge/eu-georgia-collaboration-is-a-win-win-for-ai-research-and-innovation/",
+          "title": "EU-Georgia Collaboration is a Win-Win for AI Research and Innovation",
+          "source": "georgiatoday.ge",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:01:00Z",
-          "publishedAt": "2026-10-10T01:01:00Z",
+          "dateRaw": "2026-10-10T13:31:00Z",
+          "publishedAt": "2026-10-10T13:31:00Z",
           "summary": "",
-          "url": "https://abc7amarillo.com/news/local/xcel-energy-launches-transparency-pledge-as-data-center-power-demand-raises-cost-fears-justin-smiley-southwest-power-pool-ercot-our-energy-pledge"
+          "url": "https://georgiatoday.ge/eu-georgia-collaboration-is-a-win-win-for-ai-research-and-innovation/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "데이터센터",
-          "count": 4
+          "count": 3
         },
         {
           "word": "전력",
@@ -895,8 +891,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3709,
-    "feedBytes": 1039006,
+    "fetchedItems": 3515,
+    "feedBytes": 1008088,
     "rollingWindowHours": 72
   }
 }
