@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 09:18:25",
+  "updatedAt": "2026. 10. 10. 오전 09:48:55",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 601,
-    "deduped": 601,
-    "eventDeduped": 601,
+    "passed": 593,
+    "deduped": 593,
+    "eventDeduped": 593,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261009223603",
+      "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:46:00Z",
+      "publishedAt": "2026-10-10T00:46:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261009223603"
+    },
     {
       "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/",
       "title": "Supply Chains Were Always Probabilistic—AI Is Finally Catching Up",
@@ -28,18 +40,6 @@
       "publishedAt": "2026-10-09T22:01:00Z",
       "summary": "",
       "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10897816",
-      "title": "‘칠천피’도 불안한데 위기 아니다? 경상수지 흑자가 AI·반도체 투자에 주는 의미 [머니뭐니]",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T20:47:00Z",
-      "publishedAt": "2026-10-09T20:47:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10897816"
     },
     {
       "id": "https://biz.chosun.com/policy/policy_sub/2026/10/10/U327MTOK2NATHNNH3PFR2LZFKA/",
@@ -140,6 +140,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://zdnet.co.kr/view/?no=20261009223603",
+      "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:46:00Z",
+      "publishedAt": "2026-10-10T00:46:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261009223603"
+    },
+    {
       "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/09/supply-chains-were-always-probabilistic-ai-is-finally-catching-up/",
       "title": "Supply Chains Were Always Probabilistic—AI Is Finally Catching Up",
       "source": "forbes.com",
@@ -186,18 +198,6 @@
       "publishedAt": "2026-10-09T18:16:00Z",
       "summary": "",
       "url": "http://www.athensmessenger.com/news/electric-avenues-ai-data-centers-energy-needs-spur-natural-gas-solar-growth-challenge-power-grids/article_44b52eeb-b984-495d-9d6b-23cf691c68ac.html"
-    },
-    {
-      "id": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html",
-      "title": "The AI election: Wall Street braces for midterms amid mounting opposition to data centers",
-      "source": "cnbc.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T15:32:00Z",
-      "publishedAt": "2026-10-09T15:32:00Z",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html"
     },
     {
       "id": "https://biz.chosun.com/policy/policy_sub/2026/10/10/U327MTOK2NATHNNH3PFR2LZFKA/",
@@ -452,6 +452,18 @@
       "url": "https://www.investegate.co.uk/company/BIOG"
     },
     {
+      "id": "https://www.roboticstomorrow.com/company_directory/electromate/10195",
+      "title": "Industrial Automation, Robots and Unmanned Vehicles Company - Electromate | RoboticsTomorrow",
+      "source": "roboticstomorrow.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:46:00Z",
+      "publishedAt": "2026-10-10T00:46:00Z",
+      "summary": "",
+      "url": "https://www.roboticstomorrow.com/company_directory/electromate/10195"
+    },
+    {
       "id": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development",
       "title": "South El Monte Puts 45 Day Moratorium on Data Center and Battery Facility Development - Streetsblog Los Angeles",
       "source": "la.streetsblog.org",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-09T20:32:00Z",
       "summary": "",
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
-    },
-    {
-      "id": "https://www.roboticstomorrow.com/company_directory/cyngn/13988",
-      "title": "Industrial Automation, Robots and Unmanned Vehicles Company - Cyngn | RoboticsTomorrow",
-      "source": "roboticstomorrow.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T17:17:00Z",
-      "publishedAt": "2026-10-09T17:17:00Z",
-      "summary": "",
-      "url": "https://www.roboticstomorrow.com/company_directory/cyngn/13988"
     },
     {
       "id": "https://highlandcountypress.com/opinions/dont-blame-energy-companies-or-data-centers-if-your-utilities-go",
@@ -500,6 +500,18 @@
       "url": "http://www.koreatimes.com/article/20261009/1633247"
     },
     {
+      "id": "https://lacrossetribune.com/life-entertainment/nation-world/home-gardening/article_de557a58-416b-5daf-827b-0721a517071e.html",
+      "title": "Can a humanoid robot clean your house? A San Francisco company says yes",
+      "source": "lacrossetribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:46:00Z",
+      "publishedAt": "2026-10-10T00:46:00Z",
+      "summary": "",
+      "url": "https://lacrossetribune.com/life-entertainment/nation-world/home-gardening/article_de557a58-416b-5daf-827b-0721a517071e.html"
+    },
+    {
       "id": "https://kfgo.com/2026/10/09/nd-psc-candidate-calls-for-state-oversight-of-data-centers-to-protect-utility-rates/",
       "title": "ND PSC candidate calls for state oversight of data centers to protect utility rates",
       "source": "kfgo.com",
@@ -522,18 +534,6 @@
       "publishedAt": "2026-10-09T23:46:00Z",
       "summary": "",
       "url": "https://interior-news.com/2026/10/09/centrebcs-sturko-promisesmanufacturing-boost/"
-    },
-    {
-      "id": "https://qctimes.com/life-entertainment/nation-world/home-gardening/article_3ac670d0-8586-542b-a146-f45e44198399.html",
-      "title": "Can a humanoid robot clean your house? A San Francisco company says yes",
-      "source": "qctimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T23:46:00Z",
-      "publishedAt": "2026-10-09T23:46:00Z",
-      "summary": "",
-      "url": "https://qctimes.com/life-entertainment/nation-world/home-gardening/article_3ac670d0-8586-542b-a146-f45e44198399.html"
     },
     {
       "id": "https://www.tnp.no/norway/economy/2570-biotechnologys-future-in-chile-and-norway/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3321,
-    "relevantItems": 64,
-    "feedBytes": 892763,
+    "fetchedItems": 2953,
+    "relevantItems": 79,
+    "feedBytes": 786738,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
