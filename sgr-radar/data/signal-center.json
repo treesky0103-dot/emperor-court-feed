@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 02:52:39",
+  "updatedAt": "2026. 10. 10. 오후 03:15:16",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -412,6 +412,18 @@
           "url": "https://newsway.co.kr/news/view?ud=2026100915564612067"
         },
         {
+          "id": "http://www.newstomato.com/ReadNews.aspx?no=1316179",
+          "title": "‘호남 반도체 팹’ 부지 찾은 최태원 “용수·전력 늦어도 착공”",
+          "source": "newstomato.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T06:01:00Z",
+          "publishedAt": "2026-10-10T06:01:00Z",
+          "summary": "",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316179"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2633716",
           "title": "경기 미분양 늘었는데⋯반도체 산업축 이천·화성·오산은 감소",
           "source": "etoday.co.kr",
@@ -422,32 +434,20 @@
           "publishedAt": "2026-10-10T04:02:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2633716"
-        },
-        {
-          "id": "http://inews24.com/view/2012939",
-          "title": "\"한국 AI 생태계에 기여\"…엔비디아·AMD, 韓 연구거점 구축",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:17:00Z",
-          "publishedAt": "2026-10-10T01:17:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2012939"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 10
+          "count": 11
         },
         {
           "word": "AI",
-          "count": 4
+          "count": 3
         },
         {
           "word": "전력",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -483,16 +483,16 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
-          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=0",
+          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=7",
           "title": "“It Had Tiny Leaves”: Some 46 Healthcare Workers Share The Cases They’ll Never Forget",
           "source": "boredpanda.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T04:31:00Z",
-          "publishedAt": "2026-10-10T04:31:00Z",
+          "dateRaw": "2026-10-10T06:02:00Z",
+          "publishedAt": "2026-10-10T06:02:00Z",
           "summary": "",
-          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=0"
+          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=7"
         },
         {
           "id": "https://www.thehindu.com/news/national/karnataka/nimhans-study-finds-loneliness-linked-to-psychological-distress-excessive-series-watching-among-parents-of-emigrated-children/article71564189.ece",
@@ -861,16 +861,16 @@
           "url": "http://www.athensmessenger.com/news/electric-avenues-ai-data-centers-energy-needs-spur-natural-gas-solar-growth-challenge-power-grids/article_44b52eeb-b984-495d-9d6b-23cf691c68ac.html"
         },
         {
-          "id": "https://crln.acrl.org/index.php/crlnews/article/view/26548",
-          "title": "The Artificial Intelligence Disclosure (AID) Framework: An Introduction | Weaver | College & Research Libraries News",
-          "source": "crln.acrl.org",
+          "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-denies-firing-researchers-over-ai-safety-warnings/articleshow/134847907.cms",
+          "title": "OpenAI: OpenAI denies firing researchers over AI safety warnings - The Economic Times",
+          "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:02:00Z",
-          "publishedAt": "2026-10-10T05:02:00Z",
+          "dateRaw": "2026-10-10T06:02:00Z",
+          "publishedAt": "2026-10-10T06:02:00Z",
           "summary": "",
-          "url": "https://crln.acrl.org/index.php/crlnews/article/view/26548"
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-denies-firing-researchers-over-ai-safety-warnings/articleshow/134847907.cms"
         }
       ],
       "keywords": [
@@ -903,8 +903,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3433,
-    "feedBytes": 957291,
+    "fetchedItems": 3179,
+    "feedBytes": 877459,
     "rollingWindowHours": 72
   }
 }
