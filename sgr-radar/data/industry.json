@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 07:18:04",
+  "updatedAt": "2026. 10. 11. 오전 07:35:59",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 524,
-    "deduped": 524,
-    "eventDeduped": 524,
+    "passed": 525,
+    "deduped": 525,
+    "eventDeduped": 525,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -704,16 +704,16 @@
       "url": "https://www.etoday.co.kr/news/view/2634235"
     },
     {
-      "id": "https://www.postandcourier.com/opinion/editorials/poll-says-data-centers-less-reviled-with-laws-governing-them/article_80b49b1e-353c-416f-93b8-5757ad794cbd.html",
-      "title": "Editorial: We don't need a poll to know that data centers need regulating",
-      "source": "postandcourier.com",
+      "id": "https://krod.com/ixp/514/p/texas-data-centers-location-secrecy-fight/",
+      "title": "Rural Texans Demand Transparency as a Texas Agency Tries to Hide Data Center Locations, Water and Power Usage",
+      "source": "krod.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T22:01:00Z",
-      "publishedAt": "2026-10-10T22:01:00Z",
+      "dateRaw": "2026-10-10T22:31:00Z",
+      "publishedAt": "2026-10-10T22:31:00Z",
       "summary": "",
-      "url": "https://www.postandcourier.com/opinion/editorials/poll-says-data-centers-less-reviled-with-laws-governing-them/article_80b49b1e-353c-416f-93b8-5757ad794cbd.html"
+      "url": "https://krod.com/ixp/514/p/texas-data-centers-location-secrecy-fight/"
     },
     {
       "id": "https://www.pharmaceuticalonline.com/doc/enabling-quality-by-design-0001",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2830,
-    "relevantItems": 43,
-    "feedBytes": 760394,
+    "fetchedItems": 2417,
+    "relevantItems": 32,
+    "feedBytes": 641887,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
