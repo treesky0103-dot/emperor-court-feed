@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 09:00:33",
+  "updatedAt": "2026. 10. 10. 오후 09:22:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 42,
-    "deduped": 42,
-    "eventDeduped": 42,
+    "passed": 41,
+    "deduped": 41,
+    "eventDeduped": 41,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -630,27 +630,15 @@
       "publishedAt": "2026-10-09T21:32:00Z",
       "summary": "",
       "url": "https://www.engadget.com/2282823/flock-safety-reportedly-planning-major-layoffs/"
-    },
-    {
-      "id": "https://www.cp24.com/local/toronto/2026/10/09/stelco-employee-says-plant-layoffs-due-to-tariffs-is-confusing-when-all-we-do-is-canadian-orders/",
-      "title": "Stelco employee says plant layoffs due to tariffs is confusing when ‘all we do is Canadian orders’",
-      "source": "cp24.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T20:32:00Z",
-      "publishedAt": "2026-10-09T20:32:00Z",
-      "summary": "",
-      "url": "https://www.cp24.com/local/toronto/2026/10/09/stelco-employee-says-plant-layoffs-due-to-tariffs-is-confusing-when-all-we-do-is-canadian-orders/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4281,
-    "relevantItems": 74,
-    "feedBytes": 1230986,
+    "fetchedItems": 3954,
+    "relevantItems": 82,
+    "feedBytes": 1113868,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
