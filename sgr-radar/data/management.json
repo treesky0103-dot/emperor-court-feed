@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 06:28:36",
+  "updatedAt": "2026. 10. 11. 오전 06:46:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 44,
-    "deduped": 44,
-    "eventDeduped": 44,
+    "passed": 45,
+    "deduped": 45,
+    "eventDeduped": 45,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -90,16 +90,16 @@
       "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
     },
     {
-      "id": "http://www.coloradostar.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
+      "id": "http://www.jamaicantimes.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
       "title": "US jobless claims fall to 197,000 as layoffs remain low",
-      "source": "coloradostar.com",
+      "source": "jamaicantimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T21:16:00Z",
-      "publishedAt": "2026-10-10T21:16:00Z",
+      "dateRaw": "2026-10-10T21:31:00Z",
+      "publishedAt": "2026-10-10T21:31:00Z",
       "summary": "",
-      "url": "http://www.coloradostar.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
+      "url": "http://www.jamaicantimes.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
     },
     {
       "id": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220",
@@ -224,16 +224,16 @@
       "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
     },
     {
-      "id": "http://www.coloradostar.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
+      "id": "http://www.jamaicantimes.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
       "title": "US jobless claims fall to 197,000 as layoffs remain low",
-      "source": "coloradostar.com",
+      "source": "jamaicantimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T21:16:00Z",
-      "publishedAt": "2026-10-10T21:16:00Z",
+      "dateRaw": "2026-10-10T21:31:00Z",
+      "publishedAt": "2026-10-10T21:31:00Z",
       "summary": "",
-      "url": "http://www.coloradostar.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
+      "url": "http://www.jamaicantimes.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
     },
     {
       "id": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220",
@@ -476,6 +476,18 @@
       "url": "https://www.whqr.org/2026-10-09/thomasville-implements-ai-program-for-city-employees"
     },
     {
+      "id": "https://smallbiztrends.com/trends-of-consumer-behaviour/",
+      "title": "7 Key Trends in Consumer Behaviour",
+      "source": "smallbiztrends.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T21:31:00Z",
+      "publishedAt": "2026-10-10T21:31:00Z",
+      "summary": "",
+      "url": "https://smallbiztrends.com/trends-of-consumer-behaviour/"
+    },
+    {
       "id": "https://www.mangalorean.com/vance-warns-of-tariffs-over-us-job-losses/",
       "title": "Vance warns of tariffs over US job losses - Mangalorean.com",
       "source": "mangalorean.com",
@@ -672,9 +684,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2697,
-    "relevantItems": 30,
-    "feedBytes": 756690,
+    "fetchedItems": 2803,
+    "relevantItems": 34,
+    "feedBytes": 778227,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
