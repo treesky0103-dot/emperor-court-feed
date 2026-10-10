@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 09:22:26",
+  "updatedAt": "2026. 10. 10. 오후 10:04:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 41,
-    "deduped": 41,
-    "eventDeduped": 41,
+    "passed": 40,
+    "deduped": 40,
+    "eventDeduped": 40,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,18 +452,6 @@
       "url": "https://www.newsweek.com/ai-is-boosting-productivity-but-is-it-worth-it-12541940"
     },
     {
-      "id": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
-      "title": "Google is about to roll out a new AI model. Employees say they're testing another that's way better.",
-      "source": "businessinsider.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T20:32:00Z",
-      "publishedAt": "2026-10-09T20:32:00Z",
-      "summary": "",
-      "url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10"
-    },
-    {
       "id": "https://www.mangalorean.com/vance-warns-of-tariffs-over-us-job-losses/",
       "title": "Vance warns of tariffs over US job losses - Mangalorean.com",
       "source": "mangalorean.com",
@@ -636,9 +624,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 934,
-    "relevantItems": 30,
-    "feedBytes": 260342,
+    "fetchedItems": 1951,
+    "relevantItems": 24,
+    "feedBytes": 551250,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
