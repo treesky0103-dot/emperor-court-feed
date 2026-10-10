@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 05:38:16",
+  "updatedAt": "2026. 10. 10. 오후 05:54:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 536,
-    "deduped": 536,
-    "eventDeduped": 536,
+    "passed": 538,
+    "deduped": 538,
+    "eventDeduped": 538,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -668,16 +668,16 @@
       "url": "https://www.hani.co.kr/arti/culture/culture_general/1280791.html"
     },
     {
-      "id": "http://www.newstomato.com/ReadNews.aspx?no=1316179",
-      "title": "‘호남 반도체 팹’ 부지 찾은 최태원 “용수·전력 늦어도 착공”",
-      "source": "newstomato.com",
-      "language": "Korean",
+      "id": "https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb/",
+      "title": "NVIDIA Reportedly Axes RTX 5090 Production, Diverting GB202 Chips To PRO Cards As Gamers Get An RTX 5080 24 GB",
+      "source": "wccftech.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T06:01:00Z",
-      "publishedAt": "2026-10-10T06:01:00Z",
+      "dateRaw": "2026-10-10T08:46:00Z",
+      "publishedAt": "2026-10-10T08:46:00Z",
       "summary": "",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1316179"
+      "url": "https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb/"
     },
     {
       "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4337,
-    "relevantItems": 72,
-    "feedBytes": 1231103,
+    "fetchedItems": 4237,
+    "relevantItems": 53,
+    "feedBytes": 1216081,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
