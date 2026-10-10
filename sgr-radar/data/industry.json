@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 02:50:30",
+  "updatedAt": "2026. 10. 11. 오전 03:27:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 518,
-    "deduped": 518,
-    "eventDeduped": 518,
+    "passed": 516,
+    "deduped": 516,
+    "eventDeduped": 516,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -428,6 +428,18 @@
       "url": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
     },
     {
+      "id": "https://www.grandforksherald.com/news/north-dakota/walsh-and-pembina-counties-give-insight-to-students-with-ninth-annual-manufacturing-day",
+      "title": "Walsh and Pembina counties give insight to students with ninth annual Manufacturing Day",
+      "source": "grandforksherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T18:17:00Z",
+      "publishedAt": "2026-10-10T18:17:00Z",
+      "summary": "",
+      "url": "https://www.grandforksherald.com/news/north-dakota/walsh-and-pembina-counties-give-insight-to-students-with-ninth-annual-manufacturing-day"
+    },
+    {
       "id": "https://www.pharmaceuticalonline.com/doc/cleaning-validation-for-pharmaceutical-manufacturing-why-get-cleaning-validation-support-from-the-cleaner-supplier-0001",
       "title": "Cleaning Validation For Pharmaceutical Manufacturing Why Get Cleaning Validation Support From the Cleaner Supplier?",
       "source": "pharmaceuticalonline.com",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-10T16:01:00Z",
       "summary": "",
       "url": "https://www.thehindu.com/news/national/telangana/round-table-discusses-damage-due-to-data-centres/article71568830.ece"
-    },
-    {
-      "id": "https://www.andoveradvertiser.co.uk/news/26617707.150-pupils-explore-manufacturing-careers/",
-      "title": "More than 150 pupils explore manufacturing careers at Andover College event",
-      "source": "andoveradvertiser.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T14:31:00Z",
-      "publishedAt": "2026-10-10T14:31:00Z",
-      "summary": "",
-      "url": "https://www.andoveradvertiser.co.uk/news/26617707.150-pupils-explore-manufacturing-careers/"
     },
     {
       "id": "https://www.fingerlakes1.com/2026/10/10/two-battery-storage-units-proposed-on-lakeville-road-in-avon/",
@@ -668,16 +668,16 @@
       "url": "https://www.gov.wales/shape-plans-new-clean-energy-company-owned-wales-benefit-wales"
     },
     {
-      "id": "https://link.springer.com/journal/10845",
-      "title": "Journal of Intelligent Manufacturing",
-      "source": "link.springer.com",
+      "id": "https://www.andoveradvertiser.co.uk/news/26617707.150-pupils-explore-manufacturing-careers/",
+      "title": "More than 150 pupils explore manufacturing careers at Andover College event",
+      "source": "andoveradvertiser.co.uk",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T13:17:00Z",
-      "publishedAt": "2026-10-10T13:17:00Z",
+      "dateRaw": "2026-10-10T14:31:00Z",
+      "publishedAt": "2026-10-10T14:31:00Z",
       "summary": "",
-      "url": "https://link.springer.com/journal/10845"
+      "url": "https://www.andoveradvertiser.co.uk/news/26617707.150-pupils-explore-manufacturing-careers/"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261010193638",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3837,
-    "relevantItems": 60,
-    "feedBytes": 1080964,
+    "fetchedItems": 3709,
+    "relevantItems": 44,
+    "feedBytes": 1039006,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
