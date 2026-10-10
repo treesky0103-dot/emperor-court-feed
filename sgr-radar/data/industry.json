@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 08:43:22",
+  "updatedAt": "2026. 10. 11. 오전 08:58:54",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 542,
-    "deduped": 542,
-    "eventDeduped": 542,
+    "passed": 546,
+    "deduped": 546,
+    "eventDeduped": 546,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -668,18 +668,6 @@
       "url": "https://montrealgazette.com/news/provincial-news/hydro-quebec-in-a-power-struggle-with-google-and-big-tech-as-data-centre-demand-surges/"
     },
     {
-      "id": "https://www.brandonsun.com/local/2026/10/09/data-centres-included-in-rms-draft-zoning-bylaw",
-      "title": "Data centres included in RM’s draft zoning bylaw",
-      "source": "brandonsun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T04:46:00Z",
-      "publishedAt": "2026-10-10T04:46:00Z",
-      "summary": "",
-      "url": "https://www.brandonsun.com/local/2026/10/09/data-centres-included-in-rms-draft-zoning-bylaw"
-    },
-    {
       "id": "https://biz.chosun.com/it-science/ict/2026/10/11/QNDXTMB23VCDXOSDMW7RXVIOWA/",
       "title": "AI 에이전트가 몰려온다… ‘인터넷 교통’ 관리하는 기업 주가 들썩",
       "source": "biz.chosun.com",
@@ -716,16 +704,16 @@
       "url": "https://www.lankanewspapers.com/2026/10/10/china-s-sungrow-powers-sri-lanka-s-largest-utility-scale-battery-energy-storage-system-for-wkv"
     },
     {
-      "id": "https://krod.com/ixp/514/p/texas-data-centers-location-secrecy-fight/",
-      "title": "Rural Texans Demand Transparency as a Texas Agency Tries to Hide Data Center Locations, Water and Power Usage",
-      "source": "krod.com",
+      "id": "https://www.techradar.com/pro/aws-is-building-a-massive-36-building-1-100-acre-data-center-campus-in-pennsylvania-homer-city-energy-campus-will-create-around-1-500-2-000-jobs-and-be-powered-by-natural-gas",
+      "title": "AWS is building massive 36-building, 1,100-acre data center campus in Pennsylvania",
+      "source": "techradar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T22:31:00Z",
-      "publishedAt": "2026-10-10T22:31:00Z",
+      "dateRaw": "2026-10-10T23:46:00Z",
+      "publishedAt": "2026-10-10T23:46:00Z",
       "summary": "",
-      "url": "https://krod.com/ixp/514/p/texas-data-centers-location-secrecy-fight/"
+      "url": "https://www.techradar.com/pro/aws-is-building-a-massive-36-building-1-100-acre-data-center-campus-in-pennsylvania-homer-city-energy-campus-will-create-around-1-500-2-000-jobs-and-be-powered-by-natural-gas"
     },
     {
       "id": "https://www.pharmaceuticalonline.com/doc/simplifying-adenoviral-purification-for-scalable-manufacturing-0001",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-10T21:32:00Z",
       "summary": "",
       "url": "https://www.pharmaceuticalonline.com/doc/simplifying-adenoviral-purification-for-scalable-manufacturing-0001"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/technology/tech-news/california-sends-illegal-notice-to-company-with-terminator-like-robot-ceo-posts-the-letter-online-celebrates-we-made-/articleshow/134848042.cms",
+      "title": "California sends 'illegal' notice to company with 'Terminator'-like robot; CEO posts the letter online, celebrates: 'We made...'",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T06:01:00Z",
+      "publishedAt": "2026-10-10T06:01:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/california-sends-illegal-notice-to-company-with-terminator-like-robot-ceo-posts-the-letter-online-celebrates-we-made-/articleshow/134848042.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2355,
-    "relevantItems": 47,
-    "feedBytes": 633819,
+    "fetchedItems": 2482,
+    "relevantItems": 37,
+    "feedBytes": 659495,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

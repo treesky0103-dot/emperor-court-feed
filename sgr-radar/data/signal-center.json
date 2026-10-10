@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 08:43:31",
+  "updatedAt": "2026. 10. 11. 오전 08:59:03",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,16 +46,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257",
-          "title": "\"전세금 못 받았는데 이자도 안 된다\" 세입자 울린 뜻밖의 조건[판례방]",
-          "source": "edaily.co.kr",
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272638&CMPT_CD=M0153",
+          "title": "인공지능시대, 교육에 던져진 '엉당질'이 계속돼야 하는 까닭",
+          "source": "ohmynews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:02:00Z",
-          "publishedAt": "2026-10-10T05:02:00Z",
+          "dateRaw": "2026-10-10T23:46:00Z",
+          "publishedAt": "2026-10-10T23:46:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257"
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272638&CMPT_CD=M0153"
         },
         {
           "id": "https://www.newspim.com/news/view/20260930000457",
@@ -68,18 +68,6 @@
           "publishedAt": "2026-10-10T22:01:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20260930000457"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&SRS_CD=0000021761&CMPT_CD=M0153",
-          "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T17:01:00Z",
-          "publishedAt": "2026-10-10T17:01:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&SRS_CD=0000021761&CMPT_CD=M0153"
         },
         {
           "id": "http://inews24.com/view/2013531",
@@ -130,12 +118,24 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224038",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/opinion/column/1281402.html",
+          "title": "극우 비인가 학교, 교화 대신 교육을 [세상읽기]",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:31:00Z",
+          "publishedAt": "2026-10-10T23:31:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1281402.html"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 9
+          "count": 12
         },
         {
           "word": "복지",
@@ -143,14 +143,6 @@
         },
         {
           "word": "정신건강",
-          "count": 1
-        },
-        {
-          "word": "주거",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -185,30 +177,18 @@
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12172392",
-          "title": "투자 지식의 복리효과 … 매경플러스 200% 활용법",
+          "id": "https://www.mk.co.kr/news/society/12172667",
+          "title": "“얼굴·몸매보다 통장 잔고?”…돌싱 남녀 상당수 “경제력 조건 보완 가능”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:00:00Z",
-          "publishedAt": "2026-10-10T05:00:00Z",
+          "dateRaw": "2026-10-10T10:02:51Z",
+          "publishedAt": "2026-10-10T10:02:51Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12172392",
+          "url": "https://www.mk.co.kr/news/society/12172667",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01790886645611608&mediaCodeNo=257",
-          "title": "3위에 가까워진 KIA…LG는 남은 경기 다 이겨도 불안",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:02:00Z",
-          "publishedAt": "2026-10-10T05:02:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01790886645611608&mediaCodeNo=257"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.wikitree.co.kr/articles/1164613",
@@ -283,12 +263,28 @@
           "publishedAt": "2026-10-10T21:46:00Z",
           "summary": "",
           "url": "https://pann.nate.com/talk/375663321"
+        },
+        {
+          "id": "http://www.koreatimes.com/article/20261010/1633310",
+          "title": "LA서 만나는 K-컬처의 모든 것…체험·소비형 공간 ‘LA:ON’ 개소 - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T19:31:00Z",
+          "publishedAt": "2026-10-10T19:31:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261010/1633310"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 3
+        },
+        {
+          "word": "소비",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -889,8 +885,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2355,
-    "feedBytes": 633819,
+    "fetchedItems": 2482,
+    "feedBytes": 659495,
     "rollingWindowHours": 72
   }
 }
