@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 05:54:07",
+  "updatedAt": "2026. 10. 10. 오후 06:11:26",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -207,6 +207,20 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224072",
+          "title": "'박스권' 증시에 지친 투자자들…'파킹형' ETF에 몰린다",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T08:43:00Z",
+          "publishedAt": "2026-10-10T08:43:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224072",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2633742",
           "title": "경기 청약시장 ‘입지 양극화’ 뚜렷⋯성남·과천·동탄 웃고 외곽은 미달",
           "source": "etoday.co.kr",
@@ -265,32 +279,16 @@
           "publishedAt": "2026-10-10T01:16:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2013274"
-        },
-        {
-          "id": "https://www.wikitree.co.kr/articles/1165081",
-          "title": "레저 지갑 피해, CZ “공급망 공격 가능성”…테더는 USDT 9,000만 달러 동결했다",
-          "source": "wikitree.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T21:47:00Z",
-          "publishedAt": "2026-10-09T21:47:00Z",
-          "summary": "",
-          "url": "https://www.wikitree.co.kr/articles/1165081"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
           "count": 2
-        },
-        {
-          "word": "공급망",
-          "count": 1
         },
         {
           "word": "소비",
@@ -479,6 +477,18 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
+          "id": "https://www.gdnonline.com:443/Details/1409223",
+          "title": "UAE: Sharjah Public Libraries bring community well-being into focus on World Mental Health Day",
+          "source": "gdnonline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T09:02:00Z",
+          "publishedAt": "2026-10-10T09:02:00Z",
+          "summary": "",
+          "url": "https://www.gdnonline.com:443/Details/1409223"
+        },
+        {
           "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=4",
           "title": "“It Had Tiny Leaves”: Some 46 Healthcare Workers Share The Cases They’ll Never Forget",
           "source": "boredpanda.com",
@@ -489,18 +499,6 @@
           "publishedAt": "2026-10-10T08:46:00Z",
           "summary": "",
           "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=4"
-        },
-        {
-          "id": "https://www.gdnonline.com:443/Details/1409223/Sharjah-Public-Libraries-bring-community-well-being-into-focus-on-World-Mental-Health-Day",
-          "title": "UAE: Sharjah Public Libraries bring community well-being into focus on World Mental Health Day",
-          "source": "gdnonline.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T08:16:00Z",
-          "publishedAt": "2026-10-10T08:16:00Z",
-          "summary": "",
-          "url": "https://www.gdnonline.com:443/Details/1409223/Sharjah-Public-Libraries-bring-community-well-being-into-focus-on-World-Mental-Health-Day"
         },
         {
           "id": "https://www.freepressjournal.in/lifestyle/world-mental-health-day-2026-how-small-daily-routines-can-support-your-mind-and-wellbeing",
@@ -899,8 +897,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4237,
-    "feedBytes": 1216081,
+    "fetchedItems": 4585,
+    "feedBytes": 1278767,
     "rollingWindowHours": 72
   }
 }

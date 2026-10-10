@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 05:54:00",
+  "updatedAt": "2026. 10. 10. 오후 06:11:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 538,
-    "deduped": 538,
-    "eventDeduped": 538,
+    "passed": 537,
+    "deduped": 537,
+    "eventDeduped": 537,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,16 +416,16 @@
       "url": "https://www.eyeonannapolis.net/2026/10/participate-in-solar-energy-investments-and-clean-energy-and-earn-700-a-day/"
     },
     {
-      "id": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-1-dcc-energy-plc/9816671",
-      "title": "Form 8.1 – DCC Energy plc | Company Announcement | Investegate",
-      "source": "investegate.co.uk",
+      "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
+      "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
+      "source": "suffolkcountyny.gov",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T18:17:00Z",
-      "publishedAt": "2026-10-09T18:17:00Z",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T06:02:00Z",
+      "publishedAt": "2026-10-10T06:02:00Z",
       "summary": "",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-1-dcc-energy-plc/9816671"
+      "url": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/fort-robotics/13237",
@@ -680,18 +680,6 @@
       "url": "https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb/"
     },
     {
-      "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
-      "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
-      "source": "suffolkcountyny.gov",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T06:02:00Z",
-      "publishedAt": "2026-10-10T06:02:00Z",
-      "summary": "",
-      "url": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
-    },
-    {
       "id": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development",
       "title": "South El Monte Puts 45 Day Moratorium on Data Center and Battery Facility Development - Streetsblog Los Angeles",
       "source": "la.streetsblog.org",
@@ -702,6 +690,18 @@
       "publishedAt": "2026-10-09T20:32:00Z",
       "summary": "",
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
+    },
+    {
+      "id": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry",
+      "title": "Iran seeks more electricity from Türkiye, Turkmenistan as war hits industry | News.az",
+      "source": "news.az",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T08:32:00Z",
+      "publishedAt": "2026-10-10T08:32:00Z",
+      "summary": "",
+      "url": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry"
     },
     {
       "id": "https://www.abc12.com/news/equipment-fire-at-manufacturing-company-contained-in-mayfield-township/article_e1c3547c-94e6-4a2d-ab85-6bd75e21966b.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4237,
-    "relevantItems": 53,
-    "feedBytes": 1216081,
+    "fetchedItems": 4585,
+    "relevantItems": 66,
+    "feedBytes": 1278767,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
