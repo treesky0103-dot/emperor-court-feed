@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 04:23:39",
+  "updatedAt": "2026. 10. 11. 오전 04:42:29",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -267,16 +267,16 @@
           "url": "https://newsway.co.kr/news/view?ud=2026100915564612067"
         },
         {
-          "id": "https://www.segye.com:443/newsView/20261010504533",
-          "title": "“캣우먼 같지만 편안해”…英 육상 스타의 파격 경기복 화제",
-          "source": "segye.com",
+          "id": "http://www.koreatimes.com/article/20261010/1633310",
+          "title": "LA서 만나는 K-컬처의 모든 것…체험·소비형 공간 ‘LA:ON’ 개소 - 미주 한국일보",
+          "source": "koreatimes.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T14:47:00Z",
-          "publishedAt": "2026-10-10T14:47:00Z",
+          "dateRaw": "2026-10-10T19:31:00Z",
+          "publishedAt": "2026-10-10T19:31:00Z",
           "summary": "",
-          "url": "https://www.segye.com:443/newsView/20261010504533"
+          "url": "http://www.koreatimes.com/article/20261010/1633310"
         }
       ],
       "keywords": [
@@ -287,6 +287,10 @@
         {
           "word": "금리",
           "count": 2
+        },
+        {
+          "word": "소비",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -741,6 +745,18 @@
     "technology": {
       "items": [
         {
+          "id": "https://digg.com/tech/n7xvznui",
+          "title": "Nvidia reportedly shifting GeForce RTX 5090 production toward data center GPUs · Digg",
+          "source": "digg.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T19:31:00Z",
+          "publishedAt": "2026-10-10T19:31:00Z",
+          "summary": "",
+          "url": "https://digg.com/tech/n7xvznui"
+        },
+        {
           "id": "https://vietnamnews.vn/economy/1801684/data-centre-market-faces-energy-challenges.html",
           "title": "Data centre market faces energy challenges",
           "source": "vietnamnews.vn",
@@ -751,18 +767,6 @@
           "publishedAt": "2026-10-10T06:31:00Z",
           "summary": "",
           "url": "https://vietnamnews.vn/economy/1801684/data-centre-market-faces-energy-challenges.html"
-        },
-        {
-          "id": "https://itbusinessnet.com/2026/10/synack-expands-access-to-ai-and-human-penetration-testing-across-cloud-and-public-sector-marketplaces/",
-          "title": "Synack Expands Access to AI and Human Penetration Testing Across Cloud and Public Sector Marketplaces – IT Business Net",
-          "source": "itbusinessnet.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:17:00Z",
-          "publishedAt": "2026-10-10T01:17:00Z",
-          "summary": "",
-          "url": "https://itbusinessnet.com/2026/10/synack-expands-access-to-ai-and-human-penetration-testing-across-cloud-and-public-sector-marketplaces/"
         },
         {
           "id": "https://www.kjzz.org/business/2026-10-10/data-analyst-says-aps-is-shifting-data-center-energy-costs-to-others-ag-calls-for-investigation",
@@ -864,11 +868,11 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 4
         },
         {
           "word": "데이터센터",
-          "count": 3
+          "count": 4
         },
         {
           "word": "전력",
@@ -876,7 +880,7 @@
         },
         {
           "word": "클라우드",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -887,8 +891,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3225,
-    "feedBytes": 925600,
+    "fetchedItems": 3178,
+    "feedBytes": 880827,
     "rollingWindowHours": 72
   }
 }
