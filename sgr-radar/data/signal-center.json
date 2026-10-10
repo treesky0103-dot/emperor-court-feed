@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:59:44",
+  "updatedAt": "2026. 10. 10. 오후 05:19:43",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,6 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.hani.co.kr/arti/society/society_general/1281745.html",
+          "title": "서울 대학서 지인 여성에 흉기 휘두르고 도주한 영국인 남성…현지 검거",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T08:16:00Z",
+          "publishedAt": "2026-10-10T08:16:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1281745.html"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257",
           "title": "\"전세금 못 받았는데 이자도 안 된다\" 세입자 울린 뜻밖의 조건[판례방]",
           "source": "edaily.co.kr",
@@ -32,18 +44,6 @@
           "publishedAt": "2026-10-10T05:02:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/hanihealth/medical/1280544.html",
-          "title": "“오래 사는 것 넘어 ‘존엄하게 사는 것’이 목표 돼야” [건강한겨레]",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:46:00Z",
-          "publishedAt": "2026-10-10T02:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1280544.html"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10883670",
@@ -133,7 +133,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "주거",
@@ -479,6 +479,18 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
+          "id": "https://www.gdnonline.com:443/Details/1409223/Sharjah-Public-Libraries-bring-community-well-being-into-focus-on-World-Mental-Health-Day",
+          "title": "UAE: Sharjah Public Libraries bring community well-being into focus on World Mental Health Day",
+          "source": "gdnonline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T08:16:00Z",
+          "publishedAt": "2026-10-10T08:16:00Z",
+          "summary": "",
+          "url": "https://www.gdnonline.com:443/Details/1409223/Sharjah-Public-Libraries-bring-community-well-being-into-focus-on-World-Mental-Health-Day"
+        },
+        {
           "id": "https://www.freepressjournal.in/lifestyle/world-mental-health-day-2026-how-small-daily-routines-can-support-your-mind-and-wellbeing",
           "title": "World Mental Health Day 2026: How Small Daily Routines Can Support Your Mind And Wellbeing",
           "source": "freepressjournal.in",
@@ -561,32 +573,20 @@
           "publishedAt": "2026-10-09T19:47:00Z",
           "summary": "",
           "url": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis"
-        },
-        {
-          "id": "https://londonlovesbusiness.com/modernise-or-rebuild-what-to-do-with-an-ageing-healthcare-app/",
-          "title": "Modernise or rebuild? What to do with an ageing healthcare app - London Business News | Londonlovesbusiness.com",
-          "source": "londonlovesbusiness.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T19:32:00Z",
-          "publishedAt": "2026-10-09T19:32:00Z",
-          "summary": "",
-          "url": "https://londonlovesbusiness.com/modernise-or-rebuild-what-to-do-with-an-ageing-healthcare-app/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 5
-        },
-        {
-          "word": "고령화",
-          "count": 2
+          "count": 6
         },
         {
           "word": "청년",
           "count": 2
+        },
+        {
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "이민",
@@ -895,8 +895,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2110,
-    "feedBytes": 604176,
+    "fetchedItems": 4223,
+    "feedBytes": 1168753,
     "rollingWindowHours": 72
   }
 }
