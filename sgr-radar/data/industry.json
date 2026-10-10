@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 07:11:01",
+  "updatedAt": "2026. 10. 10. 오후 07:34:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 529,
-    "deduped": 529,
-    "eventDeduped": 529,
+    "passed": 524,
+    "deduped": 524,
+    "eventDeduped": 524,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -404,18 +404,6 @@
       "url": "https://www.1049thewolf.com/2026/10/09/greater-peoria-launches-effort-to-strengthen-regions-manufacturing-workforce/"
     },
     {
-      "id": "https://www.eyeonannapolis.net/2026/10/participate-in-solar-energy-investments-and-clean-energy-and-earn-700-a-day/",
-      "title": "Participate in Solar Energy Investments and Clean Energy, and Earn $700 a Day",
-      "source": "eyeonannapolis.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T19:17:00Z",
-      "publishedAt": "2026-10-09T19:17:00Z",
-      "summary": "",
-      "url": "https://www.eyeonannapolis.net/2026/10/participate-in-solar-energy-investments-and-clean-energy-and-earn-700-a-day/"
-    },
-    {
       "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
       "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
       "source": "suffolkcountyny.gov",
@@ -450,6 +438,18 @@
       "publishedAt": "2026-10-10T01:01:00Z",
       "summary": "",
       "url": "https://peakoil.com/consumption/dte-hints-at-new-data-center-development-stirs-fight-on-energy-sources"
+    },
+    {
+      "id": "https://wrp.org.uk/editorials/uk-bosses-fear-winter-energy-crisis-time-to-renationalise-energy-industry/",
+      "title": "UK Bosses Fear Winter Energy Crisis. Time To Renationalise Energy Industry! - Workers Revolutionary Party",
+      "source": "wrp.org.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T10:02:00Z",
+      "publishedAt": "2026-10-10T10:02:00Z",
+      "summary": "",
+      "url": "https://wrp.org.uk/editorials/uk-bosses-fear-winter-energy-crisis-time-to-renationalise-energy-industry/"
     },
     {
       "id": "https://www.motorward.com/2020/12/latest-technologies-in-car-manufacturing/",
@@ -668,16 +668,16 @@
       "url": "https://la.streetsblog.org/2026/10/08/south-el-monte-puts-45-day-moratorium-on-data-center-and-battery-facility-development"
     },
     {
-      "id": "https://wrp.org.uk/editorials/uk-bosses-fear-winter-energy-crisis-time-to-renationalise-energy-industry/",
-      "title": "UK Bosses Fear Winter Energy Crisis. Time To Renationalise Energy Industry! - Workers Revolutionary Party",
-      "source": "wrp.org.uk",
+      "id": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry",
+      "title": "Iran seeks more electricity from Türkiye, Turkmenistan as war hits industry | News.az",
+      "source": "news.az",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T10:02:00Z",
-      "publishedAt": "2026-10-10T10:02:00Z",
+      "dateRaw": "2026-10-10T08:32:00Z",
+      "publishedAt": "2026-10-10T08:32:00Z",
       "summary": "",
-      "url": "https://wrp.org.uk/editorials/uk-bosses-fear-winter-energy-crisis-time-to-renationalise-energy-industry/"
+      "url": "https://news.az/news/iran-seeks-more-electricity-from-turkiye-turkmenistan-as-war-hits-industry"
     },
     {
       "id": "https://www.observertoday.com/news/local-region/2026/10/manufacturing-month-underway-in-region/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3852,
-    "relevantItems": 89,
-    "feedBytes": 1082775,
+    "fetchedItems": 2315,
+    "relevantItems": 41,
+    "feedBytes": 669350,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

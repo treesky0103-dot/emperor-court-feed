@@ -1,23 +1,23 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 07:11:11",
+  "updatedAt": "2026. 10. 10. 오후 07:34:34",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12172683",
-          "title": "“20대 여성 찌르고 곧장 출국”…‘서울 대학 흉기 난동’ 외국인 9일만에 검거",
+          "id": "https://www.mk.co.kr/news/society/12172747",
+          "title": "‘암살자들’ 역사 왜곡 논란 속…전국 17개 학교 단체관람 추진",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T11:27:37Z",
-          "publishedAt": "2026-10-10T11:27:37Z",
+          "dateRaw": "2026-10-10T19:19:11Z",
+          "publishedAt": "2026-10-10T19:19:11Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12172683",
+          "url": "https://www.mk.co.kr/news/society/12172747",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -893,8 +893,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3852,
-    "feedBytes": 1082775,
+    "fetchedItems": 2315,
+    "feedBytes": 669350,
     "rollingWindowHours": 72
   }
 }
