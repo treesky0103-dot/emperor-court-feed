@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 08:27:16",
+  "updatedAt": "2026. 10. 11. 오전 08:43:31",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.hani.co.kr/arti/economy/biznews/1281719.html",
+          "title": "사이버한국외국어대학교, 대구광역시교육청과 산업체 위탁교육 협약 체결",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:31:00Z",
+          "publishedAt": "2026-10-10T23:31:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1281719.html"
+        },
         {
           "id": "https://biz.heraldcorp.com/article/10898363",
           "title": "강남구, 정신건강 증진 유공 보건복지부장관 표창 수상",
@@ -32,18 +44,6 @@
           "url": "https://www.mk.co.kr/news/society/12172747",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/biznews/1281720.html",
-          "title": "“모유 속 과분화화합물, 아기 몸에는 얼마나 쌓일까”경희대 간호과학대학 김주희 교수 연구팀 연구 성과 발표",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T16:02:00Z",
-          "publishedAt": "2026-10-10T16:02:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/biznews/1281720.html"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01879446645611608&mediaCodeNo=257",
@@ -135,7 +135,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 9
         },
         {
           "word": "복지",
@@ -160,6 +160,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://biz.chosun.com/topics/topics_social/2026/10/11/GBE22PCKZ5DTPHDZF5VBOW6MY4/",
+          "title": "[인터뷰] “충북을 제2의 판교로”… 신용한 지사 “100조 투자 유치 넘어 창업특별도 추진”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:31:00Z",
+          "publishedAt": "2026-10-10T23:31:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/11/GBE22PCKZ5DTPHDZF5VBOW6MY4/"
+        },
         {
           "id": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html",
           "title": "경제 정책 ‘잘못한다’ 47% ‘잘한다’ 35%…부정론 첫 역전 [갤럽]",
@@ -271,28 +283,12 @@
           "publishedAt": "2026-10-10T21:46:00Z",
           "summary": "",
           "url": "https://pann.nate.com/talk/375663321"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261010/1633310",
-          "title": "LA서 만나는 K-컬처의 모든 것…체험·소비형 공간 ‘LA:ON’ 개소 - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T19:31:00Z",
-          "publishedAt": "2026-10-10T19:31:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261010/1633310"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 3
-        },
-        {
-          "word": "소비",
-          "count": 1
+          "count": 4
         }
       ],
       "displayed": 10,
@@ -314,6 +310,18 @@
           "url": "https://www.mk.co.kr/news/economy/12172825",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://biz.chosun.com/topics/topics_social/2026/10/11/SU4ILBAWUFABLNDMEYGRCN3DAY/",
+          "title": "[인터뷰] 추경호 “電·水·人 갖춘 TK, 반도체 산업 최적지… 공정 경쟁 기회 보장해야”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:31:00Z",
+          "publishedAt": "2026-10-10T23:31:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/11/SU4ILBAWUFABLNDMEYGRCN3DAY/"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261010213456",
@@ -342,6 +350,30 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1281572.html"
         },
         {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026101018045660798",
+          "title": "분기 영업익 107조 새 역사 쓴 삼성… 최태원 SK회장은 '팹 병행 건설' 속도전 [위클리반도체]",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:32:00Z",
+          "publishedAt": "2026-10-10T23:32:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026101018045660798"
+        },
+        {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026100813322118547",
+          "title": "9월 코스닥 수익률 꼴찌 '제약·바이오주'···4분기 반전 이룰까 - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:31:00Z",
+          "publishedAt": "2026-10-10T23:31:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100813322118547"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153",
           "title": "\"AI 인류 장악 확률 33%\"... 이조차 낙관적이라는 연구원의 증언",
           "source": "ohmynews.com",
@@ -352,18 +384,6 @@
           "publishedAt": "2026-10-10T13:46:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153"
-        },
-        {
-          "id": "https://biz.chosun.com/topics/topics_social/2026/10/10/NXHM3XQARZDWFF6G4NNVBWHTAY/",
-          "title": "청주공항 제주항공 기내서 보조배터리 불…승객 전원 대피",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T13:32:00Z",
-          "publishedAt": "2026-10-10T13:32:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/10/NXHM3XQARZDWFF6G4NNVBWHTAY/"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2634235",
@@ -400,43 +420,19 @@
           "publishedAt": "2026-10-10T06:01:00Z",
           "summary": "",
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1316179"
-        },
-        {
-          "id": "http://www.ecomedia.co.kr/news/newsview.php?ncode=1065594999482695",
-          "title": "남광우 환경산업기술원장, 기후에너지환경연구기관장협의회 회장 선임",
-          "source": "ecomedia.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T20:02:00Z",
-          "publishedAt": "2026-10-10T20:02:00Z",
-          "summary": "",
-          "url": "http://www.ecomedia.co.kr/news/newsview.php?ncode=1065594999482695"
-        },
-        {
-          "id": "https://www.busan.com/view/busan/view.php?code=2026101100340437446",
-          "title": "[부고] 임태섭(기후에너지환경부 대변인실 정책홍보팀장)씨 부친상",
-          "source": "busan.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T18:17:00Z",
-          "publishedAt": "2026-10-10T18:17:00Z",
-          "summary": "",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026101100340437446"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 6
+          "count": 8
         },
         {
           "word": "AI",
           "count": 1
         },
         {
-          "word": "배터리",
+          "word": "바이오",
           "count": 1
         },
         {
@@ -893,8 +889,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2564,
-    "feedBytes": 706624,
+    "fetchedItems": 2355,
+    "feedBytes": 633819,
     "rollingWindowHours": 72
   }
 }
