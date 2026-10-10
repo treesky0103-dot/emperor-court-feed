@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 09:22:26",
+  "updatedAt": "2026. 10. 10. 오후 09:49:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 540,
-    "deduped": 540,
-    "eventDeduped": 540,
+    "passed": 541,
+    "deduped": 541,
+    "eventDeduped": 541,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,18 +524,6 @@
       "url": "https://www.tnp.no/norway/economy/2570-biotechnologys-future-in-chile-and-norway/"
     },
     {
-      "id": "https://english.pravda.ru/news/world/169848-australia-nem-midday-price-inversion-batteries/",
-      "title": "Grid battery saturation in Australia's NEM drives midday spot prices up to $25-30/MWh",
-      "source": "english.pravda.ru",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T20:32:00Z",
-      "publishedAt": "2026-10-09T20:32:00Z",
-      "summary": "",
-      "url": "https://english.pravda.ru/news/world/169848-australia-nem-midday-price-inversion-batteries/"
-    },
-    {
       "id": "https://www.thenews.com.pk/latest/1419399-amazon-ceo-points-to-netflix-as-data-centre-backlash-grows",
       "title": "Amazon CEO points to Netflix as data centre backlash grows",
       "source": "thenews.com.pk",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-10T00:46:00Z",
       "summary": "",
       "url": "https://zdnet.co.kr/view/?no=20261010070839"
+    },
+    {
+      "id": "https://biz.chosun.com/industry/business-venture/2026/10/10/DETBRXPWCBFWJIPUTTNZ36UTVU/",
+      "title": "[스타트UP] “AI가 판단하는 현장 만든다”…와이매틱스 폐쇄망 AI 추론 시장 공략",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T00:02:00Z",
+      "publishedAt": "2026-10-10T00:02:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/industry/business-venture/2026/10/10/DETBRXPWCBFWJIPUTTNZ36UTVU/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3954,
-    "relevantItems": 82,
-    "feedBytes": 1113868,
+    "fetchedItems": 934,
+    "relevantItems": 30,
+    "feedBytes": 260342,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
