@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 02:34:50",
+  "updatedAt": "2026. 10. 10. 오후 02:52:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -58,6 +58,18 @@
           "url": "https://biz.heraldcorp.com/article/10883670"
         },
         {
+          "id": "https://www.munhwa.com:443/article/11622485",
+          "title": "서울 대학서 여성 목 찌르고 영국 도주한 30대…9일 만에 현지서 검거",
+          "source": "munhwa.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T05:46:00Z",
+          "publishedAt": "2026-10-10T05:46:00Z",
+          "summary": "",
+          "url": "https://www.munhwa.com:443/article/11622485"
+        },
+        {
           "id": "https://www.diodeo.com/news/view/4190036",
           "title": "‘오! 주인님’ 이민기, 스토커에 납치된 나나 구출…숨멎 포옹 엔딩",
           "source": "diodeo.com",
@@ -94,18 +106,6 @@
           "url": "https://www.wikitree.co.kr/articles/1164356"
         },
         {
-          "id": "https://www.munhwa.com:443/article/11622454",
-          "title": "‘국민 돈’ 사회복지재단 후원금 5억 빼돌려도…집행유예 선고받은 대표이사",
-          "source": "munhwa.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T02:16:00Z",
-          "publishedAt": "2026-10-10T02:16:00Z",
-          "summary": "",
-          "url": "https://www.munhwa.com:443/article/11622454"
-        },
-        {
           "id": "https://newsway.co.kr/news/view?ud=2026100916492967029",
           "title": "철길 따라 집값도 달렸다···신설역 들어서자 거래·가격 '들썩' - 뉴스웨이",
           "source": "newsway.co.kr",
@@ -132,16 +132,12 @@
       ],
       "keywords": [
         {
-          "word": "주거",
+          "word": "교육",
           "count": 4
         },
         {
-          "word": "교육",
-          "count": 3
-        },
-        {
-          "word": "복지",
-          "count": 1
+          "word": "주거",
+          "count": 4
         },
         {
           "word": "이민",
@@ -223,16 +219,16 @@
           "url": "http://www.koreatimes.com/article/20261009/1633217"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10898095",
-          "title": "“나도 대출이자 깎아볼까” 1.3억 빌렸는데 ‘금리인하’ 요구로 연 900만원 아꼈다 [머니뭐니]",
+          "id": "https://biz.heraldcorp.com/article/10897481",
+          "title": "“SK하이닉스는 믿는다” 역대급 실적에도 주가 ‘털썩’…SK하이닉스는 웃을까? [투자360]",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:02:00Z",
-          "publishedAt": "2026-10-10T05:02:00Z",
+          "dateRaw": "2026-10-10T05:46:00Z",
+          "publishedAt": "2026-10-10T05:46:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10898095"
+          "url": "https://biz.heraldcorp.com/article/10897481"
         },
         {
           "id": "https://www.fnnews.com/news/202610101200564878",
@@ -285,12 +281,12 @@
       ],
       "keywords": [
         {
-          "word": "금리",
-          "count": 3
+          "word": "투자",
+          "count": 4
         },
         {
-          "word": "투자",
-          "count": 3
+          "word": "금리",
+          "count": 2
         },
         {
           "word": "고용",
@@ -907,8 +903,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 1882,
-    "feedBytes": 518679,
+    "fetchedItems": 3433,
+    "feedBytes": 957291,
     "rollingWindowHours": 72
   }
 }
