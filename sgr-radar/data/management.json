@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:03:26",
+  "updatedAt": "2026. 10. 10. 오후 04:25:22",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 40,
-    "deduped": 40,
-    "eventDeduped": 40,
+    "passed": 39,
+    "deduped": 39,
+    "eventDeduped": 39,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -606,27 +606,15 @@
       "publishedAt": "2026-10-09T17:46:00Z",
       "summary": "",
       "url": "https://www.theverge.com/streaming/1008911/netflix-is-reportedly-planning-layoffs-soon"
-    },
-    {
-      "id": "https://legalinsurrection.com/2026/10/stockton-university-unions-trying-to-avoid-layoffs-despite-schools-25-million-deficit/",
-      "title": "Stockton University Unions Trying to Avoid Layoffs Despite School's $25 Million Deficit",
-      "source": "legalinsurrection.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T17:17:00Z",
-      "publishedAt": "2026-10-09T17:17:00Z",
-      "summary": "",
-      "url": "https://legalinsurrection.com/2026/10/stockton-university-unions-trying-to-avoid-layoffs-despite-schools-25-million-deficit/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4343,
-    "relevantItems": 40,
-    "feedBytes": 1202745,
+    "fetchedItems": 3949,
+    "relevantItems": 30,
+    "feedBytes": 1084075,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

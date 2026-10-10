@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 04:03:34",
+  "updatedAt": "2026. 10. 10. 오후 04:25:27",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -479,6 +479,18 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
+          "id": "https://www.koreatimes.co.kr/business/companies/20261010/fast-food-fulfills-dreams-in-aging-society",
+          "title": "[INTERVIEW] Fast food fulfills dreams in aging society - The Korea Times",
+          "source": "koreatimes.co.kr",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T07:16:00Z",
+          "publishedAt": "2026-10-10T07:16:00Z",
+          "summary": "",
+          "url": "https://www.koreatimes.co.kr/business/companies/20261010/fast-food-fulfills-dreams-in-aging-society"
+        },
+        {
           "id": "https://www.businesstimes.com.sg/authors/nic-lee",
           "title": "Nic Lee - The writer is chief executive officer of the Singapore Association for Mental Health, a social service agency devoted to supporting people with mental health conditions and promoting mental wellness",
           "source": "businesstimes.com.sg",
@@ -561,18 +573,6 @@
           "publishedAt": "2026-10-09T19:17:00Z",
           "summary": "",
           "url": "https://www.bbc.co.uk/news/articles/c620r33rdj14o"
-        },
-        {
-          "id": "https://bakersfieldnow.com/news/local/immigration-enforcement-report-sparks-clash-between-villegas-and-valadao-in-ca-22-race",
-          "title": "Immigration enforcement report sparks clash between Villegas and Valadao in CA-22 race",
-          "source": "bakersfieldnow.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T06:31:00Z",
-          "publishedAt": "2026-10-10T06:31:00Z",
-          "summary": "",
-          "url": "https://bakersfieldnow.com/news/local/immigration-enforcement-report-sparks-clash-between-villegas-and-valadao-in-ca-22-race"
         }
       ],
       "keywords": [
@@ -581,7 +581,7 @@
           "count": 4
         },
         {
-          "word": "이민",
+          "word": "고령화",
           "count": 2
         },
         {
@@ -589,7 +589,7 @@
           "count": 2
         },
         {
-          "word": "고령화",
+          "word": "이민",
           "count": 1
         }
       ],
@@ -895,8 +895,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4343,
-    "feedBytes": 1202745,
+    "fetchedItems": 3949,
+    "feedBytes": 1084075,
     "rollingWindowHours": 72
   }
 }
