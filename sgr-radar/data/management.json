@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 11:36:05",
+  "updatedAt": "2026. 10. 10. 오후 11:51:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 42,
-    "deduped": 42,
-    "eventDeduped": 42,
+    "passed": 41,
+    "deduped": 41,
+    "eventDeduped": 41,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -90,18 +90,6 @@
       "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
     },
     {
-      "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
-      "title": "Senao Networks Launches x86 Enterprise Server Series for Enterprise AI",
-      "source": "australiannews.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:47:00Z",
-      "publishedAt": "2026-10-09T21:47:00Z",
-      "summary": "",
-      "url": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai"
-    },
-    {
       "id": "https://www.ganderbeacon.ca/could-canada-nationalize-stelco-ottawa-urged-to-consider-government-ownership-amid-hamilton-steel-layoffs/",
       "title": "Could Canada Nationalize Stelco? Ottawa Urged to Consider Government Ownership Amid Hamilton Steel Layoffs",
       "source": "ganderbeacon.ca",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-10T11:47:00Z",
       "summary": "",
       "url": "https://everything-pr.com/walgreens-pr-strategy"
+    },
+    {
+      "id": "https://ianslive.in/eight-in-ten-financial-planners-expect-ai-adoption-within-a-year--20261010164137",
+      "title": "Eight in ten financial planners expect AI adoption within a year",
+      "source": "ianslive.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T11:31:00Z",
+      "publishedAt": "2026-10-10T11:31:00Z",
+      "summary": "",
+      "url": "https://ianslive.in/eight-in-ten-financial-planners-expect-ai-adoption-within-a-year--20261010164137"
     }
   ],
   "trendItems": [
@@ -222,18 +222,6 @@
       "publishedAt": "2026-10-10T02:31:00Z",
       "summary": "",
       "url": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377"
-    },
-    {
-      "id": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai",
-      "title": "Senao Networks Launches x86 Enterprise Server Series for Enterprise AI",
-      "source": "australiannews.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T21:47:00Z",
-      "publishedAt": "2026-10-09T21:47:00Z",
-      "summary": "",
-      "url": "http://www.australiannews.net/news/279362538/senao-networks-launches-x86-enterprise-server-series-for-enterprise-ai"
     },
     {
       "id": "https://www.ganderbeacon.ca/could-canada-nationalize-stelco-ottawa-urged-to-consider-government-ownership-amid-hamilton-steel-layoffs/",
@@ -648,9 +636,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1127,
-    "relevantItems": 19,
-    "feedBytes": 321774,
+    "fetchedItems": 4130,
+    "relevantItems": 69,
+    "feedBytes": 1181722,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
