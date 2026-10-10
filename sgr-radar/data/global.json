@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 06:52:18",
+  "updatedAt": "2026. 10. 10. 오후 08:12:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 196,
-    "deduped": 196,
-    "eventDeduped": 196,
+    "passed": 197,
+    "deduped": 197,
+    "eventDeduped": 197,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.wikitree.co.kr/articles/1165081"
     },
     {
+      "id": "https://vietnamnews.vn/politics-laws/1801695/asean-china-to-develop-e-court-and-ai-in-judicial-adjudication-for-future-prospects.html",
+      "title": "ASEAN, China to develop e-court and AI in judicial adjudication for future prospects",
+      "source": "vietnamnews.vn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T11:01:00Z",
+      "publishedAt": "2026-10-10T11:01:00Z",
+      "summary": "",
+      "url": "https://vietnamnews.vn/politics-laws/1801695/asean-china-to-develop-e-court-and-ai-in-judicial-adjudication-for-future-prospects.html"
+    },
+    {
       "id": "https://www.siliconindia.com/news/general/indias-mica-industry-seeks-critical-mineral-status-to-counter-chinas-market-dominance-nid-242632-cid-1.html",
       "title": "India's Mica Industry Seeks Critical Mineral Status to Counter China's Market Dominance",
       "source": "siliconindia.com",
@@ -414,18 +426,6 @@
       "publishedAt": "2026-10-10T08:47:00Z",
       "summary": "",
       "url": "https://www.techgoondu.com/2026/10/10/uob-aws-parter-to-develop-pioneering-hybrid-ai-infrastructure-across-asean/"
-    },
-    {
-      "id": "https://www.adgully.com/post/22067/turtle-wax-appoints-ashutosh-saxena-as-md-for-india-and-asean",
-      "title": "Turtle Wax appoints Ashutosh Saxena as MD for India and ASEAN",
-      "source": "adgully.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T08:16:00Z",
-      "publishedAt": "2026-10-10T08:16:00Z",
-      "summary": "",
-      "url": "https://www.adgully.com/post/22067/turtle-wax-appoints-ashutosh-saxena-as-md-for-india-and-asean"
     },
     {
       "id": "https://en.apa.az/america/witkoff-ukraines-energy-security-and-post-war-recovery-discussed-in-miami-529240",
@@ -716,16 +716,16 @@
       "url": "https://biz.heraldcorp.com/article/10898095"
     },
     {
-      "id": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/",
-      "title": "People-centered energy urged amid ASEAN Energy Forum",
-      "source": "bulatlat.com",
+      "id": "https://www.adgully.com/post/22067/turtle-wax-appoints-ashutosh-saxena-as-md-for-india-and-asean",
+      "title": "Turtle Wax appoints Ashutosh Saxena as MD for India and ASEAN",
+      "source": "adgully.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T05:31:00Z",
-      "publishedAt": "2026-10-10T05:31:00Z",
+      "dateRaw": "2026-10-10T08:16:00Z",
+      "publishedAt": "2026-10-10T08:16:00Z",
       "summary": "",
-      "url": "https://www.bulatlat.com/2026/10/10/people-centered-energy-urged-amid-asean-energy-forum/"
+      "url": "https://www.adgully.com/post/22067/turtle-wax-appoints-ashutosh-saxena-as-md-for-india-and-asean"
     },
     {
       "id": "https://timesofindia.indiatimes.com/business/india-business/government-to-announce-a-policy-on-stockpiling-of-critical-minerals/articleshow/134850751.cms",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4007,
-    "relevantItems": 78,
-    "feedBytes": 1130627,
+    "fetchedItems": 3887,
+    "relevantItems": 83,
+    "feedBytes": 1087594,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
