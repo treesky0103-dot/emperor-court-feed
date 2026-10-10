@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 11:01:43",
+  "updatedAt": "2026. 10. 10. 오전 11:26:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/economy/12172672",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01813846645611608&mediaCodeNo=257",
+          "title": "유해진·이민호 못 온 부산… 박해일, ‘암살자(들)’ 논란 속 관객 만났다",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:16:00Z",
+          "publishedAt": "2026-10-10T02:16:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01813846645611608&mediaCodeNo=257"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10883670",
@@ -46,6 +58,18 @@
           "url": "https://www.etnews.com/20261010000005",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.munhwa.com:443/article/11622454",
+          "title": "‘국민 돈’ 사회복지재단 후원금 5억 빼돌려도…집행유예 선고받은 대표이사",
+          "source": "munhwa.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:16:00Z",
+          "publishedAt": "2026-10-10T02:16:00Z",
+          "summary": "",
+          "url": "https://www.munhwa.com:443/article/11622454"
         },
         {
           "id": "https://newsway.co.kr/news/view?ud=2026100916492967029",
@@ -106,32 +130,6 @@
           "publishedAt": "2026-10-09T18:17:00Z",
           "summary": "",
           "url": "https://h21.hani.co.kr/arti/society/society_general/59844.html"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261009/1633235",
-          "title": "에스더하재단, 정신건강 응급처치 무료교육 세미나 - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T17:17:00Z",
-          "publishedAt": "2026-10-09T17:17:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261009/1633235"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223985",
-          "title": "경기 광주서 만취 운전자가 오토바이 들이받아…1명 심정지",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T00:07:00Z",
-          "publishedAt": "2026-10-10T00:07:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223985",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
@@ -140,15 +138,19 @@
           "count": 5
         },
         {
-          "word": "교육",
-          "count": 2
-        },
-        {
           "word": "청년",
           "count": 2
         },
         {
-          "word": "정신건강",
+          "word": "교육",
+          "count": 1
+        },
+        {
+          "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "이민",
           "count": 1
         }
       ],
@@ -183,6 +185,18 @@
           "url": "https://www.mk.co.kr/news/economy/12172392",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01525206645611608&mediaCodeNo=257",
+          "title": "금리 두 번 올린 신현송…첫 국감서 쟁점은[한은 미리보기]",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:16:00Z",
+          "publishedAt": "2026-10-10T02:16:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01525206645611608&mediaCodeNo=257"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261010051013",
@@ -271,18 +285,6 @@
           "publishedAt": "2026-10-09T21:47:00Z",
           "summary": "",
           "url": "https://www.wikitree.co.kr/articles/1165081"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2633945",
-          "title": "[금상소] 은행 안 가고 부동산 담보대출 받는다…금리도 저렴할까",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T20:32:00Z",
-          "publishedAt": "2026-10-09T20:32:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2633945"
         }
       ],
       "keywords": [
@@ -499,6 +501,18 @@
           "url": "https://www.newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html"
         },
         {
+          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=6",
+          "title": "“It Had Tiny Leaves”: Some 46 Healthcare Workers Share The Cases They’ll Never Forget",
+          "source": "boredpanda.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:16:00Z",
+          "publishedAt": "2026-10-10T02:16:00Z",
+          "summary": "",
+          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162742&_f=homepage_featured&cexp_var=6"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/kerala/world-mental-health-day-stigma-and-lack-of-awareness-on-mental-health-disorders-create-treatment-gap-in-keralam/article71563885.ece",
           "title": "World Mental Health Day: Stigma and lack of awareness on mental health disorders create treatment gap in Keralam",
           "source": "thehindu.com",
@@ -509,18 +523,6 @@
           "publishedAt": "2026-10-10T01:47:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/news/national/kerala/world-mental-health-day-stigma-and-lack-of-awareness-on-mental-health-disorders-create-treatment-gap-in-keralam/article71563885.ece"
-        },
-        {
-          "id": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=11",
-          "title": "Healthcare Workers See Insane Things Every Day, But Here Are The Craziest Ones (46 Stories)",
-          "source": "boredpanda.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T01:01:00Z",
-          "publishedAt": "2026-10-10T01:01:00Z",
-          "summary": "",
-          "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=11"
         },
         {
           "id": "https://www.channel4.com/news/we-cant-simply-ignore-this-anymore-labour-mp-on-youth-mental-health-crisis",
@@ -583,26 +585,22 @@
           "url": "https://timesofindia.indiatimes.com/world/us/at-13-a-nigerian-immigrant-in-rhode-island-became-temporarily-homeless-years-later-he-is-a-neuro-icu-nurse-at-the-same-states-largest-hospital-and-now-mentors-future-healthcare-workers/articleshow/134837648.cms"
         },
         {
-          "id": "https://www.wuwf.org/florida-news/2026-10-09/ill-never-apologize-florida-will-cover-school-funding-hit-by-immigration-push-collins-says",
-          "title": "'I'll never apologize': Florida will cover school funding hit by immigration push, Collins says",
-          "source": "wuwf.org",
+          "id": "https://katu.com/news/project-education/school-closures-what-research-shows-about-the-impact-on-students-portland-pps-salem-keizer-students-parents-learning-grades-change-declinepsychology-education",
+          "title": "School closures: What research shows about the impact on students",
+          "source": "katu.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T14:47:00Z",
-          "publishedAt": "2026-10-09T14:47:00Z",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:16:00Z",
+          "publishedAt": "2026-10-10T02:16:00Z",
           "summary": "",
-          "url": "https://www.wuwf.org/florida-news/2026-10-09/ill-never-apologize-florida-will-cover-school-funding-hit-by-immigration-push-collins-says"
+          "url": "https://katu.com/news/project-education/school-closures-what-research-shows-about-the-impact-on-students-portland-pps-salem-keizer-students-parents-learning-grades-change-declinepsychology-education"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
           "count": 4
-        },
-        {
-          "word": "이민",
-          "count": 2
         },
         {
           "word": "청년",
@@ -615,6 +613,10 @@
         {
           "word": "교육",
           "count": 1
+        },
+        {
+          "word": "이민",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -623,6 +625,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://aninews.in/news/business/nirmala-sitharaman-meets-singapore-president-pm-to-discuss-economic-ties-and-investment-opportunities20261009204729/",
+          "title": "Nirmala Sitharaman meets Singapore President, PM to discuss economic ties and investment opportunities",
+          "source": "aninews.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T02:16:00Z",
+          "publishedAt": "2026-10-10T02:16:00Z",
+          "summary": "",
+          "url": "https://aninews.in/news/business/nirmala-sitharaman-meets-singapore-president-pm-to-discuss-economic-ties-and-investment-opportunities20261009204729/"
+        },
         {
           "id": "https://www.investmentwatchblog.com/america-is-running-a-nearly-2-trillion-deficit-in-good-times-how-much-worse-could-the-debt-nightmare-get-when-the-economy-turns/",
           "title": "America is running a nearly $2 trillion deficit in good times. How much worse could the debt nightmare get when the economy turns? - Investment Watch Blog",
@@ -694,18 +708,6 @@
           "publishedAt": "2026-10-09T21:02:00Z",
           "summary": "",
           "url": "https://www.graphic.com.gh/news/general-news/ghana-news-new-economy-targets-productive-investments-to-drive-transformation.html"
-        },
-        {
-          "id": "http://www.myanmarnews.net/news/279362360/nirmala-sitharaman-meets-singapore-president-pm-to-discuss-economic-ties-and-investment-opportunities",
-          "title": "Nirmala Sitharaman meets Singapore President, PM to discuss economic ties and investment opportunities",
-          "source": "myanmarnews.net",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-09",
-          "dateRaw": "2026-10-09T19:17:00Z",
-          "publishedAt": "2026-10-09T19:17:00Z",
-          "summary": "",
-          "url": "http://www.myanmarnews.net/news/279362360/nirmala-sitharaman-meets-singapore-president-pm-to-discuss-economic-ties-and-investment-opportunities"
         },
         {
           "id": "https://en.antaranews.com/news/434858/indonesia-seeks-health-investment-to-support-8-percent-growth-target",
@@ -931,8 +933,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2686,
-    "feedBytes": 719292,
+    "fetchedItems": 2830,
+    "feedBytes": 735059,
     "rollingWindowHours": 72
   }
 }

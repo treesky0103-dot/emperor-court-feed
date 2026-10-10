@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오전 11:01:35",
+  "updatedAt": "2026. 10. 10. 오전 11:26:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 32,
-    "deduped": 32,
-    "eventDeduped": 32,
+    "passed": 33,
+    "deduped": 33,
+    "eventDeduped": 33,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,6 +416,18 @@
       "url": "https://www.rttnews.com/3697934/netflix-reportedly-plans-to-lay-off-5-of-its-workforce.aspx"
     },
     {
+      "id": "https://www.jdjournal.com/2026/10/09/judge-dismisses-us-worker-lawsuit-ai-filing/",
+      "title": "Judge Throws Out US Worker’s Lawsuit Over AI Evidence",
+      "source": "jdjournal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T02:16:00Z",
+      "publishedAt": "2026-10-10T02:16:00Z",
+      "summary": "",
+      "url": "https://www.jdjournal.com/2026/10/09/judge-dismisses-us-worker-lawsuit-ai-filing/"
+    },
+    {
       "id": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html",
       "title": "Becoming a female tradie in midlife is the ultimate AI-proof job",
       "source": "dailymail.com",
@@ -528,9 +540,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2686,
-    "relevantItems": 40,
-    "feedBytes": 719292,
+    "fetchedItems": 2830,
+    "relevantItems": 50,
+    "feedBytes": 735059,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
