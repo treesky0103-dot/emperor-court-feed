@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 04:58:26",
+  "updatedAt": "2026. 10. 11. 오전 05:16:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 45,
-    "deduped": 45,
-    "eventDeduped": 45,
+    "passed": 44,
+    "deduped": 44,
+    "eventDeduped": 44,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -90,16 +90,16 @@
       "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
     },
     {
-      "id": "http://www.vietnamtribune.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
+      "id": "http://www.floridastatesman.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
       "title": "US jobless claims fall to 197,000 as layoffs remain low",
-      "source": "vietnamtribune.com",
+      "source": "floridastatesman.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T19:46:00Z",
-      "publishedAt": "2026-10-10T19:46:00Z",
+      "dateRaw": "2026-10-10T20:01:00Z",
+      "publishedAt": "2026-10-10T20:01:00Z",
       "summary": "",
-      "url": "http://www.vietnamtribune.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
+      "url": "http://www.floridastatesman.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
     },
     {
       "id": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220",
@@ -236,16 +236,16 @@
       "url": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377"
     },
     {
-      "id": "http://www.vietnamtribune.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
+      "id": "http://www.floridastatesman.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low",
       "title": "US jobless claims fall to 197,000 as layoffs remain low",
-      "source": "vietnamtribune.com",
+      "source": "floridastatesman.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-10",
-      "dateRaw": "2026-10-10T19:46:00Z",
-      "publishedAt": "2026-10-10T19:46:00Z",
+      "dateRaw": "2026-10-10T20:01:00Z",
+      "publishedAt": "2026-10-10T20:01:00Z",
       "summary": "",
-      "url": "http://www.vietnamtribune.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
+      "url": "http://www.floridastatesman.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
     },
     {
       "id": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220",
@@ -620,18 +620,6 @@
       "url": "https://www.jdjournal.com/2026/10/09/judge-dismisses-us-worker-lawsuit-ai-filing/"
     },
     {
-      "id": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html",
-      "title": "Becoming a female tradie in midlife is the ultimate AI-proof job",
-      "source": "dailymail.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T01:47:00Z",
-      "publishedAt": "2026-10-10T01:47:00Z",
-      "summary": "",
-      "url": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html"
-    },
-    {
       "id": "https://www.theguardian.com/media/2026/oct/10/telegraph-owner-axel-springer-newsroom-job-cuts-u-turn",
       "title": "Telegraph owner poised to make newsroom job cuts in investment promise U-turn",
       "source": "theguardian.com",
@@ -684,9 +672,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3599,
-    "relevantItems": 48,
-    "feedBytes": 1020624,
+    "fetchedItems": 3188,
+    "relevantItems": 58,
+    "feedBytes": 866922,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
