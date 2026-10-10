@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 10. 오후 08:11:59",
+  "updatedAt": "2026. 10. 10. 오후 08:28:32",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 522,
-    "deduped": 522,
-    "eventDeduped": 522,
+    "passed": 528,
+    "deduped": 528,
+    "eventDeduped": 528,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,18 +392,6 @@
       "url": "https://www.pilotonline.com/2026/10/09/jcc-planning-commission-recommends-approval-of-battery-storage-plant-in-grove/"
     },
     {
-      "id": "https://www.1049thewolf.com/2026/10/09/greater-peoria-launches-effort-to-strengthen-regions-manufacturing-workforce/",
-      "title": "Greater Peoria launches effort to strengthen region’s manufacturing workforce",
-      "source": "1049thewolf.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-09",
-      "dateRaw": "2026-10-09T19:32:00Z",
-      "publishedAt": "2026-10-09T19:32:00Z",
-      "summary": "",
-      "url": "https://www.1049thewolf.com/2026/10/09/greater-peoria-launches-effort-to-strengthen-regions-manufacturing-workforce/"
-    },
-    {
       "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
       "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
       "source": "suffolkcountyny.gov",
@@ -438,6 +426,18 @@
       "publishedAt": "2026-10-10T01:01:00Z",
       "summary": "",
       "url": "https://peakoil.com/consumption/dte-hints-at-new-data-center-development-stirs-fight-on-energy-sources"
+    },
+    {
+      "id": "https://www.businesstoday.in/latest/economy/story/make-in-india-why-indias-manufacturing-gains-look-stronger-against-a-turbulent-decade-560803-2026-10-10",
+      "title": "Make in India: Why India’s manufacturing gains look stronger against a turbulent decade - BusinessToday",
+      "source": "businesstoday.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T11:17:00Z",
+      "publishedAt": "2026-10-10T11:17:00Z",
+      "summary": "",
+      "url": "https://www.businesstoday.in/latest/economy/story/make-in-india-why-indias-manufacturing-gains-look-stronger-against-a-turbulent-decade-560803-2026-10-10"
     },
     {
       "id": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-h1-update-operational-capacity-rises-24-yoy-to-20763-mw-energy-sales-jump-32/articleshow/134852554.cms",
@@ -546,6 +546,18 @@
       "publishedAt": "2026-10-09T20:32:00Z",
       "summary": "",
       "url": "https://english.pravda.ru/news/world/169848-australia-nem-midday-price-inversion-batteries/"
+    },
+    {
+      "id": "https://montrealgazette.com/news/provincial-news/hydro-quebec-in-a-power-struggle-with-google-and-big-tech-as-data-centre-demand-surges/",
+      "title": "Hydro-Québec in a power struggle with Google and big tech as data centre demand surges",
+      "source": "montrealgazette.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T11:16:00Z",
+      "publishedAt": "2026-10-10T11:16:00Z",
+      "summary": "",
+      "url": "https://montrealgazette.com/news/provincial-news/hydro-quebec-in-a-power-struggle-with-google-and-big-tech-as-data-centre-demand-surges/"
     },
     {
       "id": "https://obj.ca/data/clean-tech-companies-66/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-10T00:02:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/industry/business-venture/2026/10/10/DETBRXPWCBFWJIPUTTNZ36UTVU/"
-    },
-    {
-      "id": "https://biz.chosun.com/it-science/ict/2026/10/10/EGQTOJJUHNBLNAMYV3MJW5SOQU/",
-      "title": "[체험기] “버튼 누르자 가수 목소리가 사라졌다”… JBL AI 마이크, 가격·연결 과정은 아쉬워",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T00:02:00Z",
-      "publishedAt": "2026-10-10T00:02:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/it-science/ict/2026/10/10/EGQTOJJUHNBLNAMYV3MJW5SOQU/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3887,
-    "relevantItems": 83,
-    "feedBytes": 1087594,
+    "fetchedItems": 4247,
+    "relevantItems": 93,
+    "feedBytes": 1207760,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
