@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 07:51:31",
+  "updatedAt": "2026. 10. 11. 오전 08:10:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 153,
-    "deduped": 153,
-    "eventDeduped": 153,
+    "passed": 152,
+    "deduped": 152,
+    "eventDeduped": 152,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -692,18 +692,6 @@
       "url": "http://www.koreatimes.com/article/20261009/1633297"
     },
     {
-      "id": "https://www.fnnews.com/news/202610101200564878",
-      "title": "\"고금리가 증시 질식시켜\"…107조 실적에도 삼전 주가 힘 못 쓰는 이유",
-      "source": "fnnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T04:31:00Z",
-      "publishedAt": "2026-10-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.fnnews.com/news/202610101200564878"
-    },
-    {
       "id": "https://news.webindia123.com/news/Articles/World/20261010/4509410.html",
       "title": "Russia's Presidential aide says Putin-Trump talk \"very substantive\", plans for in-person meeting at APEC summit in China",
       "source": "news.webindia123.com",
@@ -714,6 +702,18 @@
       "publishedAt": "2026-10-10T16:47:00Z",
       "summary": "",
       "url": "https://news.webindia123.com/news/Articles/World/20261010/4509410.html"
+    },
+    {
+      "id": "https://www.dailynews.com/2026/10/10/what-really-is-a-new-normal-in-interest-rates/",
+      "title": "What really is a ‘new normal’ in interest rates?",
+      "source": "dailynews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T16:16:00Z",
+      "publishedAt": "2026-10-10T16:16:00Z",
+      "summary": "",
+      "url": "https://www.dailynews.com/2026/10/10/what-really-is-a-new-normal-in-interest-rates/"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026101010484735577",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2547,
-    "relevantItems": 40,
-    "feedBytes": 691885,
+    "fetchedItems": 2411,
+    "relevantItems": 38,
+    "feedBytes": 670763,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

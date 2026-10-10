@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 07:51:38",
+  "updatedAt": "2026. 10. 11. 오전 08:10:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -118,16 +118,18 @@
           "url": "https://www.munhwa.com:443/article/11622485"
         },
         {
-          "id": "https://www.diodeo.com/news/view/4190036",
-          "title": "‘오! 주인님’ 이민기, 스토커에 납치된 나나 구출…숨멎 포옹 엔딩",
-          "source": "diodeo.com",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224038",
+          "title": "무면허로 건설기계 몰다 작업자 숨지게 한 공장 직원·대표 유죄",
+          "source": "mbn.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-10",
-          "dateRaw": "2026-10-10T04:01:00Z",
-          "publishedAt": "2026-10-10T04:01:00Z",
+          "dateRaw": "2026-10-10T05:13:00Z",
+          "publishedAt": "2026-10-10T05:13:00Z",
           "summary": "",
-          "url": "https://www.diodeo.com/news/view/4190036"
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224038",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
@@ -137,10 +139,6 @@
         },
         {
           "word": "복지",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         },
         {
@@ -263,6 +261,18 @@
           "url": "https://www.fnnews.com/news/202610101200564878"
         },
         {
+          "id": "https://www.busan.com/view/busan/view.php?code=2026101102102776831",
+          "title": "해진공, 2년 연속 '부패방지·준법경영' 국제인증 동시 유지…전사적 노력 인정",
+          "source": "busan.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-10",
+          "dateRaw": "2026-10-10T23:01:00Z",
+          "publishedAt": "2026-10-10T23:01:00Z",
+          "summary": "",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026101102102776831"
+        },
+        {
           "id": "https://pann.nate.com/talk/375663321",
           "title": "서울경기에 아파트 더 때려붓는다는데 | 네이트 판",
           "source": "pann.nate.com",
@@ -273,18 +283,6 @@
           "publishedAt": "2026-10-10T21:46:00Z",
           "summary": "",
           "url": "https://pann.nate.com/talk/375663321"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261010/1633310",
-          "title": "LA서 만나는 K-컬처의 모든 것…체험·소비형 공간 ‘LA:ON’ 개소 - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T19:31:00Z",
-          "publishedAt": "2026-10-10T19:31:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261010/1633310"
         }
       ],
       "keywords": [
@@ -294,10 +292,6 @@
         },
         {
           "word": "금리",
-          "count": 1
-        },
-        {
-          "word": "소비",
           "count": 1
         }
       ],
@@ -899,8 +893,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2547,
-    "feedBytes": 691885,
+    "fetchedItems": 2411,
+    "feedBytes": 670763,
     "rollingWindowHours": 72
   }
 }
