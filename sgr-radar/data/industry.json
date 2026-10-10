@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 06:46:00",
+  "updatedAt": "2026. 10. 11. 오전 06:59:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 520,
-    "deduped": 520,
-    "eventDeduped": 520,
+    "passed": 524,
+    "deduped": 524,
+    "eventDeduped": 524,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -428,6 +428,18 @@
       "url": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/"
     },
     {
+      "id": "https://africanreview.com/manufacturing/uia-encourages-local-manufacturing-in-kampala",
+      "title": "UIA encourages local manufacturing in Kampala",
+      "source": "africanreview.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T21:46:00Z",
+      "publishedAt": "2026-10-10T21:46:00Z",
+      "summary": "",
+      "url": "https://africanreview.com/manufacturing/uia-encourages-local-manufacturing-in-kampala"
+    },
+    {
       "id": "https://www.pharmaceuticalonline.com/doc/simplifying-adenoviral-purification-for-scalable-manufacturing-0001",
       "title": "Simplifying Adenoviral Purification For Scalable Manufacturing",
       "source": "pharmaceuticalonline.com",
@@ -450,18 +462,6 @@
       "publishedAt": "2026-10-10T21:31:00Z",
       "summary": "",
       "url": "https://www.pharmaceuticalonline.com/doc/breaking-the-glp-manufacturing-bottleneck-how-single-use-powder-handling-supports-safer-more-efficient-scale-up-0001"
-    },
-    {
-      "id": "https://www.thisisoxfordshire.co.uk/news/26616866.oxfordshire-manufacturers-offered-toyota-lean-training/",
-      "title": "Oxfordshire firms can learn Toyota manufacturing techniques",
-      "source": "thisisoxfordshire.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T21:02:00Z",
-      "publishedAt": "2026-10-10T21:02:00Z",
-      "summary": "",
-      "url": "https://www.thisisoxfordshire.co.uk/news/26616866.oxfordshire-manufacturers-offered-toyota-lean-training/"
     },
     {
       "id": "https://www.theglobeandmail.com/business/article-startups-are-hiring-low-paid-gig-workers-to-train-robots-on-manual/",
@@ -704,6 +704,18 @@
       "url": "https://www.etoday.co.kr/news/view/2634235"
     },
     {
+      "id": "https://qconline.com/news/state-regional/article_75c2b3d9-597c-5ccb-b9d9-acee7501dc91.html",
+      "title": "Data center debate grows as Boone residents clash over Lightedge pitch",
+      "source": "qconline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T21:46:00Z",
+      "publishedAt": "2026-10-10T21:46:00Z",
+      "summary": "",
+      "url": "https://qconline.com/news/state-regional/article_75c2b3d9-597c-5ccb-b9d9-acee7501dc91.html"
+    },
+    {
       "id": "https://www.pharmaceuticalonline.com/doc/enabling-quality-by-design-0001",
       "title": "Enabling Quality By Design Through Continuous Process Verification, Manufacturing Anomaly Capture, And Proactive Quality Response",
       "source": "pharmaceuticalonline.com",
@@ -714,18 +726,6 @@
       "publishedAt": "2026-10-10T21:31:00Z",
       "summary": "",
       "url": "https://www.pharmaceuticalonline.com/doc/enabling-quality-by-design-0001"
-    },
-    {
-      "id": "https://www.butlereagle.com/20261010/forward-twp-farmland-a-bad-location-for-data-center/",
-      "title": "Forward Twp. farmland a bad location for data center",
-      "source": "butlereagle.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T20:46:00Z",
-      "publishedAt": "2026-10-10T20:46:00Z",
-      "summary": "",
-      "url": "https://www.butlereagle.com/20261010/forward-twp-farmland-a-bad-location-for-data-center/"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261010193638",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2803,
-    "relevantItems": 34,
-    "feedBytes": 778227,
+    "fetchedItems": 2695,
+    "relevantItems": 29,
+    "feedBytes": 748733,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
