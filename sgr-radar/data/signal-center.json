@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 12:55:47",
+  "updatedAt": "2026. 10. 11. 오후 01:13:46",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/",
+          "title": "李 “서민 복지 예산 삭감하는 사람이 그들의 삶 이해하겠나” 추미애 저격?",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T04:01:00Z",
+          "publishedAt": "2026-10-11T04:01:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/"
+        },
         {
           "id": "https://www.etnews.com/20261011000021",
           "title": "중진공, 제조AI 전문강사·실무인력 양성 나선다…교육과정 신설",
@@ -120,32 +132,16 @@
           "publishedAt": "2026-10-11T01:31:00Z",
           "summary": "",
           "url": "https://www.diodeo.com/news/view/65311"
-        },
-        {
-          "id": "https://www.fnnews.com/news/202610090343485982",
-          "title": "\"월세 70만원, 학교 앞 원룸은 직장인이 장악했어요\"…고시원 밀려나는 '인서울' 지방출신들 [낮은 곳의 기록자]",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T00:46:00Z",
-          "publishedAt": "2026-10-11T00:46:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610090343485982"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 8
+          "count": 7
         },
         {
           "word": "복지",
-          "count": 3
-        },
-        {
-          "word": "주거",
-          "count": 2
+          "count": 4
         },
         {
           "word": "이민",
@@ -153,6 +149,10 @@
         },
         {
           "word": "정신건강",
+          "count": 1
+        },
+        {
+          "word": "주거",
           "count": 1
         },
         {
@@ -181,16 +181,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://biz.chosun.com/topics/topics_social/2026/10/11/GBE22PCKZ5DTPHDZF5VBOW6MY4/",
-          "title": "[인터뷰] “충북을 제2의 판교로”… 신용한 지사 “100조 투자 유치 넘어 창업특별도 추진”",
+          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/11/RIY5B6JQ2FGIVF7TBTMBCJUXGA/",
+          "title": "대기업만 웃는 반도체 호황… 중소기업과 생산·수출·임금 격차 확대",
           "source": "biz.chosun.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T23:31:00Z",
-          "publishedAt": "2026-10-10T23:31:00Z",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T04:01:00Z",
+          "publishedAt": "2026-10-11T04:01:00Z",
           "summary": "",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/11/GBE22PCKZ5DTPHDZF5VBOW6MY4/"
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/RIY5B6JQ2FGIVF7TBTMBCJUXGA/"
         },
         {
           "id": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html",
@@ -205,18 +205,18 @@
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12172909",
-          "title": "“정년 60세 고정하고 65세까지 재고용”… 경총, 일본식 일자리 해법 제시",
+          "id": "https://www.mk.co.kr/news/society/12172917",
+          "title": "고열 출근 유치원 교사 사망...경기교육청, 유치원장에 정직 2개월",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T12:23:45Z",
-          "publishedAt": "2026-10-11T12:23:45Z",
+          "dateRaw": "2026-10-11T13:07:03Z",
+          "publishedAt": "2026-10-11T13:07:03Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12172909",
+          "url": "https://www.mk.co.kr/news/society/12172917",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.etnews.com/20261011000021",
@@ -296,11 +296,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
-          "word": "고용",
-          "count": 1
+          "word": "기업",
+          "count": 3
         },
         {
           "word": "공급망",
@@ -311,7 +311,7 @@
           "count": 1
         },
         {
-          "word": "기업",
+          "word": "수출",
           "count": 1
         },
         {
@@ -366,6 +366,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/",
+          "title": "“AI 기업 세무 부담 낮춘다”…중기부·국세청 2559개사 지원",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T04:01:00Z",
+          "publishedAt": "2026-10-11T04:01:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/"
+        },
+        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026100910143199140",
           "title": "[DD 주간브리핑] 국감, 정유 4사 대표부터 애플·텔레그램까지…KES·SEDEX서 K-반도체·AI 총집결",
           "source": "ddaily.co.kr",
@@ -388,18 +400,6 @@
           "publishedAt": "2026-10-11T03:01:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10898487"
-        },
-        {
-          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/11/FULD2R626REGTN4WNDLIBO3B2Y/",
-          "title": "“반도체 성과급 잔치에도… 소비 진작 효과는 제한적일 것”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:01:00Z",
-          "publishedAt": "2026-10-11T03:01:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/FULD2R626REGTN4WNDLIBO3B2Y/"
         },
         {
           "id": "https://womannews.net/detail.php?number=456899&thread=22r12r01%20style=",
@@ -453,11 +453,11 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 7
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 3
         },
         {
           "word": "GPU",
@@ -929,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2489,
-    "feedBytes": 645432,
+    "fetchedItems": 2466,
+    "feedBytes": 674537,
     "rollingWindowHours": 72
   }
 }

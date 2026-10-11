@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 12:55:40",
+  "updatedAt": "2026. 10. 11. 오후 01:13:39",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 40,
-    "deduped": 40,
-    "eventDeduped": 40,
+    "passed": 41,
+    "deduped": 41,
+    "eventDeduped": 41,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,6 +42,18 @@
       "url": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/"
     },
     {
+      "id": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/",
+      "title": "“AI 기업 세무 부담 낮춘다”…중기부·국세청 2559개사 지원",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T04:01:00Z",
+      "publishedAt": "2026-10-11T04:01:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/"
+    },
+    {
       "id": "https://www.etnews.com/20261011000029",
       "title": "취임 6년 정의선, 제조업 벗고 '피지컬 AI' 솔루션 기업으로 대전환",
       "source": "etnews.com",
@@ -52,18 +64,6 @@
       "publishedAt": "2026-10-11T02:47:00Z",
       "summary": "",
       "url": "https://www.etnews.com/20261011000029"
-    },
-    {
-      "id": "https://biz.chosun.com/it-science/ict/2026/10/11/QNDXTMB23VCDXOSDMW7RXVIOWA/",
-      "title": "AI 에이전트가 몰려온다… ‘인터넷 교통’ 관리하는 기업 주가 들썩",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T23:31:00Z",
-      "publishedAt": "2026-10-10T23:31:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/it-science/ict/2026/10/11/QNDXTMB23VCDXOSDMW7RXVIOWA/"
     },
     {
       "id": "http://www.editorandpublisher.com/stories/rural-journalism-isnt-dead-but-the-old-business-model-may-be,263907",
@@ -162,6 +162,18 @@
       "publishedAt": "2026-10-10T09:01:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/"
+    },
+    {
+      "id": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/",
+      "title": "“AI 기업 세무 부담 낮춘다”…중기부·국세청 2559개사 지원",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T04:01:00Z",
+      "publishedAt": "2026-10-11T04:01:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/"
     },
     {
       "id": "https://www.etnews.com/20261011000029",
@@ -624,9 +636,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2489,
-    "relevantItems": 21,
-    "feedBytes": 645432,
+    "fetchedItems": 2466,
+    "relevantItems": 40,
+    "feedBytes": 674537,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
