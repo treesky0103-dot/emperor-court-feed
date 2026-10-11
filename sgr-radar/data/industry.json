@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:52:25",
+  "updatedAt": "2026. 10. 12. 오전 01:36:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 622,
-    "deduped": 622,
-    "eventDeduped": 622,
+    "passed": 629,
+    "deduped": 629,
+    "eventDeduped": 629,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
+      "id": "https://www.equitybulls.com/category.php?id=376759",
+      "title": "S.J.S. Enterprises Subsidiary SDEPL to Set Up New Manufacturing Facility in Pune with ₹81 Crore Investment",
+      "source": "equitybulls.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T16:31:00Z",
+      "publishedAt": "2026-10-11T16:31:00Z",
+      "summary": "",
+      "url": "https://www.equitybulls.com/category.php?id=376759"
+    },
+    {
       "id": "https://english.aawsat.com/business/5328368-international-energy-forum-security-supply-requires-ensuring-energy-access",
       "title": "International Energy Forum: Security of Supply Requires Ensuring Energy Access for Consumers",
       "source": "english.aawsat.com",
@@ -548,18 +560,6 @@
       "url": "https://www.roboticstomorrow.com/company_directory/destaco/10044"
     },
     {
-      "id": "https://link.springer.com/journal/170",
-      "title": "The International Journal of Advanced Manufacturing Technology",
-      "source": "link.springer.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T03:31:00Z",
-      "publishedAt": "2026-10-11T03:31:00Z",
-      "summary": "",
-      "url": "https://link.springer.com/journal/170"
-    },
-    {
       "id": "https://www.diodeo.com/news/view/4311500",
       "title": "현대바이오, ‘무고통 항암제’ 췌장암 임상 위해 호주 현지법인 설립",
       "source": "diodeo.com",
@@ -594,6 +594,18 @@
       "publishedAt": "2026-10-11T01:02:00Z",
       "summary": "",
       "url": "https://www.koreaherald.com/article/10897728"
+    },
+    {
+      "id": "https://www.edp24.co.uk/news/26624052.5-public-notices-aware-norfolk-week/",
+      "title": "Plans for new data centre among public notices in Norfolk",
+      "source": "edp24.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T16:31:00Z",
+      "publishedAt": "2026-10-11T16:31:00Z",
+      "summary": "",
+      "url": "https://www.edp24.co.uk/news/26624052.5-public-notices-aware-norfolk-week/"
     },
     {
       "id": "https://obj.ca/data/clean-tech-companies-65/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T07:46:00Z",
       "summary": "",
       "url": "https://www.newindianexpress.com/world/2026/Oct/11/google-faces-backlash-against-india-data-centre"
-    },
-    {
-      "id": "https://www.abc.net.au/news/2026-10-10/firmus-generators-epa-appeal-watchdog/107247476",
-      "title": "Tasmanian EPA says it was not told extent of Firmus data centre generator plans",
-      "source": "abc.net.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T01:31:00Z",
-      "publishedAt": "2026-10-11T01:31:00Z",
-      "summary": "",
-      "url": "https://www.abc.net.au/news/2026-10-10/firmus-generators-epa-appeal-watchdog/107247476"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3297,
-    "relevantItems": 63,
-    "feedBytes": 955592,
+    "fetchedItems": 3826,
+    "relevantItems": 58,
+    "feedBytes": 1083986,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
