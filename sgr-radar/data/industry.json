@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 06:54:06",
+  "updatedAt": "2026. 10. 12. 오전 07:11:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 593,
-    "deduped": 593,
-    "eventDeduped": 593,
+    "passed": 592,
+    "deduped": 592,
+    "eventDeduped": 592,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -368,6 +368,18 @@
       "url": "https://www.dongascience.com:443/ko/news/78394"
     },
     {
+      "id": "https://abc7ny.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
+      "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
+      "source": "abc7ny.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T22:02:00Z",
+      "publishedAt": "2026-10-11T22:02:00Z",
+      "summary": "",
+      "url": "https://abc7ny.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
+    },
+    {
       "id": "https://article.wn.com/view/2026/10/11/Russia_strikes_Ukrainian_power_plant_after_Trump_claims_ener/",
       "title": "Russia strikes Ukrainian power plant after Trump claims energy ceasefire",
       "source": "article.wn.com",
@@ -402,18 +414,6 @@
       "publishedAt": "2026-10-11T21:01:00Z",
       "summary": "",
       "url": "https://gcn.com/humanoid-robot-car-plant-replacement-dexterous/22337/"
-    },
-    {
-      "id": "https://theeagleonline.com.ng/reforms-investments-partnership-key-to-nigerias-energy-future-shell/",
-      "title": "Reforms, investments, partnership key to Nigeria’s energy future – Shell |",
-      "source": "theeagleonline.com.ng",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T21:01:00Z",
-      "publishedAt": "2026-10-11T21:01:00Z",
-      "summary": "",
-      "url": "https://theeagleonline.com.ng/reforms-investments-partnership-key-to-nigerias-energy-future-shell/"
     },
     {
       "id": "https://newsroomamerica.com/tag/manufacturing_investment",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2588,
-    "relevantItems": 49,
-    "feedBytes": 745453,
+    "fetchedItems": 2712,
+    "relevantItems": 48,
+    "feedBytes": 746334,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 06:54:07",
+  "updatedAt": "2026. 10. 12. 오전 07:11:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 49,
-    "deduped": 49,
-    "eventDeduped": 49,
+    "passed": 51,
+    "deduped": 51,
+    "eventDeduped": 51,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,6 +308,18 @@
       "url": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html"
     },
     {
+      "id": "https://www.hankookilbo.com/news/article/A2026100815000000056",
+      "title": "AI로 탄소 줄이고 생산성 높이고…LG디스플레이의 친환경 AX-경제ㅣ한국일보",
+      "source": "hankookilbo.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T22:02:00Z",
+      "publishedAt": "2026-10-11T22:02:00Z",
+      "summary": "",
+      "url": "https://www.hankookilbo.com/news/article/A2026100815000000056"
+    },
+    {
       "id": "http://www.koreatimes.com/article/20261011/1633340",
       "title": "아마존·넷플릭스에 부는 칼바람…직원 수백명 감원 - 미주 한국일보",
       "source": "koreatimes.com",
@@ -438,6 +450,18 @@
       "publishedAt": "2026-10-11T15:47:00Z",
       "summary": "",
       "url": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html"
+    },
+    {
+      "id": "https://www.ddaily.co.kr:443/page/view/2026101114021524265",
+      "title": "[주간 클라우드 동향/10월 ②] \"韓 기업과 새 기회 만들 것\"… AMD, 국산 AI 반도체 띄운다",
+      "source": "ddaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T22:02:00Z",
+      "publishedAt": "2026-10-11T22:02:00Z",
+      "summary": "",
+      "url": "https://www.ddaily.co.kr:443/page/view/2026101114021524265"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026101113341534030",
@@ -714,27 +738,15 @@
       "publishedAt": "2026-10-11T08:16:00Z",
       "summary": "",
       "url": "https://www.freepressjournal.in/business/suzlon-bets-550-crore-on-3-ai-powered-blade-factories-15000-jobs-in-pipeline-by-2027"
-    },
-    {
-      "id": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/",
-      "title": "Amazon layoffs hit hundreds in retail; Seattle impact unclear",
-      "source": "kiro7.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T08:16:00Z",
-      "publishedAt": "2026-10-11T08:16:00Z",
-      "summary": "",
-      "url": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2588,
-    "relevantItems": 49,
-    "feedBytes": 745453,
+    "fetchedItems": 2712,
+    "relevantItems": 48,
+    "feedBytes": 746334,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
