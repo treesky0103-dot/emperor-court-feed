@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 04:46:19",
+  "updatedAt": "2026. 10. 11. 오후 04:59:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 43,
-    "deduped": 43,
-    "eventDeduped": 43,
+    "passed": 41,
+    "deduped": 41,
+    "eventDeduped": 41,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -368,18 +368,6 @@
       "url": "https://ianslive.in/eight-in-ten-financial-planners-expect-ai-adoption-within-a-year--20261010164137"
     },
     {
-      "id": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/",
-      "title": "EU to reassess Microsoft's Activision Blizzard deal after restructuring",
-      "source": "digbycourier.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:16:00Z",
-      "publishedAt": "2026-10-10T11:16:00Z",
-      "summary": "",
-      "url": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/"
-    },
-    {
       "id": "https://newsway.co.kr/news/view?ud=2026101113341534030",
       "title": "포스코DX, '업무하는 AI' 키운다···인핸스에 20억 투자 - 뉴스웨이",
       "source": "newsway.co.kr",
@@ -524,18 +512,6 @@
       "url": "https://www.investmentwatchblog.com/without-ai-and-the-government-running-huge-spending-deficits-wed-probably-be-in-a-depression-right-now/"
     },
     {
-      "id": "https://www.springfieldnewssun.com/local/we-ve-tracked-80m-of-spending-on-almost-170-ai-generated-political-ads-this-year/article_0597fc83-2ff7-5484-9671-1b02cae0c454.html",
-      "title": "We’ve tracked $80M of spending on almost 170 AI‑generated political ads this year – it’s weird",
-      "source": "springfieldnewssun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:16:00Z",
-      "publishedAt": "2026-10-10T11:16:00Z",
-      "summary": "",
-      "url": "https://www.springfieldnewssun.com/local/we-ve-tracked-80m-of-spending-on-almost-170-ai-generated-political-ads-this-year/article_0597fc83-2ff7-5484-9671-1b02cae0c454.html"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261010000047",
       "title": "정의선 취임 6년…현대차그룹, 하이브리드·제네시스로 성장 기반 다져",
       "source": "newspim.com",
@@ -660,9 +636,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3378,
-    "relevantItems": 44,
-    "feedBytes": 951731,
+    "fetchedItems": 3586,
+    "relevantItems": 40,
+    "feedBytes": 994878,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
