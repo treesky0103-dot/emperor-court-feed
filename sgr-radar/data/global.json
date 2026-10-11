@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 07:11:29",
+  "updatedAt": "2026. 10. 11. 오후 07:36:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 146,
-    "deduped": 146,
-    "eventDeduped": 146,
+    "passed": 145,
+    "deduped": 145,
+    "eventDeduped": 145,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,6 +416,18 @@
       "url": "https://www.hani.co.kr/arti/opinion/column/1281226.html"
     },
     {
+      "id": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dbs-ceo-cites-fcnrb-success-as-proof-of-global-faith-in-india-calls-for-more-fdi/articleshow/134868254.cms",
+      "title": "DBS CEO cites FCNR(B) success as proof of global faith in India, calls for more FDI",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T10:31:00Z",
+      "publishedAt": "2026-10-11T10:31:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dbs-ceo-cites-fcnrb-success-as-proof-of-global-faith-in-india-calls-for-more-fdi/articleshow/134868254.cms"
+    },
+    {
       "id": "https://www.moneycontrol.com/news/business/economy/japan-becomes-india-s-top-fdi-source-as-investment-hits-5-71-billion-in-q1-fy27-14049463.html",
       "title": "Japan becomes India’s top FDI source as investment hits $5.71 billion in Q1 FY27- Moneycontrol.com",
       "source": "moneycontrol.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T01:47:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261008000505"
-    },
-    {
-      "id": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html",
-      "title": "Russia's Presidential aide says Putin-Trump talk 'very substantive', plans for in-person meeting at APEC summit in China- Moneycontrol.com",
-      "source": "moneycontrol.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T02:47:00Z",
-      "publishedAt": "2026-10-11T02:47:00Z",
-      "summary": "",
-      "url": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3844,
-    "relevantItems": 66,
-    "feedBytes": 1119244,
+    "fetchedItems": 3966,
+    "relevantItems": 58,
+    "feedBytes": 1126432,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
