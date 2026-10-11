@@ -9,13 +9,13 @@
     "AI 생성 저작물 저작권 분쟁 예방 가이드: 상업적 배포 전 필수 점검 5단계",
     "슬럼프를 이기는 한 판의 멘탈: 불리한 체급을 뒤집는 결정적 타이밍의 기술"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-11T00:18:00.001Z",
+  "provider": "mixed:cloudflare+groq",
+  "generatedAt": "2026-10-11T00:19:09.250Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-11T00:18:00.001Z",
+      "generatedAt": "2026-10-11T00:19:09.139Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,87 +40,84 @@
         ]
       },
       "bookTitle": "빅테크 AI 투자 쇼크에서 살아남는 실적 지표 독해법",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "cloudflare",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "궁금증",
-          "headline": "시작한 기술주, 비전이 아닌 잉여현금흐름으로 냉정하게 솎아내는 법.",
+          "headline": "빅테크 AI 투자 쇼크에서\n어떤 기업이 살아남을까",
           "body": "",
           "accent": "yellow",
           "sceneId": "005",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "현상",
-          "headline": "마진율을 갉아먹는 자본 낭비인지 판단하는 기준을 알지 못한다.",
+          "headline": "플랫폼 대장주마저\n영업이익이 하락하고 있다",
           "body": "",
           "accent": "yellow",
           "sceneId": "012",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "analysis",
           "beat": "원리",
-          "headline": "투자와 실질 현금흐름을 구분해 내 포트폴리오를 지키는 재무 분석 기준.",
+          "headline": "그 이유는 기술 성장주의\n과잉 투자 때문이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "015",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "설명",
-          "headline": "하락하며 기술 성장주의 밸류에이션 재평가가 본격화되고 있다.",
+          "headline": "기술 투자와 자본 낭비를\n구분하는 기준은 무엇일까",
           "body": "",
           "accent": "yellow",
           "sceneId": "014",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "통찰",
-          "headline": "가능성 판별 체크리스트, 빅테크 현금흐름 경고 신호표를 제공한다.",
+          "headline": "실질 현금흐름을\n분석해야 한다",
           "body": "",
           "accent": "yellow",
           "sceneId": "036",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "핵심 메시지",
-          "headline": "분기 실적 이슈에 매몰되면 한 철 뉴스 해설서로 전락할 위험이 있다.",
+          "headline": "빅테크의 공격적 투자가\n미래 독점력으로 이어질지\n판단하는 기준을 알자",
           "body": "",
           "accent": "yellow",
           "sceneId": "048",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-15482b51"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-11T00:18:00.001Z",
+      "generatedAt": "2026-10-11T00:19:03.046Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,87 +142,84 @@
         ]
       },
       "bookTitle": "AI 생성 저작물 저작권 분쟁 예방 가이드: 상업적 배포 전 필수 점검 5단계",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "시장에 내놓기 전, 저작권 소송과 계약 파기를 막는 5가지 방어선.",
+          "headline": "AI가 만든 작품, 눈앞에 닥친 법적 함정",
           "body": "",
           "accent": "yellow",
           "sceneId": "009",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "지점부터 소송과 계약 파기의 위험이 발생하는지 판단 경계선을 모른다.",
+          "headline": "새로운 이미지와 텍스트를 만들고 바로 배포하려는 순간",
           "body": "",
           "accent": "yellow",
           "sceneId": "020",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "분쟁과 표절 시비를 차단하는 창작자·기업 실무용 리스크 통제 기준.",
+          "headline": "그때마다 저작권 침해 경고와 소송 위험이 스멀스멀 다가온다",
           "body": "",
           "accent": "yellow",
           "sceneId": "029",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "출판· 실무 현장에서 저작권 침해 분쟁 공포가 현실화되고 있다.",
+          "headline": "하지만 법은 ‘창작물의 원본이 인간인지’가 핵심 판단 기준이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "012",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "외주 납품용 AI 생성물 권리 보증 계약서 표준 문안을 제공한다.",
+          "headline": "스스로 검증하고 계약서에 권리 보장을 명시하면 불안은 사라진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "038",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "법률 용어가 너무 딱딱해 실무 창작자가 읽다가 포기할 위험이 있다.",
+          "headline": "AI 결과물, 검증 없이 내보내면 법적 파도가 찾아온다",
           "body": "",
           "accent": "yellow",
           "sceneId": "048",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-15482b51"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-11T00:18:00.001Z",
+      "generatedAt": "2026-10-11T00:19:03.046Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,81 +244,78 @@
         ]
       },
       "bookTitle": "슬럼프를 이기는 한 판의 멘탈: 불리한 체급을 뒤집는 결정적 타이밍의 기술",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "조건에서도 기어코 판을 뒤집는 승부사들의 단단한 멘탈 설계 공식.",
+          "headline": "불리한 체급, 승부는 멘탈이 만든다",
           "body": "",
           "accent": "yellow",
           "sceneId": "003",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "불리한 흐름을 끊고 내 페이스로 주도권을 가져오는 법을 모른다.",
+          "headline": "시험 전날 피곤함에 몸이 무겁고, 머리는 흐려진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "029",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "상대를 메치는 격투 스포츠의 원리에서 배우는 역전의 멘탈 관리법.",
+          "headline": "그때마다 자신감이 사라지고 포기하고 싶어진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "026",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "단순 긍정론이 아닌 냉정한 승부 호흡이 요구되고 있다.",
+          "headline": "하지만 승부는 ‘압박을 끊고 리듬을 재설정’하는 순간에 바뀐다",
           "body": "",
           "accent": "yellow",
           "sceneId": "013",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "업무 협상 및 시험 멘탈에 대입한 '압박 탈출 5원칙'을 제공한다.",
+          "headline": "잠시 멈추어 호흡을 맞추고, 작은 목표를 하나씩 달성하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "037",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "비유가 너무 과도하면 스포츠 비관심층 독자가 초반에 이탈할 수 있다.",
+          "headline": "압박을 멈추면 승부는 다시 내 손에 있다",
           "body": "",
           "accent": "yellow",
           "sceneId": "045",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-15482b51"
     }
   ]
