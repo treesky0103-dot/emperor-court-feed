@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 03:15:24",
+  "updatedAt": "2026. 10. 11. 오후 04:46:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 590,
-    "deduped": 590,
-    "eventDeduped": 590,
+    "passed": 597,
+    "deduped": 597,
+    "eventDeduped": 597,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -248,6 +248,18 @@
       "url": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/"
     },
     {
+      "id": "https://www.etnews.com/20261011000036",
+      "title": "반도체대전 역대 최대 규모로 14일 개막…“실리콘 지능 시대 연다”",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T07:31:00Z",
+      "publishedAt": "2026-10-11T07:31:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261011000036"
+    },
+    {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01331686645611936&mediaCodeNo=257",
       "title": "반도체 훈풍 비껴간 건설현장…일용직 30만명 일터 잃어",
       "source": "edaily.co.kr",
@@ -270,18 +282,6 @@
       "publishedAt": "2026-10-11T04:01:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/stock/stock_general/2026/10/11/SE2BMC6CCNA6DGJ3OFBG46WE5Y/"
-    },
-    {
-      "id": "https://biz.chosun.com/policy/policy_sub/2026/10/11/FULD2R626REGTN4WNDLIBO3B2Y/",
-      "title": "“반도체 성과급 잔치에도… 소비 진작 효과는 제한적일 것”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T03:01:00Z",
-      "publishedAt": "2026-10-11T03:01:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/FULD2R626REGTN4WNDLIBO3B2Y/"
     },
     {
       "id": "https://www.kjzz.org/business/2026-10-10/data-analyst-says-aps-is-shifting-data-center-energy-costs-to-others-ag-calls-for-investigation",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3365,
-    "relevantItems": 41,
-    "feedBytes": 957435,
+    "fetchedItems": 3378,
+    "relevantItems": 44,
+    "feedBytes": 951731,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

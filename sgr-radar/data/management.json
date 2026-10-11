@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 03:43:04",
+  "updatedAt": "2026. 10. 11. 오후 04:46:19",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 44,
-    "deduped": 44,
-    "eventDeduped": 44,
+    "passed": 43,
+    "deduped": 43,
+    "eventDeduped": 43,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.etnews.com/20261008000223",
+      "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T07:31:00Z",
+      "publishedAt": "2026-10-11T07:31:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261008000223"
+    },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service",
       "title": "NYSE-listed Twilio sets sights on Asia-Pacific as AI adoption grows in customer service",
@@ -64,18 +76,6 @@
       "publishedAt": "2026-10-11T04:01:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM/"
-    },
-    {
-      "id": "https://www.etnews.com/20261011000029",
-      "title": "취임 6년 정의선, 제조업 벗고 '피지컬 AI' 솔루션 기업으로 대전환",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T02:47:00Z",
-      "publishedAt": "2026-10-11T02:47:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261011000029"
     },
     {
       "id": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html",
@@ -139,6 +139,18 @@
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.etnews.com/20261008000223",
+      "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T07:31:00Z",
+      "publishedAt": "2026-10-11T07:31:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261008000223"
+    },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service",
       "title": "NYSE-listed Twilio sets sights on Asia-Pacific as AI adoption grows in customer service",
@@ -366,18 +378,6 @@
       "publishedAt": "2026-10-10T11:16:00Z",
       "summary": "",
       "url": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/"
-    },
-    {
-      "id": "https://www.indiatimes.com/trending/you-will-get-a-lot-more-experience-no-ai-at-work-at-all-should-developers-worry-about-falling-behind-in-the-fast-changing-tech-industry/articleshow/134851328.html",
-      "title": "‘You will get a lot more experience’: No AI at work at all, should developers worry about falling behind in the fast-changing tech industry?",
-      "source": "indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:01:00Z",
-      "publishedAt": "2026-10-10T11:01:00Z",
-      "summary": "",
-      "url": "https://www.indiatimes.com/trending/you-will-get-a-lot-more-experience-no-ai-at-work-at-all-should-developers-worry-about-falling-behind-in-the-fast-changing-tech-industry/articleshow/134851328.html"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026101113341534030",
@@ -644,18 +644,6 @@
       "url": "https://everything-pr.com/walgreens-pr-strategy"
     },
     {
-      "id": "https://www.theguardian.com/media/2026/oct/10/telegraph-owner-axel-springer-newsroom-job-cuts-u-turn",
-      "title": "Telegraph owner poised to make newsroom job cuts in investment promise U-turn",
-      "source": "theguardian.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:01:00Z",
-      "publishedAt": "2026-10-10T11:01:00Z",
-      "summary": "",
-      "url": "https://www.theguardian.com/media/2026/oct/10/telegraph-owner-axel-springer-newsroom-job-cuts-u-turn"
-    },
-    {
       "id": "https://techstory.in/netflix-layoffs-expected-as-streaming-giant-faces-growth-concerns-stock-decline/",
       "title": "Netflix Layoffs Expected as Streaming Giant Faces Growth Concerns, Stock Decline - TechStory",
       "source": "techstory.in",
@@ -672,9 +660,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3365,
-    "relevantItems": 41,
-    "feedBytes": 957435,
+    "fetchedItems": 3378,
+    "relevantItems": 44,
+    "feedBytes": 951731,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
