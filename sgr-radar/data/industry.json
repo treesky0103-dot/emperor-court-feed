@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 07:35:08",
+  "updatedAt": "2026. 10. 12. 오전 07:52:57",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 587,
-    "deduped": 587,
-    "eventDeduped": 587,
+    "passed": 585,
+    "deduped": 585,
+    "eventDeduped": 585,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -114,16 +114,16 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101023202889185"
     },
     {
-      "id": "https://abc7chicago.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
+      "id": "https://abc7news.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
       "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
-      "source": "abc7chicago.com",
+      "source": "abc7news.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T22:31:00Z",
-      "publishedAt": "2026-10-11T22:31:00Z",
+      "dateRaw": "2026-10-11T22:46:00Z",
+      "publishedAt": "2026-10-11T22:46:00Z",
       "summary": "",
-      "url": "https://abc7chicago.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
+      "url": "https://abc7news.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
     },
     {
       "id": "https://www.hindustantimes.com/world-news/ukraine-wants-peace-does-russia-zelensky-reports-fresh-strikes-on-power-plants-despite-trumps-energy-ceasefire-announcement-101791755128416.html",
@@ -344,16 +344,16 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101023202889185"
     },
     {
-      "id": "https://abc7chicago.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
+      "id": "https://abc7news.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
       "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
-      "source": "abc7chicago.com",
+      "source": "abc7news.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T22:31:00Z",
-      "publishedAt": "2026-10-11T22:31:00Z",
+      "dateRaw": "2026-10-11T22:46:00Z",
+      "publishedAt": "2026-10-11T22:46:00Z",
       "summary": "",
-      "url": "https://abc7chicago.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
+      "url": "https://abc7news.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
     },
     {
       "id": "https://www.hindustantimes.com/world-news/ukraine-wants-peace-does-russia-zelensky-reports-fresh-strikes-on-power-plants-despite-trumps-energy-ceasefire-announcement-101791755128416.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2834,
-    "relevantItems": 64,
-    "feedBytes": 793437,
+    "fetchedItems": 2401,
+    "relevantItems": 46,
+    "feedBytes": 645112,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

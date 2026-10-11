@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 07:35:09",
+  "updatedAt": "2026. 10. 12. 오전 07:52:58",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 51,
-    "deduped": 51,
-    "eventDeduped": 51,
+    "passed": 50,
+    "deduped": 50,
+    "eventDeduped": 50,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -632,18 +632,6 @@
       "url": "https://www.prokerala.com/news/articles/a1822966.html"
     },
     {
-      "id": "https://www.chiangraitimes.com/ai/10-best-free-ai-tools/",
-      "title": "10 Best Free AI Tools For Productivity You Probably Haven’t Tried in 2026",
-      "source": "chiangraitimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T02:47:00Z",
-      "publishedAt": "2026-10-11T02:47:00Z",
-      "summary": "",
-      "url": "https://www.chiangraitimes.com/ai/10-best-free-ai-tools/"
-    },
-    {
       "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
       "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
       "source": "natlawreview.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-11T08:16:00Z",
       "summary": "",
       "url": "https://www.freepressjournal.in/business/suzlon-bets-550-crore-on-3-ai-powered-blade-factories-15000-jobs-in-pipeline-by-2027"
+    },
+    {
+      "id": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/",
+      "title": "Amazon layoffs hit hundreds in retail; Seattle impact unclear",
+      "source": "kiro7.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T08:16:00Z",
+      "publishedAt": "2026-10-11T08:16:00Z",
+      "summary": "",
+      "url": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2834,
-    "relevantItems": 64,
-    "feedBytes": 793437,
+    "fetchedItems": 2401,
+    "relevantItems": 46,
+    "feedBytes": 645112,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
