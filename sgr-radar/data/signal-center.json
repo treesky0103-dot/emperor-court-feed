@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 10:26:40",
+  "updatedAt": "2026. 10. 11. 오후 10:46:03",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -195,14 +195,12 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:00:00Z",
-          "publishedAt": "2026-10-11T05:00:00Z",
+          "dateRaw": "2026-10-11T07:31:00Z",
+          "publishedAt": "2026-10-11T07:31:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "https://www.etnews.com/20261008000223"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -219,6 +217,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257",
+          "title": "[포토]달러·엔 환율 하락",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:31:00Z",
+          "publishedAt": "2026-10-11T13:31:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/economy/finance/1281835.html",
           "title": "왜곡된 금리의 제자리 찾기",
           "source": "hani.co.kr",
@@ -229,18 +239,6 @@
           "publishedAt": "2026-10-11T11:47:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/finance/1281835.html"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257",
-          "title": "\"임원 조기 인사로 관세·AI 대응\"…SK 10월, 삼성·LG 11월 단행할듯",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T11:01:00Z",
-          "publishedAt": "2026-10-11T11:01:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257"
         },
         {
           "id": "https://newsway.co.kr/news/view?ud=2026101113341534030",
@@ -310,6 +308,10 @@
         },
         {
           "word": "인력",
+          "count": 1
+        },
+        {
+          "word": "환율",
           "count": 1
         }
       ],
@@ -547,6 +549,18 @@
           "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines"
         },
         {
+          "id": "https://www.businesstoday.in/education/story/from-physical-science-to-ai-research-in-japan-meet-iit-madras-student-shudhanshu-kumar-yadav-selected-for-university-of-tokyo-lab-560876-2026-10-11",
+          "title": "From Physical Science to AI research in Japan: Meet IIT Madras student Shudhanshu Kumar Yadav selected for University of Tokyo lab - BusinessToday",
+          "source": "businesstoday.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:31:00Z",
+          "publishedAt": "2026-10-11T13:31:00Z",
+          "summary": "",
+          "url": "https://www.businesstoday.in/education/story/from-physical-science-to-ai-research-in-japan-meet-iit-madras-student-shudhanshu-kumar-yadav-selected-for-university-of-tokyo-lab-560876-2026-10-11"
+        },
+        {
           "id": "https://www.asiaone.com:443/lifestyle/mental-health-ai-chatbot-survey",
           "title": "Would you talk to an AI chatbot about your mental health? 1 in 5 people in Singapore already do, AsiaOne survey shows",
           "source": "asiaone.com",
@@ -593,31 +607,19 @@
           "publishedAt": "2026-10-11T10:01:00Z",
           "summary": "",
           "url": "https://tribalcollegejournal.org/on-our-own-terms-indigenous-histories-of-school-funding-and-policy/"
-        },
-        {
-          "id": "https://aninews.in/news/national/general-news/shed-arrogance-and-take-parliament-panels-report-on-educational-reforms-seriously-congress20261011140917/",
-          "title": "Shed arrogance and take Parliament panel's report on educational reforms seriously: Congress",
-          "source": "aninews.in",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:01:00Z",
-          "publishedAt": "2026-10-11T10:01:00Z",
-          "summary": "",
-          "url": "https://aninews.in/news/national/general-news/shed-arrogance-and-take-parliament-panels-report-on-educational-reforms-seriously-congress20261011140917/"
         }
       ],
       "keywords": [
+        {
+          "word": "교육",
+          "count": 3
+        },
         {
           "word": "정신건강",
           "count": 3
         },
         {
           "word": "고령화",
-          "count": 2
-        },
-        {
-          "word": "교육",
           "count": 2
         },
         {
@@ -656,6 +658,42 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece",
+          "title": "₹7.5 lakh crore private investment likely in nuke sector; 30 GW contribution by 2047: AEC chief Mohanty",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:32:00Z",
+          "publishedAt": "2026-10-11T13:32:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/international/international_general/1281736.html",
+          "title": "트럼프 “푸틴과 러 경유 30만t 공급 합의”…우크라 “전쟁 투자” 맹비난",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:32:00Z",
+          "publishedAt": "2026-10-11T13:32:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1281736.html"
+        },
+        {
+          "id": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo",
+          "title": "Business groups warn of irreversible economic consequences if trade deal remains in limbo",
+          "source": "financialpost.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:31:00Z",
+          "publishedAt": "2026-10-11T13:31:00Z",
+          "summary": "",
+          "url": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo"
+        },
+        {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/",
           "title": "팀 쿡 애플 의장, CEO 퇴임 후 첫 중국 방문…청정에너지 투자도 확대",
           "source": "biz.chosun.com",
@@ -692,18 +730,6 @@
           "url": "https://www.tnp.no/norway/panorama/1887-conference-on-the-labour-market-and-the-economic-crisis/"
         },
         {
-          "id": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-receives-investment-intends-worth-over-695-crores-in-dairy-sector/article71569110.ece",
-          "title": "Uttar Pradesh receives investment intends worth over ₹695 crores in Dairy sector",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:16:00Z",
-          "publishedAt": "2026-10-11T07:16:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-receives-investment-intends-worth-over-695-crores-in-dairy-sector/article71569110.ece"
-        },
-        {
           "id": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks",
           "title": "China says can avoid 'escalation' after EU trade talks - Economy - The Jakarta Post",
           "source": "thejakartapost.com",
@@ -716,18 +742,6 @@
           "url": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks"
         },
         {
-          "id": "https://www.hani.co.kr/arti/international/china/1281782.html",
-          "title": "정면충돌 피한 중-EU…하이브리드차 수출 조절 합의",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:01:00Z",
-          "publishedAt": "2026-10-11T05:01:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/international/china/1281782.html"
-        },
-        {
           "id": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/",
           "title": "Indonesia’s Energy Investment Potential",
           "source": "thediplomat.com",
@@ -738,18 +752,6 @@
           "publishedAt": "2026-10-11T00:46:00Z",
           "summary": "",
           "url": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/"
-        },
-        {
-          "id": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness",
-          "title": "PrairiesCan investments in defence-related projects will strengthen the Alberta economy and support Canada's military readiness",
-          "source": "torontotelegraph.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T23:16:00Z",
-          "publishedAt": "2026-10-10T23:16:00Z",
-          "summary": "",
-          "url": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness"
         }
       ],
       "keywords": [
@@ -758,19 +760,15 @@
           "count": 4
         },
         {
+          "word": "무역",
+          "count": 2
+        },
+        {
           "word": "고용",
           "count": 1
         },
         {
           "word": "금리",
-          "count": 1
-        },
-        {
-          "word": "무역",
-          "count": 1
-        },
-        {
-          "word": "수출",
           "count": 1
         }
       ],
@@ -780,6 +778,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
+          "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:32:00Z",
+          "publishedAt": "2026-10-11T13:32:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+        },
         {
           "id": "https://www.koreatimes.co.kr/business/tech-science/20261011/cover-story-koreas-2-track-ai-strategy-casts-uncertainty-over-sovereign-model-project",
           "title": "[COVER STORY] Korea's 2-track AI strategy casts uncertainty over sovereign model project - The Korea Times",
@@ -817,6 +827,18 @@
           "url": "https://digg.com/tech/n7xvznui"
         },
         {
+          "id": "https://auburnpub.com/news/local/government-politics/elections/article_b47b081c-e92c-59a6-8902-bf1414a0ef52.html",
+          "title": "Hochul, Blakeman offer very different views on data centers, energy needs",
+          "source": "auburnpub.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:31:00Z",
+          "publishedAt": "2026-10-11T13:31:00Z",
+          "summary": "",
+          "url": "https://auburnpub.com/news/local/government-politics/elections/article_b47b081c-e92c-59a6-8902-bf1414a0ef52.html"
+        },
+        {
           "id": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
           "title": "This Chinese memory chip maker has global potential and is poised to outperform",
           "source": "cnbc.com",
@@ -827,18 +849,6 @@
           "publishedAt": "2026-10-11T12:01:00Z",
           "summary": "",
           "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html"
-        },
-        {
-          "id": "https://poststar.com/news/local/government-politics/elections/article_d2bf2f6d-eef3-565e-8c76-0914285229fa.html",
-          "title": "Hochul, Blakeman offer very different views on data centers, energy needs",
-          "source": "poststar.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T11:31:00Z",
-          "publishedAt": "2026-10-11T11:31:00Z",
-          "summary": "",
-          "url": "https://poststar.com/news/local/government-politics/elections/article_d2bf2f6d-eef3-565e-8c76-0914285229fa.html"
         },
         {
           "id": "https://www.surinenglish.com/spain/cnmc-puts-brakes-20261009000500-nt.html",
@@ -887,24 +897,12 @@
           "publishedAt": "2026-10-11T04:46:00Z",
           "summary": "",
           "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom"
-        },
-        {
-          "id": "https://www.businesspost.ie/companies/completely-incorrect-echelon-official-rejects-claim-data-centres-have-sweetheart-deal-on-energy/",
-          "title": "‘Completely incorrect’: Echelon official rejects claim data centres have ‘sweetheart deal’ on energy",
-          "source": "businesspost.ie",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T00:17:00Z",
-          "publishedAt": "2026-10-11T00:17:00Z",
-          "summary": "",
-          "url": "https://www.businesspost.ie/companies/completely-incorrect-echelon-official-rejects-claim-data-centres-have-sweetheart-deal-on-energy/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "데이터센터",
@@ -931,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3969,
-    "feedBytes": 1133049,
+    "fetchedItems": 4098,
+    "feedBytes": 1166877,
     "rollingWindowHours": 72
   }
 }

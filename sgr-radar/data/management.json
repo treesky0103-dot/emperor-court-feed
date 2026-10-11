@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 09:42:51",
+  "updatedAt": "2026. 10. 11. 오후 10:45:56",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 45,
-    "deduped": 45,
-    "eventDeduped": 45,
+    "passed": 47,
+    "deduped": 47,
+    "eventDeduped": 47,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -102,6 +102,18 @@
       "url": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html"
     },
     {
+      "id": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
+      "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade | Fortune",
+      "source": "fortune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T13:32:00Z",
+      "publishedAt": "2026-10-11T13:32:00Z",
+      "summary": "",
+      "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+    },
+    {
       "id": "https://www.hani.co.kr/arti/international/china/1281782.html",
       "title": "정면충돌 피한 중-EU…하이브리드차 수출 조절 합의",
       "source": "hani.co.kr",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-11T01:47:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10898443"
-    },
-    {
-      "id": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/",
-      "title": "Amazon layoffs hit hundreds in retail; Seattle impact unclear",
-      "source": "kiro7.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T08:16:00Z",
-      "publishedAt": "2026-10-11T08:16:00Z",
-      "summary": "",
-      "url": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/"
     }
   ],
   "trendItems": [
@@ -260,6 +260,18 @@
       "url": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html"
     },
     {
+      "id": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
+      "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade | Fortune",
+      "source": "fortune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T13:32:00Z",
+      "publishedAt": "2026-10-11T13:32:00Z",
+      "summary": "",
+      "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+    },
+    {
       "id": "https://www.etnews.com/20261011000066",
       "title": "금융권 AI 해킹, 中 조직 연루 정황…아르텍스는 개발 중단",
       "source": "etnews.com",
@@ -342,6 +354,18 @@
       "publishedAt": "2026-10-11T05:47:00Z",
       "summary": "",
       "url": "https://newsway.co.kr/news/view?ud=2026101113341534030"
+    },
+    {
+      "id": "https://www.deccanchronicle.com/business/companies/airtel-business-chief-views-adequate-guardrails-on-ai-can-unlock-productivity-gains-1994908",
+      "title": "Airtel Business Chief Views Adequate Guardrails On AI Can Unlock Productivity Gains",
+      "source": "deccanchronicle.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T13:31:00Z",
+      "publishedAt": "2026-10-11T13:31:00Z",
+      "summary": "",
+      "url": "https://www.deccanchronicle.com/business/companies/airtel-business-chief-views-adequate-guardrails-on-ai-can-unlock-productivity-gains-1994908"
     },
     {
       "id": "https://www.rediff.com/business/report/airtel-business-ceo-safe-ai-architecture-unlocks-enterprise-gains/20261011.htm",
@@ -684,9 +708,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3969,
-    "relevantItems": 56,
-    "feedBytes": 1133049,
+    "fetchedItems": 4098,
+    "relevantItems": 61,
+    "feedBytes": 1166877,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
