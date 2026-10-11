@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 03:39:52",
+  "updatedAt": "2026. 10. 12. 오전 04:16:38",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 610,
-    "deduped": 610,
-    "eventDeduped": 610,
+    "passed": 614,
+    "deduped": 614,
+    "eventDeduped": 614,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -272,16 +272,16 @@
       "url": "https://www.etnews.com/20261006000382"
     },
     {
-      "id": "https://www.koreatimes.co.kr/business/tech-science/20261011/cover-story-koreas-2-track-ai-strategy-casts-uncertainty-over-sovereign-model-project",
-      "title": "[COVER STORY] Korea's 2-track AI strategy casts uncertainty over sovereign model project - The Korea Times",
-      "source": "koreatimes.co.kr",
+      "id": "https://www.worldoil.com/topics/intent-topics-technical-content-only/production-ai-inspection-robotics/",
+      "title": "Production AI & Inspection Robotics",
+      "source": "worldoil.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T07:16:00Z",
-      "publishedAt": "2026-10-11T07:16:00Z",
+      "dateRaw": "2026-10-11T19:01:00Z",
+      "publishedAt": "2026-10-11T19:01:00Z",
       "summary": "",
-      "url": "https://www.koreatimes.co.kr/business/tech-science/20261011/cover-story-koreas-2-track-ai-strategy-casts-uncertainty-over-sovereign-model-project"
+      "url": "https://www.worldoil.com/topics/intent-topics-technical-content-only/production-ai-inspection-robotics/"
     },
     {
       "id": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3093,
-    "relevantItems": 56,
-    "feedBytes": 871461,
+    "fetchedItems": 3359,
+    "relevantItems": 65,
+    "feedBytes": 942289,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
