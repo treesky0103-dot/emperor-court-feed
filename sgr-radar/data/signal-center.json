@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 09:42:57",
+  "updatedAt": "2026. 10. 11. 오후 10:26:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -547,6 +547,18 @@
           "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines"
         },
         {
+          "id": "https://www.asiaone.com:443/lifestyle/mental-health-ai-chatbot-survey",
+          "title": "Would you talk to an AI chatbot about your mental health? 1 in 5 people in Singapore already do, AsiaOne survey shows",
+          "source": "asiaone.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:17:00Z",
+          "publishedAt": "2026-10-11T13:17:00Z",
+          "summary": "",
+          "url": "https://www.asiaone.com:443/lifestyle/mental-health-ai-chatbot-survey"
+        },
+        {
           "id": "https://www.ksmu.org/2026-10-11/springfield-daily-citizen-education-reporter-explains-whats-happening-with-the-sps-long-range-facility-plan",
           "title": "Springfield Daily Citizen education reporter explains what's happening with the SPS long-range facility plan",
           "source": "ksmu.org",
@@ -593,31 +605,19 @@
           "publishedAt": "2026-10-11T10:01:00Z",
           "summary": "",
           "url": "https://aninews.in/news/national/general-news/shed-arrogance-and-take-parliament-panels-report-on-educational-reforms-seriously-congress20261011140917/"
-        },
-        {
-          "id": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717",
-          "title": "African genomics research is growing: what countries are doing to connect genetic data and healthcare",
-          "source": "theconversation.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T08:16:00Z",
-          "publishedAt": "2026-10-11T08:16:00Z",
-          "summary": "",
-          "url": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717"
         }
       ],
       "keywords": [
+        {
+          "word": "정신건강",
+          "count": 3
+        },
         {
           "word": "고령화",
           "count": 2
         },
         {
           "word": "교육",
-          "count": 2
-        },
-        {
-          "word": "정신건강",
           "count": 2
         },
         {
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2286,
-    "feedBytes": 638066,
+    "fetchedItems": 3969,
+    "feedBytes": 1133049,
     "rollingWindowHours": 72
   }
 }
