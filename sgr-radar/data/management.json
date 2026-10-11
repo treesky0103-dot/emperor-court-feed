@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 11:11:34",
+  "updatedAt": "2026. 10. 11. 오전 11:36:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 39,
-    "deduped": 39,
-    "eventDeduped": 39,
+    "passed": 38,
+    "deduped": 38,
+    "eventDeduped": 38,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -560,18 +560,6 @@
       "url": "https://www.computerworld.dk/partner/131999/93-af-alle-job-paavirkes-af-ai-hvad-betyder-det-for-danske-virksomheder"
     },
     {
-      "id": "https://www.indiatimes.com/trending/being-ashamed-of-family-wealth-as-backup-why-young-indians-born-around-2005-face-a-tougher-future-with-ai-rising-house-prices-and-fewer-good-jobs/articleshow/134836708.html",
-      "title": "‘Being ashamed of family wealth as backup?’: Why young Indians born around 2005 face a tougher future with AI, rising house prices and fewer good jobs",
-      "source": "indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T06:31:00Z",
-      "publishedAt": "2026-10-10T06:31:00Z",
-      "summary": "",
-      "url": "https://www.indiatimes.com/trending/being-ashamed-of-family-wealth-as-backup-why-young-indians-born-around-2005-face-a-tougher-future-with-ai-rising-house-prices-and-fewer-good-jobs/articleshow/134836708.html"
-    },
-    {
       "id": "https://everything-pr.com/walgreens-pr-strategy",
       "title": "Walgreens PR: Store Closures, Layoffs and Private Ownership",
       "source": "everything-pr.com",
@@ -612,9 +600,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2102,
-    "relevantItems": 35,
-    "feedBytes": 556501,
+    "fetchedItems": 2243,
+    "relevantItems": 22,
+    "feedBytes": 607119,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

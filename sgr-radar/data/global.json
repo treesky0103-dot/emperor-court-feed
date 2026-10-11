@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 10:52:33",
+  "updatedAt": "2026. 10. 11. 오전 11:36:19",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 150,
-    "deduped": 150,
-    "eventDeduped": 150,
+    "passed": 152,
+    "deduped": 152,
+    "eventDeduped": 152,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -354,6 +354,18 @@
       "publishedAt": "2026-10-10T08:46:00Z",
       "summary": "",
       "url": "https://carnewschina.com/2026/10/10/china-and-eu-reportedly-reach-understanding-on-hybrid-vehicle-trade-averting-potential-tariffs/"
+    },
+    {
+      "id": "https://www.dongascience.com:443/ko/news/78394",
+      "title": "로봇 만들려면 결국 中 거쳐야…휴머노이드 공급망 사실상 장악",
+      "source": "dongascience.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T02:31:00Z",
+      "publishedAt": "2026-10-11T02:31:00Z",
+      "summary": "",
+      "url": "https://www.dongascience.com:443/ko/news/78394"
     },
     {
       "id": "https://www.newspim.com/news/view/20260827000972",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T00:46:00Z",
       "summary": "",
       "url": "https://www.fnnews.com/news/202610110500193805"
-    },
-    {
-      "id": "https://www.fnnews.com/news/202610110700408248",
-      "title": "금리 vs 실적…코스피, 7000선 재도전 나설까[주간증시전망]",
-      "source": "fnnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T00:46:00Z",
-      "publishedAt": "2026-10-11T00:46:00Z",
-      "summary": "",
-      "url": "https://www.fnnews.com/news/202610110700408248"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2102,
-    "relevantItems": 35,
-    "feedBytes": 556501,
+    "fetchedItems": 2243,
+    "relevantItems": 22,
+    "feedBytes": 607119,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
