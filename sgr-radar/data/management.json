@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 10:52:32",
+  "updatedAt": "2026. 10. 11. 오전 11:11:34",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 40,
-    "deduped": 40,
-    "eventDeduped": 40,
+    "passed": 39,
+    "deduped": 39,
+    "eventDeduped": 39,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,18 +332,6 @@
       "url": "https://www.prokerala.com/news/articles/a1822733.html"
     },
     {
-      "id": "https://www.indiatimes.com/trending/netflix-restructuring-16000-employees-at-the-end-of-2025-but-now-850-jobs-may-be-at-risk-heres-what-changed-for-the-streaming-giant/articleshow/134846833.html",
-      "title": "Netflix restructuring: 16,000 employees at the end of 2025, but now 850 jobs may be at risk! Here’s what changed for the streaming giant",
-      "source": "indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T06:31:00Z",
-      "publishedAt": "2026-10-10T06:31:00Z",
-      "summary": "",
-      "url": "https://www.indiatimes.com/trending/netflix-restructuring-16000-employees-at-the-end-of-2025-but-now-850-jobs-may-be-at-risk-heres-what-changed-for-the-streaming-giant/articleshow/134846833.html"
-    },
-    {
       "id": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/",
       "title": "Tech Expertise Required for Futuristic Custom Software Development",
       "source": "chiangraitimes.com",
@@ -624,9 +612,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1894,
-    "relevantItems": 34,
-    "feedBytes": 498628,
+    "fetchedItems": 2102,
+    "relevantItems": 35,
+    "feedBytes": 556501,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
