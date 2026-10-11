@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 09:14:35",
+  "updatedAt": "2026. 10. 11. 오후 09:42:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 619,
-    "deduped": 619,
-    "eventDeduped": 619,
+    "passed": 626,
+    "deduped": 626,
+    "eventDeduped": 626,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,16 +392,16 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
-      "id": "https://www.wlky.com/article/ukraine-strikes-russia-third-data-center/74101049",
-      "title": "Ukraine steps up strikes on Russia's tech infrastructure, damaging third data center in 4 days",
-      "source": "wlky.com",
+      "id": "https://www.breitbart.com/news/ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/",
+      "title": "Ukraine steps up strikes on Russia’s tech infrastructure, damaging third data center in 4 days - Breitbart",
+      "source": "breitbart.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T12:01:00Z",
-      "publishedAt": "2026-10-11T12:01:00Z",
+      "dateRaw": "2026-10-11T12:31:00Z",
+      "publishedAt": "2026-10-11T12:31:00Z",
       "summary": "",
-      "url": "https://www.wlky.com/article/ukraine-strikes-russia-third-data-center/74101049"
+      "url": "https://www.breitbart.com/news/ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/"
     },
     {
       "id": "https://trib.com/news/state-regional/business/health-care/article_a673da03-7418-4d06-8989-6930205020ef.html",
@@ -596,18 +596,6 @@
       "url": "https://www.koreaherald.com/article/10897728"
     },
     {
-      "id": "https://www.thehindu.com/news/national/telangana/round-table-discusses-damage-due-to-data-centres/article71568830.ece",
-      "title": "Round table discusses damage due to data centres",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T16:01:00Z",
-      "publishedAt": "2026-10-10T16:01:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/telangana/round-table-discusses-damage-due-to-data-centres/article71568830.ece"
-    },
-    {
       "id": "https://dominicanrepublicpost.com/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack/",
       "title": "Russia’s Yandex says data centre in Vladimir shut down after drone attack - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
       "source": "dominicanrepublicpost.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-10T21:16:00Z",
       "summary": "",
       "url": "https://techstory.in/ukraine-strikes-yandex-data-centre-in-russia-disrupting-services-for-millions/"
+    },
+    {
+      "id": "https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/",
+      "title": "Nigeria Targets 200MW of Data Centre Capacity, and the Governing Party Chairman Is Asking Where the Power Comes From - iAfrica.com",
+      "source": "iafrica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-10",
+      "dateRaw": "2026-10-10T19:47:00Z",
+      "publishedAt": "2026-10-10T19:47:00Z",
+      "summary": "",
+      "url": "https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4171,
-    "relevantItems": 43,
-    "feedBytes": 1167336,
+    "fetchedItems": 4164,
+    "relevantItems": 58,
+    "feedBytes": 1188772,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

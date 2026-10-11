@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 09:14:39",
+  "updatedAt": "2026. 10. 11. 오후 09:42:57",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -120,23 +120,19 @@
           "url": "https://www.segye.com:443/newsView/20261011510095"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261011000071",
-          "title": "풀무원재단, 경남 교원 30여명 공감교육 연수…학교 현장 확대",
-          "source": "newspim.com",
+          "id": "https://seoul.co.kr:443/news/society/2026/10/12/20261012010005",
+          "title": "취업 막힌 청년 배달·택배… ‘나 홀로 자영업’에 몰렸다",
+          "source": "seoul.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T11:47:00Z",
-          "publishedAt": "2026-10-11T11:47:00Z",
+          "dateRaw": "2026-10-11T12:32:00Z",
+          "publishedAt": "2026-10-11T12:32:00Z",
           "summary": "",
-          "url": "https://www.newspim.com/news/view/20261011000071"
+          "url": "https://seoul.co.kr:443/news/society/2026/10/12/20261012010005"
         }
       ],
       "keywords": [
-        {
-          "word": "교육",
-          "count": 3
-        },
         {
           "word": "복지",
           "count": 3
@@ -147,7 +143,11 @@
         },
         {
           "word": "청년",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "저출생",
@@ -547,6 +547,18 @@
           "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines"
         },
         {
+          "id": "https://www.ksmu.org/2026-10-11/springfield-daily-citizen-education-reporter-explains-whats-happening-with-the-sps-long-range-facility-plan",
+          "title": "Springfield Daily Citizen education reporter explains what's happening with the SPS long-range facility plan",
+          "source": "ksmu.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:32:00Z",
+          "publishedAt": "2026-10-11T12:32:00Z",
+          "summary": "",
+          "url": "https://www.ksmu.org/2026-10-11/springfield-daily-citizen-education-reporter-explains-whats-happening-with-the-sps-long-range-facility-plan"
+        },
+        {
           "id": "https://www.mondaq.com:443/unitedstates/social-media/1852364/nad-adds-another-social-media-platform-to-its-reporting-toolbox",
           "title": "NAD Adds Another Social Media Platform To Its Reporting Toolbox",
           "source": "mondaq.com",
@@ -593,18 +605,6 @@
           "publishedAt": "2026-10-11T08:16:00Z",
           "summary": "",
           "url": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717"
-        },
-        {
-          "id": "https://www.orissapost.com/pm-modi-keeps-tab-on-social-media-use-by-cms-odisha-mulls-policy-on-digital-platforms-cm-majhi/",
-          "title": "PM Modi keeps tab on social media use by CMs; Odisha mulls policy on digital platforms: CM Majhi - OrissaPOST",
-          "source": "orissapost.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T06:31:00Z",
-          "publishedAt": "2026-10-11T06:31:00Z",
-          "summary": "",
-          "url": "https://www.orissapost.com/pm-modi-keeps-tab-on-social-media-use-by-cms-odisha-mulls-policy-on-digital-platforms-cm-majhi/"
         }
       ],
       "keywords": [
@@ -613,12 +613,12 @@
           "count": 2
         },
         {
-          "word": "정신건강",
+          "word": "교육",
           "count": 2
         },
         {
-          "word": "교육",
-          "count": 1
+          "word": "정신건강",
+          "count": 2
         },
         {
           "word": "인구",
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4171,
-    "feedBytes": 1167336,
+    "fetchedItems": 4164,
+    "feedBytes": 1188772,
     "rollingWindowHours": 72
   }
 }
