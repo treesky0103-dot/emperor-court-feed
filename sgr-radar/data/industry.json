@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 05:11:09",
+  "updatedAt": "2026. 10. 12. 오전 05:35:33",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 605,
-    "deduped": 605,
-    "eventDeduped": 605,
+    "passed": 599,
+    "deduped": 599,
+    "eventDeduped": 599,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -596,6 +596,18 @@
       "url": "https://www.koreaherald.com/article/10897728"
     },
     {
+      "id": "https://obj.ca/data/craft-breweries/",
+      "title": "OBJ Data Centre | Ottawa Business Journal",
+      "source": "obj.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T20:31:00Z",
+      "publishedAt": "2026-10-11T20:31:00Z",
+      "summary": "",
+      "url": "https://obj.ca/data/craft-breweries/"
+    },
+    {
       "id": "https://edmontonjournal.com:443/news/local-news/data-centres-security-risks-strategic-value-csis",
       "title": "Data centres face security risks amid growing strategic value: CSIS",
       "source": "edmontonjournal.com",
@@ -630,18 +642,6 @@
       "publishedAt": "2026-10-11T17:47:00Z",
       "summary": "",
       "url": "https://www.businessday.co.za/news/2026-10-12-appeal-against-equinix-data-centre-to-be-heard-behind-closed-doors/"
-    },
-    {
-      "id": "https://obj.ca/data/clean-tech-companies-65/",
-      "title": "OBJ Data Centre | Ottawa Business Journal",
-      "source": "obj.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T15:47:00Z",
-      "publishedAt": "2026-10-11T15:47:00Z",
-      "summary": "",
-      "url": "https://obj.ca/data/clean-tech-companies-65/"
     },
     {
       "id": "https://arynews.tv/russias-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2932,
+    "fetchedItems": 2800,
     "relevantItems": 64,
-    "feedBytes": 830060,
+    "feedBytes": 795306,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

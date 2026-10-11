@@ -1,23 +1,23 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 05:11:15",
+  "updatedAt": "2026. 10. 12. 오전 05:35:42",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12173131",
-          "title": "[포토] 대학 캠퍼스에 수험생 인파…수시 논술 스타트",
+          "id": "https://www.mk.co.kr/news/society/12173047",
+          "title": "내신 5등급·고교학점제 전면 적용 … ‘이 학교’는 인기 급상승 중",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T17:35:37Z",
-          "publishedAt": "2026-10-11T17:35:37Z",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T05:30:00Z",
+          "publishedAt": "2026-10-12T05:30:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12173131",
+          "url": "https://www.mk.co.kr/news/society/12173047",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -925,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2932,
-    "feedBytes": 830060,
+    "fetchedItems": 2800,
+    "feedBytes": 795306,
     "rollingWindowHours": 72
   }
 }
