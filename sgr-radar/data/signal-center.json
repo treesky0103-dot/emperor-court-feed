@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 10:59:50",
+  "updatedAt": "2026. 10. 11. 오후 11:19:00",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -656,6 +656,18 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/",
+          "title": "Nigeria’s insecurity threatens investment, economic growth – NESG",
+          "source": "punchng.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T14:16:00Z",
+          "publishedAt": "2026-10-11T14:16:00Z",
+          "summary": "",
+          "url": "https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/"
+        },
+        {
           "id": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece",
           "title": "₹7.5 lakh crore private investment likely in nuke sector; 30 GW contribution by 2047: AEC chief Mohanty",
           "source": "thehindu.com",
@@ -738,18 +750,6 @@
           "publishedAt": "2026-10-11T05:32:00Z",
           "summary": "",
           "url": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks"
-        },
-        {
-          "id": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/",
-          "title": "Indonesia’s Energy Investment Potential",
-          "source": "thediplomat.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T00:46:00Z",
-          "publishedAt": "2026-10-11T00:46:00Z",
-          "summary": "",
-          "url": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/"
         }
       ],
       "keywords": [
@@ -767,6 +767,10 @@
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "성장",
           "count": 1
         }
       ],
@@ -927,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3681,
-    "feedBytes": 1038411,
+    "fetchedItems": 648,
+    "feedBytes": 181653,
     "rollingWindowHours": 72
   }
 }
