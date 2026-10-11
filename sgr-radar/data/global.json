@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 05:35:35",
+  "updatedAt": "2026. 10. 12. 오전 06:11:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 145,
-    "deduped": 145,
-    "eventDeduped": 145,
+    "passed": 143,
+    "deduped": 143,
+    "eventDeduped": 143,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -512,6 +512,18 @@
       "url": "https://biz.heraldcorp.com/article/10898425"
     },
     {
+      "id": "https://www.afl.com.au/news/1626433/trade-talk-live-october-12-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period",
+      "title": "Trade Talk LIVE: Deal for Hawks pair set to go through, is Pies star up for grabs?",
+      "source": "afl.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T21:01:00Z",
+      "publishedAt": "2026-10-11T21:01:00Z",
+      "summary": "",
+      "url": "https://www.afl.com.au/news/1626433/trade-talk-live-october-12-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period"
+    },
+    {
       "id": "https://shipandbunker.com/news/features/bunker-quality-quantity/558927-tricks-of-the-bunker-trade-dealing-with-bunker-disputes",
       "title": "Tricks of the Bunker Trade: Dealing with Bunker Disputes",
       "source": "shipandbunker.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T11:01:00Z",
       "summary": "",
       "url": "https://www.maravipost.com/malawis-drug-crisis-exposes-a-broken-supply-chain/"
-    },
-    {
-      "id": "https://www.livemint.com/opinion/online-views/indias-export-imperative-here-s-how-we-must-mitigate-trade-risks-amid-global-turmoil-11791464952832.html",
-      "title": "India’s export imperative: Here’s how we must mitigate trade risks amid global turmoil | Mint",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T11:47:00Z",
-      "publishedAt": "2026-10-11T11:47:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/opinion/online-views/indias-export-imperative-here-s-how-we-must-mitigate-trade-risks-amid-global-turmoil-11791464952832.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2957,
-    "relevantItems": 38,
-    "feedBytes": 815945,
+    "fetchedItems": 2774,
+    "relevantItems": 35,
+    "feedBytes": 768542,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
