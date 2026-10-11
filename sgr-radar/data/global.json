@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 05:20:36",
+  "updatedAt": "2026. 10. 11. 오후 06:12:22",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 146,
-    "deduped": 146,
-    "eventDeduped": 146,
+    "passed": 145,
+    "deduped": 145,
+    "eventDeduped": 145,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,16 +524,16 @@
       "url": "https://biz.heraldcorp.com/article/10898425"
     },
     {
-      "id": "http://www.azerbaijannews.net/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal",
+      "id": "http://www.middleeaststar.com/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal",
       "title": "India expanding trade footprint to strengthen global ties and empower MSMEs: Piyush Goyal",
-      "source": "azerbaijannews.net",
+      "source": "middleeaststar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T07:46:00Z",
-      "publishedAt": "2026-10-11T07:46:00Z",
+      "dateRaw": "2026-10-11T09:01:00Z",
+      "publishedAt": "2026-10-11T09:01:00Z",
       "summary": "",
-      "url": "http://www.azerbaijannews.net/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal"
+      "url": "http://www.middleeaststar.com/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal"
     },
     {
       "id": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4069,
-    "relevantItems": 59,
-    "feedBytes": 1154946,
+    "fetchedItems": 3534,
+    "relevantItems": 54,
+    "feedBytes": 1000071,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

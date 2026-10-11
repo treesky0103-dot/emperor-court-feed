@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 05:56:17",
+  "updatedAt": "2026. 10. 11. 오후 06:12:25",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -108,6 +108,18 @@
           "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
+          "id": "https://www.insight.co.kr/news/577265",
+          "title": "‘암살자(들)’ 이민호가 살고 있는 집, 故 육영수 여사 아파트 부지였다",
+          "source": "insight.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T09:01:00Z",
+          "publishedAt": "2026-10-11T09:01:00Z",
+          "summary": "",
+          "url": "https://www.insight.co.kr/news/577265"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273307&PAGE_CD=N0002&CMPT_CD=M0112",
           "title": "\"문서로는 표현되지 않아\"... 간장 냄새로 증명한 이민자의 삶",
           "source": "ohmynews.com",
@@ -118,18 +130,6 @@
           "publishedAt": "2026-10-11T07:46:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273307&PAGE_CD=N0002&CMPT_CD=M0112"
-        },
-        {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026101115312443704",
-          "title": "강남3구 하락에도 서울 집값 상승 가속화…금천·관악·구로 강세",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:46:00Z",
-          "publishedAt": "2026-10-11T07:46:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026101115312443704"
         }
       ],
       "keywords": [
@@ -138,7 +138,7 @@
           "count": 5
         },
         {
-          "word": "주거",
+          "word": "이민",
           "count": 2
         },
         {
@@ -146,11 +146,11 @@
           "count": 1
         },
         {
-          "word": "이민",
+          "word": "정신건강",
           "count": 1
         },
         {
-          "word": "정신건강",
+          "word": "주거",
           "count": 1
         },
         {
@@ -652,6 +652,18 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "https://www.tnp.no/norway/panorama/1887-conference-on-the-labour-market-and-the-economic-crisis/",
+          "title": "Conference on the labour market and the economic crisis - The Nordic Page",
+          "source": "tnp.no",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T09:01:00Z",
+          "publishedAt": "2026-10-11T09:01:00Z",
+          "summary": "",
+          "url": "https://www.tnp.no/norway/panorama/1887-conference-on-the-labour-market-and-the-economic-crisis/"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-receives-investment-intends-worth-over-695-crores-in-dairy-sector/article71569110.ece",
           "title": "Uttar Pradesh receives investment intends worth over ₹695 crores in Dairy sector",
           "source": "thehindu.com",
@@ -734,18 +746,6 @@
           "publishedAt": "2026-10-10T16:01:00Z",
           "summary": "",
           "url": "https://english.aawsat.com/business/5328067-iraqi-central-bank-says-traders-will-not-bear-difference-under-new-dollar-exchange"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/tech/startups/deeptech-firms-need-govt-as-first-customer-west-asia-tensions-hit-supply-chains/articleshow/134856578.cms",
-          "title": "Deeptech start-ups: Deeptech firms need govt as first customer; West Asia tensions hit supply chains - The Economic Times",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T15:31:00Z",
-          "publishedAt": "2026-10-10T15:31:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/tech/startups/deeptech-firms-need-govt-as-first-customer-west-asia-tensions-hit-supply-chains/articleshow/134856578.cms"
         }
       ],
       "keywords": [
@@ -758,7 +758,7 @@
           "count": 2
         },
         {
-          "word": "공급망",
+          "word": "고용",
           "count": 1
         },
         {
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4069,
-    "feedBytes": 1154946,
+    "fetchedItems": 3534,
+    "feedBytes": 1000071,
     "rollingWindowHours": 72
   }
 }
