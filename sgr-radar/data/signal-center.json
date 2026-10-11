@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 08:11:14",
+  "updatedAt": "2026. 10. 12. 오전 08:34:17",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -32,6 +32,20 @@
           "publishedAt": "2026-10-11T22:31:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01571126645612264&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224220",
+          "title": "[굿모닝경제] 청년미래적금 2차 신청 / 삼성전자 외국인 '썰물' / 오피스텔 월세 급등",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T22:00:00Z",
+          "publishedAt": "2026-10-11T22:00:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224220",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://womannews.net/detail.php?number=456885&thread=22r03r03",
@@ -106,34 +120,22 @@
           "url": "https://biz.heraldcorp.com/article/10898711"
         },
         {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0114",
-          "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
-          "source": "ohmynews.com",
+          "id": "https://www.newspim.com/news/view/20261012000080",
+          "title": "박희승 \"농공단지 10곳 중 7곳 인구감소지역…전북 82%로 전국 최고\"",
+          "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T22:02:00Z",
-          "publishedAt": "2026-10-11T22:02:00Z",
+          "dateRaw": "2026-10-11T23:31:00Z",
+          "publishedAt": "2026-10-11T23:31:00Z",
           "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0114"
-        },
-        {
-          "id": "https://www.diodeo.com/news/view/4350049",
-          "title": "‘홍김동전’ 새 출발 동전 던지기 건강검진…주우재 “차라리 테이저건을 쏴”",
-          "source": "diodeo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T21:46:00Z",
-          "publishedAt": "2026-10-11T21:46:00Z",
-          "summary": "",
-          "url": "https://www.diodeo.com/news/view/4350049"
+          "url": "https://www.newspim.com/news/view/20261012000080"
         }
       ],
       "keywords": [
         {
           "word": "주거",
-          "count": 3
+          "count": 4
         },
         {
           "word": "복지",
@@ -145,6 +147,10 @@
         },
         {
           "word": "돌봄",
+          "count": 1
+        },
+        {
+          "word": "인구감소",
           "count": 1
         },
         {
@@ -229,6 +235,30 @@
           "url": "https://newsway.co.kr/news/view?ud=2026101113341534030"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10898890",
+          "title": "포스코DX, 스타트업 ‘인핸스’에 20억 투자…숙련자 노하우까지 AI 이식",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T23:31:00Z",
+          "publishedAt": "2026-10-11T23:31:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10898890"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261012000038",
+          "title": "美 현지 매체 \"韓 500억달러 알래스카 LNG 투자, 경제성 의문\"",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T23:31:00Z",
+          "publishedAt": "2026-10-11T23:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261012000038"
+        },
+        {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1315883",
           "title": "[IB토마토]효성중공업, 그룹 CVC 밖 투자 통로 확보…ESS 신사업 발굴 '속도'",
           "source": "newstomato.com",
@@ -263,30 +293,6 @@
           "publishedAt": "2026-10-11T20:01:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261011/1633351"
-        },
-        {
-          "id": "http://inews24.com/view/2013145",
-          "title": "[결혼과 이혼] \"수익이 꾸준했던 것도 아닌데\" …연봉 6000 회사 관두고 '전업 투자' 하겠다는 남편",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T19:46:00Z",
-          "publishedAt": "2026-10-11T19:46:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2013145"
-        },
-        {
-          "id": "http://www.ihalla.com/article.php?aid=1791730800791427043",
-          "title": "[사설] 투자 유치만 급급 직원 없는 ‘유령 회사’ 양산",
-          "source": "ihalla.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T18:02:00Z",
-          "publishedAt": "2026-10-11T18:02:00Z",
-          "summary": "",
-          "url": "http://www.ihalla.com/article.php?aid=1791730800791427043"
         }
       ],
       "keywords": [
@@ -336,16 +342,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2632574",
-          "title": "AI 데이터센터 늘자 전력 수요도 급증…ETF 투자처도 '전력 인프라'로",
-          "source": "etoday.co.kr",
+          "id": "https://biz.chosun.com/science-chosun/bio/2026/10/12/TH4DIF4IPRGBNIV6YJS2BOVU5E/",
+          "title": "AI 신약 설계부터 뇌질환 신약까지…빅파마가 찾는 K스타트업",
+          "source": "biz.chosun.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:32:00Z",
-          "publishedAt": "2026-10-11T05:32:00Z",
+          "dateRaw": "2026-10-11T23:31:00Z",
+          "publishedAt": "2026-10-11T23:31:00Z",
           "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2632574"
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/10/12/TH4DIF4IPRGBNIV6YJS2BOVU5E/"
         },
         {
           "id": "https://www.etnews.com/20261008000217",
@@ -398,18 +404,6 @@
           "url": "https://www.dongascience.com:443/ko/news/77696"
         },
         {
-          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/11/JLB7I2EZUVCC7MERDUVAZ7G3CQ/",
-          "title": "이창용 “반도체 호황, 10년 간다지만… 조기 종료 걱정”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T12:01:00Z",
-          "publishedAt": "2026-10-11T12:01:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/JLB7I2EZUVCC7MERDUVAZ7G3CQ/"
-        },
-        {
           "id": "https://zdnet.co.kr/view/?no=20261011194807",
           "title": "가드스퀘어 \"AI 해킹 시대, 금융·플랫폼 보안 마지막 관문은 신뢰할 수 있는 앱\"",
           "source": "zdnet.co.kr",
@@ -434,28 +428,40 @@
           "publishedAt": "2026-10-11T08:16:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/area/honam/1281806.html"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273795&PAGE_CD=N0002&CMPT_CD=M0111",
+          "title": "카이스트 총장 \"피지컬 AI, 로봇이 사람 닮는 데서 끝나선 안 돼\"",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T06:31:00Z",
+          "publishedAt": "2026-10-11T06:31:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273795&PAGE_CD=N0002&CMPT_CD=M0111"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 10
         },
         {
           "word": "반도체",
-          "count": 3
-        },
-        {
-          "word": "데이터센터",
-          "count": 2
-        },
-        {
-          "word": "전력",
           "count": 2
         },
         {
           "word": "제조",
           "count": 2
+        },
+        {
+          "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "로봇",
+          "count": 1
         },
         {
           "word": "클라우드",
@@ -531,6 +537,18 @@
           "url": "https://www.bbc.co.uk/news/articles/c620r33rdj14o"
         },
         {
+          "id": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden",
+          "title": "Center for Urban Research and Education (CURE) at Rutgers Universityâ€“Camden",
+          "source": "nextcity.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T23:31:00Z",
+          "publishedAt": "2026-10-11T23:31:00Z",
+          "summary": "",
+          "url": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden"
+        },
+        {
           "id": "https://www.wnd.com/2026/10/flu-thing-was-big-fat-lie-james-talarico/",
           "title": "‘The flu thing was a BIG FAT LIE’: James Talarico was reportedly hospitalized in mental health facility during his mysterious disappearance * WorldNetDaily * by Joe Kovacs",
           "source": "wnd.com",
@@ -577,18 +595,6 @@
           "publishedAt": "2026-10-11T19:01:00Z",
           "summary": "",
           "url": "https://www.ghanamma.com/2026/10/11/donald-trumps-new-press-secretary-katie-zacharia-tried-to-scrub-her-social-media-history-of-controversial-posts-report/"
-        },
-        {
-          "id": "https://news.webindia123.com/news/Articles/India/20261011/4509569.html",
-          "title": "Shed arrogance and take Parliament panel's report on educational reforms seriously: Congress",
-          "source": "news.webindia123.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T18:02:00Z",
-          "publishedAt": "2026-10-11T18:02:00Z",
-          "summary": "",
-          "url": "https://news.webindia123.com/news/Articles/India/20261011/4509569.html"
         }
       ],
       "keywords": [
@@ -603,6 +609,10 @@
         {
           "word": "청년",
           "count": 2
+        },
+        {
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "이민",
@@ -907,8 +917,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2431,
-    "feedBytes": 660753,
+    "fetchedItems": 2617,
+    "feedBytes": 683417,
     "rollingWindowHours": 72
   }
 }
