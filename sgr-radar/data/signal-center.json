@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 02:34:20",
+  "updatedAt": "2026. 10. 12. 오전 02:51:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -644,6 +644,18 @@
     "economy": {
       "items": [
         {
+          "id": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/",
+          "title": "Trump's tariffs forced U.S. factories to close down or lay off workers, and longtime GOP voters are revolting—'It was like taking a knife to the back' | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T17:47:00Z",
+          "publishedAt": "2026-10-11T17:47:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
+        },
+        {
           "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
           "title": "Nvidia weighs deeper ties with open-model developer Reflection AI through investment or computing deal",
           "source": "businesstimes.com.sg",
@@ -750,28 +762,12 @@
           "publishedAt": "2026-10-11T09:47:00Z",
           "summary": "",
           "url": "https://www.lankabusinessonline.com/2026/10/11/from-investment-to-economic-transformation-does-sri-lanka-need-one-integrated-development-agency/"
-        },
-        {
-          "id": "https://www.tnp.no/norway/panorama/1887-conference-on-the-labour-market-and-the-economic-crisis/",
-          "title": "Conference on the labour market and the economic crisis - The Nordic Page",
-          "source": "tnp.no",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T09:01:00Z",
-          "publishedAt": "2026-10-11T09:01:00Z",
-          "summary": "",
-          "url": "https://www.tnp.no/norway/panorama/1887-conference-on-the-labour-market-and-the-economic-crisis/"
         }
       ],
       "keywords": [
         {
           "word": "투자",
           "count": 5
-        },
-        {
-          "word": "고용",
-          "count": 1
         },
         {
           "word": "금리",
@@ -943,8 +939,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2221,
-    "feedBytes": 619679,
+    "fetchedItems": 3831,
+    "feedBytes": 1085963,
     "rollingWindowHours": 72
   }
 }
