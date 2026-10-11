@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 11:37:22",
+  "updatedAt": "2026. 10. 11. 오후 11:55:13",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -120,16 +120,16 @@
           "url": "https://www.segye.com:443/newsView/20261011510095"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261011000135",
-          "title": "월드옥타, 선전서 한·중 청년기업가 협력 첫발, 글로벌 함께 공략",
-          "source": "newspim.com",
+          "id": "http://inews24.com/view/2013637",
+          "title": "구미시, '아픈 아이 돌봄센터' 양육 공백 지원",
+          "source": "inews24.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:46:00Z",
-          "publishedAt": "2026-10-11T13:46:00Z",
+          "dateRaw": "2026-10-11T14:46:00Z",
+          "publishedAt": "2026-10-11T14:46:00Z",
           "summary": "",
-          "url": "https://www.newspim.com/news/view/20261011000135"
+          "url": "http://inews24.com/view/2013637"
         }
       ],
       "keywords": [
@@ -143,10 +143,14 @@
         },
         {
           "word": "청년",
-          "count": 3
+          "count": 2
         },
         {
           "word": "교육",
+          "count": 1
+        },
+        {
+          "word": "돌봄",
           "count": 1
         },
         {
@@ -195,14 +199,12 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:00:00Z",
-          "publishedAt": "2026-10-11T05:00:00Z",
+          "dateRaw": "2026-10-11T07:31:00Z",
+          "publishedAt": "2026-10-11T07:31:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "https://www.etnews.com/20261008000223"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -267,6 +269,18 @@
           "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
+          "id": "http://inews24.com/view/2013643",
+          "title": "엔비디아, '딥시크 대항마' 리플렉션 AI 인수 협상…추가 투자도 검토",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T14:47:00Z",
+          "publishedAt": "2026-10-11T14:47:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2013643"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10898756",
           "title": "“투자 실패 질책에 스트레스”…잠자던 아버지 살해한 40대 딸 구속",
           "source": "biz.heraldcorp.com",
@@ -277,18 +291,6 @@
           "publishedAt": "2026-10-11T14:32:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10898756"
-        },
-        {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1315774",
-          "title": "상반기에 지난해 투자액 넘었다…돈 몰리는 ‘피지컬 AI’",
-          "source": "newstomato.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:01:00Z",
-          "publishedAt": "2026-10-11T10:01:00Z",
-          "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1315774"
         }
       ],
       "keywords": [
@@ -656,6 +658,18 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "https://www.thehindu.com/news/national/telangana/two-held-for-inter-state-cryptocurrency-investment-fraud/article71571691.ece",
+          "title": "Two held for inter-State cryptocurrency investment fraud",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T14:47:00Z",
+          "publishedAt": "2026-10-11T14:47:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/national/telangana/two-held-for-inter-state-cryptocurrency-investment-fraud/article71571691.ece"
+        },
+        {
           "id": "https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/",
           "title": "Nigeria’s insecurity threatens investment, economic growth – NESG",
           "source": "punchng.com",
@@ -666,18 +680,6 @@
           "publishedAt": "2026-10-11T14:16:00Z",
           "summary": "",
           "url": "https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/"
-        },
-        {
-          "id": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece",
-          "title": "₹7.5 lakh crore private investment likely in nuke sector; 30 GW contribution by 2047: AEC chief Mohanty",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:32:00Z",
-          "publishedAt": "2026-10-11T13:32:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece"
         },
         {
           "id": "https://www.hani.co.kr/arti/international/international_general/1281736.html",
@@ -931,8 +933,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3752,
-    "feedBytes": 1058804,
+    "fetchedItems": 3892,
+    "feedBytes": 1103335,
     "rollingWindowHours": 72
   }
 }
