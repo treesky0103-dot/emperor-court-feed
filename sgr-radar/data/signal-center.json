@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 11:19:00",
+  "updatedAt": "2026. 10. 11. 오후 11:37:22",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -267,16 +267,16 @@
           "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10897548",
-          "title": "오라클·메타 이어 스페이스X…‘AI 빚더미’ 논란, 고공행진 주가에 찬물 [투자360]",
+          "id": "https://biz.heraldcorp.com/article/10898756",
+          "title": "“투자 실패 질책에 스트레스”…잠자던 아버지 살해한 40대 딸 구속",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:46:00Z",
-          "publishedAt": "2026-10-11T10:46:00Z",
+          "dateRaw": "2026-10-11T14:32:00Z",
+          "publishedAt": "2026-10-11T14:32:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897548"
+          "url": "https://biz.heraldcorp.com/article/10898756"
         },
         {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1315774",
@@ -829,16 +829,28 @@
           "url": "https://digg.com/tech/n7xvznui"
         },
         {
-          "id": "https://auburnpub.com/news/local/government-politics/elections/article_b47b081c-e92c-59a6-8902-bf1414a0ef52.html",
-          "title": "Hochul, Blakeman offer very different views on data centers, energy needs",
-          "source": "auburnpub.com",
+          "id": "http://www.econotimes.com/Elon-Musk-Eyes-Semiconductor-Manufacturing-Expansion-With-15-Billion-Terrafab-Project-1754552",
+          "title": "Elon Musk Eyes Semiconductor Manufacturing Expansion With $15 Billion Terrafab Project - EconoTimes",
+          "source": "econotimes.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:31:00Z",
-          "publishedAt": "2026-10-11T13:31:00Z",
+          "dateRaw": "2026-10-11T14:32:00Z",
+          "publishedAt": "2026-10-11T14:32:00Z",
           "summary": "",
-          "url": "https://auburnpub.com/news/local/government-politics/elections/article_b47b081c-e92c-59a6-8902-bf1414a0ef52.html"
+          "url": "http://www.econotimes.com/Elon-Musk-Eyes-Semiconductor-Manufacturing-Expansion-With-15-Billion-Terrafab-Project-1754552"
+        },
+        {
+          "id": "https://buffalonews.com/news/local/government-politics/elections/article_1bf93528-dc00-4859-80e4-e7efc51277fa.html",
+          "title": "Hochul, Blakeman offer very different views on data centers, energy needs",
+          "source": "buffalonews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T14:32:00Z",
+          "publishedAt": "2026-10-11T14:32:00Z",
+          "summary": "",
+          "url": "https://buffalonews.com/news/local/government-politics/elections/article_1bf93528-dc00-4859-80e4-e7efc51277fa.html"
         },
         {
           "id": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
@@ -887,39 +899,27 @@
           "publishedAt": "2026-10-11T07:46:00Z",
           "summary": "",
           "url": "http://www.reflector.com/news/local/electric-avenues-ai-data-centers-spur-natural-gas-solar-challenge-power-grids/article_dad54518-db5e-5c5f-a15d-4e0f41f02428.html"
-        },
-        {
-          "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom",
-          "title": "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
-          "source": "asia.nikkei.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T04:46:00Z",
-          "publishedAt": "2026-10-11T04:46:00Z",
-          "summary": "",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 4
         },
         {
           "word": "데이터센터",
           "count": 4
         },
         {
-          "word": "로봇",
-          "count": 1
-        },
-        {
           "word": "반도체",
-          "count": 1
+          "count": 2
         },
         {
           "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         }
       ],
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 648,
-    "feedBytes": 181653,
+    "fetchedItems": 3752,
+    "feedBytes": 1058804,
     "rollingWindowHours": 72
   }
 }
