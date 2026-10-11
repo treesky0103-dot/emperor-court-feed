@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 04:16:38",
+  "updatedAt": "2026. 10. 12. 오전 04:34:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 614,
-    "deduped": 614,
-    "eventDeduped": 614,
+    "passed": 617,
+    "deduped": 617,
+    "eventDeduped": 617,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
+      "id": "https://www.premiumtimesng.com/regional/ssouth-west/916178-sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027.html",
+      "title": "Sanwo-Olu targets 3,000MW electricity supply for Lagos by March 2027",
+      "source": "premiumtimesng.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T19:31:00Z",
+      "publishedAt": "2026-10-11T19:31:00Z",
+      "summary": "",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-west/916178-sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027.html"
+    },
+    {
       "id": "https://abc7.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
       "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
       "source": "abc7.com",
@@ -438,18 +450,6 @@
       "publishedAt": "2026-10-11T17:46:00Z",
       "summary": "",
       "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-steps-up-attacks-on-russian-tech-infrastructure-damages-third-data-center/articleshow/134873093.cms"
-    },
-    {
-      "id": "https://www.breitbart.com/europe/2026/10/11/trump-announces-ukraine-russia-ceasefire-on-strikes-against-energy-infrastructure/",
-      "title": "Trump Announces Ukraine-Russia Ceasefire on Energy Infrastructure",
-      "source": "breitbart.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T17:02:00Z",
-      "publishedAt": "2026-10-11T17:02:00Z",
-      "summary": "",
-      "url": "https://www.breitbart.com/europe/2026/10/11/trump-announces-ukraine-russia-ceasefire-on-strikes-against-energy-infrastructure/"
     },
     {
       "id": "https://qconline.com/opinion/column/article_9bc5aeef-3da3-5c8d-a82c-fe37e2fc1e84.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3359,
-    "relevantItems": 65,
-    "feedBytes": 942289,
+    "fetchedItems": 2584,
+    "relevantItems": 50,
+    "feedBytes": 739964,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
