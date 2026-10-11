@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 10:14:54",
+  "updatedAt": "2026. 10. 11. 오전 10:36:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 544,
-    "deduped": 544,
-    "eventDeduped": 544,
+    "passed": 542,
+    "deduped": 542,
+    "eventDeduped": 542,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -452,6 +452,18 @@
       "url": "https://newsway.co.kr/news/view?ud=2026100813322118547"
     },
     {
+      "id": "https://english.news.cn/20261011/7f1cdc590b4f4fb2bbd8088589acafb6/c.html",
+      "title": "Global guests visit cultural landmarks, equipment manufacturing enterprises in Luoyang, C China",
+      "source": "english.news.cn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T01:31:00Z",
+      "publishedAt": "2026-10-11T01:31:00Z",
+      "summary": "",
+      "url": "https://english.news.cn/20261011/7f1cdc590b4f4fb2bbd8088589acafb6/c.html"
+    },
+    {
       "id": "https://www.koreaherald.com/article/10897728",
       "title": "Battery ETFs among top performers this month: market data",
       "source": "koreaherald.com",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-11T01:02:00Z",
       "summary": "",
       "url": "https://www.koreaherald.com/article/10897728"
-    },
-    {
-      "id": "https://www.globaltimes.cn/page/202610/1371971.shtml",
-      "title": "Global guests visit cultural landmarks, equipment manufacturing enterprises in Luoyang, C China",
-      "source": "globaltimes.cn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T00:46:00Z",
-      "publishedAt": "2026-10-11T00:46:00Z",
-      "summary": "",
-      "url": "https://www.globaltimes.cn/page/202610/1371971.shtml"
     },
     {
       "id": "https://capitalethiopia.com/2026/10/11/engineers-urge-shift-to-local-agricultural-machinery-manufacturing/",
@@ -558,6 +558,30 @@
       "publishedAt": "2026-10-10T07:31:00Z",
       "summary": "",
       "url": "https://lexch.com/life-entertainment/nation-world/home-gardening/article_f2cb2a79-4780-5ed0-9ff5-4f8fa64684b1.html"
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-10-10/firmus-generators-epa-appeal-watchdog/107247476",
+      "title": "Tasmanian EPA says it was not told extent of Firmus data centre generator plans",
+      "source": "abc.net.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T01:31:00Z",
+      "publishedAt": "2026-10-11T01:31:00Z",
+      "summary": "",
+      "url": "https://www.abc.net.au/news/2026-10-10/firmus-generators-epa-appeal-watchdog/107247476"
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230",
+      "title": "Data centre operator Firmus pulls blockbuster ASX float after lacklustre demand",
+      "source": "abc.net.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T01:31:00Z",
+      "publishedAt": "2026-10-11T01:31:00Z",
+      "summary": "",
+      "url": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230"
     },
     {
       "id": "https://www.winnipegfreepress.com/uncategorized/2026/10/10/b-c-election-campaign-parties-talk-jobs-data-centres-royalties",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-10T22:46:00Z",
       "summary": "",
       "url": "https://github.com/lzprograma/Chip-Hexa"
-    },
-    {
-      "id": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/",
-      "title": "800 VDC Data Center Power: Bloom Energy’s Direct DC Fuel Cell Architecture | Hydrogen Fuel News",
-      "source": "hydrogenfuelnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T11:31:00Z",
-      "publishedAt": "2026-10-10T11:31:00Z",
-      "summary": "",
-      "url": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/"
-    },
-    {
-      "id": "https://africanreview.com/manufacturing/uia-encourages-local-manufacturing-in-kampala",
-      "title": "UIA encourages local manufacturing in Kampala",
-      "source": "africanreview.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T21:46:00Z",
-      "publishedAt": "2026-10-10T21:46:00Z",
-      "summary": "",
-      "url": "https://africanreview.com/manufacturing/uia-encourages-local-manufacturing-in-kampala"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1960,
-    "relevantItems": 16,
-    "feedBytes": 515551,
+    "fetchedItems": 2046,
+    "relevantItems": 33,
+    "feedBytes": 526975,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
