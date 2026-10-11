@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 05:40:02",
+  "updatedAt": "2026. 10. 11. 오후 05:56:17",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -219,16 +219,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257",
-          "title": "[단독] “AI 인재 키운다며 104억 썼는데”…취업자 AI 업무 하는지도 몰라",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02624006645611936&mediaCodeNo=257",
+          "title": "\"엔비디아 일찍 팔고도 살아남았다\"…투자 고수의 ‘오답노트’",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T06:01:00Z",
-          "publishedAt": "2026-10-11T06:01:00Z",
+          "dateRaw": "2026-10-11T08:46:00Z",
+          "publishedAt": "2026-10-11T08:46:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02624006645611936&mediaCodeNo=257"
         },
         {
           "id": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html",
@@ -293,11 +293,11 @@
       ],
       "keywords": [
         {
-          "word": "금리",
-          "count": 3
+          "word": "투자",
+          "count": 4
         },
         {
-          "word": "투자",
+          "word": "금리",
           "count": 3
         },
         {
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3538,
-    "feedBytes": 986778,
+    "fetchedItems": 4069,
+    "feedBytes": 1154946,
     "rollingWindowHours": 72
   }
 }
