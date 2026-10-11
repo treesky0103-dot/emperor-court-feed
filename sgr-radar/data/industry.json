@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 04:51:26",
+  "updatedAt": "2026. 10. 12. 오전 05:11:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 618,
-    "deduped": 618,
-    "eventDeduped": 618,
+    "passed": 605,
+    "deduped": 605,
+    "eventDeduped": 605,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
+      "id": "http://www.bgnes.com/conflicts/zelenskyy-russia-struck-a-power-plant-after-trump-s-announced-energy-ceasefire",
+      "title": "Zelenskyy: Russia Struck a Power Plant After Trump’s Announced Energy Ceasefire",
+      "source": "bgnes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T20:01:00Z",
+      "publishedAt": "2026-10-11T20:01:00Z",
+      "summary": "",
+      "url": "http://www.bgnes.com/conflicts/zelenskyy-russia-struck-a-power-plant-after-trump-s-announced-energy-ceasefire"
+    },
+    {
       "id": "https://www.premiumtimesng.com/regional/ssouth-west/916178-sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027.html",
       "title": "Sanwo-Olu targets 3,000MW electricity supply for Lagos by March 2027",
       "source": "premiumtimesng.com",
@@ -402,18 +414,6 @@
       "publishedAt": "2026-10-11T19:31:00Z",
       "summary": "",
       "url": "https://www.premiumtimesng.com/regional/ssouth-west/916178-sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027.html"
-    },
-    {
-      "id": "https://abc7.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
-      "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
-      "source": "abc7.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T18:32:00Z",
-      "publishedAt": "2026-10-11T18:32:00Z",
-      "summary": "",
-      "url": "https://abc7.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
     },
     {
       "id": "https://newsroomamerica.com/tag/manufacturing_investment",
@@ -596,6 +596,18 @@
       "url": "https://www.koreaherald.com/article/10897728"
     },
     {
+      "id": "https://edmontonjournal.com:443/news/local-news/data-centres-security-risks-strategic-value-csis",
+      "title": "Data centres face security risks amid growing strategic value: CSIS",
+      "source": "edmontonjournal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T20:01:00Z",
+      "publishedAt": "2026-10-11T20:01:00Z",
+      "summary": "",
+      "url": "https://edmontonjournal.com:443/news/local-news/data-centres-security-risks-strategic-value-csis"
+    },
+    {
       "id": "https://www.eveningnews24.co.uk/news/26624052.5-public-notices-aware-norfolk-week/",
       "title": "Plans for new data centre among public notices in Norfolk",
       "source": "eveningnews24.co.uk",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T09:02:00Z",
       "summary": "",
       "url": "https://www.rte.ie/brainstorm/2026/1006/1593501-data-centres-energy-waste-heat-district-heating-schemes/"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/11/russia039s-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack",
-      "title": "Russia's Yandex says data centre in Vladimir area shut down after drone attack",
-      "source": "thestar.com.my",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T08:16:00Z",
-      "publishedAt": "2026-10-11T08:16:00Z",
-      "summary": "",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/11/russia039s-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2938,
-    "relevantItems": 54,
-    "feedBytes": 826976,
+    "fetchedItems": 2932,
+    "relevantItems": 64,
+    "feedBytes": 830060,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
