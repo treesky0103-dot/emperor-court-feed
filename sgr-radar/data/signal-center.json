@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 04:59:46",
+  "updatedAt": "2026. 10. 11. 오후 05:20:41",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.hani.co.kr/arti/economy/property/1281809.html",
+          "title": "대출 묶은 ‘10·15 대책’ 1년…서울 중저가 아파트 매매·전세값 뛰었다",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T08:16:00Z",
+          "publishedAt": "2026-10-11T08:16:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/property/1281809.html"
+        },
         {
           "id": "https://www.etnews.com/20261011000078",
           "title": "李대통령, 추미애 겨냥?…“혈세로 호사 누리며 소액 서민 복지 예산 삭감”",
@@ -56,18 +68,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261011101059",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/biznews/1281719.html",
-          "title": "사이버한국외국어대학교, 대구광역시교육청과 산업체 위탁교육 협약 체결",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T23:31:00Z",
-          "publishedAt": "2026-10-10T23:31:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/biznews/1281719.html"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10898363",
@@ -134,12 +134,16 @@
       ],
       "keywords": [
         {
-          "word": "교육",
+          "word": "복지",
           "count": 5
         },
         {
-          "word": "복지",
-          "count": 5
+          "word": "주거",
+          "count": 2
+        },
+        {
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "이민",
@@ -147,10 +151,6 @@
         },
         {
           "word": "정신건강",
-          "count": 1
-        },
-        {
-          "word": "주거",
           "count": 1
         },
         {
@@ -372,6 +372,18 @@
           "url": "https://www.etoday.co.kr/news/view/2632574"
         },
         {
+          "id": "https://www.hani.co.kr/arti/area/honam/1281806.html",
+          "title": "호남 반도체 불확실성 걷히나…광주 간 최태원, 조기 착공 의지",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T08:16:00Z",
+          "publishedAt": "2026-10-11T08:16:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/area/honam/1281806.html"
+        },
+        {
           "id": "https://www.dongascience.com:443/ko/news/80278",
           "title": "KAIST, '피지컬 AI' 비전 선포…총장이 직접 로봇 입고 시연",
           "source": "dongascience.com",
@@ -430,28 +442,12 @@
           "publishedAt": "2026-10-11T03:31:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026100910143199140"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10898487",
-          "title": "“휴머노이드 넘어 피지컬 AI 선점”…KAIST, 미래 로봇산업 승부수 던졌다",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:01:00Z",
-          "publishedAt": "2026-10-11T03:01:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10898487"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 11
-        },
-        {
-          "word": "로봇",
-          "count": 3
+          "count": 10
         },
         {
           "word": "전력",
@@ -462,11 +458,15 @@
           "count": 2
         },
         {
-          "word": "데이터센터",
-          "count": 1
+          "word": "로봇",
+          "count": 2
         },
         {
           "word": "반도체",
+          "count": 2
+        },
+        {
+          "word": "데이터센터",
           "count": 1
         },
         {
@@ -543,6 +543,18 @@
           "url": "https://www.boredpanda.com/healthcare-craziest-patient-stories/?cexp_id=162741&_f=homepage_featured&cexp_var=33"
         },
         {
+          "id": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717",
+          "title": "African genomics research is growing: what countries are doing to connect genetic data and healthcare",
+          "source": "theconversation.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T08:16:00Z",
+          "publishedAt": "2026-10-11T08:16:00Z",
+          "summary": "",
+          "url": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717"
+        },
+        {
           "id": "https://www.orissapost.com/pm-modi-keeps-tab-on-social-media-use-by-cms-odisha-mulls-policy-on-digital-platforms-cm-majhi/",
           "title": "PM Modi keeps tab on social media use by CMs; Odisha mulls policy on digital platforms: CM Majhi - OrissaPOST",
           "source": "orissapost.com",
@@ -589,18 +601,6 @@
           "publishedAt": "2026-10-11T02:31:00Z",
           "summary": "",
           "url": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/"
-        },
-        {
-          "id": "https://www.rnz.co.nz/news/politics_election-2026/1835030/election-live-exactly-what-we-need-youth-worker-praises-greens-policy-about-getting-young-people-into-work",
-          "title": "Election live: 'Exactly what we need': Youth worker praises Greens policy about getting young people into work",
-          "source": "rnz.co.nz",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T00:17:00Z",
-          "publishedAt": "2026-10-11T00:17:00Z",
-          "summary": "",
-          "url": "https://www.rnz.co.nz/news/politics_election-2026/1835030/election-live-exactly-what-we-need-youth-worker-praises-greens-policy-about-getting-young-people-into-work"
         }
       ],
       "keywords": [
@@ -610,10 +610,6 @@
         },
         {
           "word": "정신건강",
-          "count": 2
-        },
-        {
-          "word": "청년",
           "count": 2
         },
         {
@@ -935,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3586,
-    "feedBytes": 994878,
+    "fetchedItems": 3965,
+    "feedBytes": 1098984,
     "rollingWindowHours": 72
   }
 }
