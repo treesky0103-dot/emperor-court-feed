@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 10:36:44",
+  "updatedAt": "2026. 10. 11. 오전 10:52:37",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -239,6 +239,30 @@
           "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10897551",
+          "title": "빅딜 완주하고 펀딩 속도전…한투PE, 투자 영토 넓힌다 [하우스리뷰]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T01:47:00Z",
+          "publishedAt": "2026-10-11T01:47:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10897551"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261006001297",
+          "title": "[2026 국감] 레버리지 ETF 도입 책임 추궁…이형일·권대영 \"투자자 손실 송구\"(종합)",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T01:47:00Z",
+          "publishedAt": "2026-10-11T01:47:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261006001297"
+        },
+        {
           "id": "http://www.koreatimes.com/article/20261010/1633322",
           "title": "“엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중” - 미주 한국일보",
           "source": "koreatimes.com",
@@ -261,38 +285,12 @@
           "publishedAt": "2026-10-10T16:17:00Z",
           "summary": "",
           "url": "https://www.wikitree.co.kr/articles/1164613"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224072",
-          "title": "'박스권' 증시에 지친 투자자들…'파킹형' ETF에 몰린다",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T08:43:00Z",
-          "publishedAt": "2026-10-10T08:43:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224072",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2633742",
-          "title": "경기 청약시장 ‘입지 양극화’ 뚜렷⋯성남·과천·동탄 웃고 외곽은 미달",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T07:46:00Z",
-          "publishedAt": "2026-10-10T07:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2633742"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
@@ -358,6 +356,18 @@
           "url": "http://www.koreatimes.com/article/20261010/1633322"
         },
         {
+          "id": "https://www.newspim.com/news/view/20260910000643",
+          "title": "반도체에 명목성장률 20%대…한은, 소득發 금융 불균형 경계",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T01:47:00Z",
+          "publishedAt": "2026-10-11T01:47:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20260910000643"
+        },
+        {
           "id": "https://newsway.co.kr/news/view?ud=2026100813322118547",
           "title": "9월 코스닥 수익률 꼴찌 '제약·바이오주'···4분기 반전 이룰까 - 뉴스웨이",
           "source": "newsway.co.kr",
@@ -416,18 +426,6 @@
           "publishedAt": "2026-10-10T11:47:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2634235"
-        },
-        {
-          "id": "http://inews24.com/view/2012573",
-          "title": "반도체 호조에 기업 여윳돈 역대 최대⋯가계는 예금 빼 주식",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T11:01:00Z",
-          "publishedAt": "2026-10-10T11:01:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2012573"
         }
       ],
       "keywords": [
@@ -897,8 +895,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2046,
-    "feedBytes": 526975,
+    "fetchedItems": 1894,
+    "feedBytes": 498628,
     "rollingWindowHours": 72
   }
 }
