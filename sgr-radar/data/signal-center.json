@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 06:12:25",
+  "updatedAt": "2026. 10. 11. 오후 06:36:27",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -108,6 +108,18 @@
           "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274320&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "대학생 800명이 안양천변 달린 까닭",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T09:32:00Z",
+          "publishedAt": "2026-10-11T09:32:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274320&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
           "id": "https://www.insight.co.kr/news/577265",
           "title": "‘암살자(들)’ 이민호가 살고 있는 집, 故 육영수 여사 아파트 부지였다",
           "source": "insight.co.kr",
@@ -118,18 +130,6 @@
           "publishedAt": "2026-10-11T09:01:00Z",
           "summary": "",
           "url": "https://www.insight.co.kr/news/577265"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273307&PAGE_CD=N0002&CMPT_CD=M0112",
-          "title": "\"문서로는 표현되지 않아\"... 간장 냄새로 증명한 이민자의 삶",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:46:00Z",
-          "publishedAt": "2026-10-11T07:46:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273307&PAGE_CD=N0002&CMPT_CD=M0112"
         }
       ],
       "keywords": [
@@ -138,11 +138,11 @@
           "count": 5
         },
         {
-          "word": "이민",
+          "word": "교육",
           "count": 2
         },
         {
-          "word": "교육",
+          "word": "이민",
           "count": 1
         },
         {
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3534,
-    "feedBytes": 1000071,
+    "fetchedItems": 3722,
+    "feedBytes": 1083396,
     "rollingWindowHours": 72
   }
 }

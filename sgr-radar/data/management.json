@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 05:56:11",
+  "updatedAt": "2026. 10. 11. 오후 06:36:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 43,
-    "deduped": 43,
-    "eventDeduped": 43,
+    "passed": 45,
+    "deduped": 45,
+    "eventDeduped": 45,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,16 +392,28 @@
       "url": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/"
     },
     {
-      "id": "https://wcfcourier.com/online_features/press_releases/article_96b9c53e-4cb3-5178-aa91-c0e5efc5f38d.html",
+      "id": "https://bubblear.com/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda/34297/",
       "title": "AnX Robotica Highlights Documented ProScan AI Workflow Performance from Submission to FDA",
-      "source": "wcfcourier.com",
+      "source": "bubblear.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T08:16:00Z",
-      "publishedAt": "2026-10-11T08:16:00Z",
+      "dateRaw": "2026-10-11T09:32:00Z",
+      "publishedAt": "2026-10-11T09:32:00Z",
       "summary": "",
-      "url": "https://wcfcourier.com/online_features/press_releases/article_96b9c53e-4cb3-5178-aa91-c0e5efc5f38d.html"
+      "url": "https://bubblear.com/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda/34297/"
+    },
+    {
+      "id": "https://www.business-standard.com/companies/news/guardrails-key-to-unlocking-ai-gains-for-enterprises-airtel-business-ceo-126101100282_1.html",
+      "title": "Guardrails key to unlocking AI gains for enterprises: Airtel Business CEO",
+      "source": "business-standard.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T09:31:00Z",
+      "publishedAt": "2026-10-11T09:31:00Z",
+      "summary": "",
+      "url": "https://www.business-standard.com/companies/news/guardrails-key-to-unlocking-ai-gains-for-enterprises-airtel-business-ceo-126101100282_1.html"
     },
     {
       "id": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-says-dont-blindly-trust-ai-warns-treat-it-like-an-employee-who-could-/articleshow/134864731.cms",
@@ -596,6 +608,18 @@
       "url": "https://dailypost.ng/2026/10/10/npfl-barau-fc-captain-maidubji-returns-to-training-after-injury-layoff/"
     },
     {
+      "id": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html",
+      "title": "Becoming a female tradie in midlife is the ultimate AI-proof job",
+      "source": "dailymail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T09:31:00Z",
+      "publishedAt": "2026-10-11T09:31:00Z",
+      "summary": "",
+      "url": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html"
+    },
+    {
       "id": "https://www.freepressjournal.in/business/suzlon-bets-550-crore-on-3-ai-powered-blade-factories-15000-jobs-in-pipeline-by-2027",
       "title": "Suzlon Bets ₹550 Crore On 3 AI-Powered Blade Factories, 15,000 Jobs In Pipeline By 2027",
       "source": "freepressjournal.in",
@@ -660,9 +684,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3534,
-    "relevantItems": 54,
-    "feedBytes": 1000071,
+    "fetchedItems": 3722,
+    "relevantItems": 55,
+    "feedBytes": 1083396,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
