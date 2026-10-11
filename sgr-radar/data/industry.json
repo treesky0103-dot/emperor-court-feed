@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 04:34:30",
+  "updatedAt": "2026. 10. 12. 오전 04:51:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 617,
-    "deduped": 617,
-    "eventDeduped": 617,
+    "passed": 618,
+    "deduped": 618,
+    "eventDeduped": 618,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,6 +524,18 @@
       "url": "https://www.dailypress.com/2026/10/09/jcc-planning-commission-recommends-approval-of-battery-storage-plant-in-grove/"
     },
     {
+      "id": "http://oskynews.org/william-penn-university-secures-35000-toward-collaborative-robotics-system-for-industrial-technology-engineering-programs/",
+      "title": "William Penn University Secures $35,000 Toward Collaborative Robotics System for Industrial Technology, Engineering Programs - Oskaloosa News",
+      "source": "oskynews.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T19:46:00Z",
+      "publishedAt": "2026-10-11T19:46:00Z",
+      "summary": "",
+      "url": "http://oskynews.org/william-penn-university-secures-35000-toward-collaborative-robotics-system-for-industrial-technology-engineering-programs/"
+    },
+    {
       "id": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284",
       "title": "Industrial Automation, Robots and Unmanned Vehicles Company - ResinDek / Cornerstone Specialty Wood Products | RoboticsTomorrow",
       "source": "roboticstomorrow.com",
@@ -546,18 +558,6 @@
       "publishedAt": "2026-10-11T11:02:00Z",
       "summary": "",
       "url": "https://www.marinetechnologynews.com/companies/company/tethys-robotics-215814"
-    },
-    {
-      "id": "https://www.roboticstomorrow.com/company_directory/destaco/10044",
-      "title": "Industrial Automation, Robots and Unmanned Vehicles Company - DESTACO | RoboticsTomorrow",
-      "source": "roboticstomorrow.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T07:46:00Z",
-      "publishedAt": "2026-10-11T07:46:00Z",
-      "summary": "",
-      "url": "https://www.roboticstomorrow.com/company_directory/destaco/10044"
     },
     {
       "id": "https://www.diodeo.com/news/view/4311500",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2584,
-    "relevantItems": 50,
-    "feedBytes": 739964,
+    "fetchedItems": 2938,
+    "relevantItems": 54,
+    "feedBytes": 826976,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
