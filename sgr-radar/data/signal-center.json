@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 01:54:52",
+  "updatedAt": "2026. 10. 11. 오후 02:11:49",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261011101059",
+          "title": "외롭고 사람도 안 만나면 건강수명 줄어든다?",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:01:00Z",
+          "publishedAt": "2026-10-11T05:01:00Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261011101059"
+        },
         {
           "id": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/",
           "title": "李 “서민 복지 예산 삭감하는 사람이 그들의 삶 이해하겠나” 추미애 저격?",
@@ -44,20 +56,6 @@
           "publishedAt": "2026-10-10T23:31:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/biznews/1281719.html"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261011080330",
-          "title": "한컴이노스트림, 피지컬 AI 교육 기술력 인정…'SLW 시민혁신상' 수상",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T23:03:50Z",
-          "publishedAt": "2026-10-10T23:03:50Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261011080330",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10898363",
@@ -98,6 +96,18 @@
           "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
+          "id": "https://cunews.net/detail.php?number=172933&thread=22r05r03",
+          "title": "인천시, 12일부터 ‘2026 정비사업 시민 아카데미’ 운영…재개발·재건축 실무교육 강화 : 연합시민의소리",
+          "source": "cunews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:01:00Z",
+          "publishedAt": "2026-10-11T05:01:00Z",
+          "summary": "",
+          "url": "https://cunews.net/detail.php?number=172933&thread=22r05r03"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0112",
           "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
           "source": "ohmynews.com",
@@ -120,18 +130,6 @@
           "publishedAt": "2026-10-11T03:01:00Z",
           "summary": "",
           "url": "https://isplus.com/article/view/isp202610080142"
-        },
-        {
-          "id": "https://www.diodeo.com/news/view/65311",
-          "title": "강남 5대 얼짱 이민정 변천사, `변함없는 졸업사진에 시선집중`",
-          "source": "diodeo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T01:31:00Z",
-          "publishedAt": "2026-10-11T01:31:00Z",
-          "summary": "",
-          "url": "https://www.diodeo.com/news/view/65311"
         }
       ],
       "keywords": [
@@ -142,10 +140,6 @@
         {
           "word": "복지",
           "count": 4
-        },
-        {
-          "word": "이민",
-          "count": 1
         },
         {
           "word": "정신건강",
@@ -193,6 +187,20 @@
           "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/RIY5B6JQ2FGIVF7TBTMBCJUXGA/"
         },
         {
+          "id": "https://www.etnews.com/20261008000223",
+          "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:00:00Z",
+          "publishedAt": "2026-10-11T05:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000223",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html",
           "title": "경제 정책 ‘잘못한다’ 47% ‘잘한다’ 35%…부정론 첫 역전 [갤럽]",
           "source": "hani.co.kr",
@@ -219,20 +227,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261011000021",
-          "title": "중진공, 제조AI 전문강사·실무인력 양성 나선다…교육과정 신설",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:00:00Z",
-          "publishedAt": "2026-10-11T03:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261011000021",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.fnnews.com/news/202610110700408248",
           "title": "금리 vs 실적…코스피, 7000선 재도전 나설까[주간증시전망]",
           "source": "fnnews.com",
@@ -243,6 +237,18 @@
           "publishedAt": "2026-10-11T00:46:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610110700408248"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10898550",
+          "title": "‘107조 벌어도 소용없다’ 삼성전자 外人 지분 17년 만에 최저[투자360]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:01:00Z",
+          "publishedAt": "2026-10-11T05:01:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10898550"
         },
         {
           "id": "https://www.newsway.co.kr/news/view?ud=2026101110314153828",
@@ -269,18 +275,6 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026100911551178106"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10897189",
-          "title": "벤처기업이 세계 최초 회전식 부유체 개발…年 700억원 R&D 투자 결실 속속 [해상풍력 자급도시, 바스크를 가다-③]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:01:00Z",
-          "publishedAt": "2026-10-11T03:01:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897189"
-        },
-        {
           "id": "http://www.knnews.co.kr/news/articleView.php?idxno=1552478",
           "title": "부산진해경자청, 베트남서 투자유치 '총력'",
           "source": "knnews.co.kr",
@@ -300,7 +294,7 @@
         },
         {
           "word": "기업",
-          "count": 3
+          "count": 2
         },
         {
           "word": "수출",
@@ -434,33 +428,33 @@
           "url": "http://www.koreatimes.com/article/20261010/1633322"
         },
         {
-          "id": "https://www.newspim.com/news/view/20260910000643",
-          "title": "반도체에 명목성장률 20%대…한은, 소득發 금융 불균형 경계",
-          "source": "newspim.com",
+          "id": "https://cunews.net/detail.php?number=172927&thread=22r12r03%20style=",
+          "title": "인천항만공사 공공데이터 활용, AI 선박 출항시간 예측 서비스 출시 : 연합시민의소리",
+          "source": "cunews.net",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T01:47:00Z",
-          "publishedAt": "2026-10-11T01:47:00Z",
+          "dateRaw": "2026-10-11T05:01:00Z",
+          "publishedAt": "2026-10-11T05:01:00Z",
           "summary": "",
-          "url": "https://www.newspim.com/news/view/20260910000643"
+          "url": "https://cunews.net/detail.php?number=172927&thread=22r12r03%20style="
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 9
         },
         {
           "word": "로봇",
           "count": 3
         },
         {
-          "word": "반도체",
-          "count": 3
+          "word": "GPU",
+          "count": 2
         },
         {
-          "word": "GPU",
+          "word": "반도체",
           "count": 2
         },
         {
@@ -469,6 +463,10 @@
         },
         {
           "word": "제조",
+          "count": 1
+        },
+        {
+          "word": "조선",
           "count": 1
         }
       ],
@@ -565,18 +563,6 @@
           "url": "https://www.barandbench.com/news/litigation/cji-surya-kant-constitutes-committee-on-judicial-well-being-to-address-mental-health-stress-issues-of-judges"
         },
         {
-          "id": "https://www.gdnonline.com:443/Details/1409223",
-          "title": "UAE: Sharjah Public Libraries bring community well-being into focus on World Mental Health Day",
-          "source": "gdnonline.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T09:02:00Z",
-          "publishedAt": "2026-10-10T09:02:00Z",
-          "summary": "",
-          "url": "https://www.gdnonline.com:443/Details/1409223"
-        },
-        {
           "id": "https://dailyprogress.com/news/local/education/k-12/article_69059b9f-85ce-45e0-9cbb-6cd968f24bac.html",
           "title": "Police arrest 3 Albemarle school admins for failing to report sexual assault allegations",
           "source": "dailyprogress.com",
@@ -599,19 +585,31 @@
           "publishedAt": "2026-10-11T02:47:00Z",
           "summary": "",
           "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
+        },
+        {
+          "id": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/",
+          "title": "Peoria school district votes to self-report to AG for possible confidential information leak",
+          "source": "azfamily.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T02:31:00Z",
+          "publishedAt": "2026-10-11T02:31:00Z",
+          "summary": "",
+          "url": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 5
-        },
-        {
-          "word": "고령화",
-          "count": 2
+          "count": 4
         },
         {
           "word": "교육",
+          "count": 3
+        },
+        {
+          "word": "고령화",
           "count": 2
         },
         {
@@ -636,6 +634,18 @@
           "publishedAt": "2026-10-10T22:46:00Z",
           "summary": "",
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/international/china/1281782.html",
+          "title": "정면충돌 피한 중-EU…하이브리드차 수출 조절 합의",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:01:00Z",
+          "publishedAt": "2026-10-11T05:01:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/international/china/1281782.html"
         },
         {
           "id": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/",
@@ -732,18 +742,6 @@
           "publishedAt": "2026-10-10T14:46:00Z",
           "summary": "",
           "url": "https://finchannel.com/strategic-investment-in-healthcare-leadership-the-economic-value-of-public-health-expertise/135307/health-beauty/2026/09/"
-        },
-        {
-          "id": "https://www.ibtimes.com/congress-passes-economic-sanctions-against-russia-critics-say-it-will-broaden-trump-tariff-powers-3807570",
-          "title": "Congress Passes Economic Sanctions Against Russia. Critics Say It Will Broaden Trump Tariff Powers.",
-          "source": "ibtimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T12:17:00Z",
-          "publishedAt": "2026-10-10T12:17:00Z",
-          "summary": "",
-          "url": "https://www.ibtimes.com/congress-passes-economic-sanctions-against-russia-critics-say-it-will-broaden-trump-tariff-powers-3807570"
         }
       ],
       "keywords": [
@@ -760,11 +758,11 @@
           "count": 1
         },
         {
-          "word": "관세",
+          "word": "성장",
           "count": 1
         },
         {
-          "word": "성장",
+          "word": "수출",
           "count": 1
         },
         {
@@ -929,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2409,
-    "feedBytes": 648455,
+    "fetchedItems": 2472,
+    "feedBytes": 682185,
     "rollingWindowHours": 72
   }
 }
