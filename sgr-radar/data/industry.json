@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 09:42:50",
+  "updatedAt": "2026. 10. 11. 오후 10:04:07",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 626,
-    "deduped": 626,
-    "eventDeduped": 626,
+    "passed": 623,
+    "deduped": 623,
+    "eventDeduped": 623,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,16 +392,28 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
-      "id": "https://www.breitbart.com/news/ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/",
-      "title": "Ukraine steps up strikes on Russia’s tech infrastructure, damaging third data center in 4 days - Breitbart",
-      "source": "breitbart.com",
+      "id": "https://energybangla.com/nuclear-reaction-begins-at-first-unit-of-bangladeshs-rooppur-power-plant/",
+      "title": "Nuclear Reaction Begins at First Unit of Bangladesh’s Rooppur Power Plant | Energy Bangla",
+      "source": "energybangla.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T12:31:00Z",
-      "publishedAt": "2026-10-11T12:31:00Z",
+      "dateRaw": "2026-10-11T13:01:00Z",
+      "publishedAt": "2026-10-11T13:01:00Z",
       "summary": "",
-      "url": "https://www.breitbart.com/news/ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/"
+      "url": "https://energybangla.com/nuclear-reaction-begins-at-first-unit-of-bangladeshs-rooppur-power-plant/"
+    },
+    {
+      "id": "https://www.wgal.com/article/ukraine-strikes-russia-third-data-center/74101049",
+      "title": "Ukraine steps up strikes on Russia's tech infrastructure, damaging third data center in 4 days",
+      "source": "wgal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T13:01:00Z",
+      "publishedAt": "2026-10-11T13:01:00Z",
+      "summary": "",
+      "url": "https://www.wgal.com/article/ukraine-strikes-russia-third-data-center/74101049"
     },
     {
       "id": "https://trib.com/news/state-regional/business/health-care/article_a673da03-7418-4d06-8989-6930205020ef.html",
@@ -438,18 +450,6 @@
       "publishedAt": "2026-10-11T10:31:00Z",
       "summary": "",
       "url": "https://www.dailypress.com/2026/10/09/jcc-planning-commission-recommends-approval-of-battery-storage-plant-in-grove/"
-    },
-    {
-      "id": "https://english.aawsat.com/business/5328271-riyadh-kicks-energy-week-ministerial-meeting-supply-security-market-stability",
-      "title": "Riyadh Kicks off Energy Week with Ministerial Meeting on Supply Security, Market Stability",
-      "source": "english.aawsat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T10:31:00Z",
-      "publishedAt": "2026-10-11T10:31:00Z",
-      "summary": "",
-      "url": "https://english.aawsat.com/business/5328271-riyadh-kicks-energy-week-ministerial-meeting-supply-security-market-stability"
     },
     {
       "id": "https://www.punjabijagran.com/punjab/ludhiana-young-woman-dies-after-her-scarf-gets-caught-in-a-machine-family-stages-protest-outside-the-factory-police-investigation-underway-9695881.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4164,
-    "relevantItems": 58,
-    "feedBytes": 1188772,
+    "fetchedItems": 2286,
+    "relevantItems": 38,
+    "feedBytes": 638066,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

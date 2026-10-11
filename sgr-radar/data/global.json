@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 09:42:52",
+  "updatedAt": "2026. 10. 11. 오후 10:04:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 143,
-    "deduped": 143,
-    "eventDeduped": 143,
+    "passed": 144,
+    "deduped": 144,
+    "eventDeduped": 144,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,6 +524,18 @@
       "url": "https://biz.heraldcorp.com/article/10898425"
     },
     {
+      "id": "https://www.theglobeandmail.com/drive/culture/article-should-i-sell-my-car-myself-for-more-money-or-trade-it-in-at-the/",
+      "title": "Should I sell my car myself for more money or trade it in at the dealer?",
+      "source": "theglobeandmail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T13:01:00Z",
+      "publishedAt": "2026-10-11T13:01:00Z",
+      "summary": "",
+      "url": "https://www.theglobeandmail.com/drive/culture/article-should-i-sell-my-car-myself-for-more-money-or-trade-it-in-at-the/"
+    },
+    {
       "id": "https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html",
       "title": "European Leaders Back Zelenskyy After Trump's Diesel Deal; Russia, Ukraine Continue To Trade Strikes",
       "source": "rferl.org",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T02:47:00Z",
       "summary": "",
       "url": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html"
-    },
-    {
-      "id": "https://www.homelandsecuritynewswire.com/dr20260821-east-texas-sits-on-a-goldmine-of-lithium-but-questions-loom-over-how-the-state-will-regulate-mining-and-production",
-      "title": "Critical minerals, business, investment, lithium, Texas | Homeland Security Newswire",
-      "source": "homelandsecuritynewswire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T01:01:00Z",
-      "publishedAt": "2026-10-11T01:01:00Z",
-      "summary": "",
-      "url": "https://www.homelandsecuritynewswire.com/dr20260821-east-texas-sits-on-a-goldmine-of-lithium-but-questions-loom-over-how-the-state-will-regulate-mining-and-production"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4164,
-    "relevantItems": 58,
-    "feedBytes": 1188772,
+    "fetchedItems": 2286,
+    "relevantItems": 38,
+    "feedBytes": 638066,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
