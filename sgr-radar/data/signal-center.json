@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 02:51:40",
+  "updatedAt": "2026. 10. 12. 오전 03:13:00",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -271,6 +271,18 @@
           "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
+          "id": "http://www.ihalla.com/article.php?aid=1791730800791427043",
+          "title": "[사설] 투자 유치만 급급 직원 없는 ‘유령 회사’ 양산",
+          "source": "ihalla.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T18:02:00Z",
+          "publishedAt": "2026-10-11T18:02:00Z",
+          "summary": "",
+          "url": "http://www.ihalla.com/article.php?aid=1791730800791427043"
+        },
+        {
           "id": "https://www.hankookilbo.com/news/article/A2026101122480005828",
           "title": "투자 실패 탓하는 아버지 둔기 살해 40대 딸 구속-사회ㅣ한국일보",
           "source": "hankookilbo.com",
@@ -281,18 +293,6 @@
           "publishedAt": "2026-10-11T17:31:00Z",
           "summary": "",
           "url": "https://www.hankookilbo.com/news/article/A2026101122480005828"
-        },
-        {
-          "id": "http://inews24.com/view/2013643",
-          "title": "엔비디아, '딥시크 대항마' 리플렉션 AI 인수 협상…추가 투자도 검토",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T14:47:00Z",
-          "publishedAt": "2026-10-11T14:47:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2013643"
         }
       ],
       "keywords": [
@@ -567,6 +567,18 @@
           "url": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/10/11/mental-health-and-the-ageing-man"
         },
         {
+          "id": "https://news.webindia123.com/news/Articles/India/20261011/4509569.html",
+          "title": "Shed arrogance and take Parliament panel's report on educational reforms seriously: Congress",
+          "source": "news.webindia123.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T18:02:00Z",
+          "publishedAt": "2026-10-11T18:02:00Z",
+          "summary": "",
+          "url": "https://news.webindia123.com/news/Articles/India/20261011/4509569.html"
+        },
+        {
           "id": "https://www.tanzanianewsreports.com/stakeholders-call-for-increased-investment-in-wash-in-healthcare-facilities/",
           "title": "Stakeholders Call for Increased Investment in WASH in Healthcare Facilities - Tanzania News Reports",
           "source": "tanzanianewsreports.com",
@@ -601,18 +613,6 @@
           "publishedAt": "2026-10-11T15:47:00Z",
           "summary": "",
           "url": "https://www.warringtonguardian.co.uk/news/26624499.village-pub-urges-respect-abuse-threats-staff/"
-        },
-        {
-          "id": "https://www.tnp.no/norway/politics/1576-sv-surrenders-in-immigration-policy/",
-          "title": "SV Surrenders in Immigration Policy: - The Nordic Page",
-          "source": "tnp.no",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T15:01:00Z",
-          "publishedAt": "2026-10-11T15:01:00Z",
-          "summary": "",
-          "url": "https://www.tnp.no/norway/politics/1576-sv-surrenders-in-immigration-policy/"
         }
       ],
       "keywords": [
@@ -630,10 +630,6 @@
         },
         {
           "word": "교육",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         }
       ],
@@ -939,8 +935,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3831,
-    "feedBytes": 1085963,
+    "fetchedItems": 3522,
+    "feedBytes": 991079,
     "rollingWindowHours": 72
   }
 }

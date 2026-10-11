@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 02:51:35",
+  "updatedAt": "2026. 10. 12. 오전 03:12:54",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 49,
-    "deduped": 49,
-    "eventDeduped": 49,
+    "passed": 48,
+    "deduped": 48,
+    "eventDeduped": 48,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -428,6 +428,18 @@
       "url": "https://newsway.co.kr/news/view?ud=2026101113341534030"
     },
     {
+      "id": "https://blueprint.ng/ai-enabled-spending-fuels-chinas-holiday-economy/",
+      "title": "AI-enabled spending fuels China's holiday economy - Blueprint Newspapers Limited",
+      "source": "blueprint.ng",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T18:01:00Z",
+      "publishedAt": "2026-10-11T18:01:00Z",
+      "summary": "",
+      "url": "https://blueprint.ng/ai-enabled-spending-fuels-chinas-holiday-economy/"
+    },
+    {
       "id": "https://arynews.tv/neuroscience-ai-research-reveals-how-the-human-brain-processes-spoken-words",
       "title": "AI Study Reveals How the Human Brain Processes Spoken Words",
       "source": "arynews.tv",
@@ -584,18 +596,6 @@
       "url": "https://www.iclarified.com/102723/apple-strikes-ai-audio-deal-with-huxe-founded-by-former-notebooklm-developers"
     },
     {
-      "id": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/",
-      "title": "Should INEC Deploy AI in Election Management Before Deploying its Governance Policy? -By Chidozie Ofoegbu",
-      "source": "opinionnigeria.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T21:16:00Z",
-      "publishedAt": "2026-10-10T21:16:00Z",
-      "summary": "",
-      "url": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261010000047",
       "title": "정의선 취임 6년…현대차그룹, 하이브리드·제네시스로 성장 기반 다져",
       "source": "newspim.com",
@@ -618,18 +618,6 @@
       "publishedAt": "2026-10-11T00:46:00Z",
       "summary": "",
       "url": "https://www.fnnews.com/news/202610110802042110"
-    },
-    {
-      "id": "https://smallbiztrends.com/trends-of-consumer-behaviour/",
-      "title": "7 Key Trends in Consumer Behaviour",
-      "source": "smallbiztrends.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T21:31:00Z",
-      "publishedAt": "2026-10-10T21:31:00Z",
-      "summary": "",
-      "url": "https://smallbiztrends.com/trends-of-consumer-behaviour/"
     },
     {
       "id": "https://www.tnp.no/norway/economy/5046-evry-lays-off-500-employees-in-norway-and-sweden/",
@@ -732,9 +720,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3831,
-    "relevantItems": 70,
-    "feedBytes": 1085963,
+    "fetchedItems": 3522,
+    "relevantItems": 65,
+    "feedBytes": 991079,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
