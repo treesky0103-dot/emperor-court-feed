@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 11:36:25",
+  "updatedAt": "2026. 10. 11. 오전 11:53:57",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -58,6 +58,18 @@
           "url": "https://www.mk.co.kr/news/society/12172747",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://womannews.net/detail.php?number=456890&thread=22r03r03",
+          "title": "서초구, 명예사회복지공무원 107명 신규 위촉…복지안전망 1,029명으로 확대",
+          "source": "womannews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T02:47:00Z",
+          "publishedAt": "2026-10-11T02:47:00Z",
+          "summary": "",
+          "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0122",
@@ -120,28 +132,16 @@
           "publishedAt": "2026-10-10T22:01:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20260930000457"
-        },
-        {
-          "id": "http://inews24.com/view/2013531",
-          "title": "서울 대학서 지인 찌르고 출국한 영국인 검거…도주 9일만",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T11:02:00Z",
-          "publishedAt": "2026-10-10T11:02:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2013531"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 9
+          "count": 8
         },
         {
           "word": "복지",
-          "count": 1
+          "count": 3
         },
         {
           "word": "이민",
@@ -328,6 +328,18 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://www.etnews.com/20261011000029",
+          "title": "취임 6년 정의선, 제조업 벗고 '피지컬 AI' 솔루션 기업으로 대전환",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T02:47:00Z",
+          "publishedAt": "2026-10-11T02:47:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261011000029"
+        },
+        {
           "id": "https://www.mk.co.kr/news/economy/12172825",
           "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
           "source": "mk.co.kr",
@@ -340,6 +352,18 @@
           "url": "https://www.mk.co.kr/news/economy/12172825",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://womannews.net/detail.php?number=456899&thread=22r12r01%20style=",
+          "title": "인천시, 축구장서 ‘픽 앤드 킥’ 캠페인 개최…AI 로봇 축구로 미래 비전 공유",
+          "source": "womannews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T02:47:00Z",
+          "publishedAt": "2026-10-11T02:47:00Z",
+          "summary": "",
+          "url": "https://womannews.net/detail.php?number=456899&thread=22r12r01%20style="
         },
         {
           "id": "https://biz.chosun.com/topics/topics_social/2026/10/11/SU4ILBAWUFABLNDMEYGRCN3DAY/",
@@ -412,44 +436,24 @@
           "publishedAt": "2026-10-10T23:32:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026101018045660798"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153",
-          "title": "\"AI 인류 장악 확률 33%\"... 이조차 낙관적이라는 연구원의 증언",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T13:46:00Z",
-          "publishedAt": "2026-10-10T13:46:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2634235",
-          "title": "이창용 전 총재 \"반도체발 착시 경계⋯양극화·수퍼사이클 중단 대비해야\"",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T11:47:00Z",
-          "publishedAt": "2026-10-10T11:47:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2634235"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 6
+          "count": 5
         },
         {
           "word": "AI",
-          "count": 3
+          "count": 4
         },
         {
           "word": "GPU",
           "count": 2
+        },
+        {
+          "word": "로봇",
+          "count": 1
         },
         {
           "word": "바이오",
@@ -457,6 +461,10 @@
         },
         {
           "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         }
       ],
@@ -577,26 +585,30 @@
           "url": "https://www.freepressjournal.in/lifestyle/world-mental-health-day-2026-how-small-daily-routines-can-support-your-mind-and-wellbeing"
         },
         {
-          "id": "https://www.businesstimes.com.sg/authors/nic-lee",
-          "title": "Nic Lee - The writer is chief executive officer of the Singapore Association for Mental Health, a social service agency devoted to supporting people with mental health conditions and promoting mental wellness",
-          "source": "businesstimes.com.sg",
+          "id": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/",
+          "title": "SEL and ECG Training School Host International Technical Exchange Seminar for Engineers - Tanzania News Reports",
+          "source": "tanzanianewsreports.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T06:46:00Z",
-          "publishedAt": "2026-10-10T06:46:00Z",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T02:47:00Z",
+          "publishedAt": "2026-10-11T02:47:00Z",
           "summary": "",
-          "url": "https://www.businesstimes.com.sg/authors/nic-lee"
+          "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 8
+          "count": 6
         },
         {
           "word": "고령화",
           "count": 2
+        },
+        {
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "인구",
@@ -867,16 +879,16 @@
           "url": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/"
         },
         {
-          "id": "https://www.businesstimes.com.sg/opinion-features/why-biggest-business-decision-about-ai-isnt-which-model-choose",
-          "title": "Why the biggest business decision about AI isn’t which model to choose",
-          "source": "businesstimes.com.sg",
+          "id": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/",
+          "title": "Indonesia’s Energy Investment Potential",
+          "source": "thediplomat.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T06:46:00Z",
-          "publishedAt": "2026-10-10T06:46:00Z",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:46:00Z",
+          "publishedAt": "2026-10-11T00:46:00Z",
           "summary": "",
-          "url": "https://www.businesstimes.com.sg/opinion-features/why-biggest-business-decision-about-ai-isnt-which-model-choose"
+          "url": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/"
         }
       ],
       "keywords": [
@@ -886,7 +898,7 @@
         },
         {
           "word": "AI",
-          "count": 3
+          "count": 2
         },
         {
           "word": "반도체",
@@ -905,8 +917,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2243,
-    "feedBytes": 607119,
+    "fetchedItems": 2206,
+    "feedBytes": 571918,
     "rollingWindowHours": 72
   }
 }
