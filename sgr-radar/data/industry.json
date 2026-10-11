@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:35:17",
+  "updatedAt": "2026. 10. 12. 오전 12:52:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 631,
-    "deduped": 631,
-    "eventDeduped": 631,
+    "passed": 627,
+    "deduped": 627,
+    "eventDeduped": 627,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -596,6 +596,18 @@
       "url": "https://www.koreaherald.com/article/10897728"
     },
     {
+      "id": "https://obj.ca/data/clean-tech-companies-65/",
+      "title": "OBJ Data Centre | Ottawa Business Journal",
+      "source": "obj.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T15:47:00Z",
+      "publishedAt": "2026-10-11T15:47:00Z",
+      "summary": "",
+      "url": "https://obj.ca/data/clean-tech-companies-65/"
+    },
+    {
       "id": "https://arynews.tv/russias-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack",
       "title": "Yandex Shuts Down Russia Data Centre After Drone Attack",
       "source": "arynews.tv",
@@ -716,18 +728,6 @@
       "url": "https://www.newindianexpress.com/world/2026/Oct/11/google-faces-backlash-against-india-data-centre"
     },
     {
-      "id": "https://obj.ca/data/semiconductor-companies/",
-      "title": "OBJ Data Centre | Ottawa Business Journal",
-      "source": "obj.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T05:46:00Z",
-      "publishedAt": "2026-10-11T05:46:00Z",
-      "summary": "",
-      "url": "https://obj.ca/data/semiconductor-companies/"
-    },
-    {
       "id": "https://www.abc.net.au/news/2026-10-10/firmus-generators-epa-appeal-watchdog/107247476",
       "title": "Tasmanian EPA says it was not told extent of Firmus data centre generator plans",
       "source": "abc.net.au",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3902,
-    "relevantItems": 65,
-    "feedBytes": 1089357,
+    "fetchedItems": 4143,
+    "relevantItems": 50,
+    "feedBytes": 1159188,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

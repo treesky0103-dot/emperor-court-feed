@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:35:25",
+  "updatedAt": "2026. 10. 12. 오전 12:52:31",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -543,6 +543,18 @@
           "url": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/10/11/mental-health-and-the-ageing-man"
         },
         {
+          "id": "https://www.warringtonguardian.co.uk/news/26624499.village-pub-urges-respect-abuse-threats-staff/",
+          "title": "Village pub owners report abuse and threats over school car park arrangement",
+          "source": "warringtonguardian.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T15:47:00Z",
+          "publishedAt": "2026-10-11T15:47:00Z",
+          "summary": "",
+          "url": "https://www.warringtonguardian.co.uk/news/26624499.village-pub-urges-respect-abuse-threats-staff/"
+        },
+        {
           "id": "https://www.tnp.no/norway/politics/1576-sv-surrenders-in-immigration-policy/",
           "title": "SV Surrenders in Immigration Policy: - The Nordic Page",
           "source": "tnp.no",
@@ -601,31 +613,19 @@
           "publishedAt": "2026-10-11T12:32:00Z",
           "summary": "",
           "url": "https://www.ksmu.org/2026-10-11/springfield-daily-citizen-education-reporter-explains-whats-happening-with-the-sps-long-range-facility-plan"
-        },
-        {
-          "id": "https://www.mondaq.com:443/unitedstates/social-media/1852364/nad-adds-another-social-media-platform-to-its-reporting-toolbox",
-          "title": "NAD Adds Another Social Media Platform To Its Reporting Toolbox",
-          "source": "mondaq.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:31:00Z",
-          "publishedAt": "2026-10-11T10:31:00Z",
-          "summary": "",
-          "url": "https://www.mondaq.com:443/unitedstates/social-media/1852364/nad-adds-another-social-media-platform-to-its-reporting-toolbox"
         }
       ],
       "keywords": [
+        {
+          "word": "교육",
+          "count": 3
+        },
         {
           "word": "정신건강",
           "count": 3
         },
         {
           "word": "고령화",
-          "count": 2
-        },
-        {
-          "word": "교육",
           "count": 2
         },
         {
@@ -943,8 +943,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3902,
-    "feedBytes": 1089357,
+    "fetchedItems": 4143,
+    "feedBytes": 1159188,
     "rollingWindowHours": 72
   }
 }
