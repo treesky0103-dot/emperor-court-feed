@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 07:36:35",
+  "updatedAt": "2026. 10. 11. 오후 07:52:47",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -120,26 +120,26 @@
           "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
-          "id": "http://inews24.com/view/2013629",
-          "title": "10·15 대책 1년⋯강남보다 중저가 지역 집값 더 올랐다",
-          "source": "inews24.com",
+          "id": "https://www.nspna.com/country/?mode=view&newsid=831169",
+          "title": "[바뀌는 우리동네] 시흥 대야·신천센터, 새 청사서 행정·복지와 주민 소통 잇는다",
+          "source": "nspna.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:01:00Z",
-          "publishedAt": "2026-10-11T10:01:00Z",
+          "dateRaw": "2026-10-11T10:46:00Z",
+          "publishedAt": "2026-10-11T10:46:00Z",
           "summary": "",
-          "url": "http://inews24.com/view/2013629"
+          "url": "https://www.nspna.com/country/?mode=view&newsid=831169"
         }
       ],
       "keywords": [
         {
           "word": "복지",
-          "count": 5
+          "count": 6
         },
         {
           "word": "주거",
-          "count": 3
+          "count": 2
         },
         {
           "word": "교육",
@@ -191,12 +191,14 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
+          "dateRaw": "2026-10-11T05:00:00Z",
+          "publishedAt": "2026-10-11T05:00:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223"
+          "url": "https://www.etnews.com/20261008000223",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -261,6 +263,18 @@
           "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10897548",
+          "title": "오라클·메타 이어 스페이스X…‘AI 빚더미’ 논란, 고공행진 주가에 찬물 [투자360]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T10:46:00Z",
+          "publishedAt": "2026-10-11T10:46:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10897548"
+        },
+        {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1315774",
           "title": "상반기에 지난해 투자액 넘었다…돈 몰리는 ‘피지컬 AI’",
           "source": "newstomato.com",
@@ -271,28 +285,16 @@
           "publishedAt": "2026-10-11T10:01:00Z",
           "summary": "",
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1315774"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10898649",
-          "title": "130만원 빌렸는데 나흘 뒤 200만원 갚으라니…연 4만% 고금리 뜯어낸 불법 대부업자",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10898649"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
-          "count": 3
+          "count": 2
         },
         {
           "word": "기업",
@@ -921,8 +923,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3966,
-    "feedBytes": 1126432,
+    "fetchedItems": 3592,
+    "feedBytes": 1026756,
     "rollingWindowHours": 72
   }
 }

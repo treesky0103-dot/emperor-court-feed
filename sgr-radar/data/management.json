@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 07:36:29",
+  "updatedAt": "2026. 10. 11. 오후 07:52:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 45,
-    "deduped": 45,
-    "eventDeduped": 45,
+    "passed": 43,
+    "deduped": 43,
+    "eventDeduped": 43,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -500,18 +500,6 @@
       "url": "https://www.phillyvoice.com/coding-program-philadelphia-students-tech-jobs-ai/"
     },
     {
-      "id": "https://www.livemint.com/money/tcs-senior-employees-c3a-grade-miss-quarterly-variable-pay-bonuses-junior-staff-get-full-payouts-miss-performance-target-11791635684055.html",
-      "title": "TCS senior employees miss quarterly variable pay as AI revenue rises nearly 20%; juniors get full payouts | Mint",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T14:01:00Z",
-      "publishedAt": "2026-10-10T14:01:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/money/tcs-senior-employees-c3a-grade-miss-quarterly-variable-pay-bonuses-junior-staff-get-full-payouts-miss-performance-target-11791635684055.html"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261010000047",
       "title": "정의선 취임 6년…현대차그룹, 하이브리드·제네시스로 성장 기반 다져",
       "source": "newspim.com",
@@ -656,18 +644,6 @@
       "url": "https://nypost.com/2026/10/10/tech/new-ai-model-griffin-tricks-48-of-people-into-thinking-its-human/"
     },
     {
-      "id": "https://www.ganderbeacon.ca/could-canada-nationalize-stelco-ottawa-urged-to-consider-government-ownership-amid-hamilton-steel-layoffs/",
-      "title": "Could Canada Nationalize Stelco? Ottawa Urged to Consider Government Ownership Amid Hamilton Steel Layoffs",
-      "source": "ganderbeacon.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T14:02:00Z",
-      "publishedAt": "2026-10-10T14:02:00Z",
-      "summary": "",
-      "url": "https://www.ganderbeacon.ca/could-canada-nationalize-stelco-ottawa-urged-to-consider-government-ownership-amid-hamilton-steel-layoffs/"
-    },
-    {
       "id": "https://techstory.in/netflix-layoffs-expected-as-streaming-giant-faces-growth-concerns-stock-decline/",
       "title": "Netflix Layoffs Expected as Streaming Giant Faces Growth Concerns, Stock Decline - TechStory",
       "source": "techstory.in",
@@ -684,9 +660,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3966,
-    "relevantItems": 58,
-    "feedBytes": 1126432,
+    "fetchedItems": 3592,
+    "relevantItems": 36,
+    "feedBytes": 1026756,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
