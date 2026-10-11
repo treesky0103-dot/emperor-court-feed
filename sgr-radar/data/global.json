@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 06:35:18",
+  "updatedAt": "2026. 10. 12. 오전 06:54:08",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 144,
-    "deduped": 144,
-    "eventDeduped": 144,
+    "passed": 142,
+    "deduped": 142,
+    "eventDeduped": 142,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -404,18 +404,6 @@
       "url": "https://www.dongascience.com:443/ko/news/78394"
     },
     {
-      "id": "https://www.newspim.com/news/view/20260922000272",
-      "title": "\"푸틴, 中 APEC 정상회의 참석 추진…美 G20은 불참할 듯\"",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T01:46:00Z",
-      "publishedAt": "2026-10-11T01:46:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20260922000272"
-    },
-    {
       "id": "https://bdnews24.com/business/41gyo6uzzz",
       "title": "Bangladesh’s net FDI rises 12.78% in April-June as reinvested earnings surge",
       "source": "bdnews24.com",
@@ -438,6 +426,18 @@
       "publishedAt": "2026-10-11T20:01:00Z",
       "summary": "",
       "url": "http://www.hongkongherald.com/news/279366282/hong-kong-connectivity-strengthens-with-new-port-apec-finance-ministers-meeting-financial-chief"
+    },
+    {
+      "id": "https://weeklyblitz.net/2026/10/12/trumps-america-first-agenda-puts-the-g20-and-global-cooperation-at-risk/",
+      "title": "Trump’s America-first agenda puts the G20 and global cooperation at risk",
+      "source": "weeklyblitz.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T20:01:00Z",
+      "publishedAt": "2026-10-11T20:01:00Z",
+      "summary": "",
+      "url": "https://weeklyblitz.net/2026/10/12/trumps-america-first-agenda-puts-the-g20-and-global-cooperation-at-risk/"
     },
     {
       "id": "https://www.gulf-times.com/article/735514/business/smes-key-to-industrial-resilience-and-supply-chain-integration-sheikh-khalifa",
@@ -522,6 +522,18 @@
       "publishedAt": "2026-10-11T03:01:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10898425"
+    },
+    {
+      "id": "https://www.thebiglead.com/trade-grades-cardinals-dealt-marvin-harrison-jr-texans/",
+      "title": "Marvin Harrison Jr. trade grades for Cardinals & Texans: Who won the deal?",
+      "source": "thebiglead.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T21:46:00Z",
+      "publishedAt": "2026-10-11T21:46:00Z",
+      "summary": "",
+      "url": "https://www.thebiglead.com/trade-grades-cardinals-dealt-marvin-harrison-jr-texans/"
     },
     {
       "id": "https://www.afl.com.au/news/1626433/trade-talk-live-october-12-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T14:32:00Z",
       "summary": "",
       "url": "https://newsway.co.kr/news/view?ud=2026100815423433889"
-    },
-    {
-      "id": "https://weeklyblitz.net/2026/10/12/trumps-america-first-agenda-puts-the-g20-and-global-cooperation-at-risk/",
-      "title": "Trump’s America-first agenda puts the G20 and global cooperation at risk",
-      "source": "weeklyblitz.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T20:01:00Z",
-      "publishedAt": "2026-10-11T20:01:00Z",
-      "summary": "",
-      "url": "https://weeklyblitz.net/2026/10/12/trumps-america-first-agenda-puts-the-g20-and-global-cooperation-at-risk/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2687,
-    "relevantItems": 56,
-    "feedBytes": 749171,
+    "fetchedItems": 2588,
+    "relevantItems": 49,
+    "feedBytes": 745453,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
