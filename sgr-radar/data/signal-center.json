@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 07:11:41",
+  "updatedAt": "2026. 10. 12. 오전 07:35:13",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/society/12173047",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01571126645612264&mediaCodeNo=257",
+          "title": "\"집주인이 1억7500만원 더 달래요\"…'웃돈 폭탄' 맞은 전세입자",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T22:31:00Z",
+          "publishedAt": "2026-10-11T22:31:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01571126645612264&mediaCodeNo=257"
         },
         {
           "id": "https://womannews.net/detail.php?number=456885&thread=22r03r03",
@@ -56,30 +68,6 @@
           "publishedAt": "2026-10-11T08:16:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/property/1281809.html"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01433366645611936&mediaCodeNo=257",
-          "title": "“1800만원 넣으면 2255만원”…청년미래적금, 12일부터 누구나 신청?",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T06:01:00Z",
-          "publishedAt": "2026-10-11T06:01:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01433366645611936&mediaCodeNo=257"
-        },
-        {
-          "id": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/",
-          "title": "李 “서민 복지 예산 삭감하는 사람이 그들의 삶 이해하겠나” 추미애 저격?",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T04:01:00Z",
-          "publishedAt": "2026-10-11T04:01:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/"
         },
         {
           "id": "https://www.hankookilbo.com/news/article/A2026100811070003226",
@@ -128,19 +116,27 @@
           "publishedAt": "2026-10-11T22:02:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0114"
+        },
+        {
+          "id": "https://www.diodeo.com/news/view/4350049",
+          "title": "‘홍김동전’ 새 출발 동전 던지기 건강검진…주우재 “차라리 테이저건을 쏴”",
+          "source": "diodeo.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T21:46:00Z",
+          "publishedAt": "2026-10-11T21:46:00Z",
+          "summary": "",
+          "url": "https://www.diodeo.com/news/view/4350049"
         }
       ],
       "keywords": [
         {
-          "word": "복지",
+          "word": "주거",
           "count": 3
         },
         {
-          "word": "주거",
-          "count": 2
-        },
-        {
-          "word": "청년",
+          "word": "복지",
           "count": 2
         },
         {
@@ -158,6 +154,10 @@
         {
           "word": "정신건강",
           "count": 1
+        },
+        {
+          "word": "청년",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -166,18 +166,6 @@
     },
     "economy": {
       "items": [
-        {
-          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/11/RIY5B6JQ2FGIVF7TBTMBCJUXGA/",
-          "title": "대기업만 웃는 반도체 호황… 중소기업과 생산·수출·임금 격차 확대",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T04:01:00Z",
-          "publishedAt": "2026-10-11T04:01:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/RIY5B6JQ2FGIVF7TBTMBCJUXGA/"
-        },
         {
           "id": "https://www.etnews.com/20261008000223",
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
@@ -207,16 +195,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257",
-          "title": "[포토]달러·엔 환율 하락",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257",
+          "title": "[MUST KNOW5]스페이스X↑·애플↓·모더나 '폭등'...투자자가 알아야 할 5가지 뉴스",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:31:00Z",
-          "publishedAt": "2026-10-11T13:31:00Z",
+          "dateRaw": "2026-10-11T22:31:00Z",
+          "publishedAt": "2026-10-11T22:31:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/finance/1281835.html",
@@ -289,16 +277,24 @@
           "publishedAt": "2026-10-11T19:46:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2013145"
+        },
+        {
+          "id": "http://www.ihalla.com/article.php?aid=1791730800791427043",
+          "title": "[사설] 투자 유치만 급급 직원 없는 ‘유령 회사’ 양산",
+          "source": "ihalla.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T18:02:00Z",
+          "publishedAt": "2026-10-11T18:02:00Z",
+          "summary": "",
+          "url": "http://www.ihalla.com/article.php?aid=1791730800791427043"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
-        },
-        {
-          "word": "기업",
-          "count": 2
+          "count": 6
         },
         {
           "word": "금리",
@@ -309,15 +305,7 @@
           "count": 1
         },
         {
-          "word": "수출",
-          "count": 1
-        },
-        {
           "word": "인력",
-          "count": 1
-        },
-        {
-          "word": "환율",
           "count": 1
         }
       ],
@@ -364,6 +352,18 @@
           "publishedAt": "2026-10-11T05:32:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2632574"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01849926645612264&mediaCodeNo=257",
+          "title": "\"누리호 핵심 위성들도 관제···우주데이터센터 시대에도 지상국 필수\"",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T22:31:00Z",
+          "publishedAt": "2026-10-11T22:31:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01849926645612264&mediaCodeNo=257"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101114021524265",
@@ -414,18 +414,6 @@
           "url": "https://www.etnews.com/20261011000091"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02948726645611936&mediaCodeNo=257",
-          "title": "‘롯데家 장남’ 신유열 롯데바이오 대표 “미래 고객 만난 자리…송도 공장 강점” [바이오재팬 2026]",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T11:01:00Z",
-          "publishedAt": "2026-10-11T11:01:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02948726645611936&mediaCodeNo=257"
-        },
-        {
           "id": "https://zdnet.co.kr/view/?no=20261011194807",
           "title": "가드스퀘어 \"AI 해킹 시대, 금융·플랫폼 보안 마지막 관문은 신뢰할 수 있는 앱\"",
           "source": "zdnet.co.kr",
@@ -462,7 +450,7 @@
           "count": 4
         },
         {
-          "word": "바이오",
+          "word": "데이터센터",
           "count": 2
         },
         {
@@ -472,10 +460,6 @@
         {
           "word": "제조",
           "count": 2
-        },
-        {
-          "word": "데이터센터",
-          "count": 1
         },
         {
           "word": "클라우드",
@@ -931,8 +915,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2712,
-    "feedBytes": 746334,
+    "fetchedItems": 2834,
+    "feedBytes": 793437,
     "rollingWindowHours": 72
   }
 }

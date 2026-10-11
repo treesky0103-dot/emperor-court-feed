@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 06:54:08",
+  "updatedAt": "2026. 10. 12. 오전 07:35:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 140,
-    "deduped": 140,
-    "eventDeduped": 140,
+    "passed": 139,
+    "deduped": 139,
+    "eventDeduped": 139,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,18 +392,6 @@
       "url": "https://www.newspim.com/news/view/20261008001405"
     },
     {
-      "id": "https://www.dongascience.com:443/ko/news/78394",
-      "title": "로봇 만들려면 결국 中 거쳐야…휴머노이드 공급망 사실상 장악",
-      "source": "dongascience.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T02:31:00Z",
-      "publishedAt": "2026-10-11T02:31:00Z",
-      "summary": "",
-      "url": "https://www.dongascience.com:443/ko/news/78394"
-    },
-    {
       "id": "https://bdnews24.com/business/41gyo6uzzz",
       "title": "Bangladesh’s net FDI rises 12.78% in April-June as reinvested earnings surge",
       "source": "bdnews24.com",
@@ -474,6 +462,18 @@
       "publishedAt": "2026-10-11T15:32:00Z",
       "summary": "",
       "url": "https://english.aawsat.com/business/5328379-abdulaziz-bin-salman-riyadh-capital-energy-security"
+    },
+    {
+      "id": "https://www.maravipost.com/malawis-drug-crisis-exposes-a-broken-supply-chain/",
+      "title": "Malawi’s drug crisis exposes a broken supply chain",
+      "source": "maravipost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:01:00Z",
+      "publishedAt": "2026-10-11T11:01:00Z",
+      "summary": "",
+      "url": "https://www.maravipost.com/malawis-drug-crisis-exposes-a-broken-supply-chain/"
     },
     {
       "id": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dbs-ceo-cites-fcnrb-success-as-proof-of-global-faith-in-india-calls-for-more-fdi/articleshow/134868254.cms",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2712,
-    "relevantItems": 48,
-    "feedBytes": 746334,
+    "fetchedItems": 2834,
+    "relevantItems": 64,
+    "feedBytes": 793437,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
