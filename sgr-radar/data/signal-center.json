@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:52:31",
+  "updatedAt": "2026. 10. 12. 오전 01:11:16",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -199,14 +199,12 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:00:00Z",
-          "publishedAt": "2026-10-11T05:00:00Z",
+          "dateRaw": "2026-10-11T07:31:00Z",
+          "publishedAt": "2026-10-11T07:31:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "https://www.etnews.com/20261008000223"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -543,6 +541,18 @@
           "url": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/10/11/mental-health-and-the-ageing-man"
         },
         {
+          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69806929-black-book-research-black-book-releases-2027-global-healthcare-technology-outlook-covering-167-countries-and-markets-200.htm",
+          "title": "Black Book Research: Black Book Releases 2027 Global Healthcare Technology Outlook Covering 167 Countries and Markets",
+          "source": "finanznachrichten.de",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T16:01:00Z",
+          "publishedAt": "2026-10-11T16:01:00Z",
+          "summary": "",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69806929-black-book-research-black-book-releases-2027-global-healthcare-technology-outlook-covering-167-countries-and-markets-200.htm"
+        },
+        {
           "id": "https://www.warringtonguardian.co.uk/news/26624499.village-pub-urges-respect-abuse-threats-staff/",
           "title": "Village pub owners report abuse and threats over school car park arrangement",
           "source": "warringtonguardian.co.uk",
@@ -601,31 +611,19 @@
           "publishedAt": "2026-10-11T13:17:00Z",
           "summary": "",
           "url": "https://www.asiaone.com:443/lifestyle/mental-health-ai-chatbot-survey"
-        },
-        {
-          "id": "https://www.ksmu.org/2026-10-11/springfield-daily-citizen-education-reporter-explains-whats-happening-with-the-sps-long-range-facility-plan",
-          "title": "Springfield Daily Citizen education reporter explains what's happening with the SPS long-range facility plan",
-          "source": "ksmu.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T12:32:00Z",
-          "publishedAt": "2026-10-11T12:32:00Z",
-          "summary": "",
-          "url": "https://www.ksmu.org/2026-10-11/springfield-daily-citizen-education-reporter-explains-whats-happening-with-the-sps-long-range-facility-plan"
         }
       ],
       "keywords": [
-        {
-          "word": "교육",
-          "count": 3
-        },
         {
           "word": "정신건강",
           "count": 3
         },
         {
           "word": "고령화",
+          "count": 2
+        },
+        {
+          "word": "교육",
           "count": 2
         },
         {
@@ -943,8 +941,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4143,
-    "feedBytes": 1159188,
+    "fetchedItems": 3297,
+    "feedBytes": 955592,
     "rollingWindowHours": 72
   }
 }
