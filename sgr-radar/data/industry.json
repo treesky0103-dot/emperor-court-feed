@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 01:36:00",
+  "updatedAt": "2026. 10. 12. 오전 01:54:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 629,
-    "deduped": 629,
-    "eventDeduped": 629,
+    "passed": 625,
+    "deduped": 625,
+    "eventDeduped": 625,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
+      "id": "https://qconline.com/opinion/column/article_9bc5aeef-3da3-5c8d-a82c-fe37e2fc1e84.html",
+      "title": "Dan Moore: The pros and cons of data centers, steel plants",
+      "source": "qconline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T16:47:00Z",
+      "publishedAt": "2026-10-11T16:47:00Z",
+      "summary": "",
+      "url": "https://qconline.com/opinion/column/article_9bc5aeef-3da3-5c8d-a82c-fe37e2fc1e84.html"
+    },
+    {
       "id": "https://www.equitybulls.com/category.php?id=376759",
       "title": "S.J.S. Enterprises Subsidiary SDEPL to Set Up New Manufacturing Facility in Pune with ₹81 Crore Investment",
       "source": "equitybulls.com",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-11T14:32:00Z",
       "summary": "",
       "url": "https://www.wjcl.com/article/ukraine-strikes-russia-third-data-center/74101049"
-    },
-    {
-      "id": "https://qctimes.com/opinion/column/article_59ad7c59-bbcf-429e-a093-4f4a30f1b0c5.html",
-      "title": "Dan Moore: The pros and cons of data centers, steel plants",
-      "source": "qctimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T13:46:00Z",
-      "publishedAt": "2026-10-11T13:46:00Z",
-      "summary": "",
-      "url": "https://qctimes.com/opinion/column/article_59ad7c59-bbcf-429e-a093-4f4a30f1b0c5.html"
     },
     {
       "id": "https://trib.com/news/state-regional/business/health-care/article_a673da03-7418-4d06-8989-6930205020ef.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3826,
-    "relevantItems": 58,
-    "feedBytes": 1083986,
+    "fetchedItems": 3816,
+    "relevantItems": 64,
+    "feedBytes": 1099447,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

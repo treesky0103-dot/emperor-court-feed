@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:35:19",
+  "updatedAt": "2026. 10. 12. 오전 01:54:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 139,
-    "deduped": 139,
-    "eventDeduped": 139,
+    "passed": 140,
+    "deduped": 140,
+    "eventDeduped": 140,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -728,25 +728,25 @@
       "url": "https://newsway.co.kr/news/view?ud=2026100815423433889"
     },
     {
-      "id": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story",
-      "title": "ASEAN Can Weather a Typhoon, But a Taiwan Crisis Is a Different Story - Thailand Business News",
-      "source": "thailand-business-news.com",
+      "id": "https://nypost.com/2026/10/11/us-news/trump-to-visit-the-philippines-next-month-for-asean-summit/",
+      "title": "Trump to visit the Philippines next month for ASEAN summit before his second trip to China this year",
+      "source": "nypost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T06:31:00Z",
-      "publishedAt": "2026-10-11T06:31:00Z",
+      "dateRaw": "2026-10-11T16:47:00Z",
+      "publishedAt": "2026-10-11T16:47:00Z",
       "summary": "",
-      "url": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story"
+      "url": "https://nypost.com/2026/10/11/us-news/trump-to-visit-the-philippines-next-month-for-asean-summit/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3826,
-    "relevantItems": 58,
-    "feedBytes": 1083986,
+    "fetchedItems": 3816,
+    "relevantItems": 64,
+    "feedBytes": 1099447,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

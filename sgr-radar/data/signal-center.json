@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 01:11:16",
+  "updatedAt": "2026. 10. 12. 오전 01:54:36",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -199,14 +199,12 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:00:00Z",
-          "publishedAt": "2026-10-11T05:00:00Z",
+          "dateRaw": "2026-10-11T07:31:00Z",
+          "publishedAt": "2026-10-11T07:31:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "https://www.etnews.com/20261008000223"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -507,6 +505,18 @@
           "url": "https://themedialine.org/headlines/world-mental-health-day-highlights-ai-risks-social-media-and-loneliness-new-approaches-to-trauma/"
         },
         {
+          "id": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-mental-health-overdiagnosis-is-not-the-problem-facing-young-people",
+          "title": "The Guardian view on mental health: overdiagnosis is not the problem facing young people | Editorial",
+          "source": "theguardian.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T16:47:00Z",
+          "publishedAt": "2026-10-11T16:47:00Z",
+          "summary": "",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-mental-health-overdiagnosis-is-not-the-problem-facing-young-people"
+        },
+        {
           "id": "https://tulsaworld.com/news/local/business/article_1062b5ad-fdc7-4be4-9b5f-6ce90797e5c7.html",
           "title": "City of Tulsa replacing its aging animal welfare facility | Commercial building permits",
           "source": "tulsaworld.com",
@@ -601,18 +611,6 @@
           "publishedAt": "2026-10-11T13:31:00Z",
           "summary": "",
           "url": "https://www.businesstoday.in/education/story/from-physical-science-to-ai-research-in-japan-meet-iit-madras-student-shudhanshu-kumar-yadav-selected-for-university-of-tokyo-lab-560876-2026-10-11"
-        },
-        {
-          "id": "https://www.asiaone.com:443/lifestyle/mental-health-ai-chatbot-survey",
-          "title": "Would you talk to an AI chatbot about your mental health? 1 in 5 people in Singapore already do, AsiaOne survey shows",
-          "source": "asiaone.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:17:00Z",
-          "publishedAt": "2026-10-11T13:17:00Z",
-          "summary": "",
-          "url": "https://www.asiaone.com:443/lifestyle/mental-health-ai-chatbot-survey"
         }
       ],
       "keywords": [
@@ -630,6 +628,10 @@
         },
         {
           "word": "이민",
+          "count": 1
+        },
+        {
+          "word": "청년",
           "count": 1
         }
       ],
@@ -943,8 +945,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3826,
-    "feedBytes": 1083986,
+    "fetchedItems": 3816,
+    "feedBytes": 1099447,
     "rollingWindowHours": 72
   }
 }
