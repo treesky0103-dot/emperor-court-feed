@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 08:35:28",
+  "updatedAt": "2026. 10. 11. 오후 08:52:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,6 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.etnews.com/20261011000081",
+          "title": "출산율이 높아서 문제…“애 좀 그만낳아라” 집집마다 찾아가 피임약 뿌리는 나라",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T11:46:00Z",
+          "publishedAt": "2026-10-11T11:46:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261011000081"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/economy/property/1281809.html",
           "title": "대출 묶은 ‘10·15 대책’ 1년…서울 중저가 아파트 매매·전세값 뛰었다",
           "source": "hani.co.kr",
@@ -32,18 +44,6 @@
           "publishedAt": "2026-10-11T08:16:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/property/1281809.html"
-        },
-        {
-          "id": "https://www.etnews.com/20261005000039",
-          "title": "LG전자, 목동 최고급 주거단지에 AI 홈 심는다…B2B 사업 확장",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261005000039"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01433366645611936&mediaCodeNo=257",
@@ -120,33 +120,37 @@
           "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
-          "id": "https://www.nspna.com/country/?mode=view&newsid=831169",
-          "title": "[바뀌는 우리동네] 시흥 대야·신천센터, 새 청사서 행정·복지와 주민 소통 잇는다",
-          "source": "nspna.com",
+          "id": "https://www.newspim.com/news/view/20261011000071",
+          "title": "풀무원재단, 경남 교원 30여명 공감교육 연수…학교 현장 확대",
+          "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:46:00Z",
-          "publishedAt": "2026-10-11T10:46:00Z",
+          "dateRaw": "2026-10-11T11:47:00Z",
+          "publishedAt": "2026-10-11T11:47:00Z",
           "summary": "",
-          "url": "https://www.nspna.com/country/?mode=view&newsid=831169"
+          "url": "https://www.newspim.com/news/view/20261011000071"
         }
       ],
       "keywords": [
         {
           "word": "복지",
-          "count": 6
-        },
-        {
-          "word": "주거",
-          "count": 2
+          "count": 5
         },
         {
           "word": "교육",
+          "count": 3
+        },
+        {
+          "word": "저출생",
           "count": 1
         },
         {
           "word": "정신건강",
+          "count": 1
+        },
+        {
+          "word": "주거",
           "count": 1
         },
         {
@@ -191,12 +195,14 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
+          "dateRaw": "2026-10-11T05:00:00Z",
+          "publishedAt": "2026-10-11T05:00:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223"
+          "url": "https://www.etnews.com/20261008000223",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -213,6 +219,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.hani.co.kr/arti/economy/finance/1281835.html",
+          "title": "왜곡된 금리의 제자리 찾기",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T11:47:00Z",
+          "publishedAt": "2026-10-11T11:47:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1281835.html"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257",
           "title": "\"임원 조기 인사로 관세·AI 대응\"…SK 10월, 삼성·LG 11월 단행할듯",
           "source": "edaily.co.kr",
@@ -223,18 +241,6 @@
           "publishedAt": "2026-10-11T11:01:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html",
-          "title": "경제 정책 ‘잘못한다’ 47% ‘잘한다’ 35%…부정론 첫 역전 [갤럽]",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T19:47:00Z",
-          "publishedAt": "2026-10-10T19:47:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html"
         },
         {
           "id": "https://newsway.co.kr/news/view?ud=2026101113341534030",
@@ -292,7 +298,7 @@
         },
         {
           "word": "금리",
-          "count": 2
+          "count": 3
         },
         {
           "word": "기업",
@@ -925,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3822,
-    "feedBytes": 1103946,
+    "fetchedItems": 3725,
+    "feedBytes": 1077044,
     "rollingWindowHours": 72
   }
 }

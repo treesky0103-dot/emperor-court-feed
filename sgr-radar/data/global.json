@@ -2,21 +2,45 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 08:35:22",
+  "updatedAt": "2026. 10. 11. 오후 08:52:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 146,
-    "deduped": 146,
-    "eventDeduped": 146,
+    "passed": 144,
+    "deduped": 144,
+    "eventDeduped": 144,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.hani.co.kr/arti/economy/finance/1281835.html",
+      "title": "왜곡된 금리의 제자리 찾기",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:47:00Z",
+      "publishedAt": "2026-10-11T11:47:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1281835.html"
+    },
+    {
+      "id": "https://www.etnews.com/20261011000093",
+      "title": "매월 50만원 넣고 2255만원…내일부터 딱 닷새간 '연 최대 19.4% 금리' 적금 가입 효과",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:47:00Z",
+      "publishedAt": "2026-10-11T11:47:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261011000093"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257",
       "title": "\"임원 조기 인사로 관세·AI 대응\"…SK 10월, 삼성·LG 11월 단행할듯",
@@ -28,18 +52,6 @@
       "publishedAt": "2026-10-11T11:01:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/international/international_general/1281804.html",
-      "title": "노벨상 못 탄 트럼프, ICC 추가 제재…수상자 필라이 “용납 못 해”",
-      "source": "hani.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T08:16:00Z",
-      "publishedAt": "2026-10-11T08:16:00Z",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1281804.html"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261011101934",
@@ -78,18 +90,6 @@
       "url": "https://www.businesstimes.com.sg/international/asean/singapores-2027-asean-chairmanship-could-advance-sustainability-regional-energy-integration"
     },
     {
-      "id": "https://english.aawsat.com/business/5328067-iraqi-central-bank-says-traders-will-not-bear-difference-under-new-dollar-exchange",
-      "title": "Iraqi Central Bank Says Traders Will Not Bear the Difference Under New Dollar Exchange Rate",
-      "source": "english.aawsat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T16:01:00Z",
-      "publishedAt": "2026-10-10T16:01:00Z",
-      "summary": "",
-      "url": "https://english.aawsat.com/business/5328067-iraqi-central-bank-says-traders-will-not-bear-difference-under-new-dollar-exchange"
-    },
-    {
       "id": "http://inews24.com/view/2013640",
       "title": "트럼프 유세장에 등장한 '고려아연'…美 핵심광물 공급망 '상징' 됐다",
       "source": "inews24.com",
@@ -100,6 +100,18 @@
       "publishedAt": "2026-10-11T10:01:00Z",
       "summary": "",
       "url": "http://inews24.com/view/2013640"
+    },
+    {
+      "id": "https://www.tamilguardian.com/index.php/content/uk-sanctions-russian-oil-firms-shadow-fleet-tankers-and-crypto-exchanges",
+      "title": "UK sanctions Russian oil firms, shadow fleet tankers and crypto exchanges",
+      "source": "tamilguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:31:00Z",
+      "publishedAt": "2026-10-11T11:31:00Z",
+      "summary": "",
+      "url": "https://www.tamilguardian.com/index.php/content/uk-sanctions-russian-oil-firms-shadow-fleet-tankers-and-crypto-exchanges"
     },
     {
       "id": "https://www.tnp.no/norway/economy/4778-drop-in-oil-price-pulled-trade-surplus-of-norway-down/",
@@ -124,21 +136,33 @@
       "publishedAt": "2026-10-11T04:31:00Z",
       "summary": "",
       "url": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html"
-    },
-    {
-      "id": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/",
-      "title": "The monetary policy decision of central banks is different",
-      "source": "digbycourier.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T22:46:00Z",
-      "publishedAt": "2026-10-10T22:46:00Z",
-      "summary": "",
-      "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.hani.co.kr/arti/economy/finance/1281835.html",
+      "title": "왜곡된 금리의 제자리 찾기",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:47:00Z",
+      "publishedAt": "2026-10-11T11:47:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1281835.html"
+    },
+    {
+      "id": "https://www.etnews.com/20261011000093",
+      "title": "매월 50만원 넣고 2255만원…내일부터 딱 닷새간 '연 최대 19.4% 금리' 적금 가입 효과",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:47:00Z",
+      "publishedAt": "2026-10-11T11:47:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261011000093"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257",
       "title": "\"임원 조기 인사로 관세·AI 대응\"…SK 10월, 삼성·LG 11월 단행할듯",
@@ -236,6 +260,18 @@
       "url": "http://inews24.com/view/2013640"
     },
     {
+      "id": "https://www.livemint.com/opinion/online-views/indias-export-imperative-here-s-how-we-must-mitigate-trade-risks-amid-global-turmoil-11791464952832.html",
+      "title": "India’s export imperative: Here’s how we must mitigate trade risks amid global turmoil | Mint",
+      "source": "livemint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T11:47:00Z",
+      "publishedAt": "2026-10-11T11:47:00Z",
+      "summary": "",
+      "url": "https://www.livemint.com/opinion/online-views/indias-export-imperative-here-s-how-we-must-mitigate-trade-risks-amid-global-turmoil-11791464952832.html"
+    },
+    {
       "id": "https://www.tamilguardian.com/index.php/content/uk-sanctions-russian-oil-firms-shadow-fleet-tankers-and-crypto-exchanges",
       "title": "UK sanctions Russian oil firms, shadow fleet tankers and crypto exchanges",
       "source": "tamilguardian.com",
@@ -282,18 +318,6 @@
       "publishedAt": "2026-10-11T06:01:00Z",
       "summary": "",
       "url": "https://news.tuoitre.vn/vietnams-exports-to-mainland-china-soar-to-record-high-as-electronics-boom-fuels-trade-turnaround-103261011102537962.htm"
-    },
-    {
-      "id": "https://www.budapesttimes.hu/economy/machinery-exports-drive-a-bigger-than-expected-trade-surplus/",
-      "title": "Machinery exports drive a bigger-than-expected trade surplus - The Budapest Times",
-      "source": "budapesttimes.hu",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T04:46:00Z",
-      "publishedAt": "2026-10-11T04:46:00Z",
-      "summary": "",
-      "url": "https://www.budapesttimes.hu/economy/machinery-exports-drive-a-bigger-than-expected-trade-surplus/"
     },
     {
       "id": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html",
@@ -380,28 +404,16 @@
       "url": "https://www.dongascience.com:443/ko/news/78394"
     },
     {
-      "id": "https://www.newspim.com/news/view/20260827000972",
-      "title": "[종합] 신현송 \"금리 선제 대응으로 향후 긴축 완화…추가 인상은 완만하게\"",
+      "id": "https://www.newspim.com/news/view/20260922000272",
+      "title": "\"푸틴, 中 APEC 정상회의 참석 추진…美 G20은 불참할 듯\"",
       "source": "newspim.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T01:47:00Z",
-      "publishedAt": "2026-10-11T01:47:00Z",
+      "dateRaw": "2026-10-11T01:46:00Z",
+      "publishedAt": "2026-10-11T01:46:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20260827000972"
-    },
-    {
-      "id": "https://www.fnnews.com/news/202610110500193805",
-      "title": "은행권 가계대출 여력 늘었다…수요는 있지만 '고금리'는 부담",
-      "source": "fnnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T00:46:00Z",
-      "publishedAt": "2026-10-11T00:46:00Z",
-      "summary": "",
-      "url": "https://www.fnnews.com/news/202610110500193805"
+      "url": "https://www.newspim.com/news/view/20260922000272"
     },
     {
       "id": "https://www.hani.co.kr/arti/opinion/column/1281226.html",
@@ -486,18 +498,6 @@
       "publishedAt": "2026-10-11T06:31:00Z",
       "summary": "",
       "url": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story"
-    },
-    {
-      "id": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry",
-      "title": "Philippine President Marcos looks to Singapore to build on ASEAN digital pact amid US-China rivalry",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T05:01:00Z",
-      "publishedAt": "2026-10-11T05:01:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry"
     },
     {
       "id": "http://www.azerbaijannews.net/news/279363774/india-one-of-the-biggest-conclave-profit-tusker-summits-to-host-brand-keralam-conclave-2026-focused-on-kerala-global-investment-and-trade-potential",
@@ -692,16 +692,16 @@
       "url": "https://www.thenational.scot/politics/26624751.john-swinney-must-oppose-israeli-apartheid-uk-arms-trade-israel/"
     },
     {
-      "id": "https://www.gx94radio.com/2026/10/10/yorkton-exporters-say-tariff-concerns-are-complicating-business-decisions/",
-      "title": "Yorkton exporters say tariff concerns are complicating business decisions",
-      "source": "gx94radio.com",
+      "id": "https://www.budapesttimes.hu/economy/machinery-exports-drive-a-bigger-than-expected-trade-surplus/",
+      "title": "Machinery exports drive a bigger-than-expected trade surplus - The Budapest Times",
+      "source": "budapesttimes.hu",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T03:01:00Z",
-      "publishedAt": "2026-10-11T03:01:00Z",
+      "dateRaw": "2026-10-11T04:46:00Z",
+      "publishedAt": "2026-10-11T04:46:00Z",
       "summary": "",
-      "url": "https://www.gx94radio.com/2026/10/10/yorkton-exporters-say-tariff-concerns-are-complicating-business-decisions/"
+      "url": "https://www.budapesttimes.hu/economy/machinery-exports-drive-a-bigger-than-expected-trade-surplus/"
     },
     {
       "id": "https://www.busan.com/view/busan/view.php?code=2026101117550768014",
@@ -716,8 +716,8 @@
       "url": "https://www.busan.com/view/busan/view.php?code=2026101117550768014"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261008000505",
-      "title": "[주간금융이슈] 신현송 한은 총재 첫 국감…연속 금리인상 효과·금융안정 점검",
+      "id": "https://www.newspim.com/news/view/20260827000972",
+      "title": "[종합] 신현송 \"금리 선제 대응으로 향후 긴축 완화…추가 인상은 완만하게\"",
       "source": "newspim.com",
       "language": "Korean",
       "sourceCountry": "",
@@ -725,28 +725,28 @@
       "dateRaw": "2026-10-11T01:47:00Z",
       "publishedAt": "2026-10-11T01:47:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20261008000505"
+      "url": "https://www.newspim.com/news/view/20260827000972"
     },
     {
-      "id": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html",
-      "title": "Russia's Presidential aide says Putin-Trump talk 'very substantive', plans for in-person meeting at APEC summit in China- Moneycontrol.com",
-      "source": "moneycontrol.com",
+      "id": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry",
+      "title": "Philippine President Marcos looks to Singapore to build on ASEAN digital pact amid US-China rivalry",
+      "source": "straitstimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T02:47:00Z",
-      "publishedAt": "2026-10-11T02:47:00Z",
+      "dateRaw": "2026-10-11T05:01:00Z",
+      "publishedAt": "2026-10-11T05:01:00Z",
       "summary": "",
-      "url": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html"
+      "url": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3822,
-    "relevantItems": 47,
-    "feedBytes": 1103946,
+    "fetchedItems": 3725,
+    "relevantItems": 57,
+    "feedBytes": 1077044,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
