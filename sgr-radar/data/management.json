@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 09:55:38",
+  "updatedAt": "2026. 10. 11. 오전 10:14:55",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 39,
-    "deduped": 39,
-    "eventDeduped": 39,
+    "passed": 40,
+    "deduped": 40,
+    "eventDeduped": 40,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -356,6 +356,18 @@
       "url": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/"
     },
     {
+      "id": "https://www.iclarified.com/102723/apple-strikes-ai-audio-deal-with-huxe-founded-by-former-notebooklm-developers",
+      "title": "Apple Strikes AI Audio Deal With Huxe, Founded by Former NotebookLM Developers",
+      "source": "iclarified.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T01:01:00Z",
+      "publishedAt": "2026-10-11T01:01:00Z",
+      "summary": "",
+      "url": "https://www.iclarified.com/102723/apple-strikes-ai-audio-deal-with-huxe-founded-by-former-notebooklm-developers"
+    },
+    {
       "id": "https://www.opinionnigeria.com/should-inec-deploy-ai-in-election-management-before-deploying-its-governance-policy-by-chidozie-ofoegbu/",
       "title": "Should INEC Deploy AI in Election Management Before Deploying its Governance Policy? -By Chidozie Ofoegbu",
       "source": "opinionnigeria.com",
@@ -612,9 +624,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2247,
-    "relevantItems": 42,
-    "feedBytes": 583744,
+    "fetchedItems": 1960,
+    "relevantItems": 16,
+    "feedBytes": 515551,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
