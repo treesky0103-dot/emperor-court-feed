@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 02:11:21",
+  "updatedAt": "2026. 10. 12. 오전 02:34:15",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 48,
-    "deduped": 48,
-    "eventDeduped": 48,
+    "passed": 49,
+    "deduped": 49,
+    "eventDeduped": 49,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -64,6 +64,18 @@
       "publishedAt": "2026-10-11T15:47:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/"
+    },
+    {
+      "id": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece",
+      "title": "Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce",
+      "source": "thehindu.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T17:31:00Z",
+      "publishedAt": "2026-10-11T17:31:00Z",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-11T05:31:00Z",
       "summary": "",
       "url": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html"
-    },
-    {
-      "id": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
-      "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T13:32:00Z",
-      "publishedAt": "2026-10-11T13:32:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
     }
   ],
   "trendItems": [
@@ -186,6 +186,18 @@
       "publishedAt": "2026-10-11T15:47:00Z",
       "summary": "",
       "url": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/"
+    },
+    {
+      "id": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece",
+      "title": "Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce",
+      "source": "thehindu.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T17:31:00Z",
+      "publishedAt": "2026-10-11T17:31:00Z",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257",
@@ -720,9 +732,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3722,
-    "relevantItems": 55,
-    "feedBytes": 1040282,
+    "fetchedItems": 2221,
+    "relevantItems": 45,
+    "feedBytes": 619679,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
