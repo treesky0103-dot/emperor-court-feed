@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 05:35:33",
+  "updatedAt": "2026. 10. 12. 오전 05:52:43",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 599,
-    "deduped": 599,
-    "eventDeduped": 599,
+    "passed": 593,
+    "deduped": 593,
+    "eventDeduped": 593,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,28 +392,28 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
-      "id": "http://www.bgnes.com/conflicts/zelenskyy-russia-struck-a-power-plant-after-trump-s-announced-energy-ceasefire",
-      "title": "Zelenskyy: Russia Struck a Power Plant After Trump’s Announced Energy Ceasefire",
-      "source": "bgnes.com",
+      "id": "https://www.energy-pedia.com/news/canada/moncan-energy-launches-alberta-acquisition-and-development-strategy-focused-on-producing-oil-and-gas-assets-205621",
+      "title": "Canada: Moncan Energy launches Alberta Acquisition and Development Strategy focused on producing oil and gas assets",
+      "source": "energy-pedia.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T20:01:00Z",
-      "publishedAt": "2026-10-11T20:01:00Z",
+      "dateRaw": "2026-10-11T20:46:00Z",
+      "publishedAt": "2026-10-11T20:46:00Z",
       "summary": "",
-      "url": "http://www.bgnes.com/conflicts/zelenskyy-russia-struck-a-power-plant-after-trump-s-announced-energy-ceasefire"
+      "url": "https://www.energy-pedia.com/news/canada/moncan-energy-launches-alberta-acquisition-and-development-strategy-focused-on-producing-oil-and-gas-assets-205621"
     },
     {
-      "id": "https://www.premiumtimesng.com/regional/ssouth-west/916178-sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027.html",
-      "title": "Sanwo-Olu targets 3,000MW electricity supply for Lagos by March 2027",
-      "source": "premiumtimesng.com",
+      "id": "https://www.miragenews.com/sharing-infrastructure-coordinating-energy-use-1758239/",
+      "title": "Sharing Infrastructure, Coordinating Energy Use Could Halve Industrial Power Costs",
+      "source": "miragenews.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T19:31:00Z",
-      "publishedAt": "2026-10-11T19:31:00Z",
+      "dateRaw": "2026-10-11T20:46:00Z",
+      "publishedAt": "2026-10-11T20:46:00Z",
       "summary": "",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-west/916178-sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027.html"
+      "url": "https://www.miragenews.com/sharing-infrastructure-coordinating-energy-use-1758239/"
     },
     {
       "id": "https://newsroomamerica.com/tag/manufacturing_investment",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2800,
-    "relevantItems": 64,
-    "feedBytes": 795306,
+    "fetchedItems": 2957,
+    "relevantItems": 38,
+    "feedBytes": 815945,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

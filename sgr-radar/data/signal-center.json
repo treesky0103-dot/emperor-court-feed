@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 05:35:42",
+  "updatedAt": "2026. 10. 12. 오전 05:52:49",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -485,6 +485,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.mid-day.com/lifestyle/health-and-fitness/article/world-mental-health-day-2026-mumbai-psychiatrists-explain-why-loneliness-can-feel-worse-during-festivals-23654464",
+          "title": "World Mental Health Day 2026: Amid the festive season, Mumbai doctors reveal how social media and loneliness are connected",
+          "source": "mid-day.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T20:46:00Z",
+          "publishedAt": "2026-10-11T20:46:00Z",
+          "summary": "",
+          "url": "https://www.mid-day.com/lifestyle/health-and-fitness/article/world-mental-health-day-2026-mumbai-psychiatrists-explain-why-loneliness-can-feel-worse-during-festivals-23654464"
+        },
+        {
           "id": "https://www.channelnewsasia.com/watch/moh-seeking-feedback-guidelines-youth-mental-health-support-6450481",
           "title": "MOH seeking feedback on guidelines for youth mental health support",
           "source": "channelnewsasia.com",
@@ -531,18 +543,6 @@
           "publishedAt": "2026-10-11T07:01:00Z",
           "summary": "",
           "url": "https://www.bbc.co.uk/news/articles/c620r33rdj14o"
-        },
-        {
-          "id": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/10/11/mental-health-and-the-ageing-man",
-          "title": "Mental health and the ageing man",
-          "source": "thestar.com.my",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T02:01:00Z",
-          "publishedAt": "2026-10-11T02:01:00Z",
-          "summary": "",
-          "url": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/10/11/mental-health-and-the-ageing-man"
         },
         {
           "id": "https://www.ghanamma.com/2026/10/11/donald-trumps-new-press-secretary-katie-zacharia-tried-to-scrub-her-social-media-history-of-controversial-posts-report/",
@@ -611,12 +611,12 @@
           "count": 3
         },
         {
-          "word": "고령화",
+          "word": "청년",
           "count": 2
         },
         {
-          "word": "청년",
-          "count": 2
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "교육",
@@ -925,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2800,
-    "feedBytes": 795306,
+    "fetchedItems": 2957,
+    "feedBytes": 815945,
     "rollingWindowHours": 72
   }
 }
