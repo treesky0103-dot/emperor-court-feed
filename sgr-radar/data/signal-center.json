@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 12:13:06",
+  "updatedAt": "2026. 10. 11. 오후 12:37:44",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -181,20 +181,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261010000027",
-          "title": "포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:01:00Z",
-          "publishedAt": "2026-10-11T03:01:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261010000027",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "https://biz.chosun.com/topics/topics_social/2026/10/11/GBE22PCKZ5DTPHDZF5VBOW6MY4/",
           "title": "[인터뷰] “충북을 제2의 판교로”… 신용한 지사 “100조 투자 유치 넘어 창업특별도 추진”",
           "source": "biz.chosun.com",
@@ -219,18 +205,32 @@
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12172667",
-          "title": "“얼굴·몸매보다 통장 잔고?”…돌싱 남녀 상당수 “경제력 조건 보완 가능”",
+          "id": "https://www.mk.co.kr/news/business/12172909",
+          "title": "“정년 60세 고정하고 65세까지 재고용”… 경총, 일본식 일자리 해법 제시",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T10:02:51Z",
-          "publishedAt": "2026-10-10T10:02:51Z",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:23:45Z",
+          "publishedAt": "2026-10-11T12:23:45Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12172667",
+          "url": "https://www.mk.co.kr/news/business/12172909",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etnews.com/20261011000021",
+          "title": "중진공, 제조AI 전문강사·실무인력 양성 나선다…교육과정 신설",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T03:00:00Z",
+          "publishedAt": "2026-10-11T03:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261011000021",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202610110700408248",
@@ -243,6 +243,18 @@
           "publishedAt": "2026-10-11T00:46:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610110700408248"
+        },
+        {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026100911551178106",
+          "title": "포스코DX, 온톨로지 기술로 에이전틱 AI 고도화…인핸스에 20억 투자",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T03:31:00Z",
+          "publishedAt": "2026-10-11T03:31:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026100911551178106"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10897189",
@@ -279,24 +291,16 @@
           "publishedAt": "2026-10-11T02:31:00Z",
           "summary": "",
           "url": "https://www.dongascience.com:443/ko/news/78394"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261006001297",
-          "title": "[2026 국감] 레버리지 ETF 도입 책임 추궁…이형일·권대영 \"투자자 손실 송구\"(종합)",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T01:47:00Z",
-          "publishedAt": "2026-10-11T01:47:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261006001297"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "고용",
+          "count": 1
         },
         {
           "word": "공급망",
@@ -308,6 +312,10 @@
         },
         {
           "word": "기업",
+          "count": 1
+        },
+        {
+          "word": "인력",
           "count": 1
         }
       ],
@@ -356,6 +364,18 @@
           "url": "https://www.mk.co.kr/news/economy/12172825",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026100910143199140",
+          "title": "[DD 주간브리핑] 국감, 정유 4사 대표부터 애플·텔레그램까지…KES·SEDEX서 K-반도체·AI 총집결",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T03:31:00Z",
+          "publishedAt": "2026-10-11T03:31:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026100910143199140"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10898487",
@@ -428,24 +448,12 @@
           "publishedAt": "2026-10-11T00:46:00Z",
           "summary": "",
           "url": "https://newsway.co.kr/news/view?ud=2026100813322118547"
-        },
-        {
-          "id": "https://www.fnnews.com/news/202610110615130603",
-          "title": "삼전닉스 주춤했지만…소부장 선전에 한달간 수익률 1위는 반도체",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T00:46:00Z",
-          "publishedAt": "2026-10-11T00:46:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610110615130603"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 6
         },
         {
           "word": "반도체",
@@ -577,18 +585,6 @@
           "url": "https://www.gdnonline.com:443/Details/1409223"
         },
         {
-          "id": "https://www.freepressjournal.in/lifestyle/world-mental-health-day-2026-how-small-daily-routines-can-support-your-mind-and-wellbeing",
-          "title": "World Mental Health Day 2026: How Small Daily Routines Can Support Your Mind And Wellbeing",
-          "source": "freepressjournal.in",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T07:32:00Z",
-          "publishedAt": "2026-10-10T07:32:00Z",
-          "summary": "",
-          "url": "https://www.freepressjournal.in/lifestyle/world-mental-health-day-2026-how-small-daily-routines-can-support-your-mind-and-wellbeing"
-        },
-        {
           "id": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/",
           "title": "SEL and ECG Training School Host International Technical Exchange Seminar for Engineers - Tanzania News Reports",
           "source": "tanzanianewsreports.com",
@@ -599,12 +595,24 @@
           "publishedAt": "2026-10-11T02:47:00Z",
           "summary": "",
           "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
+        },
+        {
+          "id": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/",
+          "title": "Peoria school district votes to self-report to AG for possible confidential information leak",
+          "source": "azfamily.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T02:31:00Z",
+          "publishedAt": "2026-10-11T02:31:00Z",
+          "summary": "",
+          "url": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 6
+          "count": 5
         },
         {
           "word": "고령화",
@@ -612,7 +620,7 @@
         },
         {
           "word": "교육",
-          "count": 1
+          "count": 2
         },
         {
           "word": "인구",
@@ -921,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2126,
-    "feedBytes": 552236,
+    "fetchedItems": 2342,
+    "feedBytes": 633232,
     "rollingWindowHours": 72
   }
 }
