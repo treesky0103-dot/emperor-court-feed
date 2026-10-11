@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 11:55:07",
+  "updatedAt": "2026. 10. 12. 오전 12:11:12",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 148,
-    "deduped": 148,
-    "eventDeduped": 148,
+    "passed": 145,
+    "deduped": 145,
+    "eventDeduped": 145,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -716,16 +716,16 @@
       "url": "https://news.tuoitre.vn/vietnams-exports-to-mainland-china-soar-to-record-high-as-electronics-boom-fuels-trade-turnaround-103261011102537962.htm"
     },
     {
-      "id": "https://www.lankanewspapers.com/2026/10/10/stranded-at-sea-and-under-sanctions-sri-lanka-caught-in-a-difficult-bind-over-iranian-oil-tankers",
-      "title": "Stranded at Sea and Under Sanctions: Sri Lanka Caught in a Difficult Bind Over Iranian Oil Tankers - Lanka Newspapers",
-      "source": "lankanewspapers.com",
-      "language": "English",
+      "id": "https://www.segye.com:443/newsView/20261011512944",
+      "title": "트럼프 노벨상 불발 ‘뒤끝’… 美, ICC 고강도 제재 나서",
+      "source": "segye.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T18:16:00Z",
-      "publishedAt": "2026-10-10T18:16:00Z",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T15:02:00Z",
+      "publishedAt": "2026-10-11T15:02:00Z",
       "summary": "",
-      "url": "https://www.lankanewspapers.com/2026/10/10/stranded-at-sea-and-under-sanctions-sri-lanka-caught-in-a-difficult-bind-over-iranian-oil-tankers"
+      "url": "https://www.segye.com:443/newsView/20261011512944"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026100815423433889",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3892,
-    "relevantItems": 65,
-    "feedBytes": 1103335,
+    "fetchedItems": 3895,
+    "relevantItems": 47,
+    "feedBytes": 1137504,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
