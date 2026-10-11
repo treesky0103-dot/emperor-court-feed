@@ -2,7 +2,7 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 06:11:49",
+  "updatedAt": "2026. 10. 12. 오전 06:35:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
@@ -368,6 +368,18 @@
       "url": "https://biz.heraldcorp.com/article/10898443"
     },
     {
+      "id": "https://www.cbc.ca/news/canada/cleveland-cliffs-ceo-stelco-layoffs-hamilton-9.7377708",
+      "title": "CEO says he's prepared to fight Canada in court over Hamilton steel plant layoffs | CBC News",
+      "source": "cbc.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T21:31:00Z",
+      "publishedAt": "2026-10-11T21:31:00Z",
+      "summary": "",
+      "url": "https://www.cbc.ca/news/canada/cleveland-cliffs-ceo-stelco-layoffs-hamilton-9.7377708"
+    },
+    {
       "id": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/",
       "title": "Trump's tariffs forced U.S. factories to close down or lay off workers, and longtime GOP voters are revolting—'It was like taking a knife to the back' | Fortune",
       "source": "fortune.com",
@@ -414,18 +426,6 @@
       "publishedAt": "2026-10-11T17:02:00Z",
       "summary": "",
       "url": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/"
-    },
-    {
-      "id": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html",
-      "title": "UBS poised to unveil job cuts and profit writedowns",
-      "source": "dailymail.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T15:47:00Z",
-      "publishedAt": "2026-10-11T15:47:00Z",
-      "summary": "",
-      "url": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html"
     },
     {
       "id": "https://newsway.co.kr/news/view?ud=2026101113341534030",
@@ -608,18 +608,6 @@
       "url": "https://www.chiangraitimes.com/ai/10-best-free-ai-tools/"
     },
     {
-      "id": "https://www.iclarified.com/102723/apple-strikes-ai-audio-deal-with-huxe-founded-by-former-notebooklm-developers",
-      "title": "Apple Strikes AI Audio Deal With Huxe, Founded by Former NotebookLM Developers",
-      "source": "iclarified.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T01:01:00Z",
-      "publishedAt": "2026-10-11T01:01:00Z",
-      "summary": "",
-      "url": "https://www.iclarified.com/102723/apple-strikes-ai-audio-deal-with-huxe-founded-by-former-notebooklm-developers"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261010000047",
       "title": "정의선 취임 6년…현대차그룹, 하이브리드·제네시스로 성장 기반 다져",
       "source": "newspim.com",
@@ -728,6 +716,18 @@
       "url": "https://www.freepressjournal.in/business/suzlon-bets-550-crore-on-3-ai-powered-blade-factories-15000-jobs-in-pipeline-by-2027"
     },
     {
+      "id": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html",
+      "title": "UBS poised to unveil job cuts and profit writedowns",
+      "source": "dailymail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T15:47:00Z",
+      "publishedAt": "2026-10-11T15:47:00Z",
+      "summary": "",
+      "url": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html"
+    },
+    {
       "id": "https://www.kiro7.com/news/local/amazon-layoffs-hit-hundreds-retail-seattle-impact-unclear/XO64Q4JI6FHMNAFYMCLV5TKW2E/",
       "title": "Amazon layoffs hit hundreds in retail; Seattle impact unclear",
       "source": "kiro7.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2774,
-    "relevantItems": 35,
-    "feedBytes": 768542,
+    "fetchedItems": 2687,
+    "relevantItems": 56,
+    "feedBytes": 749171,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
