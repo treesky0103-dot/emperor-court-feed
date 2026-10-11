@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 11:53:49",
+  "updatedAt": "2026. 10. 11. 오후 12:55:40",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 39,
-    "deduped": 39,
-    "eventDeduped": 39,
+    "passed": 40,
+    "deduped": 40,
+    "eventDeduped": 40,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -344,6 +344,18 @@
       "url": "https://www.chiangraitimes.com/tech/tech-expertise-required-for-futuristic-custom-software-development/"
     },
     {
+      "id": "https://ianslive.in/banks-mull-higher-cybersecurity-spending-after-ai-linked-hacking-incidents--20261011082003",
+      "title": "Banks mull higher cybersecurity spending after AI-linked hacking incidents",
+      "source": "ianslive.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T03:46:00Z",
+      "publishedAt": "2026-10-11T03:46:00Z",
+      "summary": "",
+      "url": "https://ianslive.in/banks-mull-higher-cybersecurity-spending-after-ai-linked-hacking-incidents--20261011082003"
+    },
+    {
       "id": "https://www.chiangraitimes.com/ai/10-best-free-ai-tools/",
       "title": "10 Best Free AI Tools For Productivity You Probably Haven’t Tried in 2026",
       "source": "chiangraitimes.com",
@@ -612,9 +624,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2342,
-    "relevantItems": 22,
-    "feedBytes": 633232,
+    "fetchedItems": 2489,
+    "relevantItems": 21,
+    "feedBytes": 645432,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 12:37:44",
+  "updatedAt": "2026. 10. 11. 오후 12:55:47",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -585,6 +585,18 @@
           "url": "https://www.gdnonline.com:443/Details/1409223"
         },
         {
+          "id": "https://dailyprogress.com/news/local/education/k-12/article_69059b9f-85ce-45e0-9cbb-6cd968f24bac.html",
+          "title": "Police arrest 3 Albemarle school admins for failing to report sexual assault allegations",
+          "source": "dailyprogress.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T03:46:00Z",
+          "publishedAt": "2026-10-11T03:46:00Z",
+          "summary": "",
+          "url": "https://dailyprogress.com/news/local/education/k-12/article_69059b9f-85ce-45e0-9cbb-6cd968f24bac.html"
+        },
+        {
           "id": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/",
           "title": "SEL and ECG Training School Host International Technical Exchange Seminar for Engineers - Tanzania News Reports",
           "source": "tanzanianewsreports.com",
@@ -595,18 +607,6 @@
           "publishedAt": "2026-10-11T02:47:00Z",
           "summary": "",
           "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
-        },
-        {
-          "id": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/",
-          "title": "Peoria school district votes to self-report to AG for possible confidential information leak",
-          "source": "azfamily.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T02:31:00Z",
-          "publishedAt": "2026-10-11T02:31:00Z",
-          "summary": "",
-          "url": "https://www.azfamily.com/2026/10/11/peoria-school-district-votes-self-report-ag-possible-confidential-information-leak/"
         }
       ],
       "keywords": [
@@ -929,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2342,
-    "feedBytes": 633232,
+    "fetchedItems": 2489,
+    "feedBytes": 645432,
     "rollingWindowHours": 72
   }
 }
