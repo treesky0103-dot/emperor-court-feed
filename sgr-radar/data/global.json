@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 08:52:23",
+  "updatedAt": "2026. 10. 11. 오후 09:14:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 144,
-    "deduped": 144,
-    "eventDeduped": 144,
+    "passed": 145,
+    "deduped": 145,
+    "eventDeduped": 145,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -536,6 +536,18 @@
       "url": "https://biz.heraldcorp.com/article/10898425"
     },
     {
+      "id": "https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html",
+      "title": "European Leaders Back Zelenskyy After Trump's Diesel Deal; Russia, Ukraine Continue To Trade Strikes",
+      "source": "rferl.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T12:01:00Z",
+      "publishedAt": "2026-10-11T12:01:00Z",
+      "summary": "",
+      "url": "https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html"
+    },
+    {
       "id": "http://www.middleeaststar.com/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal",
       "title": "India expanding trade footprint to strengthen global ties and empower MSMEs: Piyush Goyal",
       "source": "middleeaststar.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T01:47:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20260827000972"
-    },
-    {
-      "id": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry",
-      "title": "Philippine President Marcos looks to Singapore to build on ASEAN digital pact amid US-China rivalry",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T05:01:00Z",
-      "publishedAt": "2026-10-11T05:01:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3725,
-    "relevantItems": 57,
-    "feedBytes": 1077044,
+    "fetchedItems": 4171,
+    "relevantItems": 43,
+    "feedBytes": 1167336,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

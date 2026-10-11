@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 08:52:28",
+  "updatedAt": "2026. 10. 11. 오후 09:14:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/society/12173131",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://womannews.net/detail.php?number=456885&thread=22r03r03",
+          "title": "강남구, 정신건강 증진 공로로 보건복지부장관 표창 수상",
+          "source": "womannews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:01:00Z",
+          "publishedAt": "2026-10-11T12:01:00Z",
+          "summary": "",
+          "url": "https://womannews.net/detail.php?number=456885&thread=22r03r03"
         },
         {
           "id": "https://www.etnews.com/20261011000081",
@@ -84,8 +96,8 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10898363",
-          "title": "강남구, 정신건강 증진 유공 보건복지부장관 표창 수상",
+          "id": "https://biz.heraldcorp.com/article/10898361",
+          "title": "성동구, 청약부터 전세사기 예방까지 ‘청년 맞춤형 주거 특강’ 개최",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
@@ -93,7 +105,7 @@
           "dateRaw": "2026-10-10T22:46:00Z",
           "publishedAt": "2026-10-10T22:46:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10898363"
+          "url": "https://biz.heraldcorp.com/article/10898361"
         },
         {
           "id": "https://www.segye.com:443/newsView/20261011510095",
@@ -106,18 +118,6 @@
           "publishedAt": "2026-10-11T10:01:00Z",
           "summary": "",
           "url": "https://www.segye.com:443/newsView/20261011510095"
-        },
-        {
-          "id": "https://womannews.net/detail.php?number=456890&thread=22r03r03",
-          "title": "서초구, 명예사회복지공무원 107명 신규 위촉…복지안전망 1,029명으로 확대",
-          "source": "womannews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T02:47:00Z",
-          "publishedAt": "2026-10-11T02:47:00Z",
-          "summary": "",
-          "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
           "id": "https://www.newspim.com/news/view/20261011000071",
@@ -134,12 +134,20 @@
       ],
       "keywords": [
         {
-          "word": "복지",
-          "count": 5
-        },
-        {
           "word": "교육",
           "count": 3
+        },
+        {
+          "word": "복지",
+          "count": 3
+        },
+        {
+          "word": "주거",
+          "count": 3
+        },
+        {
+          "word": "청년",
+          "count": 2
         },
         {
           "word": "저출생",
@@ -147,14 +155,6 @@
         },
         {
           "word": "정신건강",
-          "count": 1
-        },
-        {
-          "word": "주거",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -372,6 +372,30 @@
           "url": "https://www.etoday.co.kr/news/view/2632574"
         },
         {
+          "id": "https://www.dongascience.com:443/ko/news/77696",
+          "title": "생화학무기·감염병 제조·살포법까지 알려주는 AI",
+          "source": "dongascience.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:01:00Z",
+          "publishedAt": "2026-10-11T12:01:00Z",
+          "summary": "",
+          "url": "https://www.dongascience.com:443/ko/news/77696"
+        },
+        {
+          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/11/JLB7I2EZUVCC7MERDUVAZ7G3CQ/",
+          "title": "이창용 “반도체 호황, 10년 간다지만… 조기 종료 걱정”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:01:00Z",
+          "publishedAt": "2026-10-11T12:01:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/11/JLB7I2EZUVCC7MERDUVAZ7G3CQ/"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02948726645611936&mediaCodeNo=257",
           "title": "‘롯데家 장남’ 신유열 롯데바이오 대표 “미래 고객 만난 자리…송도 공장 강점” [바이오재팬 2026]",
           "source": "edaily.co.kr",
@@ -384,18 +408,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02948726645611936&mediaCodeNo=257"
         },
         {
-          "id": "https://biz.chosun.com/it-science/ict/2026/10/11/7XLN5GQMGFB2ZHL5DFY46CTHOE/",
-          "title": "최태원 “美·中 반도체 증설 경쟁에 뒤처지면 점유율 하락…공장 확충 서둘러야”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T10:01:00Z",
-          "publishedAt": "2026-10-11T10:01:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/11/7XLN5GQMGFB2ZHL5DFY46CTHOE/"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/area/honam/1281806.html",
           "title": "호남 반도체 불확실성 걷히나…광주 간 최태원, 조기 착공 의지",
           "source": "hani.co.kr",
@@ -406,18 +418,6 @@
           "publishedAt": "2026-10-11T08:16:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/area/honam/1281806.html"
-        },
-        {
-          "id": "https://www.dongascience.com:443/ko/news/80278",
-          "title": "KAIST, '피지컬 AI' 비전 선포…총장이 직접 로봇 입고 시연",
-          "source": "dongascience.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
-          "summary": "",
-          "url": "https://www.dongascience.com:443/ko/news/80278"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273795&PAGE_CD=N0002&CMPT_CD=M0111",
@@ -462,11 +462,11 @@
           "count": 2
         },
         {
-          "word": "로봇",
+          "word": "바이오",
           "count": 2
         },
         {
-          "word": "바이오",
+          "word": "제조",
           "count": 2
         },
         {
@@ -474,7 +474,7 @@
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "로봇",
           "count": 1
         }
       ],
@@ -656,6 +656,18 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/",
+          "title": "팀 쿡 애플 의장, CEO 퇴임 후 첫 중국 방문…청정에너지 투자도 확대",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:01:00Z",
+          "publishedAt": "2026-10-11T12:01:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/"
+        },
+        {
           "id": "https://www.lankabusinessonline.com/2026/10/11/from-investment-to-economic-transformation-does-sri-lanka-need-one-integrated-development-agency/",
           "title": "From Investment to Economic Transformation: Does Sri Lanka Need One Integrated Development Agency? – Lanka Business Online",
           "source": "lankabusinessonline.com",
@@ -738,24 +750,12 @@
           "publishedAt": "2026-10-10T23:16:00Z",
           "summary": "",
           "url": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness"
-        },
-        {
-          "id": "https://thebangladeshtoday.com/?p=38158",
-          "title": "PM's Japan visit to prioritise economic partnership, investment: Humaiun - The Bangladesh Today",
-          "source": "thebangladeshtoday.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T16:16:00Z",
-          "publishedAt": "2026-10-10T16:16:00Z",
-          "summary": "",
-          "url": "https://thebangladeshtoday.com/?p=38158"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "고용",
@@ -815,6 +815,18 @@
           "publishedAt": "2026-10-10T19:31:00Z",
           "summary": "",
           "url": "https://digg.com/tech/n7xvznui"
+        },
+        {
+          "id": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
+          "title": "This Chinese memory chip maker has global potential and is poised to outperform",
+          "source": "cnbc.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:01:00Z",
+          "publishedAt": "2026-10-11T12:01:00Z",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html"
         },
         {
           "id": "https://poststar.com/news/local/government-politics/elections/article_d2bf2f6d-eef3-565e-8c76-0914285229fa.html",
@@ -887,18 +899,6 @@
           "publishedAt": "2026-10-11T00:17:00Z",
           "summary": "",
           "url": "https://www.businesspost.ie/companies/completely-incorrect-echelon-official-rejects-claim-data-centres-have-sweetheart-deal-on-energy/"
-        },
-        {
-          "id": "https://github.com/lzprograma/Chip-Hexa",
-          "title": "GitHub - lzprograma/Chip-Hexa: Experimental 16-core processor architecture exploring hexagonal interconnects, energy efficiency, and performance-per-cost optimization.",
-          "source": "github.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T22:46:00Z",
-          "publishedAt": "2026-10-10T22:46:00Z",
-          "summary": "",
-          "url": "https://github.com/lzprograma/Chip-Hexa"
         }
       ],
       "keywords": [
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3725,
-    "feedBytes": 1077044,
+    "fetchedItems": 4171,
+    "feedBytes": 1167336,
     "rollingWindowHours": 72
   }
 }
