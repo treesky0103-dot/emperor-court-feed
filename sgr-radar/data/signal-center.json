@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 10:46:03",
+  "updatedAt": "2026. 10. 11. 오후 10:59:50",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -120,16 +120,16 @@
           "url": "https://www.segye.com:443/newsView/20261011510095"
         },
         {
-          "id": "https://seoul.co.kr:443/news/society/2026/10/12/20261012010005",
-          "title": "취업 막힌 청년 배달·택배… ‘나 홀로 자영업’에 몰렸다",
-          "source": "seoul.co.kr",
+          "id": "https://www.newspim.com/news/view/20261011000135",
+          "title": "월드옥타, 선전서 한·중 청년기업가 협력 첫발, 글로벌 함께 공략",
+          "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T12:32:00Z",
-          "publishedAt": "2026-10-11T12:32:00Z",
+          "dateRaw": "2026-10-11T13:46:00Z",
+          "publishedAt": "2026-10-11T13:46:00Z",
           "summary": "",
-          "url": "https://seoul.co.kr:443/news/society/2026/10/12/20261012010005"
+          "url": "https://www.newspim.com/news/view/20261011000135"
         }
       ],
       "keywords": [
@@ -195,12 +195,14 @@
           "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
           "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
+          "dateRaw": "2026-10-11T05:00:00Z",
+          "publishedAt": "2026-10-11T05:00:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000223"
+          "url": "https://www.etnews.com/20261008000223",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12173089",
@@ -537,16 +539,16 @@
           "url": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/10/11/mental-health-and-the-ageing-man"
         },
         {
-          "id": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines",
-          "title": "In Korea, towns compete to host prisons as population declines - The Korea Times",
-          "source": "koreatimes.co.kr",
+          "id": "http://www.indiagazette.com/news/279365404/shed-arrogance-and-take-parliament-panel-report-on-educational-reforms-seriously-congress",
+          "title": "Shed arrogance and take Parliament panel's report on educational reforms seriously: Congress",
+          "source": "indiagazette.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T17:01:00Z",
-          "publishedAt": "2026-10-10T17:01:00Z",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T13:46:00Z",
+          "publishedAt": "2026-10-11T13:46:00Z",
           "summary": "",
-          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261010/in-korea-towns-compete-to-host-prisons-as-population-declines"
+          "url": "http://www.indiagazette.com/news/279365404/shed-arrogance-and-take-parliament-panel-report-on-educational-reforms-seriously-congress"
         },
         {
           "id": "https://www.businesstoday.in/education/story/from-physical-science-to-ai-research-in-japan-meet-iit-madras-student-shudhanshu-kumar-yadav-selected-for-university-of-tokyo-lab-560876-2026-10-11",
@@ -621,10 +623,6 @@
         {
           "word": "고령화",
           "count": 2
-        },
-        {
-          "word": "인구",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -929,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4098,
-    "feedBytes": 1166877,
+    "fetchedItems": 3681,
+    "feedBytes": 1038411,
     "rollingWindowHours": 72
   }
 }
