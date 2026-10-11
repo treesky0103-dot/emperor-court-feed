@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 01:54:28",
+  "updatedAt": "2026. 10. 12. 오전 02:11:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 625,
-    "deduped": 625,
-    "eventDeduped": 625,
+    "passed": 627,
+    "deduped": 627,
+    "eventDeduped": 627,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
+      "id": "https://www.breitbart.com/europe/2026/10/11/trump-announces-ukraine-russia-ceasefire-on-strikes-against-energy-infrastructure/",
+      "title": "Trump Announces Ukraine-Russia Ceasefire on Energy Infrastructure",
+      "source": "breitbart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T17:02:00Z",
+      "publishedAt": "2026-10-11T17:02:00Z",
+      "summary": "",
+      "url": "https://www.breitbart.com/europe/2026/10/11/trump-announces-ukraine-russia-ceasefire-on-strikes-against-energy-infrastructure/"
+    },
+    {
       "id": "https://qconline.com/opinion/column/article_9bc5aeef-3da3-5c8d-a82c-fe37e2fc1e84.html",
       "title": "Dan Moore: The pros and cons of data centers, steel plants",
       "source": "qconline.com",
@@ -426,18 +438,6 @@
       "publishedAt": "2026-10-11T15:32:00Z",
       "summary": "",
       "url": "https://english.aawsat.com/business/5328368-international-energy-forum-security-supply-requires-ensuring-energy-access"
-    },
-    {
-      "id": "https://english.aawsat.com/business/5328340-president-wpc-energy-asharq-al-awsat-security-supply-returns-forefront-priorities",
-      "title": "President of WPC Energy to Asharq Al-Awsat: Security of Supply Returns to the Forefront of Priorities",
-      "source": "english.aawsat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T15:31:00Z",
-      "publishedAt": "2026-10-11T15:31:00Z",
-      "summary": "",
-      "url": "https://english.aawsat.com/business/5328340-president-wpc-energy-asharq-al-awsat-security-supply-returns-forefront-priorities"
     },
     {
       "id": "http://www.econotimes.com/Yandex-Data-Center-Hit-by-Drone-Strike-as-Russia-Ukraine-Cyber-Infrastructure-Attacks-Escalate-1754558",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3816,
-    "relevantItems": 64,
-    "feedBytes": 1099447,
+    "fetchedItems": 3722,
+    "relevantItems": 55,
+    "feedBytes": 1040282,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

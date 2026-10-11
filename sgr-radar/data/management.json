@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 01:36:01",
+  "updatedAt": "2026. 10. 12. 오전 02:11:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 45,
-    "deduped": 45,
-    "eventDeduped": 45,
+    "passed": 48,
+    "deduped": 48,
+    "eventDeduped": 48,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,6 +332,30 @@
       "url": "https://biz.heraldcorp.com/article/10898443"
     },
     {
+      "id": "https://www.dailytidings.com/oregon-cut-42-million-from-rail-airport-and-port-grants-to-prevent-470-odot-layoffs/",
+      "title": "Oregon Cut $42 Million From Rail, Airport and Port Grants to Prevent 470 ODOT Layoffs | Daily Tidings",
+      "source": "dailytidings.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T17:02:00Z",
+      "publishedAt": "2026-10-11T17:02:00Z",
+      "summary": "",
+      "url": "https://www.dailytidings.com/oregon-cut-42-million-from-rail-airport-and-port-grants-to-prevent-470-odot-layoffs/"
+    },
+    {
+      "id": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/",
+      "title": "EU to reassess Microsoft's Activision Blizzard deal after restructuring",
+      "source": "digbycourier.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T17:02:00Z",
+      "publishedAt": "2026-10-11T17:02:00Z",
+      "summary": "",
+      "url": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/"
+    },
+    {
       "id": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html",
       "title": "UBS poised to unveil job cuts and profit writedowns",
       "source": "dailymail.com",
@@ -378,6 +402,18 @@
       "publishedAt": "2026-10-11T05:47:00Z",
       "summary": "",
       "url": "https://newsway.co.kr/news/view?ud=2026101113341534030"
+    },
+    {
+      "id": "https://arynews.tv/neuroscience-ai-research-reveals-how-the-human-brain-processes-spoken-words",
+      "title": "AI Study Reveals How the Human Brain Processes Spoken Words",
+      "source": "arynews.tv",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T17:01:00Z",
+      "publishedAt": "2026-10-11T17:01:00Z",
+      "summary": "",
+      "url": "https://arynews.tv/neuroscience-ai-research-reveals-how-the-human-brain-processes-spoken-words"
     },
     {
       "id": "https://www.deccanchronicle.com/business/companies/airtel-business-chief-views-adequate-guardrails-on-ai-can-unlock-productivity-gains-1994908",
@@ -684,9 +720,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3816,
-    "relevantItems": 64,
-    "feedBytes": 1099447,
+    "fetchedItems": 3722,
+    "relevantItems": 55,
+    "feedBytes": 1040282,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
