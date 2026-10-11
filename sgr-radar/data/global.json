@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:11:12",
+  "updatedAt": "2026. 10. 12. 오전 12:35:19",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 145,
-    "deduped": 145,
-    "eventDeduped": 145,
+    "passed": 142,
+    "deduped": 142,
+    "eventDeduped": 142,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -440,6 +440,18 @@
       "url": "https://www.hani.co.kr/arti/opinion/column/1281226.html"
     },
     {
+      "id": "https://english.aawsat.com/business/5328379-abdulaziz-bin-salman-riyadh-capital-energy-security",
+      "title": "Abdulaziz bin Salman: Riyadh is the Capital of Energy Security",
+      "source": "english.aawsat.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T15:32:00Z",
+      "publishedAt": "2026-10-11T15:32:00Z",
+      "summary": "",
+      "url": "https://english.aawsat.com/business/5328379-abdulaziz-bin-salman-riyadh-capital-energy-security"
+    },
+    {
       "id": "https://www.maravipost.com/malawis-drug-crisis-exposes-a-broken-supply-chain/",
       "title": "Malawi’s drug crisis exposes a broken supply chain",
       "source": "maravipost.com",
@@ -680,30 +692,6 @@
       "url": "https://www.plastemart.com/plastics-exhibition-trade-shows-messe-fairs?keyword=Contract+Manufacturing+&+Private+Label+Expo+2026+-+Delhi"
     },
     {
-      "id": "https://www.qatarliving.com/en/article/qatar-joins-gcc-trade-industry-and-entrepreneurship-talks-in-bahrain",
-      "title": "Qatar joins GCC trade, industry and entrepreneurship talks in Bahrain | Qatar Living",
-      "source": "qatarliving.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T18:47:00Z",
-      "publishedAt": "2026-10-10T18:47:00Z",
-      "summary": "",
-      "url": "https://www.qatarliving.com/en/article/qatar-joins-gcc-trade-industry-and-entrepreneurship-talks-in-bahrain"
-    },
-    {
-      "id": "https://nripress.com/canada-maninder-sidhu-minister-lead-300-member-trade-delegation-to-india-to-unlock-new-bilateral-trade-opportunities/",
-      "title": "Canada Maninder Sidhu, Minister, lead 300-member trade delegation to India to unlock new bilateral trade opportunities",
-      "source": "nripress.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T18:46:00Z",
-      "publishedAt": "2026-10-10T18:46:00Z",
-      "summary": "",
-      "url": "https://nripress.com/canada-maninder-sidhu-minister-lead-300-member-trade-delegation-to-india-to-unlock-new-bilateral-trade-opportunities/"
-    },
-    {
       "id": "https://news.tuoitre.vn/vietnams-exports-to-mainland-china-soar-to-record-high-as-electronics-boom-fuels-trade-turnaround-103261011102537962.htm",
       "title": "Vietnam’s exports to mainland China soar to record high as electronics boom fuels trade turnaround",
       "source": "news.tuoitre.vn",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-11T14:32:00Z",
       "summary": "",
       "url": "https://newsway.co.kr/news/view?ud=2026100815423433889"
+    },
+    {
+      "id": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story",
+      "title": "ASEAN Can Weather a Typhoon, But a Taiwan Crisis Is a Different Story - Thailand Business News",
+      "source": "thailand-business-news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T06:31:00Z",
+      "publishedAt": "2026-10-11T06:31:00Z",
+      "summary": "",
+      "url": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3895,
-    "relevantItems": 47,
-    "feedBytes": 1137504,
+    "fetchedItems": 3902,
+    "relevantItems": 65,
+    "feedBytes": 1089357,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

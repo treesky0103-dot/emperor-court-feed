@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 12:11:18",
+  "updatedAt": "2026. 10. 12. 오전 12:35:25",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -664,6 +664,18 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "http://www.bignewsnetwork.com/news/279366037/indonesia-egypt-push-for-economic-partnership-agreement-joint-investment-fund",
+          "title": "Indonesia, Egypt push for Economic Partnership Agreement, joint investment fund",
+          "source": "bignewsnetwork.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T15:32:00Z",
+          "publishedAt": "2026-10-11T15:32:00Z",
+          "summary": "",
+          "url": "http://www.bignewsnetwork.com/news/279366037/indonesia-egypt-push-for-economic-partnership-agreement-joint-investment-fund"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/telangana/two-held-for-inter-state-cryptocurrency-investment-fraud/article71571691.ece",
           "title": "Two held for inter-State cryptocurrency investment fraud",
           "source": "thehindu.com",
@@ -746,28 +758,12 @@
           "publishedAt": "2026-10-11T09:01:00Z",
           "summary": "",
           "url": "https://www.tnp.no/norway/panorama/1887-conference-on-the-labour-market-and-the-economic-crisis/"
-        },
-        {
-          "id": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks",
-          "title": "China says can avoid 'escalation' after EU trade talks - Economy - The Jakarta Post",
-          "source": "thejakartapost.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:32:00Z",
-          "publishedAt": "2026-10-11T05:32:00Z",
-          "summary": "",
-          "url": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
-        },
-        {
-          "word": "무역",
-          "count": 2
+          "count": 5
         },
         {
           "word": "고용",
@@ -775,6 +771,10 @@
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         },
         {
@@ -823,18 +823,6 @@
           "publishedAt": "2026-10-11T06:31:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
-        },
-        {
-          "id": "https://digg.com/tech/n7xvznui",
-          "title": "Nvidia reportedly shifting GeForce RTX 5090 production toward data center GPUs · Digg",
-          "source": "digg.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T19:31:00Z",
-          "publishedAt": "2026-10-10T19:31:00Z",
-          "summary": "",
-          "url": "https://digg.com/tech/n7xvznui"
         },
         {
           "id": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
@@ -907,16 +895,32 @@
           "publishedAt": "2026-10-11T07:46:00Z",
           "summary": "",
           "url": "http://www.reflector.com/news/local/electric-avenues-ai-data-centers-spur-natural-gas-solar-challenge-power-grids/article_dad54518-db5e-5c5f-a15d-4e0f41f02428.html"
+        },
+        {
+          "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom",
+          "title": "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
+          "source": "asia.nikkei.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T04:46:00Z",
+          "publishedAt": "2026-10-11T04:46:00Z",
+          "summary": "",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 6
         },
         {
           "word": "데이터센터",
-          "count": 4
+          "count": 3
+        },
+        {
+          "word": "로봇",
+          "count": 1
         },
         {
           "word": "반도체",
@@ -939,8 +943,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3895,
-    "feedBytes": 1137504,
+    "fetchedItems": 3902,
+    "feedBytes": 1089357,
     "rollingWindowHours": 72
   }
 }
