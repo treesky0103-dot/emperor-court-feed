@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 06:53:33",
+  "updatedAt": "2026. 10. 11. 오후 07:11:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 44,
-    "deduped": 44,
-    "eventDeduped": 44,
+    "passed": 47,
+    "deduped": 47,
+    "eventDeduped": 47,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -380,6 +380,30 @@
       "url": "https://newsway.co.kr/news/view?ud=2026101113341534030"
     },
     {
+      "id": "https://www.ktbs.com/online_features/press_releases/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda/article_b8a25b08-76dd-5767-bdba-4dddc70c1f87.html",
+      "title": "AnX Robotica Highlights Documented ProScan AI Workflow Performance from Submission to FDA",
+      "source": "ktbs.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T10:01:00Z",
+      "publishedAt": "2026-10-11T10:01:00Z",
+      "summary": "",
+      "url": "https://www.ktbs.com/online_features/press_releases/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda/article_b8a25b08-76dd-5767-bdba-4dddc70c1f87.html"
+    },
+    {
+      "id": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+      "title": "This AI-made sci-fi series skipped the actors, sets, and Hollywood-sized budget",
+      "source": "businessinsider.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T10:01:00Z",
+      "publishedAt": "2026-10-11T10:01:00Z",
+      "summary": "",
+      "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10"
+    },
+    {
       "id": "https://www.moneycontrol.com/news/business/companies/guardrails-safe-architecture-key-to-unlocking-ai-gains-for-enterprises-airtel-business-ceo-14049464.html",
       "title": "Guardrails, safe architecture key to unlocking AI gains for enterprises: Airtel Business CEO- Moneycontrol.com",
       "source": "moneycontrol.com",
@@ -402,18 +426,6 @@
       "publishedAt": "2026-10-11T09:46:00Z",
       "summary": "",
       "url": "https://www.moneycontrol.com/news/trends/that-s-what-productivity-jeff-bezos-predicts-ai-could-bring-3-day-workweeks-and-single-income-families-14049448.html"
-    },
-    {
-      "id": "https://bubblear.com/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda/34297/",
-      "title": "AnX Robotica Highlights Documented ProScan AI Workflow Performance from Submission to FDA",
-      "source": "bubblear.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T09:32:00Z",
-      "publishedAt": "2026-10-11T09:32:00Z",
-      "summary": "",
-      "url": "https://bubblear.com/anx-robotica-highlights-documented-proscan-ai-workflow-performance-from-submission-to-fda/34297/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-says-dont-blindly-trust-ai-warns-treat-it-like-an-employee-who-could-/articleshow/134864731.cms",
@@ -596,6 +608,30 @@
       "url": "https://dailypost.ng/2026/10/10/npfl-barau-fc-captain-maidubji-returns-to-training-after-injury-layoff/"
     },
     {
+      "id": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+      "title": "I nearly fell for an AI job scam — the usual red flags weren't there",
+      "source": "businessinsider.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T10:02:00Z",
+      "publishedAt": "2026-10-11T10:02:00Z",
+      "summary": "",
+      "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10"
+    },
+    {
+      "id": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+      "title": "Tech companies have an adorable plan to make you forget about AI's threat to jobs and humanity",
+      "source": "businessinsider.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T10:01:00Z",
+      "publishedAt": "2026-10-11T10:01:00Z",
+      "summary": "",
+      "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10"
+    },
+    {
       "id": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html",
       "title": "Becoming a female tradie in midlife is the ultimate AI-proof job",
       "source": "dailymail.com",
@@ -672,9 +708,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3805,
-    "relevantItems": 72,
-    "feedBytes": 1044972,
+    "fetchedItems": 3844,
+    "relevantItems": 66,
+    "feedBytes": 1119244,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
