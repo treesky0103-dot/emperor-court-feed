@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오전 09:28:02",
+  "updatedAt": "2026. 10. 11. 오전 09:55:46",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -60,6 +60,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.fnnews.com/news/202610090343485982",
+          "title": "\"월세 70만원, 학교 앞 원룸은 직장인이 장악했어요\"…고시원 밀려나는 '인서울' 지방출신들 [낮은 곳의 기록자]",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:46:00Z",
+          "publishedAt": "2026-10-11T00:46:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610090343485982"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272638&CMPT_CD=M0153",
           "title": "인공지능시대, 교육에 던져진 '엉당질'이 계속돼야 하는 까닭",
           "source": "ohmynews.com",
@@ -108,18 +120,6 @@
           "url": "http://kr.xinhuanet.com/20261010/ae6e5b4b6e0d441ba36df0c9676a8d49/c.html"
         },
         {
-          "id": "https://www.munhwa.com:443/article/11622485",
-          "title": "서울 대학서 여성 목 찌르고 영국 도주한 30대…9일 만에 현지서 검거",
-          "source": "munhwa.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:46:00Z",
-          "publishedAt": "2026-10-10T05:46:00Z",
-          "summary": "",
-          "url": "https://www.munhwa.com:443/article/11622485"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/opinion/column/1281402.html",
           "title": "극우 비인가 학교, 교화 대신 교육을 [세상읽기]",
           "source": "hani.co.kr",
@@ -143,6 +143,10 @@
         },
         {
           "word": "정신건강",
+          "count": 1
+        },
+        {
+          "word": "주거",
           "count": 1
         }
       ],
@@ -191,6 +195,20 @@
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html"
         },
         {
+          "id": "https://www.etnews.com/20261008000268",
+          "title": "경영악화 반영 장치 없다…유료방송 “방발기금 부과체계 통일해야”",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:30:00Z",
+          "publishedAt": "2026-10-11T00:30:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000268",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.mk.co.kr/news/society/12172667",
           "title": "“얼굴·몸매보다 통장 잔고?”…돌싱 남녀 상당수 “경제력 조건 보완 가능”",
           "source": "mk.co.kr",
@@ -203,6 +221,18 @@
           "url": "https://www.mk.co.kr/news/society/12172667",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.fnnews.com/news/202610110700408248",
+          "title": "금리 vs 실적…코스피, 7000선 재도전 나설까[주간증시전망]",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:46:00Z",
+          "publishedAt": "2026-10-11T00:46:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
           "id": "http://www.koreatimes.com/article/20261010/1633322",
@@ -253,36 +283,16 @@
           "publishedAt": "2026-10-10T07:46:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2633742"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10897481",
-          "title": "“SK하이닉스는 믿는다” 역대급 실적에도 주가 ‘털썩’…SK하이닉스는 웃을까? [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:46:00Z",
-          "publishedAt": "2026-10-10T05:46:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10897481"
-        },
-        {
-          "id": "https://www.segye.com:443/newsView/20261009506621",
-          "title": "회사 안 사고 핵심팀만 쏙… 빅테크서 확산하는 ‘인재 인수’ [이귀전의 왜-인재전쟁 ②]",
-          "source": "segye.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T00:17:00Z",
-          "publishedAt": "2026-10-11T00:17:00Z",
-          "summary": "",
-          "url": "https://www.segye.com:443/newsView/20261009506621"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
+        },
+        {
+          "word": "금리",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -332,18 +342,6 @@
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/11/SU4ILBAWUFABLNDMEYGRCN3DAY/"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/marketing/1281572.html",
-          "title": "반도체 초호황인데, 완제품은 적자…희비 엇갈린 ‘한 지붕 두 삼전’",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T05:31:00Z",
-          "publishedAt": "2026-10-10T05:31:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1281572.html"
-        },
-        {
           "id": "http://www.koreatimes.com/article/20261010/1633322",
           "title": "“엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중” - 미주 한국일보",
           "source": "koreatimes.com",
@@ -356,6 +354,30 @@
           "url": "http://www.koreatimes.com/article/20261010/1633322"
         },
         {
+          "id": "https://newsway.co.kr/news/view?ud=2026100813322118547",
+          "title": "9월 코스닥 수익률 꼴찌 '제약·바이오주'···4분기 반전 이룰까 - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:46:00Z",
+          "publishedAt": "2026-10-11T00:46:00Z",
+          "summary": "",
+          "url": "https://newsway.co.kr/news/view?ud=2026100813322118547"
+        },
+        {
+          "id": "https://www.fnnews.com/news/202610110615130603",
+          "title": "삼전닉스 주춤했지만…소부장 선전에 한달간 수익률 1위는 반도체",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:46:00Z",
+          "publishedAt": "2026-10-11T00:46:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610110615130603"
+        },
+        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101018045660798",
           "title": "분기 영업익 107조 새 역사 쓴 삼성… 최태원 SK회장은 '팹 병행 건설' 속도전 [위클리반도체]",
           "source": "ddaily.co.kr",
@@ -366,18 +388,6 @@
           "publishedAt": "2026-10-10T23:32:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026101018045660798"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026100813322118547",
-          "title": "9월 코스닥 수익률 꼴찌 '제약·바이오주'···4분기 반전 이룰까 - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T23:31:00Z",
-          "publishedAt": "2026-10-10T23:31:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026100813322118547"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273712&SRS_CD=0000023230&CMPT_CD=M0153",
@@ -612,6 +622,18 @@
           "url": "https://www.madhyamam.com/business/biz-news/qatar-central-bank-and-euroclear-partner-to-attract-more-foreign-investment-1562095"
         },
         {
+          "id": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/",
+          "title": "Indonesia’s Energy Investment Potential",
+          "source": "thediplomat.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T00:46:00Z",
+          "publishedAt": "2026-10-11T00:46:00Z",
+          "summary": "",
+          "url": "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/"
+        },
+        {
           "id": "http://www.torontotelegraph.com/news/279358414/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canada-military-readiness",
           "title": "PrairiesCan investments in defence-related projects will strengthen the Alberta economy and support Canada's military readiness",
           "source": "torontotelegraph.com",
@@ -694,24 +716,12 @@
           "publishedAt": "2026-10-10T14:46:00Z",
           "summary": "",
           "url": "https://finchannel.com/strategic-investment-in-healthcare-leadership-the-economic-value-of-public-health-expertise/135307/health-beauty/2026/09/"
-        },
-        {
-          "id": "https://www.ibtimes.com/congress-passes-economic-sanctions-against-russia-critics-say-it-will-broaden-trump-tariff-powers-3807570",
-          "title": "Congress Passes Economic Sanctions Against Russia. Critics Say It Will Broaden Trump Tariff Powers.",
-          "source": "ibtimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T12:17:00Z",
-          "publishedAt": "2026-10-10T12:17:00Z",
-          "summary": "",
-          "url": "https://www.ibtimes.com/congress-passes-economic-sanctions-against-russia-critics-say-it-will-broaden-trump-tariff-powers-3807570"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 6
         },
         {
           "word": "금리",
@@ -719,10 +729,6 @@
         },
         {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "관세",
           "count": 1
         },
         {
@@ -887,8 +893,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2185,
-    "feedBytes": 582017,
+    "fetchedItems": 2247,
+    "feedBytes": 583744,
     "rollingWindowHours": 72
   }
 }
