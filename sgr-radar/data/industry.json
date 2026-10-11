@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 03:12:53",
+  "updatedAt": "2026. 10. 12. 오전 03:39:52",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 612,
-    "deduped": 612,
-    "eventDeduped": 612,
+    "passed": 608,
+    "deduped": 608,
+    "eventDeduped": 608,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,30 @@
       "url": "https://www.newspim.com/news/view/20261008000591"
     },
     {
+      "id": "https://abc7.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/",
+      "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
+      "source": "abc7.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T18:32:00Z",
+      "publishedAt": "2026-10-11T18:32:00Z",
+      "summary": "",
+      "url": "https://abc7.com/story/russia-strikes-power-plant-ukraine-trump-announces-energy-ceasefire/19930046/"
+    },
+    {
+      "id": "https://newsroomamerica.com/tag/manufacturing_investment",
+      "title": "Tag: manufacturing_investment",
+      "source": "newsroomamerica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T18:32:00Z",
+      "publishedAt": "2026-10-11T18:32:00Z",
+      "summary": "",
+      "url": "https://newsroomamerica.com/tag/manufacturing_investment"
+    },
+    {
       "id": "https://www.wokv.com/news/world/ukraine-steps-up/3LYVELL4IM4WFBXUMEYJHF6XDE/",
       "title": "Ukraine steps up strikes on Russia’s tech infrastructure, damaging third data center in 4 days",
       "source": "wokv.com",
@@ -452,18 +476,6 @@
       "url": "https://www.equitybulls.com/category.php?id=376759"
     },
     {
-      "id": "https://english.aawsat.com/business/5328368-international-energy-forum-security-supply-requires-ensuring-energy-access",
-      "title": "International Energy Forum: Security of Supply Requires Ensuring Energy Access for Consumers",
-      "source": "english.aawsat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T15:32:00Z",
-      "publishedAt": "2026-10-11T15:32:00Z",
-      "summary": "",
-      "url": "https://english.aawsat.com/business/5328368-international-energy-forum-security-supply-requires-ensuring-energy-access"
-    },
-    {
       "id": "http://www.econotimes.com/Yandex-Data-Center-Hit-by-Drone-Strike-as-Russia-Ukraine-Cyber-Infrastructure-Attacks-Escalate-1754558",
       "title": "Yandex Data Center Hit by Drone Strike as Russia-Ukraine Cyber Infrastructure Attacks Escalate - EconoTimes",
       "source": "econotimes.com",
@@ -510,18 +522,6 @@
       "publishedAt": "2026-10-11T10:31:00Z",
       "summary": "",
       "url": "https://www.dailypress.com/2026/10/09/jcc-planning-commission-recommends-approval-of-battery-storage-plant-in-grove/"
-    },
-    {
-      "id": "https://www.punjabijagran.com/punjab/ludhiana-young-woman-dies-after-her-scarf-gets-caught-in-a-machine-family-stages-protest-outside-the-factory-police-investigation-underway-9695881.html",
-      "title": "ਮਸ਼ੀਨ ’ਚ ਚੁੰਨੀ ਫਸਣ ਨਾਲ ਮੁਟਿਆਰ ਦੀ ਮੌਤ, ਪਰਿਵਾਰ ਨੇ ਫੈਕਟਰੀ ਬਾਹਰ ਲਾਇਆ ਧਰਨਾ; ਪੁਲਿਸ ਜਾਂਚ ਜਾਰੀ - Young woman dies after her scarf gets caught in a machine family stages protest outside the factory police investigation underway",
-      "source": "punjabijagran.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T04:01:00Z",
-      "publishedAt": "2026-10-11T04:01:00Z",
-      "summary": "",
-      "url": "https://www.punjabijagran.com/punjab/ludhiana-young-woman-dies-after-her-scarf-gets-caught-in-a-machine-family-stages-protest-outside-the-factory-police-investigation-underway-9695881.html"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3522,
+    "fetchedItems": 3678,
     "relevantItems": 65,
-    "feedBytes": 991079,
+    "feedBytes": 1051598,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 03:12:54",
+  "updatedAt": "2026. 10. 12. 오전 03:39:53",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 48,
-    "deduped": 48,
-    "eventDeduped": 48,
+    "passed": 49,
+    "deduped": 49,
+    "eventDeduped": 49,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -52,6 +52,18 @@
       "publishedAt": "2026-10-11T11:31:00Z",
       "summary": "",
       "url": "http://www.indiagazette.com/news/279365260/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey"
+    },
+    {
+      "id": "https://finchannel.com/sap-agrees-to-buy-techwolf-to-expand-ai-workforce-tools/137658/american-business-trends/2026/10/",
+      "title": "SAP Agrees to Buy TechWolf to Expand AI Workforce Tools - FINCHANNEL",
+      "source": "finchannel.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T18:32:00Z",
+      "publishedAt": "2026-10-11T18:32:00Z",
+      "summary": "",
+      "url": "https://finchannel.com/sap-agrees-to-buy-techwolf-to-expand-ai-workforce-tools/137658/american-business-trends/2026/10/"
     },
     {
       "id": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-11T15:01:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
-    },
-    {
-      "id": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html",
-      "title": "‘H-1B is a business model’: Trump official defends tech firm suspensions, claims visa program is costing Americans jobs",
-      "source": "hindustantimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T05:31:00Z",
-      "publishedAt": "2026-10-11T05:31:00Z",
-      "summary": "",
-      "url": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html"
     }
   ],
   "trendItems": [
@@ -174,6 +174,18 @@
       "publishedAt": "2026-10-11T11:31:00Z",
       "summary": "",
       "url": "http://www.indiagazette.com/news/279365260/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey"
+    },
+    {
+      "id": "https://finchannel.com/sap-agrees-to-buy-techwolf-to-expand-ai-workforce-tools/137658/american-business-trends/2026/10/",
+      "title": "SAP Agrees to Buy TechWolf to Expand AI Workforce Tools - FINCHANNEL",
+      "source": "finchannel.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T18:32:00Z",
+      "publishedAt": "2026-10-11T18:32:00Z",
+      "summary": "",
+      "url": "https://finchannel.com/sap-agrees-to-buy-techwolf-to-expand-ai-workforce-tools/137658/american-business-trends/2026/10/"
     },
     {
       "id": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/",
@@ -720,9 +732,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3522,
+    "fetchedItems": 3678,
     "relevantItems": 65,
-    "feedBytes": 991079,
+    "feedBytes": 1051598,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
