@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 03:15:26",
+  "updatedAt": "2026. 10. 11. 오후 03:43:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 144,
-    "deduped": 144,
-    "eventDeduped": 144,
+    "passed": 146,
+    "deduped": 146,
+    "eventDeduped": 146,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -428,6 +428,18 @@
       "url": "https://www.hani.co.kr/arti/opinion/column/1281226.html"
     },
     {
+      "id": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story",
+      "title": "ASEAN Can Weather a Typhoon, But a Taiwan Crisis Is a Different Story - Thailand Business News",
+      "source": "thailand-business-news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T06:31:00Z",
+      "publishedAt": "2026-10-11T06:31:00Z",
+      "summary": "",
+      "url": "https://www.thailand-business-news.com/asean/318167-asean-can-weather-a-typhoon-but-a-taiwan-crisis-is-a-different-story"
+    },
+    {
       "id": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry",
       "title": "Philippine President Marcos looks to Singapore to build on ASEAN digital pact amid US-China rivalry",
       "source": "straitstimes.com",
@@ -438,18 +450,6 @@
       "publishedAt": "2026-10-11T05:01:00Z",
       "summary": "",
       "url": "https://www.straitstimes.com/asia/se-asia/philippine-president-marcos-looks-to-singapore-to-build-on-asean-digital-pact-amid-us-china-rivalry"
-    },
-    {
-      "id": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html",
-      "title": "Russia's Presidential aide says Putin-Trump talk 'very substantive', plans for in-person meeting at APEC summit in China- Moneycontrol.com",
-      "source": "moneycontrol.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T02:47:00Z",
-      "publishedAt": "2026-10-11T02:47:00Z",
-      "summary": "",
-      "url": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html"
     },
     {
       "id": "https://www.homelandsecuritynewswire.com/dr20260821-east-texas-sits-on-a-goldmine-of-lithium-but-questions-loom-over-how-the-state-will-regulate-mining-and-production",
@@ -728,25 +728,25 @@
       "url": "https://www.fnnews.com/news/202610110500193805"
     },
     {
-      "id": "https://graphics.businesstimes.com.sg/specials/asean-subsea/",
-      "title": "Why the Asean Power Grid’s future lies in subsea cables",
-      "source": "graphics.businesstimes.com.sg",
+      "id": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html",
+      "title": "Russia's Presidential aide says Putin-Trump talk 'very substantive', plans for in-person meeting at APEC summit in China- Moneycontrol.com",
+      "source": "moneycontrol.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T01:31:00Z",
-      "publishedAt": "2026-10-11T01:31:00Z",
+      "dateRaw": "2026-10-11T02:47:00Z",
+      "publishedAt": "2026-10-11T02:47:00Z",
       "summary": "",
-      "url": "https://graphics.businesstimes.com.sg/specials/asean-subsea/"
+      "url": "https://www.moneycontrol.com/world/russia-s-presidential-aide-says-putin-trump-talk-very-substantive-plans-for-in-person-meeting-at-apec-summit-in-china-article-14049230.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3132,
-    "relevantItems": 58,
-    "feedBytes": 848214,
+    "fetchedItems": 3230,
+    "relevantItems": 43,
+    "feedBytes": 897230,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

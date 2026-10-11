@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 03:15:25",
+  "updatedAt": "2026. 10. 11. 오후 03:43:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 42,
-    "deduped": 42,
-    "eventDeduped": 42,
+    "passed": 44,
+    "deduped": 44,
+    "eventDeduped": 44,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service",
+      "title": "NYSE-listed Twilio sets sights on Asia-Pacific as AI adoption grows in customer service",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T06:31:00Z",
+      "publishedAt": "2026-10-11T06:31:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257",
       "title": "[단독] “AI 인재 키운다며 104억 썼는데”…취업자 AI 업무 하는지도 몰라",
@@ -124,21 +136,21 @@
       "publishedAt": "2026-10-11T00:17:00Z",
       "summary": "",
       "url": "http://www.austinglobe.com/news/279360400/us-jobless-claims-fall-to-197-000-as-layoffs-remain-low"
-    },
-    {
-      "id": "https://vietnamnews.vn/economy/1801700/ministry-proposes-restructuring-evn-to-advance-competitive-power-market.html",
-      "title": "Ministry proposes restructuring EVN to advance competitive power market",
-      "source": "vietnamnews.vn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-10",
-      "dateRaw": "2026-10-10T14:01:00Z",
-      "publishedAt": "2026-10-10T14:01:00Z",
-      "summary": "",
-      "url": "https://vietnamnews.vn/economy/1801700/ministry-proposes-restructuring-evn-to-advance-competitive-power-market.html"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service",
+      "title": "NYSE-listed Twilio sets sights on Asia-Pacific as AI adoption grows in customer service",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T06:31:00Z",
+      "publishedAt": "2026-10-11T06:31:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/nyse-listed-twilio-sets-sights-asia-pacific-ai-adoption-grows-customer-service"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01397286645611936&mediaCodeNo=257",
       "title": "[단독] “AI 인재 키운다며 104억 썼는데”…취업자 AI 업무 하는지도 몰라",
@@ -198,6 +210,18 @@
       "publishedAt": "2026-10-10T23:31:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/it-science/ict/2026/10/11/QNDXTMB23VCDXOSDMW7RXVIOWA/"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+      "title": "Nvidia weighs deeper ties with open-model developer Reflection AI through investment or computing deal",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T06:31:00Z",
+      "publishedAt": "2026-10-11T06:31:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
     },
     {
       "id": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html",
@@ -648,9 +672,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3132,
-    "relevantItems": 58,
-    "feedBytes": 848214,
+    "fetchedItems": 3230,
+    "relevantItems": 43,
+    "feedBytes": 897230,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
