@@ -1,24 +1,12 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 11. 오후 02:11:49",
+  "updatedAt": "2026. 10. 11. 오후 02:35:20",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261011101059",
-          "title": "외롭고 사람도 안 만나면 건강수명 줄어든다?",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:01:00Z",
-          "publishedAt": "2026-10-11T05:01:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261011101059"
-        },
         {
           "id": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/",
           "title": "李 “서민 복지 예산 삭감하는 사람이 그들의 삶 이해하겠나” 추미애 저격?",
@@ -30,6 +18,20 @@
           "publishedAt": "2026-10-11T04:01:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/policy/politics/president_office/2026/10/11/FTYUISRSRBEJDHOPZOWBEUBVP4/"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261011101059",
+          "title": "외롭고 사람도 안 만나면 건강수명 줄어든다",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T03:30:01Z",
+          "publishedAt": "2026-10-11T03:30:01Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261011101059",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.etnews.com/20261011000021",
@@ -96,6 +98,32 @@
           "url": "https://womannews.net/detail.php?number=456890&thread=22r03r03"
         },
         {
+          "id": "https://www.etoday.co.kr/news/view/2634293",
+          "title": "청년미래적금 내일부터 출생연도 관계없이 신청",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:32:00Z",
+          "publishedAt": "2026-10-11T05:32:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2634293"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224139",
+          "title": "직장동료 '불륜 카톡' 촬영해 유포한 아동복지시설 직원…처벌은?",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:03:00Z",
+          "publishedAt": "2026-10-11T05:03:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224139",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://cunews.net/detail.php?number=172933&thread=22r05r03",
           "title": "인천시, 12일부터 ‘2026 정비사업 시민 아카데미’ 운영…재개발·재건축 실무교육 강화 : 연합시민의소리",
           "source": "cunews.net",
@@ -106,30 +134,6 @@
           "publishedAt": "2026-10-11T05:01:00Z",
           "summary": "",
           "url": "https://cunews.net/detail.php?number=172933&thread=22r05r03"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0112",
-          "title": "40년 만에 한 무대서 만난, '청년 유열'과 '돌아온 유열'",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T04:46:00Z",
-          "publishedAt": "2026-10-11T04:46:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272881&PAGE_CD=N0002&CMPT_CD=M0112"
-        },
-        {
-          "id": "https://isplus.com/article/view/isp202610080142",
-          "title": "압구정 재건축 이주 본격화…‘소요한남 by 파르나스’ 장기 임차형 주거 제안 - 일간스포츠",
-          "source": "isplus.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:01:00Z",
-          "publishedAt": "2026-10-11T03:01:00Z",
-          "summary": "",
-          "url": "https://isplus.com/article/view/isp202610080142"
         }
       ],
       "keywords": [
@@ -139,14 +143,10 @@
         },
         {
           "word": "복지",
-          "count": 4
+          "count": 5
         },
         {
           "word": "정신건강",
-          "count": 1
-        },
-        {
-          "word": "주거",
           "count": 1
         },
         {
@@ -201,6 +201,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.mk.co.kr/news/business/12172941",
+          "title": "포스코DX, ‘에이전틱 AI’ 승부수…인핸스에 20억 투자",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T14:24:32Z",
+          "publishedAt": "2026-10-11T14:24:32Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12172941",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html",
           "title": "경제 정책 ‘잘못한다’ 47% ‘잘한다’ 35%…부정론 첫 역전 [갤럽]",
           "source": "hani.co.kr",
@@ -211,20 +225,6 @@
           "publishedAt": "2026-10-10T19:47:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1281644.html"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/economy/12172931",
-          "title": "한-우크라 ‘신경전’ 벌이는 대러 석유제품 공급...“직수출 물량 아냐”",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:43:01Z",
-          "publishedAt": "2026-10-11T13:43:01Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12172931",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202610110700408248",
@@ -239,6 +239,42 @@
           "url": "https://www.fnnews.com/news/202610110700408248"
         },
         {
+          "id": "https://www.etoday.co.kr/news/view/2632574",
+          "title": "AI 데이터센터 늘자 전력 수요도 급증…ETF 투자처도 '전력 인프라'로",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:32:00Z",
+          "publishedAt": "2026-10-11T05:32:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2632574"
+        },
+        {
+          "id": "http://www.newstomato.com/ReadNews.aspx?no=1316186",
+          "title": "(주간증시전망)7000선 무너진 코스피…미국 물가·실적에 반등 갈림길",
+          "source": "newstomato.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:32:00Z",
+          "publishedAt": "2026-10-11T05:32:00Z",
+          "summary": "",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316186"
+        },
+        {
+          "id": "http://inews24.com/view/2013608",
+          "title": "이춘석 의원 \"새만금사업은 국가사업…정부의 책임있는 투자를\"",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:31:00Z",
+          "publishedAt": "2026-10-11T05:31:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2013608"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10898550",
           "title": "‘107조 벌어도 소용없다’ 삼성전자 外人 지분 17년 만에 최저[투자360]",
           "source": "biz.heraldcorp.com",
@@ -249,59 +285,27 @@
           "publishedAt": "2026-10-11T05:01:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10898550"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026101110314153828",
-          "title": "관세·AI 격랑에 인사 시계 당긴 재계···삼성·SK·LG도 채비 - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T04:31:00Z",
-          "publishedAt": "2026-10-11T04:31:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101110314153828"
-        },
-        {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026100911551178106",
-          "title": "포스코DX, 온톨로지 기술로 에이전틱 AI 고도화…인핸스에 20억 투자",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:31:00Z",
-          "publishedAt": "2026-10-11T03:31:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026100911551178106"
-        },
-        {
-          "id": "http://www.knnews.co.kr/news/articleView.php?idxno=1552478",
-          "title": "부산진해경자청, 베트남서 투자유치 '총력'",
-          "source": "knnews.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T03:01:00Z",
-          "publishedAt": "2026-10-11T03:01:00Z",
-          "summary": "",
-          "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552478"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "기업",
           "count": 2
         },
         {
-          "word": "수출",
-          "count": 2
+          "word": "금리",
+          "count": 1
         },
         {
-          "word": "금리",
+          "word": "물가",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         },
         {
@@ -342,18 +346,30 @@
           "url": "https://www.etnews.com/20261011000029"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12172825",
-          "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
+          "id": "https://www.mk.co.kr/news/business/12172941",
+          "title": "포스코DX, ‘에이전틱 AI’ 승부수…인핸스에 20억 투자",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:33:46Z",
-          "publishedAt": "2026-10-11T07:33:46Z",
+          "dateRaw": "2026-10-11T14:24:32Z",
+          "publishedAt": "2026-10-11T14:24:32Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12172825",
+          "url": "https://www.mk.co.kr/news/business/12172941",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2632574",
+          "title": "AI 데이터센터 늘자 전력 수요도 급증…ETF 투자처도 '전력 인프라'로",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:32:00Z",
+          "publishedAt": "2026-10-11T05:32:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2632574"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273795&PAGE_CD=N0002&CMPT_CD=M0112",
@@ -426,27 +442,19 @@
           "publishedAt": "2026-10-11T00:16:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261010/1633322"
-        },
-        {
-          "id": "https://cunews.net/detail.php?number=172927&thread=22r12r03%20style=",
-          "title": "인천항만공사 공공데이터 활용, AI 선박 출항시간 예측 서비스 출시 : 연합시민의소리",
-          "source": "cunews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T05:01:00Z",
-          "publishedAt": "2026-10-11T05:01:00Z",
-          "summary": "",
-          "url": "https://cunews.net/detail.php?number=172927&thread=22r12r03%20style="
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 10
         },
         {
           "word": "로봇",
+          "count": 3
+        },
+        {
+          "word": "전력",
           "count": 3
         },
         {
@@ -454,19 +462,15 @@
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 2
+          "word": "데이터센터",
+          "count": 1
         },
         {
-          "word": "전력",
+          "word": "반도체",
           "count": 1
         },
         {
           "word": "제조",
-          "count": 1
-        },
-        {
-          "word": "조선",
           "count": 1
         }
       ],
@@ -636,6 +640,18 @@
           "url": "https://www.digbycourier.ca/the-monetary-policy-decision-of-central-banks-is-different/"
         },
         {
+          "id": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks",
+          "title": "China says can avoid 'escalation' after EU trade talks - Economy - The Jakarta Post",
+          "source": "thejakartapost.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T05:32:00Z",
+          "publishedAt": "2026-10-11T05:32:00Z",
+          "summary": "",
+          "url": "http://www.thejakartapost.com/business/2026/10/11/china-says-can-avoid-escalation-after-eu-trade-talks"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/international/china/1281782.html",
           "title": "정면충돌 피한 중-EU…하이브리드차 수출 조절 합의",
           "source": "hani.co.kr",
@@ -730,24 +746,12 @@
           "publishedAt": "2026-10-10T15:02:00Z",
           "summary": "",
           "url": "https://www.prokerala.com/news/articles/a1822869.html"
-        },
-        {
-          "id": "https://finchannel.com/strategic-investment-in-healthcare-leadership-the-economic-value-of-public-health-expertise/135307/health-beauty/2026/09/",
-          "title": "Strategic Investment in Healthcare Leadership: The Economic Value of Public Health Expertise - FINCHANNEL",
-          "source": "finchannel.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-10",
-          "dateRaw": "2026-10-10T14:46:00Z",
-          "publishedAt": "2026-10-10T14:46:00Z",
-          "summary": "",
-          "url": "https://finchannel.com/strategic-investment-in-healthcare-leadership-the-economic-value-of-public-health-expertise/135307/health-beauty/2026/09/"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "금리",
@@ -755,6 +759,10 @@
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         },
         {
@@ -927,8 +935,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2472,
-    "feedBytes": 682185,
+    "fetchedItems": 2887,
+    "feedBytes": 765251,
     "rollingWindowHours": 72
   }
 }
