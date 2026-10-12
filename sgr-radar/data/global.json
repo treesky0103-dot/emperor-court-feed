@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 06:53:44",
+  "updatedAt": "2026. 10. 13. 오전 07:11:57",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 141,
-    "deduped": 141,
-    "eventDeduped": 141,
+    "passed": 139,
+    "deduped": 139,
+    "eventDeduped": 139,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -404,6 +404,18 @@
       "url": "https://cunews.net/detail.php?number=172946&thread=22r12r03%20style="
     },
     {
+      "id": "http://www.britainnews.net/news/279363774/india-one-of-the-biggest-conclave-profit-tusker-summits-to-host-brand-keralam-conclave-2026-focused-on-kerala-global-investment-and-trade-potential",
+      "title": "India's one of the biggest Conclave Profit Tusker Summits to Host Brand Keralam Conclave 2026 Focused on Kerala's Global Investment and Trade Potential",
+      "source": "britainnews.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T22:02:00Z",
+      "publishedAt": "2026-10-12T22:02:00Z",
+      "summary": "",
+      "url": "http://www.britainnews.net/news/279363774/india-one-of-the-biggest-conclave-profit-tusker-summits-to-host-brand-keralam-conclave-2026-focused-on-kerala-global-investment-and-trade-potential"
+    },
+    {
       "id": "http://biomassmagazine.com/articles/drax-introduces-intuitive-biomass-supply-chain-navigation-with-map-view",
       "title": "Drax introduces intuitive biomass supply chain navigation with map view | Biomass Magazine",
       "source": "biomassmagazine.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-12T12:17:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261012001515"
-    },
-    {
-      "id": "https://www.orissapost.com/china-eu-strike-interim-trade-deal-that-could-cut-chinese-hybrid-exports/",
-      "title": "China, EU strike interim trade deal that could cut Chinese hybrid exports - OrissaPOST",
-      "source": "orissapost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T15:47:00Z",
-      "publishedAt": "2026-10-12T15:47:00Z",
-      "summary": "",
-      "url": "https://www.orissapost.com/china-eu-strike-interim-trade-deal-that-could-cut-chinese-hybrid-exports/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3919,
-    "relevantItems": 78,
-    "feedBytes": 1093432,
+    "fetchedItems": 3539,
+    "relevantItems": 64,
+    "feedBytes": 975463,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

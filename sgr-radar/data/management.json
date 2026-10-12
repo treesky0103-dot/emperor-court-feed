@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 06:53:43",
+  "updatedAt": "2026. 10. 13. 오전 07:11:56",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 60,
-    "deduped": 60,
-    "eventDeduped": 60,
+    "passed": 58,
+    "deduped": 58,
+    "eventDeduped": 58,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -560,18 +560,6 @@
       "url": "https://www.aol.co.uk/articles/enterprise-minister-us-seeking-entice-112912000.html"
     },
     {
-      "id": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-20261012130131.html",
-      "title": "insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds",
-      "source": "europapress.es",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T11:17:00Z",
-      "publishedAt": "2026-10-12T11:17:00Z",
-      "summary": "",
-      "url": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-20261012130131.html"
-    },
-    {
       "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
       "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
       "source": "natlawreview.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T18:31:00Z",
       "summary": "",
       "url": "https://thesun.ng/ai-wont-replace-skilled-workers-experts-tell-lagos-civil-servants/"
+    },
+    {
+      "id": "https://www.breakingnews.ie/ireland/workers-as-well-as-employers-need-to-feel-ai-benefit-union-leader-tells-conference-1953421.html",
+      "title": "Workers as well as employers need to feel AI benefit, union leader tells conference | BreakingNews",
+      "source": "breakingnews.ie",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T18:02:00Z",
+      "publishedAt": "2026-10-12T18:02:00Z",
+      "summary": "",
+      "url": "https://www.breakingnews.ie/ireland/workers-as-well-as-employers-need-to-feel-ai-benefit-union-leader-tells-conference-1953421.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3919,
-    "relevantItems": 78,
-    "feedBytes": 1093432,
+    "fetchedItems": 3539,
+    "relevantItems": 64,
+    "feedBytes": 975463,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
