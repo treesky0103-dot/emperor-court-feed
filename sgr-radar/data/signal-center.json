@@ -1,25 +1,39 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 10:41:54",
+  "updatedAt": "2026. 10. 12. 오전 10:59:15",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12173357",
-          "title": "“꼭 필요한 안전교육, 제때 제대로”…세이프키즈, 안성맞춤 순회교육 실시",
+          "id": "https://www.etnews.com/20261012000117",
+          "title": "아주대 과학기술정책대학원, 2027학년도 1학기 석·박사 신입생 모집",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:29:22Z",
+          "publishedAt": "2026-10-12T01:29:22Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261012000117",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/business/12173399",
+          "title": "사이버한국외국어대학교-푸른투어, 교육협력 및 산업체 위탁교육 협약 체결",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T10:03:31Z",
-          "publishedAt": "2026-10-12T10:03:31Z",
+          "dateRaw": "2026-10-12T10:50:41Z",
+          "publishedAt": "2026-10-12T10:50:41Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12173357",
+          "url": "https://www.mk.co.kr/news/business/12173399",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.chosun.com/science-chosun/science/2026/10/12/OY4Q465Y7NDAHBTJGWBBMYUS5U/",
@@ -84,18 +98,6 @@
           "url": "https://womannews.net/detail.php?number=456885&thread=22r03r03"
         },
         {
-          "id": "https://www.etnews.com/20261011000081",
-          "title": "출산율이 높아서 문제…“애 좀 그만낳아라” 집집마다 찾아가 피임약 뿌리는 나라",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T11:46:00Z",
-          "publishedAt": "2026-10-11T11:46:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261011000081"
-        },
-        {
           "id": "https://ichannela.com/news/detail/000000554617.do",
           "title": "윤희숙 “매매·전월세 시장, 이 대통령 이때까지 한 것 정반대로만 하면 돼” [정치시그널]",
           "source": "ichannela.com",
@@ -134,12 +136,12 @@
       ],
       "keywords": [
         {
-          "word": "주거",
-          "count": 3
+          "word": "교육",
+          "count": 5
         },
         {
-          "word": "교육",
-          "count": 2
+          "word": "주거",
+          "count": 3
         },
         {
           "word": "복지",
@@ -147,10 +149,6 @@
         },
         {
           "word": "돌봄",
-          "count": 1
-        },
-        {
-          "word": "저출생",
           "count": 1
         },
         {
@@ -332,6 +330,20 @@
           "url": "https://biz.chosun.com/it-science/ict/2026/10/12/UXQE4IFOEVFLDJ42HFIVX5IFIU/"
         },
         {
+          "id": "https://www.etnews.com/20261012000097",
+          "title": "플라잎, H.I.T Automotive와 제조 AI 로봇·산업자동화 사업 확대 MOU 체결",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:20:53Z",
+          "publishedAt": "2026-10-12T01:20:53Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261012000097",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.mk.co.kr/news/business/12173358",
           "title": "“사람과 동물 함께산다”... 바이오드, 3세대 벡터 백신으로 동물의약품 시장 ‘정조준’",
           "source": "mk.co.kr",
@@ -368,20 +380,6 @@
           "publishedAt": "2026-10-11T22:01:00Z",
           "summary": "",
           "url": "https://www.hankookilbo.com/news/article/A2026100908490000859"
-        },
-        {
-          "id": "https://www.etnews.com/20261012000018",
-          "title": "푸드로직, 중기부 '모두의 챌린지 플랫폼' 선정…외식 원가 데이터로 소상공인 경영 지원 AI 협업 참여",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T00:18:43Z",
-          "publishedAt": "2026-10-12T00:18:43Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261012000018",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202610120601271425",
@@ -452,20 +450,20 @@
           "count": 8
         },
         {
+          "word": "제조",
+          "count": 3
+        },
+        {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "제조",
+          "word": "로봇",
           "count": 2
         },
         {
           "word": "클라우드",
           "count": 2
-        },
-        {
-          "word": "로봇",
-          "count": 1
         },
         {
           "word": "바이오",
@@ -646,6 +644,30 @@
           "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
         },
         {
+          "id": "https://www.businesstimes.com.sg/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks",
+          "title": "Global bond sell-off may mean fewer rate hikes from central banks",
+          "source": "businesstimes.com.sg",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:46:00Z",
+          "publishedAt": "2026-10-12T01:46:00Z",
+          "summary": "",
+          "url": "https://www.businesstimes.com.sg/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/wealth/invest/beyond-cagr-how-irr-reveals-the-real-impact-of-investment-timing/articleshow/134847404.cms",
+          "title": "Beyond CAGR: How IRR reveals the real impact of investment timing - The Economic Times",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:46:00Z",
+          "publishedAt": "2026-10-12T01:46:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/beyond-cagr-how-irr-reveals-the-real-impact-of-investment-timing/articleshow/134847404.cms"
+        },
+        {
           "id": "https://sana.sy/en/economic/2349851/",
           "title": "Central Bank of Syria executes first U.S. bank LC in 14 years for oil imports",
           "source": "sana.sy",
@@ -728,44 +750,16 @@
           "publishedAt": "2026-10-11T13:32:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/international/international_general/1281736.html"
-        },
-        {
-          "id": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo",
-          "title": "Business groups warn of irreversible economic consequences if trade deal remains in limbo",
-          "source": "financialpost.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:31:00Z",
-          "publishedAt": "2026-10-11T13:31:00Z",
-          "summary": "",
-          "url": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo"
-        },
-        {
-          "id": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/",
-          "title": "팀 쿡 애플 의장, CEO 퇴임 후 첫 중국 방문…청정에너지 투자도 확대",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T12:01:00Z",
-          "publishedAt": "2026-10-11T12:01:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
-          "count": 2
-        },
-        {
-          "word": "무역",
-          "count": 1
+          "count": 3
         },
         {
           "word": "성장",
@@ -929,8 +923,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2763,
-    "feedBytes": 718758,
+    "fetchedItems": 2222,
+    "feedBytes": 576915,
     "rollingWindowHours": 72
   }
 }
