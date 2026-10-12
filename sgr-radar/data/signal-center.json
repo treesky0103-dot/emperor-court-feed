@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 01:39:43",
+  "updatedAt": "2026. 10. 13. 오전 01:56:43",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -465,6 +465,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/lady-gagas-born-this-way-foundation-commits-5-million-to-55-youth-organisations-across-11-countries-to-expand-mental-health-support/articleshow/134889530.cms",
+          "title": "Lady Gaga's Born This Way Foundation commits $5 million to 55 youth organisations across 11 countries to expand mental health support",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T16:47:00Z",
+          "publishedAt": "2026-10-12T16:47:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/world/us/lady-gagas-born-this-way-foundation-commits-5-million-to-55-youth-organisations-across-11-countries-to-expand-mental-health-support/articleshow/134889530.cms"
+        },
+        {
           "id": "https://www.medscape.com/viewarticle/canada-invests-youth-access-mental-health-care-2026a100125g",
           "title": "Canada Invests in Youth Access to Mental Health Care",
           "source": "medscape.com",
@@ -549,6 +561,18 @@
           "url": "https://www.trentonian.com/2026/10/12/embright-education-expands-youth-mental-health-support-for-trenton-with-grant/"
         },
         {
+          "id": "https://kfilradio.com/ixp/711/p/university-of-chicago-sexual-assault-frat/",
+          "title": "Sexual Assault Reported During Frat Party At University Of Chicago",
+          "source": "kfilradio.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T16:47:00Z",
+          "publishedAt": "2026-10-12T16:47:00Z",
+          "summary": "",
+          "url": "https://kfilradio.com/ixp/711/p/university-of-chicago-sexual-assault-frat/"
+        },
+        {
           "id": "https://www.christiantoday.com/news/immigration-fears-shape-views-of-britishness-and-christianity-report-finds",
           "title": "Immigration fears shape views of Britishness and Christianity, report finds",
           "source": "christiantoday.com",
@@ -559,43 +583,19 @@
           "publishedAt": "2026-10-12T16:32:00Z",
           "summary": "",
           "url": "https://www.christiantoday.com/news/immigration-fears-shape-views-of-britishness-and-christianity-report-finds"
-        },
-        {
-          "id": "https://103wjod.com/ixp/711/p/university-of-chicago-sexual-assault-frat/",
-          "title": "Sexual Assault Reported During Frat Party At University Of Chicago",
-          "source": "103wjod.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:02:00Z",
-          "publishedAt": "2026-10-12T16:02:00Z",
-          "summary": "",
-          "url": "https://103wjod.com/ixp/711/p/university-of-chicago-sexual-assault-frat/"
-        },
-        {
-          "id": "https://www.alligator.org/article/2026/10/the-good-the-bad-and-the-generated-how-ai-use-among-patients-doctors-and-researchers-is-changing-healthcare",
-          "title": "The good, the bad and the generated: How AI use among patients, doctors and researchers is changing healthcare - The Independent Florida Alligator",
-          "source": "alligator.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:02:00Z",
-          "publishedAt": "2026-10-12T16:02:00Z",
-          "summary": "",
-          "url": "https://www.alligator.org/article/2026/10/the-good-the-bad-and-the-generated-how-ai-use-among-patients-doctors-and-researchers-is-changing-healthcare"
         }
       ],
       "keywords": [
         {
           "word": "청년",
+          "count": 5
+        },
+        {
+          "word": "정신건강",
           "count": 4
         },
         {
           "word": "교육",
-          "count": 3
-        },
-        {
-          "word": "정신건강",
           "count": 3
         },
         {
@@ -921,8 +921,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5890,
-    "feedBytes": 1667651,
+    "fetchedItems": 5114,
+    "feedBytes": 1471969,
     "rollingWindowHours": 72
   }
 }
