@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 10:11:38",
+  "updatedAt": "2026. 10. 12. 오후 10:50:36",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -155,6 +155,20 @@
     "economy": {
       "items": [
         {
+          "id": "https://www.mk.co.kr/news/society/12174003",
+          "title": "노벨경제학상에 홀·우드퍼드 … 중앙은행 통화정책 기틀 마련",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T20:06:00Z",
+          "publishedAt": "2026-10-12T20:06:00Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12174003",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=04739606645612264&mediaCodeNo=257",
           "title": "美 경기침체 판정부터 금리 소통까지…정책 바꾼 두 학자",
           "source": "edaily.co.kr",
@@ -177,20 +191,6 @@
           "publishedAt": "2026-10-12T05:46:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/policy/policy_sub/2026/10/12/IK5XLT7OXNBK5PEJS5XNL2HTMU/"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/society/12173865",
-          "title": "[인사] 재정경제부 / 통일부 / 한국기자협회",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T17:24:04Z",
-          "publishedAt": "2026-10-12T17:24:04Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12173865",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.etnews.com/20261012000259",
@@ -255,6 +255,18 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026101211371619011"
         },
         {
+          "id": "https://www.hankookilbo.com/news/article/A2026101220180003991",
+          "title": "\"노벨경제학상 수상 홀·우드퍼드, 경기 안정화 위한 새 모델 개발\"-경제ㅣ한국일보",
+          "source": "hankookilbo.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T13:46:00Z",
+          "publishedAt": "2026-10-12T13:46:00Z",
+          "summary": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026101220180003991"
+        },
+        {
           "id": "https://seoul.co.kr:443/news/peoples/2026/10/13/20261013023002",
           "title": "경기·물가 관리하는 지침 확립… 두 석학, 노벨경제학상 품었다",
           "source": "seoul.co.kr",
@@ -265,18 +277,6 @@
           "publishedAt": "2026-10-12T11:17:00Z",
           "summary": "",
           "url": "https://seoul.co.kr:443/news/peoples/2026/10/13/20261013023002"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/politics/politics_general/1282041.html",
-          "title": "김호철 감사원장, 대법관 격려금 지급에 “국가재정법 지침 위반”",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T11:01:00Z",
-          "publishedAt": "2026-10-12T11:01:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1282041.html"
         }
       ],
       "keywords": [
@@ -485,16 +485,16 @@
     "humanities": {
       "items": [
         {
-          "id": "https://vietnamnews.vn/society/1801738/youth-unemployment-education-and-training-gap-widens-despite-labour-market-gains-in-q3.html",
-          "title": "Youth unemployment, education and training gap widens despite labour market gains in Q3",
-          "source": "vietnamnews.vn",
+          "id": "https://www.buzzfeed.com/scarymouse/things-that-get-harder-for-women",
+          "title": "\"It Takes Over Your Life\": Women Over 40 Are Sharing Their Brutally Honest Thoughts About Aging That Young People Should Really, Really, Really Be Planning For Before It's Too Late",
+          "source": "buzzfeed.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T02:16:00Z",
-          "publishedAt": "2026-10-12T02:16:00Z",
+          "dateRaw": "2026-10-12T13:47:00Z",
+          "publishedAt": "2026-10-12T13:47:00Z",
           "summary": "",
-          "url": "https://vietnamnews.vn/society/1801738/youth-unemployment-education-and-training-gap-widens-despite-labour-market-gains-in-q3.html"
+          "url": "https://www.buzzfeed.com/scarymouse/things-that-get-harder-for-women"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c620r33rdj14o",
@@ -557,16 +557,28 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03168486645612264&mediaCodeNo=257"
         },
         {
-          "id": "https://www.dailycamera.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/",
+          "id": "https://www.journal-advocate.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/",
           "title": "Nearly half of Coloradans with disabilities report loneliness, more than twice the statewide average",
-          "source": "dailycamera.com",
+          "source": "journal-advocate.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T11:16:00Z",
-          "publishedAt": "2026-10-12T11:16:00Z",
+          "dateRaw": "2026-10-12T13:47:00Z",
+          "publishedAt": "2026-10-12T13:47:00Z",
           "summary": "",
-          "url": "https://www.dailycamera.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/"
+          "url": "https://www.journal-advocate.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/"
+        },
+        {
+          "id": "http://www.newjerseytelegraph.com/news/279368634/remergify-accelerates-virtual-care-strategy-why-investors-and-markets-are-backing-affordabletelehealthplancom-cash-pay-healthcare-model",
+          "title": "Remergify Accelerates Virtual Care Strategy: Why Investors and Markets Are Backing AffordableTelehealthPlan.com's Cash-Pay Healthcare Model",
+          "source": "newjerseytelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T13:47:00Z",
+          "publishedAt": "2026-10-12T13:47:00Z",
+          "summary": "",
+          "url": "http://www.newjerseytelegraph.com/news/279368634/remergify-accelerates-virtual-care-strategy-why-investors-and-markets-are-backing-affordabletelehealthplancom-cash-pay-healthcare-model"
         },
         {
           "id": "https://www.thetelegraphandargus.co.uk/news/26626720.police-concerned-welfare-teenage-girl-bradford/",
@@ -591,24 +603,12 @@
           "publishedAt": "2026-10-12T09:46:00Z",
           "summary": "",
           "url": "https://www.bu.edu/articles/2026/boston-university-achieves-highest-ever-ranking-from-u-s-news-world-report/"
-        },
-        {
-          "id": "https://www.myprincegeorgenow.com/253375/news/education/unbc/unbc-reaches-its-best-score-in-research-environment-for-times-higher-education-world-university-rankings/",
-          "title": "UNBC reaches its best score in research environment for Times Higher Education World University Rankings : My Prince George Now",
-          "source": "myprincegeorgenow.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T09:46:00Z",
-          "publishedAt": "2026-10-12T09:46:00Z",
-          "summary": "",
-          "url": "https://www.myprincegeorgenow.com/253375/news/education/unbc/unbc-reaches-its-best-score-in-research-environment-for-times-higher-education-world-university-rankings/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 3
         },
         {
           "word": "청년",
@@ -617,6 +617,10 @@
         {
           "word": "정신건강",
           "count": 2
+        },
+        {
+          "word": "고령화",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -625,6 +629,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://bworldonline.com/top-stories/2026/10/12/786390/wider-ai-use-could-lift-philippine-productivity-growth-world-bank/",
+          "title": "Wider AI use could lift Philippine productivity, growth — World Bank - BusinessWorld Online",
+          "source": "bworldonline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T13:47:00Z",
+          "publishedAt": "2026-10-12T13:47:00Z",
+          "summary": "",
+          "url": "https://bworldonline.com/top-stories/2026/10/12/786390/wider-ai-use-could-lift-philippine-productivity-growth-world-bank/"
+        },
         {
           "id": "https://www.freepressjournal.in/world/saudi-arabia-reportedly-running-low-on-interceptor-missiles-as-houthi-attacks-threaten-oil-exports-and-economy",
           "title": "Saudi Arabia Reportedly Running Low On Interceptor Missiles As Houthi Attacks Threaten Oil Exports And Economy",
@@ -732,28 +748,16 @@
           "publishedAt": "2026-10-12T08:16:00Z",
           "summary": "",
           "url": "https://www.dailymirror.lk/business-news/President-to-open-Economic-and-Investment-Summit-today/273-352313"
-        },
-        {
-          "id": "https://www.etnews.com/20261012000270",
-          "title": "EU “中 하이브리드 車 수입 연간 35만대 제한”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T07:02:00Z",
-          "publishedAt": "2026-10-12T07:02:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261012000270"
         }
       ],
       "keywords": [
         {
-          "word": "투자",
+          "word": "성장",
           "count": 4
         },
         {
-          "word": "성장",
-          "count": 3
+          "word": "투자",
+          "count": 4
         },
         {
           "word": "금리",
@@ -921,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6121,
-    "feedBytes": 1747789,
+    "fetchedItems": 6567,
+    "feedBytes": 1886211,
     "rollingWindowHours": 72
   }
 }
