@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 12:08:29",
+  "updatedAt": "2026. 10. 13. 오전 12:30:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 626,
-    "deduped": 626,
-    "eventDeduped": 626,
+    "passed": 613,
+    "deduped": 613,
+    "eventDeduped": 613,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -66,16 +66,16 @@
       "url": "https://biz.heraldcorp.com/article/10899583"
     },
     {
-      "id": "https://www.hani.co.kr/arti/culture/culture_general/1281920.html",
-      "title": "건축 대가 김중업이 설계한 ‘옛 유유산업 안양공장’ 국가유산 된다",
+      "id": "https://www.hani.co.kr/arti/society/labor/1281948.html",
+      "title": "‘납 배출 주사’를 비타민으로 속인 배터리 제조사…노동부, 경찰 수사 의뢰",
       "source": "hani.co.kr",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T04:02:00Z",
-      "publishedAt": "2026-10-12T04:02:00Z",
+      "dateRaw": "2026-10-12T06:31:00Z",
+      "publishedAt": "2026-10-12T06:31:00Z",
       "summary": "",
-      "url": "https://www.hani.co.kr/arti/culture/culture_general/1281920.html"
+      "url": "https://www.hani.co.kr/arti/society/labor/1281948.html"
     },
     {
       "id": "https://www.investmentwatchblog.com/single-zuckerberg-data-center-just-one-to-use-4x-times-the-electricity-of-new-orleans/",
@@ -198,18 +198,6 @@
       "publishedAt": "2026-10-12T04:31:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10899583"
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/culture/culture_general/1281920.html",
-      "title": "건축 대가 김중업이 설계한 ‘옛 유유산업 안양공장’ 국가유산 된다",
-      "source": "hani.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T04:02:00Z",
-      "publishedAt": "2026-10-12T04:02:00Z",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/culture/culture_general/1281920.html"
     },
     {
       "id": "http://www.nepalnational.com/news/279368415/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory",
@@ -584,6 +572,18 @@
       "url": "https://www.insight.co.kr/news/577404"
     },
     {
+      "id": "https://www.seoul.co.kr/news/society/2026/10/12/20261012500233",
+      "title": "여수산단 화학물질 제조업체서 가스 누출",
+      "source": "seoul.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T08:16:00Z",
+      "publishedAt": "2026-10-12T08:16:00Z",
+      "summary": "",
+      "url": "https://www.seoul.co.kr/news/society/2026/10/12/20261012500233"
+    },
+    {
       "id": "https://www.newspim.com/news/view/20261012001195",
       "title": "中로봇기업 샤르파, 외식·유통·호텔에 로봇 3만대 투입 추진",
       "source": "newspim.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6450,
-    "relevantItems": 163,
-    "feedBytes": 1831274,
+    "fetchedItems": 6004,
+    "relevantItems": 115,
+    "feedBytes": 1706403,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

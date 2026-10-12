@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 12:08:30",
+  "updatedAt": "2026. 10. 13. 오전 12:30:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 70,
+    "deduped": 70,
+    "eventDeduped": 70,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -296,18 +296,6 @@
       "url": "https://biz.chosun.com/international/international_general/2026/10/12/BTHKUMOFJRA33D6XOCRIKLYXPQ/"
     },
     {
-      "id": "https://www.newsway.co.kr/news/view?ud=2026101210001079579",
-      "title": "규정만 갖추면 끝?···금감원, PEF 운용사 30곳 내부통제 점검 - 뉴스웨이",
-      "source": "newsway.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T04:31:00Z",
-      "publishedAt": "2026-10-12T04:31:00Z",
-      "summary": "",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026101210001079579"
-    },
-    {
       "id": "https://yle.fi/a/74-20251080",
       "title": "Telia plans 900 job cuts, more than a third of them in Finland",
       "source": "yle.fi",
@@ -428,18 +416,6 @@
       "url": "https://www.theglobeandmail.com/business/article-stelco-cleveland-cliffs-steel-layoffs/"
     },
     {
-      "id": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/automating-the-future-of-work/article71572712.ece",
-      "title": "Automating the ‘future of work’",
-      "source": "thehindubusinessline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T04:02:00Z",
-      "publishedAt": "2026-10-12T04:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/automating-the-future-of-work/article71572712.ece"
-    },
-    {
       "id": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/",
       "title": "McKinsey: Automation could absorb half of U.S. work hours by 2035. The bigger challenge is skills | Fortune",
       "source": "fortune.com",
@@ -524,16 +500,16 @@
       "url": "https://www.businesstimes.com.sg/singapore/singapore-workers-embrace-ai-faster-global-peers-fewer-feel-secure-their-jobs-pwc-survey"
     },
     {
-      "id": "http://www.indiagazette.com/news/279368433/hcltech-anthropic-partner-to-scale-governed-agentic-ai-across-enterprises",
+      "id": "http://www.sanantoniopost.com/news/279368433/hcltech-anthropic-partner-to-scale-governed-agentic-ai-across-enterprises",
       "title": "HCLTech, Anthropic partner to scale governed agentic AI across enterprises",
-      "source": "indiagazette.com",
+      "source": "sanantoniopost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T15:03:00Z",
-      "publishedAt": "2026-10-12T15:03:00Z",
+      "dateRaw": "2026-10-12T15:17:00Z",
+      "publishedAt": "2026-10-12T15:17:00Z",
       "summary": "",
-      "url": "http://www.indiagazette.com/news/279368433/hcltech-anthropic-partner-to-scale-governed-agentic-ai-across-enterprises"
+      "url": "http://www.sanantoniopost.com/news/279368433/hcltech-anthropic-partner-to-scale-governed-agentic-ai-across-enterprises"
     },
     {
       "id": "https://www.domain-b.com/technology/artificial-intelligence/hcltech-anthropic-enterprise-agentic-ai-partnership-2026",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-12T05:16:00Z",
       "summary": "",
       "url": "https://www.fnnews.com/news/202610121351015706"
+    },
+    {
+      "id": "https://www.telecompaper.com:443/news/telia-lithuania-restructures-operations-and-plans-up-to-85-redundancies--1585397",
+      "title": "Telia Lithuania restructures operations and plans up to 85 redundancies",
+      "source": "telecompaper.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T15:17:00Z",
+      "publishedAt": "2026-10-12T15:17:00Z",
+      "summary": "",
+      "url": "https://www.telecompaper.com:443/news/telia-lithuania-restructures-operations-and-plans-up-to-85-redundancies--1585397"
+    },
+    {
+      "id": "https://www.tnp.no/norway/economy/4370-telenor-to-lay-off-one-in-ten-employees-in-norway/",
+      "title": "Telenor to Lay Off One in Ten Employees in Norway - The Nordic Page",
+      "source": "tnp.no",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T11:47:00Z",
+      "publishedAt": "2026-10-12T11:47:00Z",
+      "summary": "",
+      "url": "https://www.tnp.no/norway/economy/4370-telenor-to-lay-off-one-in-ten-employees-in-norway/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6450,
-    "relevantItems": 163,
-    "feedBytes": 1831274,
+    "fetchedItems": 6004,
+    "relevantItems": 115,
+    "feedBytes": 1706403,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
