@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 11:41:52",
+  "updatedAt": "2026. 10. 12. 오후 12:03:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 54,
-    "deduped": 54,
-    "eventDeduped": 54,
+    "passed": 53,
+    "deduped": 53,
+    "eventDeduped": 53,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -620,6 +620,18 @@
       "url": "https://biz.heraldcorp.com/article/10899353"
     },
     {
+      "id": "http://kr.xinhuanet.com/20261012/9bd4030b03904c1c950be4ebe89f492a/c.html",
+      "title": "中, AI 시대 고용시장 변화에 대응...신규 직업 발굴·일자리 창출 나서",
+      "source": "kr.xinhuanet.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:46:00Z",
+      "publishedAt": "2026-10-12T02:46:00Z",
+      "summary": "",
+      "url": "http://kr.xinhuanet.com/20261012/9bd4030b03904c1c950be4ebe89f492a/c.html"
+    },
+    {
       "id": "https://if.com.au/nsw-government-consulting-with-screen-nsw-over-proposed-restructure/",
       "title": "NSW Government consulting with Screen NSW over proposed restructure - IF Magazine",
       "source": "if.com.au",
@@ -716,18 +728,6 @@
       "url": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html"
     },
     {
-      "id": "https://www.freepressjournal.in/business/suzlon-bets-550-crore-on-3-ai-powered-blade-factories-15000-jobs-in-pipeline-by-2027",
-      "title": "Suzlon Bets ₹550 Crore On 3 AI-Powered Blade Factories, 15,000 Jobs In Pipeline By 2027",
-      "source": "freepressjournal.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T08:16:00Z",
-      "publishedAt": "2026-10-11T08:16:00Z",
-      "summary": "",
-      "url": "https://www.freepressjournal.in/business/suzlon-bets-550-crore-on-3-ai-powered-blade-factories-15000-jobs-in-pipeline-by-2027"
-    },
-    {
       "id": "https://www.businesstimes.com.sg/international/us-reverses-course-request-ai-developers-not-share-models-uk-testing-telegraph",
       "title": "US reverses course on request that AI developers not share models for UK testing: Telegraph",
       "source": "businesstimes.com.sg",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3025,
-    "relevantItems": 80,
-    "feedBytes": 820628,
+    "fetchedItems": 2253,
+    "relevantItems": 53,
+    "feedBytes": 589428,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
