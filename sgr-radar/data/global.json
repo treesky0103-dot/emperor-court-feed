@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 04:05:08",
+  "updatedAt": "2026. 10. 13. 오전 04:46:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 150,
-    "deduped": 150,
-    "eventDeduped": 150,
+    "passed": 146,
+    "deduped": 146,
+    "eventDeduped": 146,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -174,18 +174,6 @@
       "publishedAt": "2026-10-12T11:16:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=04739606645612264&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=04483766645612264&mediaCodeNo=257",
-      "title": "“60MW에 금리 5% 초반”…한투증권, 군산 데이터센터 본PF 조달 성공",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T10:17:00Z",
-      "publishedAt": "2026-10-12T10:17:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04483766645612264&mediaCodeNo=257"
     },
     {
       "id": "https://cyprus-mail.com/2026/10/12/cyprus-trade-deficit-widens-to-e6-3bn-as-imports-outpace-exports",
@@ -380,6 +368,18 @@
       "url": "https://womannews.net/detail.php?number=456968&thread=22r12r01"
     },
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=05484166645612264&mediaCodeNo=257",
+      "title": "끝까지 읽히는 글에는 이유가 있다…'뉴요커의 문장들' 출간",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T15:47:00Z",
+      "publishedAt": "2026-10-12T15:47:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=05484166645612264&mediaCodeNo=257"
+    },
+    {
       "id": "https://www.metroseoul.co.kr:443/article/20261012500420",
       "title": "[2026 국정감사] 신현송, 선제 '금리인상' 효과 강조",
       "source": "metroseoul.co.kr",
@@ -402,6 +402,18 @@
       "publishedAt": "2026-10-12T13:47:00Z",
       "summary": "",
       "url": "https://cunews.net/detail.php?number=172946&thread=22r12r03%20style="
+    },
+    {
+      "id": "https://www.busan.com/view/busan/view.php?code=2026101217312651841",
+      "title": "반도체 호황에 쏟아진 달러, 원화 환율 상승 막았다",
+      "source": "busan.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T13:02:00Z",
+      "publishedAt": "2026-10-12T13:02:00Z",
+      "summary": "",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026101217312651841"
     },
     {
       "id": "https://karennews.org/2018/08/asean-river-watch-groups-decide-focusing-on-environmental-protection-in-the-region/",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-12T10:32:00Z",
       "summary": "",
       "url": "https://www.thenews.com.pk/latest/1419603-china-eu-reach-breakthrough-consensus-on-hybrid-and-ev-trade"
-    },
-    {
-      "id": "https://autonews.gasgoo.com/articles/market-industry/caam-speaks-out-on-eus-proposed-unilateral-trade-tool-will-support-government-countermeasures-2109534661662695424",
-      "title": "CAAM Speaks Out on EU's Proposed Unilateral Trade Tool, Will Support Government Countermeasures",
-      "source": "autonews.gasgoo.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T10:32:00Z",
-      "publishedAt": "2026-10-12T10:32:00Z",
-      "summary": "",
-      "url": "https://autonews.gasgoo.com/articles/market-industry/caam-speaks-out-on-eus-proposed-unilateral-trade-tool-will-support-government-countermeasures-2109534661662695424"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4582,
-    "relevantItems": 82,
-    "feedBytes": 1336520,
+    "fetchedItems": 4921,
+    "relevantItems": 107,
+    "feedBytes": 1420146,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 04:27:35",
+  "updatedAt": "2026. 10. 13. 오전 04:46:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 59,
-    "deduped": 59,
-    "eventDeduped": 59,
+    "passed": 58,
+    "deduped": 58,
+    "eventDeduped": 58,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,16 +332,16 @@
       "url": "https://fortune.com/2026/10/12/recruiter-interview-screen-ai-twin-ashutosh-garg-eightfold-ai-twincafe/"
     },
     {
-      "id": "https://www.huffingtonpost.kr:443/article/261138",
-      "title": "중국 AI 바라보는 미국 정부와 기업의 시선이 다르다는 분석 : 워싱턴포스트 \"저렴한 중국산 AI 모델 기업 선호도 높다\"",
-      "source": "huffingtonpost.kr",
-      "language": "Korean",
+      "id": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "title": "AI coding agents generate more code, but not more software",
+      "source": "arstechnica.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T10:17:00Z",
-      "publishedAt": "2026-10-12T10:17:00Z",
+      "dateRaw": "2026-10-12T19:32:00Z",
+      "publishedAt": "2026-10-12T19:32:00Z",
       "summary": "",
-      "url": "https://www.huffingtonpost.kr:443/article/261138"
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
     },
     {
       "id": "https://nextbigwhat.com/multi-agent-ai-systems-automate-complex-business-processes-end-to-end-pilot-8173cbd0/",
@@ -560,18 +560,6 @@
       "url": "https://www.fnnews.com/news/202610121802463532"
     },
     {
-      "id": "https://www.huffingtonpost.kr:443/article/261151",
-      "title": "EU 12월부터 하이브리드 자동차 수입 제한 나선다 : 중국차 첫 해 35만 대 상한, 현대차도 적용할지 예의주시",
-      "source": "huffingtonpost.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T10:17:00Z",
-      "publishedAt": "2026-10-12T10:17:00Z",
-      "summary": "",
-      "url": "https://www.huffingtonpost.kr:443/article/261151"
-    },
-    {
       "id": "https://vietnamnews.vn/Sci-Tech/1801830/project-to-restructure-national-science-and-technology-programmes-approved.html",
       "title": "Project to restructure national science and technology programmes approved",
       "source": "vietnamnews.vn",
@@ -618,6 +606,18 @@
       "publishedAt": "2026-10-12T11:47:00Z",
       "summary": "",
       "url": "https://www.tnp.no/norway/economy/4370-telenor-to-lay-off-one-in-ten-employees-in-norway/"
+    },
+    {
+      "id": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
+      "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+      "source": "thenextweb.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T19:32:00Z",
+      "publishedAt": "2026-10-12T19:32:00Z",
+      "summary": "",
+      "url": "https://thenextweb.com/news/openai-dublin-applied-ai-lab"
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4582,
-    "relevantItems": 82,
-    "feedBytes": 1336520,
+    "fetchedItems": 4921,
+    "relevantItems": 107,
+    "feedBytes": 1420146,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
