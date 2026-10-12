@@ -9,13 +9,13 @@
     "AI 시대 글쓰기의 생존선: 단순 생성물을 넘어 팔리는 오리지널 콘텐츠를 만드는 기획의 기술",
     "도파민 방전 사회에서 내 집중력을 지키는 뇌 에너지 분배법: 지친 현대인을 위한 멘탈 악셀과 브레이크"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-12T00:18:02.009Z",
+  "provider": "partial-mixed",
+  "generatedAt": "2026-10-12T00:18:46.813Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-12T00:18:02.009Z",
+      "generatedAt": "2026-10-12T00:18:14.043Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,10 +40,10 @@
         ]
       },
       "bookTitle": "목돈이 들어온 날의 자산 방어 기준: 일시금 소득을 지키는 5단계 자산 배분법",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -112,15 +112,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-d86b1347"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-12T00:18:02.009Z",
+      "generatedAt": "2026-10-12T00:18:20.752Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,87 +142,84 @@
         ]
       },
       "bookTitle": "AI 시대 글쓰기의 생존선: 단순 생성물을 넘어 팔리는 오리지널 콘텐츠를 만드는 기획의 기술",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "글을 쓰는 시대, 서점에서 끝까지 살아남는 진짜 책을 기획하는 법.",
+          "headline": "매끄러운 문장이\n어딘가 공허하게 느껴질 때",
           "body": "",
           "accent": "yellow",
           "sceneId": "002",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "내 고유의 목소리와 시장 경쟁력을 어떻게 확보해야 할지 모른다.",
-          "body": "",
+          "headline": "완벽한 초안을 앞에 두고\n멍하니 모니터만 바라본다",
+          "body": "틀린 곳은 없는데 내 숨소리가 없다",
           "accent": "yellow",
           "sceneId": "015",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "수 없는 고유한 관점과 취재력을 담아 유료 가치를 만드는 창작법.",
-          "body": "",
+          "headline": "빠르게 채워진 글 속에서\n정작 내 생각은 지워진 듯하다",
+          "body": "쉽게 얻은 문장은 깊은 마음을 건드리지 못한다",
           "accent": "yellow",
           "sceneId": "024",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "커지고, 진짜 팔리는 오리지널 콘텐츠에 대한 갈증이 역설적으로 커짐.",
-          "body": "",
+          "headline": "하지만 사람의 마음을 여는 건\n완벽함이 아니라 직접 겪은 실패다",
+          "body": "헤매고 부딪친 흔적만이 고유한 가치가 된다",
           "accent": "yellow",
           "sceneId": "017",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "도출 질문 프레임, 독자 지갑을 여는 킬러 챕터 구성표를 제공한다.",
-          "body": "",
+          "headline": "기계의 정답 대신\n서툰 내 질문을 적어 넣는다",
+          "body": "내 목소리를 남겨두는 것만으로 충분하다",
           "accent": "yellow",
           "sceneId": "035",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "글쓰기라는 주제 특성상 이 좁아지고 추상적인 문맥 설명에 그칠 위험.",
+          "headline": "진짜 문장은\n직접 살아낸 자리에서 나온다",
           "body": "",
           "accent": "yellow",
           "sceneId": "041",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-d86b1347"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-12T00:18:02.009Z",
+      "generatedAt": "2026-10-12T00:18:46.721Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,81 +244,78 @@
         ]
       },
       "bookTitle": "도파민 방전 사회에서 내 집중력을 지키는 뇌 에너지 분배법: 지친 현대인을 위한 멘탈 악셀과 브레이크",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "cloudflare",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "의지력 탓을 멈추고 방전된 뇌 배터리부터 충전하는 실전 집중력 회복법",
+          "headline": "도파민 방전 사회에서\n내 집중력을 지키는\n비밀",
           "body": "",
           "accent": "yellow",
           "sceneId": "006",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "탓을 하지 않고 뇌의 피로를 물리적으로 리셋하는 방법을 모른다.",
-          "body": "",
+          "headline": "업무 시작 10분\n만에 딴짓을 하거나\n퇴근 후 머리가\n멍해진다",
+          "body": "이런 경험을 했다면\n너의 뇌가 지친 것",
           "accent": "yellow",
           "sceneId": "023",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "소진된 뇌의 에너지 소모를 통제하고 몰입력을 복원하는 일상 행동 지침.",
-          "body": "",
+          "headline": "스마트폰과\n자극에 중독되어\n소진된 뇌의\n에너지 소모를",
+          "body": "그냥 앉아만 있어도\n도파민이 방전된다",
           "accent": "yellow",
           "sceneId": "024",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "집중력 저하를 호소하며 뇌과학 기반의 실천법을 찾는 독자가 급증함.",
-          "body": "",
+          "headline": "뇌의 에너지\n소모를 통제하지\n못하면\n몰입력이 저하된다",
+          "body": "그 결과 업무 능률이\n떨어지고 스트레스가\n쌓인다",
           "accent": "yellow",
           "sceneId": "017",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "3분 브레인 쿨다운 호흡법, 도파민 리셋 7일 로드맵을 제공한다.",
-          "body": "",
+          "headline": "뇌의 에너지\n소모를 통제하고\n몰입력을\n복원하는 방법",
+          "body": "일상 행동을\n바꾸는 것부터\n시작해라",
           "accent": "yellow",
           "sceneId": "031",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "장황하게 나열하고 실생활 행동 지침이 빈약하면 독자가 지루해함.",
+          "headline": "뇌의 에너지를\n지키는 것이\n최대 경쟁력이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "047",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-d86b1347"
     }
   ]
