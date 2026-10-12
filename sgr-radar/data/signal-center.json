@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 02:50:44",
+  "updatedAt": "2026. 10. 12. 오후 03:05:24",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -334,6 +334,20 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261012141924",
+          "title": "네이버클라우드, 베트남 FPT와 맞손…아태 AI 팩토리 시장 공략",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T05:19:35Z",
+          "publishedAt": "2026-10-12T05:19:35Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261012141924",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/12/UXQE4IFOEVFLDJ42HFIVX5IFIU/",
           "title": "네이버클라우드, 베트남 IT 기업 FPT와 GPUaaS 사업 업무협약... 아태 지역 AI 인프라 시장 공략",
           "source": "biz.chosun.com",
@@ -396,20 +410,6 @@
           "url": "https://biz.heraldcorp.com/article/10899583"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261012121037",
-          "title": "비상교육 AI 교육 플랫폼 '올비아', 중동 교육 박람회 최종 후보 올라",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T03:10:37Z",
-          "publishedAt": "2026-10-12T03:10:37Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261012121037",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "http://kr.xinhuanet.com/20261012/c185cd73b35e4d989af0a7afcaa1f087/c.html",
           "title": "AI·로봇이 돕는 여행길...첨단기술로 스마트해진 中 연휴 풍경",
           "source": "kr.xinhuanet.com",
@@ -468,15 +468,15 @@
           "count": 2
         },
         {
+          "word": "클라우드",
+          "count": 2
+        },
+        {
           "word": "전력",
           "count": 1
         },
         {
           "word": "조선",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -787,16 +787,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
-          "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade | Fortune",
-          "source": "fortune.com",
+          "id": "https://drimble.nl/regio/zuid-holland/rotterdam/108263361/veelbelovend-cloudbedrijf-verbindt-zich-als-eerste-afnemer-aan-plan-voor-ai-gigafabriek-in-rotterdamse-haven.html",
+          "title": "Veelbelovend cloudbedrijf verbindt zich als eerste afnemer aan plan voor AI-gigafabriek in Rotterdamse haven",
+          "source": "drimble.nl",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T13:32:00Z",
-          "publishedAt": "2026-10-11T13:32:00Z",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T06:01:00Z",
+          "publishedAt": "2026-10-12T06:01:00Z",
           "summary": "",
-          "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+          "url": "https://drimble.nl/regio/zuid-holland/rotterdam/108263361/veelbelovend-cloudbedrijf-verbindt-zich-als-eerste-afnemer-aan-plan-voor-ai-gigafabriek-in-rotterdamse-haven.html"
         },
         {
           "id": "https://www.thehindu.com/sci-tech/technology/startups-are-betting-on-ai-to-predict-the-future/article71573682.ece",
@@ -937,8 +937,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3674,
-    "feedBytes": 1005986,
+    "fetchedItems": 3719,
+    "feedBytes": 1005495,
     "rollingWindowHours": 72
   }
 }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 02:50:37",
+  "updatedAt": "2026. 10. 12. 오후 03:05:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 131,
-    "deduped": 131,
-    "eventDeduped": 131,
+    "passed": 130,
+    "deduped": 130,
+    "eventDeduped": 130,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -356,18 +356,6 @@
       "url": "https://www.livemint.com/opinion/online-views/indias-export-imperative-here-s-how-we-must-mitigate-trade-risks-amid-global-turmoil-11791464952832.html"
     },
     {
-      "id": "https://www.tamilguardian.com/index.php/content/uk-sanctions-russian-oil-firms-shadow-fleet-tankers-and-crypto-exchanges",
-      "title": "UK sanctions Russian oil firms, shadow fleet tankers and crypto exchanges",
-      "source": "tamilguardian.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T11:31:00Z",
-      "publishedAt": "2026-10-11T11:31:00Z",
-      "summary": "",
-      "url": "https://www.tamilguardian.com/index.php/content/uk-sanctions-russian-oil-firms-shadow-fleet-tankers-and-crypto-exchanges"
-    },
-    {
       "id": "https://www.hani.co.kr/arti/opinion/column/1281226.html",
       "title": "‘탱크데이’와 ‘암살자(들)’…우리에게 어떤 자유가 필요한가 [신진욱의 시선]",
       "source": "hani.co.kr",
@@ -426,6 +414,18 @@
       "publishedAt": "2026-10-11T13:31:00Z",
       "summary": "",
       "url": "http://www.ihalla.com/article.php?aid=1791717780791429122"
+    },
+    {
+      "id": "https://natlawreview.com/article/september-2026-us-sanctions-roundup-operation-economic-outcast-intensifies-against",
+      "title": "September 2026 U.S. Sanctions Roundup: “Operation Economic Outcast” Intensifies Against Iran, Cuba Rules Tighten, and OFAC Overhauls Its Regulations",
+      "source": "natlawreview.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T05:46:00Z",
+      "publishedAt": "2026-10-12T05:46:00Z",
+      "summary": "",
+      "url": "https://natlawreview.com/article/september-2026-us-sanctions-roundup-operation-economic-outcast-intensifies-against"
     },
     {
       "id": "https://www.digitimes.com/news/a20261012PD207/supply-chain-data-manufacturing-capacity-component.html",
@@ -716,16 +716,16 @@
       "url": "https://www.munhwa.com:443/article/11622805"
     },
     {
-      "id": "https://natlawreview.com/article/september-2026-us-sanctions-roundup-operation-economic-outcast-intensifies-against",
-      "title": "September 2026 U.S. Sanctions Roundup: “Operation Economic Outcast” Intensifies Against Iran, Cuba Rules Tighten, and OFAC Overhauls Its Regulations",
-      "source": "natlawreview.com",
+      "id": "http://www.heraldglobe.com/news/279367849/world-insights-us-sanctions-relief-on-russian-diesel-unlikely-to-cool-fuel-prices",
+      "title": "World Insights: U.S. sanctions relief on Russian diesel unlikely to cool fuel prices",
+      "source": "heraldglobe.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
       "dateRaw": "2026-10-12T05:46:00Z",
       "publishedAt": "2026-10-12T05:46:00Z",
       "summary": "",
-      "url": "https://natlawreview.com/article/september-2026-us-sanctions-roundup-operation-economic-outcast-intensifies-against"
+      "url": "http://www.heraldglobe.com/news/279367849/world-insights-us-sanctions-relief-on-russian-diesel-unlikely-to-cool-fuel-prices"
     },
     {
       "id": "https://pina.com.fj/2026/10/12/tuna-supply-chains-exploited-for-cocaine-smuggling-ffa-report-warns/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3674,
-    "relevantItems": 71,
-    "feedBytes": 1005986,
+    "fetchedItems": 3719,
+    "relevantItems": 63,
+    "feedBytes": 1005495,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
