@@ -6,7 +6,7 @@
       "planDay": "2026-10-12",
       "planSetId": "zps-20261012-19d9f256",
       "generatedAt": "2026-10-11T23:41:32.368Z",
-      "publishedAt": "2026-10-12T00:18:51.597Z",
+      "publishedAt": "2026-10-12T00:25:43.531Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -215,7 +215,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-12T00:18:14.043Z",
+            "generatedAt": "2026-10-12T00:25:14.048Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -526,7 +526,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-d86b1347",
             "status": "ready",
-            "generatedAt": "2026-10-12T00:18:21.210Z",
+            "generatedAt": "2026-10-12T00:25:15.297Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -535,96 +535,8 @@
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
             "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 13,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "ohio state jk rowling and the anti trans panic",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 101320,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "mcgill queens early modern maritime recipies",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 105964,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "minn the carceral surround",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 15,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 64,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 127092,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nebraska pyrrhic symphony",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 96222,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
+              "deadlineApprovedFallback": 0,
+              "noExternalCalls": true
             }
           }
         },
@@ -1120,7 +1032,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-d86b1347",
             "status": "ready",
-            "generatedAt": "2026-10-12T00:18:29.793Z",
+            "generatedAt": "2026-10-12T00:25:17.384Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1129,96 +1041,8 @@
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
             "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 10,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "University Press Coverage, June 2025",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 30,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 69,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 199328,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "The Avian Hourglass - An Interview with Author Lindsey Drager and Designer Steven Seighman",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 25,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 67,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 357770,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nebraska pyrrhic symphony",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 25,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 67,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 96222,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "newsouth trip reports",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 201038,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
+              "deadlineApprovedFallback": 0,
+              "noExternalCalls": true
             }
           }
         },
@@ -1714,7 +1538,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-d86b1347",
             "status": "ready",
-            "generatedAt": "2026-10-12T00:18:38.180Z",
+            "generatedAt": "2026-10-12T00:25:19.458Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1723,96 +1547,8 @@
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
             "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 9,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "nebraska pyrrhic symphony",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 35,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 96222,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "northwestern blow yourself up",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 35,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 71,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 59088,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nyu fire in the heart of the city",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 30,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 69,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 238944,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "penn state teresa urrea",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 30,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 69,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 156524,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
+              "deadlineApprovedFallback": 0,
+              "noExternalCalls": true
             }
           }
         }
