@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 05:51:41",
+  "updatedAt": "2026. 10. 13. 오전 06:36:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 140,
-    "deduped": 140,
-    "eventDeduped": 140,
+    "passed": 141,
+    "deduped": 141,
+    "eventDeduped": 141,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -102,18 +102,6 @@
       "url": "https://www.rttnews.com/3698096/oil-prices-rise-in-choppy-trade.aspx"
     },
     {
-      "id": "https://thenationonlineng.net/oil-firm-to-explore-energy-security-prosperity/",
-      "title": "Oil firm to explore energy security, prosperity",
-      "source": "thenationonlineng.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T11:02:00Z",
-      "publishedAt": "2026-10-12T11:02:00Z",
-      "summary": "",
-      "url": "https://thenationonlineng.net/oil-firm-to-explore-energy-security-prosperity/"
-    },
-    {
       "id": "https://seoul.co.kr:443/news/economy/securities/2026/10/13/20261013031005",
       "title": "코스피 6300선 급락, 환율 2년 만에 최저… ‘예측불허’ 증권가",
       "source": "seoul.co.kr",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-12T15:47:00Z",
       "summary": "",
       "url": "https://womannews.net/detail.php?number=456968&thread=22r12r01"
+    },
+    {
+      "id": "https://www.metroseoul.co.kr:443/article/20261012500420",
+      "title": "[2026 국정감사] 신현송, 선제 '금리인상' 효과 강조",
+      "source": "metroseoul.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T15:47:00Z",
+      "publishedAt": "2026-10-12T15:47:00Z",
+      "summary": "",
+      "url": "https://www.metroseoul.co.kr:443/article/20261012500420"
     }
   ],
   "trendItems": [
@@ -294,18 +294,6 @@
       "publishedAt": "2026-10-12T12:17:00Z",
       "summary": "",
       "url": "https://timesofindia.indiatimes.com/toi-plus/international/india-has-options-to-respond-to-any-us-sanctions-on-russia-oil-trump-will-certainly-take-that-into-his-calculations/articleshow/134872479.cms"
-    },
-    {
-      "id": "https://thenationonlineng.net/oil-firm-to-explore-energy-security-prosperity/",
-      "title": "Oil firm to explore energy security, prosperity",
-      "source": "thenationonlineng.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T11:02:00Z",
-      "publishedAt": "2026-10-12T11:02:00Z",
-      "summary": "",
-      "url": "https://thenationonlineng.net/oil-firm-to-explore-energy-security-prosperity/"
     },
     {
       "id": "https://www.voakorea.com/a/eu-dprk-russia-sanctions-101226/8210346.html",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T11:16:00Z",
       "summary": "",
       "url": "https://www.hellenicshippingnews.com/us-ports-strengthening-trade-ties-with-china/"
+    },
+    {
+      "id": "https://www.hellenicshippingnews.com/eu-china-trade-relations-hit-crunch-time-as-brussels-pushes-for-rebalancing/",
+      "title": "EU-China trade relations hit crunch time as Brussels pushes for rebalancing | Hellenic Shipping News Worldwide",
+      "source": "hellenicshippingnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T11:16:00Z",
+      "publishedAt": "2026-10-12T11:16:00Z",
+      "summary": "",
+      "url": "https://www.hellenicshippingnews.com/eu-china-trade-relations-hit-crunch-time-as-brussels-pushes-for-rebalancing/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4186,
-    "relevantItems": 52,
-    "feedBytes": 1177457,
+    "fetchedItems": 3834,
+    "relevantItems": 79,
+    "feedBytes": 1088659,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
