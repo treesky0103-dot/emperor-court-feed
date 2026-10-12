@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 06:36:35",
+  "updatedAt": "2026. 10. 13. 오전 06:53:43",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 64,
-    "deduped": 64,
-    "eventDeduped": 64,
+    "passed": 60,
+    "deduped": 60,
+    "eventDeduped": 60,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,18 +332,6 @@
       "url": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/"
     },
     {
-      "id": "https://astanatimes.com/2026/10/kazakhstans-startup-ecosystem-enters-new-phase-as-funding-and-ai-adoption-surge/",
-      "title": "Kazakhstan’s Startup Ecosystem Enters New Phase as Funding and AI Adoption Surge - The Astana Times",
-      "source": "astanatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T11:16:00Z",
-      "publishedAt": "2026-10-12T11:16:00Z",
-      "summary": "",
-      "url": "https://astanatimes.com/2026/10/kazakhstans-startup-ecosystem-enters-new-phase-as-funding-and-ai-adoption-surge/"
-    },
-    {
       "id": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/",
       "title": "McKinsey: Automation could absorb half of U.S. work hours by 2035. The bigger challenge is skills | Fortune",
       "source": "fortune.com",
@@ -584,30 +572,6 @@
       "url": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-20261012130131.html"
     },
     {
-      "id": "https://www.rediff.com/business/report/tcs-to-boost-profitability-with-80-digital--ai-talent-acquisition/20261012.htm",
-      "title": "TCS to hire 80% of new workforce with digital, AI skills; AI work to expand profitability",
-      "source": "rediff.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T11:17:00Z",
-      "publishedAt": "2026-10-12T11:17:00Z",
-      "summary": "",
-      "url": "https://www.rediff.com/business/report/tcs-to-boost-profitability-with-80-digital--ai-talent-acquisition/20261012.htm"
-    },
-    {
-      "id": "http://www.indiagazette.com/news/279368054/unkapped-bets-big-on-india-targets-100-ai-ready-enterprises-by-march-2027",
-      "title": "UNKAPPED Bets Big on India, Targets 100 AI-Ready Enterprises by March 2027",
-      "source": "indiagazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T11:16:00Z",
-      "publishedAt": "2026-10-12T11:16:00Z",
-      "summary": "",
-      "url": "http://www.indiagazette.com/news/279368054/unkapped-bets-big-on-india-targets-100-ai-ready-enterprises-by-march-2027"
-    },
-    {
       "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
       "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
       "source": "natlawreview.com",
@@ -738,15 +702,51 @@
       "publishedAt": "2026-10-12T19:32:00Z",
       "summary": "",
       "url": "https://thenextweb.com/news/openai-dublin-applied-ai-lab"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+      "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
+      "source": "theguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T19:17:00Z",
+      "publishedAt": "2026-10-12T19:17:00Z",
+      "summary": "",
+      "url": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts"
+    },
+    {
+      "id": "https://www.taipeitimes.com/News/biz/archives/2026/10/13/2003865845",
+      "title": "IMF boss gases up economic, job changes from AI - Taipei Times",
+      "source": "taipeitimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T18:31:00Z",
+      "publishedAt": "2026-10-12T18:31:00Z",
+      "summary": "",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/13/2003865845"
+    },
+    {
+      "id": "https://thesun.ng/ai-wont-replace-skilled-workers-experts-tell-lagos-civil-servants/",
+      "title": "AI won’t replace skilled workers, experts tell Lagos civil servants – The Sun Nigeria",
+      "source": "thesun.ng",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T18:31:00Z",
+      "publishedAt": "2026-10-12T18:31:00Z",
+      "summary": "",
+      "url": "https://thesun.ng/ai-wont-replace-skilled-workers-experts-tell-lagos-civil-servants/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3834,
-    "relevantItems": 79,
-    "feedBytes": 1088659,
+    "fetchedItems": 3919,
+    "relevantItems": 78,
+    "feedBytes": 1093432,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
