@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 07:20:35",
+  "updatedAt": "2026. 10. 12. 오후 07:42:47",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 71,
-    "deduped": 71,
-    "eventDeduped": 71,
+    "passed": 70,
+    "deduped": 70,
+    "eventDeduped": 70,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -344,16 +344,16 @@
       "url": "https://www.hankookilbo.com/news/article/A2026100815000000056"
     },
     {
-      "id": "http://www.koreatimes.com/article/20261011/1633340",
-      "title": "아마존·넷플릭스에 부는 칼바람…직원 수백명 감원 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
+      "id": "https://www.telecompaper.com:443/news/telia-plans-900-job-cuts-to-save-sek-1-bln-annually-through-localisation--1585331",
+      "title": "Telia plans 900 job cuts to save SEK 1 bln annually through localisation",
+      "source": "telecompaper.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T20:01:00Z",
-      "publishedAt": "2026-10-11T20:01:00Z",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T10:17:00Z",
+      "publishedAt": "2026-10-12T10:17:00Z",
       "summary": "",
-      "url": "http://www.koreatimes.com/article/20261011/1633340"
+      "url": "https://www.telecompaper.com:443/news/telia-plans-900-job-cuts-to-save-sek-1-bln-annually-through-localisation--1585331"
     },
     {
       "id": "https://leadership.ng/air-force-officers-wives-to-expose-1m-nigerian-children-to-coding-robotics-artificial-intelligence/",
@@ -632,16 +632,16 @@
       "url": "https://www.mondaq.com:443/unitedstates/it-and-internet/1849528/ai-in-debt-collection-opportunities-risks-and-the-importance-of-data-governance-podcast"
     },
     {
-      "id": "https://www.livemint.com/ai/nestl-ceo-philipp-navratil-says-employees-need-more-than-prompt-engineering-skills-in-ai-era-what-should-they-learn-11791730826645.html",
-      "title": "Nestlé CEO Philipp Navratil says employees need more than prompt engineering skills in AI era: What should they learn? | Mint",
-      "source": "livemint.com",
-      "language": "English",
+      "id": "https://www.fnnews.com/news/202610121802463532",
+      "title": "EU, 중국산 하이브리드 수입 年 35만대로 제한",
+      "source": "fnnews.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T19:02:00Z",
-      "publishedAt": "2026-10-11T19:02:00Z",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T10:32:00Z",
+      "publishedAt": "2026-10-12T10:32:00Z",
       "summary": "",
-      "url": "https://www.livemint.com/ai/nestl-ceo-philipp-navratil-says-employees-need-more-than-prompt-engineering-skills-in-ai-era-what-should-they-learn-11791730826645.html"
+      "url": "https://www.fnnews.com/news/202610121802463532"
     },
     {
       "id": "https://www.huffingtonpost.kr:443/article/261151",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6235,
-    "relevantItems": 130,
-    "feedBytes": 1755835,
+    "fetchedItems": 6146,
+    "relevantItems": 158,
+    "feedBytes": 1740013,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
