@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 03:43:30",
+  "updatedAt": "2026. 10. 13. 오전 04:05:08",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 151,
-    "deduped": 151,
-    "eventDeduped": 151,
+    "passed": 148,
+    "deduped": 148,
+    "eventDeduped": 148,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -404,6 +404,18 @@
       "url": "https://cunews.net/detail.php?number=172946&thread=22r12r03%20style="
     },
     {
+      "id": "https://karennews.org/2018/08/asean-river-watch-groups-decide-focusing-on-environmental-protection-in-the-region/",
+      "title": "Asean River Watch Groups Decide Focusing on Environmental Protection in the Region - Karen News",
+      "source": "karennews.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T19:02:00Z",
+      "publishedAt": "2026-10-12T19:02:00Z",
+      "summary": "",
+      "url": "https://karennews.org/2018/08/asean-river-watch-groups-decide-focusing-on-environmental-protection-in-the-region/"
+    },
+    {
       "id": "http://www.trinidadtimes.com/news/279368545/chervon-names-randall-durkan-vice-president-of-supply-chain-north-america",
       "title": "Chervon Names Randall Durkan Vice President of Supply Chain - North America",
       "source": "trinidadtimes.com",
@@ -488,18 +500,6 @@
       "url": "http://www.theuknews.com/news/279368044/uk-india-trade-mission-announces-over-pound-1-billion-in-new-deals-boosting-jobs-and-investment"
     },
     {
-      "id": "https://vietnamnews.vn/politics-laws/1801841/viet-nam-encourages-greater-us-business-participation-in-apec-year-2027-activities.html",
-      "title": "Việt Nam encourages greater US business participation in APEC Year 2027 activities",
-      "source": "vietnamnews.vn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T16:32:00Z",
-      "publishedAt": "2026-10-12T16:32:00Z",
-      "summary": "",
-      "url": "https://vietnamnews.vn/politics-laws/1801841/viet-nam-encourages-greater-us-business-participation-in-apec-year-2027-activities.html"
-    },
-    {
       "id": "https://www.thenational.scot/politics/26626598.tory-policies-root-uks-lack-food-energy-security/",
       "title": "Tory policies are at the root of UK’s lack of food and energy security",
       "source": "thenational.scot",
@@ -558,6 +558,18 @@
       "publishedAt": "2026-10-12T13:02:00Z",
       "summary": "",
       "url": "https://www.busan.com/view/busan/view.php?code=2026101220095874741"
+    },
+    {
+      "id": "https://shipandbunker.com/news/features/bunker-quality-quantity/644754-tricks-of-the-bunker-trade-a-guide-to-dealing-with-post-bunker-disputes",
+      "title": "Tricks of the Bunker Trade: A Guide to Dealing With Post Bunker Disputes",
+      "source": "shipandbunker.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T19:02:00Z",
+      "publishedAt": "2026-10-12T19:02:00Z",
+      "summary": "",
+      "url": "https://shipandbunker.com/news/features/bunker-quality-quantity/644754-tricks-of-the-bunker-trade-a-guide-to-dealing-with-post-bunker-disputes"
     },
     {
       "id": "https://southsideshowdown.com/details-of-white-sox-stalled-freddy-peralta-trade-talks-with-mets-emerge",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-12T10:32:00Z",
       "summary": "",
       "url": "https://autonews.gasgoo.com/articles/market-industry/caam-speaks-out-on-eus-proposed-unilateral-trade-tool-will-support-government-countermeasures-2109534661662695424"
-    },
-    {
-      "id": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
-      "title": "Canadian AI company turns away from U.S. government work amid trade tensions - National | Globalnews.ca",
-      "source": "globalnews.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T10:17:00Z",
-      "publishedAt": "2026-10-12T10:17:00Z",
-      "summary": "",
-      "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5396,
-    "relevantItems": 121,
-    "feedBytes": 1551221,
+    "fetchedItems": 4405,
+    "relevantItems": 104,
+    "feedBytes": 1239342,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
