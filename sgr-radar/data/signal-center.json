@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 01:56:43",
+  "updatedAt": "2026. 10. 13. 오전 02:14:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -58,18 +58,6 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026101215425941324"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=03824486645612264&mediaCodeNo=257",
-          "title": "“노도강 너마저”…국평 월세가 315만원, 고액 월세 2.7배 폭증",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T08:47:00Z",
-          "publishedAt": "2026-10-12T08:47:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03824486645612264&mediaCodeNo=257"
-        },
-        {
           "id": "https://www.segye.com:443/newsView/20261012519529",
           "title": "집값·내홍·외교… ‘시험대’ 선 이재명정부 2년차 [뉴스분석]",
           "source": "segye.com",
@@ -92,6 +80,18 @@
           "publishedAt": "2026-10-12T11:02:00Z",
           "summary": "",
           "url": "https://www.hankookilbo.com/news/article/A2026101214450003646"
+        },
+        {
+          "id": "https://www.busan.com/view/busan/view.php?code=2026101222092954811",
+          "title": "한난, '경영진 대상 내부회계 관리교육'…“예방 중심 내부통제 강화”",
+          "source": "busan.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T17:02:00Z",
+          "publishedAt": "2026-10-12T17:02:00Z",
+          "summary": "",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026101222092954811"
         },
         {
           "id": "https://www.insight.co.kr/news/577462",
@@ -132,11 +132,11 @@
       ],
       "keywords": [
         {
-          "word": "주거",
-          "count": 5
+          "word": "교육",
+          "count": 4
         },
         {
-          "word": "교육",
+          "word": "주거",
           "count": 3
         },
         {
@@ -340,18 +340,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=04159046645612264&mediaCodeNo=257"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2634802",
-          "title": "IMF 총재 “AI 투자, 에너지 충격에도 세계 성장률 3% 견인”",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T08:46:00Z",
-          "publishedAt": "2026-10-12T08:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2634802"
-        },
-        {
           "id": "http://inews24.com/view/2014187",
           "title": "AMD, AI 에이전트용 서버 랙 공개…CPU·GPU 필요에 따라 조합",
           "source": "inews24.com",
@@ -376,6 +364,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261012231013",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2634461",
+          "title": "한은 \"반도체 경기 호조에 내년까지 성장률 견조⋯중동·AI투자는 변수\" [국감]",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T13:01:00Z",
+          "publishedAt": "2026-10-12T13:01:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2634461"
         },
         {
           "id": "https://www.nspna.com/country/?mode=view&newsid=831305",
@@ -429,11 +429,11 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 5
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "GPU",
@@ -464,6 +464,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.eveshamjournal.co.uk/news/26628947.nhs-bosses-say-staff-need-get-vaccinated/",
+          "title": "NHS bosses say more healthcare workers need to get vaccinated",
+          "source": "eveshamjournal.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T17:02:00Z",
+          "publishedAt": "2026-10-12T17:02:00Z",
+          "summary": "",
+          "url": "https://www.eveshamjournal.co.uk/news/26628947.nhs-bosses-say-staff-need-get-vaccinated/"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/us/lady-gagas-born-this-way-foundation-commits-5-million-to-55-youth-organisations-across-11-countries-to-expand-mental-health-support/articleshow/134889530.cms",
           "title": "Lady Gaga's Born This Way Foundation commits $5 million to 55 youth organisations across 11 countries to expand mental health support",
@@ -571,18 +583,6 @@
           "publishedAt": "2026-10-12T16:47:00Z",
           "summary": "",
           "url": "https://kfilradio.com/ixp/711/p/university-of-chicago-sexual-assault-frat/"
-        },
-        {
-          "id": "https://www.christiantoday.com/news/immigration-fears-shape-views-of-britishness-and-christianity-report-finds",
-          "title": "Immigration fears shape views of Britishness and Christianity, report finds",
-          "source": "christiantoday.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:32:00Z",
-          "publishedAt": "2026-10-12T16:32:00Z",
-          "summary": "",
-          "url": "https://www.christiantoday.com/news/immigration-fears-shape-views-of-britishness-and-christianity-report-finds"
         }
       ],
       "keywords": [
@@ -600,10 +600,6 @@
         },
         {
           "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         }
       ],
@@ -624,6 +620,18 @@
           "publishedAt": "2026-10-12T15:02:00Z",
           "summary": "",
           "url": "https://www.investmentwatchblog.com/china-central-bank-buys-gold-for-23rd-straight-month/"
+        },
+        {
+          "id": "https://www.livemint.com/economy/us-tariffs-accelerate-global-trade-realignment-how-india-s-ftas-could-boost-gdp-11791807553160.html",
+          "title": "US tariffs accelerate global trade realignment: How India’s FTAs could boost GDP | Mint",
+          "source": "livemint.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T17:02:00Z",
+          "publishedAt": "2026-10-12T17:02:00Z",
+          "summary": "",
+          "url": "https://www.livemint.com/economy/us-tariffs-accelerate-global-trade-realignment-how-india-s-ftas-could-boost-gdp-11791807553160.html"
         },
         {
           "id": "https://www.ibtimes.com/congress-passes-economic-sanctions-against-russia-critics-say-it-will-broaden-trump-tariff-powers-3807570",
@@ -720,18 +728,6 @@
           "publishedAt": "2026-10-12T11:17:00Z",
           "summary": "",
           "url": "https://www.geo.tv/latest/686116-imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits"
-        },
-        {
-          "id": "http://www.cambodiantimes.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept",
-          "title": "Cambodia's trade with ASEAN, EU posts double-digit growth during Jan.-Sept.",
-          "source": "cambodiantimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T10:32:00Z",
-          "publishedAt": "2026-10-12T10:32:00Z",
-          "summary": "",
-          "url": "http://www.cambodiantimes.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept"
         }
       ],
       "keywords": [
@@ -921,8 +917,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5114,
-    "feedBytes": 1471969,
+    "fetchedItems": 5756,
+    "feedBytes": 1644160,
     "rollingWindowHours": 72
   }
 }
