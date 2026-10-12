@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 04:59:16",
+  "updatedAt": "2026. 10. 12. 오후 05:24:50",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -533,18 +533,6 @@
           "url": "https://www.channelnewsasia.com/watch/moh-seeking-feedback-guidelines-youth-mental-health-support-6450481"
         },
         {
-          "id": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-mental-health-overdiagnosis-is-not-the-problem-facing-young-people",
-          "title": "The Guardian view on mental health: overdiagnosis is not the problem facing young people | Editorial",
-          "source": "theguardian.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T16:47:00Z",
-          "publishedAt": "2026-10-11T16:47:00Z",
-          "summary": "",
-          "url": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-mental-health-overdiagnosis-is-not-the-problem-facing-young-people"
-        },
-        {
           "id": "https://link.springer.com/referencework/10.1007/978-981-99-7842-7",
           "title": "Handbook of Aging, Health and Public Policy",
           "source": "link.springer.com",
@@ -603,23 +591,35 @@
           "publishedAt": "2026-10-12T01:01:00Z",
           "summary": "",
           "url": "https://www.timeshighereducation.com/news/will-us-shift-away-university-based-research-catch"
+        },
+        {
+          "id": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden",
+          "title": "Center for Urban Research and Education (CURE) at Rutgers Universityâ€“Camden",
+          "source": "nextcity.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T23:31:00Z",
+          "publishedAt": "2026-10-11T23:31:00Z",
+          "summary": "",
+          "url": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden"
         }
       ],
       "keywords": [
         {
-          "word": "정신건강",
-          "count": 3
-        },
-        {
-          "word": "청년",
-          "count": 3
-        },
-        {
           "word": "교육",
-          "count": 2
+          "count": 3
         },
         {
           "word": "이민",
+          "count": 2
+        },
+        {
+          "word": "정신건강",
+          "count": 2
+        },
+        {
+          "word": "청년",
           "count": 2
         },
         {
@@ -644,6 +644,18 @@
           "publishedAt": "2026-10-11T17:47:00Z",
           "summary": "",
           "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
+        },
+        {
+          "id": "https://www.dailymirror.lk/business-news/President-to-open-Economic-and-Investment-Summit-today/273-352313",
+          "title": "President to open Economic and Investment Summit today - Business News | Daily Mirror",
+          "source": "dailymirror.lk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T08:16:00Z",
+          "publishedAt": "2026-10-12T08:16:00Z",
+          "summary": "",
+          "url": "https://www.dailymirror.lk/business-news/President-to-open-Economic-and-Investment-Summit-today/273-352313"
         },
         {
           "id": "http://www.thejakartapost.com/business/2026/10/12/ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-imf",
@@ -740,18 +752,6 @@
           "publishedAt": "2026-10-12T02:16:00Z",
           "summary": "",
           "url": "https://vietnamnews.vn/society/1801738/youth-unemployment-education-and-training-gap-widens-despite-labour-market-gains-in-q3.html"
-        },
-        {
-          "id": "https://www.ft.lk/front-page/President-AKD-to-inaugurate-Sri-Lanka-Economic-and-Investment-Summit-2026-today/44-798547",
-          "title": "President AKD to inaugurate Sri Lanka Economic and Investment Summit 2026 today | Daily FT",
-          "source": "ft.lk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T02:16:00Z",
-          "publishedAt": "2026-10-12T02:16:00Z",
-          "summary": "",
-          "url": "https://www.ft.lk/front-page/President-AKD-to-inaugurate-Sri-Lanka-Economic-and-Investment-Summit-2026-today/44-798547"
         }
       ],
       "keywords": [
@@ -937,8 +937,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5337,
-    "feedBytes": 1475289,
+    "fetchedItems": 5468,
+    "feedBytes": 1547608,
     "rollingWindowHours": 72
   }
 }
