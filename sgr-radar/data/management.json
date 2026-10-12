@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 06:32:05",
+  "updatedAt": "2026. 10. 12. 오후 06:58:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 70,
-    "deduped": 70,
-    "eventDeduped": 70,
+    "passed": 68,
+    "deduped": 68,
+    "eventDeduped": 68,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -52,18 +52,6 @@
       "publishedAt": "2026-10-11T22:31:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01587526645612264&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece",
-      "title": "Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T17:31:00Z",
-      "publishedAt": "2026-10-11T17:31:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece"
     },
     {
       "id": "https://www.etnews.com/20261012000128",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-12T08:47:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2634818"
+    },
+    {
+      "id": "https://www.nspna.com/report/?mode=view&newsid=831211",
+      "title": "금감원, MBK·미공개정보 사건…PEF 30곳 내부통제 나서",
+      "source": "nspna.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T06:31:00Z",
+      "publishedAt": "2026-10-12T06:31:00Z",
+      "summary": "",
+      "url": "https://www.nspna.com/report/?mode=view&newsid=831211"
     }
   ],
   "trendItems": [
@@ -174,18 +174,6 @@
       "publishedAt": "2026-10-11T22:31:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01587526645612264&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece",
-      "title": "Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T17:31:00Z",
-      "publishedAt": "2026-10-11T17:31:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/anantha-nageswaran-releases-white-paper-on-ai-automation-and-indias-workforce/article71571859.ece"
     },
     {
       "id": "https://www.etnews.com/20261012000128",
@@ -452,30 +440,6 @@
       "url": "https://www.theyeshivaworld.com/news/general/2608221/volkswagen-seeks-european-support-automaker-warns-of-growing-chinese-competition-amid-massive-restructuring.html"
     },
     {
-      "id": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/",
-      "title": "Trump's tariffs forced U.S. factories to close down or lay off workers, and longtime GOP voters are revolting—'It was like taking a knife to the back' | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T17:47:00Z",
-      "publishedAt": "2026-10-11T17:47:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
-    },
-    {
-      "id": "https://www.thehindu.com/brandhub/pr-release/hirenudge-emerges-as-fastest-growing-ai-job-platform-for-jobs-abroad/article71574192.ece",
-      "title": "HireNudge Emerges as Fastest-Growing AI Job Platform for Jobs Abroad",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T09:17:00Z",
-      "publishedAt": "2026-10-12T09:17:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/brandhub/pr-release/hirenudge-emerges-as-fastest-growing-ai-job-platform-for-jobs-abroad/article71574192.ece"
-    },
-    {
       "id": "https://www.businesstimes.com.sg/international/imf-chief-alarmed-slow-moving-tsunami-ai-jobs-taxes",
       "title": "IMF chief alarmed at ‘slow-moving tsunami’ of AI for jobs, taxes",
       "source": "businesstimes.com.sg",
@@ -548,16 +512,16 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101114021524265"
     },
     {
-      "id": "http://www.heraldglobe.com/news/279367929/unkapped-bets-big-on-india-targets-100-ai-ready-enterprises-by-march-2027",
+      "id": "http://www.bangladeshsun.com/news/279367929/unkapped-bets-big-on-india-targets-100-ai-ready-enterprises-by-march-2027",
       "title": "UNKAPPED Bets Big on India, Targets 100 AI-Ready Enterprises by March 2027",
-      "source": "heraldglobe.com",
+      "source": "bangladeshsun.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T09:17:00Z",
-      "publishedAt": "2026-10-12T09:17:00Z",
+      "dateRaw": "2026-10-12T09:47:00Z",
+      "publishedAt": "2026-10-12T09:47:00Z",
       "summary": "",
-      "url": "http://www.heraldglobe.com/news/279367929/unkapped-bets-big-on-india-targets-100-ai-ready-enterprises-by-march-2027"
+      "url": "http://www.bangladeshsun.com/news/279367929/unkapped-bets-big-on-india-targets-100-ai-ready-enterprises-by-march-2027"
     },
     {
       "id": "https://www.moneycontrol.com/news/business/companies/tcs-to-hire-80-of-workforce-with-digital-ai-skills-ai-work-to-expand-profitability-14050080.html",
@@ -738,15 +702,51 @@
       "publishedAt": "2026-10-12T06:31:00Z",
       "summary": "",
       "url": "https://autonews.gasgoo.com/articles/news/chery-globalization-30-as-overseas-revenue-nears-70-chery-restructures-management-architecture-2109466815167426561"
+    },
+    {
+      "id": "http://kr.xinhuanet.com/20261012/9bd4030b03904c1c950be4ebe89f492a/c.html",
+      "title": "中, AI 시대 고용시장 변화에 대응...신규 직업 발굴·일자리 창출 나서",
+      "source": "kr.xinhuanet.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:46:00Z",
+      "publishedAt": "2026-10-12T02:46:00Z",
+      "summary": "",
+      "url": "http://kr.xinhuanet.com/20261012/9bd4030b03904c1c950be4ebe89f492a/c.html"
+    },
+    {
+      "id": "https://if.com.au/nsw-government-consulting-with-screen-nsw-over-proposed-restructure/",
+      "title": "NSW Government consulting with Screen NSW over proposed restructure - IF Magazine",
+      "source": "if.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:16:00Z",
+      "publishedAt": "2026-10-12T02:16:00Z",
+      "summary": "",
+      "url": "https://if.com.au/nsw-government-consulting-with-screen-nsw-over-proposed-restructure/"
+    },
+    {
+      "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
+      "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
+      "source": "natlawreview.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T20:31:00Z",
+      "publishedAt": "2026-10-11T20:31:00Z",
+      "summary": "",
+      "url": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6354,
-    "relevantItems": 124,
-    "feedBytes": 1799796,
+    "fetchedItems": 5920,
+    "relevantItems": 116,
+    "feedBytes": 1679635,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

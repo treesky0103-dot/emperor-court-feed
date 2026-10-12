@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 06:32:04",
+  "updatedAt": "2026. 10. 12. 오후 06:58:24",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 604,
-    "deduped": 604,
-    "eventDeduped": 604,
+    "passed": 601,
+    "deduped": 601,
+    "eventDeduped": 601,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,16 +524,16 @@
       "url": "https://www.wokv.com/news/world/ukraine-steps-up/3LYVELL4IM4WFBXUMEYJHF6XDE/"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-steps-up-attacks-on-russian-tech-infrastructure-damages-third-data-center/articleshow/134873093.cms",
-      "title": "Ukraine steps up attacks on Russian tech infrastructure, damages third data center",
-      "source": "timesofindia.indiatimes.com",
+      "id": "https://www.breitbart.com/tech/2026/10/11/google-signs-20-year-nuclear-deal-with-constellation-energy/",
+      "title": "Google Signs 20-Year Nuclear Deal with Constellation Energy to Power Data Centers",
+      "source": "breitbart.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-11",
-      "dateRaw": "2026-10-11T17:46:00Z",
-      "publishedAt": "2026-10-11T17:46:00Z",
+      "dateRaw": "2026-10-11T21:46:00Z",
+      "publishedAt": "2026-10-11T21:46:00Z",
       "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-steps-up-attacks-on-russian-tech-infrastructure-damages-third-data-center/articleshow/134873093.cms"
+      "url": "https://www.breitbart.com/tech/2026/10/11/google-signs-20-year-nuclear-deal-with-constellation-energy/"
     },
     {
       "id": "http://oskynews.org/william-penn-university-secures-35000-toward-collaborative-robotics-system-for-industrial-technology-engineering-programs/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6354,
-    "relevantItems": 124,
-    "feedBytes": 1799796,
+    "fetchedItems": 5920,
+    "relevantItems": 116,
+    "feedBytes": 1679635,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
