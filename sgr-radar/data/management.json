@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 02:39:02",
+  "updatedAt": "2026. 10. 13. 오전 02:55:37",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 56,
-    "deduped": 56,
-    "eventDeduped": 56,
+    "passed": 53,
+    "deduped": 53,
+    "eventDeduped": 53,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -162,18 +162,6 @@
       "publishedAt": "2026-10-12T11:46:00Z",
       "summary": "",
       "url": "https://www.jdjournal.com/2026/10/12/ai-governance-manager-career-guide-lawyers/"
-    },
-    {
-      "id": "https://link.springer.com/book/10.1007/978-981-92-1261-3",
-      "title": "Developing a Global Framework for AI Governance",
-      "source": "link.springer.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T07:47:00Z",
-      "publishedAt": "2026-10-12T07:47:00Z",
-      "summary": "",
-      "url": "https://link.springer.com/book/10.1007/978-981-92-1261-3"
     },
     {
       "id": "https://www.businesstoday.in/technology/news/story/hcltech-signs-global-partnership-with-anthropic-to-scale-enterprise-ai-deployments-561076-2026-10-12",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T10:17:00Z",
       "summary": "",
       "url": "https://leadership.ng/ai-threatens-graduate-jobs-imf-warns-nigeria-others/"
+    },
+    {
+      "id": "https://www.cnbcafrica.com/2026/world-bank-jobs-council-urges-crisis-era-support-measures-as-imf-warns-of-ai-tsunami-hit",
+      "title": "World Bank jobs council urges ‘crisis-era’ support measures as IMF warns of AI ‘tsunami’ hit | CNBC Africa",
+      "source": "cnbcafrica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T09:46:00Z",
+      "publishedAt": "2026-10-12T09:46:00Z",
+      "summary": "",
+      "url": "https://www.cnbcafrica.com/2026/world-bank-jobs-council-urges-crisis-era-support-measures-as-imf-warns-of-ai-tsunami-hit"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1106,
-    "relevantItems": 42,
-    "feedBytes": 299858,
+    "fetchedItems": 5619,
+    "relevantItems": 103,
+    "feedBytes": 1607841,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
