@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 02:14:40",
+  "updatedAt": "2026. 10. 13. 오전 02:39:07",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -82,6 +82,18 @@
           "url": "https://www.hankookilbo.com/news/article/A2026101214450003646"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261012001548",
+          "title": "美 당국, 소말리아 출신 오마르 의원 자택 압색…이민 서류 위조 의혹 수사",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T17:31:00Z",
+          "publishedAt": "2026-10-12T17:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261012001548"
+        },
+        {
           "id": "https://www.busan.com/view/busan/view.php?code=2026101222092954811",
           "title": "한난, '경영진 대상 내부회계 관리교육'…“예방 중심 내부통제 강화”",
           "source": "busan.com",
@@ -116,24 +128,12 @@
           "publishedAt": "2026-10-12T13:47:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10900192"
-        },
-        {
-          "id": "https://cunews.net/detail.php?number=172953&thread=22r10",
-          "title": "인천시의회 이연주 의원, 인천대 의학전문대학원 설립 지원 조례 추진 : 연합시민의소리",
-          "source": "cunews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T13:47:00Z",
-          "publishedAt": "2026-10-12T13:47:00Z",
-          "summary": "",
-          "url": "https://cunews.net/detail.php?number=172953&thread=22r10"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 3
         },
         {
           "word": "주거",
@@ -142,6 +142,10 @@
         {
           "word": "청년",
           "count": 3
+        },
+        {
+          "word": "이민",
+          "count": 1
         },
         {
           "word": "정신건강",
@@ -573,16 +577,16 @@
           "url": "https://www.trentonian.com/2026/10/12/embright-education-expands-youth-mental-health-support-for-trenton-with-grant/"
         },
         {
-          "id": "https://kfilradio.com/ixp/711/p/university-of-chicago-sexual-assault-frat/",
-          "title": "Sexual Assault Reported During Frat Party At University Of Chicago",
-          "source": "kfilradio.com",
+          "id": "https://www.fox5atlanta.com/news/goizueta-business-school-expands-ai-research-student-fellowships",
+          "title": "Goizueta Business School expands AI research, student fellowships",
+          "source": "fox5atlanta.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:47:00Z",
-          "publishedAt": "2026-10-12T16:47:00Z",
+          "dateRaw": "2026-10-12T17:31:00Z",
+          "publishedAt": "2026-10-12T17:31:00Z",
           "summary": "",
-          "url": "https://kfilradio.com/ixp/711/p/university-of-chicago-sexual-assault-frat/"
+          "url": "https://www.fox5atlanta.com/news/goizueta-business-school-expands-ai-research-student-fellowships"
         }
       ],
       "keywords": [
@@ -763,16 +767,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://aninews.in/news/business/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta20261012200959/",
+          "id": "http://www.calcuttanews.net/news/279369090/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta",
           "title": "South Yorkshire eyes Indian investment in advanced manufacturing, AI, sustainable aviation after UK-India FTA",
-          "source": "aninews.in",
+          "source": "calcuttanews.net",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:02:00Z",
-          "publishedAt": "2026-10-12T16:02:00Z",
+          "dateRaw": "2026-10-12T17:31:00Z",
+          "publishedAt": "2026-10-12T17:31:00Z",
           "summary": "",
-          "url": "https://aninews.in/news/business/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta20261012200959/"
+          "url": "http://www.calcuttanews.net/news/279369090/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta"
         },
         {
           "id": "https://247wallst.com/companies/tsm/",
@@ -917,8 +921,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5756,
-    "feedBytes": 1644160,
+    "fetchedItems": 1106,
+    "feedBytes": 299858,
     "rollingWindowHours": 72
   }
 }

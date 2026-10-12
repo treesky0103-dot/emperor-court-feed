@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 02:14:32",
+  "updatedAt": "2026. 10. 13. 오전 02:39:02",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 57,
-    "deduped": 57,
-    "eventDeduped": 57,
+    "passed": 56,
+    "deduped": 56,
+    "eventDeduped": 56,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -296,18 +296,6 @@
       "url": "https://www.telecompaper.com:443/news/telia-plans-900-job-cuts-to-save-sek-1-bln-annually-through-localisation--1585331"
     },
     {
-      "id": "https://leadership.ng/air-force-officers-wives-to-expose-1m-nigerian-children-to-coding-robotics-artificial-intelligence/",
-      "title": "Air Force Officers' Wives To Expose 1m Nigerian Children To Coding, Robotics, Artificial Intelligence",
-      "source": "leadership.ng",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T07:46:00Z",
-      "publishedAt": "2026-10-12T07:46:00Z",
-      "summary": "",
-      "url": "https://leadership.ng/air-force-officers-wives-to-expose-1m-nigerian-children-to-coding-robotics-artificial-intelligence/"
-    },
-    {
       "id": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/",
       "title": "McKinsey: Automation could absorb half of U.S. work hours by 2035. The bigger challenge is skills | Fortune",
       "source": "fortune.com",
@@ -356,6 +344,18 @@
       "url": "https://www.businesstimes.com.sg/international/imf-chief-alarmed-slow-moving-tsunami-ai-jobs-taxes"
     },
     {
+      "id": "http://www.vietnamtribune.com/news/279369029/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises",
+      "title": "HCLTech and Anthropic sign Global Premier Partnership to scale governed Agentic AI across global enterprises",
+      "source": "vietnamtribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T17:31:00Z",
+      "publishedAt": "2026-10-12T17:31:00Z",
+      "summary": "",
+      "url": "http://www.vietnamtribune.com/news/279369029/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises"
+    },
+    {
       "id": "https://www.newvision.co.ug/category/science/ai-enabled-spending-fuels-chinas-holiday-econ-NV_242291_102026",
       "title": "Science & Tech: AI-enabled spending fuels China's holiday economy",
       "source": "newvision.co.ug",
@@ -366,18 +366,6 @@
       "publishedAt": "2026-10-12T17:02:00Z",
       "summary": "",
       "url": "https://www.newvision.co.ug/category/science/ai-enabled-spending-fuels-chinas-holiday-econ-NV_242291_102026"
-    },
-    {
-      "id": "http://www.iraqsun.com/news/279368433/hcltech-anthropic-partner-to-scale-governed-agentic-ai-across-enterprises",
-      "title": "HCLTech, Anthropic partner to scale governed agentic AI across enterprises",
-      "source": "iraqsun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T17:02:00Z",
-      "publishedAt": "2026-10-12T17:02:00Z",
-      "summary": "",
-      "url": "http://www.iraqsun.com/news/279368433/hcltech-anthropic-partner-to-scale-governed-agentic-ai-across-enterprises"
     },
     {
       "id": "https://www.healio.com/news/gastroenterology/20261012/acg-president-never-been-a-more-exciting-time-as-ai-workforce-shifts-reshape-gi-care",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T10:17:00Z",
       "summary": "",
       "url": "https://bdnews24.com/business/pbilyrwbfq"
+    },
+    {
+      "id": "https://leadership.ng/ai-threatens-graduate-jobs-imf-warns-nigeria-others/",
+      "title": "AI Threatens Graduate Jobs, IMF Warns Nigeria, Others",
+      "source": "leadership.ng",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T10:17:00Z",
+      "publishedAt": "2026-10-12T10:17:00Z",
+      "summary": "",
+      "url": "https://leadership.ng/ai-threatens-graduate-jobs-imf-warns-nigeria-others/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5756,
-    "relevantItems": 115,
-    "feedBytes": 1644160,
+    "fetchedItems": 1106,
+    "relevantItems": 42,
+    "feedBytes": 299858,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
