@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 05:50:28",
+  "updatedAt": "2026. 10. 12. 오후 06:07:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 69,
-    "deduped": 69,
-    "eventDeduped": 69,
+    "passed": 68,
+    "deduped": 68,
+    "eventDeduped": 68,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -40,18 +40,6 @@
       "publishedAt": "2026-10-11T18:32:00Z",
       "summary": "",
       "url": "https://finchannel.com/sap-agrees-to-buy-techwolf-to-expand-ai-workforce-tools/137658/american-business-trends/2026/10/"
-    },
-    {
-      "id": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/",
-      "title": "airBaltic Layoffs: 500–700 Jobs Cut in Restructuring",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T15:47:00Z",
-      "publishedAt": "2026-10-11T15:47:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01587526645612264&mediaCodeNo=257",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-11T20:46:00Z",
       "summary": "",
       "url": "https://centreforaviation.com/news/vietjet-moving-towards-hybrid-business-model-and-long-haul-routes-vice-chair-1374377"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2634818",
+      "title": "현대모비스 램프사업 매각 법정으로…승계거부권·교섭권 쟁점",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T08:47:00Z",
+      "publishedAt": "2026-10-12T08:47:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2634818"
     }
   ],
   "trendItems": [
@@ -162,18 +162,6 @@
       "publishedAt": "2026-10-11T18:32:00Z",
       "summary": "",
       "url": "https://finchannel.com/sap-agrees-to-buy-techwolf-to-expand-ai-workforce-tools/137658/american-business-trends/2026/10/"
-    },
-    {
-      "id": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/",
-      "title": "airBaltic Layoffs: 500–700 Jobs Cut in Restructuring",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T15:47:00Z",
-      "publishedAt": "2026-10-11T15:47:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/482614/airbaltic-layoffs-2026/"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01587526645612264&mediaCodeNo=257",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T02:16:00Z",
       "summary": "",
       "url": "https://if.com.au/nsw-government-consulting-with-screen-nsw-over-proposed-restructure/"
+    },
+    {
+      "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
+      "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
+      "source": "natlawreview.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T20:31:00Z",
+      "publishedAt": "2026-10-11T20:31:00Z",
+      "summary": "",
+      "url": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5446,
-    "relevantItems": 141,
-    "feedBytes": 1496853,
+    "fetchedItems": 5652,
+    "relevantItems": 86,
+    "feedBytes": 1564337,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

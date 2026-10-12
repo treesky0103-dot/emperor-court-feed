@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 05:50:35",
+  "updatedAt": "2026. 10. 12. 오후 06:07:14",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -34,6 +34,18 @@
           "url": "https://www.etnews.com/20261012000117",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/society/rights/1282012.html",
+          "title": "정부, 자살예방 ‘국가자살대응실’ 설치…고위험군 치료 거점의료기관 지정",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T09:01:00Z",
+          "publishedAt": "2026-10-12T09:01:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/society/rights/1282012.html"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03824486645612264&mediaCodeNo=257",
@@ -70,18 +82,6 @@
           "publishedAt": "2026-10-12T06:31:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10899820"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html",
-          "title": "한은 총재 “수도권 집값·가계부채에 금융 불균형 우려”",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T04:02:00Z",
-          "publishedAt": "2026-10-12T04:02:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261012121037",
@@ -143,7 +143,7 @@
         },
         {
           "word": "주거",
-          "count": 4
+          "count": 3
         },
         {
           "word": "청년",
@@ -374,16 +374,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=03949126645612264&mediaCodeNo=257",
-          "title": "“반도체 부족보다 더 무섭다”…AI 성장 막을 진짜 복병",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=04159046645612264&mediaCodeNo=257",
+          "title": "차세대 AI 반도체 총출동…역대 최대 반도체대전 14일 개막",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T08:46:00Z",
-          "publishedAt": "2026-10-12T08:46:00Z",
+          "dateRaw": "2026-10-12T09:01:00Z",
+          "publishedAt": "2026-10-12T09:01:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03949126645612264&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04159046645612264&mediaCodeNo=257"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2634802",
@@ -452,15 +452,15 @@
           "count": 10
         },
         {
+          "word": "반도체",
+          "count": 3
+        },
+        {
           "word": "클라우드",
           "count": 3
         },
         {
           "word": "GPU",
-          "count": 2
-        },
-        {
-          "word": "반도체",
           "count": 2
         },
         {
@@ -638,28 +638,16 @@
     "economy": {
       "items": [
         {
-          "id": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/",
-          "title": "Trump's tariffs forced U.S. factories to close down or lay off workers, and longtime GOP voters are revolting—'It was like taking a knife to the back' | Fortune",
-          "source": "fortune.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T17:47:00Z",
-          "publishedAt": "2026-10-11T17:47:00Z",
-          "summary": "",
-          "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
-        },
-        {
-          "id": "https://www.freemalaysiatoday.com/category/business/2026/10/12/imf-says-ai-investment-keeps-global-growth-around-3",
+          "id": "https://www.rte.ie/news/business/2026/1012/1594963-imf-on-ai/",
           "title": "IMF says AI investment keeps global growth around 3%",
-          "source": "freemalaysiatoday.com",
+          "source": "rte.ie",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T08:46:00Z",
-          "publishedAt": "2026-10-12T08:46:00Z",
+          "dateRaw": "2026-10-12T09:01:00Z",
+          "publishedAt": "2026-10-12T09:01:00Z",
           "summary": "",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/imf-says-ai-investment-keeps-global-growth-around-3"
+          "url": "https://www.rte.ie/news/business/2026/1012/1594963-imf-on-ai/"
         },
         {
           "id": "https://www.dailymirror.lk/business-news/President-to-open-Economic-and-Investment-Summit-today/273-352313",
@@ -756,6 +744,18 @@
           "publishedAt": "2026-10-12T04:31:00Z",
           "summary": "",
           "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204793"
+        },
+        {
+          "id": "https://vietnamnews.vn/society/1801738/youth-unemployment-education-and-training-gap-widens-despite-labour-market-gains-in-q3.html",
+          "title": "Youth unemployment, education and training gap widens despite labour market gains in Q3",
+          "source": "vietnamnews.vn",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T02:16:00Z",
+          "publishedAt": "2026-10-12T02:16:00Z",
+          "summary": "",
+          "url": "https://vietnamnews.vn/society/1801738/youth-unemployment-education-and-training-gap-widens-despite-labour-market-gains-in-q3.html"
         }
       ],
       "keywords": [
@@ -766,6 +766,10 @@
         {
           "word": "성장",
           "count": 4
+        },
+        {
+          "word": "고용",
+          "count": 2
         },
         {
           "word": "관세",
@@ -883,6 +887,18 @@
           "url": "https://gizmodo.com/ukraine-has-dealt-a-big-blow-to-russias-ai-and-cloud-infrastructure-2000824731"
         },
         {
+          "id": "https://www.rte.ie/news/business/2026/1012/1594963-imf-on-ai/",
+          "title": "IMF says AI investment keeps global growth around 3%",
+          "source": "rte.ie",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T09:01:00Z",
+          "publishedAt": "2026-10-12T09:01:00Z",
+          "summary": "",
+          "url": "https://www.rte.ie/news/business/2026/1012/1594963-imf-on-ai/"
+        },
+        {
           "id": "https://www.rttnews.com/3698034/amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-around-7-bln.aspx",
           "title": "Amazon Reportedly In Talks To Buy AI Startup Decart For Around $7 Bln",
           "source": "rttnews.com",
@@ -893,18 +909,6 @@
           "publishedAt": "2026-10-12T08:47:00Z",
           "summary": "",
           "url": "https://www.rttnews.com/3698034/amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-around-7-bln.aspx"
-        },
-        {
-          "id": "https://www.freemalaysiatoday.com/category/business/2026/10/12/imf-says-ai-investment-keeps-global-growth-around-3",
-          "title": "IMF says AI investment keeps global growth around 3%",
-          "source": "freemalaysiatoday.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T08:46:00Z",
-          "publishedAt": "2026-10-12T08:46:00Z",
-          "summary": "",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/imf-says-ai-investment-keeps-global-growth-around-3"
         }
       ],
       "keywords": [
@@ -933,8 +937,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5446,
-    "feedBytes": 1496853,
+    "fetchedItems": 5652,
+    "feedBytes": 1564337,
     "rollingWindowHours": 72
   }
 }
