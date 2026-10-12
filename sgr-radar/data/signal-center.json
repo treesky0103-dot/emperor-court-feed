@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 05:51:46",
+  "updatedAt": "2026. 10. 13. 오전 06:12:25",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -70,6 +70,18 @@
           "url": "https://www.segye.com:443/newsView/20261012519529"
         },
         {
+          "id": "https://pann.nate.com/talk/375666369",
+          "title": "2026년 가을. 宮(泮宮.學宮).太學.成均館자격 성균관대 유생이 평가하는 세계적인 대학들.세계사 교과서, 한국사 교과서, 백과사전, 참고서, 학술서등에 기반함. | 네이트 판",
+          "source": "pann.nate.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T21:01:00Z",
+          "publishedAt": "2026-10-12T21:01:00Z",
+          "summary": "",
+          "url": "https://pann.nate.com/talk/375666369"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10900251",
           "title": "황재철 경북도의원, 교육청 물품·용역 계약 지역업체 참여 확대 조례안 발의",
           "source": "biz.heraldcorp.com",
@@ -116,24 +128,12 @@
           "publishedAt": "2026-10-12T17:02:00Z",
           "summary": "",
           "url": "https://www.busan.com/view/busan/view.php?code=2026101222092954811"
-        },
-        {
-          "id": "https://www.insight.co.kr/news/577462",
-          "title": "인천의료원 암 수술 ‘0건’... 혈세 19억 투입 장비 사실상 방치",
-          "source": "insight.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:02:00Z",
-          "publishedAt": "2026-10-12T16:02:00Z",
-          "summary": "",
-          "url": "https://www.insight.co.kr/news/577462"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 5
         },
         {
           "word": "주거",
@@ -925,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4022,
-    "feedBytes": 1103747,
+    "fetchedItems": 4186,
+    "feedBytes": 1177457,
     "rollingWindowHours": 72
   }
 }
