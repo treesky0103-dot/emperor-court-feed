@@ -1,25 +1,25 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 09:52:50",
+  "updatedAt": "2026. 10. 12. 오전 10:17:55",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/economy/12173277",
-          "title": "[단독] “20년 살았는데 내집 해줘”…장기전세 갈등, 은평·마포·구로 차례온다",
+          "id": "https://www.mk.co.kr/news/society/12173357",
+          "title": "“꼭 필요한 안전교육, 제때 제대로”…세이프키즈, 안성맞춤 순회교육 실시",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T09:11:43Z",
-          "publishedAt": "2026-10-12T09:11:43Z",
+          "dateRaw": "2026-10-12T10:03:31Z",
+          "publishedAt": "2026-10-12T10:03:31Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12173277",
+          "url": "https://www.mk.co.kr/news/society/12173357",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.hani.co.kr/arti/hanihealth/medical/1280718.html",
@@ -134,16 +134,16 @@
       ],
       "keywords": [
         {
+          "word": "교육",
+          "count": 3
+        },
+        {
           "word": "주거",
-          "count": 4
+          "count": 3
         },
         {
           "word": "복지",
           "count": 2
-        },
-        {
-          "word": "교육",
-          "count": 1
         },
         {
           "word": "돌봄",
@@ -169,18 +169,6 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261008000223",
-          "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:31:00Z",
-          "publishedAt": "2026-10-11T07:31:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000223"
-        },
-        {
           "id": "https://www.mk.co.kr/news/society/12173233",
           "title": "투자실패가 부녀 참극으로…수억원 지원받은 딸, 질책에 아버지 살해",
           "source": "mk.co.kr",
@@ -193,6 +181,20 @@
           "url": "https://www.mk.co.kr/news/society/12173233",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.etnews.com/20261012000061",
+          "title": "한국투자증권, 기업 대상 '퇴직연금 아카데미' 개최",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T00:56:59Z",
+          "publishedAt": "2026-10-12T00:56:59Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261012000061",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257",
@@ -231,6 +233,18 @@
           "url": "https://www.etoday.co.kr/news/view/2634404"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10899109",
+          "title": "“한숨만 푹푹” 연휴 끝나서 우울한데 코스피까지…‘삼전닉스’도 주르륵 [투자360]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:01:00Z",
+          "publishedAt": "2026-10-12T01:01:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10899109"
+        },
+        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224251",
           "title": "[속보] 코스피 6578.17(▼47.76p, 0.72%) 개장, 원·달러 환율 1339.3원",
           "source": "mbn.co.kr",
@@ -255,18 +269,6 @@
           "publishedAt": "2026-10-11T23:47:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610120614450213"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10898908",
-          "title": "연휴 마친 코스피, 6600대서 반등 시도…美 물가·중동 정세 변수 [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T23:46:00Z",
-          "publishedAt": "2026-10-11T23:46:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10898908"
         },
         {
           "id": "https://www.newspim.com/news/view/20261012000038",
@@ -296,7 +298,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 7
         },
         {
           "word": "환율",
@@ -307,11 +309,7 @@
           "count": 1
         },
         {
-          "word": "물가",
-          "count": 1
-        },
-        {
-          "word": "인력",
+          "word": "기업",
           "count": 1
         }
       ],
@@ -321,6 +319,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/business/12173358",
+          "title": "“사람과 동물 함께산다”... 바이오드, 3세대 벡터 백신으로 동물의약품 시장 ‘정조준’",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T10:05:02Z",
+          "publishedAt": "2026-10-12T10:05:02Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12173358",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.etoday.co.kr/news/view/2634422",
           "title": "현대제철, H형강 사업 판 키운다…AI 데이터센터 시장 정조준",
@@ -346,20 +358,6 @@
           "url": "https://www.hankookilbo.com/news/article/A2026100908490000859"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12172941",
-          "title": "포스코DX, ‘에이전틱 AI’ 승부수…인핸스에 20억 투자",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T14:24:32Z",
-          "publishedAt": "2026-10-11T14:24:32Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12172941",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1281880.html",
           "title": "10월1∼10일 수출 261억달러 ‘역대 최대’…반도체 170.9%↑",
           "source": "hani.co.kr",
@@ -370,6 +368,20 @@
           "publishedAt": "2026-10-12T00:46:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1281880.html"
+        },
+        {
+          "id": "https://www.etnews.com/20261012000018",
+          "title": "푸드로직, 중기부 '모두의 챌린지 플랫폼' 선정…외식 원가 데이터로 소상공인 경영 지원 AI 협업 참여",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T00:18:43Z",
+          "publishedAt": "2026-10-12T00:18:43Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261012000018",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202610120601271425",
@@ -394,20 +406,6 @@
           "publishedAt": "2026-10-11T23:31:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/science-chosun/bio/2026/10/12/TH4DIF4IPRGBNIV6YJS2BOVU5E/"
-        },
-        {
-          "id": "https://www.etnews.com/20261008000217",
-          "title": "어니컴, AI 기반 테스트 플랫폼 '[ai]Q'로 SW 품질검증 전 과정 AI 전환 추진",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T23:00:00Z",
-          "publishedAt": "2026-10-11T23:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261008000217",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01849926645612264&mediaCodeNo=257",
@@ -449,7 +447,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 10
+          "count": 7
         },
         {
           "word": "데이터센터",
@@ -465,6 +463,10 @@
         },
         {
           "word": "로봇",
+          "count": 1
+        },
+        {
+          "word": "바이오",
           "count": 1
         },
         {
@@ -529,16 +531,16 @@
           "url": "https://tulsaworld.com/news/local/business/article_1062b5ad-fdc7-4be4-9b5f-6ce90797e5c7.html"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c620r33rdj14o",
-          "title": "NI healthcare workers at 'tipping point' as union ballots for industrial action",
-          "source": "bbc.co.uk",
+          "id": "https://www.timeshighereducation.com/news/will-us-shift-away-university-based-research-catch",
+          "title": "Will US’ shift away from university-based research catch on?",
+          "source": "timeshighereducation.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:01:00Z",
-          "publishedAt": "2026-10-11T07:01:00Z",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:01:00Z",
+          "publishedAt": "2026-10-12T01:01:00Z",
           "summary": "",
-          "url": "https://www.bbc.co.uk/news/articles/c620r33rdj14o"
+          "url": "https://www.timeshighereducation.com/news/will-us-shift-away-university-based-research-catch"
         },
         {
           "id": "https://nextcity.org/institutional-members/org/center-for-urban-research-and-education-cure-at-rutgers-universitycamden",
@@ -611,12 +613,12 @@
           "count": 2
         },
         {
-          "word": "청년",
+          "word": "교육",
           "count": 2
         },
         {
-          "word": "교육",
-          "count": 1
+          "word": "청년",
+          "count": 2
         },
         {
           "word": "이민",
@@ -640,18 +642,6 @@
           "publishedAt": "2026-10-11T17:47:00Z",
           "summary": "",
           "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
-        },
-        {
-          "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
-          "title": "Nvidia weighs deeper ties with open-model developer Reflection AI through investment or computing deal",
-          "source": "businesstimes.com.sg",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T06:31:00Z",
-          "publishedAt": "2026-10-11T06:31:00Z",
-          "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
         },
         {
           "id": "https://sana.sy/en/economic/2349851/",
@@ -748,12 +738,24 @@
           "publishedAt": "2026-10-11T13:31:00Z",
           "summary": "",
           "url": "https://financialpost.com/news/business-groups-irreversible-economic-consequences-trade-deal-limbo"
+        },
+        {
+          "id": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/",
+          "title": "팀 쿡 애플 의장, CEO 퇴임 후 첫 중국 방문…청정에너지 투자도 확대",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T12:01:00Z",
+          "publishedAt": "2026-10-11T12:01:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/11/UDOCMW4JKNA2PPZ56GWDJWIUPU/"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "금리",
@@ -797,18 +799,6 @@
           "publishedAt": "2026-10-11T13:32:00Z",
           "summary": "",
           "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
-        },
-        {
-          "id": "https://www.koreatimes.co.kr/business/tech-science/20261011/cover-story-koreas-2-track-ai-strategy-casts-uncertainty-over-sovereign-model-project",
-          "title": "[COVER STORY] Korea's 2-track AI strategy casts uncertainty over sovereign model project - The Korea Times",
-          "source": "koreatimes.co.kr",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T07:16:00Z",
-          "publishedAt": "2026-10-11T07:16:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.co.kr/business/tech-science/20261011/cover-story-koreas-2-track-ai-strategy-casts-uncertainty-over-sovereign-model-project"
         },
         {
           "id": "https://www.airob.com/products/airob-expert",
@@ -893,12 +883,24 @@
           "publishedAt": "2026-10-11T15:01:00Z",
           "summary": "",
           "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
+        },
+        {
+          "id": "http://www.econotimes.com/Elon-Musk-Eyes-Semiconductor-Manufacturing-Expansion-With-15-Billion-Terrafab-Project-1754552",
+          "title": "Elon Musk Eyes Semiconductor Manufacturing Expansion With $15 Billion Terrafab Project - EconoTimes",
+          "source": "econotimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T14:32:00Z",
+          "publishedAt": "2026-10-11T14:32:00Z",
+          "summary": "",
+          "url": "http://www.econotimes.com/Elon-Musk-Eyes-Semiconductor-Manufacturing-Expansion-With-15-Billion-Terrafab-Project-1754552"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "데이터센터",
@@ -906,6 +908,10 @@
         },
         {
           "word": "제조",
+          "count": 2
+        },
+        {
+          "word": "반도체",
           "count": 1
         },
         {
@@ -921,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2648,
-    "feedBytes": 696102,
+    "fetchedItems": 2385,
+    "feedBytes": 635240,
     "rollingWindowHours": 72
   }
 }
