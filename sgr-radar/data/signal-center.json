@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 01:14:58",
+  "updatedAt": "2026. 10. 12. 오후 01:40:45",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -112,6 +112,18 @@
           "url": "https://womannews.net/detail.php?number=456885&thread=22r03r03"
         },
         {
+          "id": "https://www.segye.com:443/newsView/20261012509978",
+          "title": "‘청년 래퍼 설문조사' 어떻게 조사했나 [탐사기획-한국힙합 홍대에서 BTS까지]",
+          "source": "segye.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:31:00Z",
+          "publishedAt": "2026-10-12T04:31:00Z",
+          "summary": "",
+          "url": "https://www.segye.com:443/newsView/20261012509978"
+        },
+        {
           "id": "https://h21.hani.co.kr/arti/society/society_general/60026.html",
           "title": "복지 안전망이 지운 ‘돌보는 남성’",
           "source": "h21.hani.co.kr",
@@ -122,18 +134,6 @@
           "publishedAt": "2026-10-12T04:02:00Z",
           "summary": "",
           "url": "https://h21.hani.co.kr/arti/society/society_general/60026.html"
-        },
-        {
-          "id": "https://ichannela.com/news/detail/000000554617.do",
-          "title": "윤희숙 “매매·전월세 시장, 이 대통령 이때까지 한 것 정반대로만 하면 돼” [정치시그널]",
-          "source": "ichannela.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T01:31:00Z",
-          "publishedAt": "2026-10-12T01:31:00Z",
-          "summary": "",
-          "url": "https://ichannela.com/news/detail/000000554617.do"
         }
       ],
       "keywords": [
@@ -143,18 +143,18 @@
         },
         {
           "word": "주거",
-          "count": 4
+          "count": 3
         },
         {
           "word": "복지",
           "count": 2
         },
         {
-          "word": "정신건강",
-          "count": 1
+          "word": "청년",
+          "count": 2
         },
         {
-          "word": "청년",
+          "word": "정신건강",
           "count": 1
         }
       ],
@@ -229,16 +229,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/finance/1281835.html",
-          "title": "왜곡된 금리의 제자리 찾기",
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html",
+          "title": "한은 총재 “수도권 집값·가계부채에 금융 불균형 우려”",
           "source": "hani.co.kr",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T11:47:00Z",
-          "publishedAt": "2026-10-11T11:47:00Z",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:02:00Z",
+          "publishedAt": "2026-10-12T04:02:00Z",
           "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1281835.html"
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261012103852",
@@ -297,15 +297,15 @@
           "count": 4
         },
         {
-          "word": "금리",
-          "count": 2
-        },
-        {
           "word": "환율",
           "count": 2
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "금리",
           "count": 1
         },
         {
@@ -320,6 +320,20 @@
     "technology": {
       "items": [
         {
+          "id": "https://www.etnews.com/20261008000213",
+          "title": "유비디시전, 대학 전자문서에서 AI 데이터센터까지…“GPU 몇 대로 AI 인프라 구축”",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:28:30Z",
+          "publishedAt": "2026-10-12T04:28:30Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261008000213",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/12/UXQE4IFOEVFLDJ42HFIVX5IFIU/",
           "title": "네이버클라우드, 베트남 IT 기업 FPT와 GPUaaS 사업 업무협약... 아태 지역 AI 인프라 시장 공략",
           "source": "biz.chosun.com",
@@ -330,20 +344,6 @@
           "publishedAt": "2026-10-12T01:31:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/it-science/ict/2026/10/12/UXQE4IFOEVFLDJ42HFIVX5IFIU/"
-        },
-        {
-          "id": "https://www.etnews.com/20261012000152",
-          "title": "네오에이아이클라우드, 포항 AI 데이터센터 6,000억원 규모 자금조달 완료",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T02:15:26Z",
-          "publishedAt": "2026-10-12T02:15:26Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261012000152",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.mk.co.kr/news/business/12173358",
@@ -382,6 +382,18 @@
           "publishedAt": "2026-10-11T22:01:00Z",
           "summary": "",
           "url": "https://www.hankookilbo.com/news/article/A2026100908490000859"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10899583",
+          "title": "조선업 제조공정에 AI 전환 확대…민관, 2030년까지 1.4조 투입",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:31:00Z",
+          "publishedAt": "2026-10-12T04:31:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10899583"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261012121037",
@@ -432,35 +444,27 @@
           "publishedAt": "2026-10-11T22:31:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01849926645612264&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026101114021524265",
-          "title": "[주간 클라우드 동향/10월 ②] \"韓 기업과 새 기회 만들 것\"… AMD, 국산 AI 반도체 띄운다",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T22:02:00Z",
-          "publishedAt": "2026-10-11T22:02:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026101114021524265"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 9
         },
         {
           "word": "데이터센터",
           "count": 3
         },
         {
-          "word": "클라우드",
-          "count": 3
+          "word": "GPU",
+          "count": 2
         },
         {
           "word": "로봇",
+          "count": 2
+        },
+        {
+          "word": "제조",
           "count": 2
         },
         {
@@ -468,11 +472,11 @@
           "count": 1
         },
         {
-          "word": "반도체",
+          "word": "조선",
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -646,6 +650,30 @@
           "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
         },
         {
+          "id": "https://www.wpbf.com/article/port-st-lucie-mayoral-debate-2026-wpbf/73929045",
+          "title": "Port St. Lucie mayoral candidates discuss growth and investment in debate",
+          "source": "wpbf.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:31:00Z",
+          "publishedAt": "2026-10-12T04:31:00Z",
+          "summary": "",
+          "url": "https://www.wpbf.com/article/port-st-lucie-mayoral-debate-2026-wpbf/73929045"
+        },
+        {
+          "id": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204793",
+          "title": "KDI: S. Korean Economy Continues to Improve on Back of AI Exports, Investment",
+          "source": "world.kbs.co.kr",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:31:00Z",
+          "publishedAt": "2026-10-12T04:31:00Z",
+          "summary": "",
+          "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204793"
+        },
+        {
           "id": "https://vietnamnews.vn/society/1801738/youth-unemployment-education-and-training-gap-widens-despite-labour-market-gains-in-q3.html",
           "title": "Youth unemployment, education and training gap widens despite labour market gains in Q3",
           "source": "vietnamnews.vn",
@@ -728,44 +756,24 @@
           "publishedAt": "2026-10-11T21:31:00Z",
           "summary": "",
           "url": "https://www.scoop.co.nz/stories/BU2610/S00095/nature-investment-pathways-shortlisted-for-national-economic-development-award.htm"
-        },
-        {
-          "id": "https://abcnews.com/Business/wireStory/5-traders-jailed-rigging-key-interest-rates-convictions-137067638",
-          "title": "5 traders jailed for rigging key interest rates have their convictions quashed",
-          "source": "abcnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T18:32:00Z",
-          "publishedAt": "2026-10-11T18:32:00Z",
-          "summary": "",
-          "url": "https://abcnews.com/Business/wireStory/5-traders-jailed-rigging-key-interest-rates-convictions-137067638"
-        },
-        {
-          "id": "http://www.bignewsnetwork.com/news/279366037/indonesia-egypt-push-for-economic-partnership-agreement-joint-investment-fund",
-          "title": "Indonesia, Egypt push for Economic Partnership Agreement, joint investment fund",
-          "source": "bignewsnetwork.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T15:32:00Z",
-          "publishedAt": "2026-10-11T15:32:00Z",
-          "summary": "",
-          "url": "http://www.bignewsnetwork.com/news/279366037/indonesia-egypt-push-for-economic-partnership-agreement-joint-investment-fund"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
-        },
-        {
-          "word": "금리",
-          "count": 3
+          "count": 6
         },
         {
           "word": "고용",
           "count": 2
+        },
+        {
+          "word": "금리",
+          "count": 2
+        },
+        {
+          "word": "성장",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -925,8 +933,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2816,
-    "feedBytes": 737980,
+    "fetchedItems": 3194,
+    "feedBytes": 846194,
     "rollingWindowHours": 72
   }
 }
