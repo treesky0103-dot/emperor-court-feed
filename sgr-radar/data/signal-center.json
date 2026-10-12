@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 11:13:26",
+  "updatedAt": "2026. 10. 12. 오후 11:45:33",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -84,20 +84,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261012121037",
-          "title": "비상교육 AI 교육 플랫폼 '올비아', 중동 교육 박람회 최종 후보 올라",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T03:10:37Z",
-          "publishedAt": "2026-10-12T03:10:37Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261012121037",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "https://www.segye.com:443/newsView/20261012519529",
           "title": "집값·내홍·외교… ‘시험대’ 선 이재명정부 2년차 [뉴스분석]",
           "source": "segye.com",
@@ -122,22 +108,34 @@
           "url": "https://www.hankookilbo.com/news/article/A2026101214450003646"
         },
         {
-          "id": "https://h21.hani.co.kr/arti/society/society_general/60026.html",
-          "title": "복지 안전망이 지운 ‘돌보는 남성’",
-          "source": "h21.hani.co.kr",
+          "id": "https://cunews.net/detail.php?number=172953&thread=22r10",
+          "title": "인천시의회 이연주 의원, 인천대 의학전문대학원 설립 지원 조례 추진 : 연합시민의소리",
+          "source": "cunews.net",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T04:02:00Z",
-          "publishedAt": "2026-10-12T04:02:00Z",
+          "dateRaw": "2026-10-12T13:47:00Z",
+          "publishedAt": "2026-10-12T13:47:00Z",
           "summary": "",
-          "url": "https://h21.hani.co.kr/arti/society/society_general/60026.html"
+          "url": "https://cunews.net/detail.php?number=172953&thread=22r10"
+        },
+        {
+          "id": "https://www.busan.com/view/busan/view.php?code=2026101218214462361",
+          "title": "여자부 우승 이숙희 “건강 챙기려고 시작했는데 우승까지 했네요” [부산일보 파크골프대회]",
+          "source": "busan.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T13:02:00Z",
+          "publishedAt": "2026-10-12T13:02:00Z",
+          "summary": "",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026101218214462361"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 4
         },
         {
           "word": "주거",
@@ -145,7 +143,7 @@
         },
         {
           "word": "복지",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -308,16 +306,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261008000213",
-          "title": "유비디시전, 대학 전자문서에서 AI 데이터센터까지…“GPU 몇 대로 AI 인프라 구축”",
+          "id": "https://www.etnews.com/20261012000307",
+          "title": "[포토] AI 영상분석 접목한 자율주행 순찰로봇",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T04:28:30Z",
-          "publishedAt": "2026-10-12T04:28:30Z",
+          "dateRaw": "2026-10-12T06:48:13Z",
+          "publishedAt": "2026-10-12T06:48:13Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261008000213",
+          "url": "https://www.etnews.com/20261012000307",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -398,6 +396,18 @@
           "url": "https://biz.chosun.com/policy/policy_sub/2026/10/12/IK5XLT7OXNBK5PEJS5XNL2HTMU/"
         },
         {
+          "id": "http://inews24.com/view/2014187",
+          "title": "AMD, AI 에이전트용 서버 랙 공개…CPU·GPU 필요에 따라 조합",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T14:32:00Z",
+          "publishedAt": "2026-10-12T14:32:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2014187"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274622&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
           "title": "[주장] 반도체·AI 메가프로젝트, 노동자 안전은 뒷전인가",
           "source": "ohmynews.com",
@@ -420,24 +430,12 @@
           "publishedAt": "2026-10-12T07:02:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261012001184"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10899583",
-          "title": "조선업 제조공정에 AI 전환 확대…민관, 2030년까지 1.4조 투입",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T04:31:00Z",
-          "publishedAt": "2026-10-12T04:31:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10899583"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 10
+          "count": 9
         },
         {
           "word": "반도체",
@@ -448,7 +446,7 @@
           "count": 2
         },
         {
-          "word": "제조",
+          "word": "로봇",
           "count": 2
         },
         {
@@ -456,19 +454,11 @@
           "count": 2
         },
         {
-          "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "로봇",
-          "count": 1
-        },
-        {
           "word": "배터리",
           "count": 1
         },
         {
-          "word": "조선",
+          "word": "제조",
           "count": 1
         }
       ],
@@ -553,6 +543,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03168486645612264&mediaCodeNo=257"
         },
         {
+          "id": "https://www.canoncitydailyrecord.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/",
+          "title": "Nearly half of Coloradans with disabilities report loneliness, more than twice the statewide average",
+          "source": "canoncitydailyrecord.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T14:32:00Z",
+          "publishedAt": "2026-10-12T14:32:00Z",
+          "summary": "",
+          "url": "https://www.canoncitydailyrecord.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/"
+        },
+        {
           "id": "https://wpde.com/newsletter-daily/sc-superintendent-ellen-weaver-to-release-2026-school-report-cards-at-state-house",
           "title": "SC Superintendent Ellen Weaver to release 2026 school report cards at State House",
           "source": "wpde.com",
@@ -563,18 +565,6 @@
           "publishedAt": "2026-10-12T14:01:00Z",
           "summary": "",
           "url": "https://wpde.com/newsletter-daily/sc-superintendent-ellen-weaver-to-release-2026-school-report-cards-at-state-house"
-        },
-        {
-          "id": "https://www.journal-advocate.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/",
-          "title": "Nearly half of Coloradans with disabilities report loneliness, more than twice the statewide average",
-          "source": "journal-advocate.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T13:47:00Z",
-          "publishedAt": "2026-10-12T13:47:00Z",
-          "summary": "",
-          "url": "https://www.journal-advocate.com/2026/10/12/nearly-half-of-coloradans-with-disabilities-report-loneliness-more-than-twice-the-statewide-average/"
         },
         {
           "id": "http://www.newjerseytelegraph.com/news/279368634/remergify-accelerates-virtual-care-strategy-why-investors-and-markets-are-backing-affordabletelehealthplancom-cash-pay-healthcare-model",
@@ -625,6 +615,30 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://arynews.tv/imf-says-ai-investment-keeps-global-growth-around-3-but-brings-massive-disruption",
+          "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
+          "source": "arynews.tv",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T14:32:00Z",
+          "publishedAt": "2026-10-12T14:32:00Z",
+          "summary": "",
+          "url": "https://arynews.tv/imf-says-ai-investment-keeps-global-growth-around-3-but-brings-massive-disruption"
+        },
+        {
+          "id": "https://www.tv6tnt.com/news/7pmnews/hosein-eyes-trade-labour-market/article_7a382024-c884-401e-a1e7-9c21ca95f797.html",
+          "title": "HOSEIN EYES TRADE, LABOUR MARKET",
+          "source": "tv6tnt.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T14:32:00Z",
+          "publishedAt": "2026-10-12T14:32:00Z",
+          "summary": "",
+          "url": "https://www.tv6tnt.com/news/7pmnews/hosein-eyes-trade-labour-market/article_7a382024-c884-401e-a1e7-9c21ca95f797.html"
+        },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=05254566645612264&mediaCodeNo=257",
           "title": "EU, 러시아 군수기업·경영진 '역대급 제재'…북·러 밀착도 정조준",
@@ -720,47 +734,27 @@
           "publishedAt": "2026-10-12T10:17:00Z",
           "summary": "",
           "url": "https://www.933thedrive.com/2026/10/12/russias-new-budget-allows-more-monetary-easing-but-is-not-the-only-factor-central-bank-official-says/"
-        },
-        {
-          "id": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/sln-coffee-plans-approx-rs-2500-crore-investment-over-10-years-eyes-rs-1900-crore-revenue-next-fiscal/134888192",
-          "title": "SLN Coffee plans approx Rs 2,500 crore investment over 10 years, eyes Rs 1,900 crore revenue next fiscal",
-          "source": "retail.economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T09:46:00Z",
-          "publishedAt": "2026-10-12T09:46:00Z",
-          "summary": "",
-          "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/sln-coffee-plans-approx-rs-2500-crore-investment-over-10-years-eyes-rs-1900-crore-revenue-next-fiscal/134888192"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/productivity-gains-from-ai-could-help-offset-asias-ageing-population-problem-imf-says/articleshow/134887436.cms",
-          "title": "AI productivity gains: Productivity gains from AI could help offset Asia's ageing population problem, IMF says - The Economic Times",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T09:17:00Z",
-          "publishedAt": "2026-10-12T09:17:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/productivity-gains-from-ai-could-help-offset-asias-ageing-population-problem-imf-says/articleshow/134887436.cms"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 4
+          "count": 5
         },
         {
           "word": "투자",
           "count": 3
         },
         {
-          "word": "금리",
+          "word": "무역",
+          "count": 2
+        },
+        {
+          "word": "고용",
           "count": 1
         },
         {
-          "word": "무역",
+          "word": "금리",
           "count": 1
         }
       ],
@@ -917,8 +911,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6487,
-    "feedBytes": 1828684,
+    "fetchedItems": 6323,
+    "feedBytes": 1817478,
     "rollingWindowHours": 72
   }
 }
