@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 06:07:05",
+  "updatedAt": "2026. 10. 12. 오후 06:32:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 603,
-    "deduped": 603,
-    "eventDeduped": 603,
+    "passed": 604,
+    "deduped": 604,
+    "eventDeduped": 604,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -368,6 +368,18 @@
       "url": "https://www.etoday.co.kr/news/view/2634397"
     },
     {
+      "id": "https://www.kyivpost.com/post/86763",
+      "title": "Russia Strikes Ukrainian Power Plants After Trump Announces Energy Truce, Zelensky Says",
+      "source": "kyivpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T09:17:00Z",
+      "publishedAt": "2026-10-12T09:17:00Z",
+      "summary": "",
+      "url": "https://www.kyivpost.com/post/86763"
+    },
+    {
       "id": "https://www.actionforex.com/contributors/fundamental-analysis/657173-russian-diesel-supply-set-to-increase-amid-hopes-of-energy-ceasefire-in-ukraine/",
       "title": "Russian Diesel Supply Set to Increase Amid Hopes of \"Energy Ceasefire\" in Ukraine - ActionForex",
       "source": "actionforex.com",
@@ -390,18 +402,6 @@
       "publishedAt": "2026-10-12T08:46:00Z",
       "summary": "",
       "url": "https://www.digitimes.com/news/a20261012VL217/catl-seres-partnership-automotive-battery-production.html"
-    },
-    {
-      "id": "https://promptnewsonline.com/reforms-investments-partnership-key-to-nigerias-energy-future-shell/",
-      "title": "Reforms, Investments, Partnership key to Nigeria’s energy future – Shell",
-      "source": "promptnewsonline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T08:16:00Z",
-      "publishedAt": "2026-10-12T08:16:00Z",
-      "summary": "",
-      "url": "https://promptnewsonline.com/reforms-investments-partnership-key-to-nigerias-energy-future-shell/"
     },
     {
       "id": "https://www.pharmaceuticalonline.com/doc/industrializing-a-living-therapy-exploring-the-future-of-cell-expansion-in-cell-therapy-manufacturing-0001",
@@ -656,6 +656,18 @@
       "url": "https://auckland.scoop.co.nz/2026/10/eonfibre-launches-zone-direct-for-data-centres-in-new-zealands-advantaged-zones/"
     },
     {
+      "id": "https://www.moneycontrol.com/technology/dhan-s-parent-raise-financial-services-spends-rs-50-crore-on-gpus-says-human-oversight-will-continue-as-it-remains-critical-in-trading-article-14050110.html",
+      "title": "Dhan’s parent, Raise Financial Services, spends Rs 50 crore on GPUs, says human oversight will continue as it remains critical in trading- Moneycontrol.com",
+      "source": "moneycontrol.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T09:17:00Z",
+      "publishedAt": "2026-10-12T09:17:00Z",
+      "summary": "",
+      "url": "https://www.moneycontrol.com/technology/dhan-s-parent-raise-financial-services-spends-rs-50-crore-on-gpus-says-human-oversight-will-continue-as-it-remains-critical-in-trading-article-14050110.html"
+    },
+    {
       "id": "https://www.thestar.com.my/business/business-news/2026/10/12/kinergy-secures-rm475mil-electrical-job-for-hyperscale-data-centre-in-pd",
       "title": "Kinergy secures RM47.5mil electrical job for hyperscale data centre in PD",
       "source": "thestar.com.my",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-12T01:46:00Z",
       "summary": "",
       "url": "https://calgarysun.com/news/local-news/data-centres-security-risks-strategic-value-csis/wcm/f9b120cd-3a73-463d-8fda-06e494ac753c"
-    },
-    {
-      "id": "https://www.eveningnews24.co.uk/news/26624052.5-public-notices-aware-norfolk-week/",
-      "title": "Plans for new data centre among public notices in Norfolk",
-      "source": "eveningnews24.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T18:01:00Z",
-      "publishedAt": "2026-10-11T18:01:00Z",
-      "summary": "",
-      "url": "https://www.eveningnews24.co.uk/news/26624052.5-public-notices-aware-norfolk-week/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5652,
-    "relevantItems": 86,
-    "feedBytes": 1564337,
+    "fetchedItems": 6354,
+    "relevantItems": 124,
+    "feedBytes": 1799796,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
