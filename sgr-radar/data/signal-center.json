@@ -1,12 +1,26 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 02:28:11",
+  "updatedAt": "2026. 10. 12. 오후 02:50:44",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/business/12173584",
+          "title": "경동나비엔, 美 동·서부에 기술·교육 거점 구축…북미 냉난방 시장 공략",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T14:40:44Z",
+          "publishedAt": "2026-10-12T14:40:44Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12173584",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.etnews.com/20261012000117",
           "title": "아주대 과학기술정책대학원, 2027학년도 1학기 석·박사 신입생 모집",
@@ -20,20 +34,6 @@
           "url": "https://www.etnews.com/20261012000117",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/business/12173564",
-          "title": "“청년창업 멘토 넘어 성공 동반자로”…KT&G, ‘상상스타트업캠프’ 성과 공유",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T14:24:33Z",
-          "publishedAt": "2026-10-12T14:24:33Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12173564",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03240646645612264&mediaCodeNo=257",
@@ -139,11 +139,11 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "청년",
-          "count": 4
+          "count": 3
         },
         {
           "word": "주거",
@@ -161,30 +161,42 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12173233",
-          "title": "투자실패가 부녀 참극으로…수억원 지원받은 딸, 질책에 아버지 살해",
-          "source": "mk.co.kr",
+          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/12/IK5XLT7OXNBK5PEJS5XNL2HTMU/",
+          "title": "KDI “AI 수출·설비투자 호조에도 소비 회복 더뎌… 실질임금 0.2% 증가”",
+          "source": "biz.chosun.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T06:36:48Z",
-          "publishedAt": "2026-10-12T06:36:48Z",
+          "dateRaw": "2026-10-12T05:46:00Z",
+          "publishedAt": "2026-10-12T05:46:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12173233",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/12/IK5XLT7OXNBK5PEJS5XNL2HTMU/"
         },
         {
-          "id": "https://www.etnews.com/20261012000214",
-          "title": "리라운더, '2026년 사회적경제 도약패키지' 투자유치집중 트랙 2단계 선정",
+          "id": "https://www.etnews.com/20261012000259",
+          "title": "신현송 한은 총재, G20·IMF 총회 참석…통화정책·국제정세 논의",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T04:53:31Z",
-          "publishedAt": "2026-10-12T04:53:31Z",
+          "dateRaw": "2026-10-12T05:30:40Z",
+          "publishedAt": "2026-10-12T05:30:40Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261012000214",
+          "url": "https://www.etnews.com/20261012000259",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12173588",
+          "title": "“기준금리 10월 또 올리나” 질문에…한은 총재가 국감장에서 밝힌 답변은",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T14:45:39Z",
+          "publishedAt": "2026-10-12T14:45:39Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12173588",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -201,18 +213,6 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026101211371619011"
         },
         {
-          "id": "https://biz.chosun.com/topics/topics_social/2026/10/12/BWTMGQGYXFHMNLXUBH2BIHB3DI/",
-          "title": "“투자금 날렸는데 질책 두려워서”⋯잠든 아버지 둔기로 살해한 40대 딸",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T01:32:00Z",
-          "publishedAt": "2026-10-12T01:32:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/12/BWTMGQGYXFHMNLXUBH2BIHB3DI/"
-        },
-        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257",
           "title": "[MUST KNOW5]스페이스X↑·애플↓·모더나 '폭등'...투자자가 알아야 할 5가지 뉴스",
           "source": "edaily.co.kr",
@@ -223,6 +223,18 @@
           "publishedAt": "2026-10-11T22:31:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10899721",
+          "title": "재정·통화 엇박자 지적에 신현송 “단기적 부담…잠재성장률 오르면 해소”",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T05:46:00Z",
+          "publishedAt": "2026-10-12T05:46:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10899721"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html",
@@ -263,18 +275,6 @@
           "url": "https://www.newspim.com/news/view/20261012000642"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10899413",
-          "title": "환율 전망은 ‘신의 영역’…저점 맞히기보다 ‘왜 사는가’가 먼저",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T02:16:00Z",
-          "publishedAt": "2026-10-12T02:16:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10899413"
-        },
-        {
           "id": "https://www.etoday.co.kr/news/view/2634404",
           "title": "외국인 이탈 ·저가매수에 상승⋯\"1340원 중반까지 반등\" [환율전망]",
           "source": "etoday.co.kr",
@@ -290,10 +290,10 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 3
         },
         {
-          "word": "환율",
+          "word": "수출",
           "count": 2
         },
         {
@@ -301,7 +301,15 @@
           "count": 1
         },
         {
-          "word": "수출",
+          "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "소비",
+          "count": 1
+        },
+        {
+          "word": "환율",
           "count": 1
         }
       ],
@@ -638,16 +646,40 @@
           "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
         },
         {
-          "id": "https://www.933thedrive.com/2026/10/11/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits/",
+          "id": "https://www.bangkokpost.com/business/general/3335668/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits",
           "title": "IMF says AI investment keeps global growth around 3%, with major Asia benefits",
-          "source": "933thedrive.com",
+          "source": "bangkokpost.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T05:17:00Z",
-          "publishedAt": "2026-10-12T05:17:00Z",
+          "dateRaw": "2026-10-12T05:46:00Z",
+          "publishedAt": "2026-10-12T05:46:00Z",
           "summary": "",
-          "url": "https://www.933thedrive.com/2026/10/11/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits/"
+          "url": "https://www.bangkokpost.com/business/general/3335668/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits"
+        },
+        {
+          "id": "https://www.chiangraitimes.com/china/chinas-economic-bubble/",
+          "title": "China's Economic Bubble Has Bursts Amid Capital Flight and Tariff Wars",
+          "source": "chiangraitimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T05:46:00Z",
+          "publishedAt": "2026-10-12T05:46:00Z",
+          "summary": "",
+          "url": "https://www.chiangraitimes.com/china/chinas-economic-bubble/"
+        },
+        {
+          "id": "https://biz.chosun.com/international/international_general/2026/10/12/BTHKUMOFJRA33D6XOCRIKLYXPQ/",
+          "title": "유럽 수출 제동 걸린 中하이브리드차… 현지화 시험대",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T05:46:00Z",
+          "publishedAt": "2026-10-12T05:46:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/12/BTHKUMOFJRA33D6XOCRIKLYXPQ/"
         },
         {
           "id": "https://www.wpbf.com/article/port-st-lucie-mayoral-debate-2026-wpbf/73929045",
@@ -720,48 +752,32 @@
           "publishedAt": "2026-10-12T01:46:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/wealth/invest/beyond-cagr-how-irr-reveals-the-real-impact-of-investment-timing/articleshow/134847404.cms",
-          "title": "Beyond CAGR: How IRR reveals the real impact of investment timing - The Economic Times",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T01:46:00Z",
-          "publishedAt": "2026-10-12T01:46:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/beyond-cagr-how-irr-reveals-the-real-impact-of-investment-timing/articleshow/134847404.cms"
-        },
-        {
-          "id": "https://sana.sy/en/economic/2349851/",
-          "title": "Central Bank of Syria executes first U.S. bank LC in 14 years for oil imports",
-          "source": "sana.sy",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T23:02:00Z",
-          "publishedAt": "2026-10-11T23:02:00Z",
-          "summary": "",
-          "url": "https://sana.sy/en/economic/2349851/"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 5
         },
         {
           "word": "고용",
           "count": 2
         },
         {
-          "word": "금리",
+          "word": "성장",
           "count": 2
         },
         {
-          "word": "성장",
-          "count": 2
+          "word": "관세",
+          "count": 1
+        },
+        {
+          "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "수출",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -921,8 +937,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3911,
-    "feedBytes": 1073202,
+    "fetchedItems": 3674,
+    "feedBytes": 1005986,
     "rollingWindowHours": 72
   }
 }
