@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 07:54:53",
+  "updatedAt": "2026. 10. 13. 오전 08:13:05",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,20 @@
           "url": "https://www.mk.co.kr/news/business/12173584",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etnews.com/20261013000007",
+          "title": "성남시, 시민 150명 탄소중립 교육…19일 시청서 실천방법 안내",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T22:47:18Z",
+          "publishedAt": "2026-10-12T22:47:18Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261013000007",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01994246645612592&mediaCodeNo=257",
@@ -70,6 +84,20 @@
           "url": "https://www.segye.com:443/newsView/20261012523537"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224466",
+          "title": "LH,지자체도 예산 없어…노후 방치되는 사회복지관",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T22:00:00Z",
+          "publishedAt": "2026-10-12T22:00:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224466",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://pann.nate.com/talk/375666369",
           "title": "2026년 가을. 宮(泮宮.學宮).太學.成均館자격 성균관대 유생이 평가하는 세계적인 대학들.세계사 교과서, 한국사 교과서, 백과사전, 참고서, 학술서등에 기반함. | 네이트 판",
           "source": "pann.nate.com",
@@ -104,30 +132,6 @@
           "publishedAt": "2026-10-12T18:02:00Z",
           "summary": "",
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021846&code=61111111&stg=wm_rank"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261012001548",
-          "title": "美 당국, 소말리아 출신 오마르 의원 자택 압색…이민 서류 위조 의혹 수사",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T17:31:00Z",
-          "publishedAt": "2026-10-12T17:31:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261012001548"
-        },
-        {
-          "id": "https://www.busan.com/view/busan/view.php?code=2026101222092954811",
-          "title": "한난, '경영진 대상 내부회계 관리교육'…“예방 중심 내부통제 강화”",
-          "source": "busan.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T17:02:00Z",
-          "publishedAt": "2026-10-12T17:02:00Z",
-          "summary": "",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026101222092954811"
         }
       ],
       "keywords": [
@@ -140,16 +144,12 @@
           "count": 3
         },
         {
-          "word": "청년",
+          "word": "복지",
           "count": 2
         },
         {
-          "word": "복지",
-          "count": 1
-        },
-        {
-          "word": "이민",
-          "count": 1
+          "word": "청년",
+          "count": 2
         },
         {
           "word": "정신건강",
@@ -473,6 +473,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.aol.co.uk/articles/most-young-people-london-mental-223129000.html",
+          "title": "Most young people in London with mental health disorder ‘don’t receive a diagnosis’ - study - AOL",
+          "source": "aol.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T23:01:00Z",
+          "publishedAt": "2026-10-12T23:01:00Z",
+          "summary": "",
+          "url": "https://www.aol.co.uk/articles/most-young-people-london-mental-223129000.html"
+        },
+        {
           "id": "https://www.malverngazette.co.uk/news/26628947.nhs-bosses-say-staff-need-get-vaccinated/",
           "title": "NHS bosses say more healthcare workers need to get vaccinated",
           "source": "malverngazette.co.uk",
@@ -533,6 +545,18 @@
           "url": "https://www.buzzfeed.com/scarymouse/things-that-get-harder-for-women"
         },
         {
+          "id": "https://www.twincities.com/2026/10/12/st-paul-rent-control-data-center-policy-org-survey/",
+          "title": "Repeal St. Paul rent control? Allow a downtown data center? Policy org is on it",
+          "source": "twincities.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T23:01:00Z",
+          "publishedAt": "2026-10-12T23:01:00Z",
+          "summary": "",
+          "url": "https://www.twincities.com/2026/10/12/st-paul-rent-control-data-center-policy-org-survey/"
+        },
+        {
           "id": "https://itbrief.co.nz/story/young-people-say-ai-is-eroding-trust-online-report-finds",
           "title": "Young people say AI is eroding trust online, report finds",
           "source": "itbrief.co.nz",
@@ -567,47 +591,27 @@
           "publishedAt": "2026-10-12T20:46:00Z",
           "summary": "",
           "url": "https://www.azernews.az/nation/265442.html"
-        },
-        {
-          "id": "https://www.mykxlg.com/news/local/watertown-school-board-set-to-review-key-policy-changes-latc-equipment-leases-and-strategic-planning/article_5bf3aa5f-5a1d-42e8-aa00-83c016ce1035.html",
-          "title": "Watertown School Board Set to Review Key Policy Changes, LATC Equipment Leases, and Strategic Planning",
-          "source": "mykxlg.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T20:17:00Z",
-          "publishedAt": "2026-10-12T20:17:00Z",
-          "summary": "",
-          "url": "https://www.mykxlg.com/news/local/watertown-school-board-set-to-review-key-policy-changes-latc-equipment-leases-and-strategic-planning/article_5bf3aa5f-5a1d-42e8-aa00-83c016ce1035.html"
-        },
-        {
-          "id": "https://b100quadcities.com/university-of-chicago-sexual-assault-frat/",
-          "title": "Sexual Assault Reported During Frat Party At University Of Chicago",
-          "source": "b100quadcities.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T19:47:00Z",
-          "publishedAt": "2026-10-12T19:47:00Z",
-          "summary": "",
-          "url": "https://b100quadcities.com/university-of-chicago-sexual-assault-frat/"
         }
       ],
       "keywords": [
         {
-          "word": "교육",
-          "count": 4
-        },
-        {
           "word": "청년",
-          "count": 4
+          "count": 5
         },
         {
           "word": "정신건강",
+          "count": 3
+        },
+        {
+          "word": "교육",
           "count": 2
         },
         {
           "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "주거비",
           "count": 1
         }
       ],
@@ -714,18 +718,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=05254566645612264&mediaCodeNo=257"
         },
         {
-          "id": "https://bworldonline.com/top-stories/2026/10/12/786390/wider-ai-use-could-lift-philippine-productivity-growth-world-bank/",
-          "title": "Wider AI use could lift Philippine productivity, growth — World Bank - BusinessWorld Online",
-          "source": "bworldonline.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T13:47:00Z",
-          "publishedAt": "2026-10-12T13:47:00Z",
-          "summary": "",
-          "url": "https://bworldonline.com/top-stories/2026/10/12/786390/wider-ai-use-could-lift-philippine-productivity-growth-world-bank/"
-        },
-        {
           "id": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/nasdaq-falls-ahead-earnings-economic-data-while-oil-rallies",
           "title": "Nasdaq falls ahead of earnings, economic data while oil rallies",
           "source": "businesstimes.com.sg",
@@ -736,6 +728,18 @@
           "publishedAt": "2026-10-12T22:46:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/nasdaq-falls-ahead-earnings-economic-data-while-oil-rallies"
+        },
+        {
+          "id": "https://www.ft.lk/business/Sri-Lanka-must-shift-from-consumption-to-productivity-for-durable-growth-IPS/34-798566",
+          "title": "Sri Lanka must shift from consumption to productivity for durable growth: IPS | Daily FT",
+          "source": "ft.lk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T21:32:00Z",
+          "publishedAt": "2026-10-12T21:32:00Z",
+          "summary": "",
+          "url": "https://www.ft.lk/business/Sri-Lanka-must-shift-from-consumption-to-productivity-for-durable-growth-IPS/34-798566"
         }
       ],
       "keywords": [
@@ -805,6 +809,18 @@
           "publishedAt": "2026-10-12T15:02:00Z",
           "summary": "",
           "url": "https://www.investmentwatchblog.com/single-zuckerberg-data-center-just-one-to-use-4x-times-the-electricity-of-new-orleans/"
+        },
+        {
+          "id": "https://www.livescience.com/technology/quantum/new-quantum-chip-taps-into-weird-quasiparticles-to-get-qubits-to-communicate-over-long-distances",
+          "title": "New quantum chip taps into weird quasiparticles to get qubits to communicate over long distances",
+          "source": "livescience.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T23:01:00Z",
+          "publishedAt": "2026-10-12T23:01:00Z",
+          "summary": "",
+          "url": "https://www.livescience.com/technology/quantum/new-quantum-chip-taps-into-weird-quasiparticles-to-get-qubits-to-communicate-over-long-distances"
         },
         {
           "id": "http://www.zerohedge.com/energy/biggest-threat-todays-data-centers-battery-room",
@@ -877,36 +893,24 @@
           "publishedAt": "2026-10-12T18:01:00Z",
           "summary": "",
           "url": "https://economictimes.indiatimes.com/news/international/world-news/us-moves-to-stop-ai-data-centres-from-pushing-up-household-electricity-bills-heres-what-could-change-for-americans/articleshow/134899566.cms"
-        },
-        {
-          "id": "https://www.businessinsider.com/ai-data-centers-a-problem-for-trump-2026-10",
-          "title": "In Ohio, anger over energy-hungry AI data centers has become a problem for Trump: 'It's our land'",
-          "source": "businessinsider.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:32:00Z",
-          "publishedAt": "2026-10-12T16:32:00Z",
-          "summary": "",
-          "url": "https://www.businessinsider.com/ai-data-centers-a-problem-for-trump-2026-10"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 3
         },
         {
           "word": "데이터센터",
-          "count": 4
-        },
-        {
-          "word": "제조",
           "count": 3
         },
         {
           "word": "반도체",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "제조",
+          "count": 3
         },
         {
           "word": "전력",
@@ -918,6 +922,10 @@
         },
         {
           "word": "배터리",
+          "count": 1
+        },
+        {
+          "word": "양자",
           "count": 1
         },
         {
@@ -933,8 +941,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3593,
-    "feedBytes": 958978,
+    "fetchedItems": 3729,
+    "feedBytes": 1028976,
     "rollingWindowHours": 72
   }
 }

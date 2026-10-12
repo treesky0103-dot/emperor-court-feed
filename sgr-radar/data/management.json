@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 07:54:46",
+  "updatedAt": "2026. 10. 13. 오전 08:12:57",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 57,
-    "deduped": 57,
-    "eventDeduped": 57,
+    "passed": 58,
+    "deduped": 58,
+    "eventDeduped": 58,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -296,18 +296,6 @@
       "url": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses"
     },
     {
-      "id": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/",
-      "title": "A modernized health plan: Supporting cost management and the employee experience.",
-      "source": "wbjournal.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T13:02:00Z",
-      "publishedAt": "2026-10-12T13:02:00Z",
-      "summary": "",
-      "url": "https://wbjournal.com/article/a-modernized-health-plan-supporting-cost-management-and-the-employee-experience/"
-    },
-    {
       "id": "https://thearabianpost.com/thyssenkrupp-establishes-pune-centre-for-automotive-software-development/",
       "title": "Thyssenkrupp establishes Pune centre for automotive software development — Arabian Post",
       "source": "thearabianpost.com",
@@ -330,6 +318,18 @@
       "publishedAt": "2026-10-12T13:46:00Z",
       "summary": "",
       "url": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/"
+    },
+    {
+      "id": "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620",
+      "title": "Epic Games Forces Shocked Developers Into 'AI-First' Mode For Delayed Shooter Featuring Marvel And Star Wars Characters",
+      "source": "kotaku.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T23:01:00Z",
+      "publishedAt": "2026-10-12T23:01:00Z",
+      "summary": "",
+      "url": "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620"
     },
     {
       "id": "https://dailypioneer.com/news/the-karmayogi-in-the-age-of-ai-why-ethics-must-be-the-operating-system-of-governance",
@@ -560,6 +560,18 @@
       "url": "https://biz.heraldcorp.com/article/10900312"
     },
     {
+      "id": "https://local12.com/news/local/kroger-fire-lay-off-thousands-corporate-employees-cincinnati-office-jobs-unemployment",
+      "title": "Kroger to lay off thousands of corporate employees",
+      "source": "local12.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T23:01:00Z",
+      "publishedAt": "2026-10-12T23:01:00Z",
+      "summary": "",
+      "url": "https://local12.com/news/local/kroger-fire-lay-off-thousands-corporate-employees-cincinnati-office-jobs-unemployment"
+    },
+    {
       "id": "https://natlawreview.com/article/california-amends-calwarn-act-require-ai-and-automation-disclosures-layoff-notices",
       "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices",
       "source": "natlawreview.com",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-12T18:02:00Z",
       "summary": "",
       "url": "https://www.breakingnews.ie/ireland/workers-as-well-as-employers-need-to-feel-ai-benefit-union-leader-tells-conference-1953421.html"
-    },
-    {
-      "id": "https://www.cityam.com/slow-moving-tsunami-imf-warns-ai-could-hit-60-per-cent-of-jobs-in-advanced-economies/",
-      "title": "'Slow-moving tsunami' - IMF warns AI could hit 60 per cent of jobs",
-      "source": "cityam.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T16:47:00Z",
-      "publishedAt": "2026-10-12T16:47:00Z",
-      "summary": "",
-      "url": "https://www.cityam.com/slow-moving-tsunami-imf-warns-ai-could-hit-60-per-cent-of-jobs-in-advanced-economies/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3593,
-    "relevantItems": 81,
-    "feedBytes": 958978,
+    "fetchedItems": 3729,
+    "relevantItems": 72,
+    "feedBytes": 1028976,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
