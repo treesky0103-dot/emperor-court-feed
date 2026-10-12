@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 10:59:08",
+  "updatedAt": "2026. 10. 12. 오전 11:20:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 121,
-    "deduped": 121,
-    "eventDeduped": 121,
+    "passed": 120,
+    "deduped": 120,
+    "eventDeduped": 120,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -500,16 +500,16 @@
       "url": "https://www.moneycontrol.com/news/business/economy/japan-becomes-india-s-top-fdi-source-as-investment-hits-5-71-billion-in-q1-fy27-14049463.html"
     },
     {
-      "id": "https://www.orissapost.com/india-switzerland-ink-5-pacts-agree-to-expand-trade-and-investment-ties-following-modi-parmelin-talks/",
-      "title": "India, Switzerland ink 5 pacts; agree to expand trade and investment ties following Modi-Parmelin talks - OrissaPOST",
-      "source": "orissapost.com",
+      "id": "https://vietnamnews.vn/economy/1801762/son-la-steps-up-trade-links-to-take-arabica-coffee-to-global-markets.html",
+      "title": "Sơn La steps up trade links to take Arabica coffee to global markets",
+      "source": "vietnamnews.vn",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T07:16:00Z",
-      "publishedAt": "2026-10-11T07:16:00Z",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:16:00Z",
+      "publishedAt": "2026-10-12T02:16:00Z",
       "summary": "",
-      "url": "https://www.orissapost.com/india-switzerland-ink-5-pacts-agree-to-expand-trade-and-investment-ties-following-modi-parmelin-talks/"
+      "url": "https://vietnamnews.vn/economy/1801762/son-la-steps-up-trade-links-to-take-arabica-coffee-to-global-markets.html"
     },
     {
       "id": "https://www.freemalaysiatoday.com/category/opinion/2026/10/12/why-the-us-china-trade-truce-matters",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2222,
-    "relevantItems": 61,
-    "feedBytes": 576915,
+    "fetchedItems": 3252,
+    "relevantItems": 75,
+    "feedBytes": 841042,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
