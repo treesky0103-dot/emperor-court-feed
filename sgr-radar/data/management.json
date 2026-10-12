@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 12:30:41",
+  "updatedAt": "2026. 10. 12. 오후 12:54:51",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 55,
-    "deduped": 55,
-    "eventDeduped": 55,
+    "passed": 56,
+    "deduped": 56,
+    "eventDeduped": 56,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261012000642",
-      "title": "[캐피탈마켓대상] 금감원장상에 한국투자증권…IMA 성과로 '베스트 WM상'",
-      "source": "newspim.com",
+      "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683128",
+      "title": "금감원, PEF 운용사 내부통제 실태 점검 실시",
+      "source": "news.kbs.co.kr",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T02:31:00Z",
-      "publishedAt": "2026-10-12T02:31:00Z",
+      "dateRaw": "2026-10-12T03:46:00Z",
+      "publishedAt": "2026-10-12T03:46:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20261012000642"
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683128"
     }
   ],
   "trendItems": [
@@ -248,6 +248,18 @@
       "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
     },
     {
+      "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683128",
+      "title": "금감원, PEF 운용사 내부통제 실태 점검 실시",
+      "source": "news.kbs.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T03:46:00Z",
+      "publishedAt": "2026-10-12T03:46:00Z",
+      "summary": "",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683128"
+    },
+    {
       "id": "https://www.newspim.com/news/view/20261012000642",
       "title": "[캐피탈마켓대상] 금감원장상에 한국투자증권…IMA 성과로 '베스트 WM상'",
       "source": "newspim.com",
@@ -354,18 +366,6 @@
       "publishedAt": "2026-10-12T02:31:00Z",
       "summary": "",
       "url": "https://business.scoop.co.nz/2026/10/12/national-hides-more-job-cuts-until-after-the-election/"
-    },
-    {
-      "id": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902",
-      "title": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' minister Joly warns Cleveland-Cliffs | CBC News",
-      "source": "cbc.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T00:46:00Z",
-      "publishedAt": "2026-10-12T00:46:00Z",
-      "summary": "",
-      "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902"
     },
     {
       "id": "https://www.theyeshivaworld.com/news/general/2608221/volkswagen-seeks-european-support-automaker-warns-of-growing-chinese-competition-amid-massive-restructuring.html",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2399,
-    "relevantItems": 41,
-    "feedBytes": 630264,
+    "fetchedItems": 3025,
+    "relevantItems": 45,
+    "feedBytes": 791335,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

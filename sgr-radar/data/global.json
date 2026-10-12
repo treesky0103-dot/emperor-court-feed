@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 12:30:42",
+  "updatedAt": "2026. 10. 12. 오후 12:54:52",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 127,
-    "deduped": 127,
-    "eventDeduped": 127,
+    "passed": 122,
+    "deduped": 122,
+    "eventDeduped": 122,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,16 +416,16 @@
       "url": "http://www.ihalla.com/article.php?aid=1791717780791429122"
     },
     {
-      "id": "https://www.busan.com/view/busan/view.php?code=2026101117550768014",
-      "title": "노벨 평화 필라이 ICC 제재 美 규탄",
-      "source": "busan.com",
-      "language": "Korean",
+      "id": "https://varsitarian.net/central-student-council-turns-to-pope-over-sanctions-vs-activists/",
+      "title": "Central student council turns to Pope over sanctions vs. activists",
+      "source": "varsitarian.net",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T09:01:00Z",
-      "publishedAt": "2026-10-11T09:01:00Z",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T03:46:00Z",
+      "publishedAt": "2026-10-12T03:46:00Z",
       "summary": "",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026101117550768014"
+      "url": "https://varsitarian.net/central-student-council-turns-to-pope-over-sanctions-vs-activists/"
     },
     {
       "id": "https://pina.com.fj/2026/10/12/tuna-supply-chains-exploited-for-cocaine-smuggling-ffa-report-warns/",
@@ -680,18 +680,6 @@
       "url": "https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html"
     },
     {
-      "id": "http://www.middleeaststar.com/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal",
-      "title": "India expanding trade footprint to strengthen global ties and empower MSMEs: Piyush Goyal",
-      "source": "middleeaststar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T09:01:00Z",
-      "publishedAt": "2026-10-11T09:01:00Z",
-      "summary": "",
-      "url": "http://www.middleeaststar.com/news/279365159/india-expanding-trade-footprint-to-strengthen-global-ties-and-empower-msmes-piyush-goyal"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10899530",
       "title": "러 경유로 유가 잡겠다는 트럼프…물량도 공급 여력도 의문",
       "source": "biz.heraldcorp.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-11T10:01:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261006000091"
+    },
+    {
+      "id": "https://www.foreignpolicyjournal.com/2026/10/11/trumps-russia-fuel-deal-raises-urgent-questions-about-the-future-of-u-s-sanctions/",
+      "title": "Trump's Russia Fuel Deal Raises Urgent Questions About The Future Of U.S. Sanctions",
+      "source": "foreignpolicyjournal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T03:01:00Z",
+      "publishedAt": "2026-10-12T03:01:00Z",
+      "summary": "",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/11/trumps-russia-fuel-deal-raises-urgent-questions-about-the-future-of-u-s-sanctions/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2399,
-    "relevantItems": 41,
-    "feedBytes": 630264,
+    "fetchedItems": 3025,
+    "relevantItems": 45,
+    "feedBytes": 791335,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
