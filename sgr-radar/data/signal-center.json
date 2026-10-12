@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 11:20:57",
+  "updatedAt": "2026. 10. 12. 오전 11:41:56",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,16 +22,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12173399",
-          "title": "사이버한국외국어대학교-푸른투어, 교육협력 및 산업체 위탁교육 협약 체결",
+          "id": "https://www.mk.co.kr/news/economy/12173451",
+          "title": "[단독] 우울증 빠진 청년...정신질병 산재 10건 중 4건이 2030세대",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T10:50:41Z",
-          "publishedAt": "2026-10-12T10:50:41Z",
+          "dateRaw": "2026-10-12T11:37:10Z",
+          "publishedAt": "2026-10-12T11:37:10Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12173399",
+          "url": "https://www.mk.co.kr/news/economy/12173451",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -136,10 +136,6 @@
       ],
       "keywords": [
         {
-          "word": "교육",
-          "count": 5
-        },
-        {
           "word": "주거",
           "count": 3
         },
@@ -148,15 +144,19 @@
           "count": 2
         },
         {
+          "word": "청년",
+          "count": 2
+        },
+        {
+          "word": "교육",
+          "count": 1
+        },
+        {
           "word": "돌봄",
           "count": 1
         },
         {
           "word": "정신건강",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -231,6 +231,18 @@
           "url": "https://www.hani.co.kr/arti/economy/finance/1281835.html"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261012000642",
+          "title": "[캐피탈마켓대상] 금감원장상에 한국투자증권…IMA 성과로 '베스트 WM상'",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T02:31:00Z",
+          "publishedAt": "2026-10-12T02:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261012000642"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10899413",
           "title": "환율 전망은 ‘신의 영역’…저점 맞히기보다 ‘왜 사는가’가 먼저",
           "source": "biz.heraldcorp.com",
@@ -279,18 +291,6 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224251",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.fnnews.com/news/202610120614450213",
-          "title": "\"너때문에 주식투자 실패\"...질책한 아버지, 잠든사이 살해한 40대 딸",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T23:47:00Z",
-          "publishedAt": "2026-10-11T23:47:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610120614450213"
         }
       ],
       "keywords": [
@@ -330,16 +330,16 @@
           "url": "https://biz.chosun.com/it-science/ict/2026/10/12/UXQE4IFOEVFLDJ42HFIVX5IFIU/"
         },
         {
-          "id": "https://www.etnews.com/20261012000097",
-          "title": "플라잎, H.I.T Automotive와 제조 AI 로봇·산업자동화 사업 확대 MOU 체결",
+          "id": "https://www.etnews.com/20261012000152",
+          "title": "네오에이아이클라우드, 포항 AI 데이터센터 6,000억원 규모 자금조달 완료",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T01:20:53Z",
-          "publishedAt": "2026-10-12T01:20:53Z",
+          "dateRaw": "2026-10-12T02:15:26Z",
+          "publishedAt": "2026-10-12T02:15:26Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261012000097",
+          "url": "https://www.etnews.com/20261012000152",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -450,20 +450,20 @@
           "count": 8
         },
         {
-          "word": "제조",
+          "word": "데이터센터",
           "count": 3
         },
         {
-          "word": "데이터센터",
+          "word": "클라우드",
+          "count": 3
+        },
+        {
+          "word": "제조",
           "count": 2
         },
         {
           "word": "로봇",
-          "count": 2
-        },
-        {
-          "word": "클라우드",
-          "count": 2
+          "count": 1
         },
         {
           "word": "바이오",
@@ -531,18 +531,6 @@
           "url": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-mental-health-overdiagnosis-is-not-the-problem-facing-young-people"
         },
         {
-          "id": "https://tulsaworld.com/news/local/business/article_1062b5ad-fdc7-4be4-9b5f-6ce90797e5c7.html",
-          "title": "City of Tulsa replacing its aging animal welfare facility | Commercial building permits",
-          "source": "tulsaworld.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T09:46:00Z",
-          "publishedAt": "2026-10-11T09:46:00Z",
-          "summary": "",
-          "url": "https://tulsaworld.com/news/local/business/article_1062b5ad-fdc7-4be4-9b5f-6ce90797e5c7.html"
-        },
-        {
           "id": "https://www.timeshighereducation.com/news/will-us-shift-away-university-based-research-catch",
           "title": "Will US’ shift away from university-based research catch on?",
           "source": "timeshighereducation.com",
@@ -601,6 +589,18 @@
           "publishedAt": "2026-10-11T21:46:00Z",
           "summary": "",
           "url": "https://wgme.com/news/local/office-of-new-americans-report-maine-could-lose-33-b-due-to-immigration-enforcement"
+        },
+        {
+          "id": "https://www.ghanamma.com/2026/10/11/donald-trumps-new-press-secretary-katie-zacharia-tried-to-scrub-her-social-media-history-of-controversial-posts-report/",
+          "title": "Donald Trump's New Press Secretary Katie Zacharia Tried to Scrub Her Social Media History of Controversial Posts: Report – Ghanamma.com",
+          "source": "ghanamma.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-11",
+          "dateRaw": "2026-10-11T19:01:00Z",
+          "publishedAt": "2026-10-11T19:01:00Z",
+          "summary": "",
+          "url": "https://www.ghanamma.com/2026/10/11/donald-trumps-new-press-secretary-katie-zacharia-tried-to-scrub-her-social-media-history-of-controversial-posts-report/"
         }
       ],
       "keywords": [
@@ -618,7 +618,7 @@
         },
         {
           "word": "고령화",
-          "count": 2
+          "count": 1
         },
         {
           "word": "이민",
@@ -923,8 +923,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3252,
-    "feedBytes": 841042,
+    "fetchedItems": 3025,
+    "feedBytes": 820628,
     "rollingWindowHours": 72
   }
 }

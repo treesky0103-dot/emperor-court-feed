@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오전 11:20:49",
+  "updatedAt": "2026. 10. 12. 오전 11:41:52",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 53,
-    "deduped": 53,
-    "eventDeduped": 53,
+    "passed": 54,
+    "deduped": 54,
+    "eventDeduped": 54,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -18,18 +18,6 @@
   },
   "items": [
     {
-      "id": "https://www.etnews.com/20261008000223",
-      "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T07:31:00Z",
-      "publishedAt": "2026-10-11T07:31:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261008000223"
-    },
-    {
       "id": "http://www.indiagazette.com/news/279365260/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey",
       "title": "Operating models emerge as primary competitive edge in AI era: McKinsey",
       "source": "indiagazette.com",
@@ -136,22 +124,22 @@
       "publishedAt": "2026-10-11T15:01:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261012000642",
+      "title": "[캐피탈마켓대상] 금감원장상에 한국투자증권…IMA 성과로 '베스트 WM상'",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:31:00Z",
+      "publishedAt": "2026-10-12T02:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261012000642"
     }
   ],
   "trendItems": [
     {
-      "id": "https://www.etnews.com/20261008000223",
-      "title": "자산운용사, 내부 AI 활용 '무한 확장'…전문인력 채용·업무 자동화",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T07:31:00Z",
-      "publishedAt": "2026-10-11T07:31:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261008000223"
-    },
-    {
       "id": "http://www.indiagazette.com/news/279365260/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey",
       "title": "Operating models emerge as primary competitive edge in AI era: McKinsey",
       "source": "indiagazette.com",
@@ -258,6 +246,18 @@
       "publishedAt": "2026-10-11T15:01:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261012000642",
+      "title": "[캐피탈마켓대상] 금감원장상에 한국투자증권…IMA 성과로 '베스트 WM상'",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:31:00Z",
+      "publishedAt": "2026-10-12T02:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261012000642"
     },
     {
       "id": "https://www.insight.co.kr/news/577306",
@@ -332,16 +332,16 @@
       "url": "https://www.etnews.com/20261011000066"
     },
     {
-      "id": "https://www.scoop.co.nz/stories/PA2610/S00095/national-hides-more-job-cuts-until-after-the-election.htm",
-      "title": "National Hides More Job Cuts Until After The Election",
-      "source": "scoop.co.nz",
+      "id": "https://business.scoop.co.nz/2026/10/12/national-hides-more-job-cuts-until-after-the-election/",
+      "title": "Business.Scoop » National Hides More Job Cuts Until After The Election",
+      "source": "business.scoop.co.nz",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T00:46:00Z",
-      "publishedAt": "2026-10-12T00:46:00Z",
+      "dateRaw": "2026-10-12T02:31:00Z",
+      "publishedAt": "2026-10-12T02:31:00Z",
       "summary": "",
-      "url": "https://www.scoop.co.nz/stories/PA2610/S00095/national-hides-more-job-cuts-until-after-the-election.htm"
+      "url": "https://business.scoop.co.nz/2026/10/12/national-hides-more-job-cuts-until-after-the-election/"
     },
     {
       "id": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902",
@@ -390,18 +390,6 @@
       "publishedAt": "2026-10-11T17:47:00Z",
       "summary": "",
       "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
-    },
-    {
-      "id": "https://local12.com/news/entertainment/report-netflix-preparing-for-major-round-of-layoffs",
-      "title": "Report: Netflix preparing for major round of layoffs",
-      "source": "local12.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T17:47:00Z",
-      "publishedAt": "2026-10-11T17:47:00Z",
-      "summary": "",
-      "url": "https://local12.com/news/entertainment/report-netflix-preparing-for-major-round-of-layoffs"
     },
     {
       "id": "https://www.digbycourier.ca/eu-to-reassess-microsofts-activision-blizzard-deal-after-restructuring/",
@@ -608,6 +596,18 @@
       "url": "https://www.moneycontrol.com/news/trends/that-s-what-productivity-jeff-bezos-predicts-ai-could-bring-3-day-workweeks-and-single-income-families-14049448.html"
     },
     {
+      "id": "https://www.newspim.com/news/view/20261012000422",
+      "title": "EU, 中 하이브리드車 수입 쿼터제 전격 도입…연 35만대 제한",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T02:31:00Z",
+      "publishedAt": "2026-10-12T02:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261012000422"
+    },
+    {
       "id": "https://biz.heraldcorp.com/article/10899353",
       "title": "[사설] EU, 中하이브리드차 수입 절반 감축…韓은 무방비",
       "source": "biz.heraldcorp.com",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3252,
-    "relevantItems": 75,
-    "feedBytes": 841042,
+    "fetchedItems": 3025,
+    "relevantItems": 80,
+    "feedBytes": 820628,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
