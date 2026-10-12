@@ -2,21 +2,33 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 03:37:07",
+  "updatedAt": "2026. 10. 12. 오후 04:08:32",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 138,
-    "deduped": 138,
-    "eventDeduped": 138,
+    "passed": 136,
+    "deduped": 136,
+    "eventDeduped": 136,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.etnews.com/20261012000181",
+      "title": "[2026 국감]신현송 한은 총재 “금리 추가 인상 검토”…ETF 위험 경고 미흡 사과",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T07:01:00Z",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261012000181"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02620726645612264&mediaCodeNo=257",
       "title": "“금리 두 번 올렸는데 또?”…한은 총재, 추가 인상 가능성 시사",
@@ -28,18 +40,6 @@
       "publishedAt": "2026-10-12T06:31:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02620726645612264&mediaCodeNo=257"
-    },
-    {
-      "id": "https://biz.chosun.com/policy/policy_sub/2026/10/12/TGP4IDDZ6FAUBD6HPNQGRSSU7M/",
-      "title": "2회 연속 금리 인상한 한은… 신현송 “저신용자 부실 가능성”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T05:46:00Z",
-      "publishedAt": "2026-10-12T05:46:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/10/12/TGP4IDDZ6FAUBD6HPNQGRSSU7M/"
     },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026101211371619011",
@@ -90,6 +90,18 @@
       "url": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/"
     },
     {
+      "id": "https://english.news.cn/20261012/12ab651d6cba489498ca1217a15c4bdb/c.html",
+      "title": "Cambodia's trade with ASEAN, EU posts double-digit growth during Jan.-Sept.",
+      "source": "english.news.cn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T07:02:00Z",
+      "publishedAt": "2026-10-12T07:02:00Z",
+      "summary": "",
+      "url": "https://english.news.cn/20261012/12ab651d6cba489498ca1217a15c4bdb/c.html"
+    },
+    {
       "id": "https://www.orissapost.com/trump-to-attend-asean-summit-in-manila-then-apec-summit-in-china/",
       "title": "Trump to attend ASEAN summit in Manila, then APEC summit in China - OrissaPOST",
       "source": "orissapost.com",
@@ -114,18 +126,6 @@
       "url": "https://abcnews.com/US/wireStory/eu-china-strike-interim-trade-deal-cut-chinese-137133733"
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept",
-      "title": "Cambodia's trade with ASEAN, EU posts double-digit growth during Jan.-Sept.",
-      "source": "bignewsnetwork.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T06:31:00Z",
-      "publishedAt": "2026-10-12T06:31:00Z",
-      "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept"
-    },
-    {
       "id": "https://www.digbycourier.ca/oil-prices-rise-markets-narrow-odds-for-fed-hike/",
       "title": "Oil prices rise, markets narrow odds for Fed hike",
       "source": "digbycourier.ca",
@@ -139,6 +139,18 @@
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.etnews.com/20261012000181",
+      "title": "[2026 국감]신현송 한은 총재 “금리 추가 인상 검토”…ETF 위험 경고 미흡 사과",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T07:01:00Z",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261012000181"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02620726645612264&mediaCodeNo=257",
       "title": "“금리 두 번 올렸는데 또?”…한은 총재, 추가 인상 가능성 시사",
@@ -198,18 +210,6 @@
       "publishedAt": "2026-10-12T01:31:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/international/international_general/2026/10/12/QCFCPSCLP5CP3JQW44EART36HM/"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257",
-      "title": "[포토]달러·엔 환율 하락",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T13:31:00Z",
-      "publishedAt": "2026-10-11T13:31:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257"
     },
     {
       "id": "https://www.businesstimes.com.sg/opinion-features/whats-special-about-negotiating-agreements-mining-critical-minerals",
@@ -284,6 +284,18 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-urges-prime-minister-modi-to-sanction-metro-rail-for-the-hosur-bommasamudra-sector/article71571740.ece"
     },
     {
+      "id": "https://english.news.cn/20261012/12ab651d6cba489498ca1217a15c4bdb/c.html",
+      "title": "Cambodia's trade with ASEAN, EU posts double-digit growth during Jan.-Sept.",
+      "source": "english.news.cn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T07:02:00Z",
+      "publishedAt": "2026-10-12T07:02:00Z",
+      "summary": "",
+      "url": "https://english.news.cn/20261012/12ab651d6cba489498ca1217a15c4bdb/c.html"
+    },
+    {
       "id": "https://www.orissapost.com/trump-to-attend-asean-summit-in-manila-then-apec-summit-in-china/",
       "title": "Trump to attend ASEAN summit in Manila, then APEC summit in China - OrissaPOST",
       "source": "orissapost.com",
@@ -306,18 +318,6 @@
       "publishedAt": "2026-10-12T06:32:00Z",
       "summary": "",
       "url": "https://abcnews.com/US/wireStory/eu-china-strike-interim-trade-deal-cut-chinese-137133733"
-    },
-    {
-      "id": "http://www.bignewsnetwork.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept",
-      "title": "Cambodia's trade with ASEAN, EU posts double-digit growth during Jan.-Sept.",
-      "source": "bignewsnetwork.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T06:31:00Z",
-      "publishedAt": "2026-10-12T06:31:00Z",
-      "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept"
     },
     {
       "id": "https://calgarysun.com/news/canada/trump-tariffs-trade-war-with-canada-and-iran-war-driving-up-cost-for-u-s-manufacturers/wcm/c0146266-f300-4297-9858-77309302d770",
@@ -488,6 +488,18 @@
       "url": "https://english.aawsat.com/business/5328379-abdulaziz-bin-salman-riyadh-capital-energy-security"
     },
     {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hovers-near-3-1/2-year-high-as-trade-risks-cloud-outlook/articleshow/134884833.cms",
+      "title": "Global Market: China's Yuan hovers near 3-1/2-year high as trade risks cloud outlook",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T07:01:00Z",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hovers-near-3-1/2-year-high-as-trade-risks-cloud-outlook/articleshow/134884833.cms"
+    },
+    {
       "id": "https://www.hindustantimes.com/india-news/canadian-minister-sidhu-to-arrive-in-india-as-two-sides-fast-track-trade-talks-101791778823504.html",
       "title": "Canadian minister Sidhu to arrive in India as two sides fast-track trade talks",
       "source": "hindustantimes.com",
@@ -656,18 +668,6 @@
       "url": "https://www.niagarafallsreview.ca/news/ontario/union-says-stelco-pressuring-canada/article_b186231b-ca84-55a5-86a0-3e465307f065.html"
     },
     {
-      "id": "https://www.theglobeandmail.com/drive/culture/article-should-i-sell-my-car-myself-for-more-money-or-trade-it-in-at-the/",
-      "title": "Should I sell my car myself for more money or trade it in at the dealer?",
-      "source": "theglobeandmail.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T13:01:00Z",
-      "publishedAt": "2026-10-11T13:01:00Z",
-      "summary": "",
-      "url": "https://www.theglobeandmail.com/drive/culture/article-should-i-sell-my-car-myself-for-more-money-or-trade-it-in-at-the/"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10899530",
       "title": "러 경유로 유가 잡겠다는 트럼프…물량도 공급 여력도 의문",
       "source": "biz.heraldcorp.com",
@@ -680,8 +680,20 @@
       "url": "https://biz.heraldcorp.com/article/10899530"
     },
     {
-      "id": "https://www.businesstimes.com.sg/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks",
-      "title": "Global bond sell-off may mean fewer rate hikes from central banks",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257",
+      "title": "[포토]달러·엔 환율 하락",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-11",
+      "dateRaw": "2026-10-11T13:31:00Z",
+      "publishedAt": "2026-10-11T13:31:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03056966645611936&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/gridlock-or-growth-asean-power-grid-faces-critical-window-opportunity",
+      "title": "Gridlock or growth? The Asean Power Grid faces a critical window of opportunity",
       "source": "businesstimes.com.sg",
       "language": "English",
       "sourceCountry": "",
@@ -689,7 +701,7 @@
       "dateRaw": "2026-10-12T01:46:00Z",
       "publishedAt": "2026-10-12T01:46:00Z",
       "summary": "",
-      "url": "https://www.businesstimes.com.sg/international/global/global-bond-sell-may-mean-fewer-rate-hikes-central-banks"
+      "url": "https://www.businesstimes.com.sg/companies-markets/gridlock-or-growth-asean-power-grid-faces-critical-window-opportunity"
     },
     {
       "id": "https://www.munhwa.com:443/article/11622805",
@@ -704,28 +716,16 @@
       "url": "https://www.munhwa.com:443/article/11622805"
     },
     {
-      "id": "http://www.ihalla.com/article.php?aid=1791717780791429122",
-      "title": "[뉴스-in] 공공기관 이전·G20 유치에 도민 뜻 모은다",
-      "source": "ihalla.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T13:31:00Z",
-      "publishedAt": "2026-10-11T13:31:00Z",
-      "summary": "",
-      "url": "http://www.ihalla.com/article.php?aid=1791717780791429122"
-    },
-    {
-      "id": "http://www.bignewsnetwork.com/news/279367849/world-insights-us-sanctions-relief-on-russian-diesel-unlikely-to-cool-fuel-prices",
+      "id": "http://www.greekherald.com/news/279367849/world-insights-us-sanctions-relief-on-russian-diesel-unlikely-to-cool-fuel-prices",
       "title": "World Insights: U.S. sanctions relief on Russian diesel unlikely to cool fuel prices",
-      "source": "bignewsnetwork.com",
+      "source": "greekherald.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T06:31:00Z",
-      "publishedAt": "2026-10-12T06:31:00Z",
+      "dateRaw": "2026-10-12T07:01:00Z",
+      "publishedAt": "2026-10-12T07:01:00Z",
       "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279367849/world-insights-us-sanctions-relief-on-russian-diesel-unlikely-to-cool-fuel-prices"
+      "url": "http://www.greekherald.com/news/279367849/world-insights-us-sanctions-relief-on-russian-diesel-unlikely-to-cool-fuel-prices"
     },
     {
       "id": "https://pina.com.fj/2026/10/12/tuna-supply-chains-exploited-for-cocaine-smuggling-ffa-report-warns/",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4664,
-    "relevantItems": 98,
-    "feedBytes": 1295154,
+    "fetchedItems": 4785,
+    "relevantItems": 109,
+    "feedBytes": 1319851,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
