@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 12:54:56",
+  "updatedAt": "2026. 10. 12. 오후 01:14:58",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,18 +22,30 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12173451",
-          "title": "[단독] 우울증 빠진 청년...정신질병 산재 10건 중 4건이 2030세대",
+          "id": "https://www.mk.co.kr/news/business/12173489",
+          "title": "샤오미코리아, 수면·건강 강화한 스마트밴드11 국내 출시",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-12",
-          "dateRaw": "2026-10-12T11:37:10Z",
-          "publishedAt": "2026-10-12T11:37:10Z",
+          "dateRaw": "2026-10-12T13:03:06Z",
+          "publishedAt": "2026-10-12T13:03:06Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12173451",
+          "url": "https://www.mk.co.kr/news/business/12173489",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html",
+          "title": "한은 총재 “수도권 집값·가계부채에 금융 불균형 우려”",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:02:00Z",
+          "publishedAt": "2026-10-12T04:02:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1281902.html"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261012121037",
@@ -60,18 +72,6 @@
           "publishedAt": "2026-10-12T01:31:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/science-chosun/science/2026/10/12/OY4Q465Y7NDAHBTJGWBBMYUS5U/"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/hanihealth/medical/1280718.html",
-          "title": "“케어 플랜 없음” 선언 이후 시작되는 ‘말기 케어’ 바로 보기 [건강한겨레]",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T00:46:00Z",
-          "publishedAt": "2026-10-12T00:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1280718.html"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01571126645612264&mediaCodeNo=257",
@@ -112,6 +112,18 @@
           "url": "https://womannews.net/detail.php?number=456885&thread=22r03r03"
         },
         {
+          "id": "https://h21.hani.co.kr/arti/society/society_general/60026.html",
+          "title": "복지 안전망이 지운 ‘돌보는 남성’",
+          "source": "h21.hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T04:02:00Z",
+          "publishedAt": "2026-10-12T04:02:00Z",
+          "summary": "",
+          "url": "https://h21.hani.co.kr/arti/society/society_general/60026.html"
+        },
+        {
           "id": "https://ichannela.com/news/detail/000000554617.do",
           "title": "윤희숙 “매매·전월세 시장, 이 대통령 이때까지 한 것 정반대로만 하면 돼” [정치시그널]",
           "source": "ichannela.com",
@@ -122,18 +134,6 @@
           "publishedAt": "2026-10-12T01:31:00Z",
           "summary": "",
           "url": "https://ichannela.com/news/detail/000000554617.do"
-        },
-        {
-          "id": "https://www.hankookilbo.com/news/article/A2026100811070003226",
-          "title": "AI로 치매 징후 찾고 금융으로 돌봄…한화생명의 '치매 안전망'-경제ㅣ한국일보",
-          "source": "hankookilbo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T22:02:00Z",
-          "publishedAt": "2026-10-11T22:02:00Z",
-          "summary": "",
-          "url": "https://www.hankookilbo.com/news/article/A2026100811070003226"
         }
       ],
       "keywords": [
@@ -143,22 +143,18 @@
         },
         {
           "word": "주거",
-          "count": 3
-        },
-        {
-          "word": "청년",
-          "count": 2
-        },
-        {
-          "word": "돌봄",
-          "count": 1
+          "count": 4
         },
         {
           "word": "복지",
-          "count": 1
+          "count": 2
         },
         {
           "word": "정신건강",
+          "count": 1
+        },
+        {
+          "word": "청년",
           "count": 1
         }
       ],
@@ -183,6 +179,20 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.etnews.com/20261012000181",
+          "title": "[2026 국감]신현송 한은 총재 “금리 추가 인상 검토”…ETF 위험 경고 미흡 사과",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T03:41:04Z",
+          "publishedAt": "2026-10-12T03:41:04Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261012000181",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101211371619011",
           "title": "“반도체·핵심광물 공급망 지킨다”…정부, 경제안보품목 340개로 확대",
           "source": "ddaily.co.kr",
@@ -205,20 +215,6 @@
           "publishedAt": "2026-10-12T01:32:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/topics/topics_social/2026/10/12/BWTMGQGYXFHMNLXUBH2BIHB3DI/"
-        },
-        {
-          "id": "https://www.etnews.com/20261012000061",
-          "title": "한국투자증권, 기업 대상 '퇴직연금 아카데미' 개최",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T00:56:59Z",
-          "publishedAt": "2026-10-12T00:56:59Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261012000061",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01758086645612264&mediaCodeNo=257",
@@ -298,7 +294,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
+        },
+        {
+          "word": "금리",
+          "count": 2
         },
         {
           "word": "환율",
@@ -306,14 +306,6 @@
         },
         {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "금리",
-          "count": 1
-        },
-        {
-          "word": "기업",
           "count": 1
         },
         {
@@ -783,18 +775,6 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.businesstimes.com.sg/companies-markets/amazon-talks-buy-us7-billion-ai-startup-decart-wsj-reports",
-          "title": "Amazon is in talks to buy US$7 billion AI startup Decart, WSJ reports",
-          "source": "businesstimes.com.sg",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-11",
-          "dateRaw": "2026-10-11T22:02:00Z",
-          "publishedAt": "2026-10-11T22:02:00Z",
-          "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/amazon-talks-buy-us7-billion-ai-startup-decart-wsj-reports"
-        },
-        {
           "id": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
           "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade | Fortune",
           "source": "fortune.com",
@@ -817,6 +797,18 @@
           "publishedAt": "2026-10-12T03:01:00Z",
           "summary": "",
           "url": "https://www.bdtonline.com/region/fpt-and-naver-cloud-form-strategic-alliance-to-fuel-ai-innovation-across-asia-pacific-and/article_78b1408e-d3d2-5cb6-b1e6-c4fad143b8c2.html"
+        },
+        {
+          "id": "https://www.businesstimes.com.sg/companies-markets/gridlock-or-growth-asean-power-grid-faces-critical-window-opportunity",
+          "title": "Gridlock or growth? The Asean Power Grid faces a critical window of opportunity",
+          "source": "businesstimes.com.sg",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-12",
+          "dateRaw": "2026-10-12T01:46:00Z",
+          "publishedAt": "2026-10-12T01:46:00Z",
+          "summary": "",
+          "url": "https://www.businesstimes.com.sg/companies-markets/gridlock-or-growth-asean-power-grid-faces-critical-window-opportunity"
         },
         {
           "id": "https://www.airob.com/products/airob-expert",
@@ -906,7 +898,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "데이터센터",
@@ -915,6 +907,10 @@
         {
           "word": "클라우드",
           "count": 2
+        },
+        {
+          "word": "전력",
+          "count": 1
         },
         {
           "word": "제조",
@@ -929,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3025,
-    "feedBytes": 791335,
+    "fetchedItems": 2816,
+    "feedBytes": 737980,
     "rollingWindowHours": 72
   }
 }
