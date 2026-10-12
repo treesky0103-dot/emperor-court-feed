@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 01:15:38",
+  "updatedAt": "2026. 10. 13. 오전 01:39:38",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 161,
-    "deduped": 161,
-    "eventDeduped": 161,
+    "passed": 154,
+    "deduped": 154,
+    "eventDeduped": 154,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -404,6 +404,18 @@
       "url": "https://cunews.net/detail.php?number=172946&thread=22r12r03%20style="
     },
     {
+      "id": "https://vietnamnews.vn/politics-laws/1801841/viet-nam-encourages-greater-us-business-participation-in-apec-year-2027-activities.html",
+      "title": "Việt Nam encourages greater US business participation in APEC Year 2027 activities",
+      "source": "vietnamnews.vn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T16:32:00Z",
+      "publishedAt": "2026-10-12T16:32:00Z",
+      "summary": "",
+      "url": "https://vietnamnews.vn/politics-laws/1801841/viet-nam-encourages-greater-us-business-participation-in-apec-year-2027-activities.html"
+    },
+    {
       "id": "http://www.caribbeanherald.com/news/279368545/chervon-names-randall-durkan-vice-president-of-supply-chain-north-america",
       "title": "Chervon Names Randall Durkan Vice President of Supply Chain - North America",
       "source": "caribbeanherald.com",
@@ -438,18 +450,6 @@
       "publishedAt": "2026-10-12T15:17:00Z",
       "summary": "",
       "url": "https://www.thenational.scot/politics/26626598.tory-policies-root-uks-lack-food-energy-security/"
-    },
-    {
-      "id": "https://news.tuoitre.vn/vietnam-encourages-greater-us-business-participation-in-apec-year-2027-activities-103261012205756103.htm",
-      "title": "Vietnam encourages greater US business participation in APEC Year 2027 activities",
-      "source": "news.tuoitre.vn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T15:17:00Z",
-      "publishedAt": "2026-10-12T15:17:00Z",
-      "summary": "",
-      "url": "https://news.tuoitre.vn/vietnam-encourages-greater-us-business-participation-in-apec-year-2027-activities-103261012205756103.htm"
     },
     {
       "id": "https://saiia.org.za/project/futures-of-critical-minerals-in-southern-africa-building-anticipatory-governance/",
@@ -728,25 +728,25 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hovers-near-3-1/2-year-high-as-trade-risks-cloud-outlook/articleshow/134884833.cms"
     },
     {
-      "id": "https://www.hindustantimes.com/india-news/canadian-minister-sidhu-to-arrive-in-india-as-two-sides-fast-track-trade-talks-101791778823504.html",
-      "title": "Canadian minister Sidhu to arrive in India as two sides fast-track trade talks",
-      "source": "hindustantimes.com",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261012001515",
+      "title": "국제유가, 러·우크라 '에너지 휴전'에도 상승 전환…브렌트유 105달러 돌파",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T06:31:00Z",
-      "publishedAt": "2026-10-12T06:31:00Z",
+      "dateRaw": "2026-10-12T12:17:00Z",
+      "publishedAt": "2026-10-12T12:17:00Z",
       "summary": "",
-      "url": "https://www.hindustantimes.com/india-news/canadian-minister-sidhu-to-arrive-in-india-as-two-sides-fast-track-trade-talks-101791778823504.html"
+      "url": "https://www.newspim.com/news/view/20261012001515"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5606,
-    "relevantItems": 144,
-    "feedBytes": 1591448,
+    "fetchedItems": 5890,
+    "relevantItems": 119,
+    "feedBytes": 1667651,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
