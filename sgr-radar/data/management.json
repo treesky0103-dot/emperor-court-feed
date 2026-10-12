@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 12. 오후 12:03:09",
+  "updatedAt": "2026. 10. 12. 오후 12:30:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 53,
-    "deduped": 53,
-    "eventDeduped": 53,
+    "passed": 55,
+    "deduped": 55,
+    "eventDeduped": 55,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -332,6 +332,18 @@
       "url": "https://www.etnews.com/20261011000066"
     },
     {
+      "id": "https://www.therecord.com/politics/federal/union-says-stelco-layoffs-have-begun-setting-up-possible-court-battle-with-ottawa/article_425d2282-6503-54ae-8105-ecbb6a7037b6.html",
+      "title": "Union says Stelco layoffs have begun, setting up possible court battle with Ottawa",
+      "source": "therecord.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T03:01:00Z",
+      "publishedAt": "2026-10-12T03:01:00Z",
+      "summary": "",
+      "url": "https://www.therecord.com/politics/federal/union-says-stelco-layoffs-have-begun-setting-up-possible-court-battle-with-ottawa/article_425d2282-6503-54ae-8105-ecbb6a7037b6.html"
+    },
+    {
       "id": "https://business.scoop.co.nz/2026/10/12/national-hides-more-job-cuts-until-after-the-election/",
       "title": "Business.Scoop » National Hides More Job Cuts Until After The Election",
       "source": "business.scoop.co.nz",
@@ -366,18 +378,6 @@
       "publishedAt": "2026-10-11T21:46:00Z",
       "summary": "",
       "url": "https://www.theyeshivaworld.com/news/general/2608221/volkswagen-seeks-european-support-automaker-warns-of-growing-chinese-competition-amid-massive-restructuring.html"
-    },
-    {
-      "id": "https://www.cbc.ca/news/canada/cleveland-cliffs-ceo-stelco-layoffs-hamilton-9.7377708",
-      "title": "CEO says he's prepared to fight Canada in court over Hamilton steel plant layoffs | CBC News",
-      "source": "cbc.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-11",
-      "dateRaw": "2026-10-11T21:31:00Z",
-      "publishedAt": "2026-10-11T21:31:00Z",
-      "summary": "",
-      "url": "https://www.cbc.ca/news/canada/cleveland-cliffs-ceo-stelco-layoffs-hamilton-9.7377708"
     },
     {
       "id": "https://fortune.com/2026/10/11/trump-tariffs-factory-closures-layoffs-republican-voters-midterm-elections-democrats/",
@@ -426,6 +426,18 @@
       "publishedAt": "2026-10-11T22:02:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026101114021524265"
+    },
+    {
+      "id": "https://telecom.economictimes.indiatimes.com/news/industry/airtel-business-ceo-backs-ai-regulation-says-guardrails-can-unlock-productivity-gains/134880439",
+      "title": "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
+      "source": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T03:01:00Z",
+      "publishedAt": "2026-10-12T03:01:00Z",
+      "summary": "",
+      "url": "https://telecom.economictimes.indiatimes.com/news/industry/airtel-business-ceo-backs-ai-regulation-says-guardrails-can-unlock-productivity-gains/134880439"
     },
     {
       "id": "https://www.afr.com/technology/ai-is-now-hiring-ai-in-workplace-recruitment-disasters-20261012-p614nm",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-11T09:31:00Z",
       "summary": "",
       "url": "https://www.dailymail.com/lifestyle/article-16189865/Becoming-female-tradie-midlife-ultimate-AI-proof-career-salaries-82-000-booming-client-base-Oxbridge-graduates-picking-tools.html"
-    },
-    {
-      "id": "https://www.businesstimes.com.sg/international/us-reverses-course-request-ai-developers-not-share-models-uk-testing-telegraph",
-      "title": "US reverses course on request that AI developers not share models for UK testing: Telegraph",
-      "source": "businesstimes.com.sg",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T01:46:00Z",
-      "publishedAt": "2026-10-12T01:46:00Z",
-      "summary": "",
-      "url": "https://www.businesstimes.com.sg/international/us-reverses-course-request-ai-developers-not-share-models-uk-testing-telegraph"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2253,
-    "relevantItems": 53,
-    "feedBytes": 589428,
+    "fetchedItems": 2399,
+    "relevantItems": 41,
+    "feedBytes": 630264,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
