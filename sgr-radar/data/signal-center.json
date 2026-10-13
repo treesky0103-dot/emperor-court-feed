@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 02:28:58",
+  "updatedAt": "2026. 10. 13. 오후 02:51:37",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,6 +46,20 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.etnews.com/20261013000272",
+          "title": "수출입은행, 위기청년 자립 지원에 5억원 기부",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T05:29:41Z",
+          "publishedAt": "2026-10-13T05:29:41Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261013000272",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03247206645612592&mediaCodeNo=257",
           "title": "구인난 빠진 최중증장애인…가족돌봄 '활동보호' 2년 2개월 연장",
           "source": "edaily.co.kr",
@@ -56,20 +70,6 @@
           "publishedAt": "2026-10-13T05:16:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03247206645612592&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.etnews.com/20261013000218",
-          "title": "CJ올리브네트웍스, 경기도교육청 'AX창의캠프' 개최…초등생 대상 AI 교육",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T04:49:53Z",
-          "publishedAt": "2026-10-13T04:49:53Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261013000218",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261013122125",
@@ -144,15 +144,11 @@
           "count": 4
         },
         {
-          "word": "교육",
+          "word": "청년",
           "count": 2
         },
         {
           "word": "인구감소",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -175,6 +171,18 @@
           "url": "https://www.mk.co.kr/news/society/12174003",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=03332486645612592&mediaCodeNo=257",
+          "title": "\"감사기법·인력 교류까지\"…교직원공제회, 한국벤처투자와 감사 협력",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T05:46:00Z",
+          "publishedAt": "2026-10-13T05:46:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03332486645612592&mediaCodeNo=257"
         },
         {
           "id": "https://www.etnews.com/20261013000207",
@@ -215,6 +223,20 @@
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1316420"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261013135434",
+          "title": "카카오 AI 사회경제적 가치 연 5506억원…2030년 최대 1.8조원 전망",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T05:30:01Z",
+          "publishedAt": "2026-10-13T05:30:01Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261013135434",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/13/MKTDXLG6X5HSPDIEIIC4M25LCI/",
           "title": "브로드컴·인텔 CEO “AI 성장 최대 걸림돌은 자금 조달”…투자 수익성 경고",
           "source": "biz.chosun.com",
@@ -239,52 +261,28 @@
           "url": "http://inews24.com/view/2014265"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261013101440",
-          "title": "현대차·기아, 美 바스트 데이터에 전략적 투자…자율주행·로보틱스 AI 강화",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:01:00Z",
-          "publishedAt": "2026-10-13T03:01:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013101440"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02558406645612592&mediaCodeNo=257",
-          "title": "엔저에 수입물가 24.5% 급등…日 금리 또 올리나",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:01:00Z",
-          "publishedAt": "2026-10-13T03:01:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02558406645612592&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/society/society_general/1282087.html",
-          "title": "문체부, ‘가을야구 암표’ 온오프라인 단속…경찰과 경기장 현장 대응도",
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html",
+          "title": "‘서남권 800조’ 속도 낼까…‘반도체 차르’ 밑 전담조직 둔다",
           "source": "hani.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T01:46:00Z",
-          "publishedAt": "2026-10-13T01:46:00Z",
+          "dateRaw": "2026-10-13T05:46:00Z",
+          "publishedAt": "2026-10-13T05:46:00Z",
           "summary": "",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1282087.html"
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html"
         },
         {
-          "id": "https://www.munhwa.com:443/article/11623121",
-          "title": "IMF 올 韓성장률 3.3% 전망한 날… 코스피 6000 붕괴",
-          "source": "munhwa.com",
+          "id": "https://www.fnnews.com/news/202610131214313610",
+          "title": "美국채금리 급등에 '매도 악순환' 우려…채권 추가폭락 경고음 4가지",
+          "source": "fnnews.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:16:00Z",
-          "publishedAt": "2026-10-13T05:16:00Z",
+          "dateRaw": "2026-10-13T05:46:00Z",
+          "publishedAt": "2026-10-13T05:46:00Z",
           "summary": "",
-          "url": "https://www.munhwa.com:443/article/11623121"
+          "url": "https://www.fnnews.com/news/202610131214313610"
         }
       ],
       "keywords": [
@@ -305,7 +303,7 @@
           "count": 1
         },
         {
-          "word": "물가",
+          "word": "인력",
           "count": 1
         }
       ],
@@ -328,16 +326,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03207846645612592&mediaCodeNo=257"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261013092218",
-          "title": "[AI 고속도로] 정부 정보시스템 2030년까지 클라우드 전환…12월 로드맵 나온다",
+          "id": "https://zdnet.co.kr/view/?no=20261013120304",
+          "title": "엔비디아 \"피지컬 AI 공급망, 한국 제조업에 기회\"",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:01:00Z",
-          "publishedAt": "2026-10-13T03:01:00Z",
+          "dateRaw": "2026-10-13T04:09:09Z",
+          "publishedAt": "2026-10-13T04:09:09Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013092218"
+          "url": "https://zdnet.co.kr/view/?no=20261013120304",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.etnews.com/20261012000332",
@@ -392,6 +392,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html",
+          "title": "‘서남권 800조’ 속도 낼까…‘반도체 차르’ 밑 전담조직 둔다",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T05:46:00Z",
+          "publishedAt": "2026-10-13T05:46:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2635106",
           "title": "에스오에스랩, 세뮤나이트와 맞손… ‘라이다·AI 반도체’ 융합 가속",
           "source": "etoday.co.kr",
@@ -426,27 +438,15 @@
           "publishedAt": "2026-10-13T02:46:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610130230335462"
-        },
-        {
-          "id": "http://www.knnews.co.kr/news/articleView.php?idxno=1552590",
-          "title": "경남 조선업 제조 AI 전환에 5000억원…중소 기자재사까지 혁신 확산",
-          "source": "knnews.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T01:46:00Z",
-          "publishedAt": "2026-10-13T01:46:00Z",
-          "summary": "",
-          "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552590"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 13
+          "count": 12
         },
         {
-          "word": "클라우드",
+          "word": "반도체",
           "count": 3
         },
         {
@@ -458,15 +458,11 @@
           "count": 2
         },
         {
-          "word": "반도체",
+          "word": "클라우드",
           "count": 2
         },
         {
           "word": "제조",
-          "count": 1
-        },
-        {
-          "word": "조선",
           "count": 1
         }
       ],
@@ -513,6 +509,18 @@
           "publishedAt": "2026-10-12T21:31:00Z",
           "summary": "",
           "url": "https://www.malverngazette.co.uk/news/26628947.nhs-bosses-say-staff-need-get-vaccinated/"
+        },
+        {
+          "id": "https://iberonews.com/not_det.php?lang=es¬id=110657",
+          "title": "New Galderma Research Reveals More Than Half of Women Mistake Menopause-Related Skin Changes for Signs of Ageing - Iberonews",
+          "source": "iberonews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T05:46:00Z",
+          "publishedAt": "2026-10-13T05:46:00Z",
+          "summary": "",
+          "url": "https://iberonews.com/not_det.php?lang=es¬id=110657"
         },
         {
           "id": "https://www.clinicalleader.com/doc/what-is-healthcare-data-interoperability-and-why-does-it-matter-for-clinical-research-0001",
@@ -585,28 +593,20 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "https://www.kuow.org/immigration/2026-10-12/7-washingtonians-share-their-views-on-trumps-immigration-policy"
-        },
-        {
-          "id": "https://www.texarkanagazette.com/news/2026/oct/12/as-ai-spreads-in-classrooms-north-texas-students/",
-          "title": "As AI spreads in classrooms, North Texas students help shape school policy | Texarkana Gazette",
-          "source": "texarkanagazette.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:02:00Z",
-          "publishedAt": "2026-10-13T03:02:00Z",
-          "summary": "",
-          "url": "https://www.texarkanagazette.com/news/2026/oct/12/as-ai-spreads-in-classrooms-north-texas-students/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 3
         },
         {
           "word": "정신건강",
           "count": 2
+        },
+        {
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "이민",
@@ -634,6 +634,18 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong"
+        },
+        {
+          "id": "https://www.freemalaysiatoday.com/category/business/2026/10/13/ai-boom-bolstered-growth-in-global-trade-benefiting-china-and-india-says-imf",
+          "title": "AI boom bolstered growth in global trade, benefiting China and India, says IMF",
+          "source": "freemalaysiatoday.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T05:46:00Z",
+          "publishedAt": "2026-10-13T05:46:00Z",
+          "summary": "",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/ai-boom-bolstered-growth-in-global-trade-benefiting-china-and-india-says-imf"
         },
         {
           "id": "https://www.moneycontrol.com/news/business/india-business-news-live-business-news-gold-silver-rbi-gmp-ipo-bloomberg-new-economic-forum-liveblog-14050572.html",
@@ -670,18 +682,6 @@
           "publishedAt": "2026-10-13T03:01:00Z",
           "summary": "",
           "url": "https://economictimes.indiatimes.com/news/international/world-news/imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-threaten-outlook/articleshow/134906339.cms"
-        },
-        {
-          "id": "https://www.business-standard.com/economy/news/india-s-ftas-could-add-up-to-170-bn-to-gdp-by-2035-cushion-us-tariffs-126101201299_1.html",
-          "title": "'FTAs can add $170 billion to India's GDP by 2035, cushion US tariffs'",
-          "source": "business-standard.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T18:32:00Z",
-          "publishedAt": "2026-10-12T18:32:00Z",
-          "summary": "",
-          "url": "https://www.business-standard.com/economy/news/india-s-ftas-could-add-up-to-170-bn-to-gdp-by-2035-cushion-us-tariffs-126101201299_1.html"
         },
         {
           "id": "https://www.wpsdlocal6.com/news/mccracken-fiscal-court-discusses-growth-plan-urges-city-action-on-showroom-lounge/article_599201d5-2f51-43f1-a779-e656b84c4470.html",
@@ -750,15 +750,15 @@
           "count": 6
         },
         {
+          "word": "무역",
+          "count": 2
+        },
+        {
           "word": "투자",
           "count": 2
         },
         {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "무역",
           "count": 1
         },
         {
@@ -772,6 +772,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261013111144",
+          "title": "日 오므론, 미국 산업용 PC 제조사 온로직 인수",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T03:02:00Z",
+          "publishedAt": "2026-10-13T03:02:00Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261013111144"
+        },
         {
           "id": "https://insideretail.asia/2026/10/13/how-can-data-centers-ease-pressure-on-us-power-grids/",
           "title": "How can data centres ease pressure on power grids?",
@@ -879,35 +891,23 @@
           "publishedAt": "2026-10-12T20:46:00Z",
           "summary": "",
           "url": "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/"
-        },
-        {
-          "id": "https://www.ubergizmo.com/2026/10/adobe-creative-suite-free-clones/",
-          "title": "No Subscription Costs: Adobe Creative Cloud Free Clones Created With AI",
-          "source": "ubergizmo.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T18:31:00Z",
-          "publishedAt": "2026-10-12T18:31:00Z",
-          "summary": "",
-          "url": "https://www.ubergizmo.com/2026/10/adobe-creative-suite-free-clones/"
         }
       ],
       "keywords": [
         {
-          "word": "AI",
+          "word": "반도체",
           "count": 3
         },
         {
-          "word": "반도체",
-          "count": 3
+          "word": "AI",
+          "count": 2
         },
         {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "클라우드",
+          "word": "제조",
           "count": 2
         },
         {
@@ -927,7 +927,7 @@
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -939,8 +939,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4345,
-    "feedBytes": 1177095,
+    "fetchedItems": 4168,
+    "feedBytes": 1142114,
     "rollingWindowHours": 72
   }
 }

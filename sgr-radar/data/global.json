@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 02:28:51",
+  "updatedAt": "2026. 10. 13. 오후 02:51:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 127,
-    "deduped": 127,
-    "eventDeduped": 127,
+    "passed": 124,
+    "deduped": 124,
+    "eventDeduped": 124,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -272,6 +272,18 @@
       "url": "http://www.londonmercury.com/news/279368873/india-uk-trade-deal-success-to-be-measured-by-exports-investments-not-legal-text-uk-business-and-trade-secretary"
     },
     {
+      "id": "https://www.fnnews.com/news/202610131214313610",
+      "title": "美국채금리 급등에 '매도 악순환' 우려…채권 추가폭락 경고음 4가지",
+      "source": "fnnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
+      "summary": "",
+      "url": "https://www.fnnews.com/news/202610131214313610"
+    },
+    {
       "id": "https://cunews.net/detail.php?number=172946&thread=22r12r03",
       "title": "인천시, 2028 G20 정상회의 유치 총력…군수·구청장 공동 협력 결의 : 연합시민의소리",
       "source": "cunews.net",
@@ -308,18 +320,6 @@
       "url": "http://inews24.com/view/2014332"
     },
     {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026101311072773558",
-      "title": "LGU+, 대화형 AI 서비스 확대…로밍 가입 전환율 2배",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T03:02:00Z",
-      "publishedAt": "2026-10-13T03:02:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026101311072773558"
-    },
-    {
       "id": "https://www.edaily.co.kr/News/Read?newsId=02555126645612592&mediaCodeNo=257",
       "title": "고유가·전쟁에도…미국 개미, 옵션에 하루 935조원 베팅",
       "source": "edaily.co.kr",
@@ -344,28 +344,52 @@
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1316420"
     },
     {
-      "id": "https://www.voakorea.com/a/eu-dprk-russia-sanctions-101226/8210346.html",
-      "title": "EU, 러시아의 북한제 미사일 사용 지원한 북한 기술자 제재",
-      "source": "voakorea.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T18:02:00Z",
-      "publishedAt": "2026-10-12T18:02:00Z",
-      "summary": "",
-      "url": "https://www.voakorea.com/a/eu-dprk-russia-sanctions-101226/8210346.html"
-    },
-    {
-      "id": "http://www.venezuelastar.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions",
-      "title": "Nobel Peace Prize for Navi Pillay highlights deepening chasm Between International Law and US Sanctions",
-      "source": "venezuelastar.com",
+      "id": "https://english.news.cn/20261013/17613739c2f541edb0a11a7d93b78025/c.html",
+      "title": "In pics: China-ASEAN Countries AI Application Cooperation Center in Nanning",
+      "source": "english.news.cn",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T05:16:00Z",
-      "publishedAt": "2026-10-13T05:16:00Z",
+      "dateRaw": "2026-10-13T05:47:00Z",
+      "publishedAt": "2026-10-13T05:47:00Z",
       "summary": "",
-      "url": "http://www.venezuelastar.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions"
+      "url": "https://english.news.cn/20261013/17613739c2f541edb0a11a7d93b78025/c.html"
+    },
+    {
+      "id": "http://www.indiagazette.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions",
+      "title": "Nobel Peace Prize for Navi Pillay highlights deepening chasm Between International Law and US Sanctions",
+      "source": "indiagazette.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
+      "summary": "",
+      "url": "http://www.indiagazette.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions"
+    },
+    {
+      "id": "https://www.beefcentral.com/news/china-tariff-impacts-leading-to-lost-production-days-at-beef-plants-as-cold-storage-fills-to-capacity/",
+      "title": "China tariff impacts leading to lost production days at beef plants, as cold storage fills to capacity - Beef Central",
+      "source": "beefcentral.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
+      "summary": "",
+      "url": "https://www.beefcentral.com/news/china-tariff-impacts-leading-to-lost-production-days-at-beef-plants-as-cold-storage-fills-to-capacity/"
+    },
+    {
+      "id": "https://www.tnp.no/norway/politics/1789-norway-joins-the-eu-sanctions-against-iran/",
+      "title": "Norway Joins the EU Sanctions against Iran - The Nordic Page",
+      "source": "tnp.no",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
+      "summary": "",
+      "url": "https://www.tnp.no/norway/politics/1789-norway-joins-the-eu-sanctions-against-iran/"
     },
     {
       "id": "https://ianslive.in/imf-flags-impact-of-us-china-tariff-war--20261013074503",
@@ -416,18 +440,6 @@
       "url": "https://www.freshplaza.com/north-america/article/9881481/reusable-hybrid-pallet-launched-for-north-american-supply-chains/"
     },
     {
-      "id": "https://kelo.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/",
-      "title": "ASEAN foreign ministers to tackle transboundary haze in November meetings",
-      "source": "kelo.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T05:01:00Z",
-      "publishedAt": "2026-10-13T05:01:00Z",
-      "summary": "",
-      "url": "https://kelo.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/"
-    },
-    {
       "id": "https://belarusdigest.com/story/from-sanctions-to-summits-belarus-after-the-ukraine-crisis/",
       "title": "From Sanctions to Summits: Belarus after the Ukraine Crisis",
       "source": "belarusdigest.com",
@@ -462,18 +474,6 @@
       "publishedAt": "2026-10-13T03:16:00Z",
       "summary": "",
       "url": "https://article.wn.com/view/2026/10/13/China_sanctions_Paraguay_and_Belize_ministers_over_Taiwan_ti/"
-    },
-    {
-      "id": "http://www.torontotelegraph.com/news/279370712/trade-deal-with-us-canada-still-in-effect-mexican-president",
-      "title": "Trade deal with U.S., Canada still in effect: Mexican president",
-      "source": "torontotelegraph.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T03:16:00Z",
-      "publishedAt": "2026-10-13T03:16:00Z",
-      "summary": "",
-      "url": "http://www.torontotelegraph.com/news/279370712/trade-deal-with-us-canada-still-in-effect-mexican-president"
     },
     {
       "id": "https://dailypioneer.com/news/biogas-indias-energy-security-and-green-transition-advantage",
@@ -512,18 +512,6 @@
       "url": "https://timesofoman.com/article/177941-canada-to-send-300-member-trade-delegation-to-india-largest-in-over-30-years"
     },
     {
-      "id": "https://www.arabnews.com/business/renewables-offer-cheapest-route-to-power-and-energy-security-says-irena-chief-3005951",
-      "title": "Renewables offer cheapest route to power and energy security, says IRENA chief",
-      "source": "arabnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T18:02:00Z",
-      "publishedAt": "2026-10-12T18:02:00Z",
-      "summary": "",
-      "url": "https://www.arabnews.com/business/renewables-offer-cheapest-route-to-power-and-energy-security-says-irena-chief-3005951"
-    },
-    {
       "id": "http://inews24.com/view/2014199",
       "title": "후티 공격에 사우디 원유 공급 차질⋯국제유가 3일째 상승",
       "source": "inews24.com",
@@ -536,28 +524,40 @@
       "url": "http://inews24.com/view/2014199"
     },
     {
-      "id": "https://aninews.in/news/business/canada-to-lead-largest-trade-delegation-to-india-in-over-30-years-cepa-talks-in-focus20261013090841/",
-      "title": "Canada to lead largest trade delegation to India in over 30 years, CEPA talks in focus",
-      "source": "aninews.in",
+      "id": "https://www.freemalaysiatoday.com/category/business/2026/10/13/ai-boom-bolstered-growth-in-global-trade-benefiting-china-and-india-says-imf",
+      "title": "AI boom bolstered growth in global trade, benefiting China and India, says IMF",
+      "source": "freemalaysiatoday.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T05:16:00Z",
-      "publishedAt": "2026-10-13T05:16:00Z",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
       "summary": "",
-      "url": "https://aninews.in/news/business/canada-to-lead-largest-trade-delegation-to-india-in-over-30-years-cepa-talks-in-focus20261013090841/"
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/ai-boom-bolstered-growth-in-global-trade-benefiting-china-and-india-says-imf"
     },
     {
-      "id": "https://aninews.in/news/world/others/canadian-fm-anita-anand-on-india-visit-to-hold-talks-with-eam-jaishankar-on-trade-energy-security-defence-ties20261013090633/",
+      "id": "http://www.indiagazette.com/news/279371021/canadian-fm-anita-anand-on-india-visit-to-hold-talks-with-eam-jaishankar-on-trade-energy-security-defence-ties",
       "title": "Canadian FM Anita Anand on India visit; to hold talks with EAM Jaishankar on trade, energy, security, defence ties",
-      "source": "aninews.in",
+      "source": "indiagazette.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T05:16:00Z",
-      "publishedAt": "2026-10-13T05:16:00Z",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
       "summary": "",
-      "url": "https://aninews.in/news/world/others/canadian-fm-anita-anand-on-india-visit-to-hold-talks-with-eam-jaishankar-on-trade-energy-security-defence-ties20261013090633/"
+      "url": "http://www.indiagazette.com/news/279371021/canadian-fm-anita-anand-on-india-visit-to-hold-talks-with-eam-jaishankar-on-trade-energy-security-defence-ties"
+    },
+    {
+      "id": "http://www.indiagazette.com/news/279371023/canada-to-lead-largest-trade-delegation-to-india-in-over-30-years-cepa-talks-in-focus",
+      "title": "Canada to lead largest trade delegation to India in over 30 years, CEPA talks in focus",
+      "source": "indiagazette.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:46:00Z",
+      "publishedAt": "2026-10-13T05:46:00Z",
+      "summary": "",
+      "url": "http://www.indiagazette.com/news/279371023/canada-to-lead-largest-trade-delegation-to-india-in-over-30-years-cepa-talks-in-focus"
     },
     {
       "id": "https://cyprus-mail.com/2026/10/13/ecb-to-hold-workshops-on-new-bank-reporting-framework",
@@ -606,18 +606,6 @@
       "publishedAt": "2026-10-12T18:02:00Z",
       "summary": "",
       "url": "https://southsideshowdown.com/details-of-white-sox-stalled-freddy-peralta-trade-talks-with-mets-emerge"
-    },
-    {
-      "id": "https://organiser.org/2026/10/12/386002/world/uk-trade-mission-in-india-announces-1bn-worth-deal-in-ai-agriculture-education-spurs-job-creation/",
-      "title": "UK trade mission in India; Announces £1bn worth commercial deals",
-      "source": "organiser.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T18:02:00Z",
-      "publishedAt": "2026-10-12T18:02:00Z",
-      "summary": "",
-      "url": "https://organiser.org/2026/10/12/386002/world/uk-trade-mission-in-india-announces-1bn-worth-deal-in-ai-agriculture-education-spurs-job-creation/"
     },
     {
       "id": "https://www.etoday.co.kr/news/view/2635108",
@@ -728,25 +716,37 @@
       "url": "https://www.fnnews.com/news/202610130518302889"
     },
     {
-      "id": "https://www.etoday.co.kr/news/view/2634933",
-      "title": "KB증권 \"에이피알, 환율·물류비 부담에 3분기 기대치 하회…목표가 유지\"",
-      "source": "etoday.co.kr",
+      "id": "https://www.ddaily.co.kr:443/page/view/2026101311072773558",
+      "title": "LGU+, 대화형 AI 서비스 확대…로밍 가입 전환율 2배",
+      "source": "ddaily.co.kr",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T23:46:00Z",
-      "publishedAt": "2026-10-12T23:46:00Z",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T03:02:00Z",
+      "publishedAt": "2026-10-13T03:02:00Z",
       "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2634933"
+      "url": "https://www.ddaily.co.kr:443/page/view/2026101311072773558"
+    },
+    {
+      "id": "https://kelo.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/",
+      "title": "ASEAN foreign ministers to tackle transboundary haze in November meetings",
+      "source": "kelo.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:01:00Z",
+      "publishedAt": "2026-10-13T05:01:00Z",
+      "summary": "",
+      "url": "https://kelo.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 4345,
-    "relevantItems": 126,
-    "feedBytes": 1177095,
+    "fetchedItems": 4168,
+    "relevantItems": 110,
+    "feedBytes": 1142114,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
