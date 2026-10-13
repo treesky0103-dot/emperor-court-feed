@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 01:41:29",
+  "updatedAt": "2026. 10. 13. 오후 02:04:37",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 711,
-    "deduped": 711,
-    "eventDeduped": 711,
+    "passed": 709,
+    "deduped": 709,
+    "eventDeduped": 709,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -284,6 +284,18 @@
       "url": "https://www.govtech.com/artificial-intelligence/how-data-center-angst-upended-a-new-york-factory-village"
     },
     {
+      "id": "https://newsway.co.kr/news/view?ud=2026101310394992771",
+      "title": "최태원, 도쿄포럼서 한일 반도체 협력 모색···SK하이닉스 日 거점 주목 - 뉴스웨이",
+      "source": "newsway.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:01:00Z",
+      "publishedAt": "2026-10-13T05:01:00Z",
+      "summary": "",
+      "url": "https://newsway.co.kr/news/view?ud=2026101310394992771"
+    },
+    {
       "id": "http://inews24.com/view/2014240",
       "title": "삼성전자, 반도체 협력사 5만8000명에 \"고맙습니다\"…커피차 쏜다",
       "source": "inews24.com",
@@ -318,18 +330,6 @@
       "publishedAt": "2026-10-13T01:46:00Z",
       "summary": "",
       "url": "https://www.etoday.co.kr/news/view/2634992"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10900277",
-      "title": "반도체 호황 맞아?삼전닉스 4%대 와르르…코스피 6400선 붕괴 [투자360]",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T22:47:00Z",
-      "publishedAt": "2026-10-12T22:47:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10900277"
     },
     {
       "id": "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/",
@@ -474,6 +474,18 @@
       "publishedAt": "2026-10-12T19:02:00Z",
       "summary": "",
       "url": "https://www.industryweek.com/industry-events/manufacturing-day/article/55411122/faces-of-manufacturing-i-get-to-invest-in-people-every-day"
+    },
+    {
+      "id": "https://www.roboticstomorrow.com/company_directory/real-it-solutions/14262",
+      "title": "Industrial Automation, Robots and Unmanned Vehicles Company - Real IT Solutions | RoboticsTomorrow",
+      "source": "roboticstomorrow.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:01:00Z",
+      "publishedAt": "2026-10-13T05:01:00Z",
+      "summary": "",
+      "url": "https://www.roboticstomorrow.com/company_directory/real-it-solutions/14262"
     },
     {
       "id": "https://www.marinetechnologynews.com/companies/company/ecosub-robotics-218200",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-13T04:01:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/society/schooling/1282111.html"
-    },
-    {
-      "id": "https://aninews.in/news/business/fm-nirmala-sitharaman-concludes-singapore-visit-with-focus-on-boosting-indias-infrastructure-ai-semiconductor-sectors20261012203722/",
-      "title": "FM Nirmala Sitharaman concludes Singapore visit with focus on boosting India's infrastructure, AI, semiconductor sectors",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T03:16:00Z",
-      "publishedAt": "2026-10-13T03:16:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/business/fm-nirmala-sitharaman-concludes-singapore-visit-with-focus-on-boosting-indias-infrastructure-ai-semiconductor-sectors20261012203722/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3504,
-    "relevantItems": 96,
-    "feedBytes": 974024,
+    "fetchedItems": 2631,
+    "relevantItems": 78,
+    "feedBytes": 714211,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
