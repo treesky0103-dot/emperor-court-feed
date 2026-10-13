@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 14. 오전 12:31:09",
+  "updatedAt": "2026. 10. 14. 오전 12:54:36",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -86,30 +86,6 @@
           "url": "https://www.hani.co.kr/arti/area/capital/1282145.html"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01636726645612264&mediaCodeNo=257",
-          "title": "“내가 살겠다”며 세입자 내보내더니…다시 전세 놨다가 3000만원 배상",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T06:47:00Z",
-          "publishedAt": "2026-10-13T06:47:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01636726645612264&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026101313540469755",
-          "title": "돌봄 수요 높은데 공급 부족한 지역 59곳…40곳은 인구감소지역",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T06:47:00Z",
-          "publishedAt": "2026-10-13T06:47:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026101313540469755"
-        },
-        {
           "id": "https://www.nspna.com/country/?mode=view&newsid=831537",
           "title": "[안산시 정책 브리핑] “큰 개발부터 골목길 불편까지”…이민근 시장, 주민 목소리 듣는다",
           "source": "nspna.com",
@@ -132,19 +108,43 @@
           "publishedAt": "2026-10-13T14:31:00Z",
           "summary": "",
           "url": "https://newsway.co.kr/news/view?ud=2026101316170608088"
+        },
+        {
+          "id": "https://www.etoday.co.kr/news/view/2635323",
+          "title": "조현숙 영주시의원 \"청년 머무는 영주 만들어야\"⋯정착 정책 강화 촉구",
+          "source": "etoday.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T08:01:00Z",
+          "publishedAt": "2026-10-13T08:01:00Z",
+          "summary": "",
+          "url": "https://www.etoday.co.kr/news/view/2635323"
+        },
+        {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274977&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "'부처 칸막이' 지적한 김현정 \"청년정책 예산 43조인데 신청은 따로\"",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T08:01:00Z",
+          "publishedAt": "2026-10-13T08:01:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274977&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         }
       ],
       "keywords": [
         {
-          "word": "주거",
+          "word": "청년",
           "count": 4
         },
         {
-          "word": "돌봄",
+          "word": "주거",
           "count": 3
         },
         {
-          "word": "청년",
+          "word": "돌봄",
           "count": 2
         },
         {
@@ -153,10 +153,6 @@
         },
         {
           "word": "이민",
-          "count": 1
-        },
-        {
-          "word": "인구감소",
           "count": 1
         }
       ],
@@ -374,16 +370,18 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1282162.html"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261013143358",
-          "title": "[최홍석 칼럼] 스케일-어크로스, AI 데이터센터를 넘어 기업망으로",
+          "id": "https://zdnet.co.kr/view/?no=20261013220236",
+          "title": "플라우드 출신이 창업한 AI 비서 앰비, 347억 원 투자 유치",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T07:17:00Z",
-          "publishedAt": "2026-10-13T07:17:00Z",
+          "dateRaw": "2026-10-13T13:02:36Z",
+          "publishedAt": "2026-10-13T13:02:36Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013143358"
+          "url": "https://zdnet.co.kr/view/?no=20261013220236",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.huffingtonpost.kr:443/article/261192",
@@ -458,12 +456,12 @@
           "count": 5
         },
         {
-          "word": "데이터센터",
+          "word": "로봇",
           "count": 4
         },
         {
-          "word": "로봇",
-          "count": 4
+          "word": "데이터센터",
+          "count": 3
         },
         {
           "word": "전력",
@@ -486,6 +484,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.curacaochronicle.com/post/unknown/cbcs-warns-aging-population-will-put-increasing-pressure-on-curacaos-pensions-and-healthcare",
+          "title": "Curaçao Chronicle | CBCS Warns Aging Population Will Put Increasing Pressure on Curaçao's Pensions and Healthcare",
+          "source": "curacaochronicle.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T15:47:00Z",
+          "publishedAt": "2026-10-13T15:47:00Z",
+          "summary": "",
+          "url": "https://www.curacaochronicle.com/post/unknown/cbcs-warns-aging-population-will-put-increasing-pressure-on-curacaos-pensions-and-healthcare"
+        },
         {
           "id": "https://www.thehindu.com/news/national/kerala/nedumbassery-accident-accused-remanded-in-borstal-school-as-per-magistrates-order-say-police/article71579781.ece",
           "title": "Nedumbassery accident: accused remanded in Borstal School as per magistrate’s order, say police",
@@ -583,49 +593,41 @@
           "url": "https://www.hindustantimes.com/lifestyle/health/former-infosys-cfo-mohandas-pai-shares-his-unfiltered-take-on-mental-health-self-motivation-and-advice-for-youth-you-must-take-care-of-your-body-101791871017738.html"
         },
         {
-          "id": "https://www.fox21online.com/news/local/uws-mental-health-and-well-being-services-new-swenson-hall-location/article_aedd0e98-528d-4159-9a99-450abe961da9.html",
-          "title": "UWS mental health and well-being services new Swenson Hall location",
-          "source": "fox21online.com",
+          "id": "https://www.orissapost.com/pm-modi-keeps-tab-on-social-media-use-by-cms-odisha-mulls-policy-on-digital-platforms-cm-majhi/",
+          "title": "PM Modi keeps tab on social media use by CMs; Odisha mulls policy on digital platforms: CM Majhi - OrissaPOST",
+          "source": "orissapost.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T06:46:00Z",
-          "publishedAt": "2026-10-13T06:46:00Z",
+          "dateRaw": "2026-10-13T15:47:00Z",
+          "publishedAt": "2026-10-13T15:47:00Z",
           "summary": "",
-          "url": "https://www.fox21online.com/news/local/uws-mental-health-and-well-being-services-new-swenson-hall-location/article_aedd0e98-528d-4159-9a99-450abe961da9.html"
-        },
-        {
-          "id": "https://www.tokyoreporter.com/japan-news/ex-care-worker-accused-of-beating-90-year-old-woman-says-he-did-it-for-the-thrill/",
-          "title": "Ex-care worker accused of beating 90-year-old woman says he did it for the ‘thrill’ - TokyoReporter",
-          "source": "tokyoreporter.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T14:01:00Z",
-          "publishedAt": "2026-10-13T14:01:00Z",
-          "summary": "",
-          "url": "https://www.tokyoreporter.com/japan-news/ex-care-worker-accused-of-beating-90-year-old-woman-says-he-did-it-for-the-thrill/"
+          "url": "https://www.orissapost.com/pm-modi-keeps-tab-on-social-media-use-by-cms-odisha-mulls-policy-on-digital-platforms-cm-majhi/"
         }
       ],
       "keywords": [
         {
           "word": "정신건강",
-          "count": 4
+          "count": 3
         },
         {
           "word": "청년",
           "count": 3
         },
         {
+          "word": "고령화",
+          "count": 2
+        },
+        {
           "word": "교육",
           "count": 2
         },
         {
-          "word": "고령화",
+          "word": "이민",
           "count": 1
         },
         {
-          "word": "이민",
+          "word": "인구",
           "count": 1
         }
       ],
@@ -635,6 +637,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "http://www.torontotelegraph.com/news/279371646/ineo-reports-47-fiscal-2026-revenue-growth-as-q4-revenue-reaches-record-103-million",
+          "title": "INEO Reports 47% Fiscal 2026 Revenue Growth as Q4 Revenue Reaches Record $1.03 Million",
+          "source": "torontotelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T15:47:00Z",
+          "publishedAt": "2026-10-13T15:47:00Z",
+          "summary": "",
+          "url": "http://www.torontotelegraph.com/news/279371646/ineo-reports-47-fiscal-2026-revenue-growth-as-q4-revenue-reaches-record-103-million"
+        },
         {
           "id": "https://fortune.com/article/investment-cash-out-refinance/",
           "title": "Cash-Out refinance on investment property: What investors need to know | Fortune",
@@ -742,28 +756,16 @@
           "publishedAt": "2026-10-13T12:46:00Z",
           "summary": "",
           "url": "http://www.middleeaststar.com/news/279371329/commerce-minister-piyush-goyal-hails-imf-7-pc-growth-forecast-says-india-ftas-to-boost-global-trade"
-        },
-        {
-          "id": "https://www.uneca.org/stories/at-unga81,-eca-pushes-for-greater-investment-and-industrialization-in-africa",
-          "title": "At UNGA81, ECA pushes for greater investment and industrialization in Africa | United Nations Economic Commission for Africa",
-          "source": "uneca.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T11:47:00Z",
-          "publishedAt": "2026-10-13T11:47:00Z",
-          "summary": "",
-          "url": "https://www.uneca.org/stories/at-unga81,-eca-pushes-for-greater-investment-and-industrialization-in-africa"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 9
+          "count": 8
         },
         {
           "word": "성장",
-          "count": 3
+          "count": 4
         },
         {
           "word": "무역",
@@ -787,6 +789,42 @@
           "publishedAt": "2026-10-13T15:17:00Z",
           "summary": "",
           "url": "https://www.channelnewsasia.com/watch/cyber-strategy-refresh-addresses-threats-frontier-ai-models-quantum-advancement-6456346"
+        },
+        {
+          "id": "https://www.inforum.com/news/north-dakota/existential-questions-cloud-picture-of-north-dakotas-place-in-ai-revolution",
+          "title": "Existential questions cloud picture of North Dakota’s place in AI revolution",
+          "source": "inforum.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T15:47:00Z",
+          "publishedAt": "2026-10-13T15:47:00Z",
+          "summary": "",
+          "url": "https://www.inforum.com/news/north-dakota/existential-questions-cloud-picture-of-north-dakotas-place-in-ai-revolution"
+        },
+        {
+          "id": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+          "title": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
+          "source": "cnbc.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T15:47:00Z",
+          "publishedAt": "2026-10-13T15:47:00Z",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
+        },
+        {
+          "id": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/",
+          "title": "중국의 바이오 굴기 “2030년까지 최초 신약 25% 내놓을 것”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T15:46:00Z",
+          "publishedAt": "2026-10-13T15:46:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/"
         },
         {
           "id": "https://fortune.com/2026/10/13/steel-ships-railroads-data-centers-vc-industrial-revolution-analogy-seriously/",
@@ -825,18 +863,6 @@
           "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/apple-unveils-new-smart-home-products-showcasing-updated-siri-ai"
         },
         {
-          "id": "https://www.wahpetondailynews.com/news/north-dakota/existential-questions-cloud-picture-of-north-dakotas-place-in-ai-revolution",
-          "title": "Existential questions cloud picture of North Dakota’s place in AI revolution",
-          "source": "wahpetondailynews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T14:01:00Z",
-          "publishedAt": "2026-10-13T14:01:00Z",
-          "summary": "",
-          "url": "https://www.wahpetondailynews.com/news/north-dakota/existential-questions-cloud-picture-of-north-dakotas-place-in-ai-revolution"
-        },
-        {
           "id": "https://timesofindia.indiatimes.com/city/ahmedabad/adani-enterprises-jabil-sign-mou-for-ai-hardware-manufacturing-jv/articleshow/134919231.cms",
           "title": "Adani Enterprises, Jabil sign MoU for AI hardware manufacturing JV",
           "source": "timesofindia.indiatimes.com",
@@ -871,55 +897,35 @@
           "publishedAt": "2026-10-13T13:17:00Z",
           "summary": "",
           "url": "https://247wallst.com/investing/2026/10/13/alphabets-rapid-cloud-expansion-ai-wins-matter-but-i-keep-buying-for-something-else/"
-        },
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69824842-quantumcore-ltd-quantumcore-begins-development-of-fourth-critical-technology-chip-scale-magnetless-circulators-for-scalable-quantum-computing-296.htm",
-          "title": "QuantumCore Ltd.: QuantumCore Begins Development of Fourth Critical Technology: Chip-Scale Magnetless Circulators for Scalable Quantum Computing",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T12:46:00Z",
-          "publishedAt": "2026-10-13T12:46:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69824842-quantumcore-ltd-quantumcore-begins-development-of-fourth-critical-technology-chip-scale-magnetless-circulators-for-scalable-quantum-computing-296.htm"
-        },
-        {
-          "id": "https://www.infoworld.com/article/4233856/local-ai-on-npus-building-a-zero-cloud-photo-deduplicator-with-openclip.html",
-          "title": "Local AI on NPUs: Building a zero-cloud photo deduplicator with OpenCLIP",
-          "source": "infoworld.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T12:46:00Z",
-          "publishedAt": "2026-10-13T12:46:00Z",
-          "summary": "",
-          "url": "https://www.infoworld.com/article/4233856/local-ai-on-npus-building-a-zero-cloud-photo-deduplicator-with-openclip.html"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
-        },
-        {
-          "word": "클라우드",
-          "count": 3
-        },
-        {
-          "word": "반도체",
-          "count": 2
-        },
-        {
-          "word": "양자",
-          "count": 2
+          "count": 9
         },
         {
           "word": "제조",
           "count": 2
         },
         {
+          "word": "클라우드",
+          "count": 2
+        },
+        {
           "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "바이오",
+          "count": 1
+        },
+        {
+          "word": "반도체",
+          "count": 1
+        },
+        {
+          "word": "양자",
           "count": 1
         }
       ],
@@ -931,8 +937,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6741,
-    "feedBytes": 1907264,
+    "fetchedItems": 6639,
+    "feedBytes": 1847386,
     "rollingWindowHours": 72
   }
 }
