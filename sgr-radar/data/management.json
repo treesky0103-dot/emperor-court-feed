@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 04:45:22",
+  "updatedAt": "2026. 10. 13. 오후 05:04:38",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 69,
-    "deduped": 69,
-    "eventDeduped": 69,
+    "passed": 67,
+    "deduped": 67,
+    "eventDeduped": 67,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -620,18 +620,6 @@
       "url": "https://ipwatchdog.com/questel-october-22-2026/"
     },
     {
-      "id": "https://thejournal.com/articles/2026/10/12/perkins-v-isnt-preparing-students-for-an-ai-driven-workforce.aspx",
-      "title": "Perkins V Isn't Preparing Students for an AI-Driven Workforce -- THE Journal",
-      "source": "thejournal.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T20:17:00Z",
-      "publishedAt": "2026-10-12T20:17:00Z",
-      "summary": "",
-      "url": "https://thejournal.com/articles/2026/10/12/perkins-v-isnt-preparing-students-for-an-ai-driven-workforce.aspx"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10901001",
       "title": "“하이브리드보다 싸다”…렉서스 첫 전기 세단 ‘ES’, 韓 프리미엄 시장 흔든다 [여車저車]",
       "source": "biz.heraldcorp.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-13T07:31:00Z",
       "summary": "",
       "url": "http://www.nepalnational.com/news/279371044/is-ai-taking-entry-level-jobs-in-financial-markets"
+    },
+    {
+      "id": "https://www.indiatimes.com/trending/i-am-a-liability-for-my-parents-young-man-says-ai-job-loss-left-him-hungry-alone-and-ashamed/articleshow/134895490.html",
+      "title": "‘I am a liability for my parents’: Young man says AI job loss left him hungry, alone and ashamed",
+      "source": "indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T05:16:00Z",
+      "publishedAt": "2026-10-13T05:16:00Z",
+      "summary": "",
+      "url": "https://www.indiatimes.com/trending/i-am-a-liability-for-my-parents-young-man-says-ai-job-loss-left-him-hungry-alone-and-ashamed/articleshow/134895490.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5711,
-    "relevantItems": 143,
-    "feedBytes": 1604784,
+    "fetchedItems": 2563,
+    "relevantItems": 59,
+    "feedBytes": 736746,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
