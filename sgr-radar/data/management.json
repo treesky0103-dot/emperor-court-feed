@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 09:27:48",
+  "updatedAt": "2026. 10. 13. 오후 09:59:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 78,
-    "deduped": 78,
-    "eventDeduped": 78,
+    "passed": 77,
+    "deduped": 77,
+    "eventDeduped": 77,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -488,6 +488,18 @@
       "url": "http://inews24.com/view/2014280"
     },
     {
+      "id": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-jabil-sign-pact-for-ai-data-centre-hardware-joint-venture/articleshow/134918160.cms",
+      "title": "Adani Enterprises, Jabil sign pact for AI, data centre hardware joint venture",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T12:46:00Z",
+      "publishedAt": "2026-10-13T12:46:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-jabil-sign-pact-for-ai-data-centre-hardware-joint-venture/articleshow/134918160.cms"
+    },
+    {
       "id": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
       "title": "Enterprise IT infrastructure isn’t built for AI inference",
       "source": "techradar.com",
@@ -656,18 +668,6 @@
       "url": "https://itbusinessnet.com/2026/10/sakon-introduces-ask-milo-the-ai-companion-for-enterprise-telecom-on-servicenow/"
     },
     {
-      "id": "https://asianews.network/bangkok-imf-world-bank-talks-ai-boosts-growth-but-risks-disrupting-global-workforce/",
-      "title": "Bangkok IMF-World Bank talks: AI boosts growth, but risks disrupting global workforce",
-      "source": "asianews.network",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T01:46:00Z",
-      "publishedAt": "2026-10-13T01:46:00Z",
-      "summary": "",
-      "url": "https://asianews.network/bangkok-imf-world-bank-talks-ai-boosts-growth-but-risks-disrupting-global-workforce/"
-    },
-    {
       "id": "https://newsway.co.kr/news/view?ud=2026101317380320998",
       "title": "하이브리드 명가 '렉서스 ES'...순수 전기차까지 품었다 - 뉴스웨이",
       "source": "newsway.co.kr",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6621,
-    "relevantItems": 144,
-    "feedBytes": 1871769,
+    "fetchedItems": 6862,
+    "relevantItems": 174,
+    "feedBytes": 1969032,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
