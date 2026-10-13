@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 14. 오전 02:28:55",
+  "updatedAt": "2026. 10. 14. 오전 02:48:52",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 739,
-    "deduped": 739,
-    "eventDeduped": 739,
+    "passed": 740,
+    "deduped": 740,
+    "eventDeduped": 740,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -90,6 +90,18 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101315514314342"
     },
     {
+      "id": "https://www.naturalnews.com/2026-10-13-russia-ukrainian-supply-robots-destroyed-kharkov.html",
+      "title": "Russia claims Ukrainian supply robots destroyed in Kharkov as encirclement tightens – NaturalNews.com",
+      "source": "naturalnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T17:31:00Z",
+      "publishedAt": "2026-10-13T17:31:00Z",
+      "summary": "",
+      "url": "https://www.naturalnews.com/2026-10-13-russia-ukrainian-supply-robots-destroyed-kharkov.html"
+    },
+    {
       "id": "http://www.torontotelegraph.com/news/279371803/canada-makes-milestone-clean-energy-investment-in-new-brunswick-to-drive-economic-and-energy-security-and-enhance-climate-competitiveness",
       "title": "Canada makes milestone clean energy investment in New Brunswick to drive economic and energy security and enhance climate competitiveness",
       "source": "torontotelegraph.com",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-13T17:01:00Z",
       "summary": "",
       "url": "https://www.newvision.co.ug/category/news/cabinet-moves-to-boost-lithium-mining-for-loc-NV_242340_102026"
-    },
-    {
-      "id": "https://www.industrytap.com/atlanta-startup-launches-multilegged-robots-to-weed-vineyards-and-berry-fields/77286",
-      "title": "Atlanta Startup Launches Multilegged Robots to Weed Vineyards and Berry Fields",
-      "source": "industrytap.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T16:32:00Z",
-      "publishedAt": "2026-10-13T16:32:00Z",
-      "summary": "",
-      "url": "https://www.industrytap.com/atlanta-startup-launches-multilegged-robots-to-weed-vineyards-and-berry-fields/77286"
     }
   ],
   "trendItems": [
@@ -306,6 +306,18 @@
       "publishedAt": "2026-10-13T10:01:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026101317563415796"
+    },
+    {
+      "id": "https://www.naturalnews.com/2026-10-13-russia-ukrainian-supply-robots-destroyed-kharkov.html",
+      "title": "Russia claims Ukrainian supply robots destroyed in Kharkov as encirclement tightens – NaturalNews.com",
+      "source": "naturalnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T17:31:00Z",
+      "publishedAt": "2026-10-13T17:31:00Z",
+      "summary": "",
+      "url": "https://www.naturalnews.com/2026-10-13-russia-ukrainian-supply-robots-destroyed-kharkov.html"
     },
     {
       "id": "http://www.torontotelegraph.com/news/279371803/canada-makes-milestone-clean-energy-investment-in-new-brunswick-to-drive-economic-and-energy-security-and-enhance-climate-competitiveness",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-13T11:31:00Z",
       "summary": "",
       "url": "https://www.etnews.com/20261013000065"
-    },
-    {
-      "id": "https://www.business-standard.com/economy/news/cea-chairman-flags-fuel-supply-concerns-as-electricity-demand-rises-sharply-126101301121_1.html",
-      "title": "CEA chairman flags fuel supply concerns as electricity demand rises sharply",
-      "source": "business-standard.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:01:00Z",
-      "publishedAt": "2026-10-13T14:01:00Z",
-      "summary": "",
-      "url": "https://www.business-standard.com/economy/news/cea-chairman-flags-fuel-supply-concerns-as-electricity-demand-rises-sharply-126101301121_1.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6108,
-    "relevantItems": 145,
-    "feedBytes": 1704771,
+    "fetchedItems": 6001,
+    "relevantItems": 139,
+    "feedBytes": 1684242,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
