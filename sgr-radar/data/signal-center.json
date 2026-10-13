@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 14. 오전 04:42:14",
+  "updatedAt": "2026. 10. 14. 오전 05:09:14",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -209,18 +209,6 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026101315514314342"
         },
         {
-          "id": "https://www.etnews.com/20261013000082",
-          "title": "[블록체인 칼럼] 디지털자산시장 명확화법과 규제체계 재정립에 대한 담론〈중〉",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T11:31:00Z",
-          "publishedAt": "2026-10-13T11:31:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261013000082"
-        },
-        {
           "id": "https://biz.chosun.com/policy/policy_sub/2026/10/13/HM7YSZ4GPRBK3KGQ4WPQRPXJ4I/",
           "title": "이형일 부총리, 베선트 美 재무장관과 첫 면담…“한미 경제·금융 협력 강화”",
           "source": "biz.chosun.com",
@@ -231,6 +219,18 @@
           "publishedAt": "2026-10-13T15:47:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/policy/policy_sub/2026/10/13/HM7YSZ4GPRBK3KGQ4WPQRPXJ4I/"
+        },
+        {
+          "id": "https://www.etnews.com/20261013000210",
+          "title": "[이슈플러스]의료AI 도입보다 어려운 '지속 사용'…확산 열쇠는 '경제성'",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T11:31:00Z",
+          "publishedAt": "2026-10-13T11:31:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261013000210"
         },
         {
           "id": "https://seoul.co.kr:443/news/economy/finance/2026/10/14/20261014031005",
@@ -632,6 +632,18 @@
           "url": "http://www.torontotelegraph.com/news/279371803/canada-makes-milestone-clean-energy-investment-in-new-brunswick-to-drive-economic-and-energy-security-and-enhance-climate-competitiveness"
         },
         {
+          "id": "https://nevadabusiness.com/2026/10/las-vegas-global-economic-alliance-and-commercial-real-estate-brokers-join-forces-and-leverage-assets-to-attract-business-investment-to-southern-nevada/",
+          "title": "Las Vegas Global Economic Alliance and Commercial Real Estate Brokers Join Forces and Leverage Assets to Attract Business Investment to Southern Nevada",
+          "source": "nevadabusiness.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T20:01:00Z",
+          "publishedAt": "2026-10-13T20:01:00Z",
+          "summary": "",
+          "url": "https://nevadabusiness.com/2026/10/las-vegas-global-economic-alliance-and-commercial-real-estate-brokers-join-forces-and-leverage-assets-to-attract-business-investment-to-southern-nevada/"
+        },
+        {
           "id": "https://economictimes.indiatimes.com/opinion/et-commentary/go-on-show-us-the-money-rs-3-lakh-cr-foreign-outflows-spark-concerns-about-indias-investment-landscape/articleshow/134923885.cms",
           "title": "Go On, Show Us the Money! Rs 3 lakh cr foreign outflows spark concerns about India's investment landscape - The Economic Times",
           "source": "economictimes.indiatimes.com",
@@ -726,18 +738,6 @@
           "publishedAt": "2026-10-13T14:02:00Z",
           "summary": "",
           "url": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50634"
-        },
-        {
-          "id": "https://www.erewashsound.com/news/66m-investment-unlocking-new-homes-jobs-and-greener-growth-across-the-east-midlands/",
-          "title": "£66m investment unlocking new homes, jobs and greener growth across the East Midlands - Erewash Sound",
-          "source": "erewashsound.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T13:17:00Z",
-          "publishedAt": "2026-10-13T13:17:00Z",
-          "summary": "",
-          "url": "https://www.erewashsound.com/news/66m-investment-unlocking-new-homes-jobs-and-greener-growth-across-the-east-midlands/"
         }
       ],
       "keywords": [
@@ -747,7 +747,7 @@
         },
         {
           "word": "성장",
-          "count": 3
+          "count": 2
         },
         {
           "word": "고용",
@@ -919,8 +919,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5170,
-    "feedBytes": 1435858,
+    "fetchedItems": 4833,
+    "feedBytes": 1347773,
     "rollingWindowHours": 72
   }
 }
