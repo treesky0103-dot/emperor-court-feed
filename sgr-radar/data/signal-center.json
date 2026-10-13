@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 02:51:37",
+  "updatedAt": "2026. 10. 13. 오후 03:18:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -261,16 +261,16 @@
           "url": "http://inews24.com/view/2014265"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html",
-          "title": "‘서남권 800조’ 속도 낼까…‘반도체 차르’ 밑 전담조직 둔다",
+          "id": "https://www.hani.co.kr/arti/society/environment/1282129.html",
+          "title": "4대강 재자연화 비용 1조7천억원…보 12개는 철거가 경제적",
           "source": "hani.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:46:00Z",
-          "publishedAt": "2026-10-13T05:46:00Z",
+          "dateRaw": "2026-10-13T06:01:00Z",
+          "publishedAt": "2026-10-13T06:01:00Z",
           "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html"
+          "url": "https://www.hani.co.kr/arti/society/environment/1282129.html"
         },
         {
           "id": "https://www.fnnews.com/news/202610131214313610",
@@ -313,6 +313,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/business/12174457",
+          "title": "LS머트리얼즈 690억 수주 잭팟… 美 AI 데이터센터 전력시장 뚫었다",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T15:00:28Z",
+          "publishedAt": "2026-10-13T15:00:28Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12174457",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03207846645612592&mediaCodeNo=257",
           "title": "산업 AI 기술부터 로봇까지…5개 전시 연계한 'K-커넥트 AI' 개막",
@@ -378,20 +392,6 @@
           "url": "http://inews24.com/view/2014308"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12174407",
-          "title": "산업부, 반도체 메가프로젝트 전담국 신설",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T14:25:47Z",
-          "publishedAt": "2026-10-13T14:25:47Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12174407",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1282124.html",
           "title": "‘서남권 800조’ 속도 낼까…‘반도체 차르’ 밑 전담조직 둔다",
           "source": "hani.co.kr",
@@ -443,11 +443,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 12
-        },
-        {
-          "word": "반도체",
-          "count": 3
+          "count": 13
         },
         {
           "word": "GPU",
@@ -458,8 +454,20 @@
           "count": 2
         },
         {
+          "word": "반도체",
+          "count": 2
+        },
+        {
           "word": "클라우드",
           "count": 2
+        },
+        {
+          "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "전력",
+          "count": 1
         },
         {
           "word": "제조",
@@ -785,6 +793,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261013111144"
         },
         {
+          "id": "https://www.freepressjournal.in/tech/india-uk-bilateral-talks-jitendra-singh-jonathan-reynolds-explore-major-partnerships-in-space-technology-nuclear-energy-ai-emerging-technologies",
+          "title": "India-UK Bilateral Talks: Jitendra Singh & Jonathan Reynolds Explore Major Partnerships In Space Technology, Nuclear Energy, AI & Emerging Technologies",
+          "source": "freepressjournal.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:01:00Z",
+          "publishedAt": "2026-10-13T06:01:00Z",
+          "summary": "",
+          "url": "https://www.freepressjournal.in/tech/india-uk-bilateral-talks-jitendra-singh-jonathan-reynolds-explore-major-partnerships-in-space-technology-nuclear-energy-ai-emerging-technologies"
+        },
+        {
           "id": "https://insideretail.asia/2026/10/13/how-can-data-centers-ease-pressure-on-us-power-grids/",
           "title": "How can data centres ease pressure on power grids?",
           "source": "insideretail.asia",
@@ -879,40 +899,20 @@
           "publishedAt": "2026-10-12T22:32:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02000806645612592&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/",
-          "title": "ABB Robotics introduces two new high-performance robots for precision manufacturing | RoboticsTomorrow",
-          "source": "roboticstomorrow.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T20:46:00Z",
-          "publishedAt": "2026-10-12T20:46:00Z",
-          "summary": "",
-          "url": "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/"
         }
       ],
       "keywords": [
+        {
+          "word": "AI",
+          "count": 3
+        },
         {
           "word": "반도체",
           "count": 3
         },
         {
-          "word": "AI",
-          "count": 2
-        },
-        {
           "word": "데이터센터",
           "count": 2
-        },
-        {
-          "word": "제조",
-          "count": 2
-        },
-        {
-          "word": "로봇",
-          "count": 1
         },
         {
           "word": "배터리",
@@ -924,6 +924,10 @@
         },
         {
           "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         },
         {
@@ -939,8 +943,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4168,
-    "feedBytes": 1142114,
+    "fetchedItems": 4651,
+    "feedBytes": 1289677,
     "rollingWindowHours": 72
   }
 }
