@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 03:18:40",
+  "updatedAt": "2026. 10. 13. 오후 03:52:12",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,6 +46,30 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01636726645612264&mediaCodeNo=257",
+          "title": "“내가 살겠다”며 세입자 내보내더니…다시 전세 놨다가 3000만원 배상",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:47:00Z",
+          "publishedAt": "2026-10-13T06:47:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01636726645612264&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026101313540469755",
+          "title": "돌봄 수요 높은데 공급 부족한 지역 59곳…40곳은 인구감소지역",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:47:00Z",
+          "publishedAt": "2026-10-13T06:47:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026101313540469755"
+        },
+        {
           "id": "https://www.etnews.com/20261013000272",
           "title": "수출입은행, 위기청년 자립 지원에 5억원 기부",
           "source": "etnews.com",
@@ -58,18 +82,6 @@
           "url": "https://www.etnews.com/20261013000272",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=03247206645612592&mediaCodeNo=257",
-          "title": "구인난 빠진 최중증장애인…가족돌봄 '활동보호' 2년 2개월 연장",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:16:00Z",
-          "publishedAt": "2026-10-13T05:16:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03247206645612592&mediaCodeNo=257"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261013122125",
@@ -120,18 +132,6 @@
           "publishedAt": "2026-10-13T05:16:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11623111"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10900897",
-          "title": "[속보] 유승민 “집값·주가 전망, 함부로 떠들면 안된다”…LH사장·李대통령에 직격탄",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:02:00Z",
-          "publishedAt": "2026-10-13T03:02:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10900897"
         }
       ],
       "keywords": [
@@ -144,12 +144,12 @@
           "count": 4
         },
         {
-          "word": "청년",
+          "word": "인구감소",
           "count": 2
         },
         {
-          "word": "인구감소",
-          "count": 1
+          "word": "청년",
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -273,16 +273,16 @@
           "url": "https://www.hani.co.kr/arti/society/environment/1282129.html"
         },
         {
-          "id": "https://www.fnnews.com/news/202610131214313610",
-          "title": "美국채금리 급등에 '매도 악순환' 우려…채권 추가폭락 경고음 4가지",
-          "source": "fnnews.com",
+          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684361",
+          "title": "IMF, 올해 中성장률 전망 4.5%로 하향…내수침체 등 배경 지목",
+          "source": "news.kbs.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:46:00Z",
-          "publishedAt": "2026-10-13T05:46:00Z",
+          "dateRaw": "2026-10-13T06:46:00Z",
+          "publishedAt": "2026-10-13T06:46:00Z",
           "summary": "",
-          "url": "https://www.fnnews.com/news/202610131214313610"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684361"
         }
       ],
       "keywords": [
@@ -295,11 +295,11 @@
           "count": 2
         },
         {
-          "word": "금리",
+          "word": "기업",
           "count": 1
         },
         {
-          "word": "기업",
+          "word": "내수",
           "count": 1
         },
         {
@@ -328,6 +328,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.etnews.com/20261013000255",
+          "title": "로봇이 우편물 분류하고 농사짓고…범부처 피지컬 AI 개발·실증 확대",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:30:00Z",
+          "publishedAt": "2026-10-13T06:30:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261013000255",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03207846645612592&mediaCodeNo=257",
           "title": "산업 AI 기술부터 로봇까지…5개 전시 연계한 'K-커넥트 AI' 개막",
           "source": "edaily.co.kr",
@@ -352,20 +366,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261013120304",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261012000332",
-          "title": "클라우드타입, 바이브 코딩 앱 배포 지원하는 기업용 AI 플랫폼 'Ale AI' 출시",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T01:00:00Z",
-          "publishedAt": "2026-10-13T01:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261012000332",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/13/MKTDXLG6X5HSPDIEIIC4M25LCI/",
@@ -443,22 +443,18 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 13
+          "count": 12
+        },
+        {
+          "word": "로봇",
+          "count": 3
         },
         {
           "word": "GPU",
           "count": 2
         },
         {
-          "word": "로봇",
-          "count": 2
-        },
-        {
           "word": "반도체",
-          "count": 2
-        },
-        {
-          "word": "클라우드",
           "count": 2
         },
         {
@@ -472,6 +468,10 @@
         {
           "word": "제조",
           "count": 1
+        },
+        {
+          "word": "클라우드",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -482,6 +482,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.fox21online.com/news/local/uws-mental-health-and-well-being-services-new-swenson-hall-location/article_aedd0e98-528d-4159-9a99-450abe961da9.html",
+          "title": "UWS mental health and well-being services new Swenson Hall location",
+          "source": "fox21online.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:46:00Z",
+          "publishedAt": "2026-10-13T06:46:00Z",
+          "summary": "",
+          "url": "https://www.fox21online.com/news/local/uws-mental-health-and-well-being-services-new-swenson-hall-location/article_aedd0e98-528d-4159-9a99-450abe961da9.html"
+        },
         {
           "id": "https://www.miragenews.com/secrets-of-mental-health-well-being-for-happier-987221/",
           "title": "Secrets of Mental Health & Well-being for Happier Life",
@@ -589,18 +601,6 @@
           "publishedAt": "2026-10-13T03:46:00Z",
           "summary": "",
           "url": "https://www.kwch.com/2026/10/12/friends-university-students-report-lingering-technology-problems-after-campus-outage/"
-        },
-        {
-          "id": "https://www.kuow.org/immigration/2026-10-12/7-washingtonians-share-their-views-on-trumps-immigration-policy",
-          "title": "7 Washingtonians share their views on Trump's immigration policy",
-          "source": "kuow.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:16:00Z",
-          "publishedAt": "2026-10-13T03:16:00Z",
-          "summary": "",
-          "url": "https://www.kuow.org/immigration/2026-10-12/7-washingtonians-share-their-views-on-trumps-immigration-policy"
         }
       ],
       "keywords": [
@@ -610,14 +610,10 @@
         },
         {
           "word": "정신건강",
-          "count": 2
+          "count": 3
         },
         {
           "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         },
         {
@@ -642,6 +638,54 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong"
+        },
+        {
+          "id": "https://www.ft.lk/special-report/Ceylon-Chamber-s-Sri-Lanka-Economic-and-Investment-Summit-opens-with-call-to-turn-stability-into-growth/22-798580",
+          "title": "Ceylon Chamber’s Sri Lanka Economic and Investment Summit opens with call to turn stability into growth | Daily FT",
+          "source": "ft.lk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:47:00Z",
+          "publishedAt": "2026-10-13T06:47:00Z",
+          "summary": "",
+          "url": "https://www.ft.lk/special-report/Ceylon-Chamber-s-Sri-Lanka-Economic-and-Investment-Summit-opens-with-call-to-turn-stability-into-growth/22-798580"
+        },
+        {
+          "id": "https://aninews.in/news/business/commerce-minister-piyush-goyal-hails-imfs-7-pc-growth-forecast-says-indias-ftas-to-boost-global-trade20261013114542/",
+          "title": "Commerce Minister Piyush Goyal hails IMF's 7 pc growth forecast, says India's FTAs to boost global trade",
+          "source": "aninews.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:47:00Z",
+          "publishedAt": "2026-10-13T06:47:00Z",
+          "summary": "",
+          "url": "https://aninews.in/news/business/commerce-minister-piyush-goyal-hails-imfs-7-pc-growth-forecast-says-indias-ftas-to-boost-global-trade20261013114542/"
+        },
+        {
+          "id": "https://www.thehindubusinessline.com/economy/agri-business/indias-biomanufacturing-capacity-could-boost-smart-protein-growth-report/article71578157.ece",
+          "title": "India’s biomanufacturing capacity could boost smart protein growth: Report",
+          "source": "thehindubusinessline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:47:00Z",
+          "publishedAt": "2026-10-13T06:47:00Z",
+          "summary": "",
+          "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-biomanufacturing-capacity-could-boost-smart-protein-growth-report/article71578157.ece"
+        },
+        {
+          "id": "https://www.roymorgan.com/findings/roy-morgan-update-october-13-2026",
+          "title": "Roy Morgan Update October 13, 2026: Federal Vote, Consumer Confidence and Unemployment - Roy Morgan Research",
+          "source": "roymorgan.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T06:47:00Z",
+          "publishedAt": "2026-10-13T06:47:00Z",
+          "summary": "",
+          "url": "https://www.roymorgan.com/findings/roy-morgan-update-october-13-2026"
         },
         {
           "id": "https://www.freemalaysiatoday.com/category/business/2026/10/13/ai-boom-bolstered-growth-in-global-trade-benefiting-china-and-india-says-imf",
@@ -692,64 +736,16 @@
           "url": "https://economictimes.indiatimes.com/news/international/world-news/imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-threaten-outlook/articleshow/134906339.cms"
         },
         {
-          "id": "https://www.wpsdlocal6.com/news/mccracken-fiscal-court-discusses-growth-plan-urges-city-action-on-showroom-lounge/article_599201d5-2f51-43f1-a779-e656b84c4470.html",
-          "title": "McCracken Fiscal Court discusses growth plan, urges city action on Showroom Lounge",
-          "source": "wpsdlocal6.com",
+          "id": "https://www.thehindu.com/business/Economy/pm-modi-bloomberg-economic-forum-october-13-2026/article71578206.ece",
+          "title": "India grows ‘with the world, not at anyone's cost’, cites strong economic fundamentals, says PM Modi",
+          "source": "thehindu.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:16:00Z",
-          "publishedAt": "2026-10-13T05:16:00Z",
+          "dateRaw": "2026-10-13T06:46:00Z",
+          "publishedAt": "2026-10-13T06:46:00Z",
           "summary": "",
-          "url": "https://www.wpsdlocal6.com/news/mccracken-fiscal-court-discusses-growth-plan-urges-city-action-on-showroom-lounge/article_599201d5-2f51-43f1-a779-e656b84c4470.html"
-        },
-        {
-          "id": "https://nripress.com/china-vs-usa-where-india-stand-in-manufacturing-economic-development/",
-          "title": "CHINA Vs USA, where INDIA Stand in Manufacturing & Economic development",
-          "source": "nripress.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:01:00Z",
-          "publishedAt": "2026-10-13T05:01:00Z",
-          "summary": "",
-          "url": "https://nripress.com/china-vs-usa-where-india-stand-in-manufacturing-economic-development/"
-        },
-        {
-          "id": "https://www.theepochtimes.com/opinion/minimum-wage-hikes-in-china-may-help-some-but-they-will-fail-to-answer-the-economys-needs-6100398",
-          "title": "Minimum Wage Hikes in China May Help Some, but They Will Fail to Answer the Economy’s Needs",
-          "source": "theepochtimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T04:01:00Z",
-          "publishedAt": "2026-10-13T04:01:00Z",
-          "summary": "",
-          "url": "https://www.theepochtimes.com/opinion/minimum-wage-hikes-in-china-may-help-some-but-they-will-fail-to-answer-the-economys-needs-6100398"
-        },
-        {
-          "id": "https://centreforaviation.com/members/direct-news/parliament-has-opportunity-to-unlock-jobs-trade-and-growth-as-momentum-for-755486",
-          "title": "Parliament has opportunity to unlock jobs, trade and growth as momentum for",
-          "source": "centreforaviation.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:01:00Z",
-          "publishedAt": "2026-10-13T03:01:00Z",
-          "summary": "",
-          "url": "https://centreforaviation.com/members/direct-news/parliament-has-opportunity-to-unlock-jobs-trade-and-growth-as-momentum-for-755486"
-        },
-        {
-          "id": "http://www.bjreview.com/Latest_Headlines/202610/t20261013_800448602.html",
-          "title": "China to cut NEV export tax rebate for high-quality auto industry growth",
-          "source": "bjreview.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T02:16:00Z",
-          "publishedAt": "2026-10-13T02:16:00Z",
-          "summary": "",
-          "url": "http://www.bjreview.com/Latest_Headlines/202610/t20261013_800448602.html"
+          "url": "https://www.thehindu.com/business/Economy/pm-modi-bloomberg-economic-forum-october-13-2026/article71578206.ece"
         }
       ],
       "keywords": [
@@ -758,19 +754,19 @@
           "count": 6
         },
         {
+          "word": "투자",
+          "count": 3
+        },
+        {
           "word": "무역",
           "count": 2
         },
         {
-          "word": "투자",
-          "count": 2
-        },
-        {
-          "word": "공급망",
+          "word": "고용",
           "count": 1
         },
         {
-          "word": "수출",
+          "word": "공급망",
           "count": 1
         }
       ],
@@ -943,8 +939,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4651,
-    "feedBytes": 1289677,
+    "fetchedItems": 4670,
+    "feedBytes": 1315960,
     "rollingWindowHours": 72
   }
 }
