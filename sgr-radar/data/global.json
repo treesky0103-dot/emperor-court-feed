@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 09:20:24",
+  "updatedAt": "2026. 10. 13. 오전 09:53:54",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 137,
-    "deduped": 137,
-    "eventDeduped": 137,
+    "passed": 136,
+    "deduped": 136,
+    "eventDeduped": 136,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -392,6 +392,18 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=05484166645612264&mediaCodeNo=257"
     },
     {
+      "id": "https://www.staradvertiser.com/2026/10/12/breaking-news/oil-prices-rise-as-saudi-attacks-overshadow-trumps-diesel-deal/",
+      "title": "Oil prices rise as Saudi attacks overshadow Trump’s diesel deal | Honolulu Star-Advertiser",
+      "source": "staradvertiser.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T00:46:00Z",
+      "publishedAt": "2026-10-13T00:46:00Z",
+      "summary": "",
+      "url": "https://www.staradvertiser.com/2026/10/12/breaking-news/oil-prices-rise-as-saudi-attacks-overshadow-trumps-diesel-deal/"
+    },
+    {
       "id": "https://www.weny.com/news/washington-dc/trump-defends-russian-diesel-deal-as-zelenskyy-criticizes-easing-of-sanctions/article_62f19ded-bf26-5c69-b174-89642d70aed9.html",
       "title": "Trump Defends Russian Diesel Deal as Zelenskyy Criticizes Easing of Sanctions",
       "source": "weny.com",
@@ -402,18 +414,6 @@
       "publishedAt": "2026-10-13T00:16:00Z",
       "summary": "",
       "url": "https://www.weny.com/news/washington-dc/trump-defends-russian-diesel-deal-as-zelenskyy-criticizes-easing-of-sanctions/article_62f19ded-bf26-5c69-b174-89642d70aed9.html"
-    },
-    {
-      "id": "http://www.econotimes.com/Nasdaq-Falls-as-Oil-Prices-Surge-Ahead-of-Bank-Earnings-1754703",
-      "title": "Nasdaq Falls as Oil Prices Surge Ahead of Bank Earnings - EconoTimes",
-      "source": "econotimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T23:46:00Z",
-      "publishedAt": "2026-10-12T23:46:00Z",
-      "summary": "",
-      "url": "http://www.econotimes.com/Nasdaq-Falls-as-Oil-Prices-Surge-Ahead-of-Bank-Earnings-1754703"
     },
     {
       "id": "https://dailypioneer.com/news/biogas-indias-energy-security-and-green-transition-advantage",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3510,
-    "relevantItems": 104,
-    "feedBytes": 918194,
+    "fetchedItems": 3228,
+    "relevantItems": 96,
+    "feedBytes": 859021,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
