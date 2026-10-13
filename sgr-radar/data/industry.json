@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 08:39:27",
+  "updatedAt": "2026. 10. 13. 오후 08:59:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 713,
-    "deduped": 713,
-    "eventDeduped": 713,
+    "passed": 711,
+    "deduped": 711,
+    "eventDeduped": 711,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -608,6 +608,18 @@
       "url": "https://www.dealstreetasia.com/stories/data-centre-dayone-financing-malaysia-497927"
     },
     {
+      "id": "https://clarechampion.ie/e1-6bn-ennis-data-centre-clears-all-legal-hurdles-after-supreme-court-dismisses-leave-to-appeal-application-by-objectors/",
+      "title": "€1.6bn Ennis data centre clears all legal hurdles after Supreme Court dismisses leave to appeal application by objectors - The Clare Champion",
+      "source": "clarechampion.ie",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T11:47:00Z",
+      "publishedAt": "2026-10-13T11:47:00Z",
+      "summary": "",
+      "url": "https://clarechampion.ie/e1-6bn-ennis-data-centre-clears-all-legal-hurdles-after-supreme-court-dismisses-leave-to-appeal-application-by-objectors/"
+    },
+    {
       "id": "https://obj.ca/data/privately-owned-office-buildings-and-complexes/",
       "title": "OBJ Data Centre | Ottawa Business Journal",
       "source": "obj.ca",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-13T07:31:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/it-science/ict/2026/10/13/FIV4LSHPHFHH5FEHKUT3EDNYNU/"
-    },
-    {
-      "id": "https://zdnet.co.kr/view/?no=20261013143530",
-      "title": "정부사업으로 만든 AI 데이터 개방 확대…국무회의 통과",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T07:17:00Z",
-      "publishedAt": "2026-10-13T07:17:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261013143530"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2810,
-    "relevantItems": 72,
-    "feedBytes": 807269,
+    "fetchedItems": 4791,
+    "relevantItems": 91,
+    "feedBytes": 1340008,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

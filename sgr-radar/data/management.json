@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 08:39:28",
+  "updatedAt": "2026. 10. 13. 오후 08:59:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 75,
-    "deduped": 75,
-    "eventDeduped": 75,
+    "passed": 76,
+    "deduped": 76,
+    "eventDeduped": 76,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -416,6 +416,18 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101309155465179"
     },
     {
+      "id": "https://newstodaynet.com/2026/10/13/dmk-restructuring-panel-meets-stalin-to-discuss-party-rejig/",
+      "title": "DMK restructuring panel meets Stalin to discuss party rejig - News Today | First with the news",
+      "source": "newstodaynet.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T11:47:00Z",
+      "publishedAt": "2026-10-13T11:47:00Z",
+      "summary": "",
+      "url": "https://newstodaynet.com/2026/10/13/dmk-restructuring-panel-meets-stalin-to-discuss-party-rejig/"
+    },
+    {
       "id": "https://economictimes.indiatimes.com/world/business/3000-kroger-jobs-at-risk-as-ceo-greg-foran-launches-sweeping-restructuring-to-take-on-rivals-in-the-battle-for-cheaper-groceries/articleshow/134911280.cms",
       "title": "3,000 Kroger jobs at risk as CEO Greg Foran launches sweeping restructuring to take on rivals in the battle for cheaper groceries",
       "source": "economictimes.indiatimes.com",
@@ -668,18 +680,6 @@
       "url": "https://asianews.network/bangkok-imf-world-bank-talks-ai-boosts-growth-but-risks-disrupting-global-workforce/"
     },
     {
-      "id": "https://www.govinfosecurity.com/webinars/live-webinar-securing-agentic-ai-in-banking-from-governance-gap-to-w-7373",
-      "title": "Live Webinar | Securing Agentic AI in Banking: From Governance Gap to Continuous Control",
-      "source": "govinfosecurity.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T01:01:00Z",
-      "publishedAt": "2026-10-13T01:01:00Z",
-      "summary": "",
-      "url": "https://www.govinfosecurity.com/webinars/live-webinar-securing-agentic-ai-in-banking-from-governance-gap-to-w-7373"
-    },
-    {
       "id": "https://newsway.co.kr/news/view?ud=2026101317380320998",
       "title": "하이브리드 명가 '렉서스 ES'...순수 전기차까지 품었다 - 뉴스웨이",
       "source": "newsway.co.kr",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2810,
-    "relevantItems": 72,
-    "feedBytes": 807269,
+    "fetchedItems": 4791,
+    "relevantItems": 91,
+    "feedBytes": 1340008,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
