@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 08:16:11",
+  "updatedAt": "2026. 10. 13. 오후 08:39:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 79,
-    "deduped": 79,
-    "eventDeduped": 79,
+    "passed": 75,
+    "deduped": 75,
+    "eventDeduped": 75,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -102,16 +102,16 @@
       "url": "https://www.mondaq.com:443/unitedstates/employee-rights-labour-relations/1854242/california-signs-landmark-new-ai-workplace-laws-on-termination-layoffs-and-surveillance"
     },
     {
-      "id": "https://www.govtech.com/education/higher-ed/georgia-tech-emory-invest-1b-in-ai-workforce",
-      "title": "Georgia Tech, Emory Invest $1B in AI Workforce",
-      "source": "govtech.com",
-      "language": "English",
+      "id": "https://kbench.com/?q=node/282512",
+      "title": "뉴타닉스, 라이액스 테크놀로지스 인수.. 기업의 에이전틱 AI 도입 가속화 지원",
+      "source": "kbench.com",
+      "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T01:01:00Z",
-      "publishedAt": "2026-10-13T01:01:00Z",
+      "dateRaw": "2026-10-13T07:31:00Z",
+      "publishedAt": "2026-10-13T07:31:00Z",
       "summary": "",
-      "url": "https://www.govtech.com/education/higher-ed/georgia-tech-emory-invest-1b-in-ai-workforce"
+      "url": "https://kbench.com/?q=node/282512"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261013154045",
@@ -234,18 +234,6 @@
       "publishedAt": "2026-10-13T01:46:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/international/international_general/2026/10/13/NRGOWMLFWJHFPG6HFAO2ZBQ4UY/"
-    },
-    {
-      "id": "https://www.govtech.com/education/higher-ed/georgia-tech-emory-invest-1b-in-ai-workforce",
-      "title": "Georgia Tech, Emory Invest $1B in AI Workforce",
-      "source": "govtech.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T01:01:00Z",
-      "publishedAt": "2026-10-13T01:01:00Z",
-      "summary": "",
-      "url": "https://www.govtech.com/education/higher-ed/georgia-tech-emory-invest-1b-in-ai-workforce"
     },
     {
       "id": "https://kbench.com/?q=node/282512",
@@ -500,18 +488,6 @@
       "url": "http://inews24.com/view/2014280"
     },
     {
-      "id": "https://www.wikitree.co.kr/articles/1165757",
-      "title": "한국인들에게도 유명... 'AI' 때문에 결국 무너진 거대 기업",
-      "source": "wikitree.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T01:01:00Z",
-      "publishedAt": "2026-10-13T01:01:00Z",
-      "summary": "",
-      "url": "https://www.wikitree.co.kr/articles/1165757"
-    },
-    {
       "id": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
       "title": "Enterprise IT infrastructure isn’t built for AI inference",
       "source": "techradar.com",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-13T05:16:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10901001"
+    },
+    {
+      "id": "https://nltimes.nl/2026/10/13/dutch-organization-preparing-lawsuit-meta-refuses-stop-selling-ai-glasses",
+      "title": "Dutch organization preparing lawsuit after Meta refuses to stop selling AI glasses",
+      "source": "nltimes.nl",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T11:01:00Z",
+      "publishedAt": "2026-10-13T11:01:00Z",
+      "summary": "",
+      "url": "https://nltimes.nl/2026/10/13/dutch-organization-preparing-lawsuit-meta-refuses-stop-selling-ai-glasses"
+    },
+    {
+      "id": "https://www.delfi.lt/en/business/telia-lietuva-restructures-operations-and-plans-up-to-85-redundancies-120318077",
+      "title": "Telia Lietuva restructures operations and plans up to 85 redundancies",
+      "source": "delfi.lt",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T08:47:00Z",
+      "publishedAt": "2026-10-13T08:47:00Z",
+      "summary": "",
+      "url": "https://www.delfi.lt/en/business/telia-lietuva-restructures-operations-and-plans-up-to-85-redundancies-120318077"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 1387,
-    "relevantItems": 45,
-    "feedBytes": 387928,
+    "fetchedItems": 2810,
+    "relevantItems": 72,
+    "feedBytes": 807269,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
