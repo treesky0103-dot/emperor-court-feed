@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 08:53:48",
+  "updatedAt": "2026. 10. 13. 오전 09:20:23",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 56,
-    "deduped": 56,
-    "eventDeduped": 56,
+    "passed": 55,
+    "deduped": 55,
+    "eventDeduped": 55,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -126,16 +126,16 @@
       "url": "https://www.ksl.com:443/article/news/business/getty-images-to-go-private-after-restructuring-deal/51635383"
     },
     {
-      "id": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
-      "title": "Employees are faking using AI at work to impress their bosses",
-      "source": "techradar.com",
+      "id": "https://thearabianpost.com/thyssenkrupp-establishes-pune-centre-for-automotive-software-development/",
+      "title": "Thyssenkrupp establishes Pune centre for automotive software development — Arabian Post",
+      "source": "thearabianpost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-12",
-      "dateRaw": "2026-10-12T14:01:00Z",
-      "publishedAt": "2026-10-12T14:01:00Z",
+      "dateRaw": "2026-10-12T22:32:00Z",
+      "publishedAt": "2026-10-12T22:32:00Z",
       "summary": "",
-      "url": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses"
+      "url": "https://thearabianpost.com/thyssenkrupp-establishes-pune-centre-for-automotive-software-development/"
     }
   ],
   "trendItems": [
@@ -294,18 +294,6 @@
       "publishedAt": "2026-10-12T14:31:00Z",
       "summary": "",
       "url": "https://yle.fi/a/74-20251080"
-    },
-    {
-      "id": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
-      "title": "Employees are faking using AI at work to impress their bosses",
-      "source": "techradar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T14:01:00Z",
-      "publishedAt": "2026-10-12T14:01:00Z",
-      "summary": "",
-      "url": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses"
     },
     {
       "id": "https://thearabianpost.com/thyssenkrupp-establishes-pune-centre-for-automotive-software-development/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T18:31:00Z",
       "summary": "",
       "url": "https://thesun.ng/ai-wont-replace-skilled-workers-experts-tell-lagos-civil-servants/"
+    },
+    {
+      "id": "https://www.breakingnews.ie/ireland/workers-as-well-as-employers-need-to-feel-ai-benefit-union-leader-tells-conference-1953421.html",
+      "title": "Workers as well as employers need to feel AI benefit, union leader tells conference | BreakingNews",
+      "source": "breakingnews.ie",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T18:02:00Z",
+      "publishedAt": "2026-10-12T18:02:00Z",
+      "summary": "",
+      "url": "https://www.breakingnews.ie/ireland/workers-as-well-as-employers-need-to-feel-ai-benefit-union-leader-tells-conference-1953421.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3843,
-    "relevantItems": 103,
-    "feedBytes": 1033471,
+    "fetchedItems": 3510,
+    "relevantItems": 104,
+    "feedBytes": 918194,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
