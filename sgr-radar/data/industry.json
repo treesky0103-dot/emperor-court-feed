@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 05:31:45",
+  "updatedAt": "2026. 10. 13. 오후 05:57:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 720,
-    "deduped": 720,
-    "eventDeduped": 720,
+    "passed": 708,
+    "deduped": 708,
+    "eventDeduped": 708,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -584,30 +584,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo"
     },
     {
-      "id": "https://www.ft.lk/front-page/Data-centre-gap-a-market-failure-private-sector-must-take-the-lead/44-798596",
-      "title": "Data centre gap a market failure; private sector must take the lead | Daily FT",
-      "source": "ft.lk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T21:31:00Z",
-      "publishedAt": "2026-10-12T21:31:00Z",
-      "summary": "",
-      "url": "https://www.ft.lk/front-page/Data-centre-gap-a-market-failure-private-sector-must-take-the-lead/44-798596"
-    },
-    {
-      "id": "https://www.helsinkitimes.fi/finland/finland-news/domestic/29381-protesters-gathered-outside-google-s-helsinki-office-over-data-centre-projects.html",
-      "title": "Protesters gathered outside Google's Helsinki office over data centre projects",
-      "source": "helsinkitimes.fi",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T21:31:00Z",
-      "publishedAt": "2026-10-12T21:31:00Z",
-      "summary": "",
-      "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/29381-protesters-gathered-outside-google-s-helsinki-office-over-data-centre-projects.html"
-    },
-    {
       "id": "https://zdnet.co.kr/view/?no=20261013144357",
       "title": "에버스핀, KB국민카드·SBI그룹과 AI 에이전트 보안 협력",
       "source": "zdnet.co.kr",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-13T07:31:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/economy/marketing/1282162.html"
+    },
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261013143358",
+      "title": "[최홍석 칼럼] 스케일-어크로스, AI 데이터센터를 넘어 기업망으로",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T07:17:00Z",
+      "publishedAt": "2026-10-13T07:17:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261013143358"
+    },
+    {
+      "id": "https://www.siliconindia.com/news/general/empower-india-targets-ai-and-robotics-market-with-expansion-plan-nid-242663-cid-1.html",
+      "title": "Empower India Targets AI and Robotics Market with Expansion Plan",
+      "source": "siliconindia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T06:02:00Z",
+      "publishedAt": "2026-10-13T06:02:00Z",
+      "summary": "",
+      "url": "https://www.siliconindia.com/news/general/empower-india-targets-ai-and-robotics-market-with-expansion-plan-nid-242663-cid-1.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 5418,
-    "relevantItems": 104,
-    "feedBytes": 1512842,
+    "fetchedItems": 5770,
+    "relevantItems": 111,
+    "feedBytes": 1602589,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
