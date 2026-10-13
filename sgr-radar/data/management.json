@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 10:17:37",
+  "updatedAt": "2026. 10. 13. 오전 10:41:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 61,
-    "deduped": 61,
-    "eventDeduped": 61,
+    "passed": 59,
+    "deduped": 59,
+    "eventDeduped": 59,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -548,18 +548,6 @@
       "url": "https://www.tyrepress.com/2026/10/mech-orbit-joins-ai-and-crm-to-workshop-workflow/"
     },
     {
-      "id": "https://www.domain-b.com/technology/artificial-intelligence/hcltech-anthropic-enterprise-agentic-ai-partnership-2026",
-      "title": "HCLTech partners with Anthropic to scale enterprise agentic AI",
-      "source": "domain-b.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T14:32:00Z",
-      "publishedAt": "2026-10-12T14:32:00Z",
-      "summary": "",
-      "url": "https://www.domain-b.com/technology/artificial-intelligence/hcltech-anthropic-enterprise-agentic-ai-partnership-2026"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10900312",
       "title": "질주하던 하이브리드차, 상승세 처음 꺾여…4분기 신차로 반등 노린다 [여車저車]",
       "source": "biz.heraldcorp.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T20:17:00Z",
       "summary": "",
       "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400354"
+    },
+    {
+      "id": "https://www.gulte.com/political-news/436186/vizag-mp-bharat-on-why-googles-ai-hub-will-create-fewer-jobs",
+      "title": "Vizag MP Bharat On Why Google’s AI Hub Will Create Fewer Jobs - Gulte",
+      "source": "gulte.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T19:47:00Z",
+      "publishedAt": "2026-10-12T19:47:00Z",
+      "summary": "",
+      "url": "https://www.gulte.com/political-news/436186/vizag-mp-bharat-on-why-googles-ai-hub-will-create-fewer-jobs"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2922,
-    "relevantItems": 82,
-    "feedBytes": 756850,
+    "fetchedItems": 3349,
+    "relevantItems": 77,
+    "feedBytes": 862579,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
