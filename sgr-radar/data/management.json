@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 11:03:20",
+  "updatedAt": "2026. 10. 13. 오전 11:27:37",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 61,
-    "deduped": 61,
-    "eventDeduped": 61,
+    "passed": 60,
+    "deduped": 60,
+    "eventDeduped": 60,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -656,18 +656,6 @@
       "url": "https://www.businessdailyafrica.com/bd/economy/treasury-eyeing-debt-restructure-for-water-firms-5629466"
     },
     {
-      "id": "https://www.telecompaper.com:443/news/telia-lithuania-restructures-operations-and-plans-up-to-85-redundancies--1585397",
-      "title": "Telia Lithuania restructures operations and plans up to 85 redundancies",
-      "source": "telecompaper.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T15:17:00Z",
-      "publishedAt": "2026-10-12T15:17:00Z",
-      "summary": "",
-      "url": "https://www.telecompaper.com:443/news/telia-lithuania-restructures-operations-and-plans-up-to-85-redundancies--1585397"
-    },
-    {
       "id": "https://investinglive.com/news/imf-s-georgieva-calls-ai-a-slow-moving-tsunami-again-for-jobs-as-graduates-feel-the-first-hit/",
       "title": "IMF’s Georgieva calls AI a slow-moving tsunami (again) for jobs as graduates feel the first hit",
       "source": "investinglive.com",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-12T20:47:00Z",
       "summary": "",
       "url": "https://www.hcamag.com/us/news/general/get-ready-for-an-ai-tsunami-hitting-jobs-imf/593194"
+    },
+    {
+      "id": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400354",
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case | News, Sports, Jobs",
+      "source": "faribaultcountyregister.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-12",
+      "dateRaw": "2026-10-12T20:17:00Z",
+      "publishedAt": "2026-10-12T20:17:00Z",
+      "summary": "",
+      "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400354"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2913,
-    "relevantItems": 99,
-    "feedBytes": 752748,
+    "fetchedItems": 3253,
+    "relevantItems": 61,
+    "feedBytes": 852243,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
