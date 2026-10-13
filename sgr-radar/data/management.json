@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 12:04:45",
+  "updatedAt": "2026. 10. 13. 오후 12:29:37",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 64,
-    "deduped": 64,
-    "eventDeduped": 64,
+    "passed": 66,
+    "deduped": 66,
+    "eventDeduped": 66,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -296,16 +296,16 @@
       "url": "https://biz.heraldcorp.com/article/10900382"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/technology/tech-news/after-announcing-biggest-layoffs-in-volkswagens-history-ceo-of-europes-biggest-car-company-makes-china-request-to-eu-similar-to-what-ford-ceo-jim-farley-warned-us-about/articleshow/134881049.cms",
-      "title": "After announcing biggest layoffs in Volkswagen's history, CEO of Europe's biggest car company makes ‘China request’ to EU, similar to what Ford CEO Jim Farley warned US about",
-      "source": "timesofindia.indiatimes.com",
+      "id": "https://www.businesstoday.in/latest/corporate/story/will-try-to-avoid-mass-layoffs-no-pay-increase-zohos-sridhar-vembu-says-outlook-for-software-jobs-is-grim-561145-2026-10-13",
+      "title": "'Will try to avoid mass layoffs, no pay increase': Zoho's Sridhar Vembu says outlook for software jobs is grim - BusinessToday",
+      "source": "businesstoday.in",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T21:32:00Z",
-      "publishedAt": "2026-10-12T21:32:00Z",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T03:16:00Z",
+      "publishedAt": "2026-10-13T03:16:00Z",
       "summary": "",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-announcing-biggest-layoffs-in-volkswagens-history-ceo-of-europes-biggest-car-company-makes-china-request-to-eu-similar-to-what-ford-ceo-jim-farley-warned-us-about/articleshow/134881049.cms"
+      "url": "https://www.businesstoday.in/latest/corporate/story/will-try-to-avoid-mass-layoffs-no-pay-increase-zohos-sridhar-vembu-says-outlook-for-software-jobs-is-grim-561145-2026-10-13"
     },
     {
       "id": "https://www.ksl.com:443/article/news/business/getty-images-to-go-private-after-restructuring-deal/51635383",
@@ -330,6 +330,18 @@
       "publishedAt": "2026-10-12T18:02:00Z",
       "summary": "",
       "url": "https://www.hindustantimes.com/world-news/us-news/getty-images-to-go-private-in-debt-restructuring-with-up-to-533-million-in-fresh-equity-101791824712284.html"
+    },
+    {
+      "id": "http://inews24.com/view/2014198",
+      "title": "[정의선 취임 6년] ①현대차, 자동차 회사 넘어 '피지컬 AI 솔루션 기업'으로",
+      "source": "inews24.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T03:16:00Z",
+      "publishedAt": "2026-10-13T03:16:00Z",
+      "summary": "",
+      "url": "http://inews24.com/view/2014198"
     },
     {
       "id": "https://www.wikitree.co.kr/articles/1165757",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-13T00:46:00Z",
       "summary": "",
       "url": "https://dailytrust.com/ai-to-affect-60-of-global-jobs-imf/"
-    },
-    {
-      "id": "https://live.worldbank.org/en/event/2026/annual-meetings-small-ai-big-jobs",
-      "title": "Small AI: More and Better Jobs | Annual Meetings 2026",
-      "source": "live.worldbank.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T00:46:00Z",
-      "publishedAt": "2026-10-13T00:46:00Z",
-      "summary": "",
-      "url": "https://live.worldbank.org/en/event/2026/annual-meetings-small-ai-big-jobs"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 2711,
-    "relevantItems": 96,
-    "feedBytes": 708495,
+    "fetchedItems": 3034,
+    "relevantItems": 115,
+    "feedBytes": 789864,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
