@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 05:04:43",
+  "updatedAt": "2026. 10. 13. 오후 05:31:49",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,20 @@
           "url": "https://www.hani.co.kr/arti/society/rights/1282110.html"
         },
         {
+          "id": "https://www.mk.co.kr/news/society/12174693",
+          "title": "전세계 전통의약 시장 1100조인데 … K한약은 수출 봉쇄",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T17:30:18Z",
+          "publishedAt": "2026-10-13T17:30:18Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12174693",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/13/NBYWJ37BFZCVHPN2B2BA3KWKV4/",
           "title": "수도권 분양전망지수 개선… 집값 상승에 분양시장 기대감 반영",
           "source": "biz.chosun.com",
@@ -30,20 +44,6 @@
           "publishedAt": "2026-10-13T05:16:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/13/NBYWJ37BFZCVHPN2B2BA3KWKV4/"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/society/12174584",
-          "title": "부산 영도·충남·경북...59곳 통합돌봄 만성공급 부족",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T16:17:35Z",
-          "publishedAt": "2026-10-13T16:17:35Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12174584",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         },
         {
           "id": "http://www.ihalla.com/article.php?aid=1791695093791405044",
@@ -137,11 +137,11 @@
       "keywords": [
         {
           "word": "돌봄",
-          "count": 6
+          "count": 5
         },
         {
           "word": "주거",
-          "count": 3
+          "count": 4
         },
         {
           "word": "인구감소",
@@ -221,18 +221,18 @@
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1316420"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12174359",
-          "title": "“레버리지 위험경고 못할 수 밖에”...‘금융안정국’ 직원들도 주식 투자 늘렸다",
+          "id": "https://www.mk.co.kr/news/society/12174693",
+          "title": "전세계 전통의약 시장 1100조인데 … K한약은 수출 봉쇄",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T13:32:57Z",
-          "publishedAt": "2026-10-13T13:32:57Z",
+          "dateRaw": "2026-10-13T17:30:18Z",
+          "publishedAt": "2026-10-13T17:30:18Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12174359",
+          "url": "https://www.mk.co.kr/news/society/12174693",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20260911105941",
@@ -286,7 +286,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 5
         },
         {
           "word": "공급망",
@@ -298,6 +298,10 @@
         },
         {
           "word": "생산성",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         },
         {
@@ -392,6 +396,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03207846645612592&mediaCodeNo=257"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10901395",
+          "title": "“AI·반도체·로봇, 북미시장 뚫는다”…특구기업 10곳, 글로벌 투자사와 맞손",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T08:17:00Z",
+          "publishedAt": "2026-10-13T08:17:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10901395"
+        },
+        {
           "id": "http://inews24.com/view/2014308",
           "title": "인텔, AI 추론용 GPU 'D시리즈' 공개…에이전틱 AI 시장 공략",
           "source": "inews24.com",
@@ -402,18 +418,6 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2014308"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10901323",
-          "title": "반도체부터 로봇까지…코트라, 1500개 기업 참여 ‘K-커넥트 AI’ 개막",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T07:32:00Z",
-          "publishedAt": "2026-10-13T07:32:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10901323"
         },
         {
           "id": "https://seoul.co.kr:443/news/politics/2026/10/13/20261013500232",
@@ -555,16 +559,16 @@
           "url": "https://akipress.com/news:924539:Kyrgyzstan_launches_anonymous_QR_portal_for_students_to_report_school_issues_and_drug_threats/"
         },
         {
-          "id": "https://iberonews.com/not_det.php?lang=es¬id=110657",
-          "title": "New Galderma Research Reveals More Than Half of Women Mistake Menopause-Related Skin Changes for Signs of Ageing - Iberonews",
-          "source": "iberonews.com",
+          "id": "https://www.joplinglobe.com/region/national_business/new-galderma-research-reveals-more-than-half-of-women-mistake-menopause-related-skin-changes-for/article_723b80bb-13d4-504c-bd42-a310f62a2ecd.html",
+          "title": "New Galderma Research Reveals More Than Half of Women Mistake Menopause-Related Skin Changes for Signs of Ageing",
+          "source": "joplinglobe.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-13",
-          "dateRaw": "2026-10-13T05:46:00Z",
-          "publishedAt": "2026-10-13T05:46:00Z",
+          "dateRaw": "2026-10-13T07:17:00Z",
+          "publishedAt": "2026-10-13T07:17:00Z",
           "summary": "",
-          "url": "https://iberonews.com/not_det.php?lang=es¬id=110657"
+          "url": "https://www.joplinglobe.com/region/national_business/new-galderma-research-reveals-more-than-half-of-women-mistake-menopause-related-skin-changes-for/article_723b80bb-13d4-504c-bd42-a310f62a2ecd.html"
         },
         {
           "id": "https://www.clinicalleader.com/doc/what-is-healthcare-data-interoperability-and-why-does-it-matter-for-clinical-research-0001",
@@ -638,6 +642,18 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong"
+        },
+        {
+          "id": "https://dunyanews.tv/en/World/977527-imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-thr",
+          "title": "IMF says AI investment propping up global growth, but war and debt threaten outlook | Dunya News",
+          "source": "dunyanews.tv",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T08:17:00Z",
+          "publishedAt": "2026-10-13T08:17:00Z",
+          "summary": "",
+          "url": "https://dunyanews.tv/en/World/977527-imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-thr"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03834326645612592&mediaCodeNo=257",
@@ -734,18 +750,6 @@
           "publishedAt": "2026-10-13T04:31:00Z",
           "summary": "",
           "url": "https://www.moneycontrol.com/news/business/india-business-news-live-business-news-gold-silver-rbi-gmp-ipo-bloomberg-new-economic-forum-liveblog-14050572.html"
-        },
-        {
-          "id": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/",
-          "title": "IMF Global Growth Forecast Above 3% on AI Investment",
-          "source": "en.shafaqna.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:46:00Z",
-          "publishedAt": "2026-10-13T03:46:00Z",
-          "summary": "",
-          "url": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/"
         }
       ],
       "keywords": [
@@ -935,8 +939,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 2563,
-    "feedBytes": 736746,
+    "fetchedItems": 5418,
+    "feedBytes": 1512842,
     "rollingWindowHours": 72
   }
 }
