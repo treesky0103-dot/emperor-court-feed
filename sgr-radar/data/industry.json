@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 12:29:36",
+  "updatedAt": "2026. 10. 13. 오후 12:53:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 708,
-    "deduped": 708,
-    "eventDeduped": 708,
+    "passed": 710,
+    "deduped": 710,
+    "eventDeduped": 710,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -524,18 +524,6 @@
       "url": "https://africanreview.com/energy/nigeria-advances-local-solar-manufacturing-and-battery-storage"
     },
     {
-      "id": "http://www.knnews.co.kr/news/articleView.php?idxno=1552614",
-      "title": "남해읍에 '바이오가스화시설' 들어선다",
-      "source": "knnews.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T16:32:00Z",
-      "publishedAt": "2026-10-12T16:32:00Z",
-      "summary": "",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1552614"
-    },
-    {
       "id": "https://www.isssource.com/quantum-technology-player-deals-for-zero-trust-provider/",
       "title": "Quantum Technology Player Deals for Zero Trust Provider - ISSSource",
       "source": "isssource.com",
@@ -632,18 +620,6 @@
       "url": "https://www.waterford-news.ie/news/kilmeaden-residents-protest-against-data-centres-planned-for-waterford-village_arid-20331116.html"
     },
     {
-      "id": "https://www.irishtimes.com/business/2026/10/12/supreme-court-rejects-application-to-appeal-plan-for-data-centre-in-ennis/",
-      "title": "Supreme Court rejects application to appeal plan for data centre in Ennis",
-      "source": "irishtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T16:32:00Z",
-      "publishedAt": "2026-10-12T16:32:00Z",
-      "summary": "",
-      "url": "https://www.irishtimes.com/business/2026/10/12/supreme-court-rejects-application-to-appeal-plan-for-data-centre-in-ennis/"
-    },
-    {
       "id": "http://www.calcuttanews.net/news/279369090/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta",
       "title": "South Yorkshire eyes Indian investment in advanced manufacturing, AI, sustainable aviation after UK-India FTA",
       "source": "calcuttanews.net",
@@ -738,15 +714,39 @@
       "publishedAt": "2026-10-13T00:17:00Z",
       "summary": "",
       "url": "http://inews24.com/view/2014234"
+    },
+    {
+      "id": "https://aninews.in/news/business/fm-nirmala-sitharaman-concludes-singapore-visit-with-focus-on-boosting-indias-infrastructure-ai-semiconductor-sectors20261012203722/",
+      "title": "FM Nirmala Sitharaman concludes Singapore visit with focus on boosting India's infrastructure, AI, semiconductor sectors",
+      "source": "aninews.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T03:16:00Z",
+      "publishedAt": "2026-10-13T03:16:00Z",
+      "summary": "",
+      "url": "https://aninews.in/news/business/fm-nirmala-sitharaman-concludes-singapore-visit-with-focus-on-boosting-indias-infrastructure-ai-semiconductor-sectors20261012203722/"
+    },
+    {
+      "id": "http://inews24.com/view/2014277",
+      "title": "전자·반도체·로봇 전시회 하나로…'K 커넥트 AI' 출범",
+      "source": "inews24.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T03:16:00Z",
+      "publishedAt": "2026-10-13T03:16:00Z",
+      "summary": "",
+      "url": "http://inews24.com/view/2014277"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3034,
-    "relevantItems": 115,
-    "feedBytes": 789864,
+    "fetchedItems": 3334,
+    "relevantItems": 74,
+    "feedBytes": 881340,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

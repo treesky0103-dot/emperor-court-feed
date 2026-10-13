@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 12:29:45",
+  "updatedAt": "2026. 10. 13. 오후 12:53:07",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -525,6 +525,18 @@
           "url": "https://timesofindia.indiatimes.com/world/us/lady-gagas-born-this-way-foundation-commits-5-million-to-55-youth-organisations-across-11-countries-to-expand-mental-health-support/articleshow/134889530.cms"
         },
         {
+          "id": "https://www.kwch.com/2026/10/12/friends-university-students-report-lingering-technology-problems-after-campus-outage/",
+          "title": "Friends University students report lingering technology problems after campus outage",
+          "source": "kwch.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T03:46:00Z",
+          "publishedAt": "2026-10-13T03:46:00Z",
+          "summary": "",
+          "url": "https://www.kwch.com/2026/10/12/friends-university-students-report-lingering-technology-problems-after-campus-outage/"
+        },
+        {
           "id": "https://www.kuow.org/immigration/2026-10-12/7-washingtonians-share-their-views-on-trumps-immigration-policy",
           "title": "7 Washingtonians share their views on Trump's immigration policy",
           "source": "kuow.org",
@@ -583,36 +595,24 @@
           "publishedAt": "2026-10-13T01:46:00Z",
           "summary": "",
           "url": "https://www.hawaii.edu/news/2026/10/12/2026-quality-of-life-survey/"
-        },
-        {
-          "id": "https://www.crikey.com.au/2026/10/13/temporary-visas-labor-immigration-policy-tony-burke/",
-          "title": "Labor's new migration rhetoric doesn't bode well for sensible policymaking",
-          "source": "crikey.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T00:46:00Z",
-          "publishedAt": "2026-10-13T00:46:00Z",
-          "summary": "",
-          "url": "https://www.crikey.com.au/2026/10/13/temporary-visas-labor-immigration-policy-tony-burke/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 5
         },
         {
           "word": "정신건강",
           "count": 3
         },
         {
-          "word": "이민",
+          "word": "청년",
           "count": 2
         },
         {
-          "word": "청년",
-          "count": 2
+          "word": "이민",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -632,6 +632,18 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/asean-needs-come-together-single-market-continue-attracting-investments-pm-wong"
+        },
+        {
+          "id": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/",
+          "title": "IMF Global Growth Forecast Above 3% on AI Investment",
+          "source": "en.shafaqna.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T03:46:00Z",
+          "publishedAt": "2026-10-13T03:46:00Z",
+          "summary": "",
+          "url": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/"
         },
         {
           "id": "https://economictimes.indiatimes.com/news/international/world-news/imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-threaten-outlook/articleshow/134906339.cms",
@@ -728,35 +740,23 @@
           "publishedAt": "2026-10-13T00:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.co.kr/business/companies/20261013/delivery-fee-cap-risks-shifting-costs-to-riders-consumers"
-        },
-        {
-          "id": "https://asia.nikkei.com/business/technology/grab-to-buy-singapore-based-atome-financial-for-1.49bn-to-boost-consumer-lending",
-          "title": "Grab to buy Singapore-based Atome Financial for $1.49bn to boost consumer lending",
-          "source": "asia.nikkei.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T00:46:00Z",
-          "publishedAt": "2026-10-13T00:46:00Z",
-          "summary": "",
-          "url": "https://asia.nikkei.com/business/technology/grab-to-buy-singapore-based-atome-financial-for-1.49bn-to-boost-consumer-lending"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 6
+          "count": 7
         },
         {
           "word": "무역",
           "count": 2
         },
         {
-          "word": "수출",
-          "count": 1
+          "word": "투자",
+          "count": 2
         },
         {
-          "word": "투자",
+          "word": "수출",
           "count": 1
         }
       ],
@@ -929,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3034,
-    "feedBytes": 789864,
+    "fetchedItems": 3334,
+    "feedBytes": 881340,
     "rollingWindowHours": 72
   }
 }
