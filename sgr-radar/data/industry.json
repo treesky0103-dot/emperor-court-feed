@@ -2,33 +2,21 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 14. 오전 01:41:08",
+  "updatedAt": "2026. 10. 14. 오전 02:04:50",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 744,
-    "deduped": 744,
-    "eventDeduped": 744,
+    "passed": 733,
+    "deduped": 733,
+    "eventDeduped": 733,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://biz.chosun.com/it-science/ict/2026/10/13/PC575PEULZFTJOJSXEGGVLBVQE/",
-      "title": "지멘스, 韓 반도체·조선·배터리 AI 공략…“내년 제조 AI 도입 본격화”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T07:32:00Z",
-      "publishedAt": "2026-10-13T07:32:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/it-science/ict/2026/10/13/PC575PEULZFTJOJSXEGGVLBVQE/"
-    },
     {
       "id": "https://www.etnews.com/20261013000255",
       "title": "로봇이 우편물 분류하고 농사짓고…범부처 피지컬 AI 개발·실증 확대",
@@ -40,6 +28,30 @@
       "publishedAt": "2026-10-13T11:31:00Z",
       "summary": "",
       "url": "https://www.etnews.com/20261013000255"
+    },
+    {
+      "id": "https://biz.chosun.com/science-chosun/science/2026/10/14/GJSWGM3GMY2TKYTFG5STSNRUMQ/",
+      "title": "약물 제조부터 포장까지… 위고비 생산 첨단 기지",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T15:47:00Z",
+      "publishedAt": "2026-10-13T15:47:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/science-chosun/science/2026/10/14/GJSWGM3GMY2TKYTFG5STSNRUMQ/"
+    },
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261013170220",
+      "title": "코오롱베니트, AI 도입 넘어 성과 창출 위한 AX 실행 전략 공개",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T11:01:00Z",
+      "publishedAt": "2026-10-13T11:01:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261013170220"
     },
     {
       "id": "https://www.hani.co.kr/arti/opinion/editorial/1282228.html",
@@ -90,6 +102,18 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101317563415796"
     },
     {
+      "id": "https://www.newvision.co.ug/category/news/cabinet-moves-to-boost-lithium-mining-for-loc-NV_242340_102026",
+      "title": "Business: Cabinet moves to boost lithium mining for local solar battery production",
+      "source": "newvision.co.ug",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T17:01:00Z",
+      "publishedAt": "2026-10-13T17:01:00Z",
+      "summary": "",
+      "url": "https://www.newvision.co.ug/category/news/cabinet-moves-to-boost-lithium-mining-for-loc-NV_242340_102026"
+    },
+    {
       "id": "https://www.industrytap.com/atlanta-startup-launches-multilegged-robots-to-weed-vineyards-and-berry-fields/77286",
       "title": "Atlanta Startup Launches Multilegged Robots to Weed Vineyards and Berry Fields",
       "source": "industrytap.com",
@@ -112,45 +136,9 @@
       "publishedAt": "2026-10-13T16:31:00Z",
       "summary": "",
       "url": "https://www.pharmaceuticalonline.com/doc/gsk-announces-drug-manufacturing-expansion-in-pennsylvania-0001"
-    },
-    {
-      "id": "https://www.canadianmanufacturing.com/exporting-and-importing/tc-energy-announces-indigenous-investment-in-coastal-gaslink-322080/",
-      "title": "TC Energy announces Indigenous investment in Coastal GasLink",
-      "source": "canadianmanufacturing.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T16:01:00Z",
-      "publishedAt": "2026-10-13T16:01:00Z",
-      "summary": "",
-      "url": "https://www.canadianmanufacturing.com/exporting-and-importing/tc-energy-announces-indigenous-investment-in-coastal-gaslink-322080/"
-    },
-    {
-      "id": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/irish-takeover-panel-dcc-energy-plc/9820981",
-      "title": "Irish Takeover Panel DCC ENERGY PLC | Company Announcement | Investegate",
-      "source": "investegate.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:47:00Z",
-      "publishedAt": "2026-10-13T15:47:00Z",
-      "summary": "",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/irish-takeover-panel-dcc-energy-plc/9820981"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://biz.chosun.com/it-science/ict/2026/10/13/PC575PEULZFTJOJSXEGGVLBVQE/",
-      "title": "지멘스, 韓 반도체·조선·배터리 AI 공략…“내년 제조 AI 도입 본격화”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T07:32:00Z",
-      "publishedAt": "2026-10-13T07:32:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/it-science/ict/2026/10/13/PC575PEULZFTJOJSXEGGVLBVQE/"
-    },
     {
       "id": "https://www.etnews.com/20261013000255",
       "title": "로봇이 우편물 분류하고 농사짓고…범부처 피지컬 AI 개발·실증 확대",
@@ -212,6 +200,18 @@
       "url": "https://biz.heraldcorp.com/article/10901395"
     },
     {
+      "id": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/",
+      "title": "The Turing Trap is turning into a Talent Trap: The wrong AI strategy could strand millions of skilled workers | Fortune",
+      "source": "fortune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T15:17:00Z",
+      "publishedAt": "2026-10-13T15:17:00Z",
+      "summary": "",
+      "url": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/"
+    },
+    {
       "id": "https://biz.chosun.com/stock/stock_general/2026/10/14/MZRTAZRRGFSDGYRQGA4GIMZSGY/",
       "title": "中 반도체 공습·외국인 매도… 주저앉은 코스피",
       "source": "biz.chosun.com",
@@ -222,6 +222,18 @@
       "publishedAt": "2026-10-13T15:47:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/stock/stock_general/2026/10/14/MZRTAZRRGFSDGYRQGA4GIMZSGY/"
+    },
+    {
+      "id": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/",
+      "title": "중국의 바이오 굴기 “2030년까지 최초 신약 25% 내놓을 것”",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T15:46:00Z",
+      "publishedAt": "2026-10-13T15:46:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/"
     },
     {
       "id": "https://www.etnews.com/20261013000231",
@@ -258,18 +270,6 @@
       "publishedAt": "2026-10-13T08:17:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=04031126645612592&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/economy/finance/1282158.html",
-      "title": "코스피 5.46% 급락한 6035 마감…반도체주 폭락에 매도 사이드카",
-      "source": "hani.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T07:32:00Z",
-      "publishedAt": "2026-10-13T07:32:00Z",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1282158.html"
     },
     {
       "id": "https://fortune.com/2026/10/13/steel-ships-railroads-data-centers-vc-industrial-revolution-analogy-seriously/",
@@ -318,6 +318,18 @@
       "publishedAt": "2026-10-13T10:01:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026101317563415796"
+    },
+    {
+      "id": "https://www.newvision.co.ug/category/news/cabinet-moves-to-boost-lithium-mining-for-loc-NV_242340_102026",
+      "title": "Business: Cabinet moves to boost lithium mining for local solar battery production",
+      "source": "newvision.co.ug",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T17:01:00Z",
+      "publishedAt": "2026-10-13T17:01:00Z",
+      "summary": "",
+      "url": "https://www.newvision.co.ug/category/news/cabinet-moves-to-boost-lithium-mining-for-loc-NV_242340_102026"
     },
     {
       "id": "https://www.industrytap.com/atlanta-startup-launches-multilegged-robots-to-weed-vineyards-and-berry-fields/77286",
@@ -438,6 +450,18 @@
       "publishedAt": "2026-10-13T14:01:00Z",
       "summary": "",
       "url": "https://www.theglobeandmail.com/business/article-emera-canadian-utilities-stelco-weston-boots-october-10/"
+    },
+    {
+      "id": "https://compoundsemiconductor.net/article/125605/Polar_and_Imec_announce_8-inch_GaN_partnership",
+      "title": "Polar and Imec announce 8-inch GaN partnership - Compound Semiconductor News",
+      "source": "compoundsemiconductor.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T12:47:00Z",
+      "publishedAt": "2026-10-13T12:47:00Z",
+      "summary": "",
+      "url": "https://compoundsemiconductor.net/article/125605/Polar_and_Imec_announce_8-inch_GaN_partnership"
     },
     {
       "id": "http://www.torontotelegraph.com/news/279371609/bluejay-achieves-toray-contractual-manufacturing-milestone-advancing-supply-chain-resilience-and-commercialization-readiness",
@@ -704,49 +728,25 @@
       "url": "https://nuclear-news.net/2026/10/13/1-b1-25000-signature-petition-calls-for-scottish-data-centre-moratorium/"
     },
     {
-      "id": "https://www.rttnews.com/3698428/biotech-stocks-at-52-week-highs-rtsn-rises-with-ipo-biib-con-hnge-hstm.aspx",
-      "title": "Biotech Stocks At 52-Week Highs - RTSN Rises With IPO, BIIB, CON, HNGE, HSTM",
-      "source": "rttnews.com",
+      "id": "https://economictimes.indiatimes.com/news/company/corporate-trends/empower-india-plans-ai-robotics-expansion-to-tap-growing-demand/articleshow/134919615.cms",
+      "title": "Empower India plans AI, robotics expansion to tap growing demand",
+      "source": "economictimes.indiatimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T10:47:00Z",
-      "publishedAt": "2026-10-13T10:47:00Z",
+      "dateRaw": "2026-10-13T14:02:00Z",
+      "publishedAt": "2026-10-13T14:02:00Z",
       "summary": "",
-      "url": "https://www.rttnews.com/3698428/biotech-stocks-at-52-week-highs-rtsn-rises-with-ipo-biib-con-hnge-hstm.aspx"
-    },
-    {
-      "id": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/",
-      "title": "The Turing Trap is turning into a Talent Trap: The wrong AI strategy could strand millions of skilled workers | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:17:00Z",
-      "publishedAt": "2026-10-13T15:17:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/"
-    },
-    {
-      "id": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/",
-      "title": "중국의 바이오 굴기 “2030년까지 최초 신약 25% 내놓을 것”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:46:00Z",
-      "publishedAt": "2026-10-13T15:46:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/"
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/empower-india-plans-ai-robotics-expansion-to-tap-growing-demand/articleshow/134919615.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 6228,
-    "relevantItems": 120,
-    "feedBytes": 1801734,
+    "fetchedItems": 4199,
+    "relevantItems": 90,
+    "feedBytes": 1204032,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
