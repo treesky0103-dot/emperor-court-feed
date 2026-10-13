@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 12:53:03",
+  "updatedAt": "2026. 10. 13. 오후 01:16:19",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
     "raw": 2000,
-    "passed": 133,
-    "deduped": 133,
-    "eventDeduped": 133,
+    "passed": 134,
+    "deduped": 134,
+    "eventDeduped": 134,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,6 +308,18 @@
       "url": "https://www.retaildive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832701/"
     },
     {
+      "id": "https://cunews.net/detail.php?number=172946&thread=22r12r03",
+      "title": "인천시, 2028 G20 정상회의 유치 총력…군수·구청장 공동 협력 결의 : 연합시민의소리",
+      "source": "cunews.net",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T04:02:00Z",
+      "publishedAt": "2026-10-13T04:02:00Z",
+      "summary": "",
+      "url": "https://cunews.net/detail.php?number=172946&thread=22r12r03"
+    },
+    {
       "id": "http://inews24.com/view/2014345",
       "title": "'금리 인상 부담' 채권·CD 발행 주춤⋯전분기比 1.9%↓",
       "source": "inews24.com",
@@ -392,28 +404,28 @@
       "url": "https://seoul.co.kr:443/news/plan/omnipotent-KFTC/2026/10/13/20261013001006"
     },
     {
-      "id": "http://www.cambodiantimes.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions",
-      "title": "Nobel Peace Prize for Navi Pillay highlights deepening chasm Between International Law and US Sanctions",
-      "source": "cambodiantimes.com",
+      "id": "https://kfgo.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/",
+      "title": "ASEAN foreign ministers to tackle transboundary haze in November meetings",
+      "source": "kfgo.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T03:46:00Z",
-      "publishedAt": "2026-10-13T03:46:00Z",
+      "dateRaw": "2026-10-13T04:02:00Z",
+      "publishedAt": "2026-10-13T04:02:00Z",
       "summary": "",
-      "url": "http://www.cambodiantimes.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions"
+      "url": "https://kfgo.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/"
     },
     {
-      "id": "https://hot96.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/",
-      "title": "ASEAN foreign ministers to tackle transboundary haze in November meetings",
-      "source": "hot96.com",
+      "id": "http://www.dallassun.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions",
+      "title": "Nobel Peace Prize for Navi Pillay highlights deepening chasm Between International Law and US Sanctions",
+      "source": "dallassun.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T03:46:00Z",
-      "publishedAt": "2026-10-13T03:46:00Z",
+      "dateRaw": "2026-10-13T04:02:00Z",
+      "publishedAt": "2026-10-13T04:02:00Z",
       "summary": "",
-      "url": "https://hot96.com/2026/10/12/asean-foreign-ministers-to-tackle-transboundary-haze-in-november-meetings/"
+      "url": "http://www.dallassun.com/news/279370096/nobel-peace-prize-for-navi-pillay-highlights-deepening-chasm-between-international-law-and-us-sanctions"
     },
     {
       "id": "https://article.wn.com/view/2026/10/13/China_sanctions_Paraguay_and_Belize_ministers_over_Taiwan_ti/",
@@ -438,18 +450,6 @@
       "publishedAt": "2026-10-13T03:01:00Z",
       "summary": "",
       "url": "https://www.eurasiareview.com/13102026-the-geopolitical-earthquake-of-the-iran-war-oped/"
-    },
-    {
-      "id": "https://asianews.network/singapore-dpm-calls-for-stronger-asean-through-singapore-china-cooperation/",
-      "title": "Singapore DPM calls for stronger ASEAN through Singapore-China cooperation",
-      "source": "asianews.network",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T01:46:00Z",
-      "publishedAt": "2026-10-13T01:46:00Z",
-      "summary": "",
-      "url": "https://asianews.network/singapore-dpm-calls-for-stronger-asean-through-singapore-china-cooperation/"
     },
     {
       "id": "https://www.mondaq.com:443/unitedstates/government-contracts-procurement-ppp/1853442/dc-circuit-upholds-exclusion-of-anthropic-from-dow-supply-chain-under-fascsa",
@@ -744,9 +744,9 @@
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3334,
-    "relevantItems": 74,
-    "feedBytes": 881340,
+    "fetchedItems": 3386,
+    "relevantItems": 89,
+    "feedBytes": 930397,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

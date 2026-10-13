@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 12:53:07",
+  "updatedAt": "2026. 10. 13. 오후 01:16:26",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.hani.co.kr/arti/society/rights/1282110.html",
+          "title": "통합돌봄 지역 격차 심화…수요 많지만 공급 적은 40곳 ‘인구감소지역’",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T04:01:00Z",
+          "publishedAt": "2026-10-13T04:01:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/society/rights/1282110.html"
+        },
         {
           "id": "https://www.mk.co.kr/news/society/12174336",
           "title": "연세대 수시서 ‘스마트안경’ 부정행위 적발…대학입시 ‘비상’",
@@ -20,6 +32,20 @@
           "url": "https://www.mk.co.kr/news/society/12174336",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261013122125",
+          "title": "국가유산청 학술대회서 청년들이 기록한 사라져가는 마을의 기억",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T03:21:25Z",
+          "publishedAt": "2026-10-13T03:21:25Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261013122125",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "http://inews24.com/view/2014363",
@@ -44,18 +70,6 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2634960"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261013100102",
-          "title": "\"90년대생 부모가 온다\"…비상교육, 유치원·어린이집 경영 변화 논의",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:01:00Z",
-          "publishedAt": "2026-10-13T03:01:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013100102"
         },
         {
           "id": "https://www.etnews.com/20261013000163",
@@ -118,31 +132,23 @@
           "publishedAt": "2026-10-13T03:16:00Z",
           "summary": "",
           "url": "http://kr.xinhuanet.com/20261013/10f5390e480e408eb6bf8087591ef388/c.html"
-        },
-        {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026101310010219531",
-          "title": "엠클라우드브리지, 공공·교육기관 대상 보안 높인 ‘Ai 365 통합 AI 플랫폼’ 발표",
-          "source": "ddaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:02:00Z",
-          "publishedAt": "2026-10-13T03:02:00Z",
-          "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026101310010219531"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 3
         },
         {
           "word": "돌봄",
-          "count": 2
+          "count": 3
         },
         {
           "word": "주거",
+          "count": 2
+        },
+        {
+          "word": "청년",
           "count": 2
         },
         {
@@ -150,7 +156,7 @@
           "count": 1
         },
         {
-          "word": "청년",
+          "word": "인구감소",
           "count": 1
         }
       ],
@@ -314,8 +320,8 @@
     "technology": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261013112348",
-          "title": "전자전·반도체대전·로보월드 등 전시회 ‘AI’ 주제로 연결…‘K Connect AI’ 출범",
+          "id": "https://zdnet.co.kr/view/?no=20261013092218",
+          "title": "[AI 고속도로] 정부 정보시스템 2030년까지 클라우드 전환…12월 로드맵 나온다",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "",
@@ -323,7 +329,7 @@
           "dateRaw": "2026-10-13T03:01:00Z",
           "publishedAt": "2026-10-13T03:01:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013112348"
+          "url": "https://zdnet.co.kr/view/?no=20261013092218"
         },
         {
           "id": "https://www.etnews.com/20261012000332",
@@ -441,18 +447,18 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 12
+          "count": 11
         },
         {
           "word": "반도체",
-          "count": 4
-        },
-        {
-          "word": "GPU",
-          "count": 2
+          "count": 3
         },
         {
           "word": "클라우드",
+          "count": 3
+        },
+        {
+          "word": "GPU",
           "count": 2
         },
         {
@@ -513,16 +519,28 @@
           "url": "https://www.malverngazette.co.uk/news/26628947.nhs-bosses-say-staff-need-get-vaccinated/"
         },
         {
-          "id": "https://timesofindia.indiatimes.com/world/us/lady-gagas-born-this-way-foundation-commits-5-million-to-55-youth-organisations-across-11-countries-to-expand-mental-health-support/articleshow/134889530.cms",
-          "title": "Lady Gaga's Born This Way Foundation commits $5 million to 55 youth organisations across 11 countries to expand mental health support",
-          "source": "timesofindia.indiatimes.com",
+          "id": "https://www.wmbfnews.com/2026/10/13/state-report-cards-released-grand-strand-pee-dee-school-districts-heres-how-they-did/",
+          "title": "State report cards released for Grand Strand, Pee Dee school districts. Here’s how they did.",
+          "source": "wmbfnews.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-12",
-          "dateRaw": "2026-10-12T16:47:00Z",
-          "publishedAt": "2026-10-12T16:47:00Z",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T04:02:00Z",
+          "publishedAt": "2026-10-13T04:02:00Z",
           "summary": "",
-          "url": "https://timesofindia.indiatimes.com/world/us/lady-gagas-born-this-way-foundation-commits-5-million-to-55-youth-organisations-across-11-countries-to-expand-mental-health-support/articleshow/134889530.cms"
+          "url": "https://www.wmbfnews.com/2026/10/13/state-report-cards-released-grand-strand-pee-dee-school-districts-heres-how-they-did/"
+        },
+        {
+          "id": "https://www.hindustantimes.com/world-news/us-news/colorado-state-university-shooting-active-shooter-reports-whats-happening-on-the-fort-collins-campus-what-we-know-101791851343847.html",
+          "title": "Colorado State University shooting, active shooter reports: What's happening on the Fort Collins campus? What we know",
+          "source": "hindustantimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T04:01:00Z",
+          "publishedAt": "2026-10-13T04:01:00Z",
+          "summary": "",
+          "url": "https://www.hindustantimes.com/world-news/us-news/colorado-state-university-shooting-active-shooter-reports-whats-happening-on-the-fort-collins-campus-what-we-know-101791851343847.html"
         },
         {
           "id": "https://www.kwch.com/2026/10/12/friends-university-students-report-lingering-technology-problems-after-campus-outage/",
@@ -583,35 +601,23 @@
           "publishedAt": "2026-10-13T02:46:00Z",
           "summary": "",
           "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
-        },
-        {
-          "id": "https://www.hawaii.edu/news/2026/10/12/2026-quality-of-life-survey/",
-          "title": "2026 Quality of Life Survey: Hawaiʻi residents healthier with higher life satisfaction | University of Hawaiʻi System News",
-          "source": "hawaii.edu",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T01:46:00Z",
-          "publishedAt": "2026-10-13T01:46:00Z",
-          "summary": "",
-          "url": "https://www.hawaii.edu/news/2026/10/12/2026-quality-of-life-survey/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "정신건강",
-          "count": 3
-        },
-        {
-          "word": "청년",
           "count": 2
         },
         {
           "word": "이민",
+          "count": 1
+        },
+        {
+          "word": "청년",
           "count": 1
         }
       ],
@@ -682,6 +688,18 @@
           "url": "https://www.livemint.com/economy/us-tariffs-accelerate-global-trade-realignment-how-india-s-ftas-could-boost-gdp-11791807553160.html"
         },
         {
+          "id": "https://www.theepochtimes.com/opinion/minimum-wage-hikes-in-china-may-help-some-but-they-will-fail-to-answer-the-economys-needs-6100398",
+          "title": "Minimum Wage Hikes in China May Help Some, but They Will Fail to Answer the Economy’s Needs",
+          "source": "theepochtimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T04:01:00Z",
+          "publishedAt": "2026-10-13T04:01:00Z",
+          "summary": "",
+          "url": "https://www.theepochtimes.com/opinion/minimum-wage-hikes-in-china-may-help-some-but-they-will-fail-to-answer-the-economys-needs-6100398"
+        },
+        {
           "id": "https://centreforaviation.com/members/direct-news/parliament-has-opportunity-to-unlock-jobs-trade-and-growth-as-momentum-for-755486",
           "title": "Parliament has opportunity to unlock jobs, trade and growth as momentum for",
           "source": "centreforaviation.com",
@@ -728,18 +746,6 @@
           "publishedAt": "2026-10-13T01:02:00Z",
           "summary": "",
           "url": "https://www.wmra.org/2026-10-12/trading-up-skilled-trades-beckon-more-workers-in-changing-economy"
-        },
-        {
-          "id": "https://www.koreatimes.co.kr/business/companies/20261013/delivery-fee-cap-risks-shifting-costs-to-riders-consumers",
-          "title": "Delivery fee cap risks shifting costs to riders, consumers - The Korea Times",
-          "source": "koreatimes.co.kr",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T00:46:00Z",
-          "publishedAt": "2026-10-13T00:46:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.co.kr/business/companies/20261013/delivery-fee-cap-risks-shifting-costs-to-riders-consumers"
         }
       ],
       "keywords": [
@@ -767,18 +773,6 @@
     "technology": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261013111144",
-          "title": "日 오므론, 미국 산업용 PC 제조사 온로직 인수",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T03:02:00Z",
-          "publishedAt": "2026-10-13T03:02:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013111144"
-        },
-        {
           "id": "http://www.calcuttanews.net/news/279369090/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta",
           "title": "South Yorkshire eyes Indian investment in advanced manufacturing, AI, sustainable aviation after UK-India FTA",
           "source": "calcuttanews.net",
@@ -789,6 +783,18 @@
           "publishedAt": "2026-10-12T17:31:00Z",
           "summary": "",
           "url": "http://www.calcuttanews.net/news/279369090/south-yorkshire-eyes-indian-investment-in-advanced-manufacturing-ai-sustainable-aviation-after-uk-india-fta"
+        },
+        {
+          "id": "https://insideretail.asia/2026/10/13/how-can-data-centers-ease-pressure-on-us-power-grids/",
+          "title": "How can data centres ease pressure on power grids?",
+          "source": "insideretail.asia",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T04:01:00Z",
+          "publishedAt": "2026-10-13T04:01:00Z",
+          "summary": "",
+          "url": "https://insideretail.asia/2026/10/13/how-can-data-centers-ease-pressure-on-us-power-grids/"
         },
         {
           "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/aem-shares-down-6-global-chip-stocks-slide",
@@ -897,11 +903,11 @@
           "count": 3
         },
         {
-          "word": "제조",
-          "count": 3
+          "word": "데이터센터",
+          "count": 2
         },
         {
-          "word": "데이터센터",
+          "word": "제조",
           "count": 2
         },
         {
@@ -917,6 +923,10 @@
           "count": 1
         },
         {
+          "word": "전력",
+          "count": 1
+        },
+        {
           "word": "클라우드",
           "count": 1
         }
@@ -929,8 +939,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3334,
-    "feedBytes": 881340,
+    "fetchedItems": 3386,
+    "feedBytes": 930397,
     "rollingWindowHours": 72
   }
 }
