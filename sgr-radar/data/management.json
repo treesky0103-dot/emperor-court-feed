@@ -2,7 +2,7 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오전 11:27:37",
+  "updatedAt": "2026. 10. 13. 오전 11:50:03",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
@@ -102,6 +102,18 @@
       "url": "https://channellife.news/story/bolt-new-buys-dokai-to-bolster-enterprise-ai-agents"
     },
     {
+      "id": "https://www.fnnews.com/news/202610130700538909",
+      "title": "내주 금감원 국정감사…'은행 해킹·레버리지 ETF' 쟁점 예고",
+      "source": "fnnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T02:46:00Z",
+      "publishedAt": "2026-10-13T02:46:00Z",
+      "summary": "",
+      "url": "https://www.fnnews.com/news/202610130700538909"
+    },
+    {
       "id": "https://www.nspna.com/news/?mode=view&newsid=831360",
       "title": "예가람저축은행, 해킹 5만건 유출…금감원 현장점검",
       "source": "nspna.com",
@@ -112,18 +124,6 @@
       "publishedAt": "2026-10-13T01:01:00Z",
       "summary": "",
       "url": "https://www.nspna.com/news/?mode=view&newsid=831360"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2634767",
-      "title": "내년부터 기업 손익계산서 바뀐다⋯금감원 \"새 회계기준 대비해야\"",
-      "source": "etoday.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T23:46:00Z",
-      "publishedAt": "2026-10-12T23:46:00Z",
-      "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2634767"
     },
     {
       "id": "https://biz.heraldcorp.com/article/10900382",
@@ -222,6 +222,18 @@
       "publishedAt": "2026-10-13T00:46:00Z",
       "summary": "",
       "url": "https://channellife.news/story/bolt-new-buys-dokai-to-bolster-enterprise-ai-agents"
+    },
+    {
+      "id": "https://www.fnnews.com/news/202610130700538909",
+      "title": "내주 금감원 국정감사…'은행 해킹·레버리지 ETF' 쟁점 예고",
+      "source": "fnnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T02:46:00Z",
+      "publishedAt": "2026-10-13T02:46:00Z",
+      "summary": "",
+      "url": "https://www.fnnews.com/news/202610130700538909"
     },
     {
       "id": "https://www.nspna.com/news/?mode=view&newsid=831360",
@@ -726,27 +738,15 @@
       "publishedAt": "2026-10-12T20:47:00Z",
       "summary": "",
       "url": "https://www.hcamag.com/us/news/general/get-ready-for-an-ai-tsunami-hitting-jobs-imf/593194"
-    },
-    {
-      "id": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400354",
-      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case | News, Sports, Jobs",
-      "source": "faribaultcountyregister.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-12",
-      "dateRaw": "2026-10-12T20:17:00Z",
-      "publishedAt": "2026-10-12T20:17:00Z",
-      "summary": "",
-      "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400354"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
     "poolSize": 2000,
-    "fetchedItems": 3253,
-    "relevantItems": 61,
-    "feedBytes": 852243,
+    "fetchedItems": 3252,
+    "relevantItems": 78,
+    "feedBytes": 854802,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
