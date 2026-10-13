@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 13. 오후 11:45:14",
+  "updatedAt": "2026. 10. 14. 오전 12:06:49",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -34,6 +34,20 @@
           "url": "https://www.mk.co.kr/news/society/12174693",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261013095238",
+          "title": "[카드뉴스] 정년이 70세로 늘면 청년 일자리는 어떻게 될까요",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T12:58:55Z",
+          "publishedAt": "2026-10-13T12:58:55Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261013095238",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "http://www.ihalla.com/article.php?aid=1791695093791405044",
@@ -118,18 +132,6 @@
           "publishedAt": "2026-10-13T08:01:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2635323"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274977&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
-          "title": "'부처 칸막이' 지적한 김현정 \"청년정책 예산 43조인데 신청은 따로\"",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T08:01:00Z",
-          "publishedAt": "2026-10-13T08:01:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274977&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         }
       ],
       "keywords": [
@@ -187,6 +189,20 @@
           "url": "https://biz.chosun.com/it-science/ict/2026/10/13/FIV4LSHPHFHH5FEHKUT3EDNYNU/"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261013220236",
+          "title": "플라우드 출신이 창업한 AI 비서 앰비, 347억 원 투자 유치",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-13",
+          "dateRaw": "2026-10-13T13:02:36Z",
+          "publishedAt": "2026-10-13T13:02:36Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261013220236",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101315514314342",
           "title": "산업부, 반도체·인도 협력 전담조직 신설…투자·통상지원 강화",
           "source": "ddaily.co.kr",
@@ -223,18 +239,6 @@
           "publishedAt": "2026-10-13T08:17:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=04073766645612592&mediaCodeNo=257"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261013135434",
-          "title": "카카오 AI 사회경제적 가치 연 5506억원…2030년 최대 1.8조원 전망",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T07:17:00Z",
-          "publishedAt": "2026-10-13T07:17:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261013135434"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1282151.html",
@@ -288,7 +292,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "기업",
@@ -923,8 +927,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6320,
-    "feedBytes": 1805271,
+    "fetchedItems": 6,
+    "feedBytes": 2276,
     "rollingWindowHours": 72
   }
 }
