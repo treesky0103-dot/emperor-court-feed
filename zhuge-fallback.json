@@ -3,7 +3,7 @@
   "planDay": "2026-10-14",
   "planSetId": "zps-20261014-cf3e0bf8",
   "generatedAt": "2026-10-14T00:05:25.235Z",
-  "publishedAt": "2026-10-14T00:10:02.628Z",
+  "publishedAt": "2026-10-14T00:18:04.991Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -223,7 +223,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-14T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "AI 학습 데이터 구매의 정석: 토큰 단위 도서·학술 데이터 소싱과 비용 최적화",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "시대는 끝났다: 모델 성능을 바꾸는 토큰 구매와 비용 통제 실무.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "002",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "산정하고 모델 성능 대비 가성비를 측정하는 구체적 절차를 모른다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "단위로 탐색, 라이선스 검증, 단가 비교하여 도입하는 실무 프로토콜.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "025",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "등장해 데이터 방식의 패러다임 전환이 일어나고 있기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "체크리스트, 모델 파인튜닝 전 데이터 밀도 검증 워크시트를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "032",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "화면과 UI 매뉴얼 나열에 그쳐 제품 종속적인 얇은 팸플릿이 될 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "050",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-8fce366c"
+      }
     },
     {
       "type": "마케팅·디지털",
@@ -402,7 +507,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-14T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "AI 마케팅 솔루션 도입 감사: 낭비 없는 기술 채택을 위한 ROI·보안 5단계 평가법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "속지 마라: 예산과 고객 데이터를 지키는 AI 솔루션 검증 공식.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "002",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "데이터 보안, 실제 리드 전환 기여도를 숫자로 검증하는 잣대가 없다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "025",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "실질 전환율 ROI를 검증해 도입하는 B2B 의사결정 프레임워크.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "026",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "마케팅 전환 성과와 데이터 주권을 확보하지 못하고 있기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "10문항, 솔루션 도입 전후 6개월 ROI 추적 템플릿을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "031",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "단순 카탈로그 모음집으로 전락해 소프트웨어 수명 주기에 갇힐 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "047",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-8fce366c"
+      }
     },
     {
       "type": "투자·기술",
@@ -581,8 +791,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-14T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "AI 반도체 밸류체인 위험 해부: 기술 로드맵과 잉여현금흐름으로 보는 과열 검증법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "속지 마라: 양산 수율과 현금흐름으로 거품을 걸러내는 5단계 판별법.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "002",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "Rate)과 양산 실패 리스크를 판별하는 통합 기준이 없다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "수율 한계, 현금 고갈 리스크를 5단계로 스크리닝하는 투자 프레임워크.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "과열 투자에 대한 정밀한 리스크 관리 기준이 절실해졌기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "설비투자 대비 현금 고갈 속도(Runway) 진단 시트를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "질리게 하거나, 반대로 뻔한 거시 거품론 뉴스 요약에 그칠 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "047",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-8fce366c"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261014-cf3e0bf8",
+    "file": "cardnews/2026-10-14.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
