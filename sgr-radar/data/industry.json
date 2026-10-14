@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 15. 오전 04:36:23",
+  "updatedAt": "2026. 10. 15. 오전 07:36:40",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 852,
-    "passed": 270,
-    "deduped": 270,
-    "eventDeduped": 270,
+    "raw": 617,
+    "passed": 176,
+    "deduped": 176,
+    "eventDeduped": 176,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -78,6 +78,18 @@
       "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html"
     },
     {
+      "id": "https://www.greeleytribune.com/2026/10/14/globalfoundries-chip-manufacturing-japan/",
+      "title": "GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan",
+      "source": "greeleytribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
+      "summary": "",
+      "url": "https://www.greeleytribune.com/2026/10/14/globalfoundries-chip-manufacturing-japan/"
+    },
+    {
       "id": "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit",
       "title": "Energy Department Releases Emissions Value Request Process for 45Z Fuel Production Credit",
       "source": "energy.gov",
@@ -114,28 +126,16 @@
       "url": "https://www.dailygazette.com/spotlightnews/news/global-foundries-semiconductor-plants-malta/article_5be3b88c-6d61-41dc-88e0-1de032012e48.html"
     },
     {
-      "id": "https://www.dealstreetasia.com/stories/japan-chip-factories-globalfoundries-498177",
-      "title": "Japan to invest up to $21b in two US chip factories operated by GlobalFoundries",
-      "source": "dealstreetasia.com",
+      "id": "https://www.wfdd.org/2026-10-14/nc-attorney-general-jackson-calls-duke-energys-data-center-tariff-massive-step-forward",
+      "title": "NC Attorney General Jackson calls Duke Energy's data center tariff 'massive step forward'",
+      "source": "wfdd.org",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-14",
-      "dateRaw": "2026-10-14T15:17:00Z",
-      "publishedAt": "2026-10-14T15:17:00Z",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
       "summary": "",
-      "url": "https://www.dealstreetasia.com/stories/japan-chip-factories-globalfoundries-498177"
-    },
-    {
-      "id": "https://kxrb.com/ixp/486/p/sioux-falls-data-center-oversight-committee/",
-      "title": "Data Center Oversight Committee Launches Public Input Process In Sioux Falls",
-      "source": "kxrb.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:32:00Z",
-      "publishedAt": "2026-10-13T20:32:00Z",
-      "summary": "",
-      "url": "https://kxrb.com/ixp/486/p/sioux-falls-data-center-oversight-committee/"
+      "url": "https://www.wfdd.org/2026-10-14/nc-attorney-general-jackson-calls-duke-energys-data-center-tariff-massive-step-forward"
     }
   ],
   "trendItems": [
@@ -200,18 +200,6 @@
       "url": "https://allafrica.com/stories/202610140577.html"
     },
     {
-      "id": "https://www.hani.co.kr/arti/culture/culture_general/1281810.html",
-      "title": "‘서울의 봄’ 김성수 감독 “AI, 2년치 작업 이틀에 완성하지만 가치를 담는 건 결국 사람”",
-      "source": "hani.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T21:46:00Z",
-      "publishedAt": "2026-10-13T21:46:00Z",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/culture/culture_general/1281810.html"
-    },
-    {
       "id": "https://wtaq.com/2026/10/14/gov-evers-dwd-announce-6-6-million-in-new-grants-to-train-over-3800-wisconsin-workers-in-advanced-manufacturing-and-ai/",
       "title": "Gov. Evers, DWD Announce $6.6 Million in New Grants to Train Over 3,800 Wisconsin Workers in Advanced Manufacturing and AI",
       "source": "wtaq.com",
@@ -246,6 +234,30 @@
       "publishedAt": "2026-10-14T10:17:00Z",
       "summary": "",
       "url": "https://www.businesstimes.com.sg/opinion-features/bank-bosses-are-too-optimistic-about-ai-boom"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact",
+      "title": "Anthropic works to bring frontier AI models ‘on soil’ in Singapore, signs government pact",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T10:16:00Z",
+      "publishedAt": "2026-10-14T10:16:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact"
+    },
+    {
+      "id": "https://www.greeleytribune.com/2026/10/14/globalfoundries-chip-manufacturing-japan/",
+      "title": "GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan",
+      "source": "greeleytribune.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
+      "summary": "",
+      "url": "https://www.greeleytribune.com/2026/10/14/globalfoundries-chip-manufacturing-japan/"
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit",
@@ -344,52 +356,64 @@
       "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
     },
     {
-      "id": "https://duke.fm/2026/10/13/we-energies-proposes-750-megawatt-natural-gas-plant-at-fox-energy-center-in-wrightstown/",
-      "title": "We Energies proposes 750-megawatt natural gas plant at Fox Energy Center in Wrightstown",
-      "source": "duke.fm",
+      "id": "https://www.wfdd.org/2026-10-14/nc-attorney-general-jackson-calls-duke-energys-data-center-tariff-massive-step-forward",
+      "title": "NC Attorney General Jackson calls Duke Energy's data center tariff 'massive step forward'",
+      "source": "wfdd.org",
       "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T21:46:00Z",
-      "publishedAt": "2026-10-13T21:46:00Z",
-      "summary": "",
-      "url": "https://duke.fm/2026/10/13/we-energies-proposes-750-megawatt-natural-gas-plant-at-fox-energy-center-in-wrightstown/"
-    },
-    {
-      "id": "https://kxrb.com/ixp/486/p/sioux-falls-data-center-oversight-committee/",
-      "title": "Data Center Oversight Committee Launches Public Input Process In Sioux Falls",
-      "source": "kxrb.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:32:00Z",
-      "publishedAt": "2026-10-13T20:32:00Z",
-      "summary": "",
-      "url": "https://kxrb.com/ixp/486/p/sioux-falls-data-center-oversight-committee/"
-    },
-    {
-      "id": "https://biztimes.com/pet-food-manufacturing-plant-planned-in-east-troy/",
-      "title": "Pet food manufacturing plant planned in East Troy",
-      "source": "biztimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:31:00Z",
-      "publishedAt": "2026-10-13T20:31:00Z",
-      "summary": "",
-      "url": "https://biztimes.com/pet-food-manufacturing-plant-planned-in-east-troy/"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261014000524",
-      "title": "삼전닉스 급락했는데…창신메모리도 하락, '中 반도체 공포' 과도했나",
-      "source": "newspim.com",
-      "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-14",
-      "dateRaw": "2026-10-14T05:16:00Z",
-      "publishedAt": "2026-10-14T05:16:00Z",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20261014000524"
+      "url": "https://www.wfdd.org/2026-10-14/nc-attorney-general-jackson-calls-duke-energys-data-center-tariff-massive-step-forward"
+    },
+    {
+      "id": "https://www.beursduivel.be:443/Aandeel-Koers/330133904/Taiwan-Semiconductor-Manufacturing-Company-Ltd/agenda.aspx",
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd » Agenda Aandeel",
+      "source": "beursduivel.be",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
+      "summary": "",
+      "url": "https://www.beursduivel.be:443/Aandeel-Koers/330133904/Taiwan-Semiconductor-Manufacturing-Company-Ltd/agenda.aspx"
+    },
+    {
+      "id": "http://www.calcuttanews.net/news/279374064/india-electricity-demand-set-to-outpace-overall-energy-demand-by-2035-data-centres-to-fuel-growth-sp-global",
+      "title": "India's electricity demand set to outpace overall energy demand by 2035; data centres to fuel growth: S&P Global",
+      "source": "calcuttanews.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:17:00Z",
+      "publishedAt": "2026-10-14T15:17:00Z",
+      "summary": "",
+      "url": "http://www.calcuttanews.net/news/279374064/india-electricity-demand-set-to-outpace-overall-energy-demand-by-2035-data-centres-to-fuel-growth-sp-global"
+    },
+    {
+      "id": "https://www.nhbr.com/category/manufacturing/",
+      "title": "Manufacturing Archives - NH Business Review",
+      "source": "nhbr.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
+      "summary": "",
+      "url": "https://www.nhbr.com/category/manufacturing/"
+    },
+    {
+      "id": "https://radiowest.kuer.org/show/radiowest/2026-10-14/theres-another-data-center-planned-for-utah-this-ones-nuclear",
+      "title": "There’s Another Data Center Planned for Utah. This One’s Nuclear.",
+      "source": "radiowest.kuer.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
+      "summary": "",
+      "url": "https://radiowest.kuer.org/show/radiowest/2026-10-14/theres-another-data-center-planned-for-utah-this-ones-nuclear"
     },
     {
       "id": "https://www.hits1053sanantonio.com/news/how-data-centers-are/J3XCAXTOA4YEHJECSQZX256NQQ/",
@@ -416,18 +440,6 @@
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/15/2003865972"
     },
     {
-      "id": "https://roanoke.com/news/state-regional/government-politics/article_86d42204-a2fe-5516-b5d8-b9ccb5dceb63.html",
-      "title": "Sen. Perry calls for data center moratorium in Virginia",
-      "source": "roanoke.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-14",
-      "dateRaw": "2026-10-14T19:31:00Z",
-      "publishedAt": "2026-10-14T19:31:00Z",
-      "summary": "",
-      "url": "https://roanoke.com/news/state-regional/government-politics/article_86d42204-a2fe-5516-b5d8-b9ccb5dceb63.html"
-    },
-    {
       "id": "https://www.thehindu.com/news/national/states-should-evaluate-natural-resources-before-pitching-for-data-centres-niti-aayog/article71584261.ece",
       "title": "States should evaluate natural resources before pitching for data centres: NITI Aayog",
       "source": "thehindu.com",
@@ -438,30 +450,6 @@
       "publishedAt": "2026-10-14T15:16:00Z",
       "summary": "",
       "url": "https://www.thehindu.com/news/national/states-should-evaluate-natural-resources-before-pitching-for-data-centres-niti-aayog/article71584261.ece"
-    },
-    {
-      "id": "https://www.eventhubs.com/news/2026/oct/13/arjun-tech-roundup-sf6/",
-      "title": "New unblockable setup uncovered for Arjun among crazy damage, chip damage and other tech in this Street Fighter 6 roundup",
-      "source": "eventhubs.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T21:46:00Z",
-      "publishedAt": "2026-10-13T21:46:00Z",
-      "summary": "",
-      "url": "https://www.eventhubs.com/news/2026/oct/13/arjun-tech-roundup-sf6/"
-    },
-    {
-      "id": "https://www.abc.net.au/listen/programs/am/solar-battery-company-under-scrutiny/107263014",
-      "title": "Solar battery company under scrutiny - ABC listen",
-      "source": "abc.net.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:02:00Z",
-      "publishedAt": "2026-10-13T20:02:00Z",
-      "summary": "",
-      "url": "https://www.abc.net.au/listen/programs/am/solar-battery-company-under-scrutiny/107263014"
     },
     {
       "id": "https://www.breakingnews.ie/news/eu-tech-chief-says-bloc-needs-to-triple-data-centre-capacity-within-seven-years-1953725.html",
@@ -512,124 +500,76 @@
       "url": "https://yle.fi/a/74-20251367"
     },
     {
-      "id": "https://www.gloucesteradvocate.com.au/story/9367512/plans-for-a-15-billion-data-centre-at-wyong-have-been-unveiled-by-dcg-admin/",
-      "title": "Plans for another massive data centre revealed",
-      "source": "gloucesteradvocate.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T21:46:00Z",
-      "publishedAt": "2026-10-13T21:46:00Z",
-      "summary": "",
-      "url": "https://www.gloucesteradvocate.com.au/story/9367512/plans-for-a-15-billion-data-centre-at-wyong-have-been-unveiled-by-dcg-admin/"
-    },
-    {
-      "id": "https://www.theportugalnews.com/news/2026-10-13/government-confirms-new-data-centres-in-portugal/1099873",
-      "title": "Government confirms new data centres in Portugal",
-      "source": "theportugalnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:32:00Z",
-      "publishedAt": "2026-10-13T20:32:00Z",
-      "summary": "",
-      "url": "https://www.theportugalnews.com/news/2026-10-13/government-confirms-new-data-centres-in-portugal/1099873"
-    },
-    {
-      "id": "https://www.nbr.co.nz/tech/nz-should-be-eating-uss-lunch-on-data-centres-morrison-says/",
-      "title": "NZ should be ‘eating US’s lunch’ on data centres, Morrison says - NBR | Business news & analysis | Independent, ad-free reporting",
-      "source": "nbr.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:02:00Z",
-      "publishedAt": "2026-10-13T20:02:00Z",
-      "summary": "",
-      "url": "https://www.nbr.co.nz/tech/nz-should-be-eating-uss-lunch-on-data-centres-morrison-says/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/city/bhubaneswar/keonjhar-to-get-backup-data-centre-for-odishas-critical-digital-services/articleshow/134923661.cms",
-      "title": "Keonjhar to get backup data centre for Odisha’s critical digital services",
-      "source": "timesofindia.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:02:00Z",
-      "publishedAt": "2026-10-13T20:02:00Z",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/keonjhar-to-get-backup-data-centre-for-odishas-critical-digital-services/articleshow/134923661.cms"
-    },
-    {
-      "id": "https://www.businesstimes.com.sg/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact",
-      "title": "Anthropic works to bring frontier AI models ‘on soil’ in Singapore, signs government pact",
-      "source": "businesstimes.com.sg",
+      "id": "https://www.dailypolitical.com/2026/10/14/accenture-targets-faster-growth-as-ai-reinvention-strategy-takes-center-stage.html",
+      "title": "Accenture Targets Faster Growth as AI Reinvention Strategy Takes Center Stage",
+      "source": "dailypolitical.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-14",
-      "dateRaw": "2026-10-14T10:16:00Z",
-      "publishedAt": "2026-10-14T10:16:00Z",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
       "summary": "",
-      "url": "https://www.businesstimes.com.sg/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact"
+      "url": "https://www.dailypolitical.com/2026/10/14/accenture-targets-faster-growth-as-ai-reinvention-strategy-takes-center-stage.html"
     },
     {
-      "id": "https://wrco.com/news/2026/10/13/governor-tony-evers-and-the-wisconsin-department-of-workforce-development-dwd-have-officially-launched-manufacturing-month-by-awarding-grants",
-      "title": "Governor Tony Evers and the Wisconsin Department of Workforce Development (DWD) have officially launched Manufacturing Month by awarding grants",
-      "source": "wrco.com",
+      "id": "https://www.arabnews.com/business/saudi-arabias-spark-dalipal-sign-21bn-energy-equipment-manufacturing-deal-3006265",
+      "title": "Saudi Arabia’s SPARK, Dalipal sign $2.1bn energy equipment manufacturing deal",
+      "source": "arabnews.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:31:00Z",
-      "publishedAt": "2026-10-13T20:31:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T10:17:00Z",
+      "publishedAt": "2026-10-14T10:17:00Z",
       "summary": "",
-      "url": "https://wrco.com/news/2026/10/13/governor-tony-evers-and-the-wisconsin-department-of-workforce-development-dwd-have-officially-launched-manufacturing-month-by-awarding-grants"
+      "url": "https://www.arabnews.com/business/saudi-arabias-spark-dalipal-sign-21bn-energy-equipment-manufacturing-deal-3006265"
     },
     {
-      "id": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group",
-      "title": "Volvo Penta boosts sustainable energy investment with UtilityInnovation Group",
-      "source": "technicalreviewmiddleeast.com",
+      "id": "https://www.newspim.com/news/view/20261014000524",
+      "title": "삼전닉스 급락했는데…창신메모리도 하락, '中 반도체 공포' 과도했나",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T05:16:00Z",
+      "publishedAt": "2026-10-14T05:16:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261014000524"
+    },
+    {
+      "id": "https://www.nhbr.com/building-tomorrows-manufacturing-workforce/",
+      "title": "Building tomorrow’s manufacturing workforce - NH Business Review",
+      "source": "nhbr.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:02:00Z",
-      "publishedAt": "2026-10-13T20:02:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
       "summary": "",
-      "url": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group"
+      "url": "https://www.nhbr.com/building-tomorrows-manufacturing-workforce/"
     },
     {
-      "id": "https://www.loudountimes.com/news/continuing_coverage/perry-introduces-data-center-moratorium-bill-ahead-of-leesburg-rally/article_ccb9ba51-bfab-478e-a92f-6997506fd4d0.html",
-      "title": "Perry introduces data center moratorium bill ahead of Leesburg rally",
-      "source": "loudountimes.com",
+      "id": "https://roanoke.com/news/state-regional/government-politics/article_86d42204-a2fe-5516-b5d8-b9ccb5dceb63.html",
+      "title": "Sen. Perry calls for data center moratorium in Virginia",
+      "source": "roanoke.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-14",
       "dateRaw": "2026-10-14T19:31:00Z",
       "publishedAt": "2026-10-14T19:31:00Z",
       "summary": "",
-      "url": "https://www.loudountimes.com/news/continuing_coverage/perry-introduces-data-center-moratorium-bill-ahead-of-leesburg-rally/article_ccb9ba51-bfab-478e-a92f-6997506fd4d0.html"
+      "url": "https://roanoke.com/news/state-regional/government-politics/article_86d42204-a2fe-5516-b5d8-b9ccb5dceb63.html"
     },
     {
-      "id": "https://247wallst.com/investing/etf/2026/10/13/you-bought-a-semiconductor-fund-on-500000-87743-of-it-is-nvidia/",
-      "title": "You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
-      "source": "247wallst.com",
+      "id": "https://newsroomamerica.com/a/18wmbse5UQ6eFJksVRAgfql9GFM/the_push_includes_a_new_master_s_degree_a_state_of_the_art_research_facility_and_industry_collaboration_space_in_houston_s_ion_district_with_ai_week_set_for_oct_19_23.html",
+      "title": "Rice University Launches Universitywide AI Initiative With 75 Faculty Hires",
+      "source": "newsroomamerica.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T21:46:00Z",
-      "publishedAt": "2026-10-13T21:46:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
       "summary": "",
-      "url": "https://247wallst.com/investing/etf/2026/10/13/you-bought-a-semiconductor-fund-on-500000-87743-of-it-is-nvidia/"
-    },
-    {
-      "id": "https://www.forbes.com/councils/forbeshumanresourcescouncil/2026/10/13/15-hr-strategies-that-prepare-employees-for-ai-driven-roles/",
-      "title": "15 HR Strategies That Prepare Employees For AI-Driven Roles",
-      "source": "forbes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T21:46:00Z",
-      "publishedAt": "2026-10-13T21:46:00Z",
-      "summary": "",
-      "url": "https://www.forbes.com/councils/forbeshumanresourcescouncil/2026/10/13/15-hr-strategies-that-prepare-employees-for-ai-driven-roles/"
+      "url": "https://newsroomamerica.com/a/18wmbse5UQ6eFJksVRAgfql9GFM/the_push_includes_a_new_master_s_degree_a_state_of_the_art_research_facility_and_industry_collaboration_space_in_houston_s_ion_district_with_ai_week_set_for_oct_19_23.html"
     },
     {
       "id": "https://www.newswire.ca/news-releases/the-workplace-ai-ban-is-dead-superwise-launches-sentinel-to-protect-sensitive-data-without-blocking-ai--864790211.html",
@@ -738,15 +678,75 @@
       "publishedAt": "2026-10-14T10:16:00Z",
       "summary": "",
       "url": "https://nineoclock.ro/shift-bani-is-romanias-first-ai-assistant-designed-to-guide-you-in-your-relationship-with-money-official-takeit-launch/"
+    },
+    {
+      "id": "https://medicinehatnews.com/entertainment/entertainment-news/2026/10/13/qa-brian-eno-on-relaunching-opal-records-music-for-airports-ai-and-palestine-8/",
+      "title": "Q&A: Brian Eno on relaunching Opal Records, 'Music for Airports,' AI and Palestine - Medicine Hat News",
+      "source": "medicinehatnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T05:16:00Z",
+      "publishedAt": "2026-10-14T05:16:00Z",
+      "summary": "",
+      "url": "https://medicinehatnews.com/entertainment/entertainment-news/2026/10/13/qa-brian-eno-on-relaunching-opal-records-music-for-airports-ai-and-palestine-8/"
+    },
+    {
+      "id": "https://euobserver.com/242300/the-transformative-ai-strategy-for-europe-diagnoses-the-problem-but-its-solution-is-capitulation/",
+      "title": "The ‘Transformative AI Strategy for Europe’ diagnoses the problem – but its solution is capitulation",
+      "source": "euobserver.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T05:16:00Z",
+      "publishedAt": "2026-10-14T05:16:00Z",
+      "summary": "",
+      "url": "https://euobserver.com/242300/the-transformative-ai-strategy-for-europe-diagnoses-the-problem-but-its-solution-is-capitulation/"
+    },
+    {
+      "id": "https://www.seoul.co.kr/news/economy/2026/10/14/20261014500016",
+      "title": "㈜비노시스, 강원대학교 강원ICT융합연구원 ‘강원후평 AX 실증산단 구축사업 - 제조 AI 오픈랩’ 기업지원사업 선정",
+      "source": "seoul.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T00:32:00Z",
+      "publishedAt": "2026-10-14T00:32:00Z",
+      "summary": "",
+      "url": "https://www.seoul.co.kr/news/economy/2026/10/14/20261014500016"
+    },
+    {
+      "id": "https://seoul.co.kr:443/news/economy/industry/2026/10/14/20261014031007",
+      "title": "갤럭시의 삼성 vs 홈로봇의 LG… AI 가전·미래 기술 총출동",
+      "source": "seoul.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T00:32:00Z",
+      "publishedAt": "2026-10-14T00:32:00Z",
+      "summary": "",
+      "url": "https://seoul.co.kr:443/news/economy/industry/2026/10/14/20261014031007"
+    },
+    {
+      "id": "https://www.ksl.com:443/article/51636164/ukrainian-drones-hit-russias-top-data-center-in-attack-on-ai-ambitions",
+      "title": "Ukrainian drones hit Russia's top data center in attack on AI ambitions",
+      "source": "ksl.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T22:32:00Z",
+      "publishedAt": "2026-10-14T22:32:00Z",
+      "summary": "",
+      "url": "https://www.ksl.com:443/article/51636164/ukrainian-drones-hit-russias-top-data-center-in-attack-on-ai-ambitions"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 852,
-    "fetchedItems": 5390,
-    "relevantItems": 156,
-    "feedBytes": 1513142,
+    "poolSize": 617,
+    "fetchedItems": 3802,
+    "relevantItems": 92,
+    "feedBytes": 1036985,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
