@@ -1,6 +1,576 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-14",
   "days": [
+    {
+      "date": "2026-10-14",
+      "planDay": "2026-10-14",
+      "planSetId": "zps-20261014-cf3e0bf8",
+      "generatedAt": "2026-10-14T00:05:25.235Z",
+      "publishedAt": "2026-10-14T00:05:29.922Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 인공지능·교육 · 마케팅·디지털 · 투자·기술을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "gemini-3.8-flash",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-10-14T00:05:13.736Z",
+      "inputFreshness": {
+        "fresh": true,
+        "newsFresh": true,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-10-14T00:00:36.311Z",
+        "staleAdvisors": [],
+        "bestsellerUpdatedAt": "2026-10-14T00:00:54.423Z",
+        "bestsellerDataDate": "2026-10-13",
+        "stale": false,
+        "checkedAt": "2026-10-14T00:05:25.235Z",
+        "policy": "confirm-and-mark",
+        "label": ""
+      },
+      "plans": [
+        {
+          "type": "인공지능·교육",
+          "field": "인공지능·교육",
+          "title": "AI 학습 데이터 구매의 정석: 토큰 단위 도서·학술 데이터 소싱과 비용 최적화",
+          "concept": "AI 모델 고도화를 위해 양질의 텍스트 데이터를 토큰 단위로 탐색, 라이선스 검증, 단가 비교하여 도입하는 실무 구매 프로토콜",
+          "why": "AI 모델 훈련 비용이 급증하는 상황에서 멘탯 등 텍스트 데이터를 토큰 단위로 거래하는 서비스가 등장해 데이터 구매 방식의 패러다임 전환이 일어나고 있기 때문이다.",
+          "competition": "기존 AI 입문서는 모델 아키텍처나 프롬프트 엔지니어링만 다루고 비즈니스 데이터서는 거시적 가치 평가에 머물러 실제 상용 텍스트·도서 데이터의 토큰 단위 조달 기준을 제시하지 못한다.",
+          "reader": "LLM 개발 및 AI 모델 파인튜닝을 위해 양질의 한국어 코퍼스와 전문 서적 데이터를 조달해야 하는 AI 연구원 및 데이터 바우처 집행 담당자",
+          "readerNeed": "원문 도서와 논문 데이터를 확보할 때 저작권 침해 위험 없이 토큰당 단가를 산정하고 모델 성능 대비 가성비를 측정하는 구체적 절차를 모른다.",
+          "marketGap": "데이터를 무작정 크롤링하거나 고정 패키지로 전권 계약하던 방식을 벗어나, 필요한 토큰 분량만 정밀 구매하고 전처리 비용까지 합산해 계산하는 조달 가이드가 시장에 전무하다.",
+          "differentiation": "도서·학술 분야별 토큰 단가 환산표, 저작권 및 2차 저작물 상업 이용 체크리스트, 모델 파인튜닝 전 데이터 밀도 검증 워크시트를 제공한다.",
+          "diff": "도서·학술 분야별 토큰 단가 환산표, 저작권 및 2차 저작물 상업 이용 체크리스트, 모델 파인튜닝 전 데이터 밀도 검증 워크시트를 제공한다.",
+          "toc": [
+            "1장. 데이터 조달의 전환: 무차별 웹 크롤링 한계와 토큰 단위 유료 데이터 마켓의 등장",
+            "2장. 소싱 탐색 프로토콜: AI 학습 도서 검색 서비스를 활용한 타깃 도메인 텍스트 선별법",
+            "3장. 토큰 경제학: 분량별 토큰 단가 계산식과 데이터 바우처 예산 집행 최적화 공식",
+            "4장. 라이선스와 품질 감사: 저작권 침해 리스크 차단과 전처리 노이즈 필터링 5단계",
+            "5장. 파인튜닝 투자수익률: 도서 토큰 투입량 대비 환각 감소 및 성능 개선 검증표"
+          ],
+          "searchQueries": [
+            "AI 도서 토큰 구매",
+            "AI 학습 데이터 검색"
+          ],
+          "bookworthiness": {
+            "durability": "AI 모델 파인튜닝과 도메인 특화 데이터 수급은 AI 산업 생태계가 존속하는 한 상시 발생하는 인프라성 과제다.",
+            "repeatNeed": "새로운 버티컬 파운데이션 모델이나 파인튜닝 프로젝트가 시작될 때마다 데이터 예산 편성과 조달 검증이 반복된다.",
+            "expansionPotential": "의학·법률·금융 등 산업별 전문 도서 토큰 계약 및 전처리 품질 감사 프레임워크로 250쪽 이상 체계적 확장이 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "이적",
+              "career": "《[작가만남] 『이적의 단어들』 이적 북토크 1인 입장권 (기존 도서 구매자 한정)》 저자 · YES24(북투어)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《[작가만남] 『이적의 단어들』 이적 북토크 1인 입장권 (기존 도서 구매자 한정)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/123015911",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "박세준",
+              "career": "《Why? 와이 시리즈 인문고전 1~31권 10권씩 선택구매(도서+문구세트+노트 증정)》 저자 · 예림당(전집)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《Why? 와이 시리즈 인문고전 1~31권 10권씩 선택구매(도서+문구세트+노트 증정)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/33507569",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "아람교육",
+              "career": "《[도미노피자증정] 스토리로배우는꼬꼬수학자 (전31종)/ 수학북30권+게임북1권 / 세이펜별도구매 / 꼬꼬마수학자 / 창작그림책 / 유아동전집 / 유아동도서 / 누리과정 / 원리수학》 저자 · 아들과딸(전집)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《[도미노피자증정] 스토리로배우는꼬꼬수학자 (전31종)/ 수학북30권+게임북1권 / 세이펜별도구매 / 꼬꼬마수학자 / 창작그림책 / 유아동전집 / 유아동도서 / 누리과정 / 원리수학》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/61248553",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "이적",
+          "bestAuthor": "이적",
+          "authorBrief": "",
+          "headlineCopy": "무작정 크롤링하던 시대는 끝났다: 모델 성능을 바꾸는 도서 토큰 구매와 비용 통제 실무",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“도서 데이터를 토큰 단위로 계약할 때 저작권과 적정 단가를 어떻게 확정해야 할지 막막한 실무자”를 타깃으로 AI 엔지니어 커뮤니티 및 데이터 바우처 사업 포럼에 정밀 노출한다.",
+            "trust": "실제 상용 도서 텍스트의 토큰 변환 비율 샘플과 라이선스 계약 조항 대조표를 공개해 법적·기술적 안전성을 검증한다.",
+            "conversion": "도서 데이터 구매 전 반드시 거쳐야 하는 ‘토큰 예산 대비 학습 유효성 사전 진단 시트’를 책 속 부록으로 제공해 즉각 구매를 유도한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "특정 검색 플랫폼의 사용 설명서에 불과하거나 인터넷 검색으로 해결 가능한 정보로 여겨질 위험",
+              "objection": "“포털이나 서비스 튜토리얼 문서만 읽어봐도 충분하지 않나?”",
+              "solution": "플랫폼 기능 소개를 넘어 타깃 데이터의 저작권 리스크 해소와 모델 성능 검증 지표라는 엔드투엔드 파이프라인으로 승부함을 목차로 증명한다."
+            },
+            "positioning": "국내 최초의 AI 학습용 유료 텍스트 데이터 토큰 조달 실무서"
+          },
+          "devilsEditor": {
+            "failureReason": "신규 특정 서비스의 단순 캡처 화면과 UI 매뉴얼 나열에 그쳐 제품 종속적인 얇은 팸플릿이 될 위험",
+            "fix": "특정 플랫폼 UI에 매몰되지 않고 데이터 라이선싱 법무 검토, 토큰 변환 전처리 파이프라인, 파인튜닝 벤치마크 테스트 등 실무 프로토콜 중심으로 원고를 구성한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "생성형 AI 업계의 학습 데이터 저작권 관련 법적 판례 및 가이드라인이 급변해 서술된 조항이 무효화될 수 있음",
+          "riskResponse": "계약서 필수 특약 사항과 법적 면책 조항 프레임워크를 일반화해 법 개정에도 적용 가능한 원칙 중심으로 구성한다.",
+          "judgment": "단순 서비스 소개를 철저히 배제하고 실무 엔지니어와 예산 결정권자가 지갑을 열 수 있는 '토큰 비용 통제 및 저작권 감사' 기준서로 완성해야 성패가 갈린다.",
+          "evidence": [
+            {
+              "text": "[작가만남] 『이적의 단어들』 이적 북토크 1인 입장권 (기존 도서 구매자 한정) — 이적 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/123015911"
+            },
+            {
+              "text": "\"책 데이터도 '토큰 단위'로 산다\"...멘탯, AI 학습 도서 검색 서비스 출시 - AI타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aY2tUY1RDZEpVa0l2MUphMEZXY2I0dUhMM3E2YzZXSXBsaWpQWlkzN0Mwa1d5TmFFNGpTYU1jdEctYTJnOTJiMjJLekJhYmRLSnFEa0lCR1F0eTA5TTlsbHNsQ0VFdGp0LUE?oc=5"
+            },
+            {
+              "text": "Why? 와이 시리즈 인문고전 1~31권 10권씩 선택구매(도서+문구세트+노트 증정) — 박세준",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/33507569"
+            },
+            {
+              "text": "Why? 와이 시리즈 한국사 1~40권 10권씩 선택구매(도서+문구세트+노트 증정) — 박세준",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/33507568"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "[작가만남] 『이적의 단어들』 이적 북토크 1인 입장권 (기존 도서 구매자 한정)",
+              "author": "이적 저",
+              "publisher": "YES24(북투어)",
+              "publicationDate": "",
+              "url": "https://www.yes24.com/product/goods/123015911",
+              "matchedQuery": "AI 도서 토큰 구매",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "Why? 와이 시리즈 인문고전 1~31권 10권씩 선택구매(도서+문구세트+노트 증정)",
+              "author": "박세준",
+              "publisher": "예림당(전집)",
+              "publicationDate": "20180615",
+              "url": "https://www.yes24.com/product/goods/33507569",
+              "matchedQuery": "AI 도서 토큰 구매",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "Why? 와이 시리즈 한국사 1~40권 10권씩 선택구매(도서+문구세트+노트 증정)",
+              "author": "박세준",
+              "publisher": "예림당(전집)",
+              "publicationDate": "20181015",
+              "url": "https://www.yes24.com/product/goods/33507568",
+              "matchedQuery": "AI 도서 토큰 구매",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-14T00:01:50.154Z",
+            "queries": [
+              "AI 도서 토큰 구매",
+              "AI 학습 데이터 검색"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "마케팅·디지털",
+          "field": "마케팅·디지털",
+          "title": "AI 마케팅 솔루션 도입 감사: 낭비 없는 기술 채택을 위한 ROI·보안 5단계 평가법",
+          "concept": "무분별하게 쏟아지는 AI 마케팅 툴 속에서 기능 거품을 걷어내고 데이터 보안과 실질 전환율 ROI를 검증해 도입하는 B2B 의사결정 프레임워크",
+          "why": "스토어링크 등 AI 마케팅 솔루션이 범람하는 가운데, 기업들이 PoC 단계에서 막대한 예산만 낭비하고 실제 마케팅 전환 성과와 데이터 주권을 확보하지 못하고 있기 때문이다.",
+          "competition": "피그마나 GA4 같은 개별 툴 기능 설명서는 조작법에 머물고 학술 마케팅서는 기술 검증을 다루지 않아, 기업의 AI 솔루션 도입 검토 보고서 작성용 기준이 부재하다.",
+          "reader": "AI 마케팅 도구를 도입하려 하나 기능 중복, 예산 낭비, 사내 고객 데이터 유출이 우려되어 결재를 망설이는 마케팅 팀장 및 CMO",
+          "readerNeed": "벤더사의 화려한 기능 소개서에 휘둘리지 않고 자사 인프라와의 연동성, 데이터 보안, 실제 리드 전환 기여도를 숫자로 검증하는 잣대가 없다.",
+          "marketGap": "마케팅 자동화 툴의 기능 나열을 넘어 벤더 종속성을 방지하고 자사 퍼스트파티 데이터의 보안성과 솔루션 도입 후 감가상각 ROI를 동시 검증하는 실무서가 없다.",
+          "differentiation": "AI 마케팅 벤더 기능 매트릭스 비교표, 고객 데이터 외부 유출 위험도 자가진단 10문항, 솔루션 도입 전후 6개월 ROI 추적 템플릿을 제공한다.",
+          "diff": "AI 마케팅 벤더 기능 매트릭스 비교표, 고객 데이터 외부 유출 위험도 자가진단 10문항, 솔루션 도입 전후 6개월 ROI 추적 템플릿을 제공한다.",
+          "toc": [
+            "1장. 도입의 함정: AI 마케팅 툴의 기능 거품과 기업 예산 누수의 실체",
+            "2장. 목표와 데이터 감사: 우리 팀에 생성형 AI가 필요한가, 예측형 AI가 필요한가",
+            "3장. 벤더 기능 비교 매트릭스: 광고 자동화·카피라이팅·고객 분석 솔루션 정밀 해부",
+            "4장. 데이터 보안과 주권: 퍼스트파티 데이터 연동 시 개인정보 보호 및 누출 방어선",
+            "5장. PoC와 ROI 측정: 90일 파일럿 테스트 설계와 전환 성과 승인 기준표"
+          ],
+          "searchQueries": [
+            "AI 마케팅 플랫폼 비교",
+            "AI 마케팅 도입 체크리스트"
+          ],
+          "bookworthiness": {
+            "durability": "SaaS 및 AI 마케팅 툴은 매년 갱신되며 소프트웨어 구매 의사결정 프레임워크는 마케팅 조직의 영구적 과제다.",
+            "repeatNeed": "연간 마케팅 예산 편성 및 분기별 신규 테크 스택 교체 시기마다 도입 검토 기준으로 반복 활용된다.",
+            "expansionPotential": "이커머스, B2B SaaS, 리테일 등 산업군별 PoC 평가 체크리스트와 계약 협상 팁을 결합해 240쪽 분량의 실무 지침서로 확장이 충분하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "이승윤",
+              "career": "《디지털·소셜미디어 마케팅》 저자 · 시그마프레스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《디지털·소셜미디어 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/19583711",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김도연",
+              "career": "《모두의 구글 애널리틱스4》 저자 · 길벗",
+              "why": "YES24에서 이 기획과 인접한 주제의 《모두의 구글 애널리틱스4》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/116918361",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "권봉헌",
+              "career": "《호텔·관광 마케팅》 저자 · 주식회사 백산출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《호텔·관광 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/195832452",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "이승윤",
+          "bestAuthor": "이승윤",
+          "authorBrief": "",
+          "headlineCopy": "화려한 벤더 제안서에 속지 마라: 마케팅 예산과 고객 데이터를 지키는 AI 솔루션 검증 공식",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“경영진이 AI 마케팅 툴 도입을 지시했지만 어떤 솔루션이 진짜 돈을 벌어다 주는지 모르는 팀장”을 공략하는 링크드인 및 직장인 커뮤니티 타깃 아티클 배포.",
+            "trust": "실제 마케팅 플랫폼 도입 실패 사례 분석과 솔루션 벤더 계약 시 반드시 넣어야 할 SLA(서비스 수준 협약) 조항을 공개한다.",
+            "conversion": "도입 검토 품의서에 그대로 첨부할 수 있는 ‘AI 마케팅 플랫폼 평가 스코어카드 및 ROI 시뮬레이터 엑셀 서식’을 제공한다.",
+            "maxDropoff": {
+              "stage": "결제 직전",
+              "problem": "출간 후 1~2년만 지나도 다루는 솔루션 이름이 구식이 될 것이라는 우려",
+              "objection": "“어차피 툴은 계속 바뀌는데 책으로 살 필요가 있나?”",
+              "solution": "개별 툴 기능 해설이 아니라 '어떤 툴이 나와도 적용할 수 있는 5단계 검증 프로세스'임을 서문과 상세페이지에서 설득한다."
+            },
+            "positioning": "마케팅 관리자를 위한 실패 없는 AI MarTech 도입 실무 가이드"
+          },
+          "devilsEditor": {
+            "failureReason": "특정 시점에 유행하는 마케팅 SaaS 제품의 단순 카탈로그 모음집으로 전락해 소프트웨어 수명 주기에 갇힐 위험",
+            "fix": "개별 툴 브랜드 설명 비중을 20% 이하로 줄이고, 데이터 파이프라인 연동성 평가, 라이선스 비용 구조 분석, PoC 성과 측정 방법론 등 '의사결정 프레임'을 80%로 배치한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "마케팅 SaaS 솔루션 시장의 인수합병 및 서비스 종료가 빈번해 도서 수록 툴의 영속성이 떨어질 위험",
+          "riskResponse": "벤더 유형별(생성형 크리에이티브, 오디언스 타깃팅, 마케팅 자동화 엔진) 분류 체계로 구조화해 시장 개편에 영향을 받지 않도록 구성한다.",
+          "judgment": "개별 소프트웨어 사용법 책이 아닌 '마케팅 리더의 솔루션 도입 검증 및 예산 방어 책'으로 정체성을 유지해야 B2B 대량 구매로 이어진다.",
+          "evidence": [
+            {
+              "text": "콘텐츠 디자인은 피그마 with AI — 리디드로우(김선영) 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/150110126"
+            },
+            {
+              "text": "스토어링크, '글로벌 AI 마케팅 플랫폼 기업' 도약 선언 - 지디넷코리아",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iZkRrNjJtZEV3WEZQTTF3b1dQY1Y2cnNPU21wNmRncmkyakxZZXdyZV8tWkZuNnBxd2xGXzdXYk5HaUJlZTRKaVgzVFNtWVlubHg4TnBR?oc=5"
+            },
+            {
+              "text": "디지털·소셜미디어 마케팅 — 이승윤 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/19583711"
+            },
+            {
+              "text": "모두의 구글 애널리틱스4 — 김도연 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/116918361"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "콘텐츠 디자인은 피그마 with AI",
+              "author": "리디드로우(김선영) 저",
+              "publisher": "골든래빗",
+              "publicationDate": "20250815",
+              "url": "https://www.yes24.com/product/goods/150110126",
+              "matchedQuery": "AI 마케팅 플랫폼 비교",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "디지털·소셜미디어 마케팅",
+              "author": "이승윤 저",
+              "publisher": "시그마프레스",
+              "publicationDate": "20150805",
+              "url": "https://www.yes24.com/product/goods/19583711",
+              "matchedQuery": "마케팅·디지털",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "모두의 구글 애널리틱스4",
+              "author": "김도연 저",
+              "publisher": "길벗",
+              "publicationDate": "20230125",
+              "url": "https://www.yes24.com/product/goods/116918361",
+              "matchedQuery": "마케팅·디지털",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-14T00:02:00.165Z",
+            "queries": [
+              "AI 마케팅 플랫폼 비교",
+              "AI 마케팅 도입 체크리스트"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "투자·기술",
+          "field": "투자·기술",
+          "title": "AI 반도체 밸류체인 위험 해부: 기술 로드맵과 잉여현금흐름으로 보는 과열 검증법",
+          "concept": "AI 반도체 스타트업 및 상장사의 장밋빛 기술 로드맵 이면에 숨겨진 CAPEX 부담, 수율 한계, 현금 고갈 리스크를 5단계로 스크리닝하는 투자 프레임워크",
+          "why": "AI 반도체 초기 스타트업 투자가 급증하는 동시에 글로벌 AI 거품론과 주가 급락 쇼크가 맞물리며 과열 투자에 대한 정밀한 리스크 관리 기준이 절실해졌기 때문이다.",
+          "competition": "기존 반도체 도서는 기술 공정 해설에 치우쳐 기업 재무를 다루지 못하고, 일반 주식 매매서는 차트와 거시 테마에 집중해 AI 반도체 칩 개발 특유의 CAPEX 잠식과 양산 리스크를 짚지 못한다.",
+          "reader": "AI 반도체 팹리스 및 장비주에 투자했거나 관련 스타트업 심사를 맡고 있으나 거품론과 기술 용어 사이에서 매도·집행 결정을 망설이는 투자자 및 기업 재무팀",
+          "readerNeed": "테이프아웃, 패키징 수율 등 난해한 기술 용어에 가려진 기업의 실제 현금 소진율(Burn Rate)과 양산 실패 리스크를 판별하는 통합 기준이 없다.",
+          "marketGap": "기술 성숙도 단계(TRL)와 분기별 잉여현금흐름(FCF) 악화 지표를 1:1로 결합해 AI 반도체 기업의 생존 가능성을 채점하는 실전 평가 도구가 없다.",
+          "differentiation": "AI 반도체 기술 로드맵 위험 신호표, 수율 및 파운드리 확보 리스크 체크리스트, 설비투자 대비 현금 고갈 속도(Runway) 진단 시트를 제공한다.",
+          "diff": "AI 반도체 기술 로드맵 위험 신호표, 수율 및 파운드리 확보 리스크 체크리스트, 설비투자 대비 현금 고갈 속도(Runway) 진단 시트를 제공한다.",
+          "toc": [
+            "1장. 과열과 거품의 경계: AI 반도체 랠리 뒤에 숨은 설비투자 쇼크와 현금 잠식",
+            "2장. 기술 로드맵 검증: 테이프아웃부터 양산 수율까지 실패 확률이 급증하는 3대 구간",
+            "3장. 재무 건전성 감사: 장부상 기대 가치를 지우고 잉여현금흐름과 런웨이를 계산하는 법",
+            "4장. 밸류체인 종속성 평가: 빅테크 자체 칩 개발과 파운드리 병목이 미치는 영향",
+            "5장. 리스크 스코어링: 기술 성숙도와 재무 지표를 결합한 포트폴리오 비중 조절 공식"
+          ],
+          "searchQueries": [
+            "AI 반도체 투자 위험",
+            "AI 반도체 리스크 체크리스트"
+          ],
+          "bookworthiness": {
+            "durability": "AI 가속기 및 반도체 칩 시장은 기술 교체 주기마다 대규모 자본 지출과 옥석 가리기가 반복되는 핵심 산업이다.",
+            "repeatNeed": "새로운 칩 아키텍처 출시와 분기 실적 발표 시즌마다 종목 검증 및 투자 심사 잣대로 재사용된다.",
+            "expansionPotential": "NPU, HBM, 패키징 등 세부 밸류체인별 리스크 분석 사례를 보강해 260쪽 이상의 하이엔드 투자 전략서로 확장이 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "편집부",
+              "career": "《AI 반도체 산업 기술개발 동향과 적용사례 분석 및 정책·투자동향》 저자 · 좋은정보사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 반도체 산업 기술개발 동향과 적용사례 분석 및 정책·투자동향》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/126789951",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이상준",
+              "career": "《불황에도 통하는 경매·NPL·GPL 투자의 기술》 저자 · 미래문화사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《불황에도 통하는 경매·NPL·GPL 투자의 기술》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/61333367",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "박병창",
+              "career": "《매매의 기술 + 주식 투자 기본도 모르고 할 뻔했다》 저자 · 포레스트북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《매매의 기술 + 주식 투자 기본도 모르고 할 뻔했다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/102911884",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "편집부",
+          "bestAuthor": "편집부",
+          "authorBrief": "",
+          "headlineCopy": "기술 장밋빛 비전에 속지 마라: 양산 수율과 현금흐름으로 거품을 걸러내는 5단계 판별법",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“AI 반도체 주식 급락 뉴스마다 손절과 추가 매수 사이에서 갈피를 못 잡는 투자자”를 겨냥한 반도체 실적 분석 카드뉴스 및 심층 리포트 배포.",
+            "trust": "실제 글로벌 반도체 기업들의 양산 실패 사례 및 공시 재무제표 현금 소진 데이터 대조 분석을 제시한다.",
+            "conversion": "투자 종목의 보유 지속 여부를 점수화할 수 있는 ‘AI 반도체 리스크 스코어링 체크리스트 요약본’을 증정해 구매를 완결한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "반도체 전문 지식이 없으면 읽기 어려운 난해한 기술 공학 서적으로 보일 위험",
+              "objection": "“비전공자가 읽기에는 기술 용어가 너무 어렵지 않을까?”",
+              "solution": "기술 자체의 원리보다 ‘그 기술이 돈과 수율로 전환되는 지점’에만 집중해 재무 언어로 번역했음을 본문 발췌본으로 증명한다."
+            },
+            "positioning": "기술 환상을 걷어내고 현금흐름으로 기업을 검증하는 AI 반도체 투자 리스크 바이블"
+          },
+          "devilsEditor": {
+            "failureReason": "어려운 반도체 물리학 공정 설명으로 독자를 질리게 하거나, 반대로 뻔한 거시 거품론 뉴스 요약에 그칠 위험",
+            "fix": "반도체 기술 공정은 '수율·단가·양산 리스크'라는 사업적 관점으로만 압축하고, 독자가 직접 채점할 수 있는 5단계 리스크 스코어링 프레임워크를 뼈대로 삼는다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "빅테크 및 팹리스 기업들의 단기 어닝 서프라이즈로 인해 과열 및 거품 경고에 대한 대중적 관심이 일시적으로 위축될 위험",
+          "riskResponse": "상승장에서도 과대평가된 기업을 걸러내고 기술과 현금흐름이 견고한 진짜 대장주를 선별하는 상시적 도구임을 강조한다.",
+          "judgment": "기술 찬양 일색의 시장에서 '양산 수율과 잉여현금흐름'이라는 차가운 잣대를 얼마나 명확한 채점표로 제시하느냐가 이 책의 판매량을 결정한다.",
+          "evidence": [
+            {
+              "text": "AI 반도체 산업 기술개발 동향과 적용사례 분석 및 정책·투자동향 — 편집부 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/126789951"
+            },
+            {
+              "text": "더인벤션랩, AI 반도체·헬스케어·콘텐츠 등 초기 스타트업 8개사 신규 투자 - 인공지능신문",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrRXdRTGhRYUs3OGFnLU5yMVFUOERkOGZuUzd1cmdZanlkV2FyaWUwa3Q3cmNzSlliTk1QTHVTTWd2bndZQlRLbDV1enZyWXZSOHFHNU5TWG85eHhWejJlMmktcnNvSGM?oc=5"
+            },
+            {
+              "text": "불황에도 통하는 경매·NPL·GPL 투자의 기술 — 이상준 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/61333367"
+            },
+            {
+              "text": "매매의 기술 + 주식 투자 기본도 모르고 할 뻔했다 — 박병창 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/102911884"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "AI 반도체 산업 기술개발 동향과 적용사례 분석 및 정책·투자동향",
+              "author": "편집부 저",
+              "publisher": "좋은정보사",
+              "publicationDate": "20240529",
+              "url": "https://www.yes24.com/product/goods/126789951",
+              "matchedQuery": "투자·기술",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "불황에도 통하는 경매·NPL·GPL 투자의 기술",
+              "author": "이상준 저",
+              "publisher": "미래문화사",
+              "publicationDate": "20180607",
+              "url": "https://www.yes24.com/product/goods/61333367",
+              "matchedQuery": "투자·기술",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "매매의 기술 + 주식 투자 기본도 모르고 할 뻔했다",
+              "author": "박병창 저",
+              "publisher": "포레스트북스",
+              "publicationDate": "20210514",
+              "url": "https://www.yes24.com/product/goods/102911884",
+              "matchedQuery": "투자·기술",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-14T00:02:04.961Z",
+            "queries": [
+              "AI 반도체 투자 위험",
+              "AI 반도체 리스크 체크리스트"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "planDay": "2026-10-12",
@@ -10934,7 +11504,7 @@
       ]
     }
   ],
-  "activePlanSetId": "zps-20261012-19d9f256",
+  "activePlanSetId": "zps-20261014-cf3e0bf8",
   "discardedDays": [
     {
       "date": "2026-09-29",
