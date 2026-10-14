@@ -6,7 +6,7 @@
       "planDay": "2026-10-14",
       "planSetId": "zps-20261014-cf3e0bf8",
       "generatedAt": "2026-10-14T00:05:25.235Z",
-      "publishedAt": "2026-10-14T00:19:02.169Z",
+      "publishedAt": "2026-10-14T00:19:16.980Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -230,7 +230,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-14T00:18:00.002Z",
+            "generatedAt": "2026-10-14T00:18:51.666Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -255,81 +255,78 @@
               ]
             },
             "bookTitle": "AI 학습 데이터 구매의 정석: 토큰 단위 도서·학술 데이터 소싱과 비용 최적화",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "gemini",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "감성 문장",
-                "headline": "시대는 끝났다: 모델 성능을 바꾸는 토큰 구매와 비용 통제 실무.",
+                "headline": "밤새 돌린 모델 앞에\n남겨진 것은\n불안한 청구서였다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "002",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "장면",
-                "headline": "산정하고 모델 성능 대비 가성비를 측정하는 구체적 절차를 모른다.",
-                "body": "",
+                "headline": "어두운 연구실 모니터에\n치솟는 연산 비용과\n토큰 수가 깜빡인다",
+                "body": "숫자가 늘어날수록 마음은 초조해진다",
                 "accent": "yellow",
                 "sceneId": "018",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "감정",
-                "headline": "단위로 탐색, 라이선스 검증, 단가 비교하여 도입하는 실무 프로토콜.",
-                "body": "",
+                "headline": "양만 채운 문장들이\n과연 제대로 된\n답을 만들어낼까",
+                "body": "비싼 비용 뒤에 쏟아지는 허탈한 의문",
                 "accent": "yellow",
                 "sceneId": "025",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "관점 전환",
-                "headline": "등장해 데이터 방식의 패러다임 전환이 일어나고 있기 때문이다.",
-                "body": "",
+                "headline": "하지만 문장의 가치는\n단어의 총량이 아니라\n정제된 밀도에 있다",
+                "body": "비용을 줄이는 시작은 덜어냄이다",
                 "accent": "yellow",
                 "sceneId": "020",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "수용",
-                "headline": "체크리스트, 모델 파인튜닝 전 데이터 밀도 검증 워크시트를 제공한다.",
-                "body": "",
+                "headline": "불필요한 글자를 비우고\n정확한 지식만 골라내어\n담담하게 채워 넣자",
+                "body": "작은 데이터로도 모델은 깊어진다",
                 "accent": "yellow",
                 "sceneId": "032",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "여운",
-                "headline": "화면과 UI 매뉴얼 나열에 그쳐 제품 종속적인 얇은 팸플릿이 될 위험.",
+                "headline": "가장 맑은 문장만이\n지치지 않는 지능을\n완성한다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "050",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-8fce366c"
           },
           "coverRefs": [
@@ -827,7 +824,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-14T00:18:00.002Z",
+            "generatedAt": "2026-10-14T00:18:51.666Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -852,10 +849,10 @@
               ]
             },
             "bookTitle": "AI 마케팅 솔루션 도입 감사: 낭비 없는 기술 채택을 위한 ROI·보안 5단계 평가법",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "gemini",
+            "aiCards": 5,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
@@ -866,67 +863,64 @@
                 "accent": "yellow",
                 "sceneId": "002",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "rule-repair"
               },
               {
                 "index": 2,
                 "role": "warning",
                 "beat": "공감",
-                "headline": "데이터 보안, 실제 리드 전환 기여도를 숫자로 검증하는 잣대가 없다.",
-                "body": "",
+                "headline": "유행하는 도구를 사 모았지만\n정작 매출 그래프는\n제자리를 맴돈다",
+                "body": "정기 결제 청구서만 쌓여가는 현실",
                 "accent": "yellow",
                 "sceneId": "025",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "구체적 증상",
-                "headline": "실질 전환율 ROI를 검증해 도입하는 B2B 의사결정 프레임워크.",
-                "body": "",
+                "headline": "기능 소개서에 감탄하고\n고객 정보를 넘겨주며\n정작 전환율은 모른다면",
+                "body": "지금 당신은 위험한 지출을 하고 있다",
                 "accent": "yellow",
                 "sceneId": "026",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "판단 기준",
-                "headline": "마케팅 전환 성과와 데이터 주권을 확보하지 못하고 있기 때문이다.",
-                "body": "",
+                "headline": "기능의 개수가 아니라\n실제 숫자로 연결되는\n지표가 기준이다",
+                "body": "보안과 전환율을 먼저 따져야 한다",
                 "accent": "yellow",
                 "sceneId": "019",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "해결",
-                "headline": "10문항, 솔루션 도입 전후 6개월 ROI 추적 템플릿을 제공한다.",
-                "body": "",
+                "headline": "당장 쓸모없는 도구를 끊고\n전환율을 증명하지 못하는\n계약을 폐기하라",
+                "body": "데이터 주권부터 단단히 챙겨라",
                 "accent": "yellow",
                 "sceneId": "031",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "강한 결론",
-                "headline": "단순 카탈로그 모음집으로 전락해 소프트웨어 수명 주기에 갇힐 위험.",
+                "headline": "숫자로 증명되지 않는\n도구에 단 일 원도\n쓰지 마라",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "047",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-8fce366c"
           },
           "coverRefs": [
@@ -1424,7 +1418,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-14T00:18:00.002Z",
+            "generatedAt": "2026-10-14T00:18:24.390Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1449,10 +1443,10 @@
               ]
             },
             "bookTitle": "AI 반도체 밸류체인 위험 해부: 기술 로드맵과 잉여현금흐름으로 보는 과열 검증법",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -1521,9 +1515,6 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-8fce366c"
           },
           "coverRefs": [
