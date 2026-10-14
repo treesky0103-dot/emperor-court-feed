@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 14. 오후 07:28:22",
+  "updatedAt": "2026. 10. 15. 오전 12:24:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 2000,
-    "passed": 722,
-    "deduped": 722,
-    "eventDeduped": 722,
+    "raw": 1545,
+    "passed": 531,
+    "deduped": 531,
+    "eventDeduped": 531,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,16 +42,52 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/ai-moving-faster-infrastructure-powering-it-panellists-say"
     },
     {
-      "id": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/",
-      "title": "The Turing Trap is turning into a Talent Trap: The wrong AI strategy could strand millions of skilled workers | Fortune",
-      "source": "fortune.com",
+      "id": "https://biz.heraldcorp.com/article/10902398",
+      "title": "오텍캐리어, 구미 AI 데이터센터 냉각설비 공급 추진",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T05:16:00Z",
+      "publishedAt": "2026-10-14T05:16:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10902398"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "source": "cnbc.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:17:00Z",
-      "publishedAt": "2026-10-13T15:17:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:17:00Z",
+      "publishedAt": "2026-10-14T15:17:00Z",
       "summary": "",
-      "url": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/"
+      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html"
+    },
+    {
+      "id": "https://www.dealstreetasia.com/stories/japan-chip-factories-globalfoundries-498177",
+      "title": "Japan to invest up to $21b in two US chip factories operated by GlobalFoundries",
+      "source": "dealstreetasia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:17:00Z",
+      "publishedAt": "2026-10-14T15:17:00Z",
+      "summary": "",
+      "url": "https://www.dealstreetasia.com/stories/japan-chip-factories-globalfoundries-498177"
+    },
+    {
+      "id": "https://www.express.pk/story/2838182/pakistan-and-oman-agree-to-enhance-cooperation-in-trade-investment-energy-sector-2838182",
+      "title": "pakistan and oman agree to enhance cooperation in trade investment energy sector | Express News",
+      "source": "express.pk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:16:00Z",
+      "publishedAt": "2026-10-14T15:16:00Z",
+      "summary": "",
+      "url": "https://www.express.pk/story/2838182/pakistan-and-oman-agree-to-enhance-cooperation-in-trade-investment-energy-sector-2838182"
     },
     {
       "id": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
@@ -100,42 +136,6 @@
       "publishedAt": "2026-10-13T20:31:00Z",
       "summary": "",
       "url": "https://biztimes.com/pet-food-manufacturing-plant-planned-in-east-troy/"
-    },
-    {
-      "id": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group",
-      "title": "Volvo Penta boosts sustainable energy investment with UtilityInnovation Group",
-      "source": "technicalreviewmiddleeast.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T20:02:00Z",
-      "publishedAt": "2026-10-13T20:02:00Z",
-      "summary": "",
-      "url": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group"
-    },
-    {
-      "id": "https://fox56.com/newsletter-daily/pennsylvania-launches-interactive-data-center-permit-tracker-map-pa-pennsylvania-data-centers-garrity-shapiro-environment",
-      "title": "Pennsylvania launches interactive data center permit tracker amid environmental concerns",
-      "source": "fox56.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T18:17:00Z",
-      "publishedAt": "2026-10-13T18:17:00Z",
-      "summary": "",
-      "url": "https://fox56.com/newsletter-daily/pennsylvania-launches-interactive-data-center-permit-tracker-map-pa-pennsylvania-data-centers-garrity-shapiro-environment"
-    },
-    {
-      "id": "https://www.naturalnews.com/2026-10-13-russia-ukrainian-supply-robots-destroyed-kharkov.html",
-      "title": "Russia claims Ukrainian supply robots destroyed in Kharkov as encirclement tightens – NaturalNews.com",
-      "source": "naturalnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T17:31:00Z",
-      "publishedAt": "2026-10-13T17:31:00Z",
-      "summary": "",
-      "url": "https://www.naturalnews.com/2026-10-13-russia-ukrainian-supply-robots-destroyed-kharkov.html"
     }
   ],
   "trendItems": [
@@ -164,30 +164,6 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/ai-moving-faster-infrastructure-powering-it-panellists-say"
     },
     {
-      "id": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/",
-      "title": "The Turing Trap is turning into a Talent Trap: The wrong AI strategy could strand millions of skilled workers | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:17:00Z",
-      "publishedAt": "2026-10-13T15:17:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/13/turing-trap-talent-ai-workers-hiring/"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/company/corporate-trends/empower-india-plans-ai-robotics-expansion-to-tap-growing-demand/articleshow/134919615.cms",
-      "title": "Empower India plans AI, robotics expansion to tap growing demand",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:02:00Z",
-      "publishedAt": "2026-10-13T14:02:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/empower-india-plans-ai-robotics-expansion-to-tap-growing-demand/articleshow/134919615.cms"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10902398",
       "title": "오텍캐리어, 구미 AI 데이터센터 냉각설비 공급 추진",
       "source": "biz.heraldcorp.com",
@@ -210,6 +186,30 @@
       "publishedAt": "2026-10-13T21:46:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/culture/culture_general/1281810.html"
+    },
+    {
+      "id": "https://aviationweek.com/knowledge-center/webinar-ai-defense-inside-rtxs-connected-factory-gdms-analytics-center-excellence",
+      "title": "WEBINAR: AI for Defense: Inside RTX's Connected Factory & GDMS Analytics Center of Excellence | Aviation Week",
+      "source": "aviationweek.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T19:02:00Z",
+      "publishedAt": "2026-10-13T19:02:00Z",
+      "summary": "",
+      "url": "https://aviationweek.com/knowledge-center/webinar-ai-defense-inside-rtxs-connected-factory-gdms-analytics-center-excellence"
+    },
+    {
+      "id": "https://www.thehindubusinessline.com/info-tech/ctrls-announces-10000-crore-ai-factory-in-bodh-gaya-opens-400-crore-patna-data-centre/article71580725.ece",
+      "title": "CtrlS to invest ₹10,000 crore in Bihar AI factory",
+      "source": "thehindubusinessline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T17:01:00Z",
+      "publishedAt": "2026-10-13T17:01:00Z",
+      "summary": "",
+      "url": "https://www.thehindubusinessline.com/info-tech/ctrls-announces-10000-crore-ai-factory-in-bodh-gaya-opens-400-crore-patna-data-centre/article71580725.ece"
     },
     {
       "id": "https://biz.chosun.com/stock/stock_general/2026/10/14/MZRTAZRRGFSDGYRQGA4GIMZSGY/",
@@ -236,28 +236,40 @@
       "url": "https://biz.chosun.com/science-chosun/science/2026/10/14/G5SGCMRSHEYGCMZYHBRGKYRZGY/"
     },
     {
-      "id": "https://fortune.com/2026/10/13/steel-ships-railroads-data-centers-vc-industrial-revolution-analogy-seriously/",
-      "title": "Steel ships, railroads, and data centers: A VC takes the Industrial Revolution analogy seriously | Fortune",
-      "source": "fortune.com",
+      "id": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "source": "cnbc.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:17:00Z",
-      "publishedAt": "2026-10-13T15:17:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:17:00Z",
+      "publishedAt": "2026-10-14T15:17:00Z",
       "summary": "",
-      "url": "https://fortune.com/2026/10/13/steel-ships-railroads-data-centers-vc-industrial-revolution-analogy-seriously/"
+      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html"
     },
     {
-      "id": "https://fortune.com/ranking/best-workplaces-biotechnology-pharmaceuticals/",
-      "title": "Best Large Workplaces in Biotechnology and Pharmaceuticals | Fortune",
-      "source": "fortune.com",
+      "id": "https://www.dealstreetasia.com/stories/japan-chip-factories-globalfoundries-498177",
+      "title": "Japan to invest up to $21b in two US chip factories operated by GlobalFoundries",
+      "source": "dealstreetasia.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:17:00Z",
-      "publishedAt": "2026-10-13T15:17:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:17:00Z",
+      "publishedAt": "2026-10-14T15:17:00Z",
       "summary": "",
-      "url": "https://fortune.com/ranking/best-workplaces-biotechnology-pharmaceuticals/"
+      "url": "https://www.dealstreetasia.com/stories/japan-chip-factories-globalfoundries-498177"
+    },
+    {
+      "id": "https://www.express.pk/story/2838182/pakistan-and-oman-agree-to-enhance-cooperation-in-trade-investment-energy-sector-2838182",
+      "title": "pakistan and oman agree to enhance cooperation in trade investment energy sector | Express News",
+      "source": "express.pk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:16:00Z",
+      "publishedAt": "2026-10-14T15:16:00Z",
+      "summary": "",
+      "url": "https://www.express.pk/story/2838182/pakistan-and-oman-agree-to-enhance-cooperation-in-trade-investment-energy-sector-2838182"
     },
     {
       "id": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
@@ -380,18 +392,6 @@
       "url": "http://www.torontotelegraph.com/news/279371803/canada-makes-milestone-clean-energy-investment-in-new-brunswick-to-drive-economic-and-energy-security-and-enhance-climate-competitiveness"
     },
     {
-      "id": "https://www.pr-inside.com/bronstein-gewirtz-grossman-llc-is-investigating-fervo-energy-company-r5233128.htm",
-      "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Fervo Energy Company ...",
-      "source": "pr-inside.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T17:17:00Z",
-      "publishedAt": "2026-10-13T17:17:00Z",
-      "summary": "",
-      "url": "https://www.pr-inside.com/bronstein-gewirtz-grossman-llc-is-investigating-fervo-energy-company-r5233128.htm"
-    },
-    {
       "id": "https://www.newvision.co.ug/category/news/cabinet-moves-to-boost-lithium-mining-for-loc-NV_242340_102026",
       "title": "Business: Cabinet moves to boost lithium mining for local solar battery production",
       "source": "newvision.co.ug",
@@ -428,52 +428,16 @@
       "url": "https://www.pharmaceuticalonline.com/doc/gsk-announces-drug-manufacturing-expansion-in-pennsylvania-0001"
     },
     {
-      "id": "https://www.newswire.ca/news-releases/rohl-gateway-fiber-moves-forward-with-major-investment-to-expand-its-dark-fiber-network-supporting-data-center-growth-across-alberta-british-columbia-and-saskatchewan-881029461.html",
-      "title": "ROHL Gateway Fiber Moves Forward with Major Investment to Expand Its Dark Fiber Network, Supporting Data Center Growth Across Alberta, British Columbia and Saskatchewan",
-      "source": "newswire.ca",
+      "id": "https://www.themoscowtimes.com/2026/10/13/yandex-waives-cloud-and-software-fees-after-ukrainian-drone-attacks-on-data-centers-a93958",
+      "title": "Yandex Waives Cloud and Software Fees After Ukrainian Drone Attacks on Data Centers - The Moscow Times",
+      "source": "themoscowtimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:16:00Z",
-      "publishedAt": "2026-10-13T15:16:00Z",
+      "dateRaw": "2026-10-13T16:31:00Z",
+      "publishedAt": "2026-10-13T16:31:00Z",
       "summary": "",
-      "url": "https://www.newswire.ca/news-releases/rohl-gateway-fiber-moves-forward-with-major-investment-to-expand-its-dark-fiber-network-supporting-data-center-growth-across-alberta-british-columbia-and-saskatchewan-881029461.html"
-    },
-    {
-      "id": "http://www.calcuttanews.net/news/279371914/aarti-industries-enters-into-a-10-year-strategic-and-dedicated-manufacturing-supply-agreement-with-a-global-speciality-chemical-company",
-      "title": "Aarti Industries enters into a 10+ year strategic and dedicated manufacturing & supply agreement with a global speciality chemical company",
-      "source": "calcuttanews.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:32:00Z",
-      "publishedAt": "2026-10-13T14:32:00Z",
-      "summary": "",
-      "url": "http://www.calcuttanews.net/news/279371914/aarti-industries-enters-into-a-10-year-strategic-and-dedicated-manufacturing-supply-agreement-with-a-global-speciality-chemical-company"
-    },
-    {
-      "id": "https://ekonomi.republika.co.id/berita/tmu81i490/investasi-data-center-tembus-miliaran-dolar-ini-manfaatnya-bagi-indonesia",
-      "title": "Investasi Data Center Tembus Miliaran Dolar, Ini Manfaatnya bagi Indonesia",
-      "source": "ekonomi.republika.co.id",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:31:00Z",
-      "publishedAt": "2026-10-13T14:31:00Z",
-      "summary": "",
-      "url": "https://ekonomi.republika.co.id/berita/tmu81i490/investasi-data-center-tembus-miliaran-dolar-ini-manfaatnya-bagi-indonesia"
-    },
-    {
-      "id": "https://www.webwire.com/ViewPressRel.asp?aId=362603",
-      "title": "Danish Robotics Startup The Mobile Robot Company is Taking the Industry by Storm",
-      "source": "webwire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T13:47:00Z",
-      "publishedAt": "2026-10-13T13:47:00Z",
-      "summary": "",
-      "url": "https://www.webwire.com/ViewPressRel.asp?aId=362603"
+      "url": "https://www.themoscowtimes.com/2026/10/13/yandex-waives-cloud-and-software-fees-after-ukrainian-drone-attacks-on-data-centers-a93958"
     },
     {
       "id": "https://www.newspim.com/news/view/20261014000524",
@@ -512,16 +476,40 @@
       "url": "https://www.segye.com:443/newsView/20261013520038"
     },
     {
-      "id": "https://www.newspim.com/news/view/20261013001313",
-      "title": "뉴욕증시 프리뷰, 中 반도체 공세에 나스닥 선물 하락…美 은행 실적도 엇갈려",
-      "source": "newspim.com",
-      "language": "Korean",
+      "id": "https://www.arkansasonline.com/news/2026/oct/13/pulaski-county-justice-of-the-peace-proposes-more/",
+      "title": "Pulaski County Justice of the Peace proposes more limited data center regulations | Arkansas Democrat Gazette",
+      "source": "arkansasonline.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T13:47:00Z",
-      "publishedAt": "2026-10-13T13:47:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:16:00Z",
+      "publishedAt": "2026-10-14T15:16:00Z",
       "summary": "",
-      "url": "https://www.newspim.com/news/view/20261013001313"
+      "url": "https://www.arkansasonline.com/news/2026/oct/13/pulaski-county-justice-of-the-peace-proposes-more/"
+    },
+    {
+      "id": "https://www.thehindu.com/news/national/states-should-evaluate-natural-resources-before-pitching-for-data-centres-niti-aayog/article71584261.ece",
+      "title": "States should evaluate natural resources before pitching for data centres: NITI Aayog",
+      "source": "thehindu.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:16:00Z",
+      "publishedAt": "2026-10-14T15:16:00Z",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/states-should-evaluate-natural-resources-before-pitching-for-data-centres-niti-aayog/article71584261.ece"
+    },
+    {
+      "id": "https://english.news.cn/asiapacific/20261014/21f2e601816f40b1ba78bcbdf79da4e8/c.html",
+      "title": "Singapore Q3 economic growth moderates to 5.4 pct as manufacturing slows: advance estimates",
+      "source": "english.news.cn",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T05:16:00Z",
+      "publishedAt": "2026-10-14T05:16:00Z",
+      "summary": "",
+      "url": "https://english.news.cn/asiapacific/20261014/21f2e601816f40b1ba78bcbdf79da4e8/c.html"
     },
     {
       "id": "https://www.abc.net.au/listen/programs/am/solar-battery-company-under-scrutiny/107263014",
@@ -548,18 +536,6 @@
       "url": "https://bethesdamagazine.com/2026/10/13/germantown-biotech-precigen/"
     },
     {
-      "id": "https://economictimes.indiatimes.com/world/business/meet-armaan-dhanda-who-left-college-at-22-to-turn-microbes-into-tiny-factories-his-biotech-startup-raised-2-6-million/articleshow/134919771.cms",
-      "title": "Meet Armaan Dhanda, who left college at 22 to turn microbes into tiny factories, his biotech startup raised $2.6 million",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T15:17:00Z",
-      "publishedAt": "2026-10-13T15:17:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/world/business/meet-armaan-dhanda-who-left-college-at-22-to-turn-microbes-into-tiny-factories-his-biotech-startup-raised-2-6-million/articleshow/134919771.cms"
-    },
-    {
       "id": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/jobs-created-not-proportional-to-data-centre-investments-says-ramanan",
       "title": "Jobs created not proportional to data centre investments, says Ramanan",
       "source": "freemalaysiatoday.com",
@@ -570,6 +546,18 @@
       "publishedAt": "2026-10-13T15:47:00Z",
       "summary": "",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/jobs-created-not-proportional-to-data-centre-investments-says-ramanan"
+    },
+    {
+      "id": "https://www.techradar.com/computing/gpu/half-the-gpu-overhead-with-comparable-visual-fidelity-nvidia-dramatically-improves-dlss-5-which-is-great-but-gamers-want-it-on-more-gpus",
+      "title": "Oh look, Nvidia remembers PC gamers with a 'year of relentless DLSS innovation' — GeForce GPUs might be getting stupidly pricey, but at least DLSS 5 is shaping up nicely",
+      "source": "techradar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T15:17:00Z",
+      "publishedAt": "2026-10-14T15:17:00Z",
+      "summary": "",
+      "url": "https://www.techradar.com/computing/gpu/half-the-gpu-overhead-with-comparable-visual-fidelity-nvidia-dramatically-improves-dlss-5-which-is-great-but-gamers-want-it-on-more-gpus"
     },
     {
       "id": "https://www.thehindubusinessline.com/economy/policy/india-to-roll-out-data-centre-policy-as-concerns-grow-over-power-use/article71582852.ece",
@@ -692,61 +680,73 @@
       "url": "https://www.canadianmanufacturing.com/manufacturing/rohl-gateway-fiber-to-expand-its-dark-fiber-network-to-support-data-centre-growth-322086/"
     },
     {
-      "id": "https://dominicanrepublicpost.com/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet/",
-      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet? - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
-      "source": "dominicanrepublicpost.com",
+      "id": "http://www.zimbabwestar.com/news/279371691/digi-power-x-announces-200-million-debt-financing-commitment-to-support-completion-of-alabama-ai-data-center-and-provides-expansion-update",
+      "title": "Digi Power X Announces $200 Million Debt Financing Commitment to Support Completion of Alabama AI Data Center and Provides Expansion Update",
+      "source": "zimbabwestar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:31:00Z",
-      "publishedAt": "2026-10-13T14:31:00Z",
+      "dateRaw": "2026-10-13T16:31:00Z",
+      "publishedAt": "2026-10-13T16:31:00Z",
       "summary": "",
-      "url": "https://dominicanrepublicpost.com/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet/"
+      "url": "http://www.zimbabwestar.com/news/279371691/digi-power-x-announces-200-million-debt-financing-commitment-to-support-completion-of-alabama-ai-data-center-and-provides-expansion-update"
     },
     {
-      "id": "https://thenextweb.com/news/batam-data-centres-water-protest",
-      "title": "Batam residents protest as data centres grow and their taps run dry",
-      "source": "thenextweb.com",
+      "id": "https://www.pr-inside.com/bronstein-gewirtz-grossman-llc-is-investigating-fervo-energy-company-r5233128.htm",
+      "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Fervo Energy Company ...",
+      "source": "pr-inside.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:01:00Z",
-      "publishedAt": "2026-10-13T14:01:00Z",
+      "dateRaw": "2026-10-13T17:17:00Z",
+      "publishedAt": "2026-10-13T17:17:00Z",
       "summary": "",
-      "url": "https://thenextweb.com/news/batam-data-centres-water-protest"
+      "url": "https://www.pr-inside.com/bronstein-gewirtz-grossman-llc-is-investigating-fervo-energy-company-r5233128.htm"
     },
     {
-      "id": "https://allafrica.com/stories/202610130375.html",
-      "title": "South Africa: Big Tech or Public Good? What Cape Town's Data Centre Battle Means for Residents",
-      "source": "allafrica.com",
+      "id": "https://www.fox26houston.com/news/hinojosa-challenges-abbott-data-center-policies-during-campaign-stop",
+      "title": "'People are big mad in Texas': Hinojosa challenges Abbott's data center policies",
+      "source": "fox26houston.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-13",
-      "dateRaw": "2026-10-13T14:01:00Z",
-      "publishedAt": "2026-10-13T14:01:00Z",
+      "date": "2026-10-14",
+      "dateRaw": "2026-10-14T05:16:00Z",
+      "publishedAt": "2026-10-14T05:16:00Z",
       "summary": "",
-      "url": "https://allafrica.com/stories/202610130375.html"
+      "url": "https://www.fox26houston.com/news/hinojosa-challenges-abbott-data-center-policies-during-campaign-stop"
     },
     {
-      "id": "https://orissadiary.com/adani-enterprises-jabil-sign-mou-for-5050-data-centre-hardware-joint-venture/",
-      "title": "Adani Enterprises, Jabil Sign MoU for 50:50 Data Centre Hardware Joint Venture",
-      "source": "orissadiary.com",
+      "id": "https://www.eventhubs.com/news/2026/oct/13/arjun-tech-roundup-sf6/",
+      "title": "New unblockable setup uncovered for Arjun among crazy damage, chip damage and other tech in this Street Fighter 6 roundup",
+      "source": "eventhubs.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-13",
-      "dateRaw": "2026-10-13T13:17:00Z",
-      "publishedAt": "2026-10-13T13:17:00Z",
+      "dateRaw": "2026-10-13T21:46:00Z",
+      "publishedAt": "2026-10-13T21:46:00Z",
       "summary": "",
-      "url": "https://orissadiary.com/adani-enterprises-jabil-sign-mou-for-5050-data-centre-hardware-joint-venture/"
+      "url": "https://www.eventhubs.com/news/2026/oct/13/arjun-tech-roundup-sf6/"
+    },
+    {
+      "id": "https://www.tnp.no/norway/economy/3747-aker-solutions-to-double-subsea-manufacturing-capacity-in-brazil/",
+      "title": "Aker Solutions to double subsea manufacturing capacity in Brazil - The Nordic Page",
+      "source": "tnp.no",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-13",
+      "dateRaw": "2026-10-13T19:31:00Z",
+      "publishedAt": "2026-10-13T19:31:00Z",
+      "summary": "",
+      "url": "https://www.tnp.no/norway/economy/3747-aker-solutions-to-double-subsea-manufacturing-capacity-in-brazil/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 2000,
-    "fetchedItems": 6878,
-    "relevantItems": 158,
-    "feedBytes": 1936163,
+    "poolSize": 1545,
+    "fetchedItems": 6421,
+    "relevantItems": 139,
+    "feedBytes": 1846213,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
