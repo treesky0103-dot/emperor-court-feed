@@ -6,7 +6,7 @@
       "planDay": "2026-10-14",
       "planSetId": "zps-20261014-cf3e0bf8",
       "generatedAt": "2026-10-14T00:05:25.235Z",
-      "publishedAt": "2026-10-14T00:26:14.065Z",
+      "publishedAt": "2026-10-14T01:00:45.080Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -21,10 +21,11 @@
         "model": "gemini-3.8-flash",
         "hqReady": true,
         "contentRevision": "zcr-8fce366c",
-        "hqVerifiedBy": "v2.15.99",
+        "hqVerifiedBy": "gemini-3.8-flash",
         "sealedAt": "2026-10-14T00:10:00.002Z",
         "build": "v2.15.119",
-        "hqVerificationError": ""
+        "hqVerificationError": "",
+        "hqUpgradedAt": "2026-10-14T00:57:36.208Z"
       },
       "title": "제갈량의 출판 기획 3선",
       "intro": [
@@ -541,7 +542,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-8fce366c",
             "status": "ready",
-            "generatedAt": "2026-10-14T00:25:28.045Z",
+            "generatedAt": "2026-10-14T01:00:35.235Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -549,10 +550,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "deadlineApprovedFallback": 0,
-              "noExternalCalls": true
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -1047,7 +1045,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-8fce366c",
             "status": "ready",
-            "generatedAt": "2026-10-14T00:25:30.340Z",
+            "generatedAt": "2026-10-14T01:00:37.345Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1055,10 +1053,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "deadlineApprovedFallback": 0,
-              "noExternalCalls": true
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -1553,7 +1548,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-8fce366c",
             "status": "ready",
-            "generatedAt": "2026-10-14T00:25:32.837Z",
+            "generatedAt": "2026-10-14T01:00:41.055Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
