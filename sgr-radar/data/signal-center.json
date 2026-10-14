@@ -1,25 +1,39 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 14. 오후 02:26:26",
+  "updatedAt": "2026. 10. 14. 오후 07:28:30",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12175534",
-          "title": "이민근 안산시장 “민선8기 씨앗, 민선9기 결실로… 중단 없는 안산 발전 이끌 것”",
+          "id": "https://www.mk.co.kr/news/economy/12175946",
+          "title": "'출산율' 뺀 인구정책 … 20년만에 판 바꾼다",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-14",
-          "dateRaw": "2026-10-14T14:10:43Z",
-          "publishedAt": "2026-10-14T14:10:43Z",
+          "dateRaw": "2026-10-14T17:38:47Z",
+          "publishedAt": "2026-10-14T17:38:47Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12175534",
+          "url": "https://www.mk.co.kr/news/economy/12175946",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etnews.com/20261014000438",
+          "title": "인베스팅101, 내년 AI 투자교육에 33억 투입…'워뇨띠' 공개 4년치 실매매 데이터도 학습",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T09:11:50Z",
+          "publishedAt": "2026-10-14T09:11:50Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261014000438",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275207&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
@@ -34,18 +48,18 @@
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275207&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         },
         {
-          "id": "https://www.etnews.com/20261014000196",
-          "title": "한양여대, 제52주년 개교기념식 개최…“교육체제 전반의 변화에 따른 구성원 협조” 당부",
-          "source": "etnews.com",
+          "id": "https://zdnet.co.kr/view/?no=20261014170030",
+          "title": "[ZD SW 투데이] 엔코아 플레이데이터, 오프라인 교육 수강생 3500명 돌파 外",
+          "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-14",
-          "dateRaw": "2026-10-14T03:15:32Z",
-          "publishedAt": "2026-10-14T03:15:32Z",
+          "dateRaw": "2026-10-14T08:00:48Z",
+          "publishedAt": "2026-10-14T08:00:48Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261014000196",
+          "url": "https://zdnet.co.kr/view/?no=20261014170030",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1282278.html",
@@ -96,6 +110,20 @@
           "url": "https://newsway.co.kr/news/view?ud=2026101316170608088"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224912",
+          "title": "초등학교에 '연습용 수류탄'이 왜…군·경 수색 작업",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T07:43:00Z",
+          "publishedAt": "2026-10-14T07:43:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224912",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://www.newspim.com/news/view/20261014000913",
           "title": "[2026 국감] 청년 첫 연금 보험료, 수도권만 쏠리나…복지위, '지역 격차' 지탄",
           "source": "newspim.com",
@@ -106,44 +134,24 @@
           "publishedAt": "2026-10-14T05:16:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261014000913"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10902033",
-          "title": "“30대 법조인도 샀다” 세종 거래량 57% 늘고 집값 ‘들썩’[부동산360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:16:00Z",
-          "publishedAt": "2026-10-14T05:16:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10902033"
-        },
-        {
-          "id": "https://www.seoul.co.kr/news/economy/2026/10/14/20261014500016",
-          "title": "㈜비노시스, 강원대학교 강원ICT융합연구원 ‘강원후평 AX 실증산단 구축사업 - 제조 AI 오픈랩’ 기업지원사업 선정",
-          "source": "seoul.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T00:32:00Z",
-          "publishedAt": "2026-10-14T00:32:00Z",
-          "summary": "",
-          "url": "https://www.seoul.co.kr/news/economy/2026/10/14/20261014500016"
         }
       ],
       "keywords": [
-        {
-          "word": "주거",
-          "count": 4
-        },
         {
           "word": "교육",
           "count": 3
         },
         {
-          "word": "이민",
+          "word": "주거",
           "count": 3
+        },
+        {
+          "word": "이민",
+          "count": 2
+        },
+        {
+          "word": "저출생",
+          "count": 2
         },
         {
           "word": "청년",
@@ -151,10 +159,6 @@
         },
         {
           "word": "복지",
-          "count": 1
-        },
-        {
-          "word": "저출생",
           "count": 1
         }
       ],
@@ -165,32 +169,32 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261014000261",
-          "title": "경기도, 스타트업 서밋 개막…184곳 기술 전시·투자상담 총 480건 추진",
+          "id": "https://www.etnews.com/20261014000291",
+          "title": "신현송 한은 총재 “AI 투자·중동 악재로 물가 자극…통화정책으로 양극화 대응”",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-14",
-          "dateRaw": "2026-10-14T04:41:35Z",
-          "publishedAt": "2026-10-14T04:41:35Z",
+          "dateRaw": "2026-10-14T05:31:08Z",
+          "publishedAt": "2026-10-14T05:31:08Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261014000261",
+          "url": "https://www.etnews.com/20261014000291",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12174890",
-          "title": "“기업인의 힘 증명한 배움의 열정”…매일경제-성남상의 최고경영자과정 수료식",
+          "id": "https://www.mk.co.kr/news/society/12175834",
+          "title": "“한때 美와 맞붙던 경제대국이었는데”…日 GDP, 내년 6위로 추락 전망",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T20:12:28Z",
-          "publishedAt": "2026-10-13T20:12:28Z",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T17:03:13Z",
+          "publishedAt": "2026-10-14T17:03:13Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12174890",
+          "url": "https://www.mk.co.kr/news/society/12175834",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261014103147",
@@ -217,6 +221,18 @@
           "publishedAt": "2026-10-13T16:02:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=05710486645612592&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/area/capital/1282433.html",
+          "title": "“소방관 명예 짓밟았다” 분노…‘재정 빨대’ 발언 추미애 지사 규탄",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T10:16:00Z",
+          "publishedAt": "2026-10-14T10:16:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/area/capital/1282433.html"
         },
         {
           "id": "https://biz.chosun.com/policy/policy_sub/2026/10/13/HM7YSZ4GPRBK3KGQ4WPQRPXJ4I/",
@@ -279,18 +295,6 @@
           "publishedAt": "2026-10-13T19:32:00Z",
           "summary": "",
           "url": "https://www.mt.co.kr/opinion/2026/10/14/2026101317104437405"
-        },
-        {
-          "id": "https://www.voakorea.com/a/us-south-korea-economy-101326/8210796.html",
-          "title": "\"미한 동맹, 경제·금융 핵심 축\"…미한 재무 수장 첫 화상 회담",
-          "source": "voakorea.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T17:17:00Z",
-          "publishedAt": "2026-10-13T17:17:00Z",
-          "summary": "",
-          "url": "https://www.voakorea.com/a/us-south-korea-economy-101326/8210796.html"
         }
       ],
       "keywords": [
@@ -299,7 +303,7 @@
           "count": 4
         },
         {
-          "word": "기업",
+          "word": "물가",
           "count": 1
         },
         {
@@ -328,30 +332,30 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261013000452",
-          "title": "경기도, 전국 첫 판교 국방 AX 거점…AI·로봇 기업 실증·사업화 지원",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T13:36:22Z",
-          "publishedAt": "2026-10-13T13:36:22Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261013000452",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261014103147",
-          "title": "중국 저가 AI 공세·토큰값 급락…빅테크 인프라 투자 '부메랑' 우려",
+          "id": "https://zdnet.co.kr/view/?no=20261014174207",
+          "title": "라온시큐어 AI 가드레일 '원쉴드', 인공지능 제품·서비스 확인서 획득",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-14",
-          "dateRaw": "2026-10-14T01:46:27Z",
-          "publishedAt": "2026-10-14T01:46:27Z",
+          "dateRaw": "2026-10-14T08:42:07Z",
+          "publishedAt": "2026-10-14T08:42:07Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261014103147",
+          "url": "https://zdnet.co.kr/view/?no=20261014174207",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.etnews.com/20261014000401",
+          "title": "넷앱, AI 스토리지 '노버스' 공개…GPU 데이터 병목 해소 나서",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T08:08:29Z",
+          "publishedAt": "2026-10-14T08:08:29Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261014000401",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -392,16 +396,16 @@
           "url": "https://biz.chosun.com/science-chosun/science/2026/10/14/GJSWGM3GMY2TKYTFG5STSNRUMQ/"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261013001330",
-          "title": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...中 반도체 추격에 메모리주 급락",
+          "id": "https://www.newspim.com/news/view/20261014000524",
+          "title": "삼전닉스 급락했는데…창신메모리도 하락, '中 반도체 공포' 과도했나",
           "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T13:47:00Z",
-          "publishedAt": "2026-10-13T13:47:00Z",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T05:16:00Z",
+          "publishedAt": "2026-10-14T05:16:00Z",
           "summary": "",
-          "url": "https://www.newspim.com/news/view/20261013001330"
+          "url": "https://www.newspim.com/news/view/20261014000524"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224812",
@@ -452,19 +456,19 @@
           "count": 3
         },
         {
+          "word": "GPU",
+          "count": 2
+        },
+        {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 2
-        },
-        {
-          "word": "로봇",
+          "word": "바이오",
           "count": 1
         },
         {
-          "word": "바이오",
+          "word": "반도체",
           "count": 1
         }
       ],
@@ -799,16 +803,28 @@
           "url": "https://www.channelnewsasia.com/watch/cyber-strategy-refresh-addresses-threats-frontier-ai-models-quantum-advancement-6456346"
         },
         {
-          "id": "https://www.businesstimes.com.sg/companies-markets/ai-moving-faster-infrastructure-powering-it-panellists-say",
-          "title": "AI is moving faster than the infrastructure powering it, panellists say",
+          "id": "https://www.businesstimes.com.sg/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact",
+          "title": "Anthropic works to bring frontier AI models ‘on soil’ in Singapore, signs government pact",
           "source": "businesstimes.com.sg",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-14",
-          "dateRaw": "2026-10-14T00:31:00Z",
-          "publishedAt": "2026-10-14T00:31:00Z",
+          "dateRaw": "2026-10-14T10:16:00Z",
+          "publishedAt": "2026-10-14T10:16:00Z",
           "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/ai-moving-faster-infrastructure-powering-it-panellists-say"
+          "url": "https://www.businesstimes.com.sg/companies-markets/anthropic-works-bring-frontier-ai-models-soil-singapore-signs-government-pact"
+        },
+        {
+          "id": "https://www.thehindubusinessline.com/companies/tata-power-building-diversified-energy-pipeline-eyes-key-role-data-centre-ecosystem/article71582850.ece",
+          "title": "Tata Power building diversified energy pipeline; eyes key role data centre ecosystem",
+          "source": "thehindubusinessline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-14",
+          "dateRaw": "2026-10-14T10:16:00Z",
+          "publishedAt": "2026-10-14T10:16:00Z",
+          "summary": "",
+          "url": "https://www.thehindubusinessline.com/companies/tata-power-building-diversified-energy-pipeline-eyes-key-role-data-centre-ecosystem/article71582850.ece"
         },
         {
           "id": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
@@ -881,28 +897,16 @@
           "publishedAt": "2026-10-13T16:31:00Z",
           "summary": "",
           "url": "https://www.themoscowtimes.com/2026/10/13/yandex-waives-cloud-and-software-fees-after-ukrainian-drone-attacks-on-data-centers-a93958"
-        },
-        {
-          "id": "https://www.indiablooms.com/finance/adani-jabil-join-hands-for-ai-manufacturing-in-india-what-we-know-about-the-mega-deal/details",
-          "title": "Adani, Jabil join hands for AI manufacturing in India: What we know about the mega deal | Indiablooms - First Portal on Digital News Management",
-          "source": "indiablooms.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T16:02:00Z",
-          "publishedAt": "2026-10-13T16:02:00Z",
-          "summary": "",
-          "url": "https://www.indiablooms.com/finance/adani-jabil-join-hands-for-ai-manufacturing-in-india-what-we-know-about-the-mega-deal/details"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "제조",
-          "count": 5
+          "count": 4
         },
         {
           "word": "GPU",
@@ -937,8 +941,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4393,
-    "feedBytes": 1212921,
+    "fetchedItems": 6878,
+    "feedBytes": 1936163,
     "rollingWindowHours": 72
   }
 }
