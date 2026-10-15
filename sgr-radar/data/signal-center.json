@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 16. 오전 12:08:54",
+  "updatedAt": "2026. 10. 16. 오전 04:06:18",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -332,18 +332,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261015000291",
-          "title": "현대차, AI·로봇산업협회 부회장사 합류…로봇 생태계 힘 싣는다",
+          "id": "https://www.etnews.com/20261015000053",
+          "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-15",
-          "dateRaw": "2026-10-15T05:05:53Z",
-          "publishedAt": "2026-10-15T05:05:53Z",
+          "dateRaw": "2026-10-15T19:00:00Z",
+          "publishedAt": "2026-10-15T19:00:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261015000291",
+          "url": "https://www.etnews.com/20261015000053",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261014201002",
@@ -454,12 +454,8 @@
           "count": 3
         },
         {
-          "word": "로봇",
-          "count": 2
-        },
-        {
           "word": "반도체",
-          "count": 1
+          "count": 2
         },
         {
           "word": "제조",
@@ -474,6 +470,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.nursinginpractice.com/latest-news/immigration-reform-could-put-thousands-of-healthcare-staff-at-risk/",
+          "title": "Immigration reform could put thousands of healthcare staff ‘at risk’",
+          "source": "nursinginpractice.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T19:02:00Z",
+          "publishedAt": "2026-10-15T19:02:00Z",
+          "summary": "",
+          "url": "https://www.nursinginpractice.com/latest-news/immigration-reform-could-put-thousands-of-healthcare-staff-at-risk/"
+        },
         {
           "id": "https://www.thenews.com.pk/latest/1420001-openai-sued-by-eight-states-over-chatgpt-youth-safety-and-mental-health-risks",
           "title": "OpenAI sued by eight states over ChatGPT youth safety and mental health risks",
@@ -511,16 +519,16 @@
           "url": "https://www.tnp.no/norway/politics/new-government-in-norway-less-inequality-more-focus-on-environment-welfare-and-localization/"
         },
         {
-          "id": "https://www.oann.com/newsroom/secret-service-discusses-40-increase-in-threats-citing-mental-health-and-social-media/",
-          "title": "Secret Service discusses '40% increase in threats', citing mental health and social media",
-          "source": "oann.com",
+          "id": "https://malawi24.com/marketplace/listing/consultant-development-of-sops-and-training-materials-for-acute-and-severe-mental-health-presentations/",
+          "title": "Consultant: Development of SOPs and Training Materials for Acute and Severe Mental Health Presentations at Médecins Sans Frontières on Malawi24 Marketplace",
+          "source": "malawi24.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-13",
-          "dateRaw": "2026-10-13T17:32:00Z",
-          "publishedAt": "2026-10-13T17:32:00Z",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T19:02:00Z",
+          "publishedAt": "2026-10-15T19:02:00Z",
           "summary": "",
-          "url": "https://www.oann.com/newsroom/secret-service-discusses-40-increase-in-threats-citing-mental-health-and-social-media/"
+          "url": "https://malawi24.com/marketplace/listing/consultant-development-of-sops-and-training-materials-for-acute-and-severe-mental-health-presentations/"
         },
         {
           "id": "https://www.hindustantimes.com/india-news/assam-university-assistant-professor-booked-for-molesting-woman-researcher-in-bengaluru-police-101792075098839.html",
@@ -581,24 +589,12 @@
           "publishedAt": "2026-10-15T00:47:00Z",
           "summary": "",
           "url": "https://www.wsoctv.com/news/aging-independence/DKW4AOT2O4ZV5NQMU2R5DA6OYY/"
-        },
-        {
-          "id": "https://patriotla.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/",
-          "title": "Sexual Assault Reported At University Of Chicago Frat House | The Patriot KEIB AM 1150",
-          "source": "patriotla.iheart.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T19:32:00Z",
-          "publishedAt": "2026-10-14T19:32:00Z",
-          "summary": "",
-          "url": "https://patriotla.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 3
         },
         {
           "word": "정신건강",
@@ -610,6 +606,10 @@
         },
         {
           "word": "불평등",
+          "count": 1
+        },
+        {
+          "word": "이민",
           "count": 1
         },
         {
@@ -789,6 +789,18 @@
           "url": "https://247wallst.com/companies/tsm/"
         },
         {
+          "id": "https://www.cnbc.com/2026/10/15/lam-research-stock-ai-chip-demand.html",
+          "title": "This semiconductor stock is not for the faint of heart. Here's why I see opportunity",
+          "source": "cnbc.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T19:01:00Z",
+          "publishedAt": "2026-10-15T19:01:00Z",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/10/15/lam-research-stock-ai-chip-demand.html"
+        },
+        {
           "id": "https://www.newsweek.com/james-talarico-targets-data-centers-over-texas-energy-bills-water-crisis-12571822",
           "title": "James Talarico targets data centers over Texas energy bills, water crisis",
           "source": "newsweek.com",
@@ -883,31 +895,19 @@
           "publishedAt": "2026-10-14T15:17:00Z",
           "summary": "",
           "url": "http://www.calcuttanews.net/news/279374064/india-electricity-demand-set-to-outpace-overall-energy-demand-by-2035-data-centres-to-fuel-growth-sp-global"
-        },
-        {
-          "id": "https://www.thehindu.com/news/national/states-should-evaluate-natural-resources-before-pitching-for-data-centres-niti-aayog/article71584261.ece",
-          "title": "States should evaluate natural resources before pitching for data centres: NITI Aayog",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T15:16:00Z",
-          "publishedAt": "2026-10-14T15:16:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/states-should-evaluate-natural-resources-before-pitching-for-data-centres-niti-aayog/article71584261.ece"
         }
       ],
       "keywords": [
+        {
+          "word": "반도체",
+          "count": 4
+        },
         {
           "word": "제조",
           "count": 4
         },
         {
           "word": "데이터센터",
-          "count": 3
-        },
-        {
-          "word": "반도체",
           "count": 3
         },
         {
@@ -931,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6747,
-    "feedBytes": 1907120,
+    "fetchedItems": 5563,
+    "feedBytes": 1569406,
     "rollingWindowHours": 72
   }
 }
