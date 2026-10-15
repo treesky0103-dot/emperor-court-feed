@@ -3,7 +3,7 @@
   "planDay": "2026-10-15",
   "planSetId": "zps-20261015-7aa42187",
   "generatedAt": "2026-10-14T23:43:34.646Z",
-  "publishedAt": "2026-10-15T00:10:03.425Z",
+  "publishedAt": "2026-10-15T00:18:04.084Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -230,7 +230,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-15T00:18:00.057Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "금리 인상 종료 시그널과 내 돈의 우선순위: 거시 지표를 가계 대출·적금·연금으로 번역하는 5단계 재무 기준",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "멈추는 날, 당신의 대출 이자와 연금 계좌는 무엇부터 바꿔야 하는가.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "010",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "부담, 확정금리 파킹 여부로 즉각 번역하는 명확한 기준표를 원한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "015",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "예적금, 연금 포트폴리오를 재배치하는 가계 재무 의사결정 프레임워크.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "030",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "채권·적금·주식 간 자금 이동 순서를 잡지 못하고 있기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "금리 하락 전환기 만기별 채권·예금 3분할 배치 매트릭스를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "031",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "교양서처럼 밋밋해지고 독자의 실제 계좌 행동으로 연결되지 못할 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "047",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-f5dff082"
+      }
     },
     {
       "type": "마케팅",
@@ -409,7 +514,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-15T00:18:00.057Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "AI 마케팅 자동화의 일 분할 기준: 툴 도입 전 업무 재설계와 성과 증명 프로토콜",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "다 집행하는 시대, 마케터는 무엇으로 자신의 몸값을 증명할 것인가.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "003",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "사람이 개입해야 할 고부가가치 기획 영역을 명확히 하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "023",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "쥐어야 할 의사결정·데이터 검증 책임을 구분하는 실무 업무 설계서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "내 직무 가치가 입증되는가'에 대한 혼란을 겪고 있기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "솔루션 도입 전후 마케터의 기여도 증명 보고서 양식을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "031",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "브로슈어나 기능 해설로 흘러가 1년 내에 내용이 구식이 될 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "043",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-f5dff082"
+      }
     },
     {
       "type": "경영",
@@ -588,8 +798,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-15T00:18:00.057Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "물가 변곡점의 가계 현금흐름 생존법: 거시 충격에 흔들리지 않는 4단계 생활재무 방어선",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "마라: 당신의 월급과 계좌를 지키는 4단계 생활재무 방어선.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "005",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "않도록 생활비-비상금-투자금의 안전한 방어벽을 구축하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "생활비와 장기 자산으로 번지는 것을 차단하는 생활재무 리스크 관리서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "지출과 비상 현금흐름을 통제하는 시스템을 갖추지 못했기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "산출표, 거시 지표 발표 주기 맞춤 가계 점검 캘린더를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "팁이 어설프게 섞여 둘 다 만족시키지 못하는 어중간한 책이 될 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "043",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-f5dff082"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261015-7aa42187",
+    "file": "cardnews/2026-10-15.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
