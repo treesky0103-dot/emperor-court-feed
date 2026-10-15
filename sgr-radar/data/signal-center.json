@@ -1,12 +1,24 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 15. 오후 02:36:13",
+  "updatedAt": "2026. 10. 15. 오후 07:18:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=05123366645613248&mediaCodeNo=257",
+          "title": "전세 사기에 무너지는 청년층... 76%가 2030세대",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05123366645613248&mediaCodeNo=257"
+        },
         {
           "id": "https://www.etnews.com/20261015000042",
           "title": "경기북부 청년창업사관학교 '수도강·원권 권역IR데이' 행사 개최",
@@ -74,6 +86,18 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1282278.html"
         },
         {
+          "id": "https://www.nspna.com/country/?mode=view&newsid=831911",
+          "title": "[사업 진행 리포트] 성남 국산의료기기 교육센터, 인공무릎관절 실습교육으로 시장 진출 지원",
+          "source": "nspna.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.nspna.com/country/?mode=view&newsid=831911"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10903854",
           "title": "춘천 주거시장 고층화 바람…39층 ‘남춘천 센트레빌’ 분양 예정",
           "source": "biz.heraldcorp.com",
@@ -110,30 +134,6 @@
           "publishedAt": "2026-10-14T05:16:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610141403017165"
-        },
-        {
-          "id": "http://inews24.com/view/2015351",
-          "title": "양평교육지원청, 몽양 여운형 정신 담은 역사·시민교육 직무연수 운영",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T05:32:00Z",
-          "publishedAt": "2026-10-15T05:32:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2015351"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261015000875",
-          "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T05:32:00Z",
-          "publishedAt": "2026-10-15T05:32:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261015000875"
         }
       ],
       "keywords": [
@@ -146,15 +146,15 @@
           "count": 4
         },
         {
+          "word": "청년",
+          "count": 3
+        },
+        {
           "word": "이민",
           "count": 2
         },
         {
           "word": "저출생",
-          "count": 2
-        },
-        {
-          "word": "청년",
           "count": 2
         }
       ],
@@ -179,18 +179,30 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12176388",
-          "title": "AI 멈추면 경기침체가 온다...CPI 높았는데 장기금리 떨어진 이유",
+          "id": "https://www.mk.co.kr/news/stock/12177104",
+          "title": "韓 투자비중 확대 나선 ‘경영관여펀드’ 달튼 “저평가 국내주식 여전히 많아…밸류업 5~6년내 가능”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-15",
-          "dateRaw": "2026-10-15T08:44:55Z",
-          "publishedAt": "2026-10-15T08:44:55Z",
+          "dateRaw": "2026-10-15T18:05:46Z",
+          "publishedAt": "2026-10-15T18:05:46Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12176388",
+          "url": "https://www.mk.co.kr/news/stock/12177104",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257",
+          "title": "“AI 대체 직무 재교육 지원 강화하고, 새 기술 배워 생산성 높인 만큼 보상”",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261014214459",
@@ -219,6 +231,32 @@
           "url": "https://www.hani.co.kr/arti/society/environment/1282129.html"
         },
         {
+          "id": "https://www.nspna.com/news/?mode=view&newsid=831883",
+          "title": "LH, AI 경영혁신 전환…안전·하자·돌봄·업무지식 전사 확대",
+          "source": "nspna.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:02:00Z",
+          "publishedAt": "2026-10-15T10:02:00Z",
+          "summary": "",
+          "url": "https://www.nspna.com/news/?mode=view&newsid=831883"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225187",
+          "title": "달걀 한판에 4만4천원?…브라질 수입산 논란에 \"항공비·관세 포함\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T07:37:00Z",
+          "publishedAt": "2026-10-15T07:37:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225187",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2636203",
           "title": "한국투자증권, 손실 완충 펀드 '한미어닝포커스' 1614억 설정",
           "source": "etoday.co.kr",
@@ -243,20 +281,6 @@
           "url": "https://www.hankookilbo.com/news/article/A2026101415410005681"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225107",
-          "title": "[단독] \"나 반기문 여동생인데\"…투자 유도해 수천만 원 뜯어낸 일당 검거",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T02:58:00Z",
-          "publishedAt": "2026-10-15T02:58:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225107",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
           "id": "https://isplus.com/article/view/isp202610150039",
           "title": "APEC 재무장관회의 20일 홍콩서 개막…21개 회원 경제체 참석 - 일간스포츠",
           "source": "isplus.com",
@@ -267,47 +291,23 @@
           "publishedAt": "2026-10-15T00:47:00Z",
           "summary": "",
           "url": "https://isplus.com/article/view/isp202610150039"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10903268",
-          "title": "‘검은 목요일’ 공포 덮친 증시…코스피 5600선 붕괴·사이드카 발동 [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T00:47:00Z",
-          "publishedAt": "2026-10-15T00:47:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10903268"
-        },
-        {
-          "id": "https://www.fnnews.com/news/202610141321380575",
-          "title": "검찰청 폐지에 달라진 로펌 대응법...초기 수사부터 기소까지 전략 재정비",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:16:00Z",
-          "publishedAt": "2026-10-14T05:16:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610141321380575"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 3
         },
         {
           "word": "공급망",
           "count": 1
         },
         {
-          "word": "금리",
+          "word": "물가",
           "count": 1
         },
         {
-          "word": "물가",
+          "word": "생산성",
           "count": 1
         }
       ],
@@ -360,6 +360,18 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257",
+          "title": "반도체 장비도 직접 만든다는 中…핵심 부품 \"국산화율 90%\"",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10902398",
           "title": "오텍캐리어, 구미 AI 데이터센터 냉각설비 공급 추진",
           "source": "biz.heraldcorp.com",
@@ -396,6 +408,18 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1282434.html"
         },
         {
+          "id": "https://www.nspna.com/news/?mode=view&newsid=831883",
+          "title": "LH, AI 경영혁신 전환…안전·하자·돌봄·업무지식 전사 확대",
+          "source": "nspna.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:02:00Z",
+          "publishedAt": "2026-10-15T10:02:00Z",
+          "summary": "",
+          "url": "https://www.nspna.com/news/?mode=view&newsid=831883"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2636217",
           "title": "스카이월드와이드·스카이인텔리전스, 국가 피지컬 AI 얼라이언스 참여…데이터·글로벌 협력 확대",
           "source": "etoday.co.kr",
@@ -418,49 +442,23 @@
           "publishedAt": "2026-10-15T05:31:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2015287"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225000",
-          "title": "[굿모닝경제] 9호선 운행 늘린다 / 김장철 배추 예약판매 시작 / 반도체 기술 빼돌린 일당 재판행",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T22:00:00Z",
-          "publishedAt": "2026-10-14T22:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225000",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261014000524",
-          "title": "삼전닉스 급락했는데…창신메모리도 하락, '中 반도체 공포' 과도했나",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:16:00Z",
-          "publishedAt": "2026-10-14T05:16:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261014000524"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 7
         },
         {
           "word": "데이터센터",
           "count": 3
         },
         {
-          "word": "반도체",
-          "count": 3
+          "word": "로봇",
+          "count": 2
         },
         {
-          "word": "로봇",
+          "word": "반도체",
           "count": 2
         },
         {
@@ -487,6 +485,18 @@
           "publishedAt": "2026-10-13T17:17:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-researchers-feature-in-worlds-top-2-scientists-list-compiled-by-stanford-university/article71580447.ece"
+        },
+        {
+          "id": "https://www.thenews.com.pk/latest/1420001-openai-sued-by-eight-states-over-chatgpt-youth-safety-and-mental-health-risks",
+          "title": "OpenAI sued by eight states over ChatGPT youth safety and mental health risks",
+          "source": "thenews.com.pk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.thenews.com.pk/latest/1420001-openai-sued-by-eight-states-over-chatgpt-youth-safety-and-mental-health-risks"
         },
         {
           "id": "https://www.newswise.com/articles/ucla-forum-explores-pressing-issues-in-disability-services-misinformation-mental-health-and-education",
@@ -525,6 +535,30 @@
           "url": "https://www.oann.com/newsroom/secret-service-discusses-40-increase-in-threats-citing-mental-health-and-social-media/"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/technology/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/134963544.cms",
+          "title": "Google announces AI collaborations, funding initiatives to boost healthcare, research in India",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:02:00Z",
+          "publishedAt": "2026-10-15T10:02:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/134963544.cms"
+        },
+        {
+          "id": "https://www.medianama.com/2026/10/223-google-copyright-notice-wire-vantara/",
+          "title": "Google sends copyright notice to The Wire for a report on Anant Ambani’s Vantara - MEDIANAMA",
+          "source": "medianama.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.medianama.com/2026/10/223-google-copyright-notice-wire-vantara/"
+        },
+        {
           "id": "https://www.wyff4.com/article/police-school-person-reported/74138897",
           "title": "Police respond after staff report person on Upstate school property, district says",
           "source": "wyff4.com",
@@ -559,52 +593,16 @@
           "publishedAt": "2026-10-14T19:32:00Z",
           "summary": "",
           "url": "https://patriotla.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/"
-        },
-        {
-          "id": "https://newsradio540.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/",
-          "title": "Sexual Assault Reported At University Of Chicago Frat House | News Radio 540",
-          "source": "newsradio540.iheart.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T19:32:00Z",
-          "publishedAt": "2026-10-14T19:32:00Z",
-          "summary": "",
-          "url": "https://newsradio540.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/"
-        },
-        {
-          "id": "https://woodradio.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/",
-          "title": "Sexual Assault Reported At University Of Chicago Frat House | Newsradio WOOD 1300 and 106.9 FM",
-          "source": "woodradio.iheart.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T19:31:00Z",
-          "publishedAt": "2026-10-14T19:31:00Z",
-          "summary": "",
-          "url": "https://woodradio.iheart.com/content/2026-10-14-sexual-assault-reported-at-university-of-chicago-frat-house/"
-        },
-        {
-          "id": "https://news.uark.edu/articles/83059/college-of-education-and-health-professions-researcher-earns-national-science-foundation-grant",
-          "title": "College of Education and Health Professions Researcher Earns National Science Foundation Grant",
-          "source": "news.uark.edu",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:16:00Z",
-          "publishedAt": "2026-10-14T05:16:00Z",
-          "summary": "",
-          "url": "https://news.uark.edu/articles/83059/college-of-education-and-health-professions-researcher-earns-national-science-foundation-grant"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 4
         },
         {
           "word": "정신건강",
-          "count": 2
+          "count": 3
         },
         {
           "word": "고령화",
@@ -615,7 +613,15 @@
           "count": 1
         },
         {
+          "word": "저작권",
+          "count": 1
+        },
+        {
           "word": "정보신뢰",
+          "count": 1
+        },
+        {
+          "word": "청년",
           "count": 1
         }
       ],
@@ -660,6 +666,18 @@
           "publishedAt": "2026-10-13T17:17:00Z",
           "summary": "",
           "url": "http://www.torontotelegraph.com/news/279371803/canada-makes-milestone-clean-energy-investment-in-new-brunswick-to-drive-economic-and-energy-security-and-enhance-climate-competitiveness"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=05021686645613248&mediaCodeNo=257",
+          "title": "신압록강대교 열어 북·중 밀착…경제제재 무력화하며 트럼프 압박",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:02:00Z",
+          "publishedAt": "2026-10-15T10:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05021686645613248&mediaCodeNo=257"
         },
         {
           "id": "http://www.thejakartapost.com/business/2026/10/15/government-taps-msme-exports-amid-push-into-nontraditional-markets",
@@ -732,24 +750,12 @@
           "publishedAt": "2026-10-14T15:17:00Z",
           "summary": "",
           "url": "https://bdnews24.com/world/z83t47szk8"
-        },
-        {
-          "id": "https://www.aps.dz:443/en/presidency-news/mv87thcy-president-tebboune-highlights-state-s-resolute-political-will-to-boost-economy-investment",
-          "title": "President Tebboune highlights State’s resolute political will to boost economy, investment",
-          "source": "aps.dz",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T15:17:00Z",
-          "publishedAt": "2026-10-14T15:17:00Z",
-          "summary": "",
-          "url": "https://www.aps.dz:443/en/presidency-news/mv87thcy-president-tebboune-highlights-state-s-resolute-political-will-to-boost-economy-investment"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "금리",
@@ -925,8 +931,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4325,
-    "feedBytes": 1224801,
+    "fetchedItems": 6918,
+    "feedBytes": 1960391,
     "rollingWindowHours": 72
   }
 }
