@@ -1,6 +1,599 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "days": [
+    {
+      "date": "2026-10-15",
+      "planDay": "2026-10-15",
+      "planSetId": "zps-20261015-7aa42187",
+      "generatedAt": "2026-10-14T23:43:34.646Z",
+      "publishedAt": "2026-10-15T00:00:08.897Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-10-15",
+        "planSetId": "zps-20261015-7aa42187",
+        "titles": [
+          "금리 인상 종료 시그널과 내 돈의 우선순위: 거시 지표를 가계 대출·적금·연금으로 번역하는 5단계 재무 기준",
+          "AI 마케팅 자동화의 일 분할 기준: 툴 도입 전 업무 재설계와 성과 증명 프로토콜",
+          "물가 변곡점의 가계 현금흐름 생존법: 거시 충격에 흔들리지 않는 4단계 생활재무 방어선"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "gemini-3.8-flash",
+        "hqReady": true,
+        "contentRevision": "zcr-f5dff082",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-10-15T00:00:00.065Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 경제 · 마케팅 · 경영을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "gemini-3.8-flash",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-10-14T23:43:27.861Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-10-14T23:39:17.875Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-10-14T23:30:28.840Z",
+        "bestsellerDataDate": "2026-10-14",
+        "stale": true,
+        "checkedAt": "2026-10-14T23:43:34.646Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "경제",
+          "field": "경제",
+          "title": "금리 인상 종료 시그널과 내 돈의 우선순위: 거시 지표를 가계 대출·적금·연금으로 번역하는 5단계 재무 기준",
+          "concept": "미 연준의 금리 동결 및 물가 둔화 신호 속에서 뉴스에 흔들리지 않고 대출 상환, 안전 예적금, 연금 포트폴리오를 재배치하는 가계 재무 의사결정 프레임워크",
+          "why": "미 연준 주요 인사의 '추가 금리 인상 불필요' 발언 및 물가 둔화 기대감이 커지며 거시 환경의 변곡점이 형성되었으나, 개인은 대출 금리 하락 시점과 채권·적금·주식 간 자금 이동 순서를 잡지 못하고 있기 때문이다.",
+          "competition": "조경엽의 《법인세 인상이 자본유출입에 미치는 영향》 같은 도서는 거시 경제학적 국가 단위 분석에 치중해 개인 가계 재무 적용이 불가능하고, 수능 경제 교재는 원론에 그쳐 금리 변곡점의 가계 자금 우선순위를 알려주지 못한다.",
+          "reader": "금리 동결이나 물가 둔화 뉴스가 나올 때마다 영끌 대출 갈아타기, 예금 만기 재예치, 연금저축 펀드 비중 조절을 어떻게 해야 할지 혼란스러운 30~50대 직장인",
+          "readerNeed": "경제 기사의 거시 지표(CPI, 기준금리)를 내 통장의 생활비, 주택담보대출 이자 부담, 확정금리 파킹 여부로 즉각 번역하는 명확한 기준표를 원한다.",
+          "marketGap": "거시 경제 전망서나 개별 종목 주식 투자서는 풍부하지만, '금리 인상 사이클의 종료 국면'에서 개인의 부채 감축과 고정금리 락인(Lock-in), 연금 자산 리밸런싱 순서를 짚어주는 실전 가이드가 없다.",
+          "differentiation": "CPI·금리 지표 발표 당일 체크리스트, 변동금리 대출 대환 시점 판별 계산식, 금리 하락 전환기 만기별 채권·예금 3분할 배치 매트릭스를 제공한다.",
+          "diff": "CPI·금리 지표 발표 당일 체크리스트, 변동금리 대출 대환 시점 판별 계산식, 금리 하락 전환기 만기별 채권·예금 3분할 배치 매트릭스를 제공한다.",
+          "toc": [
+            "1장. 시그널 읽기: 연준의 발언과 CPI 수치가 내 월급 통장에 도달하는 3단계 경로",
+            "2장. 부채 방어선: 금리 동결 국면에서 변동금리를 고정금리로 갈아타야 하는 임계점",
+            "3장. 현산 잠그기: 금리 하락 전 막차 타는 장기 확정금리 예금 및 국채 파킹 공식",
+            "4장. 연금 리밸런싱: 물가 둔화기 TDF·배당형 ETF 자산 배분 비중 조정표",
+            "5장. 실행 루틴: 분기별 통화정책 회의 전후 30분 만에 끝내는 가계 재무 점검 프로토콜"
+          ],
+          "searchQueries": [
+            "물가 둔화 투자 전략",
+            "미 연준 금리 인상"
+          ],
+          "bookworthiness": {
+            "durability": "중앙은행의 금리 인상·동결·인하 사이클은 경제 국면마다 주기적으로 반복되므로 장기 보존 가치가 높다.",
+            "repeatNeed": "CPI 발표 및 FOMC 정례회의마다 대출 연장과 예적금 갱신 판단을 내려야 하므로 상시 참조 수요가 존재한다.",
+            "expansionPotential": "금리 인하기 부채 구조조정, 부동산 갈아타기, 연금 인출 설계 등 생애주기 재무 의사결정 시리즈로 확장이 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "조경엽",
+              "career": "《법인세 인상이 자본유출입에 미치는 영향》 저자 · 한국경제연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《법인세 인상이 자본유출입에 미치는 영향》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/33184023",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이민희",
+              "career": "《빠작 수능 국어 비문학 법·경제》 저자 · 동아출판",
+              "why": "YES24에서 이 기획과 인접한 주제의 《빠작 수능 국어 비문학 법·경제》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/197973285",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이윤정",
+              "career": "《빠작 수능 국어 비문학 법·경제》 저자 · 동아출판",
+              "why": "YES24에서 이 기획과 인접한 주제의 《빠작 수능 국어 비문학 법·경제》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/197973285",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "조경엽",
+          "bestAuthor": "조경엽",
+          "authorBrief": "",
+          "headlineCopy": "연준이 금리 인상을 멈추는 날, 당신의 대출 이자와 연금 계좌는 무엇부터 바꿔야 하는가",
+          "marketingStrategy": {
+            "sampleBreadth": "넓음",
+            "coreDesires": [
+              "금리 변곡점에서 대출 이자 손실을 보지 않고 싶다",
+              "경제 뉴스를 볼 때 내 자산을 어떻게 지킬지 즉시 결정하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“연준이 금리를 멈춘다는데, 내 주택담보대출은 언제 갈아타고 적금은 어디로 옮겨야 할까?”를 헤드카피로 삼아 부동산·재테크 커뮤니티 및 직장인 타깃 채널에 배포한다.",
+            "trust": "역대 금리 동결 및 인하기 코스피·채권 수익률과 가계 대출 금리 시차 데이터 대조표를 수록해 객관적 설득력을 확보한다.",
+            "conversion": "도서 구매 즉시 인쇄해 벽에 붙여둘 수 있는 ‘FOMC 발표 직후 48시간 가계 자금 행동 가이드 및 대환대출 자가진단표’를 부록으로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "단순 거시 경제 해설 뉴스나 유튜브 영상 클립으로 충분하다고 생각할 위험",
+              "objection": "“어차피 금리 뉴스는 유튜브나 뉴스레터 보면 다 나오지 않나?”",
+              "solution": "유튜브가 다루지 못하는 ‘내 소득과 대출액 기준 대환대출 손익분기점 산출 엑셀 로직’을 상세페이지에 명시해 실무 도구로서의 차별점을 각인시킨다."
+            },
+            "positioning": "거시 경제 뉴스를 개인의 부채·연금 실행 지침으로 바꾸는 실물 가계 재무 지침서"
+          },
+          "devilsEditor": {
+            "failureReason": "거시 경제 지표 해설에 지면을 과도하게 할애해 일반 경제 교양서처럼 밋밋해지고 독자의 실제 계좌 행동으로 연결되지 못할 위험",
+            "fix": "거시 지표 설명은 각 장의 20% 이내로 제한하고, 독자가 자신의 대출 원리금 상환액과 적금 만기 구조를 대입해 채워 넣는 워크북 워크시트 비중을 50% 이상으로 유지한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "예상과 달리 중앙은행의 고금리 장기화 기조가 유지되거나 물가가 재반등할 경우 책의 전제가 흔들릴 위험",
+          "riskResponse": "금리 하락 단일 시나리오가 아니라 '동결 장기화'와 '급격한 인하'의 2가지 경로별 대응 매트릭스를 병렬 수록해 시나리오 대응력을 갖춘다.",
+          "judgment": "단순한 금리 전망 교양서가 아니라, 직장인이 당장 내 대출과 적금 통장을 열어두고 따라 쓰는 '가계 대환·파킹 매뉴얼'로 완성해야 실구매로 이어진다.",
+          "evidence": [
+            {
+              "text": "법인세 인상이 자본유출입에 미치는 영향 — 조경엽 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/33184023"
+            },
+            {
+              "text": "美 연준 윌리엄스 \"내년 추가 금리 인상 불필요 전망\"…물가 둔화 기대 By The Guru - Investing.com 한국어",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41RllYTGhaUkFOb09NZEt2T1lyT2dzbm8xLWhyNFVhbUl3dEZwcWhMUUMySWc5YWIzc3RFR0NCbk1SeTJGMGFHZi00MmduM0lMWGJYaFNkeGpPM1RfLVNhN2hIRjBPSldIV1RiQkhLcEQ?oc=5"
+            },
+            {
+              "text": "빠작 수능 국어 비문학 법·경제 — 이민희,이윤정,황재진 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/197973285"
+            },
+            {
+              "text": "무대 인간 — 김용태 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/198060434"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "법인세 인상이 자본유출입에 미치는 영향",
+              "author": "조경엽 저",
+              "publisher": "한국경제연구원",
+              "publicationDate": "20160728",
+              "url": "https://www.yes24.com/product/goods/33184023",
+              "matchedQuery": "미 연준 금리 인상",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "빠작 수능 국어 비문학 법·경제",
+              "author": "이민희,이윤정,황재진 공저",
+              "publisher": "동아출판",
+              "publicationDate": "20261010",
+              "url": "https://www.yes24.com/product/goods/197973285",
+              "matchedQuery": "경제",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "무대 인간",
+              "author": "김용태 저",
+              "publisher": "한국경제신문사(한경비피)",
+              "publicationDate": "20261019",
+              "url": "https://www.yes24.com/product/goods/198060434",
+              "matchedQuery": "경제",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-14T23:41:22.686Z",
+            "queries": [
+              "물가 둔화 투자 전략",
+              "미 연준 금리 인상"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "마케팅",
+          "field": "마케팅",
+          "title": "AI 마케팅 자동화의 일 분할 기준: 툴 도입 전 업무 재설계와 성과 증명 프로토콜",
+          "concept": "마케팅 전 과정 자동화 솔루션 도입 시, AI에 넘길 반복 작업과 마케터가 쥐어야 할 의사결정·데이터 검증 책임을 구분하는 실무 업무 설계서",
+          "why": "스토어링크 등 AI가 마케팅 전 과정을 대행하는 엔드투엔드 솔루션이 본격 가동되면서, 실무자들은 툴의 사용법을 몰라서가 아니라 '무엇을 자동화하고 무엇을 검증해야 내 직무 가치가 입증되는가'에 대한 혼란을 겪고 있기 때문이다.",
+          "competition": "《챗대리의 따라하면 바로 되는 AI 마케팅 자동화》나 《인스타그램 마케팅 자동화》는 챗GPT 프롬프트나 인스타그램 DM 세팅 등 개별 툴 조작법 위주라, 전체 마케팅 퍼널에서 AI의 출력물을 검증하고 마케터의 성과를 경영진에게 증명하는 업무 프로세스를 다루지 못한다.",
+          "reader": "회사에 AI 마케팅 자동화 솔루션이 도입되면서 본인의 직무 축소나 역할 모호성을 우려하는 3~7년 차 마케팅 실무자 및 팀장",
+          "readerNeed": "단순 카피 생성이나 광고 세팅을 넘어, AI 도입 전후의 퍼널 데이터 무결성을 검증하고 사람이 개입해야 할 고부가가치 기획 영역을 명확히 하고 싶다.",
+          "marketGap": "개별 AI 툴의 기능 실습서나 프롬프트 모음집은 넘쳐나지만, 솔루션이 광고 집행 전 과정을 자동화할 때 실무자가 '품질 감사자'이자 '전략 책임자'로 서기 위한 업무 재정의 가이드가 전무하다.",
+          "differentiation": "마케팅 직무별 AI 위임 가능 업무 R&R 매트릭스, AI 생성 광고 카피·소재의 브랜드 리스크 검수 7단계, 솔루션 도입 전후 마케터의 기여도 증명 보고서 양식을 제공한다.",
+          "diff": "마케팅 직무별 AI 위임 가능 업무 R&R 매트릭스, AI 생성 광고 카피·소재의 브랜드 리스크 검수 7단계, 솔루션 도입 전후 마케터의 기여도 증명 보고서 양식을 제공한다.",
+          "toc": [
+            "1장. 자동화의 충격: 풀 퍼널 AI 솔루션 가동과 마케터의 역할 변화",
+            "2장. 직무 분해와 위임: 카피라이팅·타깃팅·세팅 중 AI에 넘길 것과 쥐어야 할 것",
+            "3장. 데이터 품질 감사: AI 알고리즘의 오디언스 왜곡과 허수 트래픽 필터링 기준",
+            "4장. 브랜드 리스크 방어: AI 생성 콘텐츠의 저작권·표현 리스크 차단 7단계 체크리스트",
+            "5장. 성과 증명 보고서: 툴 운영자가 아닌 '마케팅 디렉터'로 평가받는 PoC 지표 설계"
+          ],
+          "searchQueries": [
+            "AI 마케팅 효율성",
+            "마케팅 자동화"
+          ],
+          "bookworthiness": {
+            "durability": "툴 자체는 바뀌어도 '기계 자동화 영역과 인간 의사결정 영역의 R&R 설계' 방법론은 장기적인 직무 표준으로 존속한다.",
+            "repeatNeed": "새로운 SaaS 마케팅 툴이 출시되거나 조직 개편이 일어날 때마다 실무 분장과 성과 평가 기준을 위해 상시 재열람된다.",
+            "expansionPotential": "AI 시대 기획자, 디자이너, 영업직의 업무 재설계 시리즈로 확장이 용이하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "손힘찬",
+              "career": "《인스타그램 마케팅 자동화》 저자 · 비책",
+              "why": "YES24에서 이 기획과 인접한 주제의 《인스타그램 마케팅 자동화》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/128702200",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "노희석",
+              "career": "《인스타그램 마케팅 자동화》 저자 · 비책",
+              "why": "YES24에서 이 기획과 인접한 주제의 《인스타그램 마케팅 자동화》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/128702200",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "장현수",
+              "career": "《인스타그램 마케팅 자동화》 저자 · 비책",
+              "why": "YES24에서 이 기획과 인접한 주제의 《인스타그램 마케팅 자동화》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/128702200",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "손힘찬",
+          "bestAuthor": "손힘찬",
+          "authorBrief": "",
+          "headlineCopy": "AI가 광고를 다 집행하는 시대, 마케터는 무엇으로 자신의 몸값을 증명할 것인가",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "AI에 대체되지 않고 내 전문성을 인정받고 싶다",
+              "툴 도입 후 경영진에게 마케팅 성과를 숫자로 당당히 보고하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“스토어링크 같은 AI 자동화 툴이 들어오면 마케터는 무엇을 보고해야 할까?”라는 화두로 마케팅 실무 오픈채팅방 및 링크드인 직무 채널을 공략한다.",
+            "trust": "실제 B2B 기업의 AI 마케팅 솔루션 도입 실패 및 성공 사례 비교와 실무 R&R 템플릿 샘플을 선공개해 전문성을 입증한다.",
+            "conversion": "팀장과 C-레벨에게 즉시 제출할 수 있는 ‘AI 솔루션 도입 시 마케팅 직무 R&R 분장표 및 리스크 감사 시트’ 다운로드 링크를 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "또 다른 챗GPT 활용법이나 툴 매뉴얼 소개서로 오인될 위험",
+              "objection": "“어차피 프롬프트 몇 개 알려주고 툴 화면 캡처한 책 아닌가?”",
+              "solution": "툴 UI 캡처 화면을 일절 배제하고, 업무 프로세스 플로우차트와 경영진 보고서 양식 중심의 목차 구성을 미리보기로 노출한다."
+            },
+            "positioning": "마케팅 자동화 툴 조작법이 아닌 AI 시대 마케터의 일 분할과 커리어 방어 기준서"
+          },
+          "devilsEditor": {
+            "failureReason": "특정 광고 대행 SaaS 솔루션의 브로슈어나 기능 해설로 흘러가 출간 1년 내에 내용이 구식이 될 위험",
+            "fix": "개별 플랫폼 이름을 익명화하고, '소재 생성-타깃팅-입찰 최적화-성과 분석'이라는 보편적 마케팅 파이프라인의 인간 감사 원칙을 정립하는 데 집중한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "광고 플랫폼의 자동화 정책(예: 메타 Advantage+, 구글 PMax) 고도화로 인간의 개입 여지 자체가 지나치게 축소될 위험",
+          "riskResponse": "플랫폼 알고리즘이 해결할 수 없는 '브랜드 메시지 일관성', '고객 퍼스트파티 데이터 결합', '예산 최종 배분 의사결정' 등 고유 권한 영역을 집중 조명한다.",
+          "judgment": "개별 소프트웨어 사용법을 완전히 덜어내고, 'AI 솔루션을 통제하는 마케터의 품질 감사 체크리스트'로 끝까지 밀어붙여야 B2B 팀 단위 구매를 이끌어낸다.",
+          "evidence": [
+            {
+              "text": "챗대리의 따라하면 바로 되는 AI 마케팅 자동화 — 챗대리(박진주) 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/143053307"
+            },
+            {
+              "text": "스토어링크, AI가 마케팅 전 과정 수행하는 자동화 체계 가동 - 스트레이트뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVpzaTd4ZlRObm5wRktZVnNESDNFVkRQY2JORVhaRWgxQ2xFd0JHbXNySlhlRVRscGVDNkpPQkpudnVTSHprVFJ4WUVGVUZ0akhIbDhLVWk0VVlFZGFiTjRaVGs0dEh4U3ZLY2piYjI5blhHTWZr0gF3QVVfeXFMT1hJWnNpN3hmVE5ubnBGS1lWc0RIM0VWRFBjYk5FWFpFaDFDbEV3Qkdtc3JKWGVFVGxwZUM2Sk9CSm52dVNIemtUUnhZRUZVRnRqSEhsOEtVaTRVWUVkYWJONFpUazR0SHhTdktjamJiMjluWEdNZms?oc=5"
+            },
+            {
+              "text": "인스타그램 마케팅 자동화 — 손힘찬,노희석,장현수,황준연,임형순,이홍규,박가원 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/128702200"
+            },
+            {
+              "text": "AI를 직원처럼 쓰는 마케팅 자동화 시스템 — 이종구,이정화,김회균,손정화 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/189378838"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "챗대리의 따라하면 바로 되는 AI 마케팅 자동화",
+              "author": "챗대리(박진주) 저",
+              "publisher": "로드북",
+              "publicationDate": "20250310",
+              "url": "https://www.yes24.com/product/goods/143053307",
+              "matchedQuery": "마케팅 자동화",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "인스타그램 마케팅 자동화",
+              "author": "손힘찬,노희석,장현수,황준연,임형순,이홍규,박가원 저",
+              "publisher": "비책",
+              "publicationDate": "20240715",
+              "url": "https://www.yes24.com/product/goods/128702200",
+              "matchedQuery": "마케팅 자동화",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI를 직원처럼 쓰는 마케팅 자동화 시스템",
+              "author": "이종구,이정화,김회균,손정화 저",
+              "publisher": "디지털콘텐츠그룹",
+              "publicationDate": "20260514",
+              "url": "https://www.yes24.com/product/goods/189378838",
+              "matchedQuery": "마케팅 자동화",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-14T23:41:25.819Z",
+            "queries": [
+              "AI 마케팅 효율성",
+              "마케팅 자동화"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "경영",
+          "field": "경영",
+          "title": "물가 변곡점의 가계 현금흐름 생존법: 거시 충격에 흔들리지 않는 4단계 생활재무 방어선",
+          "concept": "CPI 발표 등 거시 경제 지표 충격이 식비·공과금·주거비 등 실질 생활비와 장기 자산으로 번지는 것을 차단하는 생활재무 리스크 관리서",
+          "why": "美 CPI 발표 전후 코스피 경계심리 확대 등 거시 지표 발표 때마다 금융시장의 변동성이 극대화되고 생활 물가 압박이 이어지지만, 개인은 이에 맞춰 가계 지출과 비상 현금흐름을 통제하는 시스템을 갖추지 못했기 때문이다.",
+          "competition": "《CFO 강의노트》나 《AI가 경영자를 대체하기 전에》 같은 도서는 기업 경영진 대상의 거시 전략이나 의사결정을 다루고 있어 직장인이 본인의 월급 통장과 가계 지출 흐름에 적용하기에는 지나치게 이론적이다.",
+          "reader": "뉴스에서 물가와 주가 하락 신호가 나올 때마다 심리적 불안을 겪지만, 당장 이번 달 가계부와 부채 이자를 어떻게 조절해야 할지 모르는 3040 맞벌이 직장인",
+          "readerNeed": "거시 경제 불확실성이 지속되는 환경에서 일상 지출이 자산 붕괴로 이어지지 않도록 생활비-비상금-투자금의 안전한 방어벽을 구축하고 싶다.",
+          "marketGap": "수익률을 좇는 주식·부동산 테크닉 책은 많지만, 물가 변동과 시장 경계 심리가 극에 달했을 때 가계의 현금흐름을 지키고 자산 누수를 막는 '다운사이드 리스크 관리형 생활재무서'가 시장에 드물다.",
+          "differentiation": "체감 물가 지수와 공식 CPI의 괴리를 반영한 필수 지출 방어 3계좌 시스템, 부채 상환과 비상 예비금의 황금 비율 산출표, 거시 지표 발표 주기 맞춤 가계 점검 캘린더를 제공한다.",
+          "diff": "체감 물가 지수와 공식 CPI의 괴리를 반영한 필수 지출 방어 3계좌 시스템, 부채 상환과 비상 예비금의 황금 비율 산출표, 거시 지표 발표 주기 맞춤 가계 점검 캘린더를 제공한다.",
+          "toc": [
+            "1장. 충격의 전이: 증시를 흔드는 CPI와 환율이 내 장바구니 영수증을 바꾸는 방식",
+            "2장. 현금흐름의 방어벽: 물가 급등기 고정 지출을 15% 덜어내는 강제 예산 분할",
+            "3장. 비상 자금의 락인: 시장 불안기에 원금을 지키며 유동성을 확보하는 파킹 룰",
+            "4장. 부채와 생활비의 정돈: 고물가·고금리 장기화에 맞춘 대출 원리금 압축 순서",
+            "5장. 흔들리지 않는 1년: 거시 지표 캘린더를 바탕으로 가계 재무를 리셋하는 분기 루틴"
+          ],
+          "searchQueries": [
+            "기업 지속가능성 전략",
+            "경영 전략"
+          ],
+          "bookworthiness": {
+            "durability": "고물가와 거시 경제 변동성은 주기적으로 가계를 위협하는 영구적 문제이므로 스테디셀러 구조를 갖는다.",
+            "repeatNeed": "매월 생활비 결산 및 연간 가계 예산 수립 시마다 점검해야 하므로 1회독으로 끝나지 않는다.",
+            "expansionPotential": "신혼부부형, 은퇴 준비형 등 생애주기별 현금흐름 방어 시리즈로 확장이 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "밥 랭거트",
+              "career": "《햄버거 하나로 시작한 기업이 어떻게 세계 최대 프랜차이즈로 성장했을까?》 저자 · 성안당",
+              "why": "YES24에서 이 기획과 인접한 주제의 《햄버거 하나로 시작한 기업이 어떻게 세계 최대 프랜차이즈로 성장했을까?》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/95612868",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이지민 역",
+              "career": "《햄버거 하나로 시작한 기업이 어떻게 세계 최대 프랜차이즈로 성장했을까?》 저자 · 성안당",
+              "why": "YES24에서 이 기획과 인접한 주제의 《햄버거 하나로 시작한 기업이 어떻게 세계 최대 프랜차이즈로 성장했을까?》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/95612868",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "윤여현",
+              "career": "《AI가 경영자를 대체하기 전에》 저자 · 나무와바다",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI가 경영자를 대체하기 전에》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/198057096",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "밥 랭거트",
+          "bestAuthor": "밥 랭거트",
+          "authorBrief": "",
+          "headlineCopy": "CPI와 금리 뉴스에 일희일비하지 마라: 당신의 월급과 계좌를 지키는 4단계 생활재무 방어선",
+          "marketingStrategy": {
+            "sampleBreadth": "넓음",
+            "coreDesires": [
+              "물가가 올라도 계좌가 마이너스 통장으로 굴러떨어지지 않게 막고 싶다",
+              "불안한 뉴스에 휘둘리지 않고 단단한 가계 재무 틀을 세우고 싶다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“물가는 안 떨어지고 월급은 그대로인데, 거시 경제 충격 어떻게 버텨야 할까?”를 콘셉트로 가계부·절약 커뮤니티 및 맘카페 타깃 공감형 콘텐츠를 배포한다.",
+            "trust": "실제 물가 상승률 대비 가계 실질소득 하락 시뮬레이션 데이터와 맞벌이 가구의 현금흐름 개선 실사례를 제시한다.",
+            "conversion": "도서 구매자에게 거시 지표 발표 일정과 연동된 ‘2026-2027 가계 현금흐름 방어 엑셀 템플릿’을 부록으로 제공한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "단순 가계부 쓰기나 절약 팁 모음집으로 오해받아 소구력이 떨어질 위험",
+              "objection": "“결국 덜 쓰고 아끼라는 뻔한 짠테크 이야기 아닌가?”",
+              "solution": "단순 절약이 아닌 ‘거시 지표에 따른 자산 배분과 부채 상환의 우선순위 결정 프레임’임을 상세페이지 1단에 강력히 증명한다."
+            },
+            "positioning": "짠테크가 아닌 거시 경제 충격을 흡수하는 가계 현금흐름 방어 시스템"
+          },
+          "devilsEditor": {
+            "failureReason": "거시 경제 해설과 단순 짠테크 절약 팁이 어설프게 섞여 둘 다 만족시키지 못하는 어중간한 책이 될 위험",
+            "fix": "절약 테크닉 서술을 배제하고, 가계 현금흐름을 기업 CFO처럼 체계적으로 관리하는 '가계 재무상태표 및 자금 유동성 방어선' 중심의 프레임워크로 일관되게 집필한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "물가 지표가 급격히 안정되거나 디플레이션 우려로 돌아설 경우 '고물가 방어' 콘셉트의 시의성이 약화될 위험",
+          "riskResponse": "물가 고점뿐 아니라 '변동성 확대 국면 전체'에서 가계의 유동성을 지키는 위기 대응 원칙으로 서술 범위를 확장한다.",
+          "judgment": "단순 절약서가 아닌 거시 경제 뉴스를 가계 재무제표로 번역해 주는 '직장인 가계 CFO 매뉴얼'로 자리매김해야 장기 판매가 보장된다.",
+          "evidence": [
+            {
+              "text": "햄버거 하나로 시작한 기업이 어떻게 세계 최대 프랜차이즈로 성장했을까? — 밥 랭거트 저/이지민 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/95612868"
+            },
+            {
+              "text": "코스피, 美 CPI 발표 앞두고 경계심리↑… 물가둔화 확인할까 - 머니투데이 - 머니투데이",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mMm9aMEpGVENuaFBLaUxSSmJfTlE3U2w2TXRBTk10LTR5ZGFHRlJ6aTN6azZFTXZDeEVJYVBad3ZuOXh2dlZiemQ5NnU3UVp0WFdpVi1xRHdLal82NFdSMWhsa1FRZmhT0gFuQVVfeXFMTVlmandDM2pRdG01Tl9hUFRaalh6SVpWX0ZlcFV0LVpqLVF4bnBkaENOUXd3ZUp4Yzh0dWF2c2RLMzR2dm9ZOHBBemxXZ2JJVzNQUzQ5UzdTUnZsR0tmeHd2Q0VrOXNtdkgybF9hN1E?oc=5"
+            },
+            {
+              "text": "AI가 경영자를 대체하기 전에 — 윤여현 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/198057096"
+            },
+            {
+              "text": "CFO 강의노트 — 황이석,이우종,이문영 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/197648318"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "햄버거 하나로 시작한 기업이 어떻게 세계 최대 프랜차이즈로 성장했을까?",
+              "author": "밥 랭거트 저/이지민 역",
+              "publisher": "성안당",
+              "publicationDate": "20201125",
+              "url": "https://www.yes24.com/product/goods/95612868",
+              "matchedQuery": "기업 지속가능성 전략",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI가 경영자를 대체하기 전에",
+              "author": "윤여현 저",
+              "publisher": "나무와바다",
+              "publicationDate": "20261020",
+              "url": "https://www.yes24.com/product/goods/198057096",
+              "matchedQuery": "경영 전략",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "CFO 강의노트",
+              "author": "황이석,이우종,이문영 공저",
+              "publisher": "서울경제경영",
+              "publicationDate": "20261030",
+              "url": "https://www.yes24.com/product/goods/197648318",
+              "matchedQuery": "경영 전략",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-14T23:41:27.118Z",
+            "queries": [
+              "기업 지속가능성 전략",
+              "경영 전략"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "planDay": "2026-10-14",
@@ -12501,7 +13094,7 @@
       ]
     }
   ],
-  "activePlanSetId": "zps-20261014-cf3e0bf8",
+  "activePlanSetId": "zps-20261015-7aa42187",
   "discardedDays": [
     {
       "date": "2026-09-29",
