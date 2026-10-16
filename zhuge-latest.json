@@ -3,7 +3,7 @@
   "planDay": "2026-10-16",
   "planSetId": "zps-20261016-ffa1261f",
   "generatedAt": "2026-10-15T23:45:50.195Z",
-  "publishedAt": "2026-10-16T00:26:59.681Z",
+  "publishedAt": "2026-10-16T01:03:09.711Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -493,7 +493,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-40c1c932",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T00:25:52.341Z",
+        "generatedAt": "2026-10-16T01:01:07.142Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -692,7 +692,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-16T00:25:49.771Z",
+        "generatedAt": "2026-10-16T01:01:03.840Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -919,7 +919,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-40c1c932",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T00:26:11.452Z",
+        "generatedAt": "2026-10-16T01:01:11.760Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
@@ -928,105 +928,12 @@
         "upgradePending": true,
         "qualityTier": "continuity",
         "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 0,
-          "preShortlistCount": 0,
-          "eligibleCount": 0,
-          "scannedCount": 0,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 0,
-          "assessedCount": 0,
-          "selectedCount": 0,
+          "candidateBank": true,
+          "reusableCandidates": 6,
           "metadataHqRecovery": 0,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 6,
-            "selected": 0,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:AI Agent Workload Management / Managing Multiple AI Agents / Team Productivity with AI",
-              "googlebooks": [
-                "specific:artificial intelligence leadership management=0(cooldown)",
-                "specific:artificial intelligence=0(cooldown)",
-                "ai:AI Agent Workload Management=0(cooldown)",
-                "ai:Managing Multiple AI Agents=0(cooldown)",
-                "specific:leadership management career work=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:artificial intelligence leadership management=13",
-                "specific:artificial intelligence=27",
-                "ai:AI Agent Workload Management=1",
-                "ai:Managing Multiple AI Agents=3",
-                "specific:leadership management career work=26"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "offTopic": 312,
-                "low-quality": 11,
-                "style-block": 2
-              },
-              "rawCounts": {
-                "specific": 66,
-                "nyt": 208,
-                "ai": 4,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 7,
-              "fetch": 1,
-              "other": 0
-            }
-          },
-          "assessmentSummary": [],
-          "finalSlotRepair105": true,
-          "queries": [
-            "artificial intelligence leadership management",
-            "artificial intelligence",
-            "business economics personal finance investing books",
-            "경영 nonfiction books",
-            "practical nonfiction",
-            "popular nonfiction books"
-          ],
-          "google": [
-            "artificial intelligence leadership management:0(cooldown)",
-            "artificial intelligence:0(cooldown)",
-            "business economics personal finance investing books:0(cooldown)",
-            "경영 nonfiction books:0(cooldown)"
-          ],
-          "openlibrary": [
-            "artificial intelligence leadership management:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "artificial intelligence:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "business economics personal finance investing books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "경영 nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)"
-          ],
-          "design": "spine:30 arena:0 reedsy:24",
-          "validated": 0,
-          "gemma": 0,
-          "rejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          }
+          "backfilled": 3,
+          "crossPlanReused": 0,
+          "noGemma": true
         }
       }
     },
@@ -1313,6 +1220,42 @@
       "coverRefs": [
         {
           "ok": true,
+          "curated": true,
+          "validated": true,
+          "validationStatus": "image-http-ok",
+          "source": "openlibrary",
+          "sourceName": "Open Library",
+          "imageUrl": "https://covers.openlibrary.org/b/id/14590086-L.jpg?default=false",
+          "sourceUrl": "https://openlibrary.org/works/OL19754487W",
+          "title": "Robot-proof",
+          "subtitle": "",
+          "authors": [
+            "Joseph E. Aoun"
+          ],
+          "publisher": "MIT Press",
+          "year": 2017,
+          "slot": "topic",
+          "selectionTier": "validated-hq-recovery-topic",
+          "curationBasis": "image-validated+source-topic-design-gate-v215103",
+          "metadataHqRecovery": true,
+          "role": "",
+          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
+          "gemmaScore": 0,
+          "gemmaTopicFit": 0,
+          "gemmaGenreFit": 0,
+          "gemmaDesignValue": 0,
+          "gemmaStatus": "metadata-validated-hq-recovery",
+          "gemmaParseStatus": "not-required",
+          "topicScore": 16.6,
+          "styleScore": 24,
+          "query": "artificial intelligence learning education",
+          "sourceRevision": "zcr-40c1c932",
+          "deadlineGuaranteed": false,
+          "qualityTier": "hq",
+          "upgradePending": false
+        },
+        {
+          "ok": true,
           "source": "approved60-fallback",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
           "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
@@ -1341,26 +1284,6 @@
           "styleScore": 100,
           "role": "graphic",
           "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
-          "title": "Liquid: A Love Story",
-          "context": "Liquid: A Love Story Mariam Rahmani Sharanya Durvasala",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
           "approvedFallback": true,
           "sourceRevision": "zcr-40c1c932",
           "validated": true,
@@ -1375,6 +1298,42 @@
       "coverReferences": [
         {
           "ok": true,
+          "curated": true,
+          "validated": true,
+          "validationStatus": "image-http-ok",
+          "source": "openlibrary",
+          "sourceName": "Open Library",
+          "imageUrl": "https://covers.openlibrary.org/b/id/14590086-L.jpg?default=false",
+          "sourceUrl": "https://openlibrary.org/works/OL19754487W",
+          "title": "Robot-proof",
+          "subtitle": "",
+          "authors": [
+            "Joseph E. Aoun"
+          ],
+          "publisher": "MIT Press",
+          "year": 2017,
+          "slot": "topic",
+          "selectionTier": "validated-hq-recovery-topic",
+          "curationBasis": "image-validated+source-topic-design-gate-v215103",
+          "metadataHqRecovery": true,
+          "role": "",
+          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
+          "gemmaScore": 0,
+          "gemmaTopicFit": 0,
+          "gemmaGenreFit": 0,
+          "gemmaDesignValue": 0,
+          "gemmaStatus": "metadata-validated-hq-recovery",
+          "gemmaParseStatus": "not-required",
+          "topicScore": 16.6,
+          "styleScore": 24,
+          "query": "artificial intelligence learning education",
+          "sourceRevision": "zcr-40c1c932",
+          "deadlineGuaranteed": false,
+          "qualityTier": "hq",
+          "upgradePending": false
+        },
+        {
+          "ok": true,
           "source": "approved60-fallback",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
           "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
@@ -1403,26 +1362,6 @@
           "styleScore": 100,
           "role": "graphic",
           "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Mariam-Rahmani-Liquid-A-Love-Story-.jpeg",
-          "title": "Liquid: A Love Story",
-          "context": "Liquid: A Love Story Mariam Rahmani Sharanya Durvasala",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
           "approvedFallback": true,
           "sourceRevision": "zcr-40c1c932",
           "validated": true,
@@ -1438,8 +1377,8 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-40c1c932",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T00:25:01.501Z",
-        "model": "deterministic-approved-local",
+        "generatedAt": "2026-10-16T01:01:38.771Z",
+        "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "displayGuaranteed": true,
@@ -1447,8 +1386,105 @@
         "upgradePending": true,
         "qualityTier": "continuity",
         "diagnostics": {
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
+          "rawFound": 30,
+          "sourceCounts": {
+            "bookcoverarchive": 0,
+            "spine": 30,
+            "googlebooks": 0,
+            "metmuseum": 0
+          },
+          "poolCount": 0,
+          "preShortlistCount": 0,
+          "eligibleCount": 0,
+          "scannedCount": 0,
+          "validationRejected": {
+            "badTitle": 0,
+            "proxyHost": 0,
+            "http": 0,
+            "fetch": 0,
+            "other": 0
+          },
+          "validatedCount": 8,
+          "shortlistCount": 0,
+          "assessedCount": 0,
+          "selectedCount": 1,
+          "metadataHqRecovery": 1,
+          "expandedRecovery": {
+            "used": true,
+            "raw": 16,
+            "checked": 14,
+            "validated": 8,
+            "selected": 1,
+            "diag": {
+              "nyt": "auth-401:208",
+              "ai": "ok:job redesign with AI / task delegation to AI / human AI collaboration at work",
+              "googlebooks": [
+                "specific:career work artificial intelligence=0(cooldown)",
+                "specific:career work=0(cooldown)",
+                "ai:job redesign with AI=0(cooldown)",
+                "ai:task delegation to AI=0(cooldown)",
+                "specific:artificial intelligence learning education=0(cooldown)"
+              ],
+              "openlibrary": [
+                "specific:career work=8",
+                "specific:career work artificial intelligence=0(PUBLIC_FETCH_TIMEOUT)",
+                "ai:job redesign with AI=1",
+                "ai:task delegation to AI=5",
+                "specific:artificial intelligence learning education=12"
+              ],
+              "design": "spine:30 arena:40 reedsy:24",
+              "rejected": {
+                "style-block": 2,
+                "offTopic": 305,
+                "low-quality": 4
+              },
+              "rawCounts": {
+                "specific": 20,
+                "nyt": 208,
+                "ai": 6,
+                "design": 94
+              }
+            },
+            "rejected": {
+              "badTitle": 0,
+              "proxyHost": 0,
+              "http": 0,
+              "fetch": 0,
+              "other": 0
+            }
+          },
+          "assessmentSummary": [],
+          "finalSlotRepair105": true,
+          "queries": [
+            "career work artificial intelligence",
+            "career work",
+            "parenting education child development learning books",
+            "교육 nonfiction books",
+            "practical nonfiction",
+            "popular nonfiction books"
+          ],
+          "google": [
+            "career work artificial intelligence:0(cooldown)",
+            "career work:0(cooldown)",
+            "parenting education child development learning books:0(cooldown)",
+            "교육 nonfiction books:0(cooldown)"
+          ],
+          "openlibrary": [
+            "career work artificial intelligence:6",
+            "career work:6",
+            "parenting education child development learning books:20",
+            "교육 nonfiction books:1"
+          ],
+          "design": "spine:30 arena:30 reedsy:24",
+          "validated": 0,
+          "gemma": 0,
+          "rejected": {
+            "badTitle": 0,
+            "proxyHost": 0,
+            "http": 0,
+            "fetch": 20,
+            "other": 0
+          }
         }
       }
     }
