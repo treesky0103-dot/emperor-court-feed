@@ -29,7 +29,7 @@ jobs:
           url='https://raw.githubusercontent.com/treesky0103-dot/emperor-court-feed/main/zhuge-latest.json'
           try:
               status,ct,body=pull(url)
-              assert status==200 and 'json' in ct
+              assert status==200 and body.strip().startswith(b'{')  # GitHub raw may serve JSON as text/plain
               j=json.loads(body)
           except Exception as e: sys.exit('STOP: canonical feed inaccessible '+repr(e)[:180])
           today=datetime.datetime.now(ZoneInfo('Asia/Seoul')).date().isoformat()
