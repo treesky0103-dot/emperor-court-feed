@@ -3,7 +3,7 @@
   "planDay": "2026-10-16",
   "planSetId": "zps-20261016-ffa1261f",
   "generatedAt": "2026-10-15T23:45:50.195Z",
-  "publishedAt": "2026-10-16T02:01:18.471Z",
+  "publishedAt": "2026-10-16T02:01:29.862Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -920,7 +920,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-40c1c932",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T01:01:11.760Z",
+        "generatedAt": "2026-10-16T02:01:22.041Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
@@ -1378,7 +1378,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-40c1c932",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T01:01:38.771Z",
+        "generatedAt": "2026-10-16T02:01:26.385Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
@@ -1387,105 +1387,12 @@
         "upgradePending": true,
         "qualityTier": "continuity",
         "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 0,
-          "preShortlistCount": 0,
-          "eligibleCount": 0,
-          "scannedCount": 0,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 8,
-          "shortlistCount": 0,
-          "assessedCount": 0,
-          "selectedCount": 1,
-          "metadataHqRecovery": 1,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 16,
-            "checked": 14,
-            "validated": 8,
-            "selected": 1,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:job redesign with AI / task delegation to AI / human AI collaboration at work",
-              "googlebooks": [
-                "specific:career work artificial intelligence=0(cooldown)",
-                "specific:career work=0(cooldown)",
-                "ai:job redesign with AI=0(cooldown)",
-                "ai:task delegation to AI=0(cooldown)",
-                "specific:artificial intelligence learning education=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:career work=8",
-                "specific:career work artificial intelligence=0(PUBLIC_FETCH_TIMEOUT)",
-                "ai:job redesign with AI=1",
-                "ai:task delegation to AI=5",
-                "specific:artificial intelligence learning education=12"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "style-block": 2,
-                "offTopic": 305,
-                "low-quality": 4
-              },
-              "rawCounts": {
-                "specific": 20,
-                "nyt": 208,
-                "ai": 6,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 0,
-              "other": 0
-            }
-          },
-          "assessmentSummary": [],
-          "finalSlotRepair105": true,
-          "queries": [
-            "career work artificial intelligence",
-            "career work",
-            "parenting education child development learning books",
-            "교육 nonfiction books",
-            "practical nonfiction",
-            "popular nonfiction books"
-          ],
-          "google": [
-            "career work artificial intelligence:0(cooldown)",
-            "career work:0(cooldown)",
-            "parenting education child development learning books:0(cooldown)",
-            "교육 nonfiction books:0(cooldown)"
-          ],
-          "openlibrary": [
-            "career work artificial intelligence:6",
-            "career work:6",
-            "parenting education child development learning books:20",
-            "교육 nonfiction books:1"
-          ],
-          "design": "spine:30 arena:30 reedsy:24",
-          "validated": 0,
-          "gemma": 0,
-          "rejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 20,
-            "other": 0
-          }
+          "candidateBank": true,
+          "reusableCandidates": 8,
+          "metadataHqRecovery": 0,
+          "backfilled": 3,
+          "crossPlanReused": 0,
+          "noGemma": true
         }
       }
     }
