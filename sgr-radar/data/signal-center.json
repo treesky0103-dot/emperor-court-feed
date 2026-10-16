@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오전 03:09:23",
+  "updatedAt": "2026. 10. 17. 오전 06:07:33",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -46,18 +46,6 @@
           "url": "https://www.etnews.com/20261015000042",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275207&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
-          "title": "안산선 지하화부터 청년 주거까지... 이민근 시장 100일 청사진",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:16:00Z",
-          "publishedAt": "2026-10-14T05:16:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275207&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         },
         {
           "id": "http://inews24.com/view/2016029",
@@ -132,27 +120,39 @@
           "publishedAt": "2026-10-15T22:02:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10904309"
+        },
+        {
+          "id": "https://www.nspna.com/country/?mode=view&newsid=831911",
+          "title": "[사업 진행 리포트] 성남 국산의료기기 교육센터, 인공무릎관절 실습교육으로 시장 진출 지원",
+          "source": "nspna.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T10:01:00Z",
+          "publishedAt": "2026-10-15T10:01:00Z",
+          "summary": "",
+          "url": "https://www.nspna.com/country/?mode=view&newsid=831911"
         }
       ],
       "keywords": [
         {
           "word": "청년",
-          "count": 7
+          "count": 6
         },
         {
           "word": "교육",
-          "count": 3
-        },
-        {
-          "word": "이민",
-          "count": 2
-        },
-        {
-          "word": "주거",
-          "count": 2
+          "count": 5
         },
         {
           "word": "복지",
+          "count": 1
+        },
+        {
+          "word": "이민",
+          "count": 1
+        },
+        {
+          "word": "주거",
           "count": 1
         }
       ],
@@ -162,20 +162,6 @@
     },
     "economy": {
       "items": [
-        {
-          "id": "https://www.etnews.com/20261014000291",
-          "title": "신현송 한은 총재 “AI 투자·중동 악재로 물가 자극…통화정책으로 양극화 대응”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:31:08Z",
-          "publishedAt": "2026-10-14T05:31:08Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261014000291",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
         {
           "id": "https://www.mk.co.kr/news/business/12177444",
           "title": "효성重, 수출 전용 ‘초고압차단기 신공장’ 준공…조현준 회장, 글로벌 공급망 ‘드라이브’",
@@ -189,6 +175,20 @@
           "url": "https://www.mk.co.kr/news/business/12177444",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etnews.com/20261015000429",
+          "title": "[2026 경기 스타트업 서밋]기술은 투자로, 만남은 성장으로…경기 스타트업 서밋 '성장의 환승역'",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T19:00:00Z",
+          "publishedAt": "2026-10-15T19:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261015000429",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257",
@@ -301,10 +301,6 @@
           "count": 2
         },
         {
-          "word": "물가",
-          "count": 1
-        },
-        {
           "word": "생산성",
           "count": 1
         },
@@ -402,18 +398,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10902398",
-          "title": "오텍캐리어, 구미 AI 데이터센터 냉각설비 공급 추진",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T05:16:00Z",
-          "publishedAt": "2026-10-14T05:16:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10902398"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/economy/marketing/1282434.html",
           "title": "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축",
           "source": "hani.co.kr",
@@ -448,6 +432,18 @@
           "publishedAt": "2026-10-16T09:17:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261015/1634023"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261013000012",
+          "title": "메타, 새 AI 모델 '뮤즈 원더' 공개…\"개인·업무 에이전트 작업서 최첨단\"",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T22:02:00Z",
+          "publishedAt": "2026-10-15T22:02:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261013000012"
         }
       ],
       "keywords": [
@@ -457,7 +453,7 @@
         },
         {
           "word": "데이터센터",
-          "count": 4
+          "count": 3
         },
         {
           "word": "GPU",
@@ -642,16 +638,16 @@
           "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html"
         },
         {
-          "id": "https://www.thehindu.com/news/cities/Madurai/traders-at-madurai-vegetable-market-demand-urgent-infrastructure-upgrade-amid-rains/article71593377.ece",
-          "title": "Traders at Madurai vegetable market demand urgent infrastructure upgrade amid rains",
+          "id": "https://www.thehindu.com/news/national/telangana/cs-directs-departments-to-be-in-constant-touch-with-firms-that-assured-investments-in-telangana/article71555500.ece",
+          "title": "CS directs departments to be in constant touch with firms that assured investments in Telangana",
           "source": "thehindu.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-16",
-          "dateRaw": "2026-10-16T18:02:00Z",
-          "publishedAt": "2026-10-16T18:02:00Z",
+          "dateRaw": "2026-10-16T21:02:00Z",
+          "publishedAt": "2026-10-16T21:02:00Z",
           "summary": "",
-          "url": "https://www.thehindu.com/news/cities/Madurai/traders-at-madurai-vegetable-market-demand-urgent-infrastructure-upgrade-amid-rains/article71593377.ece"
+          "url": "https://www.thehindu.com/news/national/telangana/cs-directs-departments-to-be-in-constant-touch-with-firms-that-assured-investments-in-telangana/article71555500.ece"
         },
         {
           "id": "https://economictimes.indiatimes.com/tech/startups/wed-make-those-investments-again-snabbit-ceo-on-fy26-losses/articleshow/134996692.cms",
@@ -795,6 +791,18 @@
           "url": "https://www.wral.com/news/local/tillis-criticizes-energy-policy-warns-gop-faces-losses-nc-debates-data-center-costs-october-2026/"
         },
         {
+          "id": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
+          "title": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T21:02:00Z",
+          "publishedAt": "2026-10-16T21:02:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece"
+        },
+        {
           "id": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/",
           "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
           "source": "record-bee.com",
@@ -877,18 +885,6 @@
           "publishedAt": "2026-10-14T22:32:00Z",
           "summary": "",
           "url": "https://www.wfdd.org/2026-10-14/nc-attorney-general-jackson-calls-duke-energys-data-center-tariff-massive-step-forward"
-        },
-        {
-          "id": "https://www.beursduivel.be:443/Aandeel-Koers/330133904/Taiwan-Semiconductor-Manufacturing-Company-Ltd/agenda.aspx",
-          "title": "Taiwan Semiconductor Manufacturing Company Ltd » Agenda Aandeel",
-          "source": "beursduivel.be",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-14",
-          "dateRaw": "2026-10-14T22:32:00Z",
-          "publishedAt": "2026-10-14T22:32:00Z",
-          "summary": "",
-          "url": "https://www.beursduivel.be:443/Aandeel-Koers/330133904/Taiwan-Semiconductor-Manufacturing-Company-Ltd/agenda.aspx"
         }
       ],
       "keywords": [
@@ -898,7 +894,7 @@
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 3
         },
         {
           "word": "로봇",
@@ -925,8 +921,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 5581,
-    "feedBytes": 1554741,
+    "fetchedItems": 4140,
+    "feedBytes": 1150955,
     "rollingWindowHours": 72
   }
 }
