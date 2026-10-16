@@ -2,33 +2,21 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 16. 오후 06:31:14",
+  "updatedAt": "2026. 10. 16. 오후 11:14:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 724,
-    "passed": 232,
-    "deduped": 232,
-    "eventDeduped": 232,
+    "raw": 736,
+    "passed": 251,
+    "deduped": 251,
+    "eventDeduped": 251,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257",
-      "title": "“AI 대체 직무 재교육 지원 강화하고, 새 기술 배워 생산성 높인 만큼 보상”",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257"
-    },
     {
       "id": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
       "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
@@ -40,6 +28,18 @@
       "publishedAt": "2026-10-16T09:17:00Z",
       "summary": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch"
+    },
+    {
+      "id": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/",
+      "title": "TSMC Eyes Texas Expansion As AI Chip Demand Surges, Terafab Talks Confirmed",
+      "source": "wbap.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/"
     },
     {
       "id": "https://biz.chosun.com/science-chosun/bio/2026/10/16/AZZADVSN4NE6FFNVL6AAKLR454/",
@@ -66,16 +66,16 @@
       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69856121-jodell-robotics-following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products-for-industrial-embodied-execution-at-ciif-008.htm"
     },
     {
-      "id": "https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26638178.britains-factories-deliver-surprise-boost-uk-economy/",
-      "title": "UK manufacturing drives surprise growth as factory output surges in 'Burnham boost'",
-      "source": "braintreeandwithamtimes.co.uk",
-      "language": "English",
+      "id": "http://inews24.com/view/2016027",
+      "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
+      "source": "inews24.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:02:00Z",
-      "publishedAt": "2026-10-15T10:02:00Z",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
       "summary": "",
-      "url": "https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26638178.britains-factories-deliver-surprise-boost-uk-economy/"
+      "url": "http://inews24.com/view/2016027"
     },
     {
       "id": "https://www.etoday.co.kr/news/view/2636630",
@@ -140,18 +140,6 @@
   ],
   "trendItems": [
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257",
-      "title": "“AI 대체 직무 재교육 지원 강화하고, 새 기술 배워 생산성 높인 만큼 보상”",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257"
-    },
-    {
       "id": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
       "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
       "source": "asia.nikkei.com",
@@ -174,6 +162,18 @@
       "publishedAt": "2026-10-16T04:46:00Z",
       "summary": "",
       "url": "https://asia.nikkei.com/techasia/robot-dolls-chip-shortages-and-apple-s-soft-sales2"
+    },
+    {
+      "id": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/",
+      "title": "TSMC Eyes Texas Expansion As AI Chip Demand Surges, Terafab Talks Confirmed",
+      "source": "wbap.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/"
     },
     {
       "id": "https://biz.chosun.com/science-chosun/bio/2026/10/16/AZZADVSN4NE6FFNVL6AAKLR454/",
@@ -248,28 +248,16 @@
       "url": "https://biz.chosun.com/international/international_economy/2026/10/15/U2PSYQ5Q7BAYDAGK3AYGLM2BPI/"
     },
     {
-      "id": "https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26638178.britains-factories-deliver-surprise-boost-uk-economy/",
-      "title": "UK manufacturing drives surprise growth as factory output surges in 'Burnham boost'",
-      "source": "braintreeandwithamtimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:02:00Z",
-      "publishedAt": "2026-10-15T10:02:00Z",
-      "summary": "",
-      "url": "https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26638178.britains-factories-deliver-surprise-boost-uk-economy/"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257",
-      "title": "반도체 장비도 직접 만든다는 中…핵심 부품 \"국산화율 90%\"",
-      "source": "edaily.co.kr",
+      "id": "http://inews24.com/view/2016027",
+      "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
+      "source": "inews24.com",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
       "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257"
+      "url": "http://inews24.com/view/2016027"
     },
     {
       "id": "https://www.etoday.co.kr/news/view/2636630",
@@ -368,28 +356,28 @@
       "url": "http://www.indiagazette.com/news/279376375/herbalife-india-launches-phyto-innovation-accelerator-with-iit-madras-to-advance-india-plant-biotechnology-ecosystem"
     },
     {
-      "id": "http://en.ammonnews.net/article/96200",
-      "title": "Ammonnews : Investment Ministry launches prequalification for Mujib energy storage project",
-      "source": "en.ammonnews.net",
+      "id": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy",
+      "title": "FM Sitharaman, JBIC Governor discuss cooperation in semiconductors, clean energy",
+      "source": "indiagazette.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:02:00Z",
-      "publishedAt": "2026-10-15T10:02:00Z",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
-      "url": "http://en.ammonnews.net/article/96200"
+      "url": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy"
     },
     {
-      "id": "https://www.retaildetail.eu/news/food/leonidas-triples-production-capacity-with-a-new-100-million-euro-factory/",
-      "title": "Leonidas triples production capacity with a new 100-million-euro factory - RetailDetail EU",
-      "source": "retaildetail.eu",
+      "id": "https://www.downtoearth.org.in/energy/over-1000-clean-energy-projects-got-rs-1443-crore-but-rd-funding-weak-on-manufacturing",
+      "title": "Over 1,000 clean energy projects got Rs 1,443 crore, but R&D funding weak on manufacturing",
+      "source": "downtoearth.org.in",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
-      "url": "https://www.retaildetail.eu/news/food/leonidas-triples-production-capacity-with-a-new-100-million-euro-factory/"
+      "url": "https://www.downtoearth.org.in/energy/over-1000-clean-energy-projects-got-rs-1443-crore-but-rd-funding-weak-on-manufacturing"
     },
     {
       "id": "https://www.theglobeandmail.com/business/economy/article-toronto-robotics-startup-hopes-to-expand-options-for-surgical/",
@@ -440,6 +428,102 @@
       "url": "https://biz.heraldcorp.com/article/10904309"
     },
     {
+      "id": "https://3dprint.com/334925/creality-k3-opens-for-pre-order-at-849-advancing-multi-color-3d-printing/",
+      "title": "Creality K3 Opens for Pre-Order at $849, Advancing Multi-Color 3D Printing - 3DPrint.com | Additive Manufacturing Business",
+      "source": "3dprint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
+      "summary": "",
+      "url": "https://3dprint.com/334925/creality-k3-opens-for-pre-order-at-849-advancing-multi-color-3d-printing/"
+    },
+    {
+      "id": "https://3dprint.com/335023/beyond-the-printer-hp-and-dyemansion-tackle-the-future-of-prosthetics/",
+      "title": "Beyond the Printer: HP and DyeMansion Tackle the Future of Prosthetics - 3DPrint.com | Additive Manufacturing Business",
+      "source": "3dprint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
+      "summary": "",
+      "url": "https://3dprint.com/335023/beyond-the-printer-hp-and-dyemansion-tackle-the-future-of-prosthetics/"
+    },
+    {
+      "id": "https://www.shephardmedia.com/news/landwarfareintl/us-army-pursues-commercial-routes-to-modernise-cannon-and-mortar-manufacturing/",
+      "title": "US Army pursues commercial routes to modernise cannon and mortar manufacturing",
+      "source": "shephardmedia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
+      "summary": "",
+      "url": "https://www.shephardmedia.com/news/landwarfareintl/us-army-pursues-commercial-routes-to-modernise-cannon-and-mortar-manufacturing/"
+    },
+    {
+      "id": "https://sputnikglobe.com/20261016/russia-ready-to-participate-in-balancing-energy-markets-novak-1124889468.html",
+      "title": "Russia Ready to Participate in Balancing Energy Markets - Deputy PM",
+      "source": "sputnikglobe.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://sputnikglobe.com/20261016/russia-ready-to-participate-in-balancing-energy-markets-novak-1124889468.html"
+    },
+    {
+      "id": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/10/16/qatar-pledges-a-lifeline-for-lebanons-economy-power-grid-and-reconstruction-in-the-south",
+      "title": "Qatar pledges a lifeline for Lebanon’s economy, power grid and reconstruction in the south",
+      "source": "winnipegfreepress.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/10/16/qatar-pledges-a-lifeline-for-lebanons-economy-power-grid-and-reconstruction-in-the-south"
+    },
+    {
+      "id": "https://thecitizen.com/2026/10/16/data-center-money-a-windfall-for-fayette-schools-now-what-to-do-with-40-million-this-year/",
+      "title": "Data Center Money a Windfall for Fayette Schools—Now, What to Do with $40 Million this Year? | The Citizen",
+      "source": "thecitizen.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://thecitizen.com/2026/10/16/data-center-money-a-windfall-for-fayette-schools-now-what-to-do-with-40-million-this-year/"
+    },
+    {
+      "id": "https://www.fox4news.com/news/texas-ags-office-sends-letters-156-data-centers-failed-report-water-use",
+      "title": "156 Texas data centers warned to comply with water use reporting requirements",
+      "source": "fox4news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://www.fox4news.com/news/texas-ags-office-sends-letters-156-data-centers-failed-report-water-use"
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69859318-the-biotech-growth-trust-plc-net-asset-value-s-008.htm",
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s)",
+      "source": "finanznachrichten.de",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69859318-the-biotech-growth-trust-plc-net-asset-value-s-008.htm"
+    },
+    {
       "id": "https://www.news-medical.net/life-sciences/The-Magic-of-Mushrooms-Medicine-Biotechnology-and-Sustainability.aspx",
       "title": "The Magic of Mushrooms: Medicine, Biotechnology, and Sustainability",
       "source": "news-medical.net",
@@ -464,42 +548,6 @@
       "url": "https://www.natureworldnews.com/articles/73568/20261015/warming-burst-miles-above-arctic-can-give-power-grids-weeks-warning-before-winter-demand-spikes.htm"
     },
     {
-      "id": "https://www.wsoctv.com/news/local/title-wsocwral-poll-finds-north-carolinians-are-split-data-center-development/AI6HJFKUIRD2BFDRAXERTICT44/",
-      "title": "WSOC/WRAL poll finds North Carolinians are split on data center development",
-      "source": "wsoctv.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://www.wsoctv.com/news/local/title-wsocwral-poll-finds-north-carolinians-are-split-data-center-development/AI6HJFKUIRD2BFDRAXERTICT44/"
-    },
-    {
-      "id": "https://www.digitimes.com/news/a20261016VL203/data-center-financing-johor-capacity-investment.html",
-      "title": "DayOne doubles Johor data center financing to MYR30 billion as billings pass 1GW",
-      "source": "digitimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
-      "summary": "",
-      "url": "https://www.digitimes.com/news/a20261016VL203/data-center-financing-johor-capacity-investment.html"
-    },
-    {
-      "id": "https://www.koreaherald.com/article/10905069",
-      "title": "Korea's manufacturing jobs rise for first time in 27 months",
-      "source": "koreaherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
-      "summary": "",
-      "url": "https://www.koreaherald.com/article/10905069"
-    },
-    {
       "id": "https://www.alwihdainfo.com/how-china-is-leveraging-electric-vehicles-to-stabilize-its-power-grid/",
       "title": "How China Is Leveraging Electric Vehicles to Stabilize Its Power Grid",
       "source": "alwihdainfo.com",
@@ -512,40 +560,28 @@
       "url": "https://www.alwihdainfo.com/how-china-is-leveraging-electric-vehicles-to-stabilize-its-power-grid/"
     },
     {
-      "id": "https://www.pharmaceuticalonline.com/doc/leading-biotechnology-company-centrally-manages-maintenance-calibration-and-validation-with-ram-0001",
-      "title": "Leading Biotechnology Company Centrally Manages Maintenance, Calibration, And Validation With RAM",
-      "source": "pharmaceuticalonline.com",
+      "id": "https://www.domain-b.com/technology/information-technology/uttar-pradesh-bundelkhand-data-centre-it-hub-bida-2026",
+      "title": "Uttar Pradesh plans 1,000-acre data centre and IT hub in Bundelkhand",
+      "source": "domain-b.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T00:17:00Z",
-      "publishedAt": "2026-10-16T00:17:00Z",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
-      "url": "https://www.pharmaceuticalonline.com/doc/leading-biotechnology-company-centrally-manages-maintenance-calibration-and-validation-with-ram-0001"
+      "url": "https://www.domain-b.com/technology/information-technology/uttar-pradesh-bundelkhand-data-centre-it-hub-bida-2026"
     },
     {
-      "id": "https://www.newstalkzb.co.nz/news/politics/election-2026-national-s-steps-to-standardise-farm-rules-quarries-fertiliser-energy-storage/",
-      "title": "National's steps to standardise farm rules – quarries, fertiliser, energy storage",
-      "source": "newstalkzb.co.nz",
+      "id": "https://obj.ca/data/clean-tech-companies-74/",
+      "title": "OBJ Data Centre | Ottawa Business Journal",
+      "source": "obj.ca",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T00:16:00Z",
-      "publishedAt": "2026-10-16T00:16:00Z",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
-      "url": "https://www.newstalkzb.co.nz/news/politics/election-2026-national-s-steps-to-standardise-farm-rules-quarries-fertiliser-energy-storage/"
-    },
-    {
-      "id": "https://promptnewsonline.com/fg-plans-new-electricity-grid-to-tackle-repeated-collapses/",
-      "title": "FG plans new electricity grid to tackle repeated collapses",
-      "source": "promptnewsonline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
-      "summary": "",
-      "url": "https://promptnewsonline.com/fg-plans-new-electricity-grid-to-tackle-repeated-collapses/"
+      "url": "https://obj.ca/data/clean-tech-companies-74/"
     },
     {
       "id": "https://www.perthnow.com.au/news/environment/australia-should-roll-out-red-carpet-for-data-centres-c-23029379",
@@ -560,18 +596,6 @@
       "url": "https://www.perthnow.com.au/news/environment/australia-should-roll-out-red-carpet-for-data-centres-c-23029379"
     },
     {
-      "id": "https://obj.ca/data/clean-tech-companies-75/",
-      "title": "OBJ Data Centre | Ottawa Business Journal",
-      "source": "obj.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
-      "summary": "",
-      "url": "https://obj.ca/data/clean-tech-companies-75/"
-    },
-    {
       "id": "https://www.stcatharinesstandard.ca/news/canada/nova-scotia-premier-defends-changing-his-stance-on-welcoming-data-centre-proposals/article_22bf82f9-fe21-5d62-8a89-ef4c06021b00.html",
       "title": "Nova Scotia premier defends changing his stance on welcoming data centre proposals",
       "source": "stcatharinesstandard.ca",
@@ -582,18 +606,6 @@
       "publishedAt": "2026-10-15T19:01:00Z",
       "summary": "",
       "url": "https://www.stcatharinesstandard.ca/news/canada/nova-scotia-premier-defends-changing-his-stance-on-welcoming-data-centre-proposals/article_22bf82f9-fe21-5d62-8a89-ef4c06021b00.html"
-    },
-    {
-      "id": "https://wtvbam.com/2026/10/15/italys-lombardy-to-revise-data-centre-law-next-week-after-application-surge/",
-      "title": "Italy’s Lombardy to revise data centre law next week after application surge",
-      "source": "wtvbam.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
-      "summary": "",
-      "url": "https://wtvbam.com/2026/10/15/italys-lombardy-to-revise-data-centre-law-next-week-after-application-surge/"
     },
     {
       "id": "https://biz.chosun.com/it-science/ict/2026/10/15/PIF4ZYOKZZGGVA6Y2BPCHSUYJU/",
@@ -620,28 +632,52 @@
       "url": "https://www.digitimes.com/news/a20261016VL204/samsung-india-quantum-workforce.html"
     },
     {
-      "id": "https://wrco.com/news/2026/10/15/wisconsin-rapids-data-center-faces-key-council-decision-october-20",
-      "title": "Wisconsin Rapids Data Center Faces Key Council Decision October 20",
-      "source": "wrco.com",
+      "id": "https://dailypioneer.com/telangana/cm-revanth-reddy-urges-hyundai-to-establish-car-manufacturing-unit-in-telangana",
+      "title": "CM Revanth Reddy Urges Hyundai to Establish Car Manufacturing Unit in Telangana",
+      "source": "dailypioneer.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
-      "url": "https://wrco.com/news/2026/10/15/wisconsin-rapids-data-center-faces-key-council-decision-october-20"
+      "url": "https://dailypioneer.com/telangana/cm-revanth-reddy-urges-hyundai-to-establish-car-manufacturing-unit-in-telangana"
     },
     {
-      "id": "https://economictimes.indiatimes.com/small-biz/sme-sector/logitech-starts-manufacturing-in-india-begins-with-webcams-pointing-devices/articleshow/134981669.cms",
-      "title": "Logitech starts manufacturing in India, begins with webcams, pointing devices",
-      "source": "economictimes.indiatimes.com",
+      "id": "https://www.wsoctv.com/news/local/title-wsocwral-poll-finds-north-carolinians-are-split-data-center-development/AI6HJFKUIRD2BFDRAXERTICT44/",
+      "title": "WSOC/WRAL poll finds North Carolinians are split on data center development",
+      "source": "wsoctv.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
+      "dateRaw": "2026-10-16T09:17:00Z",
+      "publishedAt": "2026-10-16T09:17:00Z",
       "summary": "",
-      "url": "https://economictimes.indiatimes.com/small-biz/sme-sector/logitech-starts-manufacturing-in-india-begins-with-webcams-pointing-devices/articleshow/134981669.cms"
+      "url": "https://www.wsoctv.com/news/local/title-wsocwral-poll-finds-north-carolinians-are-split-data-center-development/AI6HJFKUIRD2BFDRAXERTICT44/"
+    },
+    {
+      "id": "https://www.pharmaceuticalonline.com/doc/leading-biotechnology-company-centrally-manages-maintenance-calibration-and-validation-with-ram-0001",
+      "title": "Leading Biotechnology Company Centrally Manages Maintenance, Calibration, And Validation With RAM",
+      "source": "pharmaceuticalonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T00:17:00Z",
+      "publishedAt": "2026-10-16T00:17:00Z",
+      "summary": "",
+      "url": "https://www.pharmaceuticalonline.com/doc/leading-biotechnology-company-centrally-manages-maintenance-calibration-and-validation-with-ram-0001"
+    },
+    {
+      "id": "https://www.newstalkzb.co.nz/news/politics/election-2026-national-s-steps-to-standardise-farm-rules-quarries-fertiliser-energy-storage/",
+      "title": "National's steps to standardise farm rules – quarries, fertiliser, energy storage",
+      "source": "newstalkzb.co.nz",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T00:16:00Z",
+      "publishedAt": "2026-10-16T00:16:00Z",
+      "summary": "",
+      "url": "https://www.newstalkzb.co.nz/news/politics/election-2026-national-s-steps-to-standardise-farm-rules-quarries-fertiliser-energy-storage/"
     },
     {
       "id": "https://biz.chosun.com/international/international_economy/2026/10/15/YBE7ZYMPWBAPBGOYVE6F2PZXQY/",
@@ -656,97 +692,61 @@
       "url": "https://biz.chosun.com/international/international_economy/2026/10/15/YBE7ZYMPWBAPBGOYVE6F2PZXQY/"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=05549766645613248&mediaCodeNo=257",
-      "title": "머스크, 음성 AI 승부수…그록 보이스 3.0 종합 평가 1위",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T10:01:00Z",
-      "publishedAt": "2026-10-15T10:01:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=05549766645613248&mediaCodeNo=257"
-    },
-    {
-      "id": "http://www.koreatimes.com/article/20261015/1634029",
-      "title": "LG전자·애플 ‘AI홈’ 12월 출시… AI 매개 협업 커진다 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261015/1634029"
-    },
-    {
-      "id": "https://www.digitimes.com/news/a20261016PD226/taiwan-robotics-market-growth-sales.html",
-      "title": "Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics",
-      "source": "digitimes.com",
+      "id": "https://www.roboticstomorrow.com/company_directory/palladyne-ai-corp/14078",
+      "title": "Industrial Automation, Robots and Unmanned Vehicles Company - Palladyne AI Corp. | RoboticsTomorrow",
+      "source": "roboticstomorrow.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
       "summary": "",
-      "url": "https://www.digitimes.com/news/a20261016PD226/taiwan-robotics-market-growth-sales.html"
+      "url": "https://www.roboticstomorrow.com/company_directory/palladyne-ai-corp/14078"
     },
     {
-      "id": "https://www.etoday.co.kr/news/view/2636466",
-      "title": "이형일 \"G20, 공급망회복력 높이고 AI 투자해야\"…G7선 글로벌불균형 완화 강조",
-      "source": "etoday.co.kr",
+      "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-co-founder-backs-common-sense-standards-for-ai-regulation",
+      "title": "Anthropic co-founder backs 'common sense standards' for AI regulation",
+      "source": "asia.nikkei.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-co-founder-backs-common-sense-standards-for-ai-regulation"
+    },
+    {
+      "id": "http://inews24.com/view/2016025",
+      "title": "엔비디아, 346만원부터 'RTX 스파크' 출시...\"에이전틱 AI 원년\"[현장]",
+      "source": "inews24.com",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T04:46:00Z",
-      "publishedAt": "2026-10-16T04:46:00Z",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
       "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2636466"
+      "url": "http://inews24.com/view/2016025"
     },
     {
-      "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/15/why-oncology-is-becoming-ais-most-important-proving-ground/",
-      "title": "Why Oncology Is Becoming AI's Most Important Proving Ground",
-      "source": "forbes.com",
+      "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
+      "title": "China to add AI, biopharma and solar tech to export control list",
+      "source": "asia.nikkei.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T22:01:00Z",
-      "publishedAt": "2026-10-15T22:01:00Z",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/15/why-oncology-is-becoming-ais-most-important-proving-ground/"
-    },
-    {
-      "id": "https://fortune.com/2026/10/15/jamie-dimon-ai-agents-meta-muse-jpmorgan/",
-      "title": "‘You don’t want rogue agents': Jamie Dimon bars outside AI agents like Meta's Muse from JPMorgan accounts | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T19:02:00Z",
-      "publishedAt": "2026-10-15T19:02:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/15/jamie-dimon-ai-agents-meta-muse-jpmorgan/"
-    },
-    {
-      "id": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
-      "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
-      "source": "cnbc.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-15",
-      "dateRaw": "2026-10-15T15:01:00Z",
-      "publishedAt": "2026-10-15T15:01:00Z",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html"
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 724,
-    "fetchedItems": 6033,
-    "relevantItems": 139,
-    "feedBytes": 1687971,
+    "poolSize": 736,
+    "fetchedItems": 6655,
+    "relevantItems": 168,
+    "feedBytes": 1887564,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
