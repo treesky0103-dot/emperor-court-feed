@@ -1,0 +1,106 @@
+name: Zhuge Cover Nine Read-Only Daily Audit
+on:
+  push:
+    paths:
+      - ".github/workflows/zhuge-cover-nine-readonly-audit.yml"
+  schedule:
+    - cron: "45 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: zhuge-cover-nine-readonly-audit
+  cancel-in-progress: false
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Verify today's nine original image URLs and linked revision without production writes
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import concurrent.futures, datetime, json, struct, sys, urllib.request, urllib.error, time
+          from zoneinfo import ZoneInfo
+          def pull(url, limit=5000000):
+              req=urllib.request.Request(url,headers={'User-Agent':'EmperorCourtCoverAudit/1.0','Cache-Control':'no-cache','Accept':'*/*'},method='GET')
+              with urllib.request.urlopen(req,timeout=20) as r:
+                  return r.status,r.headers.get('Content-Type','').split(';')[0].lower(),r.read(limit+1)
+          url='https://raw.githubusercontent.com/treesky0103-dot/emperor-court-feed/main/zhuge-latest.json'
+          try:
+              status,ct,body=pull(url)
+              assert status==200 and 'json' in ct
+              j=json.loads(body)
+          except Exception as e: sys.exit('STOP: canonical feed inaccessible '+repr(e)[:180])
+          today=datetime.datetime.now(ZoneInfo('Asia/Seoul')).date().isoformat()
+          plans=j.get('plans',[])
+          edition=j.get('morningEdition') or {}
+          rev=edition.get('contentRevision')
+          covers=[(n+1,k+1,c) for n,p in enumerate(plans) for k,c in enumerate(p.get('coverRefs',[]))]
+          tests={
+            'KST_today':j.get('date')==today and edition.get('day')==today,
+            'three_plans':len(plans)==3,
+            'HQ_ready':edition.get('hqReady') is True,
+            'planSet_match':bool(j.get('planSetId')) and j.get('planSetId')==edition.get('planSetId'),
+            'revision_present':bool(rev),
+            'exactly_nine':len(covers)==9 and len(plans)==3 and all(len(p.get('coverRefs',[]))==3 for p in plans),
+            'revision_match':bool(rev) and all(c.get('sourceRevision')==rev for _,_,c in covers),
+            'unique_urls':len(set(c.get('imageUrl') for _,_,c in covers))==9,
+          }
+          print('DAY',today,'PLANSET',j.get('planSetId'),'REVISION',rev)
+          for key,ok in tests.items():print('STRUCTURE',key,'PASS' if ok else 'FAIL')
+          if not all(tests.values()):sys.exit('STOP: source contract broken; no covers were changed')
+          def dimension(blob):
+              if blob[:8].hex()=='89504e470d0a1a0a' and len(blob)>24:return struct.unpack('>II',blob[16:24])
+              if blob[:3].hex()=='ffd8ff':
+                  pos=2
+                  while pos+9<len(blob):
+                      if blob[pos]!=255:pos+=1;continue
+                      while pos<len(blob) and blob[pos]==255:pos+=1
+                      if pos>=len(blob):break
+                      marker=blob[pos];pos+=1
+                      if marker in (217,218):break
+                      if marker==1 or 208<=marker<=215:continue
+                      if pos+2>len(blob):break
+                      size=int.from_bytes(blob[pos:pos+2],'big')
+                      if size<2 or pos+size>len(blob):break
+                      if marker in (192,193,194,195,197,198,199,201,202,203,205,206,207) and size>=7:
+                          return int.from_bytes(blob[pos+5:pos+7],'big'),int.from_bytes(blob[pos+3:pos+5],'big')
+                      pos+=size
+              return None
+          def test_cover(item):
+              n,k,c=item
+              image_url=c.get('imageUrl') or ''
+              result={'plan':n,'slot':k,'title':c.get('title',''),'tier':c.get('qualityTier',''),'valid':False}
+              if not image_url.startswith('https://'):
+                  result['error']='missing secure URL';return result
+              for attempt in range(2):
+                  try:
+                      status,typ,blob=pull(image_url)
+                      dims=dimension(blob)
+                      result.update(http=status,type=typ,bytes=len(blob),dims=dims)
+                      if status!=200 or not typ.startswith('image/') or len(blob)<4000 or not dims or min(dims)<100:
+                          raise ValueError('not a complete readable cover')
+                      result['valid']=True;return result
+                  except (urllib.error.HTTPError,urllib.error.URLError,ValueError,TimeoutError,OSError) as e:
+                      result['error']=(type(e).__name__+': '+str(e))[:150]
+                      if attempt==0:time.sleep(0.5)
+              return result
+          with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+              results=list(pool.map(test_cover,covers))
+          for r in results:
+              print('IMAGE',r['plan'],r['slot'],'PASS' if r['valid'] else 'FAIL',
+                    'HTTP',r.get('http'),'DIMS',r.get('dims'),'TYPE',r.get('type'),
+                    'TIER',r['tier'],'TITLE',r['title'],'ERROR',r.get('error',''))
+          n=sum(x['valid'] for x in results)
+          hq=sum(c.get('qualityTier')=='hq' for _,_,c in covers)
+          print('IMAGE_RESULT',str(n)+'/9','HQ_TIER',str(hq)+'/9')
+          try:
+              s,t,html=pull('https://emperor-court-web.pages.dev/',26000000)
+              print('PAGES_HTTP',s,'HTML_BYTES',len(html),'COVERREFS_MARKER',html.count(b'coverRefs'),'COVERREFERENCES_MARKER',html.count(b'coverReferences'))
+          except Exception as e:print('PAGES_UNVERIFIED',type(e).__name__,str(e)[:140])
+          print('BOUNDARY: this checks source and downloaded image bytes, not visibility in the live Court DOM.')
+          print('NO_MUTATION: no Workers, Pages, feed data, Cron, Workflow or publication changes.')
+          if n!=9:sys.exit('FAILED: fewer than nine currently downloadable usable images')
+          print('PASS: all nine image URLs and source revisions checked at runtime.')
+          PY
