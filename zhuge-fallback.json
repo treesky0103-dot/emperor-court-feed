@@ -3,7 +3,7 @@
   "planDay": "2026-10-16",
   "planSetId": "zps-20261016-ffa1261f",
   "generatedAt": "2026-10-15T23:45:50.195Z",
-  "publishedAt": "2026-10-16T00:10:03.843Z",
+  "publishedAt": "2026-10-16T00:18:04.942Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -230,7 +230,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-16T00:18:00.083Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "마케터가 끝까지 쥐어야 할 일",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "다 집행하는 시대, 마케터는 무엇으로 자신의 몸값을 증명할 것인가.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "005",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "보고할 고유 성과 지표와 AI 산출물 감사 기준을 확보하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "마케터가 챙겨야 할 데이터 무결성 검증과 고유 의사결정 R&R 매뉴얼.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "021",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "검증해 성과를 입증할 것인가가 실무자의 생존 과제가 되었기 때문.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "지표, 솔루션 도입 전후 마케터 기여도 증명 보고서 서식을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "040",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "매뉴얼이나 단기 기능 소개로 흘러가 1년 내 내용이 진부해질 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "042",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-40c1c932"
+      }
     },
     {
       "type": "경영",
@@ -409,7 +514,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-16T00:18:00.083Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "팀에 AI 직원이 들어왔다",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "채용하기 전, 팀장이 반드시 설계해야 할 5가지 업무 분장선.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "002",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "오작동 사고를 예방하고 팀 전체의 실질적 산출량을 끌어올리고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "에이전트 간 충돌 방지, 팀 생산성 평가를 위한 관리자 실전 가이드.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "기존 직원과의 업무를 어떻게 조율할지 구체적 지침이 없기 때문.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "감사 체크리스트, 에이전트 도입 부서 생산성 측정 지표를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "036",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "포털 솔루션의 기능 나열에 그쳐 제품 종속적인 로 전락할 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "050",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-40c1c932"
+      }
     },
     {
       "type": "교육",
@@ -588,8 +798,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-16T00:18:00.083Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "내 업무를 AI와 나누는 법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "마라: 내 일상 업무를 쪼개 AI를 부하직원으로 만드는 직무 재설계.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "010",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "넘길 단순 작업과 내가 끝까지 책임질 부가가치 업무를 분리하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "027",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "AI 위임 영역과 인간 책임 영역을 재설계하는 직무 재설계 실전서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "쪼개 살아남는 핵심 역량을 증명해야 하는 위기감이 고조되었기 때문.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "C레벨 보고용 AI 활용 업무 성과 포트폴리오 양식을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "037",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "예시 몇 개를 얹은 수준으로 전락해 실무 활용도가 떨어질 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "049",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-40c1c932"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261016-ffa1261f",
+    "file": "cardnews/2026-10-16.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
