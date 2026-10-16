@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 16. 오전 07:14:28",
+  "updatedAt": "2026. 10. 16. 오전 09:28:44",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -173,18 +173,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/stock/12177104",
-          "title": "韓 투자비중 확대 나선 ‘경영관여펀드’ 달튼 “저평가 국내주식 여전히 많아…밸류업 5~6년내 가능”",
+          "id": "https://www.mk.co.kr/news/business/12177444",
+          "title": "효성重, 수출 전용 ‘초고압차단기 신공장’ 준공…조현준 회장, 글로벌 공급망 ‘드라이브’",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T18:05:46Z",
-          "publishedAt": "2026-10-15T18:05:46Z",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T08:58:32Z",
+          "publishedAt": "2026-10-16T08:58:32Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/stock/12177104",
+          "url": "https://www.mk.co.kr/news/business/12177444",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257",
@@ -237,6 +237,32 @@
           "url": "https://www.hani.co.kr/arti/society/environment/1282129.html"
         },
         {
+          "id": "http://www.koreatimes.com/article/20261015/1634028",
+          "title": "공화 접전지 후보들의 입장 선회…선거 이후 관세정책 제동걸까 - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:16:00Z",
+          "publishedAt": "2026-10-16T00:16:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261015/1634028"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225297",
+          "title": "[단독] '반기문 여동생' 사칭으로 투자 유도…수천만 원 뜯어낸 사기꾼들 검거",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-15",
+          "dateRaw": "2026-10-15T22:48:00Z",
+          "publishedAt": "2026-10-15T22:48:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225297",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://www.chosun.com/economy/weeklybiz/2026/10/16/JDGUZIS54JGZVF6HN63264KZFE/",
           "title": "불타오르는 채권 금리… 그 뒤엔 ‘채권 자경단’ 있다",
           "source": "chosun.com",
@@ -259,32 +285,6 @@
           "publishedAt": "2026-10-15T22:02:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261015001186"
-        },
-        {
-          "id": "https://www.nspna.com/news/?mode=view&newsid=831883",
-          "title": "LH, AI 경영혁신 전환…안전·하자·돌봄·업무지식 전사 확대",
-          "source": "nspna.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:02:00Z",
-          "publishedAt": "2026-10-15T10:02:00Z",
-          "summary": "",
-          "url": "https://www.nspna.com/news/?mode=view&newsid=831883"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225243",
-          "title": "[단독] '반기문 여동생' 사칭으로 투자 유도…수천만 원 뜯어낸 사기꾼들 검거",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:00:00Z",
-          "publishedAt": "2026-10-15T10:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225243",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
@@ -293,12 +293,16 @@
           "count": 3
         },
         {
-          "word": "투자",
-          "count": 3
+          "word": "공급망",
+          "count": 2
         },
         {
-          "word": "공급망",
-          "count": 1
+          "word": "수출",
+          "count": 2
+        },
+        {
+          "word": "투자",
+          "count": 2
         },
         {
           "word": "금리",
@@ -306,10 +310,6 @@
         },
         {
           "word": "생산성",
-          "count": 1
-        },
-        {
-          "word": "수출",
           "count": 1
         }
       ],
@@ -319,6 +319,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.etnews.com/20261015000313",
+          "title": "“AI 경쟁, 결국 전력의 문제”… 솔루엠, 고효율 전원 솔루션으로 데이터센터 시장 공략",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:00:00Z",
+          "publishedAt": "2026-10-16T00:00:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261015000313",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.mk.co.kr/news/business/12175472",
           "title": "LG전자, GS건설·美 GRC와 AI 데이터센터 액침냉각 기술 개발…차세대 냉각시장 공략 가속",
@@ -330,20 +344,6 @@
           "publishedAt": "2026-10-14T11:57:24Z",
           "summary": "",
           "url": "https://www.mk.co.kr/news/business/12175472",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261015000053",
-          "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T19:00:00Z",
-          "publishedAt": "2026-10-15T19:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261015000053",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -434,30 +434,36 @@
           "url": "https://www.newspim.com/news/view/20261013000012"
         },
         {
-          "id": "https://www.nspna.com/news/?mode=view&newsid=831883",
-          "title": "LH, AI 경영혁신 전환…안전·하자·돌봄·업무지식 전사 확대",
-          "source": "nspna.com",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225258",
+          "title": "코스피 '검은 목요일'…밤사이 뉴욕증시 반도체 종목 약세",
+          "source": "mbn.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:02:00Z",
-          "publishedAt": "2026-10-15T10:02:00Z",
+          "dateRaw": "2026-10-15T22:00:00Z",
+          "publishedAt": "2026-10-15T22:00:00Z",
           "summary": "",
-          "url": "https://www.nspna.com/news/?mode=view&newsid=831883"
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225258",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "데이터센터",
-          "count": 3
+          "count": 4
         },
         {
           "word": "반도체",
           "count": 2
+        },
+        {
+          "word": "전력",
+          "count": 1
         },
         {
           "word": "제조",
@@ -472,6 +478,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.kjzz.org/the-show/2026-10-15/thousands-of-refugees-lost-healthcare-this-arizona-agency-helping-them-is-feeling-the-impact",
+          "title": "Thousands of refugees lost healthcare. This Arizona agency helping them is feeling the impact",
+          "source": "kjzz.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:17:00Z",
+          "publishedAt": "2026-10-16T00:17:00Z",
+          "summary": "",
+          "url": "https://www.kjzz.org/the-show/2026-10-15/thousands-of-refugees-lost-healthcare-this-arizona-agency-helping-them-is-feeling-the-impact"
+        },
         {
           "id": "https://www.nursinginpractice.com/latest-news/immigration-reform-could-put-thousands-of-healthcare-staff-at-risk/",
           "title": "Immigration reform could put thousands of healthcare staff ‘at risk’",
@@ -521,6 +539,54 @@
           "url": "https://www.tnp.no/norway/politics/new-government-in-norway-less-inequality-more-focus-on-environment-welfare-and-localization/"
         },
         {
+          "id": "https://www.wcvb.com/article/silver-rail-elementary-school-bend-oregon-report-active-shooter/74150171",
+          "title": "Multiple believed dead after active shooter reported at elementary school in Oregon",
+          "source": "wcvb.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:17:00Z",
+          "publishedAt": "2026-10-16T00:17:00Z",
+          "summary": "",
+          "url": "https://www.wcvb.com/article/silver-rail-elementary-school-bend-oregon-report-active-shooter/74150171"
+        },
+        {
+          "id": "https://cbs4local.com/news/nation-world/police-responding-to-reported-active-shooter-situation-at-elementary-school-in-oregon-silver-rail-elementary-school-guns-weapons-investigation-lockdown-children-students-teachers-deschutes-county-sheriffs-office",
+          "title": "4 dead, including 3 children, in shooting at Oregon elementary school: report",
+          "source": "cbs4local.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:17:00Z",
+          "publishedAt": "2026-10-16T00:17:00Z",
+          "summary": "",
+          "url": "https://cbs4local.com/news/nation-world/police-responding-to-reported-active-shooter-situation-at-elementary-school-in-oregon-silver-rail-elementary-school-guns-weapons-investigation-lockdown-children-students-teachers-deschutes-county-sheriffs-office"
+        },
+        {
+          "id": "https://wtvbam.com/2026/10/15/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance/",
+          "title": "Shooter killed at Oregon elementary school; CNN, CBS report four dead in violence",
+          "source": "wtvbam.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:16:00Z",
+          "publishedAt": "2026-10-16T00:16:00Z",
+          "summary": "",
+          "url": "https://wtvbam.com/2026/10/15/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance/"
+        },
+        {
+          "id": "https://www.bordermail.com.au/story/9369623/five-reported-dead-after-shooting-at-oregon-school/",
+          "title": "Five reported dead after shooting at Oregon school",
+          "source": "bordermail.com.au",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:16:00Z",
+          "publishedAt": "2026-10-16T00:16:00Z",
+          "summary": "",
+          "url": "https://www.bordermail.com.au/story/9369623/five-reported-dead-after-shooting-at-oregon-school/"
+        },
+        {
           "id": "https://myfox28columbus.com/news/nation-world/police-responding-to-reported-active-shooter-situation-at-elementary-school-in-oregon-silver-rail-elementary-school-guns-weapons-investigation-lockdown-children-students-teachers-deschutes-county-sheriffs-office",
           "title": "Suspected elementary school shooter in Oregon dead, with multiple victims reported",
           "source": "myfox28columbus.com",
@@ -531,76 +597,16 @@
           "publishedAt": "2026-10-15T22:02:00Z",
           "summary": "",
           "url": "https://myfox28columbus.com/news/nation-world/police-responding-to-reported-active-shooter-situation-at-elementary-school-in-oregon-silver-rail-elementary-school-guns-weapons-investigation-lockdown-children-students-teachers-deschutes-county-sheriffs-office"
-        },
-        {
-          "id": "https://wgxa.tv/news/nation-world/police-responding-to-reported-active-shooter-situation-at-elementary-school-in-oregon-silver-rail-elementary-school-guns-weapons-investigation-lockdown-children-students-teachers-deschutes-county-sheriffs-office",
-          "title": "Police responding to reported 'active shooter' situation at elementary school in Oregon",
-          "source": "wgxa.tv",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T22:02:00Z",
-          "publishedAt": "2026-10-15T22:02:00Z",
-          "summary": "",
-          "url": "https://wgxa.tv/news/nation-world/police-responding-to-reported-active-shooter-situation-at-elementary-school-in-oregon-silver-rail-elementary-school-guns-weapons-investigation-lockdown-children-students-teachers-deschutes-county-sheriffs-office"
-        },
-        {
-          "id": "https://www.romfordrecorder.co.uk/news/26641628.dagenham-park-school---boy-arrested-knife-brought/",
-          "title": "Boy, 13, arrested after reports of ‘knife brought into school’ in Dagenham",
-          "source": "romfordrecorder.co.uk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T22:01:00Z",
-          "publishedAt": "2026-10-15T22:01:00Z",
-          "summary": "",
-          "url": "https://www.romfordrecorder.co.uk/news/26641628.dagenham-park-school---boy-arrested-knife-brought/"
-        },
-        {
-          "id": "https://malawi24.com/marketplace/listing/consultant-development-of-sops-and-training-materials-for-acute-and-severe-mental-health-presentations/",
-          "title": "Consultant: Development of SOPs and Training Materials for Acute and Severe Mental Health Presentations at Médecins Sans Frontières on Malawi24 Marketplace",
-          "source": "malawi24.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T19:02:00Z",
-          "publishedAt": "2026-10-15T19:02:00Z",
-          "summary": "",
-          "url": "https://malawi24.com/marketplace/listing/consultant-development-of-sops-and-training-materials-for-acute-and-severe-mental-health-presentations/"
-        },
-        {
-          "id": "https://www.hindustantimes.com/india-news/assam-university-assistant-professor-booked-for-molesting-woman-researcher-in-bengaluru-police-101792075098839.html",
-          "title": "Assam University assistant professor booked for molesting woman researcher in Bengaluru: Police",
-          "source": "hindustantimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T15:01:00Z",
-          "publishedAt": "2026-10-15T15:01:00Z",
-          "summary": "",
-          "url": "https://www.hindustantimes.com/india-news/assam-university-assistant-professor-booked-for-molesting-woman-researcher-in-bengaluru-police-101792075098839.html"
-        },
-        {
-          "id": "https://timesofindia.indiatimes.com/technology/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/134963544.cms",
-          "title": "Google announces AI collaborations, funding initiatives to boost healthcare, research in India",
-          "source": "timesofindia.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:02:00Z",
-          "publishedAt": "2026-10-15T10:02:00Z",
-          "summary": "",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/134963544.cms"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "정신건강",
-          "count": 3
+          "count": 2
         },
         {
           "word": "불평등",
@@ -920,9 +926,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 2000,
-    "fetchedItems": 4235,
-    "feedBytes": 1180263,
+    "poolSize": 1982,
+    "fetchedItems": 3430,
+    "feedBytes": 916862,
     "rollingWindowHours": 72
   }
 }
