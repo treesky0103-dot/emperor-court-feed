@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오전 06:07:33",
+  "updatedAt": "2026. 10. 17. 오전 08:33:09",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -279,16 +279,16 @@
           "url": "http://www.koreatimes.com/article/20261015/1634028"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10905064",
-          "title": "IPX Exchange, 400만 달러 시드 투자 확보…11월 IP 토큰화 플랫폼 선보인다",
-          "source": "biz.heraldcorp.com",
+          "id": "https://www.ddaily.co.kr:443/page/view/2026101706531909508",
+          "title": "美 기술주, AI 투자 차입 부담에 약세…나스닥 주간 4.5% 하락",
+          "source": "ddaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-16",
-          "dateRaw": "2026-10-16T04:46:00Z",
-          "publishedAt": "2026-10-16T04:46:00Z",
+          "dateRaw": "2026-10-16T23:16:00Z",
+          "publishedAt": "2026-10-16T23:16:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10905064"
+          "url": "https://www.ddaily.co.kr:443/page/view/2026101706531909508"
         }
       ],
       "keywords": [
@@ -410,6 +410,18 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1282434.html"
         },
         {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026101706531909508",
+          "title": "美 기술주, AI 투자 차입 부담에 약세…나스닥 주간 4.5% 하락",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T23:16:00Z",
+          "publishedAt": "2026-10-16T23:16:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026101706531909508"
+        },
+        {
           "id": "http://inews24.com/view/2016027",
           "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
           "source": "inews24.com",
@@ -432,18 +444,6 @@
           "publishedAt": "2026-10-16T09:17:00Z",
           "summary": "",
           "url": "http://www.koreatimes.com/article/20261015/1634023"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261013000012",
-          "title": "메타, 새 AI 모델 '뮤즈 원더' 공개…\"개인·업무 에이전트 작업서 최첨단\"",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T22:02:00Z",
-          "publishedAt": "2026-10-15T22:02:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261013000012"
         }
       ],
       "keywords": [
@@ -921,8 +921,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4140,
-    "feedBytes": 1150955,
+    "fetchedItems": 3932,
+    "feedBytes": 1084975,
     "rollingWindowHours": 72
   }
 }
