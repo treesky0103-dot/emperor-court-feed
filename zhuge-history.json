@@ -6,7 +6,7 @@
       "planDay": "2026-10-17",
       "planSetId": "zps-20261017-939e7fe7",
       "generatedAt": "2026-10-17T00:03:31.201Z",
-      "publishedAt": "2026-10-17T00:19:29.039Z",
+      "publishedAt": "2026-10-17T00:26:27.251Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -237,7 +237,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-17T00:18:44.291Z",
+            "generatedAt": "2026-10-17T00:26:14.141Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -262,76 +262,76 @@
               ]
             },
             "bookTitle": "마케터의 결재선",
-            "provider": "rule-fallback",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "no-ai-copy",
+            "provider": "cloudflare",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "궁금증",
-                "headline": "다 돌리는 시대, 마케터는 무엇으로 자신의 몸값을 결재받을 것인가.",
+                "headline": "AI 광고 자동화\n솔루션이 정말\n신의 한 수일까",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "005",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "현상",
-                "headline": "내 직무 기여도와 예산 효율성을 설득력 있게 입증하고 싶다.",
-                "body": "",
+                "headline": "광고 성과가\n의외로 허상일 때",
+                "body": "집행과 카피 생성이 자동화된 후에도 성과가 예상과 다를 때",
                 "accent": "yellow",
                 "sceneId": "012",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "analysis",
                 "beat": "원리",
-                "headline": "검증하고 C레벨 보고용 성과 지표를 방어하는 품질 감사 매뉴얼.",
-                "body": "",
+                "headline": "그 이유는\n데이터 무결성에 있다",
+                "body": "AI 산출물의 데이터 무결성을 검증하지 않으면 허수 트래픽으로 인해 성과가 왜곡될 수 있다",
                 "accent": "yellow",
                 "sceneId": "011",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "설명",
-                "headline": "커져 실무자의 검증 권한과 성과 증명이 생존 과제가 되었기 때문이다.",
+                "headline": "데이터 무결성을\n검증하는 방법은?",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "020",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "통찰",
-                "headline": "7단계 검수표, C레벨 보고용 성과 증명 보고서 서식을 제공한다.",
+                "headline": "실무 마케터의\n품질 감사 매뉴얼",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "034",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "핵심 메시지",
-                "headline": "일시적인 툴 기능 해설로 흘러가 1년 내 내용이 진부해질 위험.",
+                "headline": "AI 광고 자동화\n솔루션의 품질을\n검증하라",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "046",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
             "sourceRevision": "zcr-d09884d3"
@@ -548,7 +548,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-d09884d3",
             "status": "ready",
-            "generatedAt": "2026-10-17T00:18:58.249Z",
+            "generatedAt": "2026-10-17T00:25:51.525Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -556,98 +556,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 8,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "duke archives of the anthropocene",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 157542,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "duke the problem of passing",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 196946,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "minnesota a perfectionist impulse",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 71,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 86512,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "ABCD Awards 2018",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 35,
-                  "genre": 50,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 315752,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -1142,7 +1051,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-d09884d3",
             "status": "ready",
-            "generatedAt": "2026-10-17T00:19:11.000Z",
+            "generatedAt": "2026-10-17T00:25:55.915Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1150,98 +1059,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 6,
-              "preShortlistCount": 6,
-              "eligibleCount": 6,
-              "scannedCount": 6,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "minnesota a perfectionist impulse",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 25,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 67,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 86512,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "calgary at the freak show",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 15,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 64,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 158986,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "University Press Cover Round-Up",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 30,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 69,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 244716,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "georgia the submerged",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 20,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 65,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 212574,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -1736,7 +1554,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-d09884d3",
             "status": "ready",
-            "generatedAt": "2026-10-17T00:19:22.925Z",
+            "generatedAt": "2026-10-17T00:25:59.897Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1744,82 +1562,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 3,
-              "preShortlistCount": 3,
-              "eligibleCount": 3,
-              "scannedCount": 3,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 3,
-              "shortlistCount": 3,
-              "assessedCount": 3,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "calgary at the freak show",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 20,
-                  "genre": 35,
-                  "design": 85,
-                  "score": 65,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 158986,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "mcgill queens postal censorship surveillance resistance",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 35,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 205508,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nebraska have you landed",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 25,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 67,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 267074,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         }
       ],
