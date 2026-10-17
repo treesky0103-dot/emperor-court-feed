@@ -1,43 +1,25 @@
 {
-  "date": "2026-10-16",
-  "planDay": "2026-10-16",
-  "planSetId": "zps-20261016-ffa1261f",
-  "generatedAt": "2026-10-15T23:45:50.195Z",
-  "publishedAt": "2026-10-16T09:01:19.831Z",
+  "date": "2026-10-17",
+  "planDay": "2026-10-17",
+  "planSetId": "zps-20261017-939e7fe7",
+  "generatedAt": "2026-10-17T00:03:31.201Z",
+  "publishedAt": "2026-10-17T00:03:35.243Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
-  "morningEdition": {
-    "day": "2026-10-16",
-    "planSetId": "zps-20261016-ffa1261f",
-    "titles": [
-      "마케터가 끝까지 쥐어야 할 일",
-      "팀에 AI 직원이 들어왔다",
-      "내 업무를 AI와 나누는 법"
-    ],
-    "generationMode": "historical-high-quality-atomic",
-    "model": "gemini-3.8-flash",
-    "hqReady": true,
-    "contentRevision": "zcr-40c1c932",
-    "hqVerifiedBy": "gemini-3.8-flash",
-    "sealedAt": "2026-10-16T00:00:00.050Z",
-    "build": "v2.15.119",
-    "hqVerificationError": "",
-    "hqUpgradedAt": "2026-10-16T01:55:20.122Z"
-  },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 마케팅 · 경영 · 교육을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 디지털 마케팅 · 조직 관리 · 콘텐츠 제작을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
   "model": "gemini-3.8-flash",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-10-15T23:45:46.921Z",
+  "sourceSnapshotAt": "2026-10-17T00:03:28.350Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
-    "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-10-15T22:39:40.474Z",
+    "bestsellerFresh": false,
+    "newsUpdatedAt": "2026-10-16T23:38:27.774Z",
     "staleAdvisors": [
       "sima",
       "zhou",
@@ -46,70 +28,70 @@
       "xunyu",
       "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-10-15T23:30:26.581Z",
+    "bestsellerUpdatedAt": "2026-10-16T00:06:04.082Z",
     "bestsellerDataDate": "2026-10-15",
     "stale": true,
-    "checkedAt": "2026-10-15T23:45:50.195Z",
+    "checkedAt": "2026-10-17T00:03:31.201Z",
     "policy": "confirm-and-mark",
-    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록, YES24 순위 2026-10-16 09:06 수집본(2026-10-15 집계)"
   },
   "plans": [
     {
-      "type": "마케팅",
-      "field": "마케팅",
-      "title": "마케터가 끝까지 쥐어야 할 일",
-      "concept": "AI 마케팅 솔루션이 광고 소재 생성과 집행을 전면 자동화할 때 실무 마케터가 챙겨야 할 데이터 무결성 검증과 고유 의사결정 R&R 매뉴얼",
-      "why": "스토어링크 등 AI가 마케팅 전 과정을 대행하는 엔드투엔드 솔루션이 가동되면서 툴 조작법보다 무엇을 자동화에 넘기고 무엇을 사람이 검증해 성과를 입증할 것인가가 실무자의 생존 과제가 되었기 때문",
-      "competition": "《쉽게 배우는 요즘 AI 마케팅》과 《챗대리의 따라하면 바로 되는 AI 마케팅 자동화》는 챗GPT 프롬프트 작성법이나 단일 툴 기능 조작에 치중해 전 과정 자동화 솔루션 도입 후 마케터의 R&R과 데이터 무결성 감사 프로토콜을 다루지 못한다.",
-      "reader": "AI 광고 자동화 솔루션 도입으로 단순 집행 업무가 축소되어 성과 증명과 직무 정체성에 혼란을 겪는 3~7년 차 마케터 및 마케팅 팀장",
-      "readerNeed": "광고 세팅과 카피 생성이 자동화된 상황에서 C레벨에게 보고할 고유 성과 지표와 AI 산출물 감사 기준을 확보하고 싶다.",
-      "marketGap": "개별 AI 툴 실습서와 프롬프트 모음집은 넘쳐나지만 솔루션이 마케팅 전 과정을 자동화할 때 실무자가 품질 감사자이자 전략 책임자로 서기 위한 업무 재정의 프레임워크가 부재하다.",
-      "differentiation": "퍼널 단계별 AI 위임 업무 분장표, AI 생성 카피·소재 브랜드 리스크 7단계 검수표, 알고리즘 왜곡 및 허수 트래픽 필터링 지표, 솔루션 도입 전후 마케터 기여도 증명 보고서 서식을 제공한다.",
-      "diff": "퍼널 단계별 AI 위임 업무 분장표, AI 생성 카피·소재 브랜드 리스크 7단계 검수표, 알고리즘 왜곡 및 허수 트래픽 필터링 지표, 솔루션 도입 전후 마케터 기여도 증명 보고서 서식을 제공한다.",
+      "type": "디지털 마케팅",
+      "field": "디지털 마케팅",
+      "title": "마케터의 결재선",
+      "concept": "AI 광고 자동화 솔루션이 집행과 카피 생성을 대행할 때 실무 마케터가 데이터 무결성을 검증하고 C레벨 보고용 성과 지표를 방어하는 품질 감사 매뉴얼",
+      "why": "국내외 광고 플랫폼과 AI 솔루션이 캠페인 집행을 전면 자동화하고 있으나, 필리핀 등 글로벌 지식재산권 분쟁에서 보듯 AI 산출물의 법적 저작권 인정 여부와 허수 트래픽 왜곡 리스크가 커져 실무자의 검증 권한과 성과 증명이 생존 과제가 되었기 때문이다.",
+      "competition": "《구글 애널리틱스를 활용한 디지털 마케팅》은 툴 기능과 과거 수동 세팅 데이터 분석에 치중해 전 과정 AI 자동화 환경의 감사 체계를 다루지 못하며, 《DX에서 AI까지, 데이터 기반 디지털 마케팅 실무 가이드》는 포괄적 개념 소개에 머물러 마케터의 내부 결재선 설계법을 제시하지 못한다.",
+      "reader": "AI 광고 자동화 도구를 도입했으나 허수 성과와 알고리즘 왜곡으로 C레벨 보고에 어려움을 겪는 3~7년 차 퍼포먼스 및 그로스 마케터",
+      "readerNeed": "AI가 쏟아낸 광고 수치의 거품을 걷어내고, 경영진에게 내 직무 기여도와 예산 효율성을 설득력 있게 입증하고 싶다.",
+      "marketGap": "프롬프트 작성법이나 단일 툴 조작법을 다룬 서적은 넘치지만, AI가 자동 집행한 캠페인의 무결성을 감사하고 조직 내 최종 의사결정 권한을 지키는 실무 검증 프레임워크는 시장에 부재하다.",
+      "differentiation": "퍼널 단계별 AI 자동화 위임 한계선 매트릭스, 알고리즘 왜곡 및 허수 트래픽 필터링 지표 5종, AI 생성 광고 저작권·윤리 리스크 7단계 검수표, C레벨 보고용 성과 증명 보고서 서식을 제공한다.",
+      "diff": "퍼널 단계별 AI 자동화 위임 한계선 매트릭스, 알고리즘 왜곡 및 허수 트래픽 필터링 지표 5종, AI 생성 광고 저작권·윤리 리스크 7단계 검수표, C레벨 보고용 성과 증명 보고서 서식을 제공한다.",
       "toc": [
-        "1장. 자동화의 습격: 풀 퍼널 AI 솔루션 도입과 마케팅 직무의 재편",
-        "2장. 위임과 통제: 카피·타깃팅·입찰 중 AI에 넘길 것과 쥐어야 할 것",
-        "3장. 데이터 무결성 감사: 알고리즘 왜곡과 허수 트래픽을 걸러내는 필터링 기준",
-        "4장. 브랜드 안전선: AI 생성 콘텐츠의 저작권과 윤리적 리스크 차단 7단계",
-        "5장. 성과 증명 보고서: 툴 운영자가 아닌 전략 디렉터로 평가받는 KPI 프레임워크"
+        "1장. 자동화의 함정: AI가 집행한 광고 데이터의 허수와 성과 왜곡 판별법",
+        "2장. 위임과 통제선: 캠페인 세팅에서 AI에 넘길 영역과 마케터가 쥘 승인 권한",
+        "3장. 데이터 무결성 감사: 비정상 트래픽과 전환 수치 오류를 걸러내는 5대 지표",
+        "4장. 브랜드 안전과 저작권: AI 생성 카피·이미지의 법적 리스크 차단 프로토콜",
+        "5장. C레벨 성과 보고: 단순 툴 운영자가 아닌 전략 책임자로 입증하는 KPI 설계"
       ],
       "searchQueries": [
-        "AI 마케팅 자동화",
-        "마케팅 자동화 솔루션"
+        "AI 광고 검증",
+        "광고 성과 체크리스트"
       ],
       "bookworthiness": {
-        "durability": "광고 매체 자동화가 고도화될수록 인간 마케터의 데이터 검증과 브랜드 리스크 통제 책임은 더 영속적인 가치를 지닌다.",
-        "repeatNeed": "새로운 AI 광고 솔루션이 도입되거나 분기별 매체 집행 전략을 수립할 때마다 업무 R&R 기준표로 반복 참조된다.",
-        "expansionPotential": "퍼포먼스 마케팅뿐 아니라 CRM, 브랜드 캠페인, 그로스 조직 전반의 AI 업무 위임 가이드로 확장 가능하다.",
+        "durability": "AI 광고 솔루션 도입이 보편화될수록 예산 낭비와 허수 성과를 방어하는 품질 감사 수요는 지속된다.",
+        "repeatNeed": "신규 광고 캠페인 집행 및 분기별 예산 결산 시기마다 반복 검토되는 실무 지침서다.",
+        "expansionPotential": "SaaS B2B, 이커머스, 브랜드 캠페인 등 산업군별 감사 사례와 서식을 더해 220쪽 분량의 단행본으로 완성할 수 있다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "김민규",
-          "career": "《쉽게 배우는 요즘 AI 마케팅》 저자 · 시대인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《쉽게 배우는 요즘 AI 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/198007301",
+          "name": "이태열",
+          "career": "《구글 애널리틱스를 활용한 디지털 마케팅》 저자 · 디지털북스",
+          "why": "YES24에서 이 기획과 인접한 주제의 《구글 애널리틱스를 활용한 디지털 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/89941377",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "이종구",
-          "career": "《AI를 직원처럼 쓰는 마케팅 자동화 시스템》 저자 · 디지털콘텐츠그룹",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI를 직원처럼 쓰는 마케팅 자동화 시스템》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/189378838",
+          "name": "다케우치 테츠야",
+          "career": "《디지털 마케팅 용어 도감》 저자 · 정보문화사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《디지털 마케팅 용어 도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/154238820",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "이정화",
-          "career": "《AI를 직원처럼 쓰는 마케팅 자동화 시스템》 저자 · 디지털콘텐츠그룹",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI를 직원처럼 쓰는 마케팅 자동화 시스템》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/189378838",
+          "name": "김모세 역",
+          "career": "《디지털 마케팅 용어 도감》 저자 · 정보문화사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《디지털 마케팅 용어 도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/154238820",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "김민규",
-      "bestAuthor": "김민규",
+      "author": "이태열",
+      "bestAuthor": "이태열",
       "authorBrief": "",
-      "headlineCopy": "AI가 광고를 다 집행하는 시대, 마케터는 무엇으로 자신의 몸값을 증명할 것인가",
+      "headlineCopy": "AI가 광고를 다 돌리는 시대, 마케터는 무엇으로 자신의 몸값을 결재받을 것인가",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
@@ -120,20 +102,20 @@
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "“AI가 광고 세팅을 다 끝내면 마케터는 월요일 회의에서 무엇을 보고해야 할까?”라는 현장 질문으로 실무 커뮤니티와 직무 채널을 유입시킨다.",
-        "trust": "실제 B2B 기업의 AI 마케팅 솔루션 도입 시 발생한 데이터 누수 사례 대조표와 실무 R&R 분장표 샘플을 선공개해 전문성을 입증한다.",
-        "conversion": "도서 구매 즉시 실무에 적용할 수 있는 ‘AI 솔루션 도입 전후 마케팅 직무 분장 시트 및 성과 보고 템플릿’을 부록으로 제공한다.",
+        "acquisition": "“AI가 광고 집행을 끝냈을 때, 월요일 아침 팀장은 무엇을 보고해야 하는가?”라는 현장 질문으로 직무 커뮤니티와 마케팅 실무 채널을 공략한다.",
+        "trust": "실제 AI 자동화 집행 캠페인의 데이터 왜곡 사례 대조표와 실무 승인 결재선 샘플을 선공개해 객관적 설득력을 확보한다.",
+        "conversion": "책 구매 즉시 실무에 붙여 쓸 수 있는 ‘AI 광고 품질 감사 체크리스트 및 C레벨 보고서 서식’을 권말 부록과 다운로드 링크로 제공한다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "특정 광고 툴의 일시적인 기능 매뉴얼로 보이면 책 구매 가치가 약해질 수 있다.",
-          "objection": "“이런 건 솔루션 사용 설명서나 인터넷 검색으로 충분하지 않나?”",
-          "solution": "목차와 상세페이지에서 개별 툴이 아닌 '타깃팅-소재-입찰-분석' 전 과정의 인간 감사 체크리스트임을 증명한다."
+          "problem": "단순 툴 활용법이나 일시적인 마케팅 팁 모음으로 오인될 경우 실무자의 구매 의사가 꺾일 수 있다.",
+          "objection": "“결국 챗GPT나 메타 광고 관리자 화면 설명하는 책 아닌가?”",
+          "solution": "상세페이지에서 툴 기능 캡처를 전면 배제하고, 실제 경영진에게 제출하는 감사 보고서 양식과 결재 라인 프레임워크를 전면에 공개한다."
         },
-        "positioning": "AI 도구 사용법이 아닌 AI 도구를 지휘하는 마케터의 감사 및 보고 기준서"
+        "positioning": "툴 매뉴얼을 넘어선 마케팅 관리자의 내부 성과 감사 기준서"
       },
       "devilsEditor": {
-        "failureReason": "특정 광고 대행 SaaS 솔루션의 UI 매뉴얼이나 단기 기능 소개로 흘러가 출간 1년 내 내용이 진부해질 위험",
-        "fix": "개별 툴 명칭을 일반화하고 마케팅 파이프라인에서 인간이 수행해야 할 품질 감사 및 최종 의사결정 원칙 중심으로 서술을 고정한다."
+        "failureReason": "특정 플랫폼의 대시보드 화면 나열이나 일시적인 툴 기능 해설로 흘러가 1년 내 내용이 진부해질 위험",
+        "fix": "플랫폼 종속적 UI 설명을 전면 삭제하고 마케팅 파이프라인에서 인간이 수행해야 할 데이터 감사와 승인 원칙 중심으로 서술을 고정한다."
       },
       "scores": {
         "market": 92,
@@ -146,29 +128,29 @@
       "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "메타 Advantage+나 구글 PMax 등 플랫폼 자체 자동화가 강화되어 실무자의 개입 여지 자체가 줄어들 위험",
-      "riskResponse": "플랫폼 알고리즘이 해결할 수 없는 브랜드 정체성 유지, 퍼스트파티 데이터 정제, 전략적 예산 배분 등 인간 고유의 승인 권한 영역을 집중 조명한다.",
-      "judgment": "단순 툴 조작법을 완전히 덜어내고 AI 솔루션을 통제해 경영진에게 성과를 증명하는 감사 기준서로 완성해야 팀 단위 실구매로 이어진다.",
+      "risk": "메타나 구글 등 주요 매체의 자체 머신러닝 알고리즘이 고도화되어 마케터의 개입 여지 자체가 축소될 위험",
+      "riskResponse": "플랫폼 알고리즘이 결코 판단할 수 없는 브랜드 고유 정체성 유지, 퍼스트파티 데이터 정제, 법적 저작권 리스크 등 전략적 최종 승인 영역을 집중 조명한다.",
+      "judgment": "단순 툴 활용 실습을 완전히 덜어내고 AI 산출물을 경영진 앞에서 방어하는 감사 프로토콜로 완성해야 기업 실무진의 법인 카드 구매를 이끌어낼 수 있다.",
       "evidence": [
         {
-          "text": "쉽게 배우는 요즘 AI 마케팅 — 김민규 저",
+          "text": "구글 애널리틱스를 활용한 디지털 마케팅 — 이태열 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/198007301"
+          "url": "https://www.yes24.com/product/goods/89941377"
         },
         {
-          "text": "스토어링크, AI가 마케팅 전 과정 수행하는 자동화 체계 가동 - 스트레이트뉴스",
+          "text": "“AI가 만들었다고 저작권 없다?”... 필리핀, 인간 창작성이 기준 - 특허뉴스",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVpzaTd4ZlRObm5wRktZVnNESDNFVkRQY2JORVhaRWgxQ2xFd0JHbXNySlhlRVRscGVDNkpPQkpudnVTSHprVFJ4WUVGVUZ0akhIbDhLVWk0VVlFZGFiTjRaVGs0dEh4U3ZLY2piYjI5blhHTWZr0gF3QVVfeXFMT1hJWnNpN3hmVE5ubnBGS1lWc0RIM0VWRFBjYk5FWFpFaDFDbEV3Qkdtc3JKWGVFVGxwZUM2Sk9CSm52dVNIemtUUnhZRUZVRnRqSEhsOEtVaTRVWUVkYWJONFpUazR0SHhTdktjamJiMjluWEdNZms?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQjJFa0hmRVVENzZELV9LVlo1Q0xZR2Q0SmlpZDhwUkI5aE9WLUM5NEFvWF94ZzJEV1l6SDNFR0ROM1JhOC01Uw?oc=5"
         },
         {
-          "text": "챗대리의 따라하면 바로 되는 AI 마케팅 자동화 — 챗대리(박진주) 저",
+          "text": "디지털 마케팅 용어 도감 — 다케우치 테츠야 저,김모세 역",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/143053307"
+          "url": "https://www.yes24.com/product/goods/154238820"
         },
         {
-          "text": "AI를 직원처럼 쓰는 마케팅 자동화 시스템 — 이종구,이정화,김회균,손정화 저",
+          "text": "DX에서 AI까지, 데이터 기반 디지털 마케팅 실무 가이드 — 신호철,신명재 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/189378838"
+          "url": "https://www.yes24.com/product/goods/191308661"
         }
       ],
       "sourceChannels": [
@@ -189,40 +171,398 @@
       },
       "similarBooks": [
         {
-          "title": "쉽게 배우는 요즘 AI 마케팅",
-          "author": "김민규 저",
-          "publisher": "시대인",
+          "title": "구글 애널리틱스를 활용한 디지털 마케팅",
+          "author": "이태열 저",
+          "publisher": "디지털북스",
+          "publicationDate": "20200425",
+          "url": "https://www.yes24.com/product/goods/89941377",
+          "matchedQuery": "디지털 마케팅",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "디지털 마케팅 용어 도감",
+          "author": "다케우치 테츠야 저,김모세 역",
+          "publisher": "정보문화사",
+          "publicationDate": "20250925",
+          "url": "https://www.yes24.com/product/goods/154238820",
+          "matchedQuery": "디지털 마케팅",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "DX에서 AI까지, 데이터 기반 디지털 마케팅 실무 가이드",
+          "author": "신호철,신명재 저",
+          "publisher": "하움출판사",
+          "publicationDate": "20260605",
+          "url": "https://www.yes24.com/product/goods/191308661",
+          "matchedQuery": "디지털 마케팅",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-10-17T00:02:48.621Z",
+        "queries": [
+          "AI 광고 검증",
+          "광고 성과 체크리스트"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 1
+    },
+    {
+      "type": "조직 관리",
+      "field": "조직 관리",
+      "title": "팀장의 AI 부하직원",
+      "concept": "다중 AI 에이전트 도입 조직에서 관리자가 겪는 업무 중복과 보안 사고를 방지하고, 에이전트와 직원의 역할을 분장하는 팀 운영 실무 가이드",
+      "why": "트웰브랩스의 동영상 편집 에이전트 '자키' 출시처럼 특정 과업을 자율 수행하는 업무용 에이전트가 현장에 배치되고 있으나, 팀장 입장에서 권한 위임 범위와 오작동 책임 소재를 정리한 조직 관리 지침이 전무하기 때문이다.",
+      "competition": "《현대 한국 사회와 정부 조직 관리》 같은 학술서는 거시 행정 조직론에 갇혀 기술 도입 현장에 적용할 수 없고, 기존 AI 서적들은 기술 알고리즘 개괄에 치우쳐 팀 단위 에이전트 업무 분장과 권한 결재선 설계법을 다루지 않는다.",
+      "reader": "팀 내에 업무 자동화 에이전트가 도입되었으나 R&R 분장과 성과 평가, 보안 리스크 관리에 혼란을 겪는 중간관리자 및 PM",
+      "readerNeed": "AI 에이전트 도입 후 발생하는 부서 간 업무 중복과 오작동 사고를 예방하고, 팀 전체의 실질적 산출량을 입증하고 싶다.",
+      "marketGap": "AI 에이전트 기술 소개서나 거시적 미래 전망서는 쏟아지고 있지만, 일선 팀장이 AI 에이전트를 가상 팀원으로 편제하고 과업 배분과 감사 결재선을 구축하는 실무 조직 운영서는 없다.",
+      "differentiation": "과업별 에이전트 위임-사람 승인 매트릭스, 다중 에이전트 간 업무 충돌 방지 워크플로, 사내 데이터 유출 및 환각 차단 4단계 내부 감사표, 에이전트 도입 부서의 인시 절감 측정 지표를 제공한다.",
+      "diff": "과업별 에이전트 위임-사람 승인 매트릭스, 다중 에이전트 간 업무 충돌 방지 워크플로, 사내 데이터 유출 및 환각 차단 4단계 내부 감사표, 에이전트 도입 부서의 인시 절감 측정 지표를 제공한다.",
+      "toc": [
+        "1장. 에이전트의 출근: 보조 도구 활용을 넘어 자율 에이전트 팀원을 맞는 관리자의 자세",
+        "2장. 직무 분해와 권한선: 에이전트에 일임할 반복 과업과 팀장이 쥘 최종 결재선",
+        "3장. 충돌과 중복 정리: 사람 팀원과 AI 에이전트 사이의 워크플로 재설계",
+        "4장. 보안과 오작동 감사: 사내 기밀 유출과 환각 산출물을 차단하는 4단계 필터링",
+        "5장. 생산성 측정과 재배치: 투입 비용 대비 팀 산출량 입증과 인력 운영 재설계"
+      ],
+      "searchQueries": [
+        "AI 에이전트 팀 관리",
+        "업무 재설계 템플릿"
+      ],
+      "bookworthiness": {
+        "durability": "AI 에이전트의 현장 보급이 확대될수록 부서 단위 업무 분장과 관리 책임 체계의 수요는 구조적으로 증가한다.",
+        "repeatNeed": "새로운 에이전트 도입, 부서 개편, 분기별 인력 재배치 때마다 재참조되는 관리자용 지침서다.",
+        "expansionPotential": "개발·마케팅·경영지원 등 부서별 실제 에이전트 도입 시나리오와 승인 서식을 보강해 240쪽 규모로 안정적인 집필이 가능하다.",
+        "productDependency": "중간"
+      },
+      "authors": [
+        {
+          "name": "이재은",
+          "career": "《현대 한국 사회와 정부 조직 관리》 저자 · 충북대학교출판부",
+          "why": "YES24에서 이 기획과 인접한 주제의 《현대 한국 사회와 정부 조직 관리》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/92563073",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김윤권",
+          "career": "《정부 조직관리의 자율성과 책임성에 관한 연구 : 정부기관법인화.특별지방행정기관.책임운영기관을 중심으로》 저자 · 한국행정연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《정부 조직관리의 자율성과 책임성에 관한 연구 : 정부기관법인화.특별지방행정기관.책임운영기관을 중심으로》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/140373033",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "강영주",
+          "career": "《지방자치단체 조직관리 책임성 확보 수단 설계에 관한 연구》 저자 · 한국지방행정연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《지방자치단체 조직관리 책임성 확보 수단 설계에 관한 연구》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/126830349",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "이재은",
+      "bestAuthor": "이재은",
+      "authorBrief": "",
+      "headlineCopy": "AI 에이전트를 팀원으로 받기 전, 팀장이 반드시 그어야 할 5가지 업무 경계선",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "실수 없이 판단하고 싶다",
+          "바로 적용할 기준이 필요하다"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "“팀원 한 명 몫을 한다는 AI 에이전트, 팀장은 어떤 결재선을 새로 그어야 하는가?”를 화두로 관리자 포럼과 직장인 타깃 채널에 진입한다.",
+        "trust": "실제 다중 에이전트 시범 도입 기업에서 발생한 업무 병목 사례와 직무 분해 매트릭스 샘플을 선공개해 전문성을 확보한다.",
+        "conversion": "팀장이 즉시 인쇄해 팀 회의에서 활용할 수 있는 ‘AI 에이전트 권한 설정 및 과업 분장 시트’를 도서 구매 혜택으로 제공한다.",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "조직 문화나 회사 규정이 달라 실무에 바로 쓰기 어려울 것이라는 회의감이 결제를 가로막을 수 있다.",
+          "objection": "“대기업이나 IT 스타트업에서나 가능한 이야기 아닌가?”",
+          "solution": "노션, 슬랙, 사내 이메일 등 보편적 협업 툴 환경에서 즉시 적용 가능한 '권한 승인 3단계 기본형'을 제시해 범용성을 증명한다."
+        },
+        "positioning": "기술 트렌드서가 아닌 중간관리자를 위한 AI 조직 관리·인사 분장 실무서"
+      },
+      "devilsEditor": {
+        "failureReason": "특정 에이전트 소프트웨어의 설정 매뉴얼로 흐르거나, 원론적인 인사 조직 관리 이론에 머물러 현장성이 퇴색할 위험",
+        "fix": "소프트웨어 종속적 설명을 배제하고, 표준 업무 프로세스(입력-검토-승인-출력) 기반의 '관리자 통제 프로토콜'로 체계를 정형화한다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 96,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 94,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "기업마다 보안 가이드라인과 결재 시스템이 달라 일률적인 업무 분장 모델을 적용하기 어려울 위험",
+      "riskResponse": "클라우드 SaaS 기반 환경과 사내 폐쇄망 환경의 2가지 경로별 보안 승인 매트릭스를 병렬 수록해 기업 환경에 맞춰 선택하게 한다.",
+      "judgment": "에이전트 기술 기능 소개를 배제하고 팀장이 내일 당장 팀원과 에이전트의 R&R을 재정의할 수 있는 조직 운영서로 완성해야 시장에 안착한다.",
+      "evidence": [
+        {
+          "text": "현대 한국 사회와 정부 조직 관리 — 이재은 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/92563073"
+        },
+        {
+          "text": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시 - AI타임스",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90d2xnSno5VXVadExiWnJBQV9GSXlUR24xcDBkYW12TnI5RVFlVTFXQTZGVkJ2TFN4dms2bkRnTFVIcjFqNkV2V3hmTWxrT0poRHBVdWNsdXdTWnNrTi1CWEYxYko3dXBMMFE?oc=5"
+        },
+        {
+          "text": "정부 조직관리의 자율성과 책임성에 관한 연구 : 정부기관법인화.특별지방행정기관.책임운영기관을 중심으로 — 김윤권 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/140373033"
+        },
+        {
+          "text": "지방자치단체 조직관리 책임성 확보 수단 설계에 관한 연구 — 강영주,김지수,박해육 공저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/126830349"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 1,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "현대 한국 사회와 정부 조직 관리",
+          "author": "이재은 저",
+          "publisher": "충북대학교출판부",
+          "publicationDate": "20200731",
+          "url": "https://www.yes24.com/product/goods/92563073",
+          "matchedQuery": "조직 관리",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "정부 조직관리의 자율성과 책임성에 관한 연구 : 정부기관법인화.특별지방행정기관.책임운영기관을 중심으로",
+          "author": "김윤권 저",
+          "publisher": "한국행정연구원",
+          "publicationDate": "20121231",
+          "url": "https://www.yes24.com/product/goods/140373033",
+          "matchedQuery": "조직 관리",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "지방자치단체 조직관리 책임성 확보 수단 설계에 관한 연구",
+          "author": "강영주,김지수,박해육 공저",
+          "publisher": "한국지방행정연구원",
+          "publicationDate": "20231231",
+          "url": "https://www.yes24.com/product/goods/126830349",
+          "matchedQuery": "조직 관리",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-10-17T00:02:52.260Z",
+        "queries": [
+          "AI 에이전트 팀 관리",
+          "업무 재설계 템플릿"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 2
+    },
+    {
+      "type": "콘텐츠 제작",
+      "field": "콘텐츠 제작",
+      "title": "AI 글쓰기 인간의 한 끗",
+      "concept": "생성형 AI가 작성한 범용 초안에 인간 고유의 관점과 검증을 더해 상업적 저작권을 확보하고 시장에서 팔리는 콘텐츠로 완성하는 재가공 워크플로",
+      "why": "필리핀 등 주요국 지재권 당국의 판례에서 확인되듯 단순 AI 생성물은 저작권 보호를 받지 못해 상업적 독점력이 사라지는 반면, 시장에는 천편일률적인 AI 글이 범람하여 인간 고유의 편집과 재가공 역량이 수익화의 결정적 차별점이 되었기 때문이다.",
+      "competition": "《AI 글쓰기로 수익 1000만원 만들기》 등 기존 서적은 단순 프롬프트 입력과 부업 파이프라인 개설 등 툴 조작을 통한 대량 생산에 머물러, 저작권 분쟁을 피하고 독자의 실구매를 이끌어내는 고품질 재가공 기준을 제시하지 못한다.",
+      "reader": "AI로 초안을 생성해 블로그·출판·뉴스레터·홍보 글을 쓰지만, 내용이 평이하고 전환율이 낮아 상업적 성과를 내지 못하는 1인 크리에이터 및 마케터",
+      "readerNeed": "AI가 쓴 티가 나는 납작한 문장을 걷어내고, 내 이름으로 독점 저작권을 주장할 수 있는 팔리는 콘텐츠를 만들고 싶다.",
+      "marketGap": "프롬프트 모음집이나 부업 수익 인증서는 넘쳐나지만, 법적 저작권 인정 기준인 '인간의 창작적 개입'을 충족시키며 글의 단가를 3배로 끌어올리는 구체적인 리라이팅 프로토콜이 시장에 없다.",
+      "differentiation": "AI 초안 판별 및 클리셰 제거 5단계 워크시트, 법적 저작권 인정 요건을 충족하는 인간 창작성 부여 매트릭스, 독자 반응률을 높이는 도입부·결론 재구성 템플릿, 단가별 상업 콘텐츠 재가공 체크리스트를 제공한다.",
+      "diff": "AI 초안 판별 및 클리셰 제거 5단계 워크시트, 법적 저작권 인정 요건을 충족하는 인간 창작성 부여 매트릭스, 독자 반응률을 높이는 도입부·결론 재구성 템플릿, 단가별 상업 콘텐츠 재가공 체크리스트를 제공한다.",
+      "toc": [
+        "1장. AI 글의 한계: 저작권 미인정 리스크와 읽히지 않는 양산형 콘텐츠의 함정",
+        "2장. 뼈대 세우기: AI에게 리서치를 위임하고 글의 고유 관점을 세우는 질문 설계",
+        "3장. 문장 갈고닦기: 기계적 어투와 뻔한 클리셰를 걷어내는 5단계 리라이팅",
+        "4장. 저작권과 독점력: 인간의 창작성을 입증하는 데이터 결합과 경험 서사 배치법",
+        "5장. 시장 검증과 수익화: 무료 정보와 차별화되는 고단가 유료 콘텐츠 패키징"
+      ],
+      "searchQueries": [
+        "AI 콘텐츠 차별화",
+        "AI 글쓰기 수익화"
+      ],
+      "bookworthiness": {
+        "durability": "AI 생성 텍스트의 범람 속에서 상업적 저작권 보호와 차별화된 품질 검증에 대한 필요성은 구조적으로 장기화된다.",
+        "repeatNeed": "원고 집필, 상세페이지 작성, 칼럼 기고 등 새로운 콘텐츠 프로젝트를 착수할 때마다 반복 참조된다.",
+        "expansionPotential": "블로그 글, 전자책, 사내 기획서, 뉴스레터 등 포맷별 리라이팅 전후 비교 사례를 집대성해 210쪽 분량으로 완성 가능하다.",
+        "productDependency": "낮음"
+      },
+      "authors": [
+        {
+          "name": "장세훈",
+          "career": "《AI 글쓰기로 수익 1000만원 만들기》 저자 · 클레버니스",
+          "why": "YES24에서 이 기획과 인접한 주제의 《AI 글쓰기로 수익 1000만원 만들기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/128182621",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "한국콘텐츠미디어",
+          "career": "《2027 악기점 주소록 CD》 저자 · 한국콘텐츠미디어",
+          "why": "YES24에서 이 기획과 인접한 주제의 《2027 악기점 주소록 CD》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/198406129",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김남훈",
+          "career": "《AI 광고 콘텐츠 제작법》 저자 · 이은북",
+          "why": "YES24에서 이 기획과 인접한 주제의 《AI 광고 콘텐츠 제작법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/195827551",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "장세훈",
+      "bestAuthor": "장세훈",
+      "authorBrief": "",
+      "headlineCopy": "AI가 써준 초안에 당신만의 한 끗을 더하지 못하면, 그 글은 단 10원도 벌지 못한다",
+      "marketingStrategy": {
+        "sampleBreadth": "넓음",
+        "coreDesires": [
+          "콘텐츠 차별화",
+          "수익 증대"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "“AI가 쓴 글은 왜 끝까지 읽히지 않고 수익도 안 날까?”라는 직관적 문제 제기로 크리에이터 및 프리랜서 커뮤니티를 유입시킨다.",
+        "trust": "동일한 AI 초안이 인간의 5단계 재가공을 거쳐 실제 유료 판매 및 저작권 등록 요건을 갖춘 원고로 탈바꿈하는 '비포&애프터' 교정본을 선공개한다.",
+        "conversion": "도서 구매자에게 AI 클리셰 문장 자동 교정표와 ‘팔리는 오리지널 콘텐츠 재가공 7대 체크리스트’ PDF를 즉시 제공한다.",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "AI가 발전하면 결국 인간의 손길도 필요 없어질 것이라는 기술 환상이 독자의 구매 결정을 방해할 수 있다.",
+          "objection": "“다음 버전 AI 모델이 나오면 이런 편집 노하우도 다 쓸모없어지는 것 아닌가?”",
+          "solution": "필리핀 지재권 판례 등 실제 법적 기준을 제시하며, AI 모델이 고도화될수록 법적 저작권과 브랜드 가치를 획득하는 유일한 열쇠는 '인간의 관점 개입'임을 명확히 논증한다."
+        },
+        "positioning": "프롬프트 기술서가 아닌 상업적 저작권과 고단가 판매를 보장하는 콘텐츠 리라이팅 지침서"
+      },
+      "devilsEditor": {
+        "failureReason": "일반적인 문장 교정론이나 뜬구름 잡는 에세이 작법서로 흘러가 실질적인 비즈니스 효용을 주지 못할 위험",
+        "fix": "수익화 플랫폼(블로그, 크몽, 전자책, 뉴스레터)의 실제 상업적 가치 평가 기준과 직결된 '재가공 산출물 규격' 중심으로 서술을 집중한다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 96,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 94,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "검색 엔진 및 플랫폼의 AI 생성 콘텐츠 필터링 알고리즘이 급변해 단순 노출 공식이 흔들릴 위험",
+      "riskResponse": "플랫폼 알고리즘 우회 꼼수가 아니라, 독자가 끝까지 읽고 비용을 지불하게 만드는 심층 데이터 결합과 고유 경험 서사 중심의 정공법을 일관되게 제시한다.",
+      "judgment": "단순한 부업 장려서가 아니라, 양산형 AI 글 속에서 법적 권리와 상업적 단가를 확보하는 '콘텐츠 품질 재가공 매뉴얼'로 완성해야 실구매 독층을 장악할 수 있다.",
+      "evidence": [
+        {
+          "text": "AI 글쓰기로 수익 1000만원 만들기 — 장세훈 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/128182621"
+        },
+        {
+          "text": "“AI가 만들었다고 저작권 없다?”... 필리핀, 인간 창작성이 기준 - 특허뉴스",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQjJFa0hmRVVENzZELV9LVlo1Q0xZR2Q0SmlpZDhwUkI5aE9WLUM5NEFvWF94ZzJEV1l6SDNFR0ROM1JhOC01Uw?oc=5"
+        },
+        {
+          "text": "2027 악기점 주소록 CD — 한국콘텐츠미디어 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/198406129"
+        },
+        {
+          "text": "2027 전국 공연장 주소록 CD — 한국콘텐츠미디어 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/198405656"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "AI 글쓰기로 수익 1000만원 만들기",
+          "author": "장세훈 저",
+          "publisher": "클레버니스",
+          "publicationDate": "20240701",
+          "url": "https://www.yes24.com/product/goods/128182621",
+          "matchedQuery": "AI 글쓰기 수익화",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "2027 악기점 주소록 CD",
+          "author": "한국콘텐츠미디어 저",
+          "publisher": "한국콘텐츠미디어",
           "publicationDate": "20261015",
-          "url": "https://www.yes24.com/product/goods/198007301",
-          "matchedQuery": "AI 마케팅 자동화",
+          "url": "https://www.yes24.com/product/goods/198406129",
+          "matchedQuery": "콘텐츠 제작",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "챗대리의 따라하면 바로 되는 AI 마케팅 자동화",
-          "author": "챗대리(박진주) 저",
-          "publisher": "로드북",
-          "publicationDate": "20250310",
-          "url": "https://www.yes24.com/product/goods/143053307",
-          "matchedQuery": "AI 마케팅 자동화",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI를 직원처럼 쓰는 마케팅 자동화 시스템",
-          "author": "이종구,이정화,김회균,손정화 저",
-          "publisher": "디지털콘텐츠그룹",
-          "publicationDate": "20260514",
-          "url": "https://www.yes24.com/product/goods/189378838",
-          "matchedQuery": "AI 마케팅 자동화",
+          "title": "2027 전국 공연장 주소록 CD",
+          "author": "한국콘텐츠미디어 저",
+          "publisher": "한국콘텐츠미디어",
+          "publicationDate": "20261016",
+          "url": "https://www.yes24.com/product/goods/198405656",
+          "matchedQuery": "콘텐츠 제작",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-15T23:43:58.562Z",
+        "updatedAt": "2026-10-17T00:02:55.460Z",
         "queries": [
-          "AI 마케팅 자동화",
-          "마케팅 자동화 솔루션"
+          "AI 콘텐츠 차별화",
+          "AI 글쓰기 수익화"
         ],
         "resultCount": 3,
         "errors": []
@@ -231,1157 +571,8 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-16T00:19:12.368Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "마케터가 끝까지 쥐어야 할 일",
-        "provider": "cloudflare",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "마케터가\n끝까지\n쥐어야 할 일",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "005",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "광고 소재\n생성과 집행이\n자동화된 상황",
-            "body": "마케터는 단순한 집행 업무만 남게 된다",
-            "accent": "yellow",
-            "sceneId": "018",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "하지만 성과\n증명은\n마케터의 책임",
-            "body": "데이터 무결성 검증과 고유 의사결정은 사람이 해야 한다",
-            "accent": "yellow",
-            "sceneId": "021",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "그러나 어떤\n마케터는\n자동화에\n무너진다",
-            "body": "성과 지표와 감사 기준을 확보하지 못한 채",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "그러나\n실무 마케터는\n아니다",
-            "body": "퍼널 단계별 AI 위임 업무 분장표와 알고리즘 왜곡 필터링 지표를 통해 성과를 입증한다",
-            "accent": "yellow",
-            "sceneId": "040",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "마케터는\n단순 툴\n조작자가 아니다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "042",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-40c1c932"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/9311316-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL20547679W",
-          "title": "Infographics",
-          "subtitle": "",
-          "authors": [
-            "Jason Lankow"
-          ],
-          "publisher": "John Wiley & Sons, Inc.",
-          "year": 2012,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 9,
-          "styleScore": 24,
-          "query": "marketing brand technology future",
-          "sourceRevision": "zcr-40c1c932",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
-          "title": "The Slip",
-          "context": "The Slip Lucas Schaefer Jack Smyth",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "title": "Dengue Boy",
-          "context": "Dengue Boy Michel Nieva Rodrigo Corral Studio",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/9311316-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL20547679W",
-          "title": "Infographics",
-          "subtitle": "",
-          "authors": [
-            "Jason Lankow"
-          ],
-          "publisher": "John Wiley & Sons, Inc.",
-          "year": 2012,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 9,
-          "styleScore": 24,
-          "query": "marketing brand technology future",
-          "sourceRevision": "zcr-40c1c932",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Lucas-Schaefer-The-Slip-.jpeg",
-          "title": "The Slip",
-          "context": "The Slip Lucas Schaefer Jack Smyth",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "title": "Dengue Boy",
-          "context": "Dengue Boy Michel Nieva Rodrigo Corral Studio",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-40c1c932",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T09:01:06.933Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "continuity",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "경영",
-      "field": "경영",
-      "title": "팀에 AI 직원이 들어왔다",
-      "concept": "조직 내에 분산 도입되는 AI 에이전트의 업무 위임 범위 설정, 다중 에이전트 간 충돌 방지, 팀 생산성 평가를 위한 관리자 실전 가이드",
-      "why": "제논의 AI 에이전트 통합 포털 '제나'처럼 다중 업무를 처리하는 에이전트 솔루션이 기업에 도입되면서 관리자가 에이전트에게 어떤 권한을 위임하고 기존 직원과의 업무를 어떻게 조율할지 구체적 지침이 없기 때문",
-      "competition": "《AI 에이전트 레볼루션》은 기술 트렌드 개괄에 치중하고 《이글아이 경영》 등은 일반 경영론에 머물러 팀 단위 에이전트 워크플로 통합 관리와 권한 통제법을 제시하지 못한다.",
-      "reader": "팀 내에 AI 에이전트 솔루션이 도입되었으나 업무 분장, 보안 리스크, 성과 측정을 어떻게 조율해야 할지 막막한 중간관리자 및 C레벨",
-      "readerNeed": "AI 에이전트 도입 후 발생하는 부서 간 업무 중복과 오작동 사고를 예방하고 팀 전체의 실질적 산출량을 끌어올리고 싶다.",
-      "marketGap": "AI 에이전트 기술 설명서나 미래 거시 전망서는 많으나 일선 관리자가 AI 에이전트를 실제 부서원으로 편제하고 과업을 배분·감사하는 조직 운영 매뉴얼은 전무하다.",
-      "differentiation": "에이전트 도입 전 직무 분해 템플릿, 다중 에이전트 권한·승인 결재선 설계표, 환각 및 사내 데이터 유출 방지 내부 감사 체크리스트, 에이전트 도입 부서 생산성 측정 지표를 제공한다.",
-      "diff": "에이전트 도입 전 직무 분해 템플릿, 다중 에이전트 권한·승인 결재선 설계표, 환각 및 사내 데이터 유출 방지 내부 감사 체크리스트, 에이전트 도입 부서 생산성 측정 지표를 제공한다.",
-      "toc": [
-        "1장. 에이전트의 출근: 부서별 단일 도구 도입에서 통합 포털 환경으로의 전환",
-        "2장. 직무 분장과 권한 부여: 에이전트에 넘길 실행과 팀장이 쥘 최종 승인선",
-        "3장. 에이전트 간 충돌 방지: 데이터 파이프라인 연결과 부서 간 업무 중복 정리법",
-        "4장. 오류와 보안 감사: 환각 현상 필터링과 내부 기밀 유출 차단 5단계 프로토콜",
-        "5장. 생산성 측정과 재배치: 투입 비용 대비 팀 산출량 평가와 인력 재설계 기준"
-      ],
-      "searchQueries": [
-        "제논의 AI 에이전트 통합 포털",
-        "AI 에이전트 솔루션"
-      ],
-      "bookworthiness": {
-        "durability": "기업의 AI 에이전트 도입 형태가 바뀌어도 조직 내 업무 위임과 최종 책임자 결재선 구축 원리는 장기적으로 유효하다.",
-        "repeatNeed": "새로운 에이전트 도입, 조직 개편, 부서별 R&R 재설정 시마다 관리자의 표준 지침서로 반복 사용된다.",
-        "expansionPotential": "일반 사무직 관리자뿐 아니라 IT 프로젝트 매니저, 공공기관 부서장의 디지털 전환 실무서로 확장 가능하다.",
-        "productDependency": "낮음"
-      },
-      "authors": [
-        {
-          "name": "조성민",
-          "career": "《AI 에이전트 레볼루션》 저자 · 열린인공지능",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 에이전트 레볼루션》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/142704411",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "이병구",
-          "career": "《이글아이 경영》 저자 · Amento",
-          "why": "YES24에서 이 기획과 인접한 주제의 《이글아이 경영》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197288169",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "서정민",
-          "career": "《약국경영학개론》 저자 · 스노우폭스북스P",
-          "why": "YES24에서 이 기획과 인접한 주제의 《약국경영학개론》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/198288852",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "조성민",
-      "bestAuthor": "조성민",
-      "authorBrief": "",
-      "headlineCopy": "AI 에이전트를 채용하기 전, 팀장이 반드시 설계해야 할 5가지 업무 분장선",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "실수 없이 판단하고 싶다",
-          "바로 적용할 기준이 필요하다"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "“우리 팀에 AI 에이전트가 들어왔을 때 팀장은 어떤 결재선을 새로 그어야 하는가?”를 화두로 경영·관리직 타깃 채널을 공략한다.",
-        "trust": "실제 다중 에이전트 도입 기업의 워크플로 혼선 사례와 승인 권한 분리 매트릭스 예시를 선공개해 객관적 설득력을 확보한다.",
-        "conversion": "팀장이 당장 인쇄해 회의실에서 검토할 수 있는 ‘AI 에이전트 권한 설정 및 오작동 감사 체크리스트’를 부록으로 제공한다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "특정 기업의 포털 서비스 팸플릿처럼 보이면 일반 독자의 구매 장벽이 높아질 수 있다.",
-          "objection": "“우리 회사는 특정 통합 포털을 안 쓰는데 도움이 될까?”",
-          "solution": "소프트웨어 종류와 무관하게 모든 에이전트 기반 조직에 적용되는 범용 권한 분장 및 감사 프레임워크임을 목차에서 각인시킨다."
-        },
-        "positioning": "기술 개발서가 아닌 AI 에이전트 시대를 통솔하는 팀장의 워크플로 관리 매뉴얼"
-      },
-      "devilsEditor": {
-        "failureReason": "특정 에이전트 포털 솔루션의 기능 나열에 그쳐 제품 종속적인 도서로 전락할 위험",
-        "fix": "특정 제품 기능을 완전히 걷어내고 슬랙, 노션, ERP 등 표준 업무 환경에 적용 가능한 '에이전트 권한 관리 및 감사 프로토콜'로 프레임을 표준화한다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 94,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "기업마다 보안 규정과 IT 인프라 환경이 달라 일률적인 에이전트 가이드라인 적용이 어려울 위험",
-      "riskResponse": "클라우드 SaaS 환경과 사내 폐쇄망 온프레미스 환경의 2가지 경로별 권한 관리 매트릭스를 병렬 수록해 적용성을 높인다.",
-      "judgment": "에이전트 기술 찬양이 아니라 팀장이 당장 팀원과 에이전트 사이의 업무 분장표를 고칠 수 있는 조직 관리 실무서로 완성해야 시장에 안착한다.",
-      "evidence": [
-        {
-          "text": "AI 에이전트 레볼루션 — 조성민 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/142704411"
-        },
-        {
-          "text": "제논, AI 에이전트 통합 포털 ‘제나’ 정식 출시...모바일 서비스 확대 - 헬로티",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NZjNXdEh2Z0VvMGwyNGVWTy16QlVNV2xNbVpRRGxXRDJFbVRaTVY3b0kxb0VlT0ZBa2tvelppZnhzTW1ubmhNb2NCaEJLUl9IdWRpV3NSQnJNVEd6YzlR?oc=5"
-        },
-        {
-          "text": "AI고객센터 운영 매니저 수험서 — 한국CS경영아카데미 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/198216386"
-        },
-        {
-          "text": "이글아이 경영 — 이병구 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197288169"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "AI 에이전트 레볼루션",
-          "author": "조성민 저",
-          "publisher": "열린인공지능",
-          "publicationDate": "20250215",
-          "url": "https://www.yes24.com/product/goods/142704411",
-          "matchedQuery": "AI 에이전트 솔루션",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI고객센터 운영 매니저 수험서",
-          "author": "한국CS경영아카데미 저",
-          "publisher": "더문",
-          "publicationDate": "20261022",
-          "url": "https://www.yes24.com/product/goods/198216386",
-          "matchedQuery": "경영",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "이글아이 경영",
-          "author": "이병구 저",
-          "publisher": "Amento",
-          "publicationDate": "20261021",
-          "url": "https://www.yes24.com/product/goods/197288169",
-          "matchedQuery": "경영",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-15T23:44:02.427Z",
-        "queries": [
-          "제논의 AI 에이전트 통합 포털",
-          "AI 에이전트 솔루션"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-16T09:01:02.407Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "팀에 AI 직원이 들어왔다",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "채용하기 전, 팀장이 반드시 설계해야 할 5가지 업무 분장선.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "002",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "오작동 사고를 예방하고 팀 전체의 실질적 산출량을 끌어올리고 싶다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "018",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "에이전트 간 충돌 방지, 팀 생산성 평가를 위한 관리자 실전 가이드.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "기존 직원과의 업무를 어떻게 조율할지 구체적 지침이 없기 때문.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "감사 체크리스트, 에이전트 도입 부서 생산성 측정 지표를 제공한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "036",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "포털 솔루션의 기능 나열에 그쳐 제품 종속적인 로 전락할 위험.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "050",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "sourceRevision": "zcr-40c1c932"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
-          "title": "I Deliver Parcels in Beijing",
-          "context": "I Deliver Parcels in Beijing Hu Anyan Rodrigo Corral",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/Perfection-by-Vincenzo-Latronico-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/Perfection-by-Vincenzo-Latronico-copy.jpg",
-          "title": "Perfection",
-          "context": "Perfection Vincenzo Latronico Katy Homans",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/9781662603044.jpg",
-          "title": "I Deliver Parcels in Beijing",
-          "context": "I Deliver Parcels in Beijing Hu Anyan Rodrigo Corral",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/Perfection-by-Vincenzo-Latronico-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/Perfection-by-Vincenzo-Latronico-copy.jpg",
-          "title": "Perfection",
-          "context": "Perfection Vincenzo Latronico Katy Homans",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-40c1c932",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T09:01:12.167Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "qualityTier": "continuity",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "교육",
-      "field": "교육",
-      "title": "내 업무를 AI와 나누는 법",
-      "concept": "막연한 프롬프트 공부를 넘어 일상 업무를 작업 단위로 해체해 AI 위임 영역과 인간 책임 영역을 재설계하는 직무 재설계 실전서",
-      "why": "AI 도입 압박은 거세지지만 직장인들은 여전히 단순 질문 생성 수준에 머물러 있어 실제 내 직무를 작업 단위로 쪼개 살아남는 핵심 역량을 증명해야 하는 위기감이 고조되었기 때문",
-      "competition": "《AI와 저자성 그리고 문학 교육》이나 《AI시대, 인문학에 미래교육을묻다》는 담론적 성찰에 치중해 실무 직장인의 일일 업무 재설계에 답을 주지 못하며 기존 프롬프트 교재는 단편적 명령어 암기에 머문다.",
-      "reader": "회사에서 AI를 쓰라고 독려하지만 단순 프롬프트 강의만 맴돌다 정작 내 고유 업무가 축소될까 불안한 3~10년 차 사무직 직장인",
-      "readerNeed": "두루뭉술한 AI 트렌드 강의 대신 하루 업무 시간표를 뜯어고쳐 AI에 넘길 단순 작업과 내가 끝까지 책임질 부가가치 업무를 분리하고 싶다.",
-      "marketGap": "AI 교양서와 프롬프트 명령어 모음집 사이에서 일하는 개인이 자기 직무 기술서를 직접 분해하고 'AI 협업형 직무'로 재정의하는 커리어 실천 지침서가 비어 있다.",
-      "differentiation": "업무 시간표 기반 4사분면 과업 분해 시트, AI 초안 생성 프로토콜, 인간의 직관과 판단이 개입하는 팩트체크 워크시트, C레벨 보고용 AI 활용 업무 성과 포트폴리오 양식을 제공한다.",
-      "diff": "업무 시간표 기반 4사분면 과업 분해 시트, AI 초안 생성 프로토콜, 인간의 직관과 판단이 개입하는 팩트체크 워크시트, C레벨 보고용 AI 활용 업무 성과 포트폴리오 양식을 제공한다.",
-      "toc": [
-        "1장. AI 불안의 실체: 툴 공부를 멈추고 내 하루 업무 일지를 뜯어봐야 하는 이유",
-        "2장. 과업 해체 4사분면: AI 위임, 협업, 검증, 독점 업무로 쪼개는 직무 분해법",
-        "3장. 초안과 완성 사이: AI의 빠른 산출물을 내 전문성으로 다듬는 편집 프로토콜",
-        "4장. 맥락적 판단의 영역: 사내 정치, 다자간 조율, 최종 책임 등 AI가 못 푸는 일",
-        "5장. 대체 불가능한 포트폴리오: AI를 도구로 부려 내 생산성을 숫자로 증명하는 법"
-      ],
-      "searchQueries": [
-        "AI 교육",
-        "교육 솔루션"
-      ],
-      "bookworthiness": {
-        "durability": "AI 모델이 업그레이드되더라도 직장인이 자기 업무의 책임과 권한을 구조화하는 직무 설계 역량은 지속적으로 유효하다.",
-        "repeatNeed": "연간 업무 평가, 이직 준비, 신규 프로젝트 투입 시마다 업무 분해와 성과 포트폴리오 정리를 위해 반복 참조된다.",
-        "expansionPotential": "기획, 인사, 마케팅, 재무 등 다양한 사무 직군별 맞춤형 워크북 및 사내 교육 교재로 확장이 용이하다.",
-        "productDependency": "낮음"
-      },
-      "authors": [
-        {
-          "name": "강채희",
-          "career": "《AI와 저자성 그리고 문학 교육 (큰글자책)》 저자 · 커뮤니케이션북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI와 저자성 그리고 문학 교육 (큰글자책)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197993209",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김춘식",
-          "career": "《AI시대, 인문학에 미래교육을 묻다》 저자 · 소명출판",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI시대, 인문학에 미래교육을 묻다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197977393",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김경희 편저",
-          "career": "《AI 미디어교육 수업》 저자 · 커뮤니케이션북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 미디어교육 수업》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/197315180",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "강채희",
-      "bestAuthor": "강채희",
-      "authorBrief": "",
-      "headlineCopy": "프롬프트 학원에 돈 쓰지 마라: 내 일상 업무를 쪼개 AI를 부하직원으로 만드는 직무 재설계",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "실수 없이 판단하고 싶다",
-          "바로 적용할 기준이 필요하다"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "“회사에서 AI를 쓰라는데, 도대체 내 업무의 어디까지 넘겨야 내 자리가 안전할까?”라는 직장인 핵심 불안을 직격한다.",
-        "trust": "사무 직군별 실제 직무 기술서(JD) 분해 전후 비교표와 AI 도입 후 업무 시간 단축 데이터 샘플을 제시한다.",
-        "conversion": "직접 채워 넣으며 내 업무를 재분류할 수 있는 ‘AI 협업형 직무 재설계 워크시트 PDF 및 성과 포트폴리오 양식’을 제공한다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "흔한 시간 관리법이나 뻔한 자기계발서의 동기부여로 오인되면 구매 결정을 망설이게 된다.",
-          "objection": "“결국 프롬프트 잘 쓰라는 뻔한 자기계발 이야기 아닌가?”",
-          "solution": "프롬프트 명령어가 아닌 실제 업무 프로세스를 해체하고 재배치하는 워크북 중심 원고임을 상세페이지에서 입증한다."
-        },
-        "positioning": "프롬프트 교재가 아닌 직장인의 대체 불가능한 커리어를 설계하는 직무 재설계 워크북"
-      },
-      "devilsEditor": {
-        "failureReason": "일반적인 시간 관리론에 챗GPT 예시 몇 개를 얹은 수준으로 전락해 실무 활용도가 떨어질 위험",
-        "fix": "기획·인사·재무 등 주요 사무 직군별 실제 업무 프로세스 분해 전후 사례와 즉시 채워 쓰는 워크시트 비중을 50% 이상으로 유지한다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 94,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "생성형 AI 모델의 자율 추론 능력이 급격히 발전해 인간의 판단 영역으로 정의한 과업까지 빠르게 흡수될 위험",
-      "riskResponse": "지식 조합 작업을 넘어 사내 이해관계 조정, 최종 의사결정 책임, 비정형적 리스크 방어 등 알고리즘이 대체할 수 없는 '맥락적 책임' 영역을 집중 강화한다.",
-      "judgment": "흔한 AI 프롬프트 모음집이나 미래 일자리 교양서가 아니라 직장인이 책상 위에 펼쳐두고 업무 분장표를 다시 쓰는 커리어 워크북으로 완성해야 지갑을 연다.",
-      "evidence": [
-        {
-          "text": "AI와 저자성 그리고 문학 교육 (큰글자책) — 강채희 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197993209"
-        },
-        {
-          "text": "제논, AI 에이전트 통합 포털 ‘제나’ 정식 출시...모바일 서비스 확대 - 헬로티",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NZjNXdEh2Z0VvMGwyNGVWTy16QlVNV2xNbVpRRGxXRDJFbVRaTVY3b0kxb0VlT0ZBa2tvelppZnhzTW1ubmhNb2NCaEJLUl9IdWRpV3NSQnJNVEd6YzlR?oc=5"
-        },
-        {
-          "text": "AI와 저자성 그리고 문학 교육 — 강채희 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197993208"
-        },
-        {
-          "text": "AI시대, 인문학에 미래교육을 묻다 — 김춘식 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/197977393"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 8,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "AI와 저자성 그리고 문학 교육 (큰글자책)",
-          "author": "강채희 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20261019",
-          "url": "https://www.yes24.com/product/goods/197993209",
-          "matchedQuery": "AI 교육",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI와 저자성 그리고 문학 교육",
-          "author": "강채희 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20261019",
-          "url": "https://www.yes24.com/product/goods/197993208",
-          "matchedQuery": "AI 교육",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI시대, 인문학에 미래교육을 묻다",
-          "author": "김춘식 저",
-          "publisher": "소명출판",
-          "publicationDate": "20261030",
-          "url": "https://www.yes24.com/product/goods/197977393",
-          "matchedQuery": "AI 교육",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-15T23:44:03.114Z",
-        "queries": [
-          "AI 교육",
-          "교육 솔루션"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-16T00:19:15.177Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "내 업무를 AI와 나누는 법",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "AI와 업무를 나누지 않으면\n일은 사라진다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "010",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "프롬프트만 만들고 결과를 검증 못한다면 불안이 쌓인다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "027",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "시간표를 그대로 쓰고, 반복 작업에 매달리고, 성과가 눈에 안 보인다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "024",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "그건 AI가 당신을 대신한다는 착각이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "즉시 업무를 4사분면으로 나눠, AI와 인간 역할을 재배치하라",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "037",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "AI는 도구, 주인공은 당신이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "049",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-40c1c932"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/14590086-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL19754487W",
-          "title": "Robot-proof",
-          "subtitle": "",
-          "authors": [
-            "Joseph E. Aoun"
-          ],
-          "publisher": "MIT Press",
-          "year": 2017,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 16.6,
-          "styleScore": 24,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-40c1c932",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
-          "title": "Audition",
-          "context": "Audition Katie Kitamura Lauren Peters-Collaer",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "title": "Sea, Poison",
-          "context": "Sea, Poison Caren Beilin Jamie Keenan",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/14590086-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL19754487W",
-          "title": "Robot-proof",
-          "subtitle": "",
-          "authors": [
-            "Joseph E. Aoun"
-          ],
-          "publisher": "MIT Press",
-          "year": 2017,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 16.6,
-          "styleScore": 24,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-40c1c932",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Katie-Kitamura-Audition-copy.jpg",
-          "title": "Audition",
-          "context": "Audition Katie Kitamura Lauren Peters-Collaer",
-          "styleScore": 100,
-          "role": "typography",
-          "reason": "타이포 참고 · 대형 제목과 여백 활용",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/12/sea-poison-copy.jpg",
-          "title": "Sea, Poison",
-          "context": "Sea, Poison Caren Beilin Jamie Keenan",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-40c1c932",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-40c1c932",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-16T09:01:15.575Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "qualityTier": "continuity",
-        "diagnostics": {}
-      }
+      "rank": 3
     }
   ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261016-ffa1261f",
-    "file": "cardnews/2026-10-16.json",
-    "cardCount": 6
-  },
   "fallback": true
 }
