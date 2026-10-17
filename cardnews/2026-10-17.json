@@ -9,13 +9,13 @@
     "팀장의 AI 부하직원",
     "AI 글쓰기 인간의 한 끗"
   ],
-  "provider": "partial-mixed",
-  "generatedAt": "2026-10-17T00:19:17.937Z",
+  "provider": "mixed:cloudflare+held",
+  "generatedAt": "2026-10-17T00:26:14.141Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-17T00:18:44.291Z",
+      "generatedAt": "2026-10-17T00:26:14.141Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,76 +40,76 @@
         ]
       },
       "bookTitle": "마케터의 결재선",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
+      "provider": "cloudflare",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "궁금증",
-          "headline": "다 돌리는 시대, 마케터는 무엇으로 자신의 몸값을 결재받을 것인가.",
+          "headline": "AI 광고 자동화\n솔루션이 정말\n신의 한 수일까",
           "body": "",
           "accent": "yellow",
           "sceneId": "005",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "현상",
-          "headline": "내 직무 기여도와 예산 효율성을 설득력 있게 입증하고 싶다.",
-          "body": "",
+          "headline": "광고 성과가\n의외로 허상일 때",
+          "body": "집행과 카피 생성이 자동화된 후에도 성과가 예상과 다를 때",
           "accent": "yellow",
           "sceneId": "012",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "analysis",
           "beat": "원리",
-          "headline": "검증하고 C레벨 보고용 성과 지표를 방어하는 품질 감사 매뉴얼.",
-          "body": "",
+          "headline": "그 이유는\n데이터 무결성에 있다",
+          "body": "AI 산출물의 데이터 무결성을 검증하지 않으면 허수 트래픽으로 인해 성과가 왜곡될 수 있다",
           "accent": "yellow",
           "sceneId": "011",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "설명",
-          "headline": "커져 실무자의 검증 권한과 성과 증명이 생존 과제가 되었기 때문이다.",
+          "headline": "데이터 무결성을\n검증하는 방법은?",
           "body": "",
           "accent": "yellow",
           "sceneId": "020",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "통찰",
-          "headline": "7단계 검수표, C레벨 보고용 성과 증명 보고서 서식을 제공한다.",
+          "headline": "실무 마케터의\n품질 감사 매뉴얼",
           "body": "",
           "accent": "yellow",
           "sceneId": "034",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "핵심 메시지",
-          "headline": "일시적인 툴 기능 해설로 흘러가 1년 내 내용이 진부해질 위험.",
+          "headline": "AI 광고 자동화\n솔루션의 품질을\n검증하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "046",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
       "sourceRevision": "zcr-d09884d3"
