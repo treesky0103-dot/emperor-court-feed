@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오전 04:08:11",
+  "updatedAt": "2026. 10. 18. 오전 06:26:31",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -316,6 +316,18 @@
     "technology": {
       "items": [
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257",
+          "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-17",
+          "dateRaw": "2026-10-17T21:16:00Z",
+          "publishedAt": "2026-10-17T21:16:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.etnews.com/20261016000271",
           "title": "한국투자증권, '베슬 AI'와 GPU 파이낸싱 업무협약 체결",
           "source": "etnews.com",
@@ -382,18 +394,6 @@
           "url": "https://www.etoday.co.kr/news/view/2636656"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257",
-          "title": "반도체 장비도 직접 만든다는 中…핵심 부품 \"국산화율 90%\"",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:01:00Z",
-          "publishedAt": "2026-10-15T10:01:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05566166645613248&mediaCodeNo=257"
-        },
-        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101706531909508",
           "title": "美 기술주, AI 투자 차입 부담에 약세…나스닥 주간 4.5% 하락",
           "source": "ddaily.co.kr",
@@ -406,16 +406,16 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026101706531909508"
         },
         {
-          "id": "http://inews24.com/view/2016027",
-          "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
+          "id": "http://inews24.com/view/2015871",
+          "title": "AI 사고는 이사회까지 갔는데⋯거버넌스 바꾼 기업은 40%",
           "source": "inews24.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T14:02:00Z",
-          "publishedAt": "2026-10-16T14:02:00Z",
+          "date": "2026-10-17",
+          "dateRaw": "2026-10-17T21:16:00Z",
+          "publishedAt": "2026-10-17T21:16:00Z",
           "summary": "",
-          "url": "http://inews24.com/view/2016027"
+          "url": "http://inews24.com/view/2015871"
         },
         {
           "id": "http://www.koreatimes.com/article/20261015/1634023",
@@ -445,7 +445,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 9
         },
         {
           "word": "GPU",
@@ -456,12 +456,12 @@
           "count": 2
         },
         {
-          "word": "바이오",
+          "word": "제조",
           "count": 2
         },
         {
-          "word": "제조",
-          "count": 2
+          "word": "바이오",
+          "count": 1
         },
         {
           "word": "반도체",
@@ -916,9 +916,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 2000,
-    "fetchedItems": 3252,
-    "feedBytes": 919002,
+    "poolSize": 1969,
+    "fetchedItems": 2841,
+    "feedBytes": 804336,
     "rollingWindowHours": 72
   }
 }

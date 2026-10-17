@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오전 04:08:06",
+  "updatedAt": "2026. 10. 18. 오전 06:26:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 481,
-    "passed": 50,
-    "deduped": 50,
-    "eventDeduped": 50,
+    "raw": 453,
+    "passed": 56,
+    "deduped": 56,
+    "eventDeduped": 56,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -18,16 +18,28 @@
   },
   "items": [
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01774486645613904&mediaCodeNo=257",
-      "title": "몸값 높아진 원화, 환율 안정세 지속할까",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257",
+      "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
       "source": "edaily.co.kr",
       "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:16:00Z",
-      "publishedAt": "2026-10-17T01:16:00Z",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
       "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01774486645613904&mediaCodeNo=257"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.tribuneindia.com/news/world/zelenskyy-hints-at-potential-meeting-with-putin-in-us-during-g20-summit-as-trump-waives-russian-oil-tariffs/",
+      "title": "Zelenskyy hints at potential meeting with Putin in US during G20 summit as Trump waives Russian Oil tariffs - The Tribune",
+      "source": "tribuneindia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.tribuneindia.com/news/world/zelenskyy-hints-at-potential-meeting-with-putin-in-us-during-g20-summit-as-trump-waives-russian-oil-tariffs/"
     },
     {
       "id": "https://www.thehindu.com/news/national/andhra-pradesh/50000-crore-sanctioned-for-infrastructure-development-in-andhra-pradesh-narayana/article71584394.ece",
@@ -54,28 +66,16 @@
       "url": "https://www.newindianexpress.com/world/2026/Oct/17/trump-waives-russia-related-tariffs-offering-india-relief-on-oil-imports"
     },
     {
-      "id": "http://www.indiagazette.com/news/279381338/trump-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure",
-      "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
-      "source": "indiagazette.com",
-      "language": "English",
+      "id": "https://www.voakorea.com/a/8212336.html",
+      "title": "트럼프, 러시아 관련 제재·관세 유예…법안 발효 앞두고 행정명령",
+      "source": "voakorea.com",
+      "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T19:02:00Z",
-      "publishedAt": "2026-10-17T19:02:00Z",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
       "summary": "",
-      "url": "http://www.indiagazette.com/news/279381338/trump-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure"
-    },
-    {
-      "id": "https://ktul.com/news/nation-world/trump-waives-most-russia-sanctions-and-tariffs-days-before-they-were-to-take-effect",
-      "title": "Trump waives most Russia sanctions and tariffs days before they were to take effect",
-      "source": "ktul.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T19:02:00Z",
-      "publishedAt": "2026-10-17T19:02:00Z",
-      "summary": "",
-      "url": "https://ktul.com/news/nation-world/trump-waives-most-russia-sanctions-and-tariffs-days-before-they-were-to-take-effect"
+      "url": "https://www.voakorea.com/a/8212336.html"
     },
     {
       "id": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha",
@@ -114,6 +114,18 @@
       "url": "https://www.hani.co.kr/arti/society/society_general/1282855.html"
     },
     {
+      "id": "https://www.legallyindia.com/private-equity-vc/amarchand-jsa-milk-275m-groupe-lactalis-fdi-for-indian-tirumala-20140109-4230/",
+      "title": "Amarchand, JSA get milk in $275m Groupe Lactalis FDI from Carlyle",
+      "source": "legallyindia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.legallyindia.com/private-equity-vc/amarchand-jsa-milk-275m-groupe-lactalis-fdi-for-indian-tirumala-20140109-4230/"
+    },
+    {
       "id": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga",
       "title": "World Bank plans to expand critical minerals business fivefold in five years, says World Bank President Ajay Banga",
       "source": "northkoreatimes.com",
@@ -124,21 +136,33 @@
       "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
       "url": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga"
-    },
-    {
-      "id": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/",
-      "title": "World Bank Critical Minerals Goal: Fivefold Growth in Five Years",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T16:47:00Z",
-      "publishedAt": "2026-10-17T16:47:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257",
+      "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01121766645614232&mediaCodeNo=257",
+      "title": "연속 인상한 기준금리, 이번엔 쉬어가나…10월 금통위 주목[한은 미리보기]",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01121766645614232&mediaCodeNo=257"
+    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01774486645613904&mediaCodeNo=257",
       "title": "몸값 높아진 원화, 환율 안정세 지속할까",
@@ -150,6 +174,18 @@
       "publishedAt": "2026-10-17T01:16:00Z",
       "summary": "",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01774486645613904&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.tribuneindia.com/news/world/zelenskyy-hints-at-potential-meeting-with-putin-in-us-during-g20-summit-as-trump-waives-russian-oil-tariffs/",
+      "title": "Zelenskyy hints at potential meeting with Putin in US during G20 summit as Trump waives Russian Oil tariffs - The Tribune",
+      "source": "tribuneindia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.tribuneindia.com/news/world/zelenskyy-hints-at-potential-meeting-with-putin-in-us-during-g20-summit-as-trump-waives-russian-oil-tariffs/"
     },
     {
       "id": "https://www.thehindu.com/news/national/andhra-pradesh/50000-crore-sanctioned-for-infrastructure-development-in-andhra-pradesh-narayana/article71584394.ece",
@@ -176,6 +212,42 @@
       "url": "https://www.newindianexpress.com/world/2026/Oct/17/trump-waives-russia-related-tariffs-offering-india-relief-on-oil-imports"
     },
     {
+      "id": "https://www.voakorea.com/a/8212336.html",
+      "title": "트럼프, 러시아 관련 제재·관세 유예…법안 발효 앞두고 행정명령",
+      "source": "voakorea.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.voakorea.com/a/8212336.html"
+    },
+    {
+      "id": "https://krcgtv.com/news/nation-world/trump-waives-most-russia-sanctions-and-tariffs-days-before-they-were-to-take-effect",
+      "title": "Trump waives most Russia sanctions and tariffs days before they were to take effect",
+      "source": "krcgtv.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://krcgtv.com/news/nation-world/trump-waives-most-russia-sanctions-and-tariffs-days-before-they-were-to-take-effect"
+    },
+    {
+      "id": "http://www.caribbeanherald.com/news/279379375/india-diversifying-oil-sources-boosting-refining-capacity-to-strengthen-energy-security-hardeep-puri",
+      "title": "India diversifying oil sources, boosting refining capacity to strengthen energy security: Hardeep Puri",
+      "source": "caribbeanherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "http://www.caribbeanherald.com/news/279379375/india-diversifying-oil-sources-boosting-refining-capacity-to-strengthen-energy-security-hardeep-puri"
+    },
+    {
       "id": "http://www.indiagazette.com/news/279381338/trump-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure",
       "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
       "source": "indiagazette.com",
@@ -186,18 +258,6 @@
       "publishedAt": "2026-10-17T19:02:00Z",
       "summary": "",
       "url": "http://www.indiagazette.com/news/279381338/trump-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure"
-    },
-    {
-      "id": "https://ktul.com/news/nation-world/trump-waives-most-russia-sanctions-and-tariffs-days-before-they-were-to-take-effect",
-      "title": "Trump waives most Russia sanctions and tariffs days before they were to take effect",
-      "source": "ktul.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T19:02:00Z",
-      "publishedAt": "2026-10-17T19:02:00Z",
-      "summary": "",
-      "url": "https://ktul.com/news/nation-world/trump-waives-most-russia-sanctions-and-tariffs-days-before-they-were-to-take-effect"
     },
     {
       "id": "http://www.indiagazette.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india",
@@ -248,30 +308,6 @@
       "url": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha"
     },
     {
-      "id": "https://thesun.ng/trump-waives-new-russia-sanctions-tariffs-in-executive-order/",
-      "title": "Trump waives new Russia sanctions, tariffs in executive order – The Sun Nigeria",
-      "source": "thesun.ng",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T10:31:00Z",
-      "publishedAt": "2026-10-17T10:31:00Z",
-      "summary": "",
-      "url": "https://thesun.ng/trump-waives-new-russia-sanctions-tariffs-in-executive-order/"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms",
-      "title": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms"
-    },
-    {
       "id": "https://aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585",
       "title": "Türkiye’s export value per kilogram surges as high-tech sectors boost revenue: Trade minister",
       "source": "aa.com.tr",
@@ -296,28 +332,28 @@
       "url": "https://www.hani.co.kr/arti/society/society_general/1282855.html"
     },
     {
-      "id": "http://www.koreatimes.com/article/20261016/1634193",
-      "title": "美 철강 가격, 4년여만에 최고…트럼프 관세로 공급 부족 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261016/1634193"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/world/us-india-trade-deal-wont-be-signed-without-preferential-treatment-former-diplomat-veena-sikri/",
-      "title": "US-India trade deal wont be signed without preferential treatment: Former diplomat Veena Sikri - The Tribune",
-      "source": "tribuneindia.com",
+      "id": "https://www.legallyindia.com/private-equity-vc/amarchand-jsa-milk-275m-groupe-lactalis-fdi-for-indian-tirumala-20140109-4230/",
+      "title": "Amarchand, JSA get milk in $275m Groupe Lactalis FDI from Carlyle",
+      "source": "legallyindia.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T19:01:00Z",
-      "publishedAt": "2026-10-17T19:01:00Z",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
       "summary": "",
-      "url": "https://www.tribuneindia.com/news/world/us-india-trade-deal-wont-be-signed-without-preferential-treatment-former-diplomat-veena-sikri/"
+      "url": "https://www.legallyindia.com/private-equity-vc/amarchand-jsa-milk-275m-groupe-lactalis-fdi-for-indian-tirumala-20140109-4230/"
+    },
+    {
+      "id": "http://www.zimbabwestar.com/news/279381447/us-india-trade-deal-wont-be-signed-without-preferential-treatment-former-diplomat-veena-sikri",
+      "title": "US-India trade deal won't be signed without preferential treatment: Former diplomat Veena Sikri",
+      "source": "zimbabwestar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "http://www.zimbabwestar.com/news/279381447/us-india-trade-deal-wont-be-signed-without-preferential-treatment-former-diplomat-veena-sikri"
     },
     {
       "id": "https://english.hani.co.kr/arti/english_edition/e_international/1282795.html",
@@ -344,18 +380,6 @@
       "url": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga"
     },
     {
-      "id": "https://en.shafaqna.com/484701/nasdaq-falls-ahead-of-earnings-oil-prices-jump/",
-      "title": "Nasdaq Falls Ahead of Earnings as Oil Prices Jump",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T16:47:00Z",
-      "publishedAt": "2026-10-17T16:47:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/484701/nasdaq-falls-ahead-of-earnings-oil-prices-jump/"
-    },
-    {
       "id": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/",
       "title": "World Bank Critical Minerals Goal: Fivefold Growth in Five Years",
       "source": "en.shafaqna.com",
@@ -378,6 +402,18 @@
       "publishedAt": "2026-10-17T13:46:00Z",
       "summary": "",
       "url": "https://www.orissapost.com/bessent-urges-imf-to-scrutinise-chinas-non-market-policies-exchange-rates/"
+    },
+    {
+      "id": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10",
+      "title": "Walmart sees current diesel prices wiping out $2.9 billion tariff refund by end of 2027, Deutsche Bank says.",
+      "source": "businessinsider.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10"
     },
     {
       "id": "https://www.thailand-business-news.com/set/334172-value-up-comes-to-asean-how-six-markets-are-racing-to-close-the-discount-set-news",
@@ -428,30 +464,6 @@
       "url": "https://aliran.com/civil-society-voices/haze-g25-calls-on-asean-to-act-against-illegal-burning"
     },
     {
-      "id": "https://www.actionforex.com/articles/forex-trading/133526-exchange-rate-on-forex/",
-      "title": "Exchange Rate on Forex - ActionForex",
-      "source": "actionforex.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "https://www.actionforex.com/articles/forex-trading/133526-exchange-rate-on-forex/"
-    },
-    {
-      "id": "https://www.thesudburystar.com/news/sudbury-mp-lapointes-motion-results-in-report-on-critical-minerals-national-security/",
-      "title": "Sudbury MP Lapointe’s motion results in report on critical minerals, national security",
-      "source": "thesudburystar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:01:00Z",
-      "publishedAt": "2026-10-16T21:01:00Z",
-      "summary": "",
-      "url": "https://www.thesudburystar.com/news/sudbury-mp-lapointes-motion-results-in-report-on-critical-minerals-national-security/"
-    },
-    {
       "id": "https://www.centralwesterndaily.com.au/story/9370345/once-great-libs-have-lost-way-on-free-trade-minister/",
       "title": "'Once great' Libs have lost way on free trade: minister",
       "source": "centralwesterndaily.com.au",
@@ -488,6 +500,42 @@
       "url": "https://www.businesstoday.in/personal-finance/story/sbi-research-urges-tax-clarity-on-g-secs-ecb-rules-to-deepen-domestic-borrowing-markets-562074-2026-10-16"
     },
     {
+      "id": "https://thesun.ng/trump-waives-new-russia-sanctions-tariffs-in-executive-order/",
+      "title": "Trump waives new Russia sanctions, tariffs in executive order – The Sun Nigeria",
+      "source": "thesun.ng",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://thesun.ng/trump-waives-new-russia-sanctions-tariffs-in-executive-order/"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms",
+      "title": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T06:01:00Z",
+      "publishedAt": "2026-10-17T06:01:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms"
+    },
+    {
+      "id": "https://cbs4local.com/newsletter-daily/study-cites-3000-hit-to-el-paso-families-pointing-to-tariffs-and-iran-war",
+      "title": "Study cites $3,000+ hit to El Paso families, pointing to tariffs and Iran war",
+      "source": "cbs4local.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T23:16:00Z",
+      "publishedAt": "2026-10-16T23:16:00Z",
+      "summary": "",
+      "url": "https://cbs4local.com/newsletter-daily/study-cites-3000-hit-to-el-paso-families-pointing-to-tariffs-and-iran-war"
+    },
+    {
       "id": "https://www.samaa.tv/2087358628-iran-s-exports-to-pakistan-face-possible-halt-over-banking-sanctions",
       "title": "Iran’s exports to Pakistan face possible halt over banking sanctions",
       "source": "samaa.tv",
@@ -500,30 +548,6 @@
       "url": "https://www.samaa.tv/2087358628-iran-s-exports-to-pakistan-face-possible-halt-over-banking-sanctions"
     },
     {
-      "id": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10",
-      "title": "Walmart sees current diesel prices wiping out $2.9 billion tariff refund by end of 2027, Deutsche Bank says.",
-      "source": "businessinsider.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T10:31:00Z",
-      "publishedAt": "2026-10-17T10:31:00Z",
-      "summary": "",
-      "url": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10"
-    },
-    {
-      "id": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692",
-      "title": "UK: Urgent action needed on gas storage to protect energy security and jobs",
-      "source": "energy-pedia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:16:00Z",
-      "publishedAt": "2026-10-17T01:16:00Z",
-      "summary": "",
-      "url": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692"
-    },
-    {
       "id": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/",
       "title": "Trump Waives Russia-Related Sanctions, Averting Threat of 100% Tariffs on India and China",
       "source": "pragativadi.com",
@@ -534,6 +558,42 @@
       "publishedAt": "2026-10-17T06:01:00Z",
       "summary": "",
       "url": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/"
+    },
+    {
+      "id": "https://wach.com/news/local/trump-puts-russia-sanctions-bill-signed-in-honor-of-lindsey-graham-on-hold",
+      "title": "Trump puts Russia sanctions bill signed in honor of Lindsey Graham on hold",
+      "source": "wach.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://wach.com/news/local/trump-puts-russia-sanctions-bill-signed-in-honor-of-lindsey-graham-on-hold"
+    },
+    {
+      "id": "https://www.tribuneindia.com/news/india/relief-for-india-as-trump-waives-russia-sanctions/",
+      "title": "Relief for India as Trump waives Russia sanctions - The Tribune",
+      "source": "tribuneindia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.tribuneindia.com/news/india/relief-for-india-as-trump-waives-russia-sanctions/"
+    },
+    {
+      "id": "https://www.newsweek.com/republicans-turn-on-trump-over-russia-sanctions-waiver-12583874",
+      "title": "Republicans turn on Trump over Russia sanctions waiver",
+      "source": "newsweek.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T21:16:00Z",
+      "publishedAt": "2026-10-17T21:16:00Z",
+      "summary": "",
+      "url": "https://www.newsweek.com/republicans-turn-on-trump-over-russia-sanctions-waiver-12583874"
     },
     {
       "id": "https://www.al-monitor.com/originals/2026/10/zelenskiy-criticizes-trumps-waiver-sanctions-russia-wrong",
@@ -594,6 +654,18 @@
       "publishedAt": "2026-10-17T19:01:00Z",
       "summary": "",
       "url": "https://www.wkms.org/npr-news/2026-10-17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold"
+    },
+    {
+      "id": "https://en.shafaqna.com/484701/nasdaq-falls-ahead-of-earnings-oil-prices-jump/",
+      "title": "Nasdaq Falls Ahead of Earnings as Oil Prices Jump",
+      "source": "en.shafaqna.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
+      "summary": "",
+      "url": "https://en.shafaqna.com/484701/nasdaq-falls-ahead-of-earnings-oil-prices-jump/"
     },
     {
       "id": "https://greatbendpost.com/posts/564552bd-67aa-4f75-8b48-159e7dd262d3",
@@ -666,63 +738,15 @@
       "publishedAt": "2026-10-17T06:02:00Z",
       "summary": "",
       "url": "https://jetradio1400.iheart.com/content/2026-10-17-trump-waives-new-sanctions-against-russia/"
-    },
-    {
-      "id": "http://www.parisguardian.com/news/279380386/relief-for-india-as-trump-waives-sanctions-related-to-russian-fuel-purchase-under-lindsey-graham-act",
-      "title": "Relief for India as Trump waives sanctions related to Russian fuel purchase under Lindsey Graham Act",
-      "source": "parisguardian.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
-      "summary": "",
-      "url": "http://www.parisguardian.com/news/279380386/relief-for-india-as-trump-waives-sanctions-related-to-russian-fuel-purchase-under-lindsey-graham-act"
-    },
-    {
-      "id": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-geopolitics-truth-bangladesh-ready-ai-diplomacy-4298781",
-      "title": "The geopolitics of truth: Is Bangladesh ready for AI diplomacy?",
-      "source": "thedailystar.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
-      "summary": "",
-      "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-geopolitics-truth-bangladesh-ready-ai-diplomacy-4298781"
-    },
-    {
-      "id": "https://www.newsweek.com/trump-waives-new-russia-sanctions-one-week-after-diesel-deal-12583060",
-      "title": "Trump Waives New Russia Sanctions One Week After Diesel Deal",
-      "source": "newsweek.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
-      "summary": "",
-      "url": "https://www.newsweek.com/trump-waives-new-russia-sanctions-one-week-after-diesel-deal-12583060"
-    },
-    {
-      "id": "https://cbs4local.com/newsletter-daily/study-cites-3000-hit-to-el-paso-families-pointing-to-tariffs-and-iran-war",
-      "title": "Study cites $3,000+ hit to El Paso families, pointing to tariffs and Iran war",
-      "source": "cbs4local.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T23:16:00Z",
-      "publishedAt": "2026-10-16T23:16:00Z",
-      "summary": "",
-      "url": "https://cbs4local.com/newsletter-daily/study-cites-3000-hit-to-el-paso-families-pointing-to-tariffs-and-iran-war"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 481,
-    "fetchedItems": 3252,
-    "relevantItems": 58,
-    "feedBytes": 919002,
+    "poolSize": 453,
+    "fetchedItems": 2841,
+    "relevantItems": 52,
+    "feedBytes": 804336,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
