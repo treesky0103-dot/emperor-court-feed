@@ -3,7 +3,7 @@
   "planDay": "2026-10-17",
   "planSetId": "zps-20261017-939e7fe7",
   "generatedAt": "2026-10-17T00:03:31.201Z",
-  "publishedAt": "2026-10-17T00:10:07.572Z",
+  "publishedAt": "2026-10-17T00:18:06.531Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -230,7 +230,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-17T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "마케터의 결재선",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "다 돌리는 시대, 마케터는 무엇으로 자신의 몸값을 결재받을 것인가.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "005",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "내 직무 기여도와 예산 효율성을 설득력 있게 입증하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "검증하고 C레벨 보고용 성과 지표를 방어하는 품질 감사 매뉴얼.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "커져 실무자의 검증 권한과 성과 증명이 생존 과제가 되었기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "7단계 검수표, C레벨 보고용 성과 증명 보고서 서식을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "034",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "일시적인 툴 기능 해설로 흘러가 1년 내 내용이 진부해질 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "046",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-d09884d3"
+      }
     },
     {
       "type": "조직 관리",
@@ -409,7 +514,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-17T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "팀장의 AI 부하직원",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "팀원으로 받기 전, 팀장이 반드시 그어야 할 5가지 업무 경계선.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "006",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "오작동 사고를 예방하고, 팀 전체의 실질적 산출량을 입증하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "022",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "방지하고, 에이전트와 직원의 역할을 분장하는 팀 운영 실무 가이드.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "021",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "오작동 책임 소재를 정리한 조직 관리 지침이 전무하기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "014",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "내부 감사표, 에이전트 도입 부서의 인시 절감 측정 지표를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "032",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "원론적인 인사 조직 관리 이론에 머물러 현장성이 퇴색할 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "042",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-d09884d3"
+      }
     },
     {
       "type": "콘텐츠 제작",
@@ -588,7 +798,119 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-17T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "AI 글쓰기 인간의 한 끗",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "당신만의 한 끗을 더하지 못하면, 그 글은 단 10원도 벌지 못한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "003",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "이름으로 독점 저작권을 주장할 수 있는 팔리는 콘텐츠를 만들고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "저작권을 확보하고 시장에서 팔리는 콘텐츠로 완성하는 재가공 워크플로.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "편집과 재가공 역량이 수익화의 결정적 차별점이 되었기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "재구성 템플릿, 단가별 상업 콘텐츠 재가공 체크리스트를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "잡는 에세이 작법서로 흘러가 실질적인 비즈니스 효용을 주지 못할 위험.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "049",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-d09884d3"
+      }
     }
-  ]
+  ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261017-939e7fe7",
+    "file": "cardnews/2026-10-17.json",
+    "cardCount": 6
+  }
 }
