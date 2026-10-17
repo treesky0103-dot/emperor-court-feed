@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오후 07:41:13",
+  "updatedAt": "2026. 10. 17. 오후 10:58:10",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -622,6 +622,18 @@
     "economy": {
       "items": [
         {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-signs-6200-crore-investment-pacts-for-godavari-region-at-cii-meet-18000-jobs-expected/article71574288.ece",
+          "title": "Andhra Pradesh signs ₹6,200-crore investment pacts for Godavari region at CII meet; 18,000 jobs expected",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-17",
+          "dateRaw": "2026-10-17T13:46:00Z",
+          "publishedAt": "2026-10-17T13:46:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-signs-6200-crore-investment-pacts-for-godavari-region-at-cii-meet-18000-jobs-expected/article71574288.ece"
+        },
+        {
           "id": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/",
           "title": "IMF Global Growth Forecast Above 3% on AI Investment",
           "source": "en.shafaqna.com",
@@ -632,18 +644,6 @@
           "publishedAt": "2026-10-17T06:01:00Z",
           "summary": "",
           "url": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/"
-        },
-        {
-          "id": "https://www.thehindu.com/news/national/telangana/cs-directs-departments-to-be-in-constant-touch-with-firms-that-assured-investments-in-telangana/article71555500.ece",
-          "title": "CS directs departments to be in constant touch with firms that assured investments in Telangana",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T21:02:00Z",
-          "publishedAt": "2026-10-16T21:02:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/telangana/cs-directs-departments-to-be-in-constant-touch-with-firms-that-assured-investments-in-telangana/article71555500.ece"
         },
         {
           "id": "https://economictimes.indiatimes.com/tech/startups/wed-make-those-investments-again-snabbit-ceo-on-fy26-losses/articleshow/134996692.cms",
@@ -748,11 +748,11 @@
           "count": 3
         },
         {
-          "word": "성장",
-          "count": 2
+          "word": "투자",
+          "count": 3
         },
         {
-          "word": "투자",
+          "word": "성장",
           "count": 2
         }
       ],
@@ -917,8 +917,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4285,
-    "feedBytes": 1226353,
+    "fetchedItems": 3917,
+    "feedBytes": 1151407,
     "rollingWindowHours": 72
   }
 }

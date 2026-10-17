@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오후 07:41:07",
+  "updatedAt": "2026. 10. 17. 오후 10:58:04",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 543,
-    "passed": 43,
-    "deduped": 43,
-    "eventDeduped": 43,
+    "raw": 607,
+    "passed": 50,
+    "deduped": 50,
+    "eventDeduped": 50,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -54,8 +54,32 @@
       "url": "https://www.newindianexpress.com/world/2026/Oct/17/trump-waives-russia-related-tariffs-offering-india-relief-on-oil-imports"
     },
     {
-      "id": "http://www.russiaherald.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india",
+      "id": "http://www.indiagazette.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india",
       "title": "\"Trump trying to gain popularity\": Waiel Awwad says Russia oil sanctions waiver \"big relief\" for India",
+      "source": "indiagazette.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "http://www.indiagazette.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india"
+    },
+    {
+      "id": "http://www.europesun.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri",
+      "title": "US waives Russian-oil tariffs, but uncertainty prevails as Washington retains leverage: GTRI",
+      "source": "europesun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "http://www.europesun.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri"
+    },
+    {
+      "id": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha",
+      "title": "US tariff waiver on Russian crude a comforting relief, but trade uncertainties persist: CareEdge Chief Economist Rajani Sinha",
       "source": "russiaherald.com",
       "language": "English",
       "sourceCountry": "",
@@ -63,19 +87,7 @@
       "dateRaw": "2026-10-17T10:31:00Z",
       "publishedAt": "2026-10-17T10:31:00Z",
       "summary": "",
-      "url": "http://www.russiaherald.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms",
-      "title": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms"
+      "url": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha"
     },
     {
       "id": "https://aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585",
@@ -112,18 +124,6 @@
       "publishedAt": "2026-10-17T10:31:00Z",
       "summary": "",
       "url": "https://www.hani.co.kr/arti/society/society_general/1282855.html"
-    },
-    {
-      "id": "http://www.koreatimes.com/article/20261016/1634193",
-      "title": "美 철강 가격, 4년여만에 최고…트럼프 관세로 공급 부족 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261016/1634193"
     },
     {
       "id": "https://www.thailand-business-news.com/set/334172-value-up-comes-to-asean-how-six-markets-are-racing-to-close-the-discount-set-news",
@@ -176,16 +176,40 @@
       "url": "https://www.newindianexpress.com/world/2026/Oct/17/trump-waives-russia-related-tariffs-offering-india-relief-on-oil-imports"
     },
     {
-      "id": "http://www.russiaherald.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india",
+      "id": "http://www.indiagazette.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india",
       "title": "\"Trump trying to gain popularity\": Waiel Awwad says Russia oil sanctions waiver \"big relief\" for India",
-      "source": "russiaherald.com",
+      "source": "indiagazette.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T10:31:00Z",
-      "publishedAt": "2026-10-17T10:31:00Z",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
       "summary": "",
-      "url": "http://www.russiaherald.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india"
+      "url": "http://www.indiagazette.com/news/279380862/trump-trying-to-gain-popularity-waiel-awwad-says-russia-oil-sanctions-waiver-big-relief-for-india"
+    },
+    {
+      "id": "http://www.europesun.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri",
+      "title": "US waives Russian-oil tariffs, but uncertainty prevails as Washington retains leverage: GTRI",
+      "source": "europesun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "http://www.europesun.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri"
+    },
+    {
+      "id": "https://cyprus-mail.com/2026/10/17/trump-waives-key-russia-related-sanctions-tariffs-before-they-take-effect-under-new-law",
+      "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
+      "source": "cyprus-mail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://cyprus-mail.com/2026/10/17/trump-waives-key-russia-related-sanctions-tariffs-before-they-take-effect-under-new-law"
     },
     {
       "id": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha",
@@ -198,18 +222,6 @@
       "publishedAt": "2026-10-17T10:31:00Z",
       "summary": "",
       "url": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha"
-    },
-    {
-      "id": "http://www.russiaherald.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri",
-      "title": "US waives Russian-oil tariffs, but uncertainty prevails as Washington retains leverage: GTRI",
-      "source": "russiaherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T10:31:00Z",
-      "publishedAt": "2026-10-17T10:31:00Z",
-      "summary": "",
-      "url": "http://www.russiaherald.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri"
     },
     {
       "id": "https://thesun.ng/trump-waives-new-russia-sanctions-tariffs-in-executive-order/",
@@ -246,18 +258,6 @@
       "publishedAt": "2026-10-17T06:01:00Z",
       "summary": "",
       "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms"
-    },
-    {
-      "id": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/",
-      "title": "Trump Waives Russia-Related Sanctions, Averting Threat of 100% Tariffs on India and China",
-      "source": "pragativadi.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
-      "summary": "",
-      "url": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/"
     },
     {
       "id": "https://aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585",
@@ -320,6 +320,30 @@
       "url": "http://www.koreatimes.com/article/20261016/1634193"
     },
     {
+      "id": "https://www.orissapost.com/bessent-urges-imf-to-scrutinise-chinas-non-market-policies-exchange-rates/",
+      "title": "Bessent urges IMF to scrutinise China's 'non-market' policies, exchange rates - OrissaPOST",
+      "source": "orissapost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://www.orissapost.com/bessent-urges-imf-to-scrutinise-chinas-non-market-policies-exchange-rates/"
+    },
+    {
+      "id": "https://www.breitbart.com/clips/2026/10/17/kellogg-diesel-oil-prices-are-up-due-to-middle-east-not-zelensky/",
+      "title": "Kellogg: Diesel, Oil Prices Are Up Due to Middle East, Not Zelensky",
+      "source": "breitbart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://www.breitbart.com/clips/2026/10/17/kellogg-diesel-oil-prices-are-up-due-to-middle-east-not-zelensky/"
+    },
+    {
       "id": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10",
       "title": "Walmart sees current diesel prices wiping out $2.9 billion tariff refund by end of 2027, Deutsche Bank says.",
       "source": "businessinsider.com",
@@ -342,18 +366,6 @@
       "publishedAt": "2026-10-17T01:17:00Z",
       "summary": "",
       "url": "https://www.thailand-business-news.com/set/334172-value-up-comes-to-asean-how-six-markets-are-racing-to-close-the-discount-set-news"
-    },
-    {
-      "id": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692",
-      "title": "UK: Urgent action needed on gas storage to protect energy security and jobs",
-      "source": "energy-pedia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:16:00Z",
-      "publishedAt": "2026-10-17T01:16:00Z",
-      "summary": "",
-      "url": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692"
     },
     {
       "id": "https://www.meddeviceonline.com/doc/medical-device-supply-chain-management-metals-electronics-0001",
@@ -452,6 +464,18 @@
       "url": "https://iberonews.com/not_det.php?lang=es¬id=110807"
     },
     {
+      "id": "http://www.argentinastar.com/news/279377178/lagarde-could-leave-ecb-early-to-become-wef-chair-sources-say",
+      "title": "Lagarde could leave ECB early to become WEF chair, sources say",
+      "source": "argentinastar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:47:00Z",
+      "publishedAt": "2026-10-17T13:47:00Z",
+      "summary": "",
+      "url": "http://www.argentinastar.com/news/279377178/lagarde-could-leave-ecb-early-to-become-wef-chair-sources-say"
+    },
+    {
       "id": "https://www.businesstoday.in/personal-finance/story/sbi-research-urges-tax-clarity-on-g-secs-ecb-rules-to-deepen-domestic-borrowing-markets-562074-2026-10-16",
       "title": "SBI Research urges tax clarity on G Secs, ECB rules to deepen domestic borrowing markets - BusinessToday",
       "source": "businesstoday.in",
@@ -500,28 +524,28 @@
       "url": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1856102/beyond-one-border-how-canadian-companies-can-turn-trade-diversification-into-global-growth"
     },
     {
-      "id": "https://www.wvlkam.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/",
-      "title": "Trump Suspends New Russia Sanctions as Tensions With Ukraine Deepen",
-      "source": "wvlkam.com",
+      "id": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/",
+      "title": "Trump Waives Russia-Related Sanctions, Averting Threat of 100% Tariffs on India and China",
+      "source": "pragativadi.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T10:31:00Z",
-      "publishedAt": "2026-10-17T10:31:00Z",
+      "dateRaw": "2026-10-17T06:01:00Z",
+      "publishedAt": "2026-10-17T06:01:00Z",
       "summary": "",
-      "url": "https://www.wvlkam.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/"
+      "url": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/"
     },
     {
-      "id": "https://www.alaskasnewssource.com/2026/10/16/north-slope-oil-price-hits-highest-level-over-4-years/",
-      "title": "North Slope oil price hits highest level in over 4 years",
-      "source": "alaskasnewssource.com",
+      "id": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692",
+      "title": "UK: Urgent action needed on gas storage to protect energy security and jobs",
+      "source": "energy-pedia.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
       "dateRaw": "2026-10-17T01:16:00Z",
       "publishedAt": "2026-10-17T01:16:00Z",
       "summary": "",
-      "url": "https://www.alaskasnewssource.com/2026/10/16/north-slope-oil-price-hits-highest-level-over-4-years/"
+      "url": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692"
     },
     {
       "id": "https://www.pr-inside.com/as-tariffs-push-manufacturers-to-reshore-woods-distribution-offers-r5234121.htm",
@@ -536,28 +560,76 @@
       "url": "https://www.pr-inside.com/as-tariffs-push-manufacturers-to-reshore-woods-distribution-offers-r5234121.htm"
     },
     {
-      "id": "https://www.winnipegfreepress.com/world/2026/10/17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump places package on hold",
-      "source": "winnipegfreepress.com",
+      "id": "https://greatbendpost.com/posts/564552bd-67aa-4f75-8b48-159e7dd262d3",
+      "title": "Trump puts new Russia sanctions passed by Congress on hold",
+      "source": "greatbendpost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T10:31:00Z",
-      "publishedAt": "2026-10-17T10:31:00Z",
+      "dateRaw": "2026-10-17T13:47:00Z",
+      "publishedAt": "2026-10-17T13:47:00Z",
       "summary": "",
-      "url": "https://www.winnipegfreepress.com/world/2026/10/17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold"
+      "url": "https://greatbendpost.com/posts/564552bd-67aa-4f75-8b48-159e7dd262d3"
     },
     {
-      "id": "https://www.tribdem.com/news/latest_news/zelenskyy-urges-support-for-new-u-s-sanctions-on-russia-after-trump-puts-them-on/article_0dcd1bab-2a17-506e-8da7-155226a71430.html",
-      "title": "Zelenskyy urges support for new U.S. sanctions on Russia after Trump puts them on hold",
-      "source": "tribdem.com",
+      "id": "https://wlec.com/uncategorized/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-saying-waiver-is-in-us-national-interest/",
+      "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest - WLEC",
+      "source": "wlec.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:47:00Z",
+      "publishedAt": "2026-10-17T13:47:00Z",
+      "summary": "",
+      "url": "https://wlec.com/uncategorized/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-saying-waiver-is-in-us-national-interest/"
+    },
+    {
+      "id": "https://www.naroomanewsonline.com.au/story/9370329/zelenskiy-backs-sanctions-on-russia-after-trump-pause/",
+      "title": "Zelenskiy backs sanctions on Russia after Trump pause",
+      "source": "naroomanewsonline.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://www.naroomanewsonline.com.au/story/9370329/zelenskiy-backs-sanctions-on-russia-after-trump-pause/"
+    },
+    {
+      "id": "https://www.wyff4.com/article/zelenskyy-support-new-us-sanctions-russia-trump-hold/74166472",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "source": "wyff4.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://www.wyff4.com/article/zelenskyy-support-new-us-sanctions-russia-trump-hold/74166472"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
+      "source": "theguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine"
+    },
+    {
+      "id": "https://www.wvlkam.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/",
+      "title": "Trump Suspends New Russia Sanctions as Tensions With Ukraine Deepen",
+      "source": "wvlkam.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
       "dateRaw": "2026-10-17T10:31:00Z",
       "publishedAt": "2026-10-17T10:31:00Z",
       "summary": "",
-      "url": "https://www.tribdem.com/news/latest_news/zelenskyy-urges-support-for-new-u-s-sanctions-on-russia-after-trump-puts-them-on/article_0dcd1bab-2a17-506e-8da7-155226a71430.html"
+      "url": "https://www.wvlkam.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/"
     },
     {
       "id": "https://jetradio1400.iheart.com/content/2026-10-17-trump-waives-new-sanctions-against-russia/",
@@ -647,10 +719,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 543,
-    "fetchedItems": 4285,
-    "relevantItems": 53,
-    "feedBytes": 1226353,
+    "poolSize": 607,
+    "fetchedItems": 3917,
+    "relevantItems": 76,
+    "feedBytes": 1151407,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
