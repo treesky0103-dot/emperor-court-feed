@@ -9,13 +9,13 @@
     "팀장의 AI 부하직원",
     "AI 글쓰기 인간의 한 끗"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-17T00:18:00.002Z",
+  "provider": "partial-mixed",
+  "generatedAt": "2026-10-17T00:19:17.937Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-17T00:18:00.002Z",
+      "generatedAt": "2026-10-17T00:18:44.291Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,10 +40,10 @@
         ]
       },
       "bookTitle": "마케터의 결재선",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -112,15 +112,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-d09884d3"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-17T00:18:00.002Z",
+      "generatedAt": "2026-10-17T00:19:10.667Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,87 +142,84 @@
         ]
       },
       "bookTitle": "팀장의 AI 부하직원",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "팀원으로 받기 전, 팀장이 반드시 그어야 할 5가지 업무 경계선.",
+          "headline": "AI 부하직원, 통제 못하면 위험하다",
           "body": "",
           "accent": "yellow",
           "sceneId": "006",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "오작동 사고를 예방하고, 팀 전체의 실질적 산출량을 입증하고 싶다.",
+          "headline": "팀에 AI가 일거리 넘겨주고, 책임은 어디에?",
           "body": "",
           "accent": "yellow",
           "sceneId": "022",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "방지하고, 에이전트와 직원의 역할을 분장하는 팀 운영 실무 가이드.",
+          "headline": "작업이 겹치고, 보안 알림이 쏟아지면 혼란이 시작된다",
           "body": "",
           "accent": "yellow",
           "sceneId": "021",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "오작동 책임 소재를 정리한 조직 관리 지침이 전무하기 때문이다.",
+          "headline": "이는 권한 남용과 사고 위험을 의미한다",
           "body": "",
           "accent": "yellow",
           "sceneId": "014",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "내부 감사표, 에이전트 도입 부서의 인시 절감 측정 지표를 제공한다.",
+          "headline": "지금 바로 R&R을 재정의하고 승인 흐름을 고정하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "032",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "원론적인 인사 조직 관리 이론에 머물러 현장성이 퇴색할 위험.",
+          "headline": "통제된 AI만이 팀 성과를 높인다",
           "body": "",
           "accent": "yellow",
           "sceneId": "042",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-d09884d3"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-17T00:18:00.002Z",
+      "generatedAt": "2026-10-17T00:18:51.552Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,81 +244,78 @@
         ]
       },
       "bookTitle": "AI 글쓰기 인간의 한 끗",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "당신만의 한 끗을 더하지 못하면, 그 글은 단 10원도 벌지 못한다.",
+          "headline": "기계가 쓴 문장에는\n체온이 머물지 않는다",
           "body": "",
           "accent": "yellow",
           "sceneId": "003",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "이름으로 독점 저작권을 주장할 수 있는 팔리는 콘텐츠를 만들고 싶다.",
-          "body": "",
+          "headline": "모니터 불빛 아래\n순식간에 완성된 초안을 본다",
+          "body": "매끄럽지만 어딘가 공허한 글자들",
           "accent": "yellow",
           "sceneId": "017",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "저작권을 확보하고 시장에서 팔리는 콘텐츠로 완성하는 재가공 워크플로.",
-          "body": "",
+          "headline": "흠잡을 데 없는 문장 사이로\n나의 목소리만 지워져 있다",
+          "body": "쉽게 쓰인 글은 누구의 마음도 흔들지 못한다",
           "accent": "yellow",
           "sceneId": "024",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "편집과 재가공 역량이 수익화의 결정적 차별점이 되었기 때문이다.",
-          "body": "",
+          "headline": "하지만 진짜 가치는\n틀린 문장을 지우고 고쳐 쓰는 손끝에 있다",
+          "body": "완벽함보다 필요한 것은 오직 나만의 시선이다",
           "accent": "yellow",
           "sceneId": "019",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "재구성 템플릿, 단가별 상업 콘텐츠 재가공 체크리스트를 제공한다.",
-          "body": "",
+          "headline": "서툰 문장 속에\n내 경험과 책임을 조용히 채워 넣는다",
+          "body": "그때 비로소 이 글은 온전히 내 것이 된다",
           "accent": "yellow",
           "sceneId": "033",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "잡는 에세이 작법서로 흘러가 실질적인 비즈니스 효용을 주지 못할 위험.",
+          "headline": "아무도 흉내 낼 수 없는 고유함은\n결국 고민한 인간의 한 끗에서 완성된다",
           "body": "",
           "accent": "yellow",
           "sceneId": "049",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-d09884d3"
     }
   ]
