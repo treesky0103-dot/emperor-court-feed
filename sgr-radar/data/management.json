@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오전 01:57:21",
+  "updatedAt": "2026. 10. 18. 오전 04:08:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 536,
-    "passed": 13,
-    "deduped": 13,
-    "eventDeduped": 13,
+    "raw": 481,
+    "passed": 12,
+    "deduped": 12,
+    "eventDeduped": 12,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -282,27 +282,15 @@
       "publishedAt": "2026-10-16T23:16:00Z",
       "summary": "",
       "url": "https://tvovermind.com/mans-clever-trick-after-realizing-job-interview-was-ai-goes-viral/"
-    },
-    {
-      "id": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/",
-      "title": "The lack of a shared lexicon is undermining responsible AI-military integration",
-      "source": "defenseone.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T18:02:00Z",
-      "publishedAt": "2026-10-16T18:02:00Z",
-      "summary": "",
-      "url": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 536,
-    "fetchedItems": 4049,
-    "relevantItems": 72,
-    "feedBytes": 1128935,
+    "poolSize": 481,
+    "fetchedItems": 3252,
+    "relevantItems": 58,
+    "feedBytes": 919002,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
