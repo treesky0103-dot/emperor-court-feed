@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오후 03:09:58",
+  "updatedAt": "2026. 10. 17. 오후 07:41:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 604,
-    "passed": 14,
-    "deduped": 14,
-    "eventDeduped": 14,
+    "raw": 543,
+    "passed": 13,
+    "deduped": 13,
+    "eventDeduped": 13,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -284,18 +284,6 @@
       "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/"
     },
     {
-      "id": "https://vietnamnews.vn/economy/1802164/businesses-urged-to-redesign-work-around-people-as-ai-reshapes-jobs.html",
-      "title": "Businesses urged to redesign work around people as AI reshapes jobs",
-      "source": "vietnamnews.vn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://vietnamnews.vn/economy/1802164/businesses-urged-to-redesign-work-around-people-as-ai-reshapes-jobs.html"
-    },
-    {
       "id": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/",
       "title": "The lack of a shared lexicon is undermining responsible AI-military integration",
       "source": "defenseone.com",
@@ -311,10 +299,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 604,
-    "fetchedItems": 3436,
-    "relevantItems": 70,
-    "feedBytes": 978237,
+    "poolSize": 543,
+    "fetchedItems": 4285,
+    "relevantItems": 53,
+    "feedBytes": 1226353,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

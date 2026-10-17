@@ -2,155 +2,21 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오후 03:09:58",
+  "updatedAt": "2026. 10. 17. 오후 07:41:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 604,
-    "passed": 192,
-    "deduped": 192,
-    "eventDeduped": 192,
+    "raw": 543,
+    "passed": 167,
+    "deduped": 167,
+    "eventDeduped": 167,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
-      "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01430086645613904&mediaCodeNo=257",
-      "title": "나스닥 2.1%↓…AI 열풍에 \"그래서 돈은 언제 버나\"[월스트리트in]",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:16:00Z",
-      "publishedAt": "2026-10-17T01:16:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01430086645613904&mediaCodeNo=257"
-    },
-    {
-      "id": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/",
-      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
-      "source": "record-bee.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T18:02:00Z",
-      "publishedAt": "2026-10-16T18:02:00Z",
-      "summary": "",
-      "url": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/"
-    },
-    {
-      "id": "https://biz.chosun.com/science-chosun/bio/2026/10/16/AZZADVSN4NE6FFNVL6AAKLR454/",
-      "title": "2차 파업 압박 삼성바이오 노조 “오는 21일 단체 행동”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/science-chosun/bio/2026/10/16/AZZADVSN4NE6FFNVL6AAKLR454/"
-    },
-    {
-      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69856121-jodell-robotics-following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products-for-industrial-embodied-execution-at-ciif-008.htm",
-      "title": "Jodell Robotics: Following industrial investment from Midea Group, Jodell unveils full-stack new products for industrial embodied execution at CIIF",
-      "source": "finanznachrichten.de",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69856121-jodell-robotics-following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products-for-industrial-embodied-execution-at-ciif-008.htm"
-    },
-    {
-      "id": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
-      "title": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece"
-    },
-    {
-      "id": "http://inews24.com/view/2016027",
-      "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
-      "source": "inews24.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:02:00Z",
-      "publishedAt": "2026-10-16T14:02:00Z",
-      "summary": "",
-      "url": "http://inews24.com/view/2016027"
-    },
-    {
-      "id": "https://www.energy-pedia.com/news/usa/jera-invests-in-koloma-to-explore-natural-hydrogen-as-a-future-low-carbon-energy-source-205679",
-      "title": "US: JERA invests in Koloma to explore natural hydrogen as a future low-carbon energy source",
-      "source": "energy-pedia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:16:00Z",
-      "publishedAt": "2026-10-17T01:16:00Z",
-      "summary": "",
-      "url": "https://www.energy-pedia.com/news/usa/jera-invests-in-koloma-to-explore-natural-hydrogen-as-a-future-low-carbon-energy-source-205679"
-    },
-    {
-      "id": "http://www.koreatimes.com/article/20261015/1634023",
-      "title": "엔비디아, AI칩 넘어 데이터센터 표준 노린다 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261015/1634023"
-    },
-    {
-      "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
-      "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
-      "source": "suffolkcountyny.gov",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
-    }
-  ],
-  "trendItems": [
-    {
-      "id": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
-      "title": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01430086645613904&mediaCodeNo=257",
       "title": "나스닥 2.1%↓…AI 열풍에 \"그래서 돈은 언제 버나\"[월스트리트in]",
@@ -188,40 +54,138 @@
       "url": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/"
     },
     {
-      "id": "https://biz.chosun.com/science-chosun/bio/2026/10/16/AZZADVSN4NE6FFNVL6AAKLR454/",
-      "title": "2차 파업 압박 삼성바이오 노조 “오는 21일 단체 행동”",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/science-chosun/bio/2026/10/16/AZZADVSN4NE6FFNVL6AAKLR454/"
-    },
-    {
-      "id": "https://biz.chosun.com/topics/law_firm/2026/10/16/3HICVLIR6VHRRMUXUCC4CAN42Y/",
-      "title": "김용빈 전 대우조선해양건설 회장, 1심서 실형… 73억원 배임 혐의",
-      "source": "biz.chosun.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://biz.chosun.com/topics/law_firm/2026/10/16/3HICVLIR6VHRRMUXUCC4CAN42Y/"
-    },
-    {
-      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69856121-jodell-robotics-following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products-for-industrial-embodied-execution-at-ciif-008.htm",
-      "title": "Jodell Robotics: Following industrial investment from Midea Group, Jodell unveils full-stack new products for industrial embodied execution at CIIF",
-      "source": "finanznachrichten.de",
+      "id": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
+      "title": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
+      "source": "thehindu.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
+      "dateRaw": "2026-10-16T21:02:00Z",
+      "publishedAt": "2026-10-16T21:02:00Z",
       "summary": "",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69856121-jodell-robotics-following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products-for-industrial-embodied-execution-at-ciif-008.htm"
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece"
+    },
+    {
+      "id": "http://inews24.com/view/2016027",
+      "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
+      "source": "inews24.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
+      "summary": "",
+      "url": "http://inews24.com/view/2016027"
+    },
+    {
+      "id": "https://www.businessdailyafrica.com/bd/corporate/industry/manufacturing/kisumu-cement-industry-expands-with-new-nyando-factory--5635104",
+      "title": "Kisumu cement industry expands with new Nyando factory",
+      "source": "businessdailyafrica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://www.businessdailyafrica.com/bd/corporate/industry/manufacturing/kisumu-cement-industry-expands-with-new-nyando-factory--5635104"
+    },
+    {
+      "id": "https://www.energy-pedia.com/news/usa/jera-invests-in-koloma-to-explore-natural-hydrogen-as-a-future-low-carbon-energy-source-205679",
+      "title": "US: JERA invests in Koloma to explore natural hydrogen as a future low-carbon energy source",
+      "source": "energy-pedia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T01:16:00Z",
+      "publishedAt": "2026-10-17T01:16:00Z",
+      "summary": "",
+      "url": "https://www.energy-pedia.com/news/usa/jera-invests-in-koloma-to-explore-natural-hydrogen-as-a-future-low-carbon-energy-source-205679"
+    },
+    {
+      "id": "https://suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
+      "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
+      "source": "suffolkcountyny.gov",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
+    },
+    {
+      "id": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy",
+      "title": "FM Sitharaman, JBIC Governor discuss cooperation in semiconductors, clean energy",
+      "source": "indiagazette.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy"
+    },
+    {
+      "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273932&PAGE_CD=N0002&CMPT_CD=M0112",
+      "title": "'반도체 강국' 대만은 어떻게 민주주의를 일궜나",
+      "source": "ohmynews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273932&PAGE_CD=N0002&CMPT_CD=M0112"
+    }
+  ],
+  "trendItems": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01430086645613904&mediaCodeNo=257",
+      "title": "나스닥 2.1%↓…AI 열풍에 \"그래서 돈은 언제 버나\"[월스트리트in]",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T01:16:00Z",
+      "publishedAt": "2026-10-17T01:16:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01430086645613904&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/",
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
+      "source": "record-bee.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T18:02:00Z",
+      "publishedAt": "2026-10-16T18:02:00Z",
+      "summary": "",
+      "url": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/"
+    },
+    {
+      "id": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/",
+      "title": "TSMC Eyes Texas Expansion As AI Chip Demand Surges, Terafab Talks Confirmed",
+      "source": "wbap.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://www.wbap.com/2026/10/16/tsmc-eyes-texas-expansion-as-ai-chip-demand-surges-terafab-talks-confirmed/"
+    },
+    {
+      "id": "https://www.thehindu.com/news/national/air-india-and-ai-express-cancel-saudi-arabia-flights-till-oct-24/article71595997.ece",
+      "title": "Air India and AI Express cancel Saudi Arabia flights till Oct. 24",
+      "source": "thehindu.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/air-india-and-ai-express-cancel-saudi-arabia-flights-till-oct-24/article71595997.ece"
     },
     {
       "id": "https://www.thehindu.com/business/Industry/tcs-q2-net-up-15-to-13884-cr-ai-revenue-crosses-3-bn-board-approves-12-dividend/article71559388.ece",
@@ -248,18 +212,6 @@
       "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-to-leverage-bhashini-ai-for-citizen-services-in-local-languages-priyank-kharge/article71559933.ece"
     },
     {
-      "id": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
-      "title": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece"
-    },
-    {
       "id": "http://inews24.com/view/2016027",
       "title": "법원, 삼성바이오 노조 2차 총파업 제동⋯쟁의 제한 공정 9개로 확대",
       "source": "inews24.com",
@@ -270,6 +222,18 @@
       "publishedAt": "2026-10-16T14:02:00Z",
       "summary": "",
       "url": "http://inews24.com/view/2016027"
+    },
+    {
+      "id": "https://www.businessdailyafrica.com/bd/corporate/industry/manufacturing/kisumu-cement-industry-expands-with-new-nyando-factory--5635104",
+      "title": "Kisumu cement industry expands with new Nyando factory",
+      "source": "businessdailyafrica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://www.businessdailyafrica.com/bd/corporate/industry/manufacturing/kisumu-cement-industry-expands-with-new-nyando-factory--5635104"
     },
     {
       "id": "https://www.energy-pedia.com/news/usa/jera-invests-in-koloma-to-explore-natural-hydrogen-as-a-future-low-carbon-energy-source-205679",
@@ -296,28 +260,16 @@
       "url": "https://www.energy-pedia.com/news/gabon/bw-energy--the-operator--has-found-commercial-volumes-in-both-appraisal-wells-drilled-in-the-dussafu-field-in-gabon--with-combined-recovery-est-205684"
     },
     {
-      "id": "http://www.koreatimes.com/article/20261015/1634023",
-      "title": "엔비디아, AI칩 넘어 데이터센터 표준 노린다 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261015/1634023"
-    },
-    {
-      "id": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
+      "id": "https://suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities",
       "title": "County Executive Romaine Announces NextEra Energy Will Extend Suspension of Two East End Battery Storage Facilities",
       "source": "suffolkcountyny.gov",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
       "summary": "",
-      "url": "https://www.suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
+      "url": "https://suffolkcountyny.gov/News/ArtMID/583/ArticleID/15588/County-Executive-Romaine-Announces-NextEra-Energy-Will-Extend-Suspension-of-Two-East-End-Battery-Storage-Facilities"
     },
     {
       "id": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy",
@@ -342,6 +294,30 @@
       "publishedAt": "2026-10-16T14:01:00Z",
       "summary": "",
       "url": "https://www.downtoearth.org.in/energy/over-1000-clean-energy-projects-got-rs-1443-crore-but-rd-funding-weak-on-manufacturing"
+    },
+    {
+      "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273932&PAGE_CD=N0002&CMPT_CD=M0112",
+      "title": "'반도체 강국' 대만은 어떻게 민주주의를 일궜나",
+      "source": "ohmynews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273932&PAGE_CD=N0002&CMPT_CD=M0112"
+    },
+    {
+      "id": "http://www.reflector.com/news/local/pitt-commissioners-to-hear-details-on-current-data-center-rules/article_a61257f2-86d0-4d3c-b255-06a7622be9cc.html",
+      "title": "Pitt commissioners to hear details on current data center rules",
+      "source": "reflector.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
+      "summary": "",
+      "url": "http://www.reflector.com/news/local/pitt-commissioners-to-hear-details-on-current-data-center-rules/article_a61257f2-86d0-4d3c-b255-06a7622be9cc.html"
     },
     {
       "id": "https://www.aol.co.uk/articles/uks-electricity-grid-crumbling-brits-050000000.html",
@@ -402,18 +378,6 @@
       "publishedAt": "2026-10-17T01:16:00Z",
       "summary": "",
       "url": "https://1063thebuzz.com/ixp/514/p/texas-water-investigation-156-data-centers/"
-    },
-    {
-      "id": "https://insight.kontan.co.id/news/bisnis-data-center-angkat-prospek-totl",
-      "title": "Bisnis Data Center Angkat Prospek TOTL",
-      "source": "insight.kontan.co.id",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:16:00Z",
-      "publishedAt": "2026-10-17T01:16:00Z",
-      "summary": "",
-      "url": "https://insight.kontan.co.id/news/bisnis-data-center-angkat-prospek-totl"
     },
     {
       "id": "https://www.techradar.com/pro/remarkably-close-to-the-minimum-permitted-by-physics-this-superconducting-memory-bit-runs-at-an-estimated-5x-the-limit-but-at-269-c-the-fridge-shrinks-its-claimed-million-fold-edge-over-todays-chips-considerably",
@@ -488,18 +452,6 @@
       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69859318-the-biotech-growth-trust-plc-net-asset-value-s-008.htm"
     },
     {
-      "id": "https://www.news-medical.net/life-sciences/The-Magic-of-Mushrooms-Medicine-Biotechnology-and-Sustainability.aspx",
-      "title": "The Magic of Mushrooms: Medicine, Biotechnology, and Sustainability",
-      "source": "news-medical.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
-      "summary": "",
-      "url": "https://www.news-medical.net/life-sciences/The-Magic-of-Mushrooms-Medicine-Biotechnology-and-Sustainability.aspx"
-    },
-    {
       "id": "https://obj.ca/data/business-improvement-areas/",
       "title": "OBJ Data Centre | Ottawa Business Journal",
       "source": "obj.ca",
@@ -560,6 +512,18 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101706531909508"
     },
     {
+      "id": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
+      "title": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
+      "source": "thehindu.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T21:02:00Z",
+      "publishedAt": "2026-10-16T21:02:00Z",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece"
+    },
+    {
       "id": "https://www.energy-pedia.com/news/ireland/echelon-to-establish-ireland%E2%80%99s-first-green-energy-park-at-data-centre-campus-in-wicklow-205693",
       "title": "Ireland: Echelon to establish Ireland's first green energy park at data centre campus in Wicklow",
       "source": "energy-pedia.com",
@@ -572,40 +536,16 @@
       "url": "https://www.energy-pedia.com/news/ireland/echelon-to-establish-ireland%E2%80%99s-first-green-energy-park-at-data-centre-campus-in-wicklow-205693"
     },
     {
-      "id": "https://mashable.com/tech/data-center-security",
-      "title": "Data centers are valuable targets, even outside of warfare",
-      "source": "mashable.com",
+      "id": "https://insight.kontan.co.id/news/bisnis-data-center-angkat-prospek-totl",
+      "title": "Bisnis Data Center Angkat Prospek TOTL",
+      "source": "insight.kontan.co.id",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T23:16:00Z",
-      "publishedAt": "2026-10-16T23:16:00Z",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T01:16:00Z",
+      "publishedAt": "2026-10-17T01:16:00Z",
       "summary": "",
-      "url": "https://mashable.com/tech/data-center-security"
-    },
-    {
-      "id": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-halt-to-incentives-for-google-data-centre-project/article71555249.ece",
-      "title": "CPI(M) seeks halt to incentives for Google data centre project",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T21:02:00Z",
-      "publishedAt": "2026-10-16T21:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-halt-to-incentives-for-google-data-centre-project/article71555249.ece"
-    },
-    {
-      "id": "https://dailypioneer.com/telangana/cm-revanth-reddy-urges-hyundai-to-establish-car-manufacturing-unit-in-telangana",
-      "title": "CM Revanth Reddy Urges Hyundai to Establish Car Manufacturing Unit in Telangana",
-      "source": "dailypioneer.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://dailypioneer.com/telangana/cm-revanth-reddy-urges-hyundai-to-establish-car-manufacturing-unit-in-telangana"
+      "url": "https://insight.kontan.co.id/news/bisnis-data-center-angkat-prospek-totl"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/palladyne-ai-corp/14078",
@@ -680,16 +620,16 @@
       "url": "http://inews24.com/view/2015964"
     },
     {
-      "id": "http://www.koreatimes.com/article/20261015/1634029",
-      "title": "LG전자·애플 ‘AI홈’ 12월 출시… AI 매개 협업 커진다 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
+      "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report/articleshow/135011447.cms",
+      "title": "global AI expansion: Rising borrowing costs signal funding risks for global AI expansion: Report - The Economic Times",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T09:17:00Z",
-      "publishedAt": "2026-10-16T09:17:00Z",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T10:31:00Z",
+      "publishedAt": "2026-10-17T10:31:00Z",
       "summary": "",
-      "url": "http://www.koreatimes.com/article/20261015/1634029"
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-report/articleshow/135011447.cms"
     },
     {
       "id": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/",
@@ -738,15 +678,75 @@
       "publishedAt": "2026-10-16T18:02:00Z",
       "summary": "",
       "url": "https://www.chroniclejournal.com/atlantic/everwind-says-10b-ai-data-centre-proposal-largest-private-investment-in-n-s-history/article_53cfe0f0-fc54-55b9-abd6-dc35cbf25838.html"
+    },
+    {
+      "id": "http://www.editorandpublisher.com/stories/cnn-announces-ai-partnership-with-google,264026",
+      "title": "CNN announces AI partnership with Google - Editor and Publisher",
+      "source": "editorandpublisher.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:02:00Z",
+      "publishedAt": "2026-10-16T14:02:00Z",
+      "summary": "",
+      "url": "http://www.editorandpublisher.com/stories/cnn-announces-ai-partnership-with-google,264026"
+    },
+    {
+      "id": "https://androidguys.com/news/reolink-home-hub-2-on-device-ai-16mp-camera-support-and-subscription-free-security-storage/",
+      "title": "Reolink Home Hub 2 Launches With Local AI Video Search and Expandable Storage",
+      "source": "androidguys.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T14:01:00Z",
+      "publishedAt": "2026-10-16T14:01:00Z",
+      "summary": "",
+      "url": "https://androidguys.com/news/reolink-home-hub-2-on-device-ai-16mp-camera-support-and-subscription-free-security-storage/"
+    },
+    {
+      "id": "https://www.kjrh.com/shows/catch-me-up/bullets-death-threats-over-ai-data-centers-ukraine-crisis-scoop-deville-on-music",
+      "title": "Bullets & Death Threats Over AI Data Centers, Ukraine Crisis, Scoop DeVille on Music",
+      "source": "kjrh.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T01:16:00Z",
+      "publishedAt": "2026-10-17T01:16:00Z",
+      "summary": "",
+      "url": "https://www.kjrh.com/shows/catch-me-up/bullets-death-threats-over-ai-data-centers-ukraine-crisis-scoop-deville-on-music"
+    },
+    {
+      "id": "http://www.newjerseytelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+      "title": "ASML says strong chip orders signal AI spending boom has room to run",
+      "source": "newjerseytelegraph.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T01:16:00Z",
+      "publishedAt": "2026-10-17T01:16:00Z",
+      "summary": "",
+      "url": "http://www.newjerseytelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run"
+    },
+    {
+      "id": "https://www.miragenews.com/robot-bees-ai-flowers-tech-solution-to-save-1041822/",
+      "title": "Robot Bees & AI Flowers: Tech-Solution to Save Pollinators",
+      "source": "miragenews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-16",
+      "dateRaw": "2026-10-16T21:02:00Z",
+      "publishedAt": "2026-10-16T21:02:00Z",
+      "summary": "",
+      "url": "https://www.miragenews.com/robot-bees-ai-flowers-tech-solution-to-save-1041822/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 604,
-    "fetchedItems": 3436,
-    "relevantItems": 70,
-    "feedBytes": 978237,
+    "poolSize": 543,
+    "fetchedItems": 4285,
+    "relevantItems": 53,
+    "feedBytes": 1226353,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
