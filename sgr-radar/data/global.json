@@ -2,33 +2,21 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 17. 오후 10:58:04",
+  "updatedAt": "2026. 10. 18. 오전 01:57:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 607,
-    "passed": 50,
-    "deduped": 50,
-    "eventDeduped": 50,
+    "raw": 536,
+    "passed": 44,
+    "deduped": 44,
+    "eventDeduped": 44,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
-      "title": "China to add AI, biopharma and solar tech to export control list",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01774486645613904&mediaCodeNo=257",
       "title": "몸값 높아진 원화, 환율 안정세 지속할까",
@@ -78,6 +66,18 @@
       "url": "http://www.europesun.com/news/279380758/us-waives-russian-oil-tariffs-but-uncertainty-prevails-as-washington-retains-leverage-gtri"
     },
     {
+      "id": "https://cyprus-mail.com/2026/10/17/trump-waives-key-russia-related-sanctions-tariffs-before-they-take-effect-under-new-law",
+      "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
+      "source": "cyprus-mail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T13:46:00Z",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "summary": "",
+      "url": "https://cyprus-mail.com/2026/10/17/trump-waives-key-russia-related-sanctions-tariffs-before-they-take-effect-under-new-law"
+    },
+    {
       "id": "http://www.russiaherald.com/news/279380865/us-tariff-waiver-on-russian-crude-a-comforting-relief-but-trade-uncertainties-persist-careedge-chief-economist-rajani-sinha",
       "title": "US tariff waiver on Russian crude a comforting relief, but trade uncertainties persist: CareEdge Chief Economist Rajani Sinha",
       "source": "russiaherald.com",
@@ -102,18 +102,6 @@
       "url": "https://aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585"
     },
     {
-      "id": "https://247wallst.com/cards/xpost-01m52ek22w22cb03kbdhsrmb9j",
-      "title": "Fed Chair Warsh says AI will fundamentally change how monetary policy is made",
-      "source": "247wallst.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://247wallst.com/cards/xpost-01m52ek22w22cb03kbdhsrmb9j"
-    },
-    {
       "id": "https://www.hani.co.kr/arti/society/society_general/1282855.html",
       "title": "“불 끄는 것 당연한 의무로 여겼는데”…추미애 지사 면담 뒤 유가족 탈진까지",
       "source": "hani.co.kr",
@@ -126,31 +114,31 @@
       "url": "https://www.hani.co.kr/arti/society/society_general/1282855.html"
     },
     {
-      "id": "https://www.thailand-business-news.com/set/334172-value-up-comes-to-asean-how-six-markets-are-racing-to-close-the-discount-set-news",
-      "title": "Value-Up Arrives in ASEAN: Six Markets Competing to Narrow the Gap - Thailand Business News",
-      "source": "thailand-business-news.com",
+      "id": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga",
+      "title": "World Bank plans to expand critical minerals business fivefold in five years, says World Bank President Ajay Banga",
+      "source": "northkoreatimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T01:17:00Z",
-      "publishedAt": "2026-10-17T01:17:00Z",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
-      "url": "https://www.thailand-business-news.com/set/334172-value-up-comes-to-asean-how-six-markets-are-racing-to-close-the-discount-set-news"
+      "url": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga"
+    },
+    {
+      "id": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/",
+      "title": "World Bank Critical Minerals Goal: Fivefold Growth in Five Years",
+      "source": "en.shafaqna.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
+      "summary": "",
+      "url": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
-      "title": "China to add AI, biopharma and solar tech to export control list",
-      "source": "asia.nikkei.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01774486645613904&mediaCodeNo=257",
       "title": "몸값 높아진 원화, 환율 안정세 지속할까",
@@ -260,6 +248,18 @@
       "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-100-percent-tariffs-on-russian-oil-buyers-india-temporary-relief-us-trade-policy-gtri-warning/articleshow/135008071.cms"
     },
     {
+      "id": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/",
+      "title": "Trump Waives Russia-Related Sanctions, Averting Threat of 100% Tariffs on India and China",
+      "source": "pragativadi.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T06:01:00Z",
+      "publishedAt": "2026-10-17T06:01:00Z",
+      "summary": "",
+      "url": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/"
+    },
+    {
       "id": "https://aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585",
       "title": "Türkiye’s export value per kilogram surges as high-tech sectors boost revenue: Trade minister",
       "source": "aa.com.tr",
@@ -282,18 +282,6 @@
       "publishedAt": "2026-10-16T18:02:00Z",
       "summary": "",
       "url": "http://www.oklahomacitysun.com/news/279379375/india-diversifying-oil-sources-boosting-refining-capacity-to-strengthen-energy-security-hardeep-puri"
-    },
-    {
-      "id": "https://247wallst.com/cards/xpost-01m52ek22w22cb03kbdhsrmb9j",
-      "title": "Fed Chair Warsh says AI will fundamentally change how monetary policy is made",
-      "source": "247wallst.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://247wallst.com/cards/xpost-01m52ek22w22cb03kbdhsrmb9j"
     },
     {
       "id": "https://www.hani.co.kr/arti/society/society_general/1282855.html",
@@ -320,6 +308,42 @@
       "url": "http://www.koreatimes.com/article/20261016/1634193"
     },
     {
+      "id": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga",
+      "title": "World Bank plans to expand critical minerals business fivefold in five years, says World Bank President Ajay Banga",
+      "source": "northkoreatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
+      "summary": "",
+      "url": "http://www.northkoreatimes.com/news/279378060/world-bank-plans-to-expand-critical-minerals-business-fivefold-in-five-years-says-world-bank-president-ajay-banga"
+    },
+    {
+      "id": "https://en.shafaqna.com/484701/nasdaq-falls-ahead-of-earnings-oil-prices-jump/",
+      "title": "Nasdaq Falls Ahead of Earnings as Oil Prices Jump",
+      "source": "en.shafaqna.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
+      "summary": "",
+      "url": "https://en.shafaqna.com/484701/nasdaq-falls-ahead-of-earnings-oil-prices-jump/"
+    },
+    {
+      "id": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/",
+      "title": "World Bank Critical Minerals Goal: Fivefold Growth in Five Years",
+      "source": "en.shafaqna.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
+      "summary": "",
+      "url": "https://en.shafaqna.com/485353/world-bank-critical-minerals-fivefold-growth/"
+    },
+    {
       "id": "https://www.orissapost.com/bessent-urges-imf-to-scrutinise-chinas-non-market-policies-exchange-rates/",
       "title": "Bessent urges IMF to scrutinise China's 'non-market' policies, exchange rates - OrissaPOST",
       "source": "orissapost.com",
@@ -330,18 +354,6 @@
       "publishedAt": "2026-10-17T13:46:00Z",
       "summary": "",
       "url": "https://www.orissapost.com/bessent-urges-imf-to-scrutinise-chinas-non-market-policies-exchange-rates/"
-    },
-    {
-      "id": "https://www.breitbart.com/clips/2026/10/17/kellogg-diesel-oil-prices-are-up-due-to-middle-east-not-zelensky/",
-      "title": "Kellogg: Diesel, Oil Prices Are Up Due to Middle East, Not Zelensky",
-      "source": "breitbart.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T13:46:00Z",
-      "publishedAt": "2026-10-17T13:46:00Z",
-      "summary": "",
-      "url": "https://www.breitbart.com/clips/2026/10/17/kellogg-diesel-oil-prices-are-up-due-to-middle-east-not-zelensky/"
     },
     {
       "id": "https://www.businessinsider.com/walmart-says-higher-fuel-costs-will-offset-tariff-refund-benefit-2026-10",
@@ -452,28 +464,28 @@
       "url": "https://saiia.org.za/project/futures-of-critical-minerals-in-southern-africa-building-anticipatory-governance/"
     },
     {
-      "id": "https://iberonews.com/not_det.php?lang=es¬id=110807",
-      "title": "Dubai Culture: Dubai Ranks First Globally in Attracting New FDI Projects in Cultural and Creative Industries in 2025 - Iberonews",
-      "source": "iberonews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://iberonews.com/not_det.php?lang=es¬id=110807"
-    },
-    {
-      "id": "http://www.argentinastar.com/news/279377178/lagarde-could-leave-ecb-early-to-become-wef-chair-sources-say",
+      "id": "http://www.cincinnatisun.com/news/279377178/lagarde-could-leave-ecb-early-to-become-wef-chair-sources-say",
       "title": "Lagarde could leave ECB early to become WEF chair, sources say",
-      "source": "argentinastar.com",
+      "source": "cincinnatisun.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T13:47:00Z",
-      "publishedAt": "2026-10-17T13:47:00Z",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
-      "url": "http://www.argentinastar.com/news/279377178/lagarde-could-leave-ecb-early-to-become-wef-chair-sources-say"
+      "url": "http://www.cincinnatisun.com/news/279377178/lagarde-could-leave-ecb-early-to-become-wef-chair-sources-say"
+    },
+    {
+      "id": "https://www.armidaleexpress.com.au/story/9370345/once-great-libs-have-lost-way-on-free-trade-minister/",
+      "title": "'Once great' Libs have lost way on free trade: minister",
+      "source": "armidaleexpress.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-17",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
+      "summary": "",
+      "url": "https://www.armidaleexpress.com.au/story/9370345/once-great-libs-have-lost-way-on-free-trade-minister/"
     },
     {
       "id": "https://www.businesstoday.in/personal-finance/story/sbi-research-urges-tax-clarity-on-g-secs-ecb-rules-to-deepen-domestic-borrowing-markets-562074-2026-10-16",
@@ -488,52 +500,16 @@
       "url": "https://www.businesstoday.in/personal-finance/story/sbi-research-urges-tax-clarity-on-g-secs-ecb-rules-to-deepen-domestic-borrowing-markets-562074-2026-10-16"
     },
     {
-      "id": "https://www.businesspost.ie/banking/heres-how-much-small-businesses-are-paying-for-loans-after-ecb-rate-hikes/",
-      "title": "Hereâ€™s how much small businesses are paying for loans after ECB rate hikes",
-      "source": "businesspost.ie",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:02:00Z",
-      "publishedAt": "2026-10-16T14:02:00Z",
-      "summary": "",
-      "url": "https://www.businesspost.ie/banking/heres-how-much-small-businesses-are-paying-for-loans-after-ecb-rate-hikes/"
-    },
-    {
-      "id": "http://www.indiagazette.com/news/279378754/ruler-of-ras-al-khaimah-indian-external-affairs-minister-discuss-strengthening-economic-trade-ties",
-      "title": "Ruler of Ras Al Khaimah, Indian External Affairs Minister discuss strengthening economic, trade ties",
-      "source": "indiagazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "http://www.indiagazette.com/news/279378754/ruler-of-ras-al-khaimah-indian-external-affairs-minister-discuss-strengthening-economic-trade-ties"
-    },
-    {
-      "id": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1856102/beyond-one-border-how-canadian-companies-can-turn-trade-diversification-into-global-growth",
-      "title": "Beyond One Border: How Canadian Companies Can Turn Trade Diversification Into Global Growth",
-      "source": "mondaq.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1856102/beyond-one-border-how-canadian-companies-can-turn-trade-diversification-into-global-growth"
-    },
-    {
-      "id": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/",
-      "title": "Trump Waives Russia-Related Sanctions, Averting Threat of 100% Tariffs on India and China",
-      "source": "pragativadi.com",
+      "id": "https://radio.wpsu.org/2026-10-17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "source": "radio.wpsu.org",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-17",
-      "dateRaw": "2026-10-17T06:01:00Z",
-      "publishedAt": "2026-10-17T06:01:00Z",
+      "dateRaw": "2026-10-17T16:47:00Z",
+      "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
-      "url": "https://pragativadi.com/trump-waives-russia-related-sanctions-averting-threat-of-100-tariffs-on-india-and-china/"
+      "url": "https://radio.wpsu.org/2026-10-17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold"
     },
     {
       "id": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692",
@@ -546,18 +522,6 @@
       "publishedAt": "2026-10-17T01:16:00Z",
       "summary": "",
       "url": "https://www.energy-pedia.com/news/united-kingdom/urgent-action-needed-on-gas-storage-to-protect-energy-security-and-jobs-205692"
-    },
-    {
-      "id": "https://www.pr-inside.com/as-tariffs-push-manufacturers-to-reshore-woods-distribution-offers-r5234121.htm",
-      "title": "As Tariffs Push Manufacturers to Reshore, Woods Distribution Offers ...",
-      "source": "pr-inside.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://www.pr-inside.com/as-tariffs-push-manufacturers-to-reshore-woods-distribution-offers-r5234121.htm"
     },
     {
       "id": "https://greatbendpost.com/posts/564552bd-67aa-4f75-8b48-159e7dd262d3",
@@ -594,18 +558,6 @@
       "publishedAt": "2026-10-17T13:46:00Z",
       "summary": "",
       "url": "https://www.naroomanewsonline.com.au/story/9370329/zelenskiy-backs-sanctions-on-russia-after-trump-pause/"
-    },
-    {
-      "id": "https://www.wyff4.com/article/zelenskyy-support-new-us-sanctions-russia-trump-hold/74166472",
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "source": "wyff4.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T13:46:00Z",
-      "publishedAt": "2026-10-17T13:46:00Z",
-      "summary": "",
-      "url": "https://www.wyff4.com/article/zelenskyy-support-new-us-sanctions-russia-trump-hold/74166472"
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
@@ -690,39 +642,15 @@
       "publishedAt": "2026-10-17T06:01:00Z",
       "summary": "",
       "url": "http://www.reflector.com/news/national/trump-puts-new-russia-sanctions-that-he-recently-signed-into-law-on-hold-citing-national/article_a7c8114a-4bdc-5c4b-baeb-7b709dba2940.html"
-    },
-    {
-      "id": "https://en.apa.az/energy-and-industry/energy-security-in-the-south-caucasus-discussed-at-russian-energy-week-530560",
-      "title": "Energy security in the South Caucasus discussed at Russian Energy Week",
-      "source": "en.apa.az",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://en.apa.az/energy-and-industry/energy-security-in-the-south-caucasus-discussed-at-russian-energy-week-530560"
-    },
-    {
-      "id": "https://en.antaranews.com/news/436029/indonesia-readies-contingency-measures-against-eu-and-uk-steel-tariffs",
-      "title": "Indonesia readies contingency measures against EU and UK steel tariffs",
-      "source": "en.antaranews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-16",
-      "dateRaw": "2026-10-16T14:01:00Z",
-      "publishedAt": "2026-10-16T14:01:00Z",
-      "summary": "",
-      "url": "https://en.antaranews.com/news/436029/indonesia-readies-contingency-measures-against-eu-and-uk-steel-tariffs"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 607,
-    "fetchedItems": 3917,
-    "relevantItems": 76,
-    "feedBytes": 1151407,
+    "poolSize": 536,
+    "fetchedItems": 4049,
+    "relevantItems": 72,
+    "feedBytes": 1128935,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
