@@ -6,14 +6,14 @@
   "paidApi": false,
   "searchApi": false,
   "aiTokens": false,
-  "mode": "retry",
-  "runDateKst": "2026-10-17",
-  "updatedAt": "2026-10-17T04:37:37.670591Z",
-  "updatedAtKorea": "2026. 10. 17. 13:37:37 KST",
+  "mode": "primary",
+  "runDateKst": "2026-10-18",
+  "updatedAt": "2026-10-17T23:08:07.256646Z",
+  "updatedAtKorea": "2026. 10. 18. 08:08:07 KST",
   "count": 15,
   "successCount": 15,
-  "freshSuccessCount": 15,
-  "staleCount": 0,
+  "freshSuccessCount": 14,
+  "staleCount": 1,
   "institutions": [
     {
       "id": "mgi",
@@ -23,23 +23,23 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:33:58.889056Z",
+      "fetchedAt": "2026-10-17T23:07:03.662613Z",
       "sourceUrl": "https://www.mckinsey.com/mgi/overview?content_language=English",
-      "lastAttemptAt": "2026-10-16T23:33:57.366992Z",
+      "lastAttemptAt": "2026-10-17T23:07:02.404129Z",
       "error": ""
     },
     {
       "id": "bhi",
       "institution": "BCG Henderson Institute",
       "ok": true,
-      "fetchOk": true,
+      "fetchOk": false,
       "hasData": true,
-      "stale": false,
+      "stale": true,
       "itemCount": 10,
       "fetchedAt": "2026-10-16T23:34:14.000548Z",
       "sourceUrl": "https://www.bcg.com/bcg-institute",
-      "lastAttemptAt": "2026-10-16T23:33:59.689705Z",
-      "error": ""
+      "lastAttemptAt": "2026-10-17T23:07:04.463422Z",
+      "error": "https://www.bcg.com/bcg-institute: headless Chrome timed out"
     },
     {
       "id": "nri",
@@ -49,9 +49,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:15.474998Z",
+      "fetchedAt": "2026-10-17T23:07:34.387931Z",
       "sourceUrl": "https://www.nri.com/en/knowledge",
-      "lastAttemptAt": "2026-10-16T23:34:14.801173Z",
+      "lastAttemptAt": "2026-10-17T23:07:33.635369Z",
       "error": ""
     },
     {
@@ -62,9 +62,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:16.747235Z",
+      "fetchedAt": "2026-10-17T23:07:35.680741Z",
       "sourceUrl": "https://www.csis.org/analysis",
-      "lastAttemptAt": "2026-10-16T23:34:16.360073Z",
+      "lastAttemptAt": "2026-10-17T23:07:35.189008Z",
       "error": ""
     },
     {
@@ -75,9 +75,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 6,
-      "fetchedAt": "2026-10-16T23:34:17.957816Z",
+      "fetchedAt": "2026-10-17T23:07:36.851147Z",
       "sourceUrl": "https://www.rand.org/pubs.html",
-      "lastAttemptAt": "2026-10-16T23:34:17.598014Z",
+      "lastAttemptAt": "2026-10-17T23:07:36.481910Z",
       "error": ""
     },
     {
@@ -88,9 +88,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:20.502722Z",
+      "fetchedAt": "2026-10-17T23:07:39.409823Z",
       "sourceUrl": "https://en.drc.gov.cn/",
-      "lastAttemptAt": "2026-10-16T23:34:18.758294Z",
+      "lastAttemptAt": "2026-10-17T23:07:37.652404Z",
       "error": ""
     },
     {
@@ -101,9 +101,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:23.322858Z",
+      "fetchedAt": "2026-10-17T23:07:42.049123Z",
       "sourceUrl": "https://ir.mri.co.jp/ja/news.html",
-      "lastAttemptAt": "2026-10-16T23:34:21.303207Z",
+      "lastAttemptAt": "2026-10-17T23:07:40.210744Z",
       "error": ""
     },
     {
@@ -114,9 +114,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:24.806806Z",
+      "fetchedAt": "2026-10-17T23:07:43.270052Z",
       "sourceUrl": "https://www.chathamhouse.org/path/whatsnew.xml",
-      "lastAttemptAt": "2026-10-16T23:34:24.123413Z",
+      "lastAttemptAt": "2026-10-17T23:07:42.850346Z",
       "error": ""
     },
     {
@@ -127,9 +127,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 1,
-      "fetchedAt": "2026-10-16T23:34:32.470234Z",
+      "fetchedAt": "2026-10-17T23:07:53.608583Z",
       "sourceUrl": "https://beach.bruegel.org/",
-      "lastAttemptAt": "2026-10-16T23:34:25.607361Z",
+      "lastAttemptAt": "2026-10-17T23:07:44.071086Z",
       "error": ""
     },
     {
@@ -140,9 +140,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:33.974146Z",
+      "fetchedAt": "2026-10-17T23:07:54.992047Z",
       "sourceUrl": "https://www.cfr.org/latest",
-      "lastAttemptAt": "2026-10-16T23:34:33.270782Z",
+      "lastAttemptAt": "2026-10-17T23:07:54.409402Z",
       "error": ""
     },
     {
@@ -153,9 +153,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:35.187734Z",
+      "fetchedAt": "2026-10-17T23:07:56.255211Z",
       "sourceUrl": "https://www.orfonline.org/all-updates",
-      "lastAttemptAt": "2026-10-16T23:34:34.774848Z",
+      "lastAttemptAt": "2026-10-17T23:07:55.793236Z",
       "error": ""
     },
     {
@@ -166,9 +166,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:37.029982Z",
+      "fetchedAt": "2026-10-17T23:07:58.050276Z",
       "sourceUrl": "https://www.lowyinstitute.org/",
-      "lastAttemptAt": "2026-10-16T23:34:35.988437Z",
+      "lastAttemptAt": "2026-10-17T23:07:57.056209Z",
       "error": ""
     },
     {
@@ -179,9 +179,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:40.604109Z",
+      "fetchedAt": "2026-10-17T23:08:04.040639Z",
       "sourceUrl": "https://portal.fgv.br/en/news",
-      "lastAttemptAt": "2026-10-16T23:34:37.830712Z",
+      "lastAttemptAt": "2026-10-17T23:07:58.851232Z",
       "error": ""
     },
     {
@@ -192,9 +192,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:42.140345Z",
+      "fetchedAt": "2026-10-17T23:08:05.572638Z",
       "sourceUrl": "https://issafrica.org/iss-today",
-      "lastAttemptAt": "2026-10-16T23:34:41.404814Z",
+      "lastAttemptAt": "2026-10-17T23:08:04.841805Z",
       "error": ""
     },
     {
@@ -205,9 +205,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-10-16T23:34:44.004168Z",
+      "fetchedAt": "2026-10-17T23:08:07.255516Z",
       "sourceUrl": "https://portal.cigionline.org/",
-      "lastAttemptAt": "2026-10-16T23:34:42.941081Z",
+      "lastAttemptAt": "2026-10-17T23:08:06.373742Z",
       "error": ""
     }
   ]
