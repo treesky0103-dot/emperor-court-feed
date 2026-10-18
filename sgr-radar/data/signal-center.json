@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오후 07:57:49",
+  "updatedAt": "2026. 10. 18. 오후 11:25:46",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -426,16 +426,18 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026101706531909508"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/car/1282871.html",
-          "title": "[현장] 1700개 용접점에 가는 길도 AI가 찾는다…현대차 공장의 미래",
-          "source": "hani.co.kr",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225684",
+          "title": "동탄·영통 넘어 분당도…반도체 머니 '북진' 어디까지",
+          "source": "mbn.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-10-18",
-          "dateRaw": "2026-10-18T01:01:00Z",
-          "publishedAt": "2026-10-18T01:01:00Z",
+          "dateRaw": "2026-10-18T10:30:00Z",
+          "publishedAt": "2026-10-18T10:30:00Z",
           "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/car/1282871.html"
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225684",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
@@ -448,15 +450,15 @@
           "count": 2
         },
         {
+          "word": "반도체",
+          "count": 2
+        },
+        {
           "word": "로봇",
           "count": 1
         },
         {
           "word": "바이오",
-          "count": 1
-        },
-        {
-          "word": "반도체",
           "count": 1
         },
         {
@@ -473,16 +475,16 @@
     "humanities": {
       "items": [
         {
-          "id": "https://www.thehindu.com/news/national/andhra-pradesh/aspirants-question-15-year-delay-in-job-notification-for-women-and-child-welfare-department-in-andhra-pradesh/article71587709.ece",
-          "title": "Aspirants question 15-year delay in job notification for Women and Child Welfare Department in Andhra Pradesh",
+          "id": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece",
+          "title": "Donald Trump says ‘France is burning’, country ‘shattered’ by immigration",
           "source": "thehindu.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-18",
-          "dateRaw": "2026-10-18T01:01:00Z",
-          "publishedAt": "2026-10-18T01:01:00Z",
+          "dateRaw": "2026-10-18T14:17:00Z",
+          "publishedAt": "2026-10-18T14:17:00Z",
           "summary": "",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/aspirants-question-15-year-delay-in-job-notification-for-women-and-child-welfare-department-in-andhra-pradesh/article71587709.ece"
+          "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece"
         },
         {
           "id": "https://www.nursinginpractice.com/latest-news/immigration-reform-could-put-thousands-of-healthcare-staff-at-risk/",
@@ -600,7 +602,7 @@
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
         },
         {
           "word": "청년",
@@ -908,9 +910,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1678,
-    "fetchedItems": 3751,
-    "feedBytes": 1075172,
+    "poolSize": 1707,
+    "fetchedItems": 3919,
+    "feedBytes": 1121968,
     "rollingWindowHours": 72
   }
 }

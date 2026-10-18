@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오후 07:57:44",
+  "updatedAt": "2026. 10. 18. 오후 11:25:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 357,
+    "raw": 334,
     "passed": 9,
     "deduped": 9,
     "eventDeduped": 9,
@@ -17,6 +17,18 @@
     "targetMet": false
   },
   "items": [
+    {
+      "id": "https://www.latimes.com/b2b/entertainment/story/2026-10-18/music-business-model-2026",
+      "title": "The 2026 Music Business Model: How the Modern Industry Actually Works",
+      "source": "latimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-18",
+      "dateRaw": "2026-10-18T14:17:00Z",
+      "publishedAt": "2026-10-18T14:17:00Z",
+      "summary": "",
+      "url": "https://www.latimes.com/b2b/entertainment/story/2026-10-18/music-business-model-2026"
+    },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
       "title": "Fintech platform iCapital plans more Singapore hires even as AI takes on 75% of coding work",
@@ -40,18 +52,6 @@
       "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
       "url": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/"
-    },
-    {
-      "id": "https://www.ibtimes.co.uk/artificial-intelligence-now-top-reason-layoffs-whilst-also-inspiring-new-businesses-1826193",
-      "title": "Artificial Intelligence Is Now the Top Reason for Layoffs Whilst Also Inspiring New Businesses",
-      "source": "ibtimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T13:47:00Z",
-      "publishedAt": "2026-10-17T13:47:00Z",
-      "summary": "",
-      "url": "https://www.ibtimes.co.uk/artificial-intelligence-now-top-reason-layoffs-whilst-also-inspiring-new-businesses-1826193"
     },
     {
       "id": "http://inews24.com/view/2015871",
@@ -128,6 +128,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.latimes.com/b2b/entertainment/story/2026-10-18/music-business-model-2026",
+      "title": "The 2026 Music Business Model: How the Modern Industry Actually Works",
+      "source": "latimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-18",
+      "dateRaw": "2026-10-18T14:17:00Z",
+      "publishedAt": "2026-10-18T14:17:00Z",
+      "summary": "",
+      "url": "https://www.latimes.com/b2b/entertainment/story/2026-10-18/music-business-model-2026"
+    },
+    {
       "id": "https://www.businesstimes.com.sg/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
       "title": "Fintech platform iCapital plans more Singapore hires even as AI takes on 75% of coding work",
       "source": "businesstimes.com.sg",
@@ -150,18 +162,6 @@
       "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
       "url": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/"
-    },
-    {
-      "id": "https://www.ibtimes.co.uk/artificial-intelligence-now-top-reason-layoffs-whilst-also-inspiring-new-businesses-1826193",
-      "title": "Artificial Intelligence Is Now the Top Reason for Layoffs Whilst Also Inspiring New Businesses",
-      "source": "ibtimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-17",
-      "dateRaw": "2026-10-17T13:47:00Z",
-      "publishedAt": "2026-10-17T13:47:00Z",
-      "summary": "",
-      "url": "https://www.ibtimes.co.uk/artificial-intelligence-now-top-reason-layoffs-whilst-also-inspiring-new-businesses-1826193"
     },
     {
       "id": "https://www.businesstimes.com.sg/singapore/economy-policy/sm-lee-calls-renewed-tripartite-ties-safeguard-port-jobs-amid-ai-trade-headwinds",
@@ -239,10 +239,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 357,
-    "fetchedItems": 3751,
-    "relevantItems": 61,
-    "feedBytes": 1075172,
+    "poolSize": 334,
+    "fetchedItems": 3919,
+    "relevantItems": 49,
+    "feedBytes": 1121968,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
