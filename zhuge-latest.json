@@ -3,7 +3,7 @@
   "planDay": "2026-10-18",
   "planSetId": "zps-20261018-7b9480dd",
   "generatedAt": "2026-10-17T23:42:50.997Z",
-  "publishedAt": "2026-10-18T00:25:41.940Z",
+  "publishedAt": "2026-10-18T01:01:30.239Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -526,7 +526,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-89d5723f",
         "status": "ready",
-        "generatedAt": "2026-10-18T00:25:18.546Z",
+        "generatedAt": "2026-10-18T01:00:21.218Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -718,7 +718,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-18T00:25:16.886Z",
+        "generatedAt": "2026-10-18T01:01:24.951Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -743,76 +743,76 @@
           ]
         },
         "bookTitle": "불확실할 때 던지는 질문",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "provider": "gemini",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "궁금증",
-            "headline": "정답이 없는 세상에서 나쁜 결정을 피하는 가장 지적인 생각의 기술",
+            "headline": "정보가 많을수록\n결정이 더 힘들어지는\n진짜 이유",
             "body": "",
             "accent": "yellow",
             "sceneId": "002",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "현상",
-            "headline": "수 있다는 강박을 버리고 불완전한 상태에서 최선의 선택을 하고 싶다.",
-            "body": "",
+            "headline": "검색을 거듭하고\n자료를 끝없이 모아도\n결국 결론을 못 내린다",
+            "body": "선택지는 늘고 확신은 줄어든다",
             "accent": "yellow",
             "sceneId": "014",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "analysis",
             "beat": "원리",
-            "headline": "양자적 불확실성의 시대에 후회 없는 선택을 내리는 확률적 사고법.",
-            "body": "",
+            "headline": "확실한 정답을 찾으려는\n완벽주의의 함정이\n판단을 가로막기 때문이다",
+            "body": "모든 것을 알고 고를 수는 없다",
             "accent": "yellow",
             "sceneId": "013",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "설명",
-            "headline": "결정을 내려야 하는 독자들의 판단 기준 수요가 급증했기 때문이다.",
-            "body": "",
+            "headline": "성공 확률을 계산하기보다\n감당할 수 있는 손실의 선을\n먼저 긋는 구조가 필요하다",
+            "body": "최악의 비용을 정하면 쉬워진다",
             "accent": "yellow",
             "sceneId": "012",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "통찰",
-            "headline": "양자적 중첩 의사결정 트리와 실패 비용 상한선 설정 체크리스트 제공.",
-            "body": "",
+            "headline": "선택은 완벽한 답을\n고르는 일이 아니라\n감당할 범위를 정하는 일이다",
+            "body": "불완전한 상태로 움직여야 한다",
             "accent": "yellow",
             "sceneId": "038",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "핵심 메시지",
-            "headline": "과학인지 자기계발인지 이 모호해져 양쪽 독자를 모두 놓칠 수 있다.",
+            "headline": "감당할 실패의 한계만 정하면\n어떤 갈림길도 두렵지 않다",
             "body": "",
             "accent": "yellow",
             "sceneId": "050",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
         "sourceRevision": "zcr-89d5723f"
@@ -1029,7 +1029,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-89d5723f",
         "status": "ready",
-        "generatedAt": "2026-10-18T00:25:20.247Z",
+        "generatedAt": "2026-10-18T01:00:23.216Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1221,7 +1221,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-10-18T00:25:16.886Z",
+        "generatedAt": "2026-10-18T01:01:24.951Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1246,76 +1246,76 @@
           ]
         },
         "bookTitle": "마케팅 툴 다이어트",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "provider": "gemini",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "강한 선언",
-            "headline": "툴이 늘어날수록 마케터는 바빠지고 회사의 은 길을 잃는다",
+            "headline": "툴이 늘어날수록\n당신의 성과는\n오히려 바닥을 친다",
             "body": "",
             "accent": "yellow",
             "sceneId": "008",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "warning",
             "beat": "공감",
-            "headline": "진짜 성과를 내는 것만 남기고 업무 흐름을 단순하게 정돈하고 싶다.",
-            "body": "",
+            "headline": "화려한 솔루션을 깔아두고\n하루 종일 창만 넘나들며\n진짜 일은 시작도 못 한다",
+            "body": "구독료만 쌓이고 시간은 샌다",
             "accent": "yellow",
             "sceneId": "028",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "구체적 증상",
-            "headline": "남발되는 AI 솔루션을 통합하고 중복 비용을 걷어내는 업무 재설계",
-            "body": "",
+            "headline": "로그인만 대여섯 번 하고\n데이터는 제각각 흩어져\n취합하는 데 반나절이 걸린다",
+            "body": "도구가 일을 방해하는 꼴이다",
             "accent": "yellow",
             "sceneId": "027",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "판단 기준",
-            "headline": "실무 현장에서는 툴 과잉 구독과 업무 파편화가 심각하기 때문이다.",
-            "body": "",
+            "headline": "마지막 결제까지 이어주는\n핵심 통로가 아니라면\n지금 전부 낭비일 뿐이다",
+            "body": "기능이 아니라 결과를 봐라",
             "accent": "yellow",
             "sceneId": "012",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "해결",
-            "headline": "툴 판별 체크리스트와 툴 제거 시 데이터 유실 방지 가이드라인 수록.",
-            "body": "",
+            "headline": "당장 이번 달 결제창을 열고\n매출에 닿지 않는 프로그램부터\n가차 없이 해지하라",
+            "body": "단 하나의 흐름만 남겨라",
             "accent": "yellow",
             "sceneId": "036",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "강한 결론",
-            "headline": "이름만 나열하다가 프로그램 업데이트로 내용이 진부해질 수 있다.",
+            "headline": "도구를 절반으로 줄여야\n비로소 진짜 성과가 남는다",
             "body": "",
             "accent": "yellow",
             "sceneId": "048",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
         "sourceRevision": "zcr-89d5723f"
@@ -1476,7 +1476,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-89d5723f",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-18T00:25:29.232Z",
+        "generatedAt": "2026-10-18T01:00:34.326Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -1528,8 +1528,8 @@
                 "specific:marketing brand nutrition diet=2",
                 "specific:marketing brand=26",
                 "specific:nutrition diet artificial intelligence=3",
-                "ai:Marketing Process Optimization=17",
-                "ai:AI Marketing Solutions=4"
+                "ai:AI Marketing Solutions=4",
+                "ai:Marketing Process Optimization=17"
               ],
               "design": "spine:30 arena:40 reedsy:24",
               "rejected": {
