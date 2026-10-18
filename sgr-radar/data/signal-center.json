@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오후 03:01:58",
+  "updatedAt": "2026. 10. 18. 오후 07:57:49",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,16 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=05123366645613248&mediaCodeNo=257",
-          "title": "전세 사기에 무너지는 청년층... 76%가 2030세대",
-          "source": "edaily.co.kr",
+          "id": "https://www.etnews.com/20261018000076",
+          "title": "카카오페이, 청년 100명과 '우리 동네 금융 불편' 해결 나서",
+          "source": "etnews.com",
           "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:01:00Z",
-          "publishedAt": "2026-10-15T10:01:00Z",
+          "sourceCountry": "KR",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T07:07:03Z",
+          "publishedAt": "2026-10-18T07:07:03Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05123366645613248&mediaCodeNo=257"
+          "url": "https://www.etnews.com/20261018000076",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261018112106",
@@ -48,20 +50,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261018000054",
-          "title": "한경국립대, 케이씨텍 직원 11명 대상 반도체 장비 맞춤형 직무교육",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T03:43:04Z",
-          "publishedAt": "2026-10-18T03:43:04Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261018000054",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1282868.html",
           "title": "웰다잉, 가족과 어떤 이야기를 나누어야 할까? [건강한겨레]",
           "source": "hani.co.kr",
@@ -72,6 +60,18 @@
           "publishedAt": "2026-10-18T01:01:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1282868.html"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01111926645614232&mediaCodeNo=257",
+          "title": "[단독] ‘전세사기 방지’ 안심신탁 1조원 약정 발표…실제 계약은 0건",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-17",
+          "dateRaw": "2026-10-17T21:16:00Z",
+          "publishedAt": "2026-10-17T21:16:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01111926645614232&mediaCodeNo=257"
         },
         {
           "id": "http://inews24.com/view/2016029",
@@ -140,12 +140,12 @@
           "count": 4
         },
         {
-          "word": "교육",
+          "word": "주거",
           "count": 2
         },
         {
-          "word": "주거",
-          "count": 2
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "복지",
@@ -191,18 +191,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257",
-          "title": "“AI 대체 직무 재교육 지원 강화하고, 새 기술 배워 생산성 높인 만큼 보상”",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:01:00Z",
-          "publishedAt": "2026-10-15T10:01:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05494006645613248&mediaCodeNo=257"
-        },
-        {
           "id": "https://www.etoday.co.kr/news/view/2636466",
           "title": "이형일 \"G20, 공급망회복력 높이고 AI 투자해야\"…G7선 글로벌불균형 완화 강조",
           "source": "etoday.co.kr",
@@ -213,6 +201,18 @@
           "publishedAt": "2026-10-16T04:46:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2636466"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01138166645614232&mediaCodeNo=257",
+          "title": "김씨마켓 대표 \"K푸드 열풍에도 美마트엔 라면뿐…수출 전략 바꿔야\"",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-17",
+          "dateRaw": "2026-10-17T21:16:00Z",
+          "publishedAt": "2026-10-17T21:16:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01138166645614232&mediaCodeNo=257"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261017181003",
@@ -301,7 +301,7 @@
           "count": 1
         },
         {
-          "word": "생산성",
+          "word": "수출",
           "count": 1
         }
       ],
@@ -497,18 +497,6 @@
           "url": "https://www.nursinginpractice.com/latest-news/immigration-reform-could-put-thousands-of-healthcare-staff-at-risk/"
         },
         {
-          "id": "https://www.thenews.com.pk/latest/1420001-openai-sued-by-eight-states-over-chatgpt-youth-safety-and-mental-health-risks",
-          "title": "OpenAI sued by eight states over ChatGPT youth safety and mental health risks",
-          "source": "thenews.com.pk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T10:01:00Z",
-          "publishedAt": "2026-10-15T10:01:00Z",
-          "summary": "",
-          "url": "https://www.thenews.com.pk/latest/1420001-openai-sued-by-eight-states-over-chatgpt-youth-safety-and-mental-health-risks"
-        },
-        {
           "id": "https://www.prokerala.com/news/articles/a1825824.html",
           "title": "Nepal balances immigration enforcement with investment protection in Chinese-funded project",
           "source": "prokerala.com",
@@ -591,12 +579,24 @@
           "publishedAt": "2026-10-16T04:46:00Z",
           "summary": "",
           "url": "https://westseattleblog.com/2026/10/reader-report-sdot-installation-for-school-street-on-45th-sw-by-madison-middle-school/"
+        },
+        {
+          "id": "https://www.wcvb.com/article/silver-rail-elementary-school-bend-oregon-report-active-shooter/74150171",
+          "title": "Multiple believed dead after active shooter reported at elementary school in Oregon",
+          "source": "wcvb.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-16",
+          "dateRaw": "2026-10-16T00:17:00Z",
+          "publishedAt": "2026-10-16T00:17:00Z",
+          "summary": "",
+          "url": "https://www.wcvb.com/article/silver-rail-elementary-school-bend-oregon-report-active-shooter/74150171"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 7
         },
         {
           "word": "이민",
@@ -604,10 +604,6 @@
         },
         {
           "word": "청년",
-          "count": 2
-        },
-        {
-          "word": "정신건강",
           "count": 1
         }
       ],
@@ -628,6 +624,18 @@
           "publishedAt": "2026-10-18T05:46:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/7-eleven-adds-hot-food-counters-16-singapore-stores-dfi-retail-sharpens-growth-focus"
+        },
+        {
+          "id": "https://www.globaltimes.cn/page/202610/1372468.shtml",
+          "title": "Record rail passenger numbers signal China’s economic resilience in Q3 as consumption, trade and investment pick up",
+          "source": "globaltimes.cn",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T10:47:00Z",
+          "publishedAt": "2026-10-18T10:47:00Z",
+          "summary": "",
+          "url": "https://www.globaltimes.cn/page/202610/1372468.shtml"
         },
         {
           "id": "https://www.hani.co.kr/arti/international/europe/1282866.html",
@@ -724,28 +732,16 @@
           "publishedAt": "2026-10-16T14:01:00Z",
           "summary": "",
           "url": "https://asia.nikkei.com/business/markets/fed-s-warsh-warns-of-financial-stability-risk-as-investment-rises"
-        },
-        {
-          "id": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1856102/beyond-one-border-how-canadian-companies-can-turn-trade-diversification-into-global-growth",
-          "title": "Beyond One Border: How Canadian Companies Can Turn Trade Diversification Into Global Growth",
-          "source": "mondaq.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T14:01:00Z",
-          "publishedAt": "2026-10-16T14:01:00Z",
-          "summary": "",
-          "url": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1856102/beyond-one-border-how-canadian-companies-can-turn-trade-diversification-into-global-growth"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 7
         },
         {
           "word": "성장",
-          "count": 4
+          "count": 3
         },
         {
           "word": "무역",
@@ -793,6 +789,18 @@
           "publishedAt": "2026-10-15T22:02:00Z",
           "summary": "",
           "url": "https://www.wral.com/news/local/tillis-criticizes-energy-policy-warns-gop-faces-losses-nc-debates-data-center-costs-october-2026/"
+        },
+        {
+          "id": "https://www.themarketsdaily.com/2026/10/18/taiwan-semiconductor-manufacturing-company-ltd-tsm-stake-reduced-by-pinestone-asset-management-inc.html",
+          "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stake Reduced by PineStone Asset Management Inc.",
+          "source": "themarketsdaily.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T10:47:00Z",
+          "publishedAt": "2026-10-18T10:47:00Z",
+          "summary": "",
+          "url": "https://www.themarketsdaily.com/2026/10/18/taiwan-semiconductor-manufacturing-company-ltd-tsm-stake-reduced-by-pinestone-asset-management-inc.html"
         },
         {
           "id": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/",
@@ -865,39 +873,27 @@
           "publishedAt": "2026-10-17T01:16:00Z",
           "summary": "",
           "url": "https://www.energy-pedia.com/news/ireland/echelon-to-establish-ireland%E2%80%99s-first-green-energy-park-at-data-centre-campus-in-wicklow-205693"
-        },
-        {
-          "id": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/",
-          "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
-          "source": "record-bee.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T18:02:00Z",
-          "publishedAt": "2026-10-16T18:02:00Z",
-          "summary": "",
-          "url": "https://www.record-bee.com/2026/10/16/us-reviving-nuclear-plants/"
         }
       ],
       "keywords": [
-        {
-          "word": "데이터센터",
-          "count": 4
-        },
         {
           "word": "AI",
           "count": 3
         },
         {
+          "word": "데이터센터",
+          "count": 3
+        },
+        {
           "word": "반도체",
-          "count": 2
+          "count": 3
         },
         {
           "word": "양자",
           "count": 1
         },
         {
-          "word": "전력",
+          "word": "제조",
           "count": 1
         },
         {
@@ -912,9 +908,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1760,
-    "fetchedItems": 2755,
-    "feedBytes": 753530,
+    "poolSize": 1678,
+    "fetchedItems": 3751,
+    "feedBytes": 1075172,
     "rollingWindowHours": 72
   }
 }

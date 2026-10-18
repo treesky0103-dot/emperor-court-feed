@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오후 03:01:55",
+  "updatedAt": "2026. 10. 18. 오후 07:57:44",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 362,
-    "passed": 8,
-    "deduped": 8,
-    "eventDeduped": 8,
-    "displayed": 8,
+    "raw": 357,
+    "passed": 9,
+    "deduped": 9,
+    "eventDeduped": 9,
+    "displayed": 9,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -76,6 +76,18 @@
       "publishedAt": "2026-10-17T16:47:00Z",
       "summary": "",
       "url": "https://www.insidenova.com/headlines/after-13-month-layoff-gavin-knox-is-regaining-his-rhythm/article_445ef55a-d3e8-4c78-b435-1af0a8b6fb8f.html"
+    },
+    {
+      "id": "https://www.courant.com/2026/10/18/what-to-do-with-college-tuition-increasing-ai-creating-job-uncertainty-ct-group-seeking-input/",
+      "title": "What to do with college tuition increasing, AI creating job uncertainty? CT group seeking input",
+      "source": "courant.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-18",
+      "dateRaw": "2026-10-18T10:47:00Z",
+      "publishedAt": "2026-10-18T10:47:00Z",
+      "summary": "",
+      "url": "https://www.courant.com/2026/10/18/what-to-do-with-college-tuition-increasing-ai-creating-job-uncertainty-ct-group-seeking-input/"
     },
     {
       "id": "https://www.siasat.com/python-with-ai-tools-course-for-job-readiness-in-hyderabad-3274127/",
@@ -188,6 +200,18 @@
       "url": "https://www.insidenova.com/headlines/after-13-month-layoff-gavin-knox-is-regaining-his-rhythm/article_445ef55a-d3e8-4c78-b435-1af0a8b6fb8f.html"
     },
     {
+      "id": "https://www.courant.com/2026/10/18/what-to-do-with-college-tuition-increasing-ai-creating-job-uncertainty-ct-group-seeking-input/",
+      "title": "What to do with college tuition increasing, AI creating job uncertainty? CT group seeking input",
+      "source": "courant.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-18",
+      "dateRaw": "2026-10-18T10:47:00Z",
+      "publishedAt": "2026-10-18T10:47:00Z",
+      "summary": "",
+      "url": "https://www.courant.com/2026/10/18/what-to-do-with-college-tuition-increasing-ai-creating-job-uncertainty-ct-group-seeking-input/"
+    },
+    {
       "id": "https://www.siasat.com/python-with-ai-tools-course-for-job-readiness-in-hyderabad-3274127/",
       "title": "Python with AI tools course for job readiness in Hyderabad",
       "source": "siasat.com",
@@ -215,10 +239,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 362,
-    "fetchedItems": 2755,
-    "relevantItems": 57,
-    "feedBytes": 753530,
+    "poolSize": 357,
+    "fetchedItems": 3751,
+    "relevantItems": 61,
+    "feedBytes": 1075172,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
