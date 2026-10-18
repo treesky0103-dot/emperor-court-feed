@@ -3,7 +3,7 @@
   "planDay": "2026-10-18",
   "planSetId": "zps-20261018-7b9480dd",
   "generatedAt": "2026-10-17T23:42:50.997Z",
-  "publishedAt": "2026-10-18T01:01:30.239Z",
+  "publishedAt": "2026-10-18T03:00:54.004Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -18,10 +18,11 @@
     "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "hqReady": true,
     "contentRevision": "zcr-89d5723f",
-    "hqVerifiedBy": "v2.15.99",
+    "hqVerifiedBy": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
     "sealedAt": "2026-10-18T00:00:00.048Z",
     "build": "v2.15.119",
-    "hqVerificationError": ""
+    "hqVerificationError": "",
+    "hqUpgradedAt": "2026-10-18T02:11:17.791Z"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
@@ -526,7 +527,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-89d5723f",
         "status": "ready",
-        "generatedAt": "2026-10-18T01:00:21.218Z",
+        "generatedAt": "2026-10-18T03:00:21.378Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1029,7 +1030,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-89d5723f",
         "status": "ready",
-        "generatedAt": "2026-10-18T01:00:23.216Z",
+        "generatedAt": "2026-10-18T03:00:23.519Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1476,7 +1477,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-89d5723f",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-18T01:00:34.326Z",
+        "generatedAt": "2026-10-18T03:00:31.250Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
@@ -1527,9 +1528,9 @@
               "openlibrary": [
                 "specific:marketing brand nutrition diet=2",
                 "specific:marketing brand=26",
+                "ai:Marketing Process Optimization=17",
                 "specific:nutrition diet artificial intelligence=3",
-                "ai:AI Marketing Solutions=4",
-                "ai:Marketing Process Optimization=17"
+                "ai:AI Marketing Solutions=4"
               ],
               "design": "spine:30 arena:40 reedsy:24",
               "rejected": {
@@ -1560,7 +1561,7 @@
               "parseStatus": "parsed",
               "slot": "design",
               "topic": 15,
-              "genre": 30,
+              "genre": 20,
               "design": 85,
               "score": 64,
               "selected": true,
