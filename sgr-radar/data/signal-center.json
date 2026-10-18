@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 19. 오전 04:35:26",
+  "updatedAt": "2026. 10. 19. 오전 06:51:21",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -98,6 +98,18 @@
           "url": "https://biz.chosun.com/science-chosun/bio/2026/10/16/5PZQQTPNTJG3VPUSRWK7ZPVTSM/"
         },
         {
+          "id": "https://www.voakorea.com/a/8212537.html",
+          "title": "트럼프, 프랑스 반정부 시위 격화에 ‘이민 정책’ 비판",
+          "source": "voakorea.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T21:46:00Z",
+          "publishedAt": "2026-10-18T21:46:00Z",
+          "summary": "",
+          "url": "https://www.voakorea.com/a/8212537.html"
+        },
+        {
           "id": "https://www.etoday.co.kr/news/view/2636813",
           "title": "집값은 뛰는데 청약은 미달⋯수도권 분양시장 '엇박자'",
           "source": "etoday.co.kr",
@@ -120,18 +132,6 @@
           "publishedAt": "2026-10-15T22:02:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261015000969"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10904309",
-          "title": "이민근 안산시장, “로봇순찰대로 아이들이 안전하게 등교”",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-15",
-          "dateRaw": "2026-10-15T22:02:00Z",
-          "publishedAt": "2026-10-15T22:02:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10904309"
         }
       ],
       "keywords": [
@@ -485,6 +485,18 @@
           "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10906389",
+          "title": "트럼프 정책에 美합법이민 절반수준 급감…韓 이민비자 발급도 19% 감소 [1일1트]",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T21:46:00Z",
+          "publishedAt": "2026-10-18T21:46:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10906389"
+        },
+        {
           "id": "https://www.canberratimes.com.au/story/9370434/aero-secret-report-calls-grow-to-reveal-65m-review-findings/",
           "title": "Why is a crucial report into a $65m taxpayer-funded education body being kept secret?",
           "source": "canberratimes.com.au",
@@ -579,28 +591,16 @@
           "publishedAt": "2026-10-16T04:46:00Z",
           "summary": "",
           "url": "https://westseattleblog.com/2026/10/reader-report-sdot-installation-for-school-street-on-45th-sw-by-madison-middle-school/"
-        },
-        {
-          "id": "https://www.wcvb.com/article/silver-rail-elementary-school-bend-oregon-report-active-shooter/74150171",
-          "title": "Multiple believed dead after active shooter reported at elementary school in Oregon",
-          "source": "wcvb.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T00:17:00Z",
-          "publishedAt": "2026-10-16T00:17:00Z",
-          "summary": "",
-          "url": "https://www.wcvb.com/article/silver-rail-elementary-school-bend-oregon-report-active-shooter/74150171"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 8
+          "count": 7
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 4
         },
         {
           "word": "청년",
@@ -908,9 +908,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1539,
-    "fetchedItems": 3452,
-    "feedBytes": 953142,
+    "poolSize": 1578,
+    "fetchedItems": 2951,
+    "feedBytes": 800212,
     "rollingWindowHours": 72
   }
 }
