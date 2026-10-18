@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 18. 오후 11:25:46",
+  "updatedAt": "2026. 10. 19. 오전 02:28:55",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,16 +22,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.etnews.com/20261018000076",
-          "title": "카카오페이, 청년 100명과 '우리 동네 금융 불편' 해결 나서",
+          "id": "https://www.etnews.com/20261018000088",
+          "title": "여주 읽고 창업 그리다…경콘진, 청년 22명 지역 자원 활용 현장 탐방",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-18",
-          "dateRaw": "2026-10-18T07:07:03Z",
-          "publishedAt": "2026-10-18T07:07:03Z",
+          "dateRaw": "2026-10-18T14:50:22Z",
+          "publishedAt": "2026-10-18T14:50:22Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261018000076",
+          "url": "https://www.etnews.com/20261018000088",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -910,9 +910,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1707,
-    "fetchedItems": 3919,
-    "feedBytes": 1121968,
+    "poolSize": 1626,
+    "fetchedItems": 3870,
+    "feedBytes": 1050113,
     "rollingWindowHours": 72
   }
 }
