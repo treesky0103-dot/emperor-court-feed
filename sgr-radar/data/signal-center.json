@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 19. 오후 12:46:40",
+  "updatedAt": "2026. 10. 19. 오후 06:21:14",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -20,6 +20,18 @@
           "url": "https://www.mk.co.kr/news/society/12177932",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=04434566645614560&mediaCodeNo=257",
+          "title": "李대통령 \"집값 잡으려 세금 올린 것 아냐…조세정의 문제\"",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T09:17:00Z",
+          "publishedAt": "2026-10-19T09:17:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04434566645614560&mediaCodeNo=257"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261019101907",
@@ -62,18 +74,6 @@
           "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1282868.html"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01111926645614232&mediaCodeNo=257",
-          "title": "[단독] ‘전세사기 방지’ 안심신탁 1조원 약정 발표…실제 계약은 0건",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-17",
-          "dateRaw": "2026-10-17T21:16:00Z",
-          "publishedAt": "2026-10-17T21:16:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01111926645614232&mediaCodeNo=257"
-        },
-        {
           "id": "http://inews24.com/view/2016029",
           "title": "\"'임신·자궁'이 민감한 단어?\"…SNS 검열로 여성건강 정보 막혀",
           "source": "inews24.com",
@@ -110,44 +110,42 @@
           "url": "https://www.etoday.co.kr/news/view/2636813"
         },
         {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026101909305955515",
-          "title": "美 이민 어려워졌다…한국인 이민비자 발급도 19% 감소",
-          "source": "ddaily.co.kr",
+          "id": "https://www.nspna.com/country/?mode=view&newsid=832270",
+          "title": "평택시, ‘평택환경교육한마당’ 성황리 개최…환경 선도 도시 도약",
+          "source": "nspna.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-19",
-          "dateRaw": "2026-10-19T03:31:00Z",
-          "publishedAt": "2026-10-19T03:31:00Z",
+          "dateRaw": "2026-10-19T09:17:00Z",
+          "publishedAt": "2026-10-19T09:17:00Z",
           "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026101909305955515"
+          "url": "https://www.nspna.com/country/?mode=view&newsid=832270"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225776",
-          "title": "\"언니들한테 맞아 죽을 것 같다\"…광양 대안학교 학폭에 학교 대응이",
-          "source": "mbn.co.kr",
+          "id": "https://biz.heraldcorp.com/article/10907718",
+          "title": "“학생 늘고 학교는 노후화”… 도성훈 인천교육감, 국회 찾아 교육재정 축소 우려 피력",
+          "source": "biz.heraldcorp.com",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-10-19",
-          "dateRaw": "2026-10-19T01:43:00Z",
-          "publishedAt": "2026-10-19T01:43:00Z",
+          "dateRaw": "2026-10-19T09:17:00Z",
+          "publishedAt": "2026-10-19T09:17:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225776",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "url": "https://biz.heraldcorp.com/article/10907718"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
-        },
-        {
-          "word": "이민",
-          "count": 3
+          "count": 6
         },
         {
           "word": "주거",
           "count": 2
+        },
+        {
+          "word": "이민",
+          "count": 1
         },
         {
           "word": "청년",
@@ -189,28 +187,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2636466",
-          "title": "이형일 \"G20, 공급망회복력 높이고 AI 투자해야\"…G7선 글로벌불균형 완화 강조",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T04:46:00Z",
-          "publishedAt": "2026-10-16T04:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2636466"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261019111058",
-          "title": "물가 쇼크에도 버틴 금값… 유가가 누르고 금리가 받쳤다",
+          "id": "https://zdnet.co.kr/view/?no=20261019164235",
+          "title": "[AI 고속도로] 엔비디아가 투자했는데…英 엔스케일, MS 계약 철회에 몸값도 '흔들'",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-19",
-          "dateRaw": "2026-10-19T02:12:12Z",
-          "publishedAt": "2026-10-19T02:12:12Z",
+          "dateRaw": "2026-10-19T07:42:58Z",
+          "publishedAt": "2026-10-19T07:42:58Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261019111058",
+          "url": "https://zdnet.co.kr/view/?no=20261019164235",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -287,28 +273,32 @@
           "publishedAt": "2026-10-19T03:31:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026101911281721786"
+        },
+        {
+          "id": "http://www.koreatimes.com/article/20261018/1634283",
+          "title": "“AI 투자붐 문제, 과거와 다르지 않다”…WSJ ‘과잉투자’ 경고 - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T23:46:00Z",
+          "publishedAt": "2026-10-18T23:46:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261018/1634283"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 6
         },
         {
           "word": "금리",
-          "count": 3
+          "count": 2
         },
         {
           "word": "수출",
           "count": 2
-        },
-        {
-          "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "물가",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -330,44 +320,44 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257"
         },
         {
-          "id": "https://www.etnews.com/20261016000271",
-          "title": "한국투자증권, '베슬 AI'와 GPU 파이낸싱 업무협약 체결",
-          "source": "etnews.com",
+          "id": "https://www.mk.co.kr/news/business/12179624",
+          "title": "美 AI 데이터센터 뚫은 가온전선… 3분기 520억 ‘어닝 서프라이즈’",
+          "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T06:30:48Z",
-          "publishedAt": "2026-10-16T06:30:48Z",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T15:06:43Z",
+          "publishedAt": "2026-10-19T15:06:43Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261016000271",
+          "url": "https://www.mk.co.kr/news/business/12179624",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261019105359",
-          "title": "가온전선, 3분기 영업익 520억원…美 AI 데이터센터 수요에 분기 최대",
+          "id": "https://zdnet.co.kr/view/?no=20261019165340",
+          "title": "코오롱베니트, 제조 AX 사업 시동…이수화학 등 3개사에 AI 도입",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-19",
-          "dateRaw": "2026-10-19T01:53:59Z",
-          "publishedAt": "2026-10-19T01:53:59Z",
+          "dateRaw": "2026-10-19T07:54:02Z",
+          "publishedAt": "2026-10-19T07:54:02Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261019105359",
+          "url": "https://zdnet.co.kr/view/?no=20261019165340",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12177869",
-          "title": "원프레딕트, ‘AI 네이티브 팩토리’ 제시…제조 AI 기술 확대 나서",
-          "source": "mk.co.kr",
+          "id": "https://www.etnews.com/20261015000340",
+          "title": "금속산업대전2026, AI 첨단제조의 산업현장 적용을 조명한다",
+          "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T15:36:58Z",
-          "publishedAt": "2026-10-16T15:36:58Z",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T23:00:00Z",
+          "publishedAt": "2026-10-18T23:00:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12177869",
+          "url": "https://www.etnews.com/20261015000340",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -382,6 +372,18 @@
           "publishedAt": "2026-10-18T23:46:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610190716184038"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/science/science_general/1283065.html",
+          "title": "온실가스 잡은 유일한 국제조약…‘기후협약’ 밖에서 답을 찾다",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T09:16:00Z",
+          "publishedAt": "2026-10-19T09:16:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1283065.html"
         },
         {
           "id": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004",
@@ -408,6 +410,20 @@
           "url": "https://www.etoday.co.kr/news/view/2636956"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225857",
+          "title": "반도체 덕에 성장률 전망도 '쑥'…이형일 \"올해 성장률 3%대 중반 가능\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T07:36:00Z",
+          "publishedAt": "2026-10-19T07:36:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225857",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101909194045790",
           "title": "한미반도체, 美 산호세에 '한미USA' 설립… 북미 첨단 패키징 시장 정조준",
           "source": "ddaily.co.kr",
@@ -418,44 +434,20 @@
           "publishedAt": "2026-10-19T03:31:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026101909194045790"
-        },
-        {
-          "id": "http://www.koreatimes.com/article/20261018/1634283",
-          "title": "“AI 투자붐 문제, 과거와 다르지 않다”…WSJ ‘과잉투자’ 경고 - 미주 한국일보",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T23:46:00Z",
-          "publishedAt": "2026-10-18T23:46:00Z",
-          "summary": "",
-          "url": "http://www.koreatimes.com/article/20261018/1634283"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026101710375324360",
-          "title": "나스닥 2% 넘게 하락···AI 투자 우려에 유가 급등 여파 - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T01:01:00Z",
-          "publishedAt": "2026-10-18T01:01:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101710375324360"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 10
+          "count": 7
         },
         {
           "word": "반도체",
-          "count": 3
+          "count": 4
         },
         {
-          "word": "GPU",
-          "count": 2
+          "word": "제조",
+          "count": 3
         },
         {
           "word": "로봇",
@@ -463,10 +455,6 @@
         },
         {
           "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "제조",
           "count": 1
         }
       ],
@@ -489,6 +477,18 @@
           "publishedAt": "2026-10-18T14:17:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece"
+        },
+        {
+          "id": "https://www.gdnonline.com:443/Details/1410133/Sultan-Qaboos-University-opens-$4m-Sustainable-Energy-Research-Laboratory",
+          "title": "Oman Business: Sultan Qaboos University opens $4m Sustainable Energy Research Laboratory",
+          "source": "gdnonline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T09:16:00Z",
+          "publishedAt": "2026-10-19T09:16:00Z",
+          "summary": "",
+          "url": "https://www.gdnonline.com:443/Details/1410133/Sultan-Qaboos-University-opens-$4m-Sustainable-Energy-Research-Laboratory"
         },
         {
           "id": "https://www.zerohedge.com/political/pentagon-plans-withhold-report-minab-school-massacre-past-midterms",
@@ -575,28 +575,16 @@
           "url": "https://economictimes.indiatimes.com/news/india/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/articleshow/135008072.cms"
         },
         {
-          "id": "https://www.azocleantech.com/news.aspx?newsID=36712",
-          "title": "University of Bath Secures £2.5 Million FCDO Funding for Global Deforestation Research Project",
-          "source": "azocleantech.com",
+          "id": "https://www.1027thevibe.com/2026/10/19/becky-g-opens-up-about-mental-health-as-latin-grammys-celebrate-women-in-music/",
+          "title": "Becky G Opens Up About Mental Health as Latin Grammys Celebrate Women in Music",
+          "source": "1027thevibe.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T09:17:00Z",
-          "publishedAt": "2026-10-16T09:17:00Z",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T09:17:00Z",
+          "publishedAt": "2026-10-19T09:17:00Z",
           "summary": "",
-          "url": "https://www.azocleantech.com/news.aspx?newsID=36712"
-        },
-        {
-          "id": "https://www.northwichguardian.co.uk/news/26639474.middlewich-primary-school-receives-positive-report-card-watchdog/",
-          "title": "Head's pride as primary school receives positive report card from watchdog",
-          "source": "northwichguardian.co.uk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T04:46:00Z",
-          "publishedAt": "2026-10-16T04:46:00Z",
-          "summary": "",
-          "url": "https://www.northwichguardian.co.uk/news/26639474.middlewich-primary-school-receives-positive-report-card-watchdog/"
+          "url": "https://www.1027thevibe.com/2026/10/19/becky-g-opens-up-about-mental-health-as-latin-grammys-celebrate-women-in-music/"
         }
       ],
       "keywords": [
@@ -606,11 +594,11 @@
         },
         {
           "word": "교육",
-          "count": 4
+          "count": 3
         },
         {
           "word": "정신건강",
-          "count": 1
+          "count": 2
         },
         {
           "word": "청년",
@@ -777,18 +765,6 @@
           "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html"
         },
         {
-          "id": "https://www.digitimes.com/news/a20261016VL204/samsung-india-quantum-workforce.html",
-          "title": "Samsung's India chip research arm opens quantum lab at IISc",
-          "source": "digitimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T04:46:00Z",
-          "publishedAt": "2026-10-16T04:46:00Z",
-          "summary": "",
-          "url": "https://www.digitimes.com/news/a20261016VL204/samsung-india-quantum-workforce.html"
-        },
-        {
           "id": "https://www.themarketsdaily.com/2026/10/18/taiwan-semiconductor-manufacturing-company-ltd-tsm-stake-reduced-by-pinestone-asset-management-inc.html",
           "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stake Reduced by PineStone Asset Management Inc.",
           "source": "themarketsdaily.com",
@@ -883,24 +859,32 @@
           "publishedAt": "2026-10-16T14:01:00Z",
           "summary": "",
           "url": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy"
+        },
+        {
+          "id": "https://www.investmentwatchblog.com/usas-10-trillion-ai-boom-starting-to-crack/",
+          "title": "USA'S $10 TRILLION AI BOOM STARTING TO CRACK - Investment Watch Blog",
+          "source": "investmentwatchblog.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T03:31:00Z",
+          "publishedAt": "2026-10-19T03:31:00Z",
+          "summary": "",
+          "url": "https://www.investmentwatchblog.com/usas-10-trillion-ai-boom-starting-to-crack/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 3
-        },
-        {
-          "word": "반도체",
-          "count": 3
+          "count": 4
         },
         {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "양자",
-          "count": 1
+          "word": "반도체",
+          "count": 2
         },
         {
           "word": "제조",
@@ -918,9 +902,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1462,
-    "fetchedItems": 2698,
-    "feedBytes": 713081,
+    "poolSize": 1382,
+    "fetchedItems": 5481,
+    "feedBytes": 1552548,
     "rollingWindowHours": 72
   }
 }
