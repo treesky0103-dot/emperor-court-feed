@@ -1,23 +1,65 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 19. 오후 06:21:14",
+  "updatedAt": "2026. 10. 20. 오전 01:33:16",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12177932",
-          "title": "서울대 AI연구원, SK그룹과 맞손…청년 교육·개발 운영 함께한다",
+          "id": "https://www.mk.co.kr/news/society/12179777",
+          "title": "[인사] 외교부 / 보건복지부 / IBK투자증권 등",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T16:32:09Z",
-          "publishedAt": "2026-10-16T16:32:09Z",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T17:04:43Z",
+          "publishedAt": "2026-10-19T17:04:43Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12177932",
+          "url": "https://www.mk.co.kr/news/society/12179777",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.etnews.com/20261019000303",
+          "title": "태재대 AI·미래전략대학원, 입시설명회 개최…28일 오후 7시, 공식 유튜브 채널로도 온라인 생중계",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T05:57:45Z",
+          "publishedAt": "2026-10-19T05:57:45Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261019000303",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261019092844",
+          "title": "[카드뉴스] 프랑스 폭동, 유럽은 난민을 어떻게 해야 할까요",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T12:30:02Z",
+          "publishedAt": "2026-10-19T12:30:02Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261019092844",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225910",
+          "title": "[단독] 의료사고 은폐 의사에 사과한 복지부…허점투성이 의료 행정",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T10:00:00Z",
+          "publishedAt": "2026-10-19T10:00:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225910",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -34,34 +76,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=04434566645614560&mediaCodeNo=257"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261019101907",
-          "title": "바디프랜드, 코세페 맞아 '1만원 건강구독' 프로모션",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T02:27:21Z",
-          "publishedAt": "2026-10-19T02:27:21Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261019101907",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261019000092",
-          "title": "울산대 SW중심대학사업단, 지·산·학 협력으로 지역산업 맞춤형 SW·AI 인재 키운다",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T02:00:00Z",
-          "publishedAt": "2026-10-19T02:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261019000092",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
           "id": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1282868.html",
           "title": "웰다잉, 가족과 어떤 이야기를 나누어야 할까? [건강한겨레]",
           "source": "hani.co.kr",
@@ -72,18 +86,6 @@
           "publishedAt": "2026-10-18T01:01:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1282868.html"
-        },
-        {
-          "id": "http://inews24.com/view/2016029",
-          "title": "\"'임신·자궁'이 민감한 단어?\"…SNS 검열로 여성건강 정보 막혀",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T14:01:00Z",
-          "publishedAt": "2026-10-16T14:01:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2016029"
         },
         {
           "id": "https://www.voakorea.com/a/8212537.html",
@@ -137,7 +139,11 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "복지",
+          "count": 2
         },
         {
           "word": "주거",
@@ -145,10 +151,6 @@
         },
         {
           "word": "이민",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -158,6 +160,20 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://www.etnews.com/20261019000341",
+          "title": "[포토] 반도체 수출공급망 강화를 위한 상생 무역금융 협약식 및 기업 간담회",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T06:49:15Z",
+          "publishedAt": "2026-10-19T06:49:15Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261019000341",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.mk.co.kr/news/economy/12178790",
           "title": "“선진국 중 한국만 재정여력 늘어”…최지영 IMF 이사 “AI 투자 오래갈 것”",
@@ -169,20 +185,6 @@
           "publishedAt": "2026-10-18T14:40:37Z",
           "summary": "",
           "url": "https://www.mk.co.kr/news/economy/12178790",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261018000078",
-          "title": "경기남부 반도체 잇는 수원시 역할은?…경제자유구역 특화 방안을 논의",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T08:13:49Z",
-          "publishedAt": "2026-10-18T08:13:49Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261018000078",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -293,12 +295,20 @@
           "count": 6
         },
         {
+          "word": "수출",
+          "count": 3
+        },
+        {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "수출",
-          "count": 2
+          "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "기업",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -334,6 +344,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.etnews.com/20261019000403",
+          "title": "원프레딕트, FIX 2026서 공장 재현한 제조 AI 선보인다",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T08:31:17Z",
+          "publishedAt": "2026-10-19T08:31:17Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261019000403",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261019165340",
           "title": "코오롱베니트, 제조 AX 사업 시동…이수화학 등 3개사에 AI 도입",
           "source": "zdnet.co.kr",
@@ -346,20 +370,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261019165340",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261015000340",
-          "title": "금속산업대전2026, AI 첨단제조의 산업현장 적용을 조명한다",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T23:00:00Z",
-          "publishedAt": "2026-10-18T23:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261015000340",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202610190716184038",
@@ -479,6 +489,18 @@
           "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece"
         },
         {
+          "id": "https://www.themorningsun.com/2026/10/19/elementary-schooler-gun/",
+          "title": "Elementary student brings gun to school and after-school program, police in Virginia report",
+          "source": "themorningsun.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T16:17:00Z",
+          "publishedAt": "2026-10-19T16:17:00Z",
+          "summary": "",
+          "url": "https://www.themorningsun.com/2026/10/19/elementary-schooler-gun/"
+        },
+        {
           "id": "https://www.gdnonline.com:443/Details/1410133/Sultan-Qaboos-University-opens-$4m-Sustainable-Energy-Research-Laboratory",
           "title": "Oman Business: Sultan Qaboos University opens $4m Sustainable Energy Research Laboratory",
           "source": "gdnonline.com",
@@ -573,18 +595,6 @@
           "publishedAt": "2026-10-17T06:01:00Z",
           "summary": "",
           "url": "https://economictimes.indiatimes.com/news/india/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/articleshow/135008072.cms"
-        },
-        {
-          "id": "https://www.1027thevibe.com/2026/10/19/becky-g-opens-up-about-mental-health-as-latin-grammys-celebrate-women-in-music/",
-          "title": "Becky G Opens Up About Mental Health as Latin Grammys Celebrate Women in Music",
-          "source": "1027thevibe.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T09:17:00Z",
-          "publishedAt": "2026-10-19T09:17:00Z",
-          "summary": "",
-          "url": "https://www.1027thevibe.com/2026/10/19/becky-g-opens-up-about-mental-health-as-latin-grammys-celebrate-women-in-music/"
         }
       ],
       "keywords": [
@@ -594,11 +604,11 @@
         },
         {
           "word": "교육",
-          "count": 3
+          "count": 5
         },
         {
           "word": "정신건강",
-          "count": 2
+          "count": 1
         },
         {
           "word": "청년",
@@ -849,18 +859,6 @@
           "url": "https://www.energy-pedia.com/news/ireland/echelon-to-establish-ireland%E2%80%99s-first-green-energy-park-at-data-centre-campus-in-wicklow-205693"
         },
         {
-          "id": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy",
-          "title": "FM Sitharaman, JBIC Governor discuss cooperation in semiconductors, clean energy",
-          "source": "indiagazette.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-16",
-          "dateRaw": "2026-10-16T14:01:00Z",
-          "publishedAt": "2026-10-16T14:01:00Z",
-          "summary": "",
-          "url": "http://www.indiagazette.com/news/279378792/fm-sitharaman-jbic-governor-discuss-cooperation-in-semiconductors-clean-energy"
-        },
-        {
           "id": "https://www.investmentwatchblog.com/usas-10-trillion-ai-boom-starting-to-crack/",
           "title": "USA'S $10 TRILLION AI BOOM STARTING TO CRACK - Investment Watch Blog",
           "source": "investmentwatchblog.com",
@@ -871,6 +869,18 @@
           "publishedAt": "2026-10-19T03:31:00Z",
           "summary": "",
           "url": "https://www.investmentwatchblog.com/usas-10-trillion-ai-boom-starting-to-crack/"
+        },
+        {
+          "id": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports",
+          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports | The Express Tribune",
+          "source": "tribune.com.pk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T21:46:00Z",
+          "publishedAt": "2026-10-18T21:46:00Z",
+          "summary": "",
+          "url": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports"
         }
       ],
       "keywords": [
@@ -880,7 +890,7 @@
         },
         {
           "word": "데이터센터",
-          "count": 2
+          "count": 3
         },
         {
           "word": "반도체",
@@ -902,9 +912,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1382,
-    "fetchedItems": 5481,
-    "feedBytes": 1552548,
+    "poolSize": 1403,
+    "fetchedItems": 6449,
+    "feedBytes": 1785383,
     "rollingWindowHours": 72
   }
 }
