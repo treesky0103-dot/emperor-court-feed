@@ -2,33 +2,21 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 20. 오전 01:33:12",
+  "updatedAt": "2026. 10. 20. 오전 06:14:17",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 452,
-    "passed": 135,
-    "deduped": 135,
-    "eventDeduped": 135,
+    "raw": 451,
+    "passed": 145,
+    "deduped": 145,
+    "eventDeduped": 145,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004",
-      "title": "로봇 손끝 1㎜까지 지배하는 AI… 현대차·기아 공장 ‘셀프 진화’",
-      "source": "seoul.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T19:32:00Z",
-      "publishedAt": "2026-10-18T19:32:00Z",
-      "summary": "",
-      "url": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004"
-    },
     {
       "id": "https://www.fnnews.com/news/202610190716184038",
       "title": "D램값 오르는데 반도체주는 급락…금리·원가 부담에 커진 AI 투자 공포",
@@ -78,6 +66,30 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101910113555270"
     },
     {
+      "id": "http://www.koreatimes.com/article/20261018/1634283",
+      "title": "“AI 투자붐 문제, 과거와 다르지 않다”…WSJ ‘과잉투자’ 경고 - 미주 한국일보",
+      "source": "koreatimes.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-18",
+      "dateRaw": "2026-10-18T23:46:00Z",
+      "publishedAt": "2026-10-18T23:46:00Z",
+      "summary": "",
+      "url": "http://www.koreatimes.com/article/20261018/1634283"
+    },
+    {
+      "id": "https://www.gloucesteradvocate.com.au/story/9371235/teralba-coal-site-chosen-for-nsws-12b-passenger-train-hub/",
+      "title": "Government announces location for new Hunter train manufacturing plant",
+      "source": "gloucesteradvocate.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:02:00Z",
+      "publishedAt": "2026-10-19T21:02:00Z",
+      "summary": "",
+      "url": "https://www.gloucesteradvocate.com.au/story/9371235/teralba-coal-site-chosen-for-nsws-12b-passenger-train-hub/"
+    },
+    {
       "id": "https://www.insurancebusinessmag.com/us/news/catastrophe/isaias-spared-gulf-energy-infrastructure-as-modelers-loss-estimates-settle-at-1-billion3-billion-593966.aspx",
       "title": "Isaias spared Gulf energy infrastructure as modelers' loss estimates settle at $1 billion-$3 billion",
       "source": "insurancebusinessmag.com",
@@ -124,33 +136,9 @@
       "publishedAt": "2026-10-18T21:46:00Z",
       "summary": "",
       "url": "https://www.roboticstomorrow.com/company_directory/electromate/10195"
-    },
-    {
-      "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276680&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
-      "title": "반도체 산단 교통망 확충…용인·화성, 도로 3개 사업 공동 추진",
-      "source": "ohmynews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T09:17:00Z",
-      "publishedAt": "2026-10-19T09:17:00Z",
-      "summary": "",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276680&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004",
-      "title": "로봇 손끝 1㎜까지 지배하는 AI… 현대차·기아 공장 ‘셀프 진화’",
-      "source": "seoul.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T19:32:00Z",
-      "publishedAt": "2026-10-18T19:32:00Z",
-      "summary": "",
-      "url": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004"
-    },
     {
       "id": "https://www.fnnews.com/news/202610190716184038",
       "title": "D램값 오르는데 반도체주는 급락…금리·원가 부담에 커진 AI 투자 공포",
@@ -234,6 +222,30 @@
       "publishedAt": "2026-10-19T03:31:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026101910113555270"
+    },
+    {
+      "id": "http://www.koreatimes.com/article/20261018/1634283",
+      "title": "“AI 투자붐 문제, 과거와 다르지 않다”…WSJ ‘과잉투자’ 경고 - 미주 한국일보",
+      "source": "koreatimes.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-18",
+      "dateRaw": "2026-10-18T23:46:00Z",
+      "publishedAt": "2026-10-18T23:46:00Z",
+      "summary": "",
+      "url": "http://www.koreatimes.com/article/20261018/1634283"
+    },
+    {
+      "id": "https://www.gloucesteradvocate.com.au/story/9371235/teralba-coal-site-chosen-for-nsws-12b-passenger-train-hub/",
+      "title": "Government announces location for new Hunter train manufacturing plant",
+      "source": "gloucesteradvocate.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:02:00Z",
+      "publishedAt": "2026-10-19T21:02:00Z",
+      "summary": "",
+      "url": "https://www.gloucesteradvocate.com.au/story/9371235/teralba-coal-site-chosen-for-nsws-12b-passenger-train-hub/"
     },
     {
       "id": "https://www.insurancebusinessmag.com/us/news/catastrophe/isaias-spared-gulf-energy-infrastructure-as-modelers-loss-estimates-settle-at-1-billion3-billion-593966.aspx",
@@ -344,6 +356,42 @@
       "url": "https://www.fnnews.com/news/202610190808380688"
     },
     {
+      "id": "https://www.kcrg.com/2026/10/19/google-host-open-house-proposed-palo-data-center/",
+      "title": "Google to host open house for proposed Palo data center",
+      "source": "kcrg.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:02:00Z",
+      "publishedAt": "2026-10-19T21:02:00Z",
+      "summary": "",
+      "url": "https://www.kcrg.com/2026/10/19/google-host-open-house-proposed-palo-data-center/"
+    },
+    {
+      "id": "https://www.99jamzmiami.com/news/tech-companies-need/ZMQED4GG2MZPPNVRDUFFPVLSJA/",
+      "title": "Tech companies need more data centers. So why are nearly half of all planned projects delayed or canceled?",
+      "source": "99jamzmiami.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:01:00Z",
+      "publishedAt": "2026-10-19T21:01:00Z",
+      "summary": "",
+      "url": "https://www.99jamzmiami.com/news/tech-companies-need/ZMQED4GG2MZPPNVRDUFFPVLSJA/"
+    },
+    {
+      "id": "https://www.techradar.com/pro/security/kasperskys-vpn-and-password-manager-went-dark-for-days-worldwide-and-the-timing-has-raised-awkward-questions-about-russias-drone-hit-data-centers",
+      "title": "Kaspersky's VPN and password manager went dark for days worldwide — and the timing has raised awkward questions about Russia's drone-hit data centers",
+      "source": "techradar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:01:00Z",
+      "publishedAt": "2026-10-19T21:01:00Z",
+      "summary": "",
+      "url": "https://www.techradar.com/pro/security/kasperskys-vpn-and-password-manager-went-dark-for-days-worldwide-and-the-timing-has-raised-awkward-questions-about-russias-drone-hit-data-centers"
+    },
+    {
       "id": "https://www.theverge.com/tech/1013754/microsoft-abandons-the-uks-largest-data-center-project",
       "title": "Microsoft abandons the UK’s largest data center project.",
       "source": "theverge.com",
@@ -380,18 +428,6 @@
       "url": "https://cbs12.com/news/nation-world/president-donald-trump-accuses-ukraine-president-zelenskyy-of-prolonging-war-as-russia-putin-pounds-ukraines-power-grid-energy-infrastructure-moscow-sanctions-diesel-imports-ceasefire-shared-intelligence"
     },
     {
-      "id": "https://qconline.com/news/state-regional/government-politics/article_b6bef629-809f-5953-9a33-2991ecc23b63.html",
-      "title": "Pritzker: Illinois housing plan likely waits but Bears stadium and data center bills alive",
-      "source": "qconline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T16:16:00Z",
-      "publishedAt": "2026-10-19T16:16:00Z",
-      "summary": "",
-      "url": "https://qconline.com/news/state-regional/government-politics/article_b6bef629-809f-5953-9a33-2991ecc23b63.html"
-    },
-    {
       "id": "https://www.conwaydailysun.com/berlin_sun/around_the_web/why-and-how-us-and-canadian-energy-markets-are-so-deeply-intertwined/article_b49b390e-10bd-5713-990e-cb10d7417a60.html",
       "title": "Why and how US and Canadian energy markets are so deeply intertwined",
       "source": "conwaydailysun.com",
@@ -402,18 +438,6 @@
       "publishedAt": "2026-10-19T16:16:00Z",
       "summary": "",
       "url": "https://www.conwaydailysun.com/berlin_sun/around_the_web/why-and-how-us-and-canadian-energy-markets-are-so-deeply-intertwined/article_b49b390e-10bd-5713-990e-cb10d7417a60.html"
-    },
-    {
-      "id": "https://mashable.com/tech/ukraine-drone-strike-data-center-evidence-russian-bots",
-      "title": "Did Ukraine's data center strikes affect Russia's bot army? We now have better evidence.",
-      "source": "mashable.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T09:17:00Z",
-      "publishedAt": "2026-10-19T09:17:00Z",
-      "summary": "",
-      "url": "https://mashable.com/tech/ukraine-drone-strike-data-center-evidence-russian-bots"
     },
     {
       "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
@@ -452,18 +476,6 @@
       "url": "https://www.powermag.com/pivot-energy-closes-173-million-loan-for-135-mw-of-solar-capacity/"
     },
     {
-      "id": "https://crema.laprovinciacr.it/news/cronaca/593597/maxi-data-center-battuta-darresto-per-linsediamento.html",
-      "title": "Maxi Data Center, battuta d’arresto per l’insediamento",
-      "source": "crema.laprovinciacr.it",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T23:46:00Z",
-      "publishedAt": "2026-10-18T23:46:00Z",
-      "summary": "",
-      "url": "https://crema.laprovinciacr.it/news/cronaca/593597/maxi-data-center-battuta-darresto-per-linsediamento.html"
-    },
-    {
       "id": "https://tribune.com.pk/story/2635576/china-proposes-export-controls-on-solar-manufacturing-technologies",
       "title": "China proposes export controls on solar-manufacturing technologies | The Express Tribune",
       "source": "tribune.com.pk",
@@ -474,18 +486,6 @@
       "publishedAt": "2026-10-18T21:46:00Z",
       "summary": "",
       "url": "https://tribune.com.pk/story/2635576/china-proposes-export-controls-on-solar-manufacturing-technologies"
-    },
-    {
-      "id": "https://www.textileworld.com/textile-world/knitting-apparel/2026/10/billion-rise-knitting-expands-global-manufacturing-and-knitting-innovation-with-new-vietnam-facility/",
-      "title": "Billion Rise Knitting Expands Global Manufacturing And Knitting Innovation With New Vietnam Facility",
-      "source": "textileworld.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T17:16:00Z",
-      "publishedAt": "2026-10-18T17:16:00Z",
-      "summary": "",
-      "url": "https://www.textileworld.com/textile-world/knitting-apparel/2026/10/billion-rise-knitting-expands-global-manufacturing-and-knitting-innovation-with-new-vietnam-facility/"
     },
     {
       "id": "https://www.eveningnews24.co.uk/news/26648792.protest-planned-huge-norwich-data-centre-plans/",
@@ -548,28 +548,16 @@
       "url": "https://theconversation.com/ukraines-drone-strikes-on-russian-data-centres-may-change-how-we-see-disinformation-294344"
     },
     {
-      "id": "http://www.torontotelegraph.com/news/279382865/data-centres-opposing-them-and-developing-them-are-not-the-only-two-choices",
-      "title": "Data centres: Opposing them and developing them are not the only two choices",
-      "source": "torontotelegraph.com",
+      "id": "https://www.kitguru.net/gaming/joao-silva/asus-launches-rog-xbox-ally-x20-with-oled-display-and-ryzen-ai-z2-extreme/",
+      "title": "Asus launches ROG Xbox Ally X20 with OLED display and Ryzen AI Z2 Extreme - KitGuru",
+      "source": "kitguru.net",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T17:17:00Z",
-      "publishedAt": "2026-10-18T17:17:00Z",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:01:00Z",
+      "publishedAt": "2026-10-19T21:01:00Z",
       "summary": "",
-      "url": "http://www.torontotelegraph.com/news/279382865/data-centres-opposing-them-and-developing-them-are-not-the-only-two-choices"
-    },
-    {
-      "id": "http://www.koreatimes.com/article/20261018/1634283",
-      "title": "“AI 투자붐 문제, 과거와 다르지 않다”…WSJ ‘과잉투자’ 경고 - 미주 한국일보",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T23:46:00Z",
-      "publishedAt": "2026-10-18T23:46:00Z",
-      "summary": "",
-      "url": "http://www.koreatimes.com/article/20261018/1634283"
+      "url": "https://www.kitguru.net/gaming/joao-silva/asus-launches-rog-xbox-ally-x20-with-oled-display-and-ryzen-ai-z2-extreme/"
     },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026101909194045790",
@@ -584,16 +572,28 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026101909194045790"
     },
     {
-      "id": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports",
-      "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports | The Express Tribune",
-      "source": "tribune.com.pk",
+      "id": "https://qconline.com/news/state-regional/government-politics/article_b6bef629-809f-5953-9a33-2991ecc23b63.html",
+      "title": "Pritzker: Illinois housing plan likely waits but Bears stadium and data center bills alive",
+      "source": "qconline.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T21:46:00Z",
-      "publishedAt": "2026-10-18T21:46:00Z",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T16:16:00Z",
+      "publishedAt": "2026-10-19T16:16:00Z",
       "summary": "",
-      "url": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports"
+      "url": "https://qconline.com/news/state-regional/government-politics/article_b6bef629-809f-5953-9a33-2991ecc23b63.html"
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69876647-toronto-stock-exchange-schachter-catch-the-energy-conference-closes-the-market-296.htm",
+      "title": "Toronto Stock Exchange: Schachter Catch the Energy Conference Closes the Market",
+      "source": "finanznachrichten.de",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T21:01:00Z",
+      "publishedAt": "2026-10-19T21:01:00Z",
+      "summary": "",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69876647-toronto-stock-exchange-schachter-catch-the-energy-conference-closes-the-market-296.htm"
     },
     {
       "id": "http://www.vietnamtribune.com/news/279385034/health-innovation-south-west-and-helfie-ai-announce-partnership-to-evaluate-digital-first-hypertension-screening",
@@ -692,18 +692,6 @@
       "url": "https://www.zazoom.it/2026-10-19/biffi-assolombarda-con-officina-ai-centrali-in-automazione-e-robotica-allavanguardia/19820985/"
     },
     {
-      "id": "https://digg.com/tech/5e514avp",
-      "title": "AI data center financing shows strain as CoreWeave bonds reportedly traded at distressed levels · Digg",
-      "source": "digg.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-18",
-      "dateRaw": "2026-10-18T17:17:00Z",
-      "publishedAt": "2026-10-18T17:17:00Z",
-      "summary": "",
-      "url": "https://digg.com/tech/5e514avp"
-    },
-    {
       "id": "https://www.ddaily.co.kr:443/page/view/2026101909384349615",
       "title": "행안부 주무관이 만든 '국정ON'…AI 쓰던 공무원, AI로 일하는 방식 바꾼다",
       "source": "ddaily.co.kr",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-19T03:31:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026101910320617325"
+    },
+    {
+      "id": "https://www.ddaily.co.kr:443/page/view/2026101910093770545",
+      "title": "센드버드·업스테이지, 솔라 붙인 AI 에이전트 상용화 추진",
+      "source": "ddaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-19",
+      "dateRaw": "2026-10-19T03:31:00Z",
+      "publishedAt": "2026-10-19T03:31:00Z",
+      "summary": "",
+      "url": "https://www.ddaily.co.kr:443/page/view/2026101910093770545"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 452,
-    "fetchedItems": 6449,
-    "relevantItems": 144,
-    "feedBytes": 1785383,
+    "poolSize": 451,
+    "fetchedItems": 4468,
+    "relevantItems": 88,
+    "feedBytes": 1250877,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

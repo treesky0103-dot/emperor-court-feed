@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 20. 오전 01:33:16",
+  "updatedAt": "2026. 10. 20. 오전 06:14:21",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -489,6 +489,18 @@
           "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece"
         },
         {
+          "id": "http://www.vietnamtribune.com/news/279385588/chando-group-showcases-chinese-beauty-science-at-cosmetic-360-debuts-fatigue-aging-research-on-global-stage",
+          "title": "CHANDO Group Showcases Chinese Beauty Science at COSMETIC 360, Debuts Fatigue-Aging Research on Global Stage",
+          "source": "vietnamtribune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T21:02:00Z",
+          "publishedAt": "2026-10-19T21:02:00Z",
+          "summary": "",
+          "url": "http://www.vietnamtribune.com/news/279385588/chando-group-showcases-chinese-beauty-science-at-cosmetic-360-debuts-fatigue-aging-research-on-global-stage"
+        },
+        {
           "id": "https://www.themorningsun.com/2026/10/19/elementary-schooler-gun/",
           "title": "Elementary student brings gun to school and after-school program, police in Virginia report",
           "source": "themorningsun.com",
@@ -583,18 +595,6 @@
           "publishedAt": "2026-10-17T19:02:00Z",
           "summary": "",
           "url": "https://www.prokerala.com/news/articles/a1825824.html"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/news/india/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/articleshow/135008072.cms",
-          "title": "India rejects report by UN human rights expert that says Indian youth face retaliation, terms claims as 'hearsay'",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-17",
-          "dateRaw": "2026-10-17T06:01:00Z",
-          "publishedAt": "2026-10-17T06:01:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/news/india/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/articleshow/135008072.cms"
         }
       ],
       "keywords": [
@@ -607,11 +607,11 @@
           "count": 5
         },
         {
-          "word": "정신건강",
+          "word": "고령화",
           "count": 1
         },
         {
-          "word": "청년",
+          "word": "정신건강",
           "count": 1
         }
       ],
@@ -912,9 +912,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1403,
-    "fetchedItems": 6449,
-    "feedBytes": 1785383,
+    "poolSize": 1345,
+    "fetchedItems": 4468,
+    "feedBytes": 1250877,
     "rollingWindowHours": 72
   }
 }
