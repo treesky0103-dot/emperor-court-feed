@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 20. 오전 06:14:21",
+  "updatedAt": "2026. 10. 20. 오전 09:25:57",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -36,6 +36,20 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225966",
+          "title": "[단독] 의료사고 은폐 의사에 사과한 복지부…허점투성이 의료 행정",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T22:49:00Z",
+          "publishedAt": "2026-10-19T22:49:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225966",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261019092844",
           "title": "[카드뉴스] 프랑스 폭동, 유럽은 난민을 어떻게 해야 할까요",
           "source": "zdnet.co.kr",
@@ -48,20 +62,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261019092844",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225910",
-          "title": "[단독] 의료사고 은폐 의사에 사과한 복지부…허점투성이 의료 행정",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T10:00:00Z",
-          "publishedAt": "2026-10-19T10:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225910",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=04434566645614560&mediaCodeNo=257",
@@ -112,6 +112,18 @@
           "url": "https://www.etoday.co.kr/news/view/2636813"
         },
         {
+          "id": "https://newsway.co.kr/news/view?ud=2026101914550256514",
+          "title": "의료기기 넘어 검사로 수익 기반 확대···씨어스, UAE 국가검진 공략 - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:17:00Z",
+          "publishedAt": "2026-10-20T00:17:00Z",
+          "summary": "",
+          "url": "https://newsway.co.kr/news/view?ud=2026101914550256514"
+        },
+        {
           "id": "https://www.nspna.com/country/?mode=view&newsid=832270",
           "title": "평택시, ‘평택환경교육한마당’ 성황리 개최…환경 선도 도시 도약",
           "source": "nspna.com",
@@ -122,24 +134,12 @@
           "publishedAt": "2026-10-19T09:17:00Z",
           "summary": "",
           "url": "https://www.nspna.com/country/?mode=view&newsid=832270"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10907718",
-          "title": "“학생 늘고 학교는 노후화”… 도성훈 인천교육감, 국회 찾아 교육재정 축소 우려 피력",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T09:17:00Z",
-          "publishedAt": "2026-10-19T09:17:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10907718"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 2
         },
         {
           "word": "복지",
@@ -189,6 +189,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257",
+          "title": "JB금융, AI 기업 업스테이지에 400억원 투자…지분 2% 확보",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:17:00Z",
+          "publishedAt": "2026-10-20T00:17:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261019164235",
           "title": "[AI 고속도로] 엔비디아가 투자했는데…英 엔스케일, MS 계약 철회에 몸값도 '흔들'",
           "source": "zdnet.co.kr",
@@ -203,16 +215,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01138166645614232&mediaCodeNo=257",
-          "title": "김씨마켓 대표 \"K푸드 열풍에도 美마트엔 라면뿐…수출 전략 바꿔야\"",
-          "source": "edaily.co.kr",
+          "id": "https://www.hani.co.kr/arti/politics/assembly/1283173.html",
+          "title": "김민석, 부승찬 ‘소방이 재정 쭉쭉’ 발언에 사과…“말과 행동 무겁게 해야”",
+          "source": "hani.co.kr",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-17",
-          "dateRaw": "2026-10-17T21:16:00Z",
-          "publishedAt": "2026-10-17T21:16:00Z",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:16:00Z",
+          "publishedAt": "2026-10-20T00:16:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01138166645614232&mediaCodeNo=257"
+          "url": "https://www.hani.co.kr/arti/politics/assembly/1283173.html"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225752",
@@ -227,18 +239,6 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225752",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/car/1282486.html",
-          "title": "수입차 구입, 결국 ‘처음 생각했던 차’…리뷰 영상 챙겨보고 AI 확인해도",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-17",
-          "dateRaw": "2026-10-17T16:47:00Z",
-          "publishedAt": "2026-10-17T16:47:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/car/1282486.html"
         },
         {
           "id": "https://www.fnnews.com/news/202610190716184038",
@@ -292,22 +292,22 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 6
-        },
-        {
-          "word": "수출",
-          "count": 3
+          "count": 7
         },
         {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "공급망",
-          "count": 1
+          "word": "기업",
+          "count": 2
         },
         {
-          "word": "기업",
+          "word": "수출",
+          "count": 2
+        },
+        {
+          "word": "공급망",
           "count": 1
         }
       ],
@@ -330,6 +330,20 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257"
         },
         {
+          "id": "https://www.etnews.com/20261020000018",
+          "title": "클라우드플레어, 깃허브·노션 등과 협력…기업 AI 업무 자동화 확대",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T23:50:30Z",
+          "publishedAt": "2026-10-19T23:50:30Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261020000018",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.mk.co.kr/news/business/12179624",
           "title": "美 AI 데이터센터 뚫은 가온전선… 3분기 520억 ‘어닝 서프라이즈’",
           "source": "mk.co.kr",
@@ -342,20 +356,6 @@
           "url": "https://www.mk.co.kr/news/business/12179624",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261019000403",
-          "title": "원프레딕트, FIX 2026서 공장 재현한 제조 AI 선보인다",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T08:31:17Z",
-          "publishedAt": "2026-10-19T08:31:17Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261019000403",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261019165340",
@@ -456,15 +456,19 @@
           "count": 4
         },
         {
-          "word": "제조",
-          "count": 3
-        },
-        {
           "word": "로봇",
           "count": 2
         },
         {
+          "word": "제조",
+          "count": 2
+        },
+        {
           "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -706,18 +710,6 @@
           "url": "https://www.tickerreport.com/banking-finance/13623793/mckinley-carter-wealth-services-inc-makes-new-investment-in-ishares-morningstar-small-cap-growth-etf-iscg.html"
         },
         {
-          "id": "https://theshillongtimes.com/2026/10/17/idbi-bank-deal-to-help-govt-meet-fiscal-goals-attract-foreign-investment-amid-global-turbulence-economist/",
-          "title": "IDBI Bank deal to help govt meet fiscal goals, attract foreign investment amid global turbulence: Economist",
-          "source": "theshillongtimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-17",
-          "dateRaw": "2026-10-17T16:47:00Z",
-          "publishedAt": "2026-10-17T16:47:00Z",
-          "summary": "",
-          "url": "https://theshillongtimes.com/2026/10/17/idbi-bank-deal-to-help-govt-meet-fiscal-goals-attract-foreign-investment-amid-global-turbulence-economist/"
-        },
-        {
           "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-signs-6200-crore-investment-pacts-for-godavari-region-at-cii-meet-18000-jobs-expected/article71574288.ece",
           "title": "Andhra Pradesh signs ₹6,200-crore investment pacts for Godavari region at CII meet; 18,000 jobs expected",
           "source": "thehindu.com",
@@ -740,12 +732,24 @@
           "publishedAt": "2026-10-17T06:01:00Z",
           "summary": "",
           "url": "https://en.shafaqna.com/484710/imf-global-growth-forecast-ai-investment-oil-prices/"
+        },
+        {
+          "id": "https://macaudailytimes.com.mo/economy-accelerated-in-the-july-september-quarter-on-robust-exports.html",
+          "title": "Economy accelerated in the July-September quarter on robust exports",
+          "source": "macaudailytimes.com.mo",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:16:00Z",
+          "publishedAt": "2026-10-20T00:16:00Z",
+          "summary": "",
+          "url": "https://macaudailytimes.com.mo/economy-accelerated-in-the-july-september-quarter-on-robust-exports.html"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 6
         },
         {
           "word": "성장",
@@ -763,16 +767,40 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-          "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-          "source": "cnbc.com",
+          "id": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says",
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new US$45 billion AI cloud deal, source says",
+          "source": "businesstimes.com.sg",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-17",
-          "dateRaw": "2026-10-17T16:47:00Z",
-          "publishedAt": "2026-10-17T16:47:00Z",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:17:00Z",
+          "publishedAt": "2026-10-20T00:17:00Z",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html"
+          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says"
+        },
+        {
+          "id": "https://www.techtimes.com/articles/329195/20261019/d-matrix-cuts-ai-token-latency-half-hybrid-gpu-xpu-inference-ocp.htm",
+          "title": "d-Matrix Cuts AI Token Latency in Half With Hybrid GPU-XPU Inference at OCP",
+          "source": "techtimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:17:00Z",
+          "publishedAt": "2026-10-20T00:17:00Z",
+          "summary": "",
+          "url": "https://www.techtimes.com/articles/329195/20261019/d-matrix-cuts-ai-token-latency-half-hybrid-gpu-xpu-inference-ocp.htm"
+        },
+        {
+          "id": "https://www.sharonherald.com/ap/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data/article_d16396cf-470d-5836-ada0-ad290c0d4f6b.html",
+          "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
+          "source": "sharonherald.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T00:16:00Z",
+          "publishedAt": "2026-10-20T00:16:00Z",
+          "summary": "",
+          "url": "https://www.sharonherald.com/ap/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data/article_d16396cf-470d-5836-ada0-ad290c0d4f6b.html"
         },
         {
           "id": "https://www.themarketsdaily.com/2026/10/18/taiwan-semiconductor-manufacturing-company-ltd-tsm-stake-reduced-by-pinestone-asset-management-inc.html",
@@ -797,18 +825,6 @@
           "publishedAt": "2026-10-18T05:46:00Z",
           "summary": "",
           "url": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/"
-        },
-        {
-          "id": "https://www.businesstimes.com.sg/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work",
-          "title": "Fintech platform iCapital plans more Singapore hires even as AI takes on 75% of coding work",
-          "source": "businesstimes.com.sg",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T05:46:00Z",
-          "publishedAt": "2026-10-18T05:46:00Z",
-          "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/fintech-platform-icapital-plans-more-singapore-hires-even-ai-takes-75-coding-work"
         },
         {
           "id": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/18/sunet-front/ai-of-the-stormdeepfakes-cloud-protest-coverage/articleshow/135020469.cms",
@@ -869,39 +885,35 @@
           "publishedAt": "2026-10-19T03:31:00Z",
           "summary": "",
           "url": "https://www.investmentwatchblog.com/usas-10-trillion-ai-boom-starting-to-crack/"
-        },
-        {
-          "id": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports",
-          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports | The Express Tribune",
-          "source": "tribune.com.pk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T21:46:00Z",
-          "publishedAt": "2026-10-18T21:46:00Z",
-          "summary": "",
-          "url": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "데이터센터",
           "count": 3
         },
         {
-          "word": "반도체",
+          "word": "GPU",
           "count": 2
         },
         {
-          "word": "제조",
+          "word": "클라우드",
+          "count": 2
+        },
+        {
+          "word": "반도체",
           "count": 1
         },
         {
-          "word": "클라우드",
+          "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         }
       ],
@@ -912,9 +924,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1345,
-    "fetchedItems": 4468,
-    "feedBytes": 1250877,
+    "poolSize": 1363,
+    "fetchedItems": 3727,
+    "feedBytes": 1001895,
     "rollingWindowHours": 72
   }
 }
