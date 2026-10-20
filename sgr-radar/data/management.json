@@ -2,33 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 20. 오전 09:25:53",
+  "updatedAt": "2026. 10. 20. 오후 02:08:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 462,
-    "passed": 12,
-    "deduped": 12,
-    "eventDeduped": 12,
+    "raw": 454,
+    "passed": 10,
+    "deduped": 10,
+    "eventDeduped": 10,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026101910332737775",
-      "title": "LG CNS, AI 업무혁신 인정…IDC '메이저 플레이어' 선정",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T03:31:00Z",
-      "publishedAt": "2026-10-19T03:31:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026101910332737775"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01180806645614888&mediaCodeNo=257",
       "title": "이찬진 “금감원 현장에 있어야”…재취업 심사 완화도 건의",
@@ -42,6 +30,18 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01180806645614888&mediaCodeNo=257"
     },
     {
+      "id": "https://newsway.co.kr/news/view?ud=2026102011343487413",
+      "title": "코오롱 살림 바꾼 이규호의 3년...승계 퍼즐은 미완 - 뉴스웨이",
+      "source": "newsway.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-20",
+      "dateRaw": "2026-10-20T05:01:00Z",
+      "publishedAt": "2026-10-20T05:01:00Z",
+      "summary": "",
+      "url": "https://newsway.co.kr/news/view?ud=2026102011343487413"
+    },
+    {
       "id": "https://econotimes.com/Meta-Earnings-Put-AI-Spending-Under-Scrutiny-After-Tech-Stock-Slide-1757101",
       "title": "Meta Earnings Put AI Spending Under Scrutiny After Tech Stock Slide | EconoTimes",
       "source": "econotimes.com",
@@ -52,18 +52,6 @@
       "publishedAt": "2026-10-20T00:16:00Z",
       "summary": "",
       "url": "https://econotimes.com/Meta-Earnings-Put-AI-Spending-Under-Scrutiny-After-Tech-Stock-Slide-1757101"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10907142",
-      "title": "남양주시, 자체 개발 AI 업무지원서비스 ‘냅(NAP)’ 활용도↑",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T03:31:00Z",
-      "publishedAt": "2026-10-19T03:31:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10907142"
     },
     {
       "id": "https://english.aawsat.com/technology/5331252-nvidia-wins-fast-growing-ai-startup-modal-new-central-processors",
@@ -136,21 +124,21 @@
       "publishedAt": "2026-10-20T00:16:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257",
+      "title": "JB금융, AI 기업 업스테이지에 400억원 투자…지분 2% 확보",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-20",
+      "dateRaw": "2026-10-20T00:17:00Z",
+      "publishedAt": "2026-10-20T00:17:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026101910332737775",
-      "title": "LG CNS, AI 업무혁신 인정…IDC '메이저 플레이어' 선정",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T03:31:00Z",
-      "publishedAt": "2026-10-19T03:31:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026101910332737775"
-    },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=01180806645614888&mediaCodeNo=257",
       "title": "이찬진 “금감원 현장에 있어야”…재취업 심사 완화도 건의",
@@ -176,16 +164,16 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257"
     },
     {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026101910414471519",
-      "title": "조정훈 “위험성 알고도 팔게 했나”…금감원, 레버리지 상품 감독 부실 논란 [2026 국감]",
-      "source": "ddaily.co.kr",
+      "id": "https://newsway.co.kr/news/view?ud=2026102011343487413",
+      "title": "코오롱 살림 바꾼 이규호의 3년...승계 퍼즐은 미완 - 뉴스웨이",
+      "source": "newsway.co.kr",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T03:31:00Z",
-      "publishedAt": "2026-10-19T03:31:00Z",
+      "date": "2026-10-20",
+      "dateRaw": "2026-10-20T05:01:00Z",
+      "publishedAt": "2026-10-20T05:01:00Z",
       "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026101910414471519"
+      "url": "https://newsway.co.kr/news/view?ud=2026102011343487413"
     },
     {
       "id": "https://econotimes.com/Meta-Earnings-Put-AI-Spending-Under-Scrutiny-After-Tech-Stock-Slide-1757101",
@@ -198,18 +186,6 @@
       "publishedAt": "2026-10-20T00:16:00Z",
       "summary": "",
       "url": "https://econotimes.com/Meta-Earnings-Put-AI-Spending-Under-Scrutiny-After-Tech-Stock-Slide-1757101"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10907142",
-      "title": "남양주시, 자체 개발 AI 업무지원서비스 ‘냅(NAP)’ 활용도↑",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-19",
-      "dateRaw": "2026-10-19T03:31:00Z",
-      "publishedAt": "2026-10-19T03:31:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10907142"
     },
     {
       "id": "https://english.aawsat.com/technology/5331252-nvidia-wins-fast-growing-ai-startup-modal-new-central-processors",
@@ -287,10 +263,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 462,
-    "fetchedItems": 3727,
-    "relevantItems": 120,
-    "feedBytes": 1001895,
+    "poolSize": 454,
+    "fetchedItems": 3509,
+    "relevantItems": 86,
+    "feedBytes": 960661,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
