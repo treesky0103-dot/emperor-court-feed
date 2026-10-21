@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 21. 오후 07:27:31",
+  "updatedAt": "2026. 10. 22. 오전 12:31:20",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -50,6 +50,18 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=06484566645615216&mediaCodeNo=257",
+          "title": "AI가 찾아낸 치명적 보안 구멍…전세계 웹사이트 70% '위협'",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:17:00Z",
+          "publishedAt": "2026-10-21T15:17:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06484566645615216&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/area/jeju/1283530.html",
           "title": "늘어나는 학생들의 절망적 선택…제주서 최초로 ‘죽음교육’ 시행되나",
           "source": "hani.co.kr",
@@ -76,28 +88,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=04434566645614560&mediaCodeNo=257",
-          "title": "李대통령 \"집값 잡으려 세금 올린 것 아냐…조세정의 문제\"",
-          "source": "edaily.co.kr",
+          "id": "http://www.koreatimes.com/article/20261021/1634682",
+          "title": "“하워드 박물관에 한인 이민사 전시된다” - 미주 한국일보",
+          "source": "koreatimes.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T09:17:00Z",
-          "publishedAt": "2026-10-19T09:17:00Z",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:16:00Z",
+          "publishedAt": "2026-10-21T15:16:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04434566645614560&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.voakorea.com/a/8212537.html",
-          "title": "트럼프, 프랑스 반정부 시위 격화에 ‘이민 정책’ 비판",
-          "source": "voakorea.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T21:46:00Z",
-          "publishedAt": "2026-10-18T21:46:00Z",
-          "summary": "",
-          "url": "https://www.voakorea.com/a/8212537.html"
+          "url": "http://www.koreatimes.com/article/20261021/1634682"
         },
         {
           "id": "https://cunews.net/detail.php?number=173183&thread=22r12r03",
@@ -179,20 +179,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12178790",
-          "title": "“선진국 중 한국만 재정여력 늘어”…최지영 IMF 이사 “AI 투자 오래갈 것”",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T14:40:37Z",
-          "publishedAt": "2026-10-18T14:40:37Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12178790",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://biz.chosun.com/international/international_economy/2026/10/20/OR4EP6HDHZDI7OQBMC2GKOKOK4/",
           "title": "뉴욕증시, AI 투자 우려·국제유가 상승에 혼조 출발… 나스닥 0.5%↓",
           "source": "biz.chosun.com",
@@ -215,6 +201,20 @@
           "publishedAt": "2026-10-20T00:17:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12179919",
+          "title": "실적 발표에는 널뛰는 주식…기준금리 변화 영향은 미미 한 까닭 [너드의 투자법]",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T17:51:51Z",
+          "publishedAt": "2026-10-19T17:51:51Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12179919",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261021164227",
@@ -299,12 +299,12 @@
           "count": 6
         },
         {
-          "word": "수출",
+          "word": "금리",
           "count": 2
         },
         {
-          "word": "금리",
-          "count": 1
+          "word": "수출",
+          "count": 2
         },
         {
           "word": "기업",
@@ -350,16 +350,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261021171359",
-          "title": "국정자원, AI 해킹 대응 보안 강화…정부 클라우드 관리체계 개편",
+          "id": "https://zdnet.co.kr/view/?no=20261021164312",
+          "title": "김종철 경찰청장 대행 \"치안 현장에 AI·로봇 활용 확대\"",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-21",
-          "dateRaw": "2026-10-21T08:14:42Z",
-          "publishedAt": "2026-10-21T08:14:42Z",
+          "dateRaw": "2026-10-21T09:09:24Z",
+          "publishedAt": "2026-10-21T09:09:24Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261021171359",
+          "url": "https://zdnet.co.kr/view/?no=20261021164312",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -412,30 +412,18 @@
           "url": "https://www.hani.co.kr/arti/science/science_general/1283065.html"
         },
         {
-          "id": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004",
-          "title": "로봇 손끝 1㎜까지 지배하는 AI… 현대차·기아 공장 ‘셀프 진화’",
-          "source": "seoul.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T19:32:00Z",
-          "publishedAt": "2026-10-18T19:32:00Z",
-          "summary": "",
-          "url": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225857",
-          "title": "반도체 덕에 성장률 전망도 '쑥'…이형일 \"올해 성장률 3%대 중반 가능\"",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226355",
+          "title": "[단독] 한강버스 선박 제조사 선정 과정, 조작 정황",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T07:36:00Z",
-          "publishedAt": "2026-10-19T07:36:00Z",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:00:00Z",
+          "publishedAt": "2026-10-21T10:00:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225857",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226355",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026101909194045790",
@@ -448,6 +436,18 @@
           "publishedAt": "2026-10-19T03:31:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026101909194045790"
+        },
+        {
+          "id": "http://www.koreatimes.com/article/20261018/1634283",
+          "title": "“AI 투자붐 문제, 과거와 다르지 않다”…WSJ ‘과잉투자’ 경고 - 미주 한국일보",
+          "source": "koreatimes.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-18",
+          "dateRaw": "2026-10-18T23:46:00Z",
+          "publishedAt": "2026-10-18T23:46:00Z",
+          "summary": "",
+          "url": "http://www.koreatimes.com/article/20261018/1634283"
         }
       ],
       "keywords": [
@@ -460,11 +460,7 @@
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 2
-        },
-        {
-          "word": "클라우드",
+          "word": "제조",
           "count": 2
         },
         {
@@ -472,11 +468,19 @@
           "count": 1
         },
         {
+          "word": "반도체",
+          "count": 1
+        },
+        {
           "word": "전력",
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "조선",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -488,6 +492,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/21/how-healthcare-leaders-can-rethink-pharmacy-three-key-strategies/",
+          "title": "How Healthcare Leaders Can Rethink Pharmacy: Three Key Strategies",
+          "source": "forbes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:17:00Z",
+          "publishedAt": "2026-10-21T15:17:00Z",
+          "summary": "",
+          "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/21/how-healthcare-leaders-can-rethink-pharmacy-three-key-strategies/"
+        },
         {
           "id": "https://www.telecompaper.com/news/samsung-supplies-galaxy-devices-for-university-of-tokyo-ageing-study--1586298",
           "title": "Samsung supplies Galaxy devices for University of Tokyo ageing study",
@@ -501,16 +517,16 @@
           "url": "https://www.telecompaper.com/news/samsung-supplies-galaxy-devices-for-university-of-tokyo-ageing-study--1586298"
         },
         {
-          "id": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece",
-          "title": "Donald Trump says ‘France is burning’, country ‘shattered’ by immigration",
-          "source": "thehindu.com",
+          "id": "https://www.laschoolreport.com/these-california-school-districts-are-losing-students-but-theyre-gaining-infants-and-toddlers/",
+          "title": "These California School Districts Are Losing Students — But They’re Gaining Infants and Toddlers | LA School Report",
+          "source": "laschoolreport.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T14:17:00Z",
-          "publishedAt": "2026-10-18T14:17:00Z",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:17:00Z",
+          "publishedAt": "2026-10-21T15:17:00Z",
           "summary": "",
-          "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece"
+          "url": "https://www.laschoolreport.com/these-california-school-districts-are-losing-students-but-theyre-gaining-infants-and-toddlers/"
         },
         {
           "id": "https://www.tnp.no/norway/panorama/2488-budget-2012-education-and-research-in-center/",
@@ -595,32 +611,20 @@
           "publishedAt": "2026-10-20T05:01:00Z",
           "summary": "",
           "url": "https://indiaeducationdiary.in/new-report-reveals-gaps-in-corporate-modern-slavery-disclosures/"
-        },
-        {
-          "id": "http://www.vietnamtribune.com/news/279385588/chando-group-showcases-chinese-beauty-science-at-cosmetic-360-debuts-fatigue-aging-research-on-global-stage",
-          "title": "CHANDO Group Showcases Chinese Beauty Science at COSMETIC 360, Debuts Fatigue-Aging Research on Global Stage",
-          "source": "vietnamtribune.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T21:02:00Z",
-          "publishedAt": "2026-10-19T21:02:00Z",
-          "summary": "",
-          "url": "http://www.vietnamtribune.com/news/279385588/chando-group-showcases-chinese-beauty-science-at-cosmetic-360-debuts-fatigue-aging-research-on-global-stage"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 9
+          "count": 11
         },
         {
           "word": "고령화",
-          "count": 2
+          "count": 1
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -652,6 +656,30 @@
           "publishedAt": "2026-10-21T05:16:00Z",
           "summary": "",
           "url": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report"
+        },
+        {
+          "id": "https://www.thehindu.com/brandhub/pr-release/iim-udaipur-launches-indias-first-one-year-full-time-mba-in-investment-and-wealth-management/article71607632.ece",
+          "title": "IIM Udaipur Launches India's First One-Year Full-Time MBA in Investment and Wealth Management",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:16:00Z",
+          "publishedAt": "2026-10-21T15:16:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/brandhub/pr-release/iim-udaipur-launches-indias-first-one-year-full-time-mba-in-investment-and-wealth-management/article71607632.ece"
+        },
+        {
+          "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/21/parkinsons-law-is-eating-your-ai-productivity-gains/",
+          "title": "Parkinson's Law Is Eating Your AI Productivity Gains",
+          "source": "forbes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:16:00Z",
+          "publishedAt": "2026-10-21T15:16:00Z",
+          "summary": "",
+          "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/21/parkinsons-law-is-eating-your-ai-productivity-gains/"
         },
         {
           "id": "https://www.newspim.com/news/view/20261021001262",
@@ -724,35 +752,11 @@
           "publishedAt": "2026-10-19T03:31:00Z",
           "summary": "",
           "url": "https://www.investmentwatchblog.com/apple-just-confirmed-the-worst-case-scenario-for-the-global-economy/"
-        },
-        {
-          "id": "https://majic959.iheart.com/content/2026-10-20-grand-theft-auto-vi-launch-could-cost-us-economy-1-billion-in-lost-productivity/",
-          "title": "Grand Theft Auto VI Launch Could Cost US Economy $1 Billion In Lost Productivity | Majic 95.9",
-          "source": "majic959.iheart.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T22:17:00Z",
-          "publishedAt": "2026-10-20T22:17:00Z",
-          "summary": "",
-          "url": "https://majic959.iheart.com/content/2026-10-20-grand-theft-auto-vi-launch-could-cost-us-economy-1-billion-in-lost-productivity/"
-        },
-        {
-          "id": "https://www.logisticsmgmt.com/article/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic_headwinds",
-          "title": "NRF forecasts 4.2% growth in 2026 in holiday retail sales despite economic headwinds",
-          "source": "logisticsmgmt.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T22:16:00Z",
-          "publishedAt": "2026-10-20T22:16:00Z",
-          "summary": "",
-          "url": "https://www.logisticsmgmt.com/article/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic_headwinds"
         }
       ],
       "keywords": [
         {
-          "word": "성장",
+          "word": "투자",
           "count": 3
         },
         {
@@ -760,7 +764,7 @@
           "count": 2
         },
         {
-          "word": "투자",
+          "word": "성장",
           "count": 2
         },
         {
@@ -785,6 +789,18 @@
           "publishedAt": "2026-10-20T00:17:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says"
+        },
+        {
+          "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/",
+          "title": "​How AI Changes The Way Organizations Deal With Messy Data",
+          "source": "forbes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:17:00Z",
+          "publishedAt": "2026-10-21T15:17:00Z",
+          "summary": "",
+          "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/"
         },
         {
           "id": "https://home.nzcity.co.nz/news/article.aspx?id=456393",
@@ -835,6 +851,42 @@
           "url": "https://www.techtimes.com/articles/329195/20261019/d-matrix-cuts-ai-token-latency-half-hybrid-gpu-xpu-inference-ocp.htm"
         },
         {
+          "id": "https://digg.com/ai/1i79b1xh",
+          "title": "OpenAI's AI Models Help Researchers Discover Critical PHP Vulnerabilities in \"Patch the Planet\" Initiative · Digg",
+          "source": "digg.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:17:00Z",
+          "publishedAt": "2026-10-21T15:17:00Z",
+          "summary": "",
+          "url": "https://digg.com/ai/1i79b1xh"
+        },
+        {
+          "id": "https://thenationonlineng.net/acci-asbon-urge-fg-to-attract-uae-investments-into-ports-manufacturing/",
+          "title": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing",
+          "source": "thenationonlineng.net",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:16:00Z",
+          "publishedAt": "2026-10-21T15:16:00Z",
+          "summary": "",
+          "url": "https://thenationonlineng.net/acci-asbon-urge-fg-to-attract-uae-investments-into-ports-manufacturing/"
+        },
+        {
+          "id": "https://www.enr.com/articles/63932-congress-questions-metas-66b-in-research-tax-credits-amid-ai-buildout",
+          "title": "Congress Questions Meta's $6.6B in Research Tax Credits Amid AI Buildout",
+          "source": "enr.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T15:16:00Z",
+          "publishedAt": "2026-10-21T15:16:00Z",
+          "summary": "",
+          "url": "https://www.enr.com/articles/63932-congress-questions-metas-66b-in-research-tax-credits-amid-ai-buildout"
+        },
+        {
           "id": "https://www.telecompaper.com/news/nkom-annual-risk-and-vulnerability-report-highlights-data-centre-sector-as-needing-improvement--1586379",
           "title": "Nkom annual risk and vulnerability report highlights data centre sector as needing improvement",
           "source": "telecompaper.com",
@@ -845,64 +897,12 @@
           "publishedAt": "2026-10-21T10:17:00Z",
           "summary": "",
           "url": "https://www.telecompaper.com/news/nkom-annual-risk-and-vulnerability-report-highlights-data-centre-sector-as-needing-improvement--1586379"
-        },
-        {
-          "id": "http://www.indiagazette.com/news/279389386/china-solar-curbs-may-accelerate-india-push-for-domestic-wafer-and-cell-manufacturing-report",
-          "title": "China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report",
-          "source": "indiagazette.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T10:17:00Z",
-          "publishedAt": "2026-10-21T10:17:00Z",
-          "summary": "",
-          "url": "http://www.indiagazette.com/news/279389386/china-solar-curbs-may-accelerate-india-push-for-domestic-wafer-and-cell-manufacturing-report"
-        },
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69893998-esteve-cdmo-strengthens-its-global-manufacturing-footprint-with-a-major-investment-and-new-site-in-china-008.htm",
-          "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T10:17:00Z",
-          "publishedAt": "2026-10-21T10:17:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69893998-esteve-cdmo-strengthens-its-global-manufacturing-footprint-with-a-major-investment-and-new-site-in-china-008.htm"
-        },
-        {
-          "id": "https://www.investors.com/market-trend/the-big-picture/stock-market-rally-leaves-nasdaq-behind-check-out-non-tech-breakouts/",
-          "title": "Small Caps, Blue Chips Lead Stock Market Rally; Nasdaq Lags As Non-Tech Breakouts Emerge",
-          "source": "investors.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T00:32:00Z",
-          "publishedAt": "2026-10-21T00:32:00Z",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-rally-leaves-nasdaq-behind-check-out-non-tech-breakouts/"
-        },
-        {
-          "id": "https://www.investmentwatchblog.com/credit-default-swaps-for-oracle-broadcom-and-nvidia-continue-to-widen-out-with-oracle-at-a-23-default-probability-nvidia-at-about-8-and-broadcom-at-12-data-center-deals-are-being-postponed-pull/",
-          "title": "Credit Default Swaps for Oracle, Broadcom, and Nvidia continue to widen out, with Oracle at a 23% default probability, Nvidia at about 8%, and Broadcom at 12%. Data center deals are being postponed, pulled, or canceled. - Investment Watch Blog",
-          "source": "investmentwatchblog.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T22:17:00Z",
-          "publishedAt": "2026-10-20T22:17:00Z",
-          "summary": "",
-          "url": "https://www.investmentwatchblog.com/credit-default-swaps-for-oracle-broadcom-and-nvidia-continue-to-widen-out-with-oracle-at-a-23-default-probability-nvidia-at-about-8-and-broadcom-at-12-data-center-deals-are-being-postponed-pull/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 3
-        },
-        {
-          "word": "데이터센터",
-          "count": 3
+          "count": 6
         },
         {
           "word": "클라우드",
@@ -913,11 +913,15 @@
           "count": 2
         },
         {
-          "word": "제조",
+          "word": "데이터센터",
           "count": 2
         },
         {
           "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "제조",
           "count": 1
         }
       ],
@@ -929,8 +933,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4610,
-    "feedBytes": 1312904,
+    "fetchedItems": 9833,
+    "feedBytes": 2865985,
     "rollingWindowHours": 72
   }
 }
