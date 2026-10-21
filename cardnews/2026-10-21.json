@@ -1,0 +1,322 @@
+{
+  "day": "2026-10-21",
+  "planSetId": "zps-20261021-9e255cb1",
+  "sourceRevision": "zcr-b916c241",
+  "version": "v2.15.24-cardnews-3styles",
+  "signature": "2710c7e9c1",
+  "planTitles": [
+    "독서 후 행동 계획",
+    "영상 공개 전 확인하기",
+    "서버비 예산하기"
+  ],
+  "provider": "mixed:gemini",
+  "generatedAt": "2026-10-21T10:34:50.467Z",
+  "sets": [
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-21T10:34:50.467Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 증상",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "독서 후 행동 계획",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "밑줄만 긋는 독서는\n시간 낭비다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "009",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "퇴근 후 매일 읽어도\n내일은 변하지 않는다",
+          "body": "어제 읽은 문장은 출근길에 잊힌다.",
+          "accent": "yellow",
+          "sceneId": "021",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "좋은 구절을 옮겨 적고,\n고개를 끄덕이고,\n책장을 덮고 끝낸다면",
+          "body": "그것은 공부가 아니라 구경이다.",
+          "accent": "yellow",
+          "sceneId": "022",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "독서의 결과는\n권수가 아니라\n내일의 행동이다",
+          "body": "바뀐 행동이 없다면 읽지 않은 것과 같다.",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "내일 회의에서 쓸\n질문 하나로 바꿔라",
+          "body": "문장을 적지 말고 할 일을 적어라.",
+          "accent": "yellow",
+          "sceneId": "039",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "책장을 덮은 뒤\n움직이지 않으면\n아무것도 남지 않는다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "049",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ],
+      "sourceRevision": "zcr-b916c241"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-21T10:34:50.467Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "영상 공개 전 확인하기",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "모두가 웃고 있어도\n올리지 못했다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "006",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "편집창 불빛 아래\n지인의 웃는 얼굴을\n한참 동안 멈춰 둔다",
+          "body": "화면 속 표정이 문득 낯설게 보인다.",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "재미있게 찍었지만\n올려도 괜찮을지\n손가락이 머뭇거린다",
+          "body": "사소한 일상이 누군가에겐 짐이 된다.",
+          "accent": "yellow",
+          "sceneId": "024",
+          "sceneCategory": "warning",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "기록하고 싶은 마음과\n지켜주고 싶은 마음은\n늘 부딪히기 마련이다",
+          "body": "화면 밖 사람의 하루를 먼저 생각한다.",
+          "accent": "yellow",
+          "sceneId": "011",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "업로드 버튼 대신\n그 장면을 지워낸다",
+          "body": "남기지 않는 배려가 관계를 지킨다.",
+          "accent": "yellow",
+          "sceneId": "039",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "아끼는 마음은 때로\n보여주지 않는 것으로\n증명된다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "043",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ],
+      "sourceRevision": "zcr-b916c241"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-10-21T10:34:50.467Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "서버비 예산하기",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "작은 서비스의 서버비가\n폭탄이 되는 진짜 이유",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "002",
+          "sceneCategory": "cover",
+          "source": "ai"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "새 기능을 배포한 뒤\n예상보다 큰 청구서를\n마주하는 팀이 많다",
+          "body": "트래픽 증가만으로는 설명되지 않는다.",
+          "accent": "yellow",
+          "sceneId": "015",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "감당할 처리량과\n응답 시간 기준을\n정하지 않고 시작했다",
+          "body": "인프라 규모만 따라가다 비용이 샌다.",
+          "accent": "yellow",
+          "sceneId": "016",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "기능별 요청 흐름과\n사용량 가정을 세워야\n중단 기준이 보인다",
+          "body": "속도와 자원 사이의 한계를 합의하라.",
+          "accent": "yellow",
+          "sceneId": "017",
+          "sceneCategory": "analysis",
+          "source": "ai"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "서버비 관리는\n기술의 문제가 아니라\n합의의 기준이다",
+          "body": "얼마나 감당할지 정하는 것이 먼저다.",
+          "accent": "yellow",
+          "sceneId": "037",
+          "sceneCategory": "fix",
+          "source": "ai"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "멈출 기준을 아는 팀만이\n비용을 통제한다",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "045",
+          "sceneCategory": "final",
+          "source": "ai"
+        }
+      ],
+      "sourceRevision": "zcr-b916c241"
+    }
+  ]
+}
