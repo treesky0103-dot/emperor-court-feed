@@ -1,6 +1,592 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "days": [
+    {
+      "date": "2026-10-22",
+      "planDay": "2026-10-22",
+      "planSetId": "zps-20261022-d99d2652",
+      "generatedAt": "2026-10-21T16:47:21.323Z",
+      "publishedAt": "2026-10-21T17:01:07.005Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-10-22",
+        "planSetId": "zps-20261022-d99d2652",
+        "titles": [
+          "엄마가 보낸 건강 영상을 함께 봅니다",
+          "협찬을 보내기 전에 약속부터 정합니다",
+          "기증받기 전에 책장부터 비웁니다"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "openai/gpt-oss-120b",
+        "hqReady": true,
+        "contentRevision": "zcr-424a9a11",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-10-21T17:01:04.045Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 건강·미디어 교양 · 브랜드·인플루언서 마케팅 · 독서문화·공동체 운영을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "openai/gpt-oss-120b",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-10-21T16:47:20.047Z",
+      "inputFreshness": {
+        "fresh": true,
+        "newsFresh": true,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-10-21T16:01:08.895Z",
+        "staleAdvisors": [],
+        "bestsellerUpdatedAt": "2026-10-21T16:43:59.238Z",
+        "bestsellerDataDate": "2026-10-20",
+        "stale": false,
+        "checkedAt": "2026-10-21T16:47:21.323Z",
+        "policy": "confirm-and-mark",
+        "label": ""
+      },
+      "plans": [
+        {
+          "type": "건강·미디어 교양",
+          "field": "건강·미디어 교양",
+          "title": "엄마가 보낸 건강 영상을 함께 봅니다",
+          "concept": "가족 대화방에 올라온 건강 영상을 출처와 판매 연결까지 나누어 읽고, 부모와 확인할 질문을 정리해 의료진에게 가져가는 생활 문해력 안내서다.",
+          "why": "노인 건강 유튜브의 의료인 사칭 보도가 영상 권위 확인 필요성을 보여주며, 부모와 함께 출처를 살피는 대화 방법이 절실히 요구된다.",
+          "competition": "일반적인 미디어 문해력 입문서만으로는 부모가 믿는 건강 영상을 두고 가족이 구체적인 대화 순서를 얻기 어렵다.",
+          "reader": "건강 영상을 가족 대화방에 올리는 부모와 자주 다투는 중년 자녀",
+          "readerNeed": "부모가 영상을 근거로 생활 습관을 바꾸려 할 때, 관계를 해치지 않으면서 출처를 함께 확인하고 싶다.",
+          "marketGap": "정보가 틀렸음을 설명해도 부모의 불안과 신뢰 문제는 남는다. 반박 대신 함께 확인할 질문으로 전환하는 과정이 필요하다.",
+          "differentiation": "영상 주장 분해표, 판매 연결 지도, 부모에게 묻는 대화문을 차례대로 쓰게 하고, 미해결 질문은 의료진 상담 메모로 옮긴다.",
+          "diff": "영상 주장 분해표, 판매 연결 지도, 부모에게 묻는 대화문을 차례대로 쓰게 하고, 미해결 질문은 의료진 상담 메모로 옮긴다.",
+          "toc": [
+            "영상 한 편의 주장을 나누어 읽기",
+            "전문가 소개와 원문 출처 대조하기",
+            "판매로 이어지는 연결 표시하기",
+            "부모의 걱정을 먼저 묻고 대화하기",
+            "확인할 질문을 진료실에 가져가기"
+          ],
+          "searchQueries": [
+            "건강 정보",
+            "미디어 문해력"
+          ],
+          "bookworthiness": {
+            "durability": "영상 형식과 유행 질병이 바뀌어도 가족이 건강 주장과 판매 목적을 함께 확인할 수 있다.",
+            "repeatNeed": "가족 대화방에 새로운 건강 영상이 올 때마다 출처 확인과 대화 순서를 반복해서 활용한다.",
+            "expansionPotential": "영상의 주장·화자·근거·판매 구조별 사례와 부모 반응별 대화문을 교차 구성해 장별 실습을 확대한다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "박상욱",
+              "career": "《영양 건강 정보와 웰빙음식》 저자 · 형설출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《영양 건강 정보와 웰빙음식》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/3970680",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "정영철 등저",
+              "career": "《2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영》 저자 · 한국보건사회연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/3769682",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "헬스인뉴스",
+              "career": "《당신의 몸을 바꾸는 진짜 건강정보 200》 저자 · 미디어M",
+              "why": "YES24에서 이 기획과 인접한 주제의 《당신의 몸을 바꾸는 진짜 건강정보 200》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/59317513",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "박상욱",
+          "bestAuthor": "박상욱",
+          "authorBrief": "",
+          "headlineCopy": "건강 영상 때문에 다투기 전에 함께 확인할 질문",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "부모의 걱정을 존중하며 대화하기",
+              "건강 영상의 출처를 스스로 확인하기"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "가족 돌봄 독자 모임과 도서관 디지털 문해력 강좌에 대화 사례를 소개한다.",
+            "trust": "의료진은 건강 표현을, 고령층 독자는 대화문의 존중과 이해도를 검토한다.",
+            "conversion": "주장을 나눈 영상 사례와 대화 전후 비교문, 진료실 질문 메모를 체험하게 한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "부모에게 보여줄 책인지 자녀가 읽을 책인지 소개만으로 구별하기 어렵다.",
+              "objection": "출처 확인 원론만 반복하면 실제 대화에 도움이 되지 않는다.",
+              "solution": "첫 독자를 중년 자녀로 명시하고 부모 불안을 해소하는 대화 사례를 제공한다."
+            },
+            "positioning": "중년 자녀가 부모와 건강 영상을 함께 읽고, 확인할 질문을 정리하도록 돕는 가족 문해력 도구다."
+          },
+          "devilsEditor": {
+            "failureReason": "가짜 영상을 비판하는 사례만 나열하면 독자가 부모를 설득할 구체적 말이 부족한다.",
+            "fix": "모든 사례를 부모 걱정, 자녀 첫 응답, 함께 확인할 질문의 세 장면으로 완성한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "정보 확인 도구가 자가진단표로 오인되거나 부모를 훈계하는 책으로 비춰질 위험이 있다.",
+          "riskResponse": "질병 판단과 정보 검증을 분리하고, 의료진 검토와 세대 대화문 독해 검토를 명확히 구분한다.",
+          "judgment": "부모가 보낸 영상 한 편이라는 익숙한 순간에서 출발해 불안과 갈등을 함께 다루는 실용 가이드다.",
+          "evidence": [
+            {
+              "text": "영양 건강 정보와 웰빙음식 — 박상욱 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/3970680"
+            },
+            {
+              "text": "노인 건강 유튜브 인기 영상 42% AI 제작…의료인 사칭 사례도 적발 - https://www.seoulilbo.co.kr/",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yS1ktQWlOc3JCSVBuNlduOXphWGZET2R5SWlLRHN5ZGc4alNhT2dKVnBSTDRWRU9GRFo2TFU0UkRBSWJQVzkwSHcwU0d1dXpBSGRJNEtVdW52RFV3UzFobVFIYnpvMW9nLWptaXdR?oc=5"
+            },
+            {
+              "text": "2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영 — 정영철 등저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/3769682"
+            },
+            {
+              "text": "당신의 몸을 바꾸는 진짜 건강정보 200 — 헬스인뉴스 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/59317513"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "영양 건강 정보와 웰빙음식",
+              "author": "박상욱 저",
+              "publisher": "형설출판사",
+              "publicationDate": "20100225",
+              "url": "https://www.yes24.com/product/goods/3970680",
+              "matchedQuery": "건강 정보",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영",
+              "author": "정영철 등저",
+              "publisher": "한국보건사회연구원",
+              "publicationDate": "20091231",
+              "url": "https://www.yes24.com/product/goods/3769682",
+              "matchedQuery": "건강 정보",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "당신의 몸을 바꾸는 진짜 건강정보 200",
+              "author": "헬스인뉴스 저",
+              "publisher": "미디어M",
+              "publicationDate": "20180314",
+              "url": "https://www.yes24.com/product/goods/59317513",
+              "matchedQuery": "건강 정보",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-21T16:45:23.971Z",
+            "queries": [
+              "건강 정보",
+              "미디어 문해력"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "브랜드·인플루언서 마케팅",
+          "field": "브랜드·인플루언서 마케팅",
+          "title": "협찬을 보내기 전에 약속부터 정합니다",
+          "concept": "작은 브랜드 담당자가 협찬 제안부터 발송·게시 확인·재사용 협의까지 흩어진 약속을 정리하고, 다음 협업을 고를 근거를 남기는 실무 운영서다.",
+          "why": "나노 인플루언서 협업 기사에서 메가 유튜버와의 복잡한 운영 과제가 떠오른다. 협찬이 늘어날수록 발송·게시·재사용 약속을 각각 관리해야 한다.",
+          "competition": "팔로워 늘리기나 콘텐츠 제작법만으로는 브랜드 담당자가 여러 협찬 건의 약속과 마감일을 동시에 관리하기 어렵다.",
+          "reader": "여러 소규모 창작자에게 제품 협찬을 직접 보내는 작은 브랜드 마케팅 담당자",
+          "readerNeed": "협찬 발송 직전, 게시 조건과 수정 요청 범위가 모호해 일정과 재고가 꼬이지 않도록 합의 내용을 남기고 싶다.",
+          "marketGap": "협찬 상대를 찾고도 발송 후 무엇을 어디까지 요구할지 남는다. 관계를 해치지 않으며 확인 약속과 회고 기준이 필요하다.",
+          "differentiation": "협찬 제안문을 발송 전 합의표로 바꾸고, 제품 이동 기록과 게시 확인표를 연결해 일정 지연과 재사용 대응문을 준비한다.",
+          "diff": "협찬 제안문을 발송 전 합의표로 바꾸고, 제품 이동 기록과 게시 확인표를 연결해 일정 지연과 재사용 대응문을 준비한다.",
+          "toc": [
+            "우리 제품과 맞는 협업 상대 고르기",
+            "보내기 전에 게시 조건 합의하기",
+            "제품 발송과 게시 약속 함께 묶기",
+            "늦은 게시와 수정 요청에 답하기",
+            "다음 협찬을 고를 회고 기록 남기기"
+          ],
+          "searchQueries": [
+            "인플루언서 마케팅",
+            "브랜드 협업"
+          ],
+          "bookworthiness": {
+            "durability": "유행 매체와 창작자가 바뀌어도 제품 제공·게시 약속·재사용 범위 확인 업무는 지속된다.",
+            "repeatNeed": "새 협찬 상대를 만날 때마다 제안 조건을 확인하고, 게시 뒤 다음 협업 기준을 남겨야 한다.",
+            "expansionPotential": "제안·발송·게시·수정·재협업 단계마다 지연·조건 변경 사례를 붙이고 담당자 실제 문서를 확대한다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "황봄님",
+              "career": "《인플루언서 마케팅 A to Z》 저자 · 라온북",
+              "why": "YES24에서 이 기획과 인접한 주제의 《인플루언서 마케팅 A to Z》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/79299619",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "테드 라이트",
+              "career": "《인플루언서 마케팅》 저자 · 리더스북",
+              "why": "YES24에서 이 기획과 인접한 주제의 《인플루언서 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/53214709",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김상겸 역",
+              "career": "《인플루언서 마케팅》 저자 · 리더스북",
+              "why": "YES24에서 이 기획과 인접한 주제의 《인플루언서 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/53214709",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "황봄님",
+          "bestAuthor": "황봄님",
+          "authorBrief": "",
+          "headlineCopy": "보낸 제품보다 먼저 확인할 협찬의 약속들",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "협찬 약속과 마감일을 놓치지 않기",
+              "다음 협업을 고를 근거 남기기"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "작은 브랜드 실무자 모임과 온라인 판매자 교육에서 협찬 발송 전 확인 사례를 소개한다.",
+            "trust": "실제 담당자 개인정보를 가린 진행 기록과 서식을 대조하고, 권리 관련 표현은 전문가 검토를 거친다.",
+            "conversion": "협찬 한 건의 제안문·발송 합의표·지연 답장문을 이어 보여주어 독자 업무에 바로 적용한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "협찬 성과를 높이는 비법서로 기대하면 약속·기록 중심 구성이 맞지 않는다.",
+              "objection": "서식 몇 장은 무료로 구할 수 있어 구매 가치를 의심한다.",
+              "solution": "게시 지연과 조건 변경이 겹친 실제 사례를 끝까지 해결하는 과정을 제시한다."
+            },
+            "positioning": "여러 창작자와 협찬을 진행하는 작은 브랜드가 발송 전후 약속과 확인 업무를 체계화한다."
+          },
+          "devilsEditor": {
+            "failureReason": "빈 서식만 제공하면 독자는 언제 무엇을 채워야 할지 몰라 메신저에 다시 의존한다.",
+            "fix": "실제 진행 순서에 따라 한 건의 제안부터 지연 대응·회고까지 같은 사례 문서를 이어 보여준다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "협찬 운영 서식이 법률 계약을 대신하거나 성과를 보장하는 도구로 오해될 수 있다.",
+          "riskResponse": "운영 합의와 법률 검토가 필요한 항목을 구분하고, 성과 사례는 비용·확인 가능한 결과만 제시한다.",
+          "judgment": "발송 전후 약속과 확인 업무에 초점을 두어, 협찬을 직접 맡는 작은 브랜드 담당자의 실제 사례를 담았다.",
+          "evidence": [
+            {
+              "text": "인플루언서 마케팅 A to Z — 황봄님 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/79299619"
+            },
+            {
+              "text": "[인플루언서 잡아라②] 메가 유튜버 대신 ‘나노 100명’에 러브콜 - 인사이트코리아",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XS2hpODR5RVhRdm1FWGtCSFFNMy1rcV9PV1VHOTRMYnktTkZzdDdSZnAyZnoycVpJRFRIWmFYaXFGNDZRTmFXUmc3VWdMQVBla2xXb1RXZmVXel9JOE1MeHNpcUVRUlVHdGpWVkhjRmR3VUgydUkw0gF3QVVfeXFMTldLaGk4NHlFWFF2bUVYa0JIUU0zLWtxX09XVUc5NExieS1ORnN0N1JmcDJmejJxWklEVEhaYVhpcUY0NlFOYVdSZzdVZ0xBUGVrbFdvVFdmZVd6X0k4TUx4c2lxRVFSVUd0alZWSGNGZHdVSDJ1STA?oc=5"
+            },
+            {
+              "text": "인플루언서 마케팅 — 테드 라이트 저/김상겸 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/53214709"
+            },
+            {
+              "text": "인플루언서 마케팅 관련 핫 키워드와 이슈 모르면 주식 대박 힘들다 — 서울공대OB주식연구회 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/85432771"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "인플루언서 마케팅 A to Z",
+              "author": "황봄님 저",
+              "publisher": "라온북",
+              "publicationDate": "20190930",
+              "url": "https://www.yes24.com/product/goods/79299619",
+              "matchedQuery": "인플루언서 마케팅",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "인플루언서 마케팅",
+              "author": "테드 라이트 저/김상겸 역",
+              "publisher": "리더스북",
+              "publicationDate": "20171025",
+              "url": "https://www.yes24.com/product/goods/53214709",
+              "matchedQuery": "인플루언서 마케팅",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "인플루언서 마케팅 관련 핫 키워드와 이슈 모르면 주식 대박 힘들다",
+              "author": "서울공대OB주식연구회 저",
+              "publisher": "비피기술거래",
+              "publicationDate": "20191226",
+              "url": "https://www.yes24.com/product/goods/85432771",
+              "matchedQuery": "인플루언서 마케팅",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-21T16:45:25.351Z",
+            "queries": [
+              "인플루언서 마케팅",
+              "브랜드 협업"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "독서문화·공동체 운영",
+          "field": "독서문화·공동체 운영",
+          "title": "기증받기 전에 책장부터 비웁니다",
+          "concept": "공유 책장을 운영하는 작은 모임이 기증·분류·순환·정리 책임을 함께 정하고, 운영자 한 사람에게 일이 몰리지 않게 만드는 책 나눔 운영 안내서다.",
+          "why": "캠퍼스 열린서가 기사에서 책을 가져오고 나누는 공간을 보여준다. 작은 모임에 적용하려면 기증 기준과 정리 책임을 먼저 정해야 운영 부담을 줄일 수 있다.",
+          "competition": "독서 모임 진행법이나 공간 꾸미기 안내만으로는 기증 거절·방치 도서 정리·담당자 교체 갈등을 다루기 어렵다.",
+          "reader": "작은 도서관이나 동네 모임의 공유 책장을 자원봉사로 맡은 운영자",
+          "readerNeed": "기증 도서를 받는 순간부터 한정된 책장·정리 시간을 고려해 거절 기준과 담당 업무를 명확히 정하고 싶다.",
+          "marketGap": "책을 나누자는 취지는 동의하지만 누가 어떤 책을 치울지는 남는다. 기증자와 이용자 필요를 조정할 기준이 필요하다.",
+          "differentiation": "책장 수용량표와 기증 답장문으로 시작해 순환 기록장과 역할 교대표를 연결하고, 정리 기준을 모임 합의문 한 장으로 완성한다.",
+          "diff": "책장 수용량표와 기증 답장문으로 시작해 순환 기록장과 역할 교대표를 연결하고, 정리 기준을 모임 합의문 한 장으로 완성한다.",
+          "toc": [
+            "책장 크기와 정리 시간을 먼저 재기",
+            "기증을 받을 책과 거절할 책 정하기",
+            "다시 읽힐 책이 보이게 분류하기",
+            "방치된 책을 정리하는 대화 나누기",
+            "운영자를 바꾸어도 남는 규칙 쓰기"
+          ],
+          "searchQueries": [
+            "작은 도서관",
+            "독서 모임"
+          ],
+          "bookworthiness": {
+            "durability": "기증을 받는 공간이 바뀌어도 책장 용량·정리 책임·이용자 우선순위 조정 문제는 지속된다.",
+            "repeatNeed": "새 기증이 들어오고 담당자가 바뀔 때마다 수락 기준과 정리 역할을 다시 확인한다.",
+            "expansionPotential": "주민 공간·직장 모임·동아리의 기증·정리 과정을 비교하고 갈등·운영 서식을 장별로 확장한다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "포도나의작은도서관",
+              "career": "《나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기》 저자 · 포도나의작은도서관",
+              "why": "YES24에서 이 기획과 인접한 주제의 《나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/152652504",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "다니엘라 자글렌카 테라치니 글그림",
+              "career": "《나의 작은 도서관》 저자 · 웅진주니어",
+              "why": "YES24에서 이 기획과 인접한 주제의 《나의 작은 도서관》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/61942712",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "홍연미 역",
+              "career": "《나의 작은 도서관》 저자 · 웅진주니어",
+              "why": "YES24에서 이 기획과 인접한 주제의 《나의 작은 도서관》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/61942712",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "포도나의작은도서관",
+          "bestAuthor": "포도나의작은도서관",
+          "authorBrief": "",
+          "headlineCopy": "책은 나누고 정리 책임은 함께 나누는 운영법",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "책 나눔을 오래 운영하기",
+              "정리 책임을 혼자 떠안지 않기"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "작은 도서관 운영자 모임과 지역 독서 공동체에 기증 수락 기준 사례를 소개한다.",
+            "trust": "공유 책장 운영자가 실제 기증 사례에 서식을 적용하고, 담당자 교체 시 빠진 일을 점검한다.",
+            "conversion": "기증 요청을 수락·보류·거절로 나누는 답장문과 책장 수용량표를 공개해 활용하게 한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "작은 공유 책장을 맡는 일에 책 한 권까지 읽어야 하는지 고민한다.",
+              "objection": "사람 수와 공간이 달라 정해진 서식이 우리 모임에 맞지 않을까 우려한다.",
+              "solution": "책장 하나와 운영자 둘인 모임부터 시작해 공간·인원에 맞게 단계적으로 적용한다."
+            },
+            "positioning": "공유 책장의 기증·정리 책임을 함께 정해 자원봉사자의 부담을 줄이는 작은 공간 운영 가이드다."
+          },
+          "devilsEditor": {
+            "failureReason": "좋은 책 나눔 공간을 소개하는 데 머물면 운영자가 해결할 갈등과 일이 흐려진다.",
+            "fix": "기증 거절·방치 도서 정리·담당자 교체 장면을 중심으로 모든 공간 사례를 다시 써서 구체화한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "공공도서관 전문 지침과 혼동되거나 공간 사례 구경으로 흐를 위험이 있다.",
+          "riskResponse": "자율 공유 책장으로 적용 범위를 좁히고, 공간마다 책이 들어오고 나가는 과정을 동일 규칙으로 제시한다.",
+          "judgment": "기증을 환영하면서 정리 부담을 혼자 떠안는 운영자를 겨냥해, 작은 공간에서 합의문과 교대표를 통한 지속 운영을 설계한다.",
+          "evidence": [
+            {
+              "text": "나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기 — 포도나의작은도서관 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/152652504"
+            },
+            {
+              "text": "‘다 읽은 책은 나누고, 읽고 싶은 책은 가져가세요!’… 백남학술정보관, 캠퍼스 열린서가 「RE:BOOK」 오픈 - 뉴스H",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWGZTbEdqN042UnhDTXlCZnRVN1lxekttR3EtZVVCU2I3U3ZvX0Vfd2pfNzloMGxGM21YLVVpT0xpdU1HZ2x5Z3NzTDM4V0xJS3FOR1BXWnR0OU4xTjRHMDNLdGlJY285Um1R?oc=5"
+            },
+            {
+              "text": "나의 작은 도서관 — 다니엘라 자글렌카 테라치니 글그림/홍연미 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/61942712"
+            },
+            {
+              "text": "기찻길 옆 작은 도서관 — 최대관 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/102791978"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기",
+              "author": "포도나의작은도서관 저",
+              "publisher": "포도나의작은도서관",
+              "publicationDate": "20250825",
+              "url": "https://www.yes24.com/product/goods/152652504",
+              "matchedQuery": "작은 도서관",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "나의 작은 도서관",
+              "author": "다니엘라 자글렌카 테라치니 글그림/홍연미 역",
+              "publisher": "웅진주니어",
+              "publicationDate": "20180622",
+              "url": "https://www.yes24.com/product/goods/61942712",
+              "matchedQuery": "작은 도서관",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "기찻길 옆 작은 도서관",
+              "author": "최대관 저",
+              "publisher": "수필과비평사",
+              "publicationDate": "20210708",
+              "url": "https://www.yes24.com/product/goods/102791978",
+              "matchedQuery": "작은 도서관",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-21T16:45:26.279Z",
+            "queries": [
+              "작은 도서관",
+              "독서 모임"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "planDay": "2026-10-21",
@@ -20471,7 +21057,7 @@
       ]
     }
   ],
-  "activePlanSetId": "zps-20261021-9e255cb1",
+  "activePlanSetId": "zps-20261022-d99d2652",
   "discardedDays": [
     {
       "date": "2026-09-29",
