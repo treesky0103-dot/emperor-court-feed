@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 21. 오후 02:23:11",
+  "updatedAt": "2026. 10. 21. 오후 07:27:31",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -50,6 +50,18 @@
           "signalFieldHint": "technology"
         },
         {
+          "id": "https://www.hani.co.kr/arti/area/jeju/1283530.html",
+          "title": "늘어나는 학생들의 절망적 선택…제주서 최초로 ‘죽음교육’ 시행되나",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/area/jeju/1283530.html"
+        },
+        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225966",
           "title": "[단독] 의료사고 은폐 의사에 사과한 복지부…허점투성이 의료 행정",
           "source": "mbn.co.kr",
@@ -86,18 +98,6 @@
           "publishedAt": "2026-10-18T21:46:00Z",
           "summary": "",
           "url": "https://www.voakorea.com/a/8212537.html"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2636813",
-          "title": "집값은 뛰는데 청약은 미달⋯수도권 분양시장 '엇박자'",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T05:46:00Z",
-          "publishedAt": "2026-10-18T05:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2636813"
         },
         {
           "id": "https://cunews.net/detail.php?number=173183&thread=22r12r03",
@@ -138,16 +138,20 @@
       ],
       "keywords": [
         {
-          "word": "주거",
-          "count": 3
-        },
-        {
           "word": "복지",
           "count": 2
         },
         {
           "word": "이민",
           "count": 2
+        },
+        {
+          "word": "주거",
+          "count": 2
+        },
+        {
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "청년",
@@ -213,16 +217,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261021134509",
-          "title": "\"韓 기업 70% 데이터 주권 전략 없다…경영진 88%는 책임 우려\"",
+          "id": "https://zdnet.co.kr/view/?no=20261021164227",
+          "title": "아무도 못 받은 15% 세액공제...전력 규제까지 AIDC 투자 딜레마",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-21",
-          "dateRaw": "2026-10-21T04:45:48Z",
-          "publishedAt": "2026-10-21T04:45:48Z",
+          "dateRaw": "2026-10-21T07:42:27Z",
+          "publishedAt": "2026-10-21T07:42:27Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261021134509",
+          "url": "https://zdnet.co.kr/view/?no=20261021164227",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -292,11 +296,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
-        },
-        {
-          "word": "기업",
-          "count": 2
+          "count": 6
         },
         {
           "word": "수출",
@@ -304,6 +304,10 @@
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "기업",
           "count": 1
         },
         {
@@ -346,16 +350,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261020172330",
-          "title": "슈프리마, AI 순찰로봇 솔루션 공개",
+          "id": "https://zdnet.co.kr/view/?no=20261021171359",
+          "title": "국정자원, AI 해킹 대응 보안 강화…정부 클라우드 관리체계 개편",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T08:23:30Z",
-          "publishedAt": "2026-10-20T08:23:30Z",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T08:14:42Z",
+          "publishedAt": "2026-10-21T08:14:42Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261020172330",
+          "url": "https://zdnet.co.kr/view/?no=20261021171359",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -420,18 +424,6 @@
           "url": "https://seoul.co.kr:443/news/economy/car/2026/10/19/20261019029004"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2636956",
-          "title": "AI와 로봇 미래 살핀다⋯서울 'AI 인사이트 포럼' 다음 달 개최",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T05:46:00Z",
-          "publishedAt": "2026-10-18T05:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2636956"
-        },
-        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225857",
           "title": "반도체 덕에 성장률 전망도 '쑥'…이형일 \"올해 성장률 3%대 중반 가능\"",
           "source": "mbn.co.kr",
@@ -444,23 +436,39 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225857",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.ddaily.co.kr:443/page/view/2026101909194045790",
+          "title": "한미반도체, 美 산호세에 '한미USA' 설립… 북미 첨단 패키징 시장 정조준",
+          "source": "ddaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-19",
+          "dateRaw": "2026-10-19T03:31:00Z",
+          "publishedAt": "2026-10-19T03:31:00Z",
+          "summary": "",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026101909194045790"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "로봇",
-          "count": 4
-        },
-        {
-          "word": "데이터센터",
-          "count": 1
+          "count": 2
         },
         {
           "word": "반도체",
+          "count": 2
+        },
+        {
+          "word": "클라우드",
+          "count": 2
+        },
+        {
+          "word": "데이터센터",
           "count": 1
         },
         {
@@ -469,10 +477,6 @@
         },
         {
           "word": "제조",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -638,18 +642,6 @@
           "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html"
         },
         {
-          "id": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/7-eleven-adds-hot-food-counters-16-singapore-stores-dfi-retail-sharpens-growth-focus",
-          "title": "7-Eleven adds hot-food counters at 16 Singapore stores as DFI Retail sharpens growth focus",
-          "source": "businesstimes.com.sg",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T05:46:00Z",
-          "publishedAt": "2026-10-18T05:46:00Z",
-          "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/7-eleven-adds-hot-food-counters-16-singapore-stores-dfi-retail-sharpens-growth-focus"
-        },
-        {
           "id": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report",
           "title": "Gold may trade up to USD 5,000/oz over next two years as central banks sustain demand: Report",
           "source": "northkoreatimes.com",
@@ -660,6 +652,18 @@
           "publishedAt": "2026-10-21T05:16:00Z",
           "summary": "",
           "url": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261021001262",
+          "title": "프랑스 국채 금리 24년 만에 5% 돌파…폭력 시위에 재정 위기까지",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261021001262"
         },
         {
           "id": "https://www.deadlinedetroit.com/articles/35230/michigan_advance_rogers_el-sayed_outline_differing_approaches_to_tariffs_and_ai_during_detroit_economic_club_forum",
@@ -722,18 +726,6 @@
           "url": "https://www.investmentwatchblog.com/apple-just-confirmed-the-worst-case-scenario-for-the-global-economy/"
         },
         {
-          "id": "https://www.globaltimes.cn/page/202610/1372468.shtml",
-          "title": "Record rail passenger numbers signal China’s economic resilience in Q3 as consumption, trade and investment pick up",
-          "source": "globaltimes.cn",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T10:47:00Z",
-          "publishedAt": "2026-10-18T10:47:00Z",
-          "summary": "",
-          "url": "https://www.globaltimes.cn/page/202610/1372468.shtml"
-        },
-        {
           "id": "https://majic959.iheart.com/content/2026-10-20-grand-theft-auto-vi-launch-could-cost-us-economy-1-billion-in-lost-productivity/",
           "title": "Grand Theft Auto VI Launch Could Cost US Economy $1 Billion In Lost Productivity | Majic 95.9",
           "source": "majic959.iheart.com",
@@ -744,6 +736,18 @@
           "publishedAt": "2026-10-20T22:17:00Z",
           "summary": "",
           "url": "https://majic959.iheart.com/content/2026-10-20-grand-theft-auto-vi-launch-could-cost-us-economy-1-billion-in-lost-productivity/"
+        },
+        {
+          "id": "https://www.logisticsmgmt.com/article/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic_headwinds",
+          "title": "NRF forecasts 4.2% growth in 2026 in holiday retail sales despite economic headwinds",
+          "source": "logisticsmgmt.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-20",
+          "dateRaw": "2026-10-20T22:16:00Z",
+          "publishedAt": "2026-10-20T22:16:00Z",
+          "summary": "",
+          "url": "https://www.logisticsmgmt.com/article/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic_headwinds"
         }
       ],
       "keywords": [
@@ -752,15 +756,15 @@
           "count": 3
         },
         {
-          "word": "투자",
-          "count": 3
-        },
-        {
-          "word": "무역",
+          "word": "금리",
           "count": 2
         },
         {
-          "word": "금리",
+          "word": "투자",
+          "count": 2
+        },
+        {
+          "word": "무역",
           "count": 1
         }
       ],
@@ -831,16 +835,40 @@
           "url": "https://www.techtimes.com/articles/329195/20261019/d-matrix-cuts-ai-token-latency-half-hybrid-gpu-xpu-inference-ocp.htm"
         },
         {
-          "id": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/",
-          "title": "800 VDC Data Center Power: Bloom Energy’s Direct DC Fuel Cell Architecture | Hydrogen Fuel News",
-          "source": "hydrogenfuelnews.com",
+          "id": "https://www.telecompaper.com/news/nkom-annual-risk-and-vulnerability-report-highlights-data-centre-sector-as-needing-improvement--1586379",
+          "title": "Nkom annual risk and vulnerability report highlights data centre sector as needing improvement",
+          "source": "telecompaper.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-18",
-          "dateRaw": "2026-10-18T05:46:00Z",
-          "publishedAt": "2026-10-18T05:46:00Z",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
           "summary": "",
-          "url": "https://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/"
+          "url": "https://www.telecompaper.com/news/nkom-annual-risk-and-vulnerability-report-highlights-data-centre-sector-as-needing-improvement--1586379"
+        },
+        {
+          "id": "http://www.indiagazette.com/news/279389386/china-solar-curbs-may-accelerate-india-push-for-domestic-wafer-and-cell-manufacturing-report",
+          "title": "China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report",
+          "source": "indiagazette.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
+          "summary": "",
+          "url": "http://www.indiagazette.com/news/279389386/china-solar-curbs-may-accelerate-india-push-for-domestic-wafer-and-cell-manufacturing-report"
+        },
+        {
+          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69893998-esteve-cdmo-strengthens-its-global-manufacturing-footprint-with-a-major-investment-and-new-site-in-china-008.htm",
+          "title": "ESTEVE CDMO strengthens its global manufacturing footprint with a major investment and new site in China",
+          "source": "finanznachrichten.de",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
+          "summary": "",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69893998-esteve-cdmo-strengthens-its-global-manufacturing-footprint-with-a-major-investment-and-new-site-in-china-008.htm"
         },
         {
           "id": "https://www.investors.com/market-trend/the-big-picture/stock-market-rally-leaves-nasdaq-behind-check-out-non-tech-breakouts/",
@@ -865,40 +893,16 @@
           "publishedAt": "2026-10-20T22:17:00Z",
           "summary": "",
           "url": "https://www.investmentwatchblog.com/credit-default-swaps-for-oracle-broadcom-and-nvidia-continue-to-widen-out-with-oracle-at-a-23-default-probability-nvidia-at-about-8-and-broadcom-at-12-data-center-deals-are-being-postponed-pull/"
-        },
-        {
-          "id": "https://www.eurekalert.org:443/news-releases/1148562",
-          "title": "Researchers study how AI could improve weed management",
-          "source": "eurekalert.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T22:16:00Z",
-          "publishedAt": "2026-10-20T22:16:00Z",
-          "summary": "",
-          "url": "https://www.eurekalert.org:443/news-releases/1148562"
-        },
-        {
-          "id": "http://www.newjerseytelegraph.com/news/279388326/choicetech-korea-brings-ai-skin-analysis-and-personalized-product-recommendations-to-torriden-seoul-flagship-store",
-          "title": "ChoiceTech Korea Brings AI Skin Analysis and Personalized Product Recommendations to Torriden's Seoul Flagship Store",
-          "source": "newjerseytelegraph.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T22:16:00Z",
-          "publishedAt": "2026-10-20T22:16:00Z",
-          "summary": "",
-          "url": "http://www.newjerseytelegraph.com/news/279388326/choicetech-korea-brings-ai-skin-analysis-and-personalized-product-recommendations-to-torriden-seoul-flagship-store"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 3
         },
         {
           "word": "데이터센터",
-          "count": 4
+          "count": 3
         },
         {
           "word": "클라우드",
@@ -906,6 +910,10 @@
         },
         {
           "word": "GPU",
+          "count": 2
+        },
+        {
+          "word": "제조",
           "count": 2
         },
         {
@@ -920,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1954,
-    "fetchedItems": 4249,
-    "feedBytes": 1163546,
+    "poolSize": 2000,
+    "fetchedItems": 4610,
+    "feedBytes": 1312904,
     "rollingWindowHours": 72
   }
 }
