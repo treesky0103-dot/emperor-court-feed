@@ -6,7 +6,7 @@
       "planDay": "2026-10-22",
       "planSetId": "zps-20261022-d99d2652",
       "generatedAt": "2026-10-21T16:47:21.323Z",
-      "publishedAt": "2026-10-21T17:35:37.033Z",
+      "publishedAt": "2026-10-22T00:18:07.577Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -227,7 +227,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 1
+          "rank": 1,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-22T00:18:00.002Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "forest",
+              "label": "포레스트형",
+              "tone": "지식·통찰 교양형",
+              "flow": [
+                "궁금증",
+                "현상",
+                "원리",
+                "설명",
+                "통찰",
+                "핵심 메시지"
+              ]
+            },
+            "bookTitle": "엄마가 보낸 건강 영상을 함께 봅니다",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "궁금증",
+                "headline": "건강 영상 때문에 다투기 전에 함께 확인할 질문",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "003",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "현상",
+                "headline": "바꾸려 할 때, 관계를 해치지 않으면서 출처를 함께 확인하고 싶다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "014",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "analysis",
+                "beat": "원리",
+                "headline": "확인할 질문을 정리해 의료진에게 가져가는 생활 문해력 안내서다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "013",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "설명",
+                "headline": "보여주며, 부모와 함께 출처를 살피는 대화 방법이 절실히 요구된다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "012",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "통찰",
+                "headline": "차례대로 쓰게 하고, 미해결 질문은 의료진 상담 메모로 옮긴다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "040",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "핵심 메시지",
+                "headline": "비판하는 사례만 나열하면 독자가 부모를 설득할 구체적 말이 부족한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "044",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-424a9a11"
+          }
         },
         {
           "type": "브랜드·인플루언서 마케팅",
@@ -406,7 +511,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 2
+          "rank": 2,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-22T00:18:00.002Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "film",
+              "label": "필름형",
+              "tone": "감성 매거진형",
+              "flow": [
+                "감성 문장",
+                "장면",
+                "감정",
+                "관점 전환",
+                "수용",
+                "여운"
+              ]
+            },
+            "bookTitle": "협찬을 보내기 전에 약속부터 정합니다",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "감성 문장",
+                "headline": "보낸 제품보다 먼저 확인할 협찬의 약속들",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "009",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "장면",
+                "headline": "범위가 모호해 일정과 재고가 꼬이지 않도록 합의 내용을 남기고 싶다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "013",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "감정",
+                "headline": "약속을 정리하고, 다음 협업을 고를 근거를 남기는 실무 운영서다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "026",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "관점 전환",
+                "headline": "협업 기사에서 메가 유튜버와의 복잡한 운영 과제가 떠오른다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "011",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "수용",
+                "headline": "기록과 게시 확인표를 연결해 일정 지연과 재사용 대응문을 준비한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "039",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "여운",
+                "headline": "독자는 언제 무엇을 채워야 할지 몰라 메신저에 다시 의존한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "047",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-424a9a11"
+          }
         },
         {
           "type": "독서문화·공동체 운영",
@@ -585,9 +795,121 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 3
+          "rank": 3,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-22T00:18:00.002Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "heist",
+              "label": "하이스트형",
+              "tone": "직설·후킹형",
+              "flow": [
+                "강한 선언",
+                "공감",
+                "구체적 증상",
+                "판단 기준",
+                "해결",
+                "강한 결론"
+              ]
+            },
+            "bookTitle": "기증받기 전에 책장부터 비웁니다",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "강한 선언",
+                "headline": "나누고 정리 책임은 함께 나누는 운영법",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "002",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "warning",
+                "beat": "공감",
+                "headline": "시간을 고려해 거절 기준과 담당 업무를 명확히 정하고 싶다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "021",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "구체적 증상",
+                "headline": "운영자 한 사람에게 일이 몰리지 않게 만드는 책 나눔 운영 안내서다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "028",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "판단 기준",
+                "headline": "캠퍼스 열린서가 기사에서 책을 가져오고 나누는 공간을 보여준다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "017",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "해결",
+                "headline": "교대표를 연결하고, 정리 기준을 모임 합의문 한 장으로 완성한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "035",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "강한 결론",
+                "headline": "공간을 소개하는 데 머물면 운영자가 해결할 갈등과 일이 흐려진다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "043",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-424a9a11"
+          }
         }
-      ]
+      ],
+      "cardnewsAutomation": {
+        "status": "ok",
+        "version": "v2.15.24-cardnews-3styles",
+        "planSetId": "zps-20261022-d99d2652",
+        "file": "cardnews/2026-10-22.json",
+        "cardCount": 6
+      }
     },
     {
       "date": "2026-10-21",
