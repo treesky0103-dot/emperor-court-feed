@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 22. 오후 08:23:30",
+  "updatedAt": "2026. 10. 23. 오전 12:57:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -32,20 +32,6 @@
           "publishedAt": "2026-10-22T05:55:14Z",
           "summary": "",
           "url": "https://www.etnews.com/20261022000329",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261019172753",
-          "title": "하정우 부위원장, 강원 AI 정책 현장 점검…의료·교통·인프라 살펴",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T04:00:01Z",
-          "publishedAt": "2026-10-20T04:00:01Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261019172753",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -110,6 +96,20 @@
           "url": "https://www.hani.co.kr/arti/area/jeju/1283530.html"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261021182153",
+          "title": "넷플릭스, 영화인 100명 대상 글로벌 역량 교육 연다",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T09:46:02Z",
+          "publishedAt": "2026-10-21T09:46:02Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261021182153",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277649&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
           "title": "\"장애인 일자리 늘리고 재활 돕고\"…백성현 논산시장, 충남 장애인 복지공로대상",
           "source": "ohmynews.com",
@@ -137,7 +137,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "복지",
@@ -199,18 +199,6 @@
           "url": "https://biz.chosun.com/international/international_economy/2026/10/20/OR4EP6HDHZDI7OQBMC2GKOKOK4/"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257",
-          "title": "JB금융, AI 기업 업스테이지에 400억원 투자…지분 2% 확보",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T00:17:00Z",
-          "publishedAt": "2026-10-20T00:17:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02866726645614888&mediaCodeNo=257"
-        },
-        {
           "id": "https://zdnet.co.kr/view/?no=20261022123514",
           "title": "신현송 \"인플레 2%로 안정적 수렴 확신들 때까지 금리 인상 대응\"",
           "source": "zdnet.co.kr",
@@ -223,6 +211,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261022123514",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=05405446645615216&mediaCodeNo=257",
+          "title": "“AI 수요 아직 탄탄” vs “AI 성장만으론 안 돼”…투자 전망 이견 팽팽",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05405446645615216&mediaCodeNo=257"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226400",
@@ -297,11 +297,11 @@
           "count": 3
         },
         {
-          "word": "기업",
-          "count": 2
+          "word": "공급망",
+          "count": 1
         },
         {
-          "word": "공급망",
+          "word": "기업",
           "count": 1
         },
         {
@@ -362,16 +362,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02643686645614888&mediaCodeNo=257",
-          "title": "‘AI 인프라·클라우드’ 엘리스그룹, 코스닥 입성…시총 1조[오늘상장]",
+          "id": "https://www.edaily.co.kr/News/Read?newsId=05405446645615216&mediaCodeNo=257",
+          "title": "“AI 수요 아직 탄탄” vs “AI 성장만으론 안 돼”…투자 전망 이견 팽팽",
           "source": "edaily.co.kr",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T00:17:00Z",
-          "publishedAt": "2026-10-20T00:17:00Z",
+          "date": "2026-10-21",
+          "dateRaw": "2026-10-21T10:17:00Z",
+          "publishedAt": "2026-10-21T10:17:00Z",
           "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02643686645614888&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05405446645615216&mediaCodeNo=257"
         },
         {
           "id": "https://www.fnnews.com/news/202610211104337707",
@@ -451,7 +451,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 9
         },
         {
           "word": "로봇",
@@ -479,10 +479,6 @@
         },
         {
           "word": "조선",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -648,6 +644,18 @@
           "url": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report"
         },
         {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece",
+          "title": "Ensure investment MoUs translate into operational projects, Naidu tells officials",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T15:47:00Z",
+          "publishedAt": "2026-10-22T15:47:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
           "title": "\"Development on the next Mass Effect is ending\": EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
           "source": "rockpapershotgun.com",
@@ -658,18 +666,6 @@
           "publishedAt": "2026-10-22T11:17:00Z",
           "summary": "",
           "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth"
-        },
-        {
-          "id": "https://www.thehindu.com/brandhub/pr-release/iim-udaipur-launches-indias-first-one-year-full-time-mba-in-investment-and-wealth-management/article71607632.ece",
-          "title": "IIM Udaipur Launches India's First One-Year Full-Time MBA in Investment and Wealth Management",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T15:16:00Z",
-          "publishedAt": "2026-10-21T15:16:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/brandhub/pr-release/iim-udaipur-launches-indias-first-one-year-full-time-mba-in-investment-and-wealth-management/article71607632.ece"
         },
         {
           "id": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/21/parkinsons-law-is-eating-your-ai-productivity-gains/",
@@ -781,16 +777,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says",
-          "title": "Nvidia-backed Nscale, Anthropic in talks for new US$45 billion AI cloud deal, source says",
-          "source": "businesstimes.com.sg",
+          "id": "https://247wallst.com/companies/tsm/",
+          "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Price, News & Analysis | 24/7 Wall St.",
+          "source": "247wallst.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-20",
-          "dateRaw": "2026-10-20T00:17:00Z",
-          "publishedAt": "2026-10-20T00:17:00Z",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T15:47:00Z",
+          "publishedAt": "2026-10-22T15:47:00Z",
           "summary": "",
-          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says"
+          "url": "https://247wallst.com/companies/tsm/"
         },
         {
           "id": "http://www.indiagazette.com/news/279391492/india-ai-financing-demand-to-shift-towards-data-centres-but-gpu-regulatory-risks-persist-report",
@@ -904,22 +900,26 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "GPU",
           "count": 4
         },
         {
-          "word": "클라우드",
+          "word": "제조",
           "count": 3
         },
         {
-          "word": "제조",
+          "word": "클라우드",
           "count": 2
         },
         {
           "word": "로봇",
+          "count": 1
+        },
+        {
+          "word": "반도체",
           "count": 1
         },
         {
@@ -935,8 +935,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 7547,
-    "feedBytes": 2093658,
+    "fetchedItems": 6979,
+    "feedBytes": 1980281,
     "rollingWindowHours": 72
   }
 }
