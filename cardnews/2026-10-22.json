@@ -9,13 +9,13 @@
     "협찬을 보내기 전에 약속부터 정합니다",
     "기증받기 전에 책장부터 비웁니다"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-10-22T00:18:00.002Z",
+  "provider": "partial-mixed",
+  "generatedAt": "2026-10-22T00:20:07.326Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-22T00:18:00.002Z",
+      "generatedAt": "2026-10-22T00:18:43.914Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,10 +40,10 @@
         ]
       },
       "bookTitle": "엄마가 보낸 건강 영상을 함께 봅니다",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -112,15 +112,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-424a9a11"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-22T00:18:00.002Z",
+      "generatedAt": "2026-10-22T00:19:38.735Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,87 +142,84 @@
         ]
       },
       "bookTitle": "협찬을 보내기 전에 약속부터 정합니다",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "보낸 제품보다 먼저 확인할 협찬의 약속들",
+          "headline": "택배 상자를 닫을 때\n비로소 남는 불안",
           "body": "",
           "accent": "yellow",
           "sceneId": "009",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "범위가 모호해 일정과 재고가 꼬이지 않도록 합의 내용을 남기고 싶다.",
-          "body": "",
+          "headline": "보내기 버튼을 누르고\n송장을 붙이는 늦은 밤",
+          "body": "작은 박스 수십 개가 테이블에 쌓인다",
           "accent": "yellow",
           "sceneId": "013",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "약속을 정리하고, 다음 협업을 고를 근거를 남기는 실무 운영서다.",
-          "body": "",
+          "headline": "답장이 늦어질수록\n작아지는 마음",
+          "body": "요청한 날짜가 다가올수록 메신저만 본다",
           "accent": "yellow",
           "sceneId": "026",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "협업 기사에서 메가 유튜버와의 복잡한 운영 과제가 떠오른다.",
-          "body": "",
+          "headline": "하지만 어떤 협업은\n기준이 먼저 서야 닿는다",
+          "body": "일정과 수정 범위를 적어 두지 않으면 흐려진다",
           "accent": "yellow",
           "sceneId": "011",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "기록과 게시 확인표를 연결해 일정 지연과 재사용 대응문을 준비한다.",
-          "body": "",
+          "headline": "말하지 않은 기대는\n약속이 되지 못한다",
+          "body": "발송 전에 남긴 짧은 합의가 서로를 지킨다",
           "accent": "yellow",
           "sceneId": "039",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "독자는 언제 무엇을 채워야 할지 몰라 메신저에 다시 의존한다.",
+          "headline": "마음을 전하기 전에\n약속의 기준부터 적는다",
           "body": "",
           "accent": "yellow",
           "sceneId": "047",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-424a9a11"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-10-22T00:18:00.002Z",
+      "generatedAt": "2026-10-22T00:19:38.735Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,81 +244,78 @@
         ]
       },
       "bookTitle": "기증받기 전에 책장부터 비웁니다",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "나누고 정리 책임은 함께 나누는 운영법",
+          "headline": "무턱대고 기증받으면\n책장은 쓰레기통이 된다",
           "body": "",
           "accent": "yellow",
           "sceneId": "002",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "시간을 고려해 거절 기준과 담당 업무를 명확히 정하고 싶다.",
-          "body": "",
+          "headline": "선의로 받은 책이\n결국 혼자 치울 짐이 된다",
+          "body": "공유 서가가 며칠 만에 낡은 창고로 변한다",
           "accent": "yellow",
           "sceneId": "021",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "운영자 한 사람에게 일이 몰리지 않게 만드는 책 나눔 운영 안내서다.",
-          "body": "",
+          "headline": "누런 수험서와 찢긴 잡지\n물려줄 사람 없는 전집들",
+          "body": "버리기 아까워 넘긴 책들이 먼지만 쌓아 둔다",
           "accent": "yellow",
           "sceneId": "028",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "캠퍼스 열린서가 기사에서 책을 가져오고 나누는 공간을 보여준다.",
-          "body": "",
+          "headline": "거절하지 못하는 배려는\n공간을 망치는 방관이다",
+          "body": "받는 순간 정리를 포기한 서가는 멈춘다",
           "accent": "yellow",
           "sceneId": "017",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "교대표를 연결하고, 정리 기준을 모임 합의문 한 장으로 완성한다.",
-          "body": "",
+          "headline": "남길 기준을 먼저 세우고\n정리 순번을 나눠라",
+          "body": "기증 거절 문구와 비움 원칙을 벽에 붙여라",
           "accent": "yellow",
           "sceneId": "035",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "공간을 소개하는 데 머물면 운영자가 해결할 갈등과 일이 흐려진다.",
+          "headline": "책장을 비우지 못하면\n어떤 나눔도 이어지지 않는다",
           "body": "",
           "accent": "yellow",
           "sceneId": "043",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-424a9a11"
     }
   ]
