@@ -2,21 +2,33 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 23. 오전 12:57:28",
+  "updatedAt": "2026. 10. 23. 오전 04:52:12",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 615,
-    "passed": 36,
-    "deduped": 36,
-    "eventDeduped": 36,
+    "raw": 601,
+    "passed": 40,
+    "deduped": 40,
+    "eventDeduped": 40,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01610486645615872&mediaCodeNo=257",
+      "title": "美국채 10년물 금리 한달 만에 5% 아래로…안전자산 쏠림",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01610486645615872&mediaCodeNo=257"
+    },
     {
       "id": "https://biz.chosun.com/stock/finance/2026/10/22/NH576SDEANHOLPH52EFFDRI2AY/",
       "title": "“銀 대출 금리 높인다” 지적에… 이찬진 “결정 과정 공개 검토”",
@@ -54,28 +66,64 @@
       "url": "https://www.middle-east-online.com/en/us-sanctions-law-firm-accused-helping-iran-evade-oil-sanctions"
     },
     {
-      "id": "https://www.etoday.co.kr/news/view/2638945",
-      "title": "기준금리 동결에도 주담대 금리 상승 압력…차주 이자 부담 여전",
-      "source": "etoday.co.kr",
-      "language": "Korean",
+      "id": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals",
+      "title": "Union Minister G Kishan Reddy to visit Australia to strengthen bilateral cooperation in critical minerals",
+      "source": "australiannews.net",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-22",
-      "dateRaw": "2026-10-22T05:47:00Z",
-      "publishedAt": "2026-10-22T05:47:00Z",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
-      "url": "https://www.etoday.co.kr/news/view/2638945"
+      "url": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals"
     },
     {
-      "id": "https://www.voakorea.com/a/north-korea-ships-imo-102126/8213691.html",
-      "title": "북한, 중국 중고 화물선 2척 등록…EU 제재 유조선은 중국 기항",
-      "source": "voakorea.com",
-      "language": "Korean",
+      "id": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/",
+      "title": "TETFund inaugurates committee to establish autism centres in 6 geopolitical zones - Blueprint Newspapers Limited",
+      "source": "blueprint.ng",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-21",
-      "dateRaw": "2026-10-21T19:32:00Z",
-      "publishedAt": "2026-10-21T19:32:00Z",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
-      "url": "https://www.voakorea.com/a/north-korea-ships-imo-102126/8213691.html"
+      "url": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/"
+    },
+    {
+      "id": "https://northafricapost.com/101107-un-economic-commission-for-africa-morocco-nigeria-gas-pipeline-project-driver-of-africas-energy-security.html",
+      "title": "UN Economic Commission for Africa: Morocco-Nigeria Gas pipeline Project, Driver of Africa's Energy security – The North Africa Post",
+      "source": "northafricapost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://northafricapost.com/101107-un-economic-commission-for-africa-morocco-nigeria-gas-pipeline-project-driver-of-africas-energy-security.html"
+    },
+    {
+      "id": "https://www.rediff.com/news/report/india-us-trade-deal-to-be-much-different-trump/20261021.htm",
+      "title": "India, US trade deal to be much different: Trump",
+      "source": "rediff.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.rediff.com/news/report/india-us-trade-deal-to-be-much-different-trump/20261021.htm"
+    },
+    {
+      "id": "http://www.la-regeneration.com/politique/2363-brussels-scratches-head-over-talk-of-us-trade-deal",
+      "title": "Brussels scratches head over talk of US trade deal",
+      "source": "la-regeneration.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "http://www.la-regeneration.com/politique/2363-brussels-scratches-head-over-talk-of-us-trade-deal"
     },
     {
       "id": "https://www.moneycontrol.com/news/business/europe-shooting-itself-in-the-foot-with-steel-curbs-cbam-piyush-goyal-14057958.html",
@@ -88,57 +136,21 @@
       "publishedAt": "2026-10-22T15:47:00Z",
       "summary": "",
       "url": "https://www.moneycontrol.com/news/business/europe-shooting-itself-in-the-foot-with-steel-curbs-cbam-piyush-goyal-14057958.html"
-    },
-    {
-      "id": "https://news.webindia123.com/news/Articles/World/20261022/4513912.html",
-      "title": "\"It's never done till it's done,\" says EAM Jaishankar on India-US trade deal",
-      "source": "news.webindia123.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T15:46:00Z",
-      "publishedAt": "2026-10-22T15:46:00Z",
-      "summary": "",
-      "url": "https://news.webindia123.com/news/Articles/World/20261022/4513912.html"
-    },
-    {
-      "id": "https://www.wkbw.com/politics/america-votes/trump-tariffs-and-health-care-takeaways-from-two-senate-debates",
-      "title": "Trump, tariffs and health care: Takeaways from two Senate debates",
-      "source": "wkbw.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T15:46:00Z",
-      "publishedAt": "2026-10-22T15:46:00Z",
-      "summary": "",
-      "url": "https://www.wkbw.com/politics/america-votes/trump-tariffs-and-health-care-takeaways-from-two-senate-debates"
-    },
-    {
-      "id": "http://www.indiagazette.com/news/279392119/pm-modi-polish-counterpart-tusk-discuss-new-avenues-of-cooperation-in-defence-ai-critical-minerals",
-      "title": "PM Modi, Polish counterpart Tusk discuss new avenues of cooperation in defence, AI, critical minerals",
-      "source": "indiagazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T15:46:00Z",
-      "publishedAt": "2026-10-22T15:46:00Z",
-      "summary": "",
-      "url": "http://www.indiagazette.com/news/279392119/pm-modi-polish-counterpart-tusk-discuss-new-avenues-of-cooperation-in-defence-ai-critical-minerals"
-    },
-    {
-      "id": "https://www.rttnews.com/3701766/dax-slips-amidst-oil-price-spike-ai-worries.aspx",
-      "title": "DAX Slips Amidst Oil Price Spike, AI Worries",
-      "source": "rttnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T11:17:00Z",
-      "publishedAt": "2026-10-22T11:17:00Z",
-      "summary": "",
-      "url": "https://www.rttnews.com/3701766/dax-slips-amidst-oil-price-spike-ai-worries.aspx"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01610486645615872&mediaCodeNo=257",
+      "title": "美국채 10년물 금리 한달 만에 5% 아래로…안전자산 쏠림",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01610486645615872&mediaCodeNo=257"
+    },
     {
       "id": "https://biz.chosun.com/stock/finance/2026/10/22/NH576SDEANHOLPH52EFFDRI2AY/",
       "title": "“銀 대출 금리 높인다” 지적에… 이찬진 “결정 과정 공개 검토”",
@@ -188,16 +200,76 @@
       "url": "https://www.etoday.co.kr/news/view/2638945"
     },
     {
-      "id": "https://www.voakorea.com/a/north-korea-ships-imo-102126/8213691.html",
-      "title": "북한, 중국 중고 화물선 2척 등록…EU 제재 유조선은 중국 기항",
-      "source": "voakorea.com",
-      "language": "Korean",
+      "id": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals",
+      "title": "Union Minister G Kishan Reddy to visit Australia to strengthen bilateral cooperation in critical minerals",
+      "source": "australiannews.net",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-21",
-      "dateRaw": "2026-10-21T19:32:00Z",
-      "publishedAt": "2026-10-21T19:32:00Z",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
-      "url": "https://www.voakorea.com/a/north-korea-ships-imo-102126/8213691.html"
+      "url": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals"
+    },
+    {
+      "id": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/",
+      "title": "TETFund inaugurates committee to establish autism centres in 6 geopolitical zones - Blueprint Newspapers Limited",
+      "source": "blueprint.ng",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/"
+    },
+    {
+      "id": "https://northafricapost.com/101107-un-economic-commission-for-africa-morocco-nigeria-gas-pipeline-project-driver-of-africas-energy-security.html",
+      "title": "UN Economic Commission for Africa: Morocco-Nigeria Gas pipeline Project, Driver of Africa's Energy security – The North Africa Post",
+      "source": "northafricapost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://northafricapost.com/101107-un-economic-commission-for-africa-morocco-nigeria-gas-pipeline-project-driver-of-africas-energy-security.html"
+    },
+    {
+      "id": "https://www.rediff.com/news/report/india-us-trade-deal-to-be-much-different-trump/20261021.htm",
+      "title": "India, US trade deal to be much different: Trump",
+      "source": "rediff.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.rediff.com/news/report/india-us-trade-deal-to-be-much-different-trump/20261021.htm"
+    },
+    {
+      "id": "http://www.la-regeneration.com/politique/2363-brussels-scratches-head-over-talk-of-us-trade-deal",
+      "title": "Brussels scratches head over talk of US trade deal",
+      "source": "la-regeneration.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "http://www.la-regeneration.com/politique/2363-brussels-scratches-head-over-talk-of-us-trade-deal"
+    },
+    {
+      "id": "https://www.theglobeandmail.com/investing/article-canadian-dollar-extends-daily-winning-streak-as-interest-rate-spreads/",
+      "title": "Canadian dollar extends daily winning streak as interest rate spreads narrow",
+      "source": "theglobeandmail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-extends-daily-winning-streak-as-interest-rate-spreads/"
     },
     {
       "id": "https://www.moneycontrol.com/news/business/europe-shooting-itself-in-the-foot-with-steel-curbs-cbam-piyush-goyal-14057958.html",
@@ -246,30 +318,6 @@
       "publishedAt": "2026-10-22T15:46:00Z",
       "summary": "",
       "url": "http://www.indiagazette.com/news/279392203/trump-hints-at-a-different-kind-of-trade-deal-with-india"
-    },
-    {
-      "id": "https://theprovince.com/news/canada/trump-tariffs-steel-aluminum-disaster-for-us-report/wcm/eee57329-cc99-4106-a416-1f42ef99c8ec",
-      "title": "Trump tariffs on steel, aluminum a 'disaster' for the U.S., think tank says",
-      "source": "theprovince.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T15:46:00Z",
-      "publishedAt": "2026-10-22T15:46:00Z",
-      "summary": "",
-      "url": "https://theprovince.com/news/canada/trump-tariffs-steel-aluminum-disaster-for-us-report/wcm/eee57329-cc99-4106-a416-1f42ef99c8ec"
-    },
-    {
-      "id": "https://www.brandonsun.com/local/2026/10/22/carney-set-for-meeting-with-turkish-president-erdogan-in-ankara",
-      "title": "Canada launches 'strategic partnership' with Turkey aimed at securing free-trade deal",
-      "source": "brandonsun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T15:46:00Z",
-      "publishedAt": "2026-10-22T15:46:00Z",
-      "summary": "",
-      "url": "https://www.brandonsun.com/local/2026/10/22/carney-set-for-meeting-with-turkish-president-erdogan-in-ankara"
     },
     {
       "id": "http://www.indiagazette.com/news/279392119/pm-modi-polish-counterpart-tusk-discuss-new-avenues-of-cooperation-in-defence-ai-critical-minerals",
@@ -344,6 +392,18 @@
       "url": "https://www.inewsgr.com/3/Finance-Ministry-on-Economic-Outcast-operation-against-Iran-Greece-enforces-current-sanctions.htm"
     },
     {
+      "id": "https://www.lankanewspapers.com/2026/10/22/sri-lanka-pushes-to-protect-crucial-eu-trade-privileges-in-romanian-parliamentary-talks",
+      "title": "Sri Lanka Pushes to Protect Crucial EU Trade Privileges in Romanian Parliamentary Talks - Lanka Newspapers",
+      "source": "lankanewspapers.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.lankanewspapers.com/2026/10/22/sri-lanka-pushes-to-protect-crucial-eu-trade-privileges-in-romanian-parliamentary-talks"
+    },
+    {
       "id": "https://www.businessincameroon.com/business-environment/2210-17025-cameroon-opens-talks-on-trade-barriers-and-financing-for-african-expansion",
       "title": "Cameroon Opens Talks on Trade Barriers and Financing for African Expansion - Business in Cameroon",
       "source": "businessincameroon.com",
@@ -380,28 +440,28 @@
       "url": "https://www.cnbcafrica.com/media/7792680026670/tiemtor-connecting-africa-and-global-markets-to-drive-capital-flow-trade"
     },
     {
-      "id": "https://www.nbcdfw.com/nba/report-kristaps-porzingis-trade-illness/4093962/",
-      "title": "Warriors reportedly exploring Kristaps Porziņģis trade as he deals with illness",
-      "source": "nbcdfw.com",
+      "id": "https://econotimes.com/Dollar-s-Reserve-Share-Slips-to-56-70-as-Central-Banks-Expect-More-Gold-1760529",
+      "title": "Dollar’s Reserve Share Slips to 56.70% as Central Banks Expect More Gold | EconoTimes",
+      "source": "econotimes.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-21",
-      "dateRaw": "2026-10-21T19:32:00Z",
-      "publishedAt": "2026-10-21T19:32:00Z",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
-      "url": "https://www.nbcdfw.com/nba/report-kristaps-porzingis-trade-illness/4093962/"
+      "url": "https://econotimes.com/Dollar-s-Reserve-Share-Slips-to-56-70-as-Central-Banks-Expect-More-Gold-1760529"
     },
     {
-      "id": "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html",
-      "title": "India-EU FTA may come into effect in January-March, says Piyush Goyal",
-      "source": "business-standard.com",
+      "id": "https://theprovince.com/news/canada/trump-tariffs-steel-aluminum-disaster-for-us-report/wcm/eee57329-cc99-4106-a416-1f42ef99c8ec",
+      "title": "Trump tariffs on steel, aluminum a 'disaster' for the U.S., think tank says",
+      "source": "theprovince.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-22",
       "dateRaw": "2026-10-22T15:46:00Z",
       "publishedAt": "2026-10-22T15:46:00Z",
       "summary": "",
-      "url": "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html"
+      "url": "https://theprovince.com/news/canada/trump-tariffs-steel-aluminum-disaster-for-us-report/wcm/eee57329-cc99-4106-a416-1f42ef99c8ec"
     },
     {
       "id": "https://www.tnp.no/norway/politics/3098-norway-aligns-itself-with-tougher-eu-sanctions-against-syria/",
@@ -414,6 +474,30 @@
       "publishedAt": "2026-10-22T05:47:00Z",
       "summary": "",
       "url": "https://www.tnp.no/norway/politics/3098-norway-aligns-itself-with-tougher-eu-sanctions-against-syria/"
+    },
+    {
+      "id": "https://www.brandonsun.com/local/2026/10/22/carney-set-for-meeting-with-turkish-president-erdogan-in-ankara",
+      "title": "Canada launches 'strategic partnership' with Turkey aimed at securing free-trade deal",
+      "source": "brandonsun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T15:46:00Z",
+      "publishedAt": "2026-10-22T15:46:00Z",
+      "summary": "",
+      "url": "https://www.brandonsun.com/local/2026/10/22/carney-set-for-meeting-with-turkish-president-erdogan-in-ankara"
+    },
+    {
+      "id": "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html",
+      "title": "India-EU FTA may come into effect in January-March, says Piyush Goyal",
+      "source": "business-standard.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T15:46:00Z",
+      "publishedAt": "2026-10-22T15:46:00Z",
+      "summary": "",
+      "url": "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html"
     },
     {
       "id": "https://www.wxyz.com/news/michigan-senate-debate-recap-rogers-and-el-sayed-clash-on-tariffs-iran-and-trump-ties",
@@ -498,39 +582,15 @@
       "publishedAt": "2026-10-21T22:31:00Z",
       "summary": "",
       "url": "https://www.thesudburystar.com/news/unscathed-by-tariffs-ontario-film-industry-sweats-new-u-s-threat-behind-the-scenes/"
-    },
-    {
-      "id": "https://www.thespec.com/business/carney-ford-to-announce-support-for-steel-and-auto-sectors-hit-by-tariffs/article_a5423a0b-8731-5704-b2af-0ce9d55c7a6f.html",
-      "title": "Carney, Ford unveil $9B plan to support industries hit by tariff war",
-      "source": "thespec.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-21",
-      "dateRaw": "2026-10-21T19:32:00Z",
-      "publishedAt": "2026-10-21T19:32:00Z",
-      "summary": "",
-      "url": "https://www.thespec.com/business/carney-ford-to-announce-support-for-steel-and-auto-sectors-hit-by-tariffs/article_a5423a0b-8731-5704-b2af-0ce9d55c7a6f.html"
-    },
-    {
-      "id": "https://www.hindustantimes.com/world-news/us-news/us-sanctions-greece-panama-based-law-firm-over-aid-to-iranian-shipping-101792607976990.html",
-      "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
-      "source": "hindustantimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-21",
-      "dateRaw": "2026-10-21T19:32:00Z",
-      "publishedAt": "2026-10-21T19:32:00Z",
-      "summary": "",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-sanctions-greece-panama-based-law-firm-over-aid-to-iranian-shipping-101792607976990.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 615,
-    "fetchedItems": 6979,
-    "relevantItems": 157,
-    "feedBytes": 1980281,
+    "poolSize": 601,
+    "fetchedItems": 5081,
+    "relevantItems": 110,
+    "feedBytes": 1405086,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
