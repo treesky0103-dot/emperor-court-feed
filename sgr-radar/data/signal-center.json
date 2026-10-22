@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 22. 오후 02:57:46",
+  "updatedAt": "2026. 10. 22. 오후 08:23:30",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,18 +22,18 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.etnews.com/20261021000141",
-          "title": "VC협회·한국장학재단, 청년 창업 투자유치 지원 협력",
+          "id": "https://www.etnews.com/20261022000329",
+          "title": "시선AI, 日 'AI 원격의료 플랫폼' 출시…헬스케어 시장 공략",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T01:59:49Z",
-          "publishedAt": "2026-10-21T01:59:49Z",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T05:55:14Z",
+          "publishedAt": "2026-10-22T05:55:14Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261021000141",
+          "url": "https://www.etnews.com/20261022000329",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261019172753",
@@ -110,20 +110,6 @@
           "url": "https://www.hani.co.kr/arti/area/jeju/1283530.html"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225966",
-          "title": "[단독] 의료사고 은폐 의사에 사과한 복지부…허점투성이 의료 행정",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-19",
-          "dateRaw": "2026-10-19T22:49:00Z",
-          "publishedAt": "2026-10-19T22:49:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225966",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277649&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
           "title": "\"장애인 일자리 늘리고 재활 돕고\"…백성현 논산시장, 충남 장애인 복지공로대상",
           "source": "ohmynews.com",
@@ -134,15 +120,27 @@
           "publishedAt": "2026-10-22T05:47:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277649&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
+          "id": "https://www.segye.com:443/newsView/20261022509923",
+          "title": "예고된 진보교육감의 ‘편향’ 논란… 경기교육청 “강사 교체 없다”",
+          "source": "segye.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T05:47:00Z",
+          "publishedAt": "2026-10-22T05:47:00Z",
+          "summary": "",
+          "url": "https://www.segye.com:443/newsView/20261022509923"
         }
       ],
       "keywords": [
         {
-          "word": "복지",
-          "count": 4
+          "word": "교육",
+          "count": 5
         },
         {
-          "word": "교육",
+          "word": "복지",
           "count": 3
         },
         {
@@ -151,7 +149,7 @@
         },
         {
           "word": "청년",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -175,16 +173,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12182737",
-          "title": "기준금리 동결한 한은…총재 “지금의 긴축 정책 기조는 이어가야”",
+          "id": "https://www.mk.co.kr/news/economy/12183065",
+          "title": "한중 경제 전문가들 한자리에…AI·공급망 협력 머리 맞댄다",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-22",
-          "dateRaw": "2026-10-22T13:47:35Z",
-          "publishedAt": "2026-10-22T13:47:35Z",
+          "dateRaw": "2026-10-22T16:57:40Z",
+          "publishedAt": "2026-10-22T16:57:40Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12182737",
+          "url": "https://www.mk.co.kr/news/economy/12183065",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -253,6 +251,18 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1283373.html"
         },
         {
+          "id": "https://www.insight.co.kr/news/578842",
+          "title": "100곳 중 10곳, 투자자 앞에 섰다...NH투자증권의 기술기업 동행",
+          "source": "insight.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T11:17:00Z",
+          "publishedAt": "2026-10-22T11:17:00Z",
+          "summary": "",
+          "url": "https://www.insight.co.kr/news/578842"
+        },
+        {
           "id": "https://womannews.net/detail.php?number=457647&thread=22r04r03",
           "title": "평택시, ‘국제 모빌리티 산업전’ 연계 투자유치 설명회 개최",
           "source": "womannews.net",
@@ -275,31 +285,23 @@
           "publishedAt": "2026-10-22T05:47:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2638945"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261022000267",
-          "title": "신한투자, '국내외 금융시장 전망' 주제로 특집 세미나 개최",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T00:47:00Z",
-          "publishedAt": "2026-10-22T00:47:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261022000267"
         }
       ],
       "keywords": [
         {
-          "word": "금리",
-          "count": 4
+          "word": "투자",
+          "count": 5
         },
         {
-          "word": "투자",
-          "count": 4
+          "word": "금리",
+          "count": 3
         },
         {
           "word": "기업",
+          "count": 2
+        },
+        {
+          "word": "공급망",
           "count": 1
         },
         {
@@ -318,16 +320,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/business/12182786",
-          "title": "GPU 수보다 중요한 ‘컴퓨팅 효율’…래블업, AI 인프라 운영시장 공략",
+          "id": "https://www.mk.co.kr/news/business/12182879",
+          "title": "UAE 날아간 이재용 삼성그룹 회장… AI·반도체 살릴 전력 시장 집중 점검",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-22",
-          "dateRaw": "2026-10-22T14:33:20Z",
-          "publishedAt": "2026-10-22T14:33:20Z",
+          "dateRaw": "2026-10-22T15:33:39Z",
+          "publishedAt": "2026-10-22T15:33:39Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12182786",
+          "url": "https://www.mk.co.kr/news/business/12182879",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -452,11 +454,11 @@
           "count": 8
         },
         {
-          "word": "GPU",
+          "word": "로봇",
           "count": 2
         },
         {
-          "word": "로봇",
+          "word": "전력",
           "count": 2
         },
         {
@@ -472,7 +474,7 @@
           "count": 1
         },
         {
-          "word": "전력",
+          "word": "반도체",
           "count": 1
         },
         {
@@ -646,6 +648,18 @@
           "url": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report"
         },
         {
+          "id": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
+          "title": "\"Development on the next Mass Effect is ending\": EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
+          "source": "rockpapershotgun.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T11:17:00Z",
+          "publishedAt": "2026-10-22T11:17:00Z",
+          "summary": "",
+          "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth"
+        },
+        {
           "id": "https://www.thehindu.com/brandhub/pr-release/iim-udaipur-launches-indias-first-one-year-full-time-mba-in-investment-and-wealth-management/article71607632.ece",
           "title": "IIM Udaipur Launches India's First One-Year Full-Time MBA in Investment and Wealth Management",
           "source": "thehindu.com",
@@ -730,33 +744,21 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/germanys-merz-touts-defence-ai-and-chip-investment-drive-in-pitch-to-investors/articleshow/135066358.cms"
         },
         {
-          "id": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html",
-          "title": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
-          "source": "cnbc.com",
+          "id": "https://www.rttnews.com/3701779/poland-retail-sales-growth-eases-to-3-3.aspx",
+          "title": "Poland Retail Sales Growth Eases To 3.3%",
+          "source": "rttnews.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T19:32:00Z",
-          "publishedAt": "2026-10-21T19:32:00Z",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T11:17:00Z",
+          "publishedAt": "2026-10-22T11:17:00Z",
           "summary": "",
-          "url": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html"
-        },
-        {
-          "id": "https://www.tnp.no/norway/politics/5501-norway-confederation-of-trade-unions-declares-economic-cultural-and-academic-boycott-against-israel/",
-          "title": "Norway Confederation of Trade Unions Declares Economic, Cultural and Academic Boycott against Israel - The Nordic Page",
-          "source": "tnp.no",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T19:32:00Z",
-          "publishedAt": "2026-10-21T19:32:00Z",
-          "summary": "",
-          "url": "https://www.tnp.no/norway/politics/5501-norway-confederation-of-trade-unions-declares-economic-cultural-and-academic-boycott-against-israel/"
+          "url": "https://www.rttnews.com/3701779/poland-retail-sales-growth-eases-to-3-3.aspx"
         }
       ],
       "keywords": [
         {
-          "word": "무역",
+          "word": "성장",
           "count": 3
         },
         {
@@ -768,7 +770,7 @@
           "count": 2
         },
         {
-          "word": "성장",
+          "word": "무역",
           "count": 1
         }
       ],
@@ -933,8 +935,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 4209,
-    "feedBytes": 1143931,
+    "fetchedItems": 7547,
+    "feedBytes": 2093658,
     "rollingWindowHours": 72
   }
 }
