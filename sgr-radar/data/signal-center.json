@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 23. 오전 10:25:00",
+  "updatedAt": "2026. 10. 23. 오후 03:18:36",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -187,6 +187,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261023110604",
+          "title": "삼성전자, 테일러 1공장 후속 설비투자…2나노 생산거점 완성 수순",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T02:49:22Z",
+          "publishedAt": "2026-10-23T02:49:22Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261023110604",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03148806645615872&mediaCodeNo=257",
           "title": "\"빚더미 AI 투자 불안\"…소프트뱅크 시총 넉달새 반토막",
           "source": "edaily.co.kr",
@@ -209,20 +223,6 @@
           "publishedAt": "2026-10-22T05:47:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/stock/finance/2026/10/22/NH576SDEANHOLPH52EFFDRI2AY/"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261022123514",
-          "title": "신현송 \"인플레 2%로 안정적 수렴 확신들 때까지 금리 인상 대응\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T04:16:39Z",
-          "publishedAt": "2026-10-22T04:16:39Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261022123514",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226400",
@@ -290,11 +290,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
-          "count": 3
+          "count": 2
         },
         {
           "word": "공급망",
@@ -328,6 +328,20 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02751926645615872&mediaCodeNo=257"
         },
         {
+          "id": "https://www.etnews.com/20261023000004",
+          "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T22:37:26Z",
+          "publishedAt": "2026-10-22T22:37:26Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261023000004",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://www.mk.co.kr/news/business/12182879",
           "title": "UAE 날아간 이재용 삼성그룹 회장… AI·반도체 살릴 전력 시장 집중 점검",
           "source": "mk.co.kr",
@@ -342,30 +356,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261022000158",
-          "title": "이재용, 전쟁 인접국 UAE 현장 찾았다…중동 AI 전력 인프라 선점 나서",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T05:00:00Z",
-          "publishedAt": "2026-10-22T05:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261022000158",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261021164312",
-          "title": "김종철 경찰청장 대행 \"치안 현장에 AI·로봇 활용 확대\"",
+          "id": "https://zdnet.co.kr/view/?no=20261023115054",
+          "title": "노키아, AI·클라우드 매출 123% 급증...영업익 35% 증가",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T09:09:24Z",
-          "publishedAt": "2026-10-21T09:09:24Z",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T02:50:54Z",
+          "publishedAt": "2026-10-23T02:50:54Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261021164312",
+          "url": "https://zdnet.co.kr/view/?no=20261023115054",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -449,14 +449,10 @@
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "전력",
-          "count": 3
-        },
-        {
-          "word": "로봇",
           "count": 2
         },
         {
@@ -464,7 +460,15 @@
           "count": 1
         },
         {
+          "word": "로봇",
+          "count": 1
+        },
+        {
           "word": "제조",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -511,6 +515,18 @@
           "publishedAt": "2026-10-21T05:16:00Z",
           "summary": "",
           "url": "https://www.telecompaper.com/news/samsung-supplies-galaxy-devices-for-university-of-tokyo-ageing-study--1586298"
+        },
+        {
+          "id": "https://www.herefordtimes.com/news/26650512.downs-private-school-site-become-send-school/",
+          "title": "Council eyes up private school site that's set to close with £30,000 survey ordered",
+          "source": "herefordtimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T06:01:00Z",
+          "publishedAt": "2026-10-23T06:01:00Z",
+          "summary": "",
+          "url": "https://www.herefordtimes.com/news/26650512.downs-private-school-site-become-send-school/"
         },
         {
           "id": "https://abc7.com/story/100-cases-norovirus-reported-kansas-elementary-school-officials-say/19969493/",
@@ -583,24 +599,12 @@
           "publishedAt": "2026-10-22T05:47:00Z",
           "summary": "",
           "url": "http://www.pagosasun.com/stories/safe2tell-reports-prompt-threat-assessments-welfare-checks-as-colorado-students-speak-up,156933"
-        },
-        {
-          "id": "https://www.arabnews.com/middle-east/palestinian-youths-risked-lives-to-save-washington-post-journalist-from-settlers-fellow-reporter-says-3007617",
-          "title": "Palestinian youths risked lives to save Washington Post journalist from settlers, fellow reporter says",
-          "source": "arabnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T22:31:00Z",
-          "publishedAt": "2026-10-21T22:31:00Z",
-          "summary": "",
-          "url": "https://www.arabnews.com/middle-east/palestinian-youths-risked-lives-to-save-washington-post-journalist-from-settlers-fellow-reporter-says-3007617"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 8
         },
         {
           "word": "고령화",
@@ -628,6 +632,18 @@
           "publishedAt": "2026-10-21T05:16:00Z",
           "summary": "",
           "url": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report"
+        },
+        {
+          "id": "https://cbn.co.za/industry-news/manufacturing-news/city-brings-south-africas-manufacturing-industry-to-cape-town-to-unlock-growth-and-investment/",
+          "title": "City Brings South Africa’s Manufacturing Industry To Cape Town To Unlock Growth And Investment",
+          "source": "cbn.co.za",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T06:01:00Z",
+          "publishedAt": "2026-10-23T06:01:00Z",
+          "summary": "",
+          "url": "https://cbn.co.za/industry-news/manufacturing-news/city-brings-south-africas-manufacturing-industry-to-cape-town-to-unlock-growth-and-investment/"
         },
         {
           "id": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
@@ -714,34 +730,22 @@
           "url": "https://www.deadlinedetroit.com/articles/35230/michigan_advance_rogers_el-sayed_outline_differing_approaches_to_tariffs_and_ai_during_detroit_economic_club_forum"
         },
         {
-          "id": "https://econotimes.com/Azerbaijan-s-Non-Oil-Economy-Grows-Faster-as-Non-Oil-Exports-Climb-1760676",
-          "title": "Azerbaijan’s Non-Oil Economy Grows Faster as Non-Oil Exports Climb | EconoTimes",
-          "source": "econotimes.com",
+          "id": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms",
+          "title": "Zetwerk listing: Zetwerk eyes manufacturing demand from AI, clean energy as shares debut - The Economic Times",
+          "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T22:46:00Z",
-          "publishedAt": "2026-10-22T22:46:00Z",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T06:01:00Z",
+          "publishedAt": "2026-10-23T06:01:00Z",
           "summary": "",
-          "url": "https://econotimes.com/Azerbaijan-s-Non-Oil-Economy-Grows-Faster-as-Non-Oil-Exports-Climb-1760676"
-        },
-        {
-          "id": "https://www.rttnews.com/3701779/poland-retail-sales-growth-eases-to-3-3.aspx",
-          "title": "Poland Retail Sales Growth Eases To 3.3%",
-          "source": "rttnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T11:17:00Z",
-          "publishedAt": "2026-10-22T11:17:00Z",
-          "summary": "",
-          "url": "https://www.rttnews.com/3701779/poland-retail-sales-growth-eases-to-3-3.aspx"
+          "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 3
+          "count": 4
         },
         {
           "word": "금리",
@@ -797,6 +801,18 @@
           "publishedAt": "2026-10-22T05:47:00Z",
           "summary": "",
           "url": "https://www.theland.com.au/story/9373124/ross-cadell-warns-labor-how-the-ai-boom-risks-power-grids/"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms",
+          "title": "Zetwerk listing: Zetwerk eyes manufacturing demand from AI, clean energy as shares debut - The Economic Times",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T06:01:00Z",
+          "publishedAt": "2026-10-23T06:01:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms"
         },
         {
           "id": "https://cbs2iowa.com/news/local/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-data-centers",
@@ -869,18 +885,6 @@
           "publishedAt": "2026-10-21T22:31:00Z",
           "summary": "",
           "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69900617-anthropic-faces-cloud-capacity-challenges-as-ai-spending-soars-020.htm"
-        },
-        {
-          "id": "https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/",
-          "title": "​How AI Changes The Way Organizations Deal With Messy Data",
-          "source": "forbes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T15:17:00Z",
-          "publishedAt": "2026-10-21T15:17:00Z",
-          "summary": "",
-          "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/"
         }
       ],
       "keywords": [
@@ -894,7 +898,7 @@
         },
         {
           "word": "제조",
-          "count": 3
+          "count": 4
         },
         {
           "word": "전력",
@@ -925,8 +929,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 3458,
-    "feedBytes": 920243,
+    "fetchedItems": 4246,
+    "feedBytes": 1192399,
     "rollingWindowHours": 72
   }
 }
