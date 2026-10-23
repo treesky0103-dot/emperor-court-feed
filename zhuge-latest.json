@@ -1,167 +1,142 @@
 {
-  "date": "2026-10-22",
-  "planDay": "2026-10-22",
-  "planSetId": "zps-20261022-d99d2652",
-  "generatedAt": "2026-10-21T16:47:21.323Z",
-  "publishedAt": "2026-10-22T09:01:14.210Z",
+  "date": "2026-10-23",
+  "planDay": "2026-10-23",
+  "planSetId": "zps-20261023-79d9442c",
+  "generatedAt": "2026-10-23T04:45:30.434Z",
+  "publishedAt": "2026-10-23T04:45:35.205Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
-  "morningEdition": {
-    "day": "2026-10-22",
-    "planSetId": "zps-20261022-d99d2652",
-    "titles": [
-      "엄마가 보낸 건강 영상을 함께 봅니다",
-      "협찬을 보내기 전에 약속부터 정합니다",
-      "기증받기 전에 책장부터 비웁니다"
-    ],
-    "generationMode": "historical-high-quality-atomic",
-    "model": "openai/gpt-oss-120b",
-    "hqReady": true,
-    "contentRevision": "zcr-424a9a11",
-    "hqVerifiedBy": "openai/gpt-oss-120b",
-    "sealedAt": "2026-10-21T17:01:04.045Z",
-    "build": "v2.15.119",
-    "hqUpgradedAt": "2026-10-21T17:03:37.846Z",
-    "hqVerificationError": ""
-  },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 건강·미디어 교양 · 브랜드·인플루언서 마케팅 · 독서문화·공동체 운영을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 작은 가게 운영 · 청소년 미디어 교육 · 소프트웨어 개발 실무을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
-  "model": "openai/gpt-oss-120b",
+  "model": "chatgpt-scheduled-editor",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-10-21T16:47:20.047Z",
+  "sourceSnapshotAt": "2026-10-23T04:45:29.795Z",
   "inputFreshness": {
-    "fresh": true,
-    "newsFresh": true,
+    "fresh": false,
+    "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-10-21T16:01:08.895Z",
-    "staleAdvisors": [],
-    "bestsellerUpdatedAt": "2026-10-21T16:43:59.238Z",
-    "bestsellerDataDate": "2026-10-20",
-    "stale": false,
-    "checkedAt": "2026-10-21T16:47:21.323Z",
+    "newsUpdatedAt": "2026-10-23T04:39:36.098Z",
+    "staleAdvisors": [
+      "sima",
+      "zhou",
+      "pang",
+      "cheng",
+      "xunyu",
+      "xunyou"
+    ],
+    "bestsellerUpdatedAt": "2026-10-23T00:00:29.994Z",
+    "bestsellerDataDate": "2026-10-22",
+    "stale": true,
+    "checkedAt": "2026-10-23T04:45:30.434Z",
     "policy": "confirm-and-mark",
-    "label": ""
+    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "건강·미디어 교양",
-      "field": "건강·미디어 교양",
-      "title": "엄마가 보낸 건강 영상을 함께 봅니다",
-      "concept": "가족 대화방에 올라온 건강 영상을 출처와 판매 연결까지 나누어 읽고, 부모와 확인할 질문을 정리해 의료진에게 가져가는 생활 문해력 안내서다.",
-      "why": "노인 건강 유튜브의 의료인 사칭 보도가 영상 권위 확인 필요성을 보여주며, 부모와 함께 출처를 살피는 대화 방법이 절실히 요구된다.",
-      "competition": "일반적인 미디어 문해력 입문서만으로는 부모가 믿는 건강 영상을 두고 가족이 구체적인 대화 순서를 얻기 어렵다.",
-      "reader": "건강 영상을 가족 대화방에 올리는 부모와 자주 다투는 중년 자녀",
-      "readerNeed": "부모가 영상을 근거로 생활 습관을 바꾸려 할 때, 관계를 해치지 않으면서 출처를 함께 확인하고 싶다.",
-      "marketGap": "정보가 틀렸음을 설명해도 부모의 불안과 신뢰 문제는 남는다. 반박 대신 함께 확인할 질문으로 전환하는 과정이 필요하다.",
-      "differentiation": "영상 주장 분해표, 판매 연결 지도, 부모에게 묻는 대화문을 차례대로 쓰게 하고, 미해결 질문은 의료진 상담 메모로 옮긴다.",
-      "diff": "영상 주장 분해표, 판매 연결 지도, 부모에게 묻는 대화문을 차례대로 쓰게 하고, 미해결 질문은 의료진 상담 메모로 옮긴다.",
+      "type": "작은 가게 운영",
+      "field": "작은 가게 운영",
+      "title": "손님이 머무를 자리를 먼저 만듭니다",
+      "concept": "방문 목적과 자리 선택을 관찰하고 소음, 주문, 독서 동선을 나누어 작은 변경을 시험한다. 체류 경험을 재방문 이유로 바꾸는 북카페 운영서다.",
+      "why": "츠타야서점이 머무는 시간을 판다는 보도는 서점의 공간 경험을 생각하게 한다. 작은 북카페에는 대형 매장의 외관보다 손님의 이용 목적을 읽는 운영 기준이 필요하다.",
+      "competition": "감각적인 공간 사진과 창업 준비 안내만으로는 영업 중 생기는 좌석 충돌과 재방문 문제를 판단하기 어렵다.",
+      "reader": "책과 음료를 함께 팔지만 손님의 재방문이 드문 동네 북카페 운영자",
+      "readerNeed": "손님은 오래 앉아 있는데 다시 오지는 않을 때, 좌석과 이용 안내 중 무엇부터 고칠지 결정하고 싶다.",
+      "marketGap": "좋은 공간 사례를 읽고도 혼자 온 독자와 대화하는 손님을 어디에 앉힐지, 무엇을 먼저 바꿀지는 남는다.",
+      "differentiation": "방문 목적 지도와 자리별 불편 기록을 먼저 만들고, 소음 안내와 책 고르는 동선을 한 가지씩 바꾼 뒤 재방문 반응을 비교한다.",
+      "diff": "방문 목적 지도와 자리별 불편 기록을 먼저 만들고, 소음 안내와 책 고르는 동선을 한 가지씩 바꾼 뒤 재방문 반응을 비교한다.",
       "toc": [
-        "영상 한 편의 주장을 나누어 읽기",
-        "전문가 소개와 원문 출처 대조하기",
-        "판매로 이어지는 연결 표시하기",
-        "부모의 걱정을 먼저 묻고 대화하기",
-        "확인할 질문을 진료실에 가져가기"
+        "손님이 들어온 이유부터 기록하기",
+        "혼자 읽는 자리와 대화 자리 나누기",
+        "책 고르는 길과 주문 동선 살피기",
+        "소음과 이용 시간을 말로 안내하기",
+        "작은 변경 뒤 다시 온 이유 묻기"
       ],
       "searchQueries": [
-        "건강 정보",
-        "미디어 문해력"
+        "북카페 운영",
+        "공간 경험"
       ],
       "bookworthiness": {
-        "durability": "영상 형식과 유행 질병이 바뀌어도 가족이 건강 주장과 판매 목적을 함께 확인할 수 있다.",
-        "repeatNeed": "가족 대화방에 새로운 건강 영상이 올 때마다 출처 확인과 대화 순서를 반복해서 활용한다.",
-        "expansionPotential": "영상의 주장·화자·근거·판매 구조별 사례와 부모 반응별 대화문을 교차 구성해 장별 실습을 확대한다.",
+        "durability": "유행하는 공간 장식이 달라져도 독서와 대화, 주문이 함께 일어나는 가게의 이용 충돌은 남는다.",
+        "repeatNeed": "계절과 방문객 구성이 바뀔 때마다 자리 배치와 이용 안내를 다시 점검할 수 있다.",
+        "expansionPotential": "혼자 온 손님과 모임, 혼잡한 날과 한산한 날의 사례를 교차해 관찰과 변경 과정을 장별로 확장한다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "박상욱",
-          "career": "《영양 건강 정보와 웰빙음식》 저자 · 형설출판사",
-          "why": "YES24에서 이 기획과 인접한 주제의 《영양 건강 정보와 웰빙음식》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/3970680",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "정영철 등저",
-          "career": "《2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영》 저자 · 한국보건사회연구원",
-          "why": "YES24에서 이 기획과 인접한 주제의 《2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/3769682",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "헬스인뉴스",
-          "career": "《당신의 몸을 바꾸는 진짜 건강정보 200》 저자 · 미디어M",
-          "why": "YES24에서 이 기획과 인접한 주제의 《당신의 몸을 바꾸는 진짜 건강정보 200》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/59317513",
+          "name": "한국콘텐츠미디어",
+          "career": "《2026-27 장난감 업체 주소록 CD》 저자 · 한국콘텐츠미디어",
+          "why": "YES24에서 이 기획과 인접한 주제의 《2026-27 장난감 업체 주소록 CD》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/198288275",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "박상욱",
-      "bestAuthor": "박상욱",
+      "author": "한국콘텐츠미디어",
+      "bestAuthor": "한국콘텐츠미디어",
       "authorBrief": "",
-      "headlineCopy": "건강 영상 때문에 다투기 전에 함께 확인할 질문",
+      "headlineCopy": "오래 앉는 손님이 다시 오는 가게의 조건",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "부모의 걱정을 존중하며 대화하기",
-          "건강 영상의 출처를 스스로 확인하기"
+          "손님이 다시 찾을 이유 만들기",
+          "큰 공사 없이 이용 불편 줄이기"
         ],
         "quadrant": {
-          "audience": "대중형",
+          "audience": "니치형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "가족 돌봄 독자 모임과 도서관 디지털 문해력 강좌에 대화 사례를 소개한다.",
-        "trust": "의료진은 건강 표현을, 고령층 독자는 대화문의 존중과 이해도를 검토한다.",
-        "conversion": "주장을 나눈 영상 사례와 대화 전후 비교문, 진료실 질문 메모를 체험하게 한다.",
+        "acquisition": "독립서점과 북카페 운영자 모임에서 좌석 충돌 사례와 관찰 기록 양식을 소개한다.",
+        "trust": "서로 다른 규모의 가게 운영자에게 관찰 양식과 이용 안내문의 현장 적용성을 검토받는다.",
+        "conversion": "같은 자리의 변경 전후 기록과 손님에게 묻는 질문지를 공개해 자기 가게에 적용할지 판단하게 한다.",
         "maxDropoff": {
           "stage": "탐색",
-          "problem": "부모에게 보여줄 책인지 자녀가 읽을 책인지 소개만으로 구별하기 어렵다.",
-          "objection": "출처 확인 원론만 반복하면 실제 대화에 도움이 되지 않는다.",
-          "solution": "첫 독자를 중년 자녀로 명시하고 부모 불안을 해소하는 대화 사례를 제공한다."
+          "problem": "사진이 예쁜 공간 사례집으로 보이면 지금 가게를 고칠 독자가 이탈한다.",
+          "objection": "넓은 매장과 많은 직원을 가진 가게의 방식은 우리 가게에 맞지 않는다.",
+          "solution": "작은 가게의 동일 조건에서 자리와 안내만 바꾸는 실습을 먼저 보여준다."
         },
-        "positioning": "중년 자녀가 부모와 건강 영상을 함께 읽고, 확인할 질문을 정리하도록 돕는 가족 문해력 도구다."
+        "positioning": "이미 영업 중인 동네 북카페가 손님의 이용 경험을 관찰하고 재방문 이유를 찾는 운영 안내서다."
       },
       "devilsEditor": {
-        "failureReason": "가짜 영상을 비판하는 사례만 나열하면 독자가 부모를 설득할 구체적 말이 부족한다.",
-        "fix": "모든 사례를 부모 걱정, 자녀 첫 응답, 함께 확인할 질문의 세 장면으로 완성한다."
+        "failureReason": "좋은 분위기와 친절을 강조하는 문장만 남으면 운영자가 바꿀 행동이 모호해진다.",
+        "fix": "모든 장을 손님 행동 기록, 바꿀 항목 하나, 변경 뒤 확인 질문으로 끝내게 한다."
       },
       "scores": {
         "market": 92,
         "timing": 96,
         "difference": 95,
-        "author": 86,
+        "author": 78,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 94,
+      "score": 93,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "정보 확인 도구가 자가진단표로 오인되거나 부모를 훈계하는 책으로 비춰질 위험이 있다.",
-      "riskResponse": "질병 판단과 정보 검증을 분리하고, 의료진 검토와 세대 대화문 독해 검토를 명확히 구분한다.",
-      "judgment": "부모가 보낸 영상 한 편이라는 익숙한 순간에서 출발해 불안과 갈등을 함께 다루는 실용 가이드다.",
+      "risk": "대형 서점의 공간 전략을 소규모 가게에도 통하는 성공 공식으로 오해할 수 있다.",
+      "riskResponse": "면적과 인력 조건이 다른 사례를 나누고, 변경 전후 관찰과 되돌릴 조건을 함께 제시한다.",
+      "judgment": "새 인테리어보다 지금 있는 자리와 안내를 고치려는 운영자의 구매 이유가 분명하다. 손님 관찰 기록과 작은 실험이 이어지는 운영서로 편집한다.",
       "evidence": [
         {
-          "text": "영양 건강 정보와 웰빙음식 — 박상욱 저",
+          "text": "2026-27 장난감 업체 주소록 CD — 한국콘텐츠미디어 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/3970680"
+          "url": "https://www.yes24.com/product/goods/198288275"
         },
         {
-          "text": "노인 건강 유튜브 인기 영상 42% AI 제작…의료인 사칭 사례도 적발 - https://www.seoulilbo.co.kr/",
+          "text": "서점 없는 츠타야서점… 책 대신 ‘머무는 시간’을 판다 - 조선일보",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yS1ktQWlOc3JCSVBuNlduOXphWGZET2R5SWlLRHN5ZGc4alNhT2dKVnBSTDRWRU9GRFo2TFU0UkRBSWJQVzkwSHcwU0d1dXpBSGRJNEtVdW52RFV3UzFobVFIYnpvMW9nLWptaXdR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUQtRjBwa3FrQURRNWxHWF9nbWxaSmFxRGsxaGo2RXJhRXg1RW80bl9EVEpuRG1mak9WdnpoZWhxNXNFZmRwR3ljbVhVM2N6cU9lNlVBZ204eWN5eEJUdVBmb2R1b2w0RnBITklhN29kdkZUbjdKU2diM2p0UUlEVERoQ2x3Zw?oc=5"
         },
         {
-          "text": "2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영 — 정영철 등저",
+          "text": "2023 만화카페·웹툰시장 주소록 CD — 한국콘텐츠미디어 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/3769682"
+          "url": "https://www.yes24.com/product/goods/118149999"
         },
         {
-          "text": "당신의 몸을 바꾸는 진짜 건강정보 200 — 헬스인뉴스 저",
+          "text": "2023 서점·독서실 주소록 CD — 한국콘텐츠미디어 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/59317513"
+          "url": "https://www.yes24.com/product/goods/117501480"
         }
       ],
       "sourceChannels": [
@@ -182,40 +157,398 @@
       },
       "similarBooks": [
         {
-          "title": "영양 건강 정보와 웰빙음식",
-          "author": "박상욱 저",
-          "publisher": "형설출판사",
-          "publicationDate": "20100225",
-          "url": "https://www.yes24.com/product/goods/3970680",
-          "matchedQuery": "건강 정보",
+          "title": "2026-27 장난감 업체 주소록 CD",
+          "author": "한국콘텐츠미디어 저",
+          "publisher": "한국콘텐츠미디어",
+          "publicationDate": "20261014",
+          "url": "https://www.yes24.com/product/goods/198288275",
+          "matchedQuery": "북카페 운영",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "2009 인터넷 건강 정보 게이트웨이 시스템 구축 및 운영",
-          "author": "정영철 등저",
+          "title": "2023 만화카페·웹툰시장 주소록 CD",
+          "author": "한국콘텐츠미디어 저",
+          "publisher": "한국콘텐츠미디어",
+          "publicationDate": "20230327",
+          "url": "https://www.yes24.com/product/goods/118149999",
+          "matchedQuery": "북카페 운영",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "2023 서점·독서실 주소록 CD",
+          "author": "한국콘텐츠미디어 저",
+          "publisher": "한국콘텐츠미디어",
+          "publicationDate": "20230213",
+          "url": "https://www.yes24.com/product/goods/117501480",
+          "matchedQuery": "북카페 운영",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-10-23T04:45:28.834Z",
+        "queries": [
+          "북카페 운영",
+          "공간 경험"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 1
+    },
+    {
+      "type": "청소년 미디어 교육",
+      "field": "청소년 미디어 교육",
+      "title": "동아리 뉴스는 출처부터 확인합니다",
+      "concept": "영상의 주장과 번역 설명을 분리하고 최초 게시물, 시각, 장소의 근거를 대조한다. 확인한 사실만 학교 뉴스로 쓰게 하는 학생 기자용 취재 실습서다.",
+      "why": "프랑스 영상의 진실을 다룬 보도는 실제 기록처럼 퍼진 화면의 출처를 되짚었다. 학생 기자에게도 그럴듯한 장면을 기사로 옮기기 전 주장과 근거를 나눌 절차가 필요하다.",
+      "competition": "가짜뉴스의 위험을 설명하는 교양서만으로는 마감 전에 확인을 어디서 멈추고 어떤 표현으로 쓸지 정하기 어렵다.",
+      "reader": "해외 화제 영상을 학교 소식지에 소개하려는 중고등학교 학생 기자와 지도교사",
+      "readerNeed": "마감 직전에 화제 영상을 기사로 옮기려 할 때, 원본을 못 찾거나 번역 설명이 달라 게재 여부를 망설인다.",
+      "marketGap": "출처를 확인하라는 원칙을 알아도 원본이 사라졌거나 설명이 엇갈릴 때 게재 보류와 정정 기준은 여전히 남는다.",
+      "differentiation": "영상 주장 카드와 출처 연결표를 작성하고, 확인됨과 미확인을 나누어 기사 문장을 고친다. 이후 정정 공지까지 한 취재의 흐름으로 연습한다.",
+      "diff": "영상 주장 카드와 출처 연결표를 작성하고, 확인됨과 미확인을 나누어 기사 문장을 고친다. 이후 정정 공지까지 한 취재의 흐름으로 연습한다.",
+      "toc": [
+        "화면에서 본 것과 설명을 나누기",
+        "가장 먼저 올라온 게시물 찾기",
+        "촬영 시각과 장소의 단서 대조하기",
+        "모르는 부분을 남겨 기사 쓰기",
+        "잘못 보도한 내용을 공개해 고치기"
+      ],
+      "searchQueries": [
+        "뉴스 리터러시",
+        "청소년 취재"
+      ],
+      "bookworthiness": {
+        "durability": "영상 플랫폼과 번역 기능이 바뀌어도 화면의 주장과 확인 가능한 근거를 구분하는 취재 문제는 남는다.",
+        "repeatNeed": "새 학기마다 학생 기자가 바뀌고 새 영상이 등장하므로 같은 확인 실습을 반복한다.",
+        "expansionPotential": "원본 삭제와 재편집, 번역 차이와 장소 오인을 각각 취재 기록과 기사 수정 사례로 구성해 확장한다.",
+        "productDependency": "낮음"
+      },
+      "authors": [
+        {
+          "name": "양정애",
+          "career": "《뉴스 리터러시 교육 1》 저자 · 한국언론진흥재단(한국언론재단)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《뉴스 리터러시 교육 1》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/23307502",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "최숙",
+          "career": "《뉴스 리터러시 교육 1》 저자 · 한국언론진흥재단(한국언론재단)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《뉴스 리터러시 교육 1》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/23307502",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김경보",
+          "career": "《뉴스 리터러시 교육 1》 저자 · 한국언론진흥재단(한국언론재단)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《뉴스 리터러시 교육 1》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/23307502",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "양정애",
+      "bestAuthor": "양정애",
+      "authorBrief": "",
+      "headlineCopy": "화제 영상을 학교 뉴스로 옮기기 전의 질문",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "확인한 사실로 학교 기사 쓰기",
+          "불확실한 영상을 책임 있게 다루기"
+        ],
+        "quadrant": {
+          "audience": "니치형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "학교 신문 동아리와 도서관 미디어 수업에 영상 주장 카드와 취재 활동지를 소개한다.",
+        "trust": "현직 기자와 지도교사가 출처 대조 과정과 학생용 문장의 정확성, 수업 난도를 함께 검토한다.",
+        "conversion": "같은 영상에서 출발한 초고와 확인 뒤 고친 기사, 게재 보류 기록을 한 묶음으로 체험하게 한다.",
+        "maxDropoff": {
+          "stage": "탐색",
+          "problem": "가짜뉴스를 조심하라는 훈계로 보이면 학생이 활동지를 펼치지 않는다.",
+          "objection": "학생에게 전문 기자와 같은 취재 시간과 외국어 능력을 요구하는 것 같다.",
+          "solution": "짧은 수업에서 확인할 범위와 보류할 범위를 나눈 취재 과제를 먼저 제공한다."
+        },
+        "positioning": "학교 뉴스의 실제 마감 안에서 영상 출처를 대조하고 확인한 만큼만 쓰는 학생 기자의 취재 연습장이다."
+      },
+      "devilsEditor": {
+        "failureReason": "가짜 영상을 맞히는 놀이에 치우치면 기사 작성과 정정이라는 책임이 빠진다.",
+        "fix": "모든 활동에 게재 판단과 기사 문장 수정을 붙이고 미확인으로 끝내는 사례도 수록한다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 96,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 94,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "화면의 어색한 부분만 찾아 인공지능 생성 여부를 단정하는 수업이 될 위험이 있다.",
+      "riskResponse": "시각적 단서는 추가 확인의 출발점으로 다루고, 원본과 독립 근거가 없으면 미확인으로 남긴다.",
+      "judgment": "실제 마감과 게재 판단을 앞둔 학생 기자에게 취재 순서와 문장 수정 도구를 함께 준다. 정답 맞히기보다 확인의 한계를 설명하는 실습서로 편집한다.",
+      "evidence": [
+        {
+          "text": "뉴스 리터러시 교육 1 — 양정애,최숙,김경보 공저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/23307502"
+        },
+        {
+          "text": "[2026국감-과방위] 메타·X·구글 국감서 뭇매…청소년 유해 콘텐츠·마약 등 불법 게시물·개인정보 책임론 확산 - 폴리뉴스 Polinews",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40MjFjN3pOTl83YU1fNHJpZDluMTdLQnlaZTEwODBCbzkwemxIbWxWTVZHUnJqTlNjVzZ2dWltU2R1ZjRodlYwS0szNk16M3lvZ3piWldSM3dIbVpXOUtTZkRmNWItUkNVdTBoaUlR?oc=5"
+        },
+        {
+          "text": "정치뉴스 리터러시 — 김아미,심재웅,이숙정,이재길,김경희,정일권,진소연 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/128109691"
+        },
+        {
+          "text": "뉴스리터러시 교육 2 : 평가체계 및 내용개론 — 양정애 등저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/35385128"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "뉴스 리터러시 교육 1",
+          "author": "양정애,최숙,김경보 공저",
+          "publisher": "한국언론진흥재단(한국언론재단)",
+          "publicationDate": "20151031",
+          "url": "https://www.yes24.com/product/goods/23307502",
+          "matchedQuery": "뉴스 리터러시",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "정치뉴스 리터러시",
+          "author": "김아미,심재웅,이숙정,이재길,김경희,정일권,진소연 저",
+          "publisher": "학이시습",
+          "publicationDate": "20240624",
+          "url": "https://www.yes24.com/product/goods/128109691",
+          "matchedQuery": "뉴스 리터러시",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "뉴스리터러시 교육 2 : 평가체계 및 내용개론",
+          "author": "양정애 등저",
+          "publisher": "한국언론진흥재단(한국언론재단)",
+          "publicationDate": "20161031",
+          "url": "https://www.yes24.com/product/goods/35385128",
+          "matchedQuery": "뉴스 리터러시",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-10-23T04:45:29.489Z",
+        "queries": [
+          "뉴스 리터러시",
+          "청소년 취재"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 2
+    },
+    {
+      "type": "소프트웨어 개발 실무",
+      "field": "소프트웨어 개발 실무",
+      "title": "보안 경고가 오면 고칠 순서를 정합니다",
+      "concept": "보안 경고를 서비스의 노출 범위와 데이터 흐름에 연결해 검토하고 수정, 재검사, 되돌리기까지 기록한다. 작은 개발팀의 취약점 처리 실무서다.",
+      "why": "기업용 보안 분석 도구의 등장은 점검 결과를 읽고 처리할 사람의 판단을 요구한다. 경고를 많이 찾는 것과 실제 서비스에서 수정하고 검증하는 일은 서로 다른 과제다.",
+      "competition": "보안 개념 해설과 점검 도구 사용법만으로는 서비스 일정 속에서 어떤 경고를 먼저 처리할지 합의하기 어렵다.",
+      "reader": "전담 보안 담당자 없이 고객 서비스를 유지하는 소규모 개발팀의 개발자와 팀장",
+      "readerNeed": "보안 점검 결과가 한꺼번에 쌓일 때, 실제 영향과 수정 부담을 구분해 이번 배포에서 고칠 항목을 정하고 싶다.",
+      "marketGap": "취약점의 종류를 알아도 실제 노출 여부와 수정 책임, 배포 후 확인을 한 작업으로 연결하는 판단은 남는다.",
+      "differentiation": "경고별 영향 지도에 노출 경로와 담당자를 적고, 수정 전후의 검증 결과를 붙인다. 보류 사유와 재검토 날짜까지 같은 처리 기록에 남긴다.",
+      "diff": "경고별 영향 지도에 노출 경로와 담당자를 적고, 수정 전후의 검증 결과를 붙인다. 보류 사유와 재검토 날짜까지 같은 처리 기록에 남긴다.",
+      "toc": [
+        "보안 경고를 서비스 기능에 붙이기",
+        "외부 노출과 데이터 흐름 살피기",
+        "지금 고칠 항목과 보류 사유 정하기",
+        "수정 전후 같은 조건으로 확인하기",
+        "배포 뒤 재검사와 복구 순서 남기기"
+      ],
+      "searchQueries": [
+        "취약점 관리",
+        "애플리케이션 보안"
+      ],
+      "bookworthiness": {
+        "durability": "점검 도구와 개발 언어가 바뀌어도 서비스 영향과 수정 순서, 배포 후 확인을 합의하는 일은 남는다.",
+        "repeatNeed": "코드와 사용 환경이 바뀔 때마다 새 경고를 검토하고 보류 항목을 다시 확인해야 한다.",
+        "expansionPotential": "로그인과 파일 처리, 외부 연동의 방어 사례를 영향 검토와 수정 검증, 복구 기록으로 나눠 확장한다.",
+        "productDependency": "낮음"
+      },
+      "authors": [
+        {
+          "name": "정기혜",
+          "career": "《식품안전관리 선진화를 위한 취약점 증점 관리방안 구축》 저자 · 한국보건사회연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《식품안전관리 선진화를 위한 취약점 증점 관리방안 구축》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/3685159",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김정선",
+          "career": "《식품안전관리 선진화를 위한 취약점 증점 관리방안 구축》 저자 · 한국보건사회연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《식품안전관리 선진화를 위한 취약점 증점 관리방안 구축》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/3685159",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "윤시몬",
+          "career": "《식품안전관리 선진화를 위한 취약점 증점 관리방안 구축》 저자 · 한국보건사회연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《식품안전관리 선진화를 위한 취약점 증점 관리방안 구축》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/3685159",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "정기혜",
+      "bestAuthor": "정기혜",
+      "authorBrief": "",
+      "headlineCopy": "경고 목록을 실제 수정으로 옮기는 팀의 순서",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "보안 경고를 처리 가능한 일로 나누기",
+          "수정 뒤 서비스 영향까지 확인하기"
+        ],
+        "quadrant": {
+          "audience": "니치형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "소규모 개발팀과 개발자 모임에 익명화한 경고 처리 기록과 수정 검토 사례를 공개한다.",
+        "trust": "보안 실무자와 서비스 개발자가 방어 사례의 검증 과정과 전문 검토로 넘길 조건을 대조한다.",
+        "conversion": "경고 한 건의 접수부터 수정과 재검사까지 완성한 기록을 제공해 자기 팀 적용 가능성을 판단하게 한다.",
+        "maxDropoff": {
+          "stage": "탐색",
+          "problem": "특정 보안 도구의 홍보나 설정 설명서로 보이면 개발팀의 관심이 줄어든다.",
+          "objection": "작은 팀에는 모든 경고를 재현하고 보안 전문가처럼 검토할 시간이 없다.",
+          "solution": "즉시 수정과 전문 검토, 근거 있는 보류로 나누는 짧은 회의 사례를 보여준다."
+        },
+        "positioning": "전담 보안 인력이 없는 개발팀이 경고를 서비스 영향과 연결해 수정하고 확인하는 취약점 처리 안내서다."
+      },
+      "devilsEditor": {
+        "failureReason": "취약점 이름과 심각도 점수만 나열하면 실제 배포 판단에 쓸 근거가 부족해진다.",
+        "fix": "모든 사례에 노출 조건과 담당자, 수정 전후 검증, 보류 시 재검토 조건을 함께 붙인다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 96,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 94,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "분류표만으로 모든 보안 위험을 판단할 수 있다는 오해를 줄 수 있다.",
+      "riskResponse": "불확실하거나 영향이 큰 항목은 전문 검토로 넘기는 조건을 명시하고, 미해결 위험도 기록하게 한다.",
+      "judgment": "도구가 찾은 경고를 누가 언제 어떻게 고칠지 결정해야 하는 작은 팀의 반복 수요가 있다. 탐지 성능 비교보다 수정과 검증의 연결을 중심으로 편집한다.",
+      "evidence": [
+        {
+          "text": "식품안전관리 선진화를 위한 취약점 증점 관리방안 구축 — 정기혜,김정선,윤시몬,신정훈,김은정,정진욱 공저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/3685159"
+        },
+        {
+          "text": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시 - AI타임스",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QUmlESUczYVNrT0JRcGh0UUUycmJsZ2hBWG1rTWhzUUpvbHFEN3RDQUFUaGkwa04xdGlTbEE0QkNzLXY3Mkp2LTBTMldwUDRrQWdybHFWT3hrOTR5eGZ2X2UxSWs4UmFDQkE?oc=5"
+        },
+        {
+          "text": "보안 취약점 관리 자동화 — 앤드류 매그너슨 저/김홍석 역",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/112256776"
+        },
+        {
+          "text": "멀티스텝 오퍼레이션과 테인트 분석을 이용한 취약점 통합진단관리 솔루션(흑백) — 권태윤 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/105860100"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "식품안전관리 선진화를 위한 취약점 증점 관리방안 구축",
+          "author": "정기혜,김정선,윤시몬,신정훈,김은정,정진욱 공저",
           "publisher": "한국보건사회연구원",
           "publicationDate": "20091231",
-          "url": "https://www.yes24.com/product/goods/3769682",
-          "matchedQuery": "건강 정보",
+          "url": "https://www.yes24.com/product/goods/3685159",
+          "matchedQuery": "취약점 관리",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "당신의 몸을 바꾸는 진짜 건강정보 200",
-          "author": "헬스인뉴스 저",
-          "publisher": "미디어M",
-          "publicationDate": "20180314",
-          "url": "https://www.yes24.com/product/goods/59317513",
-          "matchedQuery": "건강 정보",
+          "title": "보안 취약점 관리 자동화",
+          "author": "앤드류 매그너슨 저/김홍석 역",
+          "publisher": "에이콘출판사",
+          "publicationDate": "20220915",
+          "url": "https://www.yes24.com/product/goods/112256776",
+          "matchedQuery": "취약점 관리",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "멀티스텝 오퍼레이션과 테인트 분석을 이용한 취약점 통합진단관리 솔루션(흑백)",
+          "author": "권태윤 저",
+          "publisher": "BOOKK(부크크)",
+          "publicationDate": "20211201",
+          "url": "https://www.yes24.com/product/goods/105860100",
+          "matchedQuery": "취약점 관리",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-21T16:45:23.971Z",
+        "updatedAt": "2026-10-23T04:45:29.274Z",
         "queries": [
-          "건강 정보",
-          "미디어 문해력"
+          "취약점 관리",
+          "애플리케이션 보안"
         ],
         "resultCount": 3,
         "errors": []
@@ -224,1324 +557,7 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-22T09:01:01.711Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "엄마가 보낸 건강 영상을 함께 봅니다",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "건강 영상 때문에 다투기 전에 함께 확인할 질문",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "003",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "바꾸려 할 때, 관계를 해치지 않으면서 출처를 함께 확인하고 싶다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "014",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "확인할 질문을 정리해 의료진에게 가져가는 생활 문해력 안내서다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "보여주며, 부모와 함께 출처를 살피는 대화 방법이 절실히 요구된다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "012",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "차례대로 쓰게 하고, 미해결 질문은 의료진 상담 메모로 옮긴다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "040",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "비판하는 사례만 나열하면 독자가 부모를 설득할 구체적 말이 부족한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "044",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "sourceRevision": "zcr-424a9a11"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/52bb81b5-dbd4-46c4-a1ac-6b41e1bd80ae/stanford_profiling_aug26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "profiling",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "정보의 구조화를 다루는 기획인 만큼, 텍스트 중심의 정갈한 레이아웃과 타이포그래피의 위계 설정 방식을 참고하기 좋다.",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "parenting health medicine",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/a3412e1c-b45b-41ac-9df6-b3f44e5265d0/vanderbuilt_felix-faure-street_aug26_alissa-faden.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "vanderbuilt felix faure street",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피의 배치와 절제된 레이아웃은 정보의 신뢰성이 중요한 교양서의 시각적 질서를 설계하는 데 유용한 레퍼런스임",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 35,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "parenting health medicine",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/02a7acea-fe85-4d6b-b35f-d2195c1d52bb/nyu_families-we-lose_aug26_sally-rinehart.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "nyu families we lose",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피와 정제된 레이아웃은 신뢰감 있는 교양서의 시각적 질서를 제안함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "parenting health medicine",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/52bb81b5-dbd4-46c4-a1ac-6b41e1bd80ae/stanford_profiling_aug26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "profiling",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "정보의 구조화를 다루는 기획인 만큼, 텍스트 중심의 정갈한 레이아웃과 타이포그래피의 위계 설정 방식을 참고하기 좋다.",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "parenting health medicine",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/a3412e1c-b45b-41ac-9df6-b3f44e5265d0/vanderbuilt_felix-faure-street_aug26_alissa-faden.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "vanderbuilt felix faure street",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피의 배치와 절제된 레이아웃은 정보의 신뢰성이 중요한 교양서의 시각적 질서를 설계하는 데 유용한 레퍼런스임",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 35,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "parenting health medicine",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/02a7acea-fe85-4d6b-b35f-d2195c1d52bb/nyu_families-we-lose_aug26_sally-rinehart.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "nyu families we lose",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피와 정제된 레이아웃은 신뢰감 있는 교양서의 시각적 질서를 제안함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "parenting health medicine",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-424a9a11",
-        "status": "ready",
-        "generatedAt": "2026-10-22T09:01:04.391Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "브랜드·인플루언서 마케팅",
-      "field": "브랜드·인플루언서 마케팅",
-      "title": "협찬을 보내기 전에 약속부터 정합니다",
-      "concept": "작은 브랜드 담당자가 협찬 제안부터 발송·게시 확인·재사용 협의까지 흩어진 약속을 정리하고, 다음 협업을 고를 근거를 남기는 실무 운영서다.",
-      "why": "나노 인플루언서 협업 기사에서 메가 유튜버와의 복잡한 운영 과제가 떠오른다. 협찬이 늘어날수록 발송·게시·재사용 약속을 각각 관리해야 한다.",
-      "competition": "팔로워 늘리기나 콘텐츠 제작법만으로는 브랜드 담당자가 여러 협찬 건의 약속과 마감일을 동시에 관리하기 어렵다.",
-      "reader": "여러 소규모 창작자에게 제품 협찬을 직접 보내는 작은 브랜드 마케팅 담당자",
-      "readerNeed": "협찬 발송 직전, 게시 조건과 수정 요청 범위가 모호해 일정과 재고가 꼬이지 않도록 합의 내용을 남기고 싶다.",
-      "marketGap": "협찬 상대를 찾고도 발송 후 무엇을 어디까지 요구할지 남는다. 관계를 해치지 않으며 확인 약속과 회고 기준이 필요하다.",
-      "differentiation": "협찬 제안문을 발송 전 합의표로 바꾸고, 제품 이동 기록과 게시 확인표를 연결해 일정 지연과 재사용 대응문을 준비한다.",
-      "diff": "협찬 제안문을 발송 전 합의표로 바꾸고, 제품 이동 기록과 게시 확인표를 연결해 일정 지연과 재사용 대응문을 준비한다.",
-      "toc": [
-        "우리 제품과 맞는 협업 상대 고르기",
-        "보내기 전에 게시 조건 합의하기",
-        "제품 발송과 게시 약속 함께 묶기",
-        "늦은 게시와 수정 요청에 답하기",
-        "다음 협찬을 고를 회고 기록 남기기"
-      ],
-      "searchQueries": [
-        "인플루언서 마케팅",
-        "브랜드 협업"
-      ],
-      "bookworthiness": {
-        "durability": "유행 매체와 창작자가 바뀌어도 제품 제공·게시 약속·재사용 범위 확인 업무는 지속된다.",
-        "repeatNeed": "새 협찬 상대를 만날 때마다 제안 조건을 확인하고, 게시 뒤 다음 협업 기준을 남겨야 한다.",
-        "expansionPotential": "제안·발송·게시·수정·재협업 단계마다 지연·조건 변경 사례를 붙이고 담당자 실제 문서를 확대한다.",
-        "productDependency": "낮음"
-      },
-      "authors": [
-        {
-          "name": "황봄님",
-          "career": "《인플루언서 마케팅 A to Z》 저자 · 라온북",
-          "why": "YES24에서 이 기획과 인접한 주제의 《인플루언서 마케팅 A to Z》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/79299619",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "테드 라이트",
-          "career": "《인플루언서 마케팅》 저자 · 리더스북",
-          "why": "YES24에서 이 기획과 인접한 주제의 《인플루언서 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/53214709",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김상겸 역",
-          "career": "《인플루언서 마케팅》 저자 · 리더스북",
-          "why": "YES24에서 이 기획과 인접한 주제의 《인플루언서 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/53214709",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "황봄님",
-      "bestAuthor": "황봄님",
-      "authorBrief": "",
-      "headlineCopy": "보낸 제품보다 먼저 확인할 협찬의 약속들",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "협찬 약속과 마감일을 놓치지 않기",
-          "다음 협업을 고를 근거 남기기"
-        ],
-        "quadrant": {
-          "audience": "니치형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "작은 브랜드 실무자 모임과 온라인 판매자 교육에서 협찬 발송 전 확인 사례를 소개한다.",
-        "trust": "실제 담당자 개인정보를 가린 진행 기록과 서식을 대조하고, 권리 관련 표현은 전문가 검토를 거친다.",
-        "conversion": "협찬 한 건의 제안문·발송 합의표·지연 답장문을 이어 보여주어 독자 업무에 바로 적용한다.",
-        "maxDropoff": {
-          "stage": "탐색",
-          "problem": "협찬 성과를 높이는 비법서로 기대하면 약속·기록 중심 구성이 맞지 않는다.",
-          "objection": "서식 몇 장은 무료로 구할 수 있어 구매 가치를 의심한다.",
-          "solution": "게시 지연과 조건 변경이 겹친 실제 사례를 끝까지 해결하는 과정을 제시한다."
-        },
-        "positioning": "여러 창작자와 협찬을 진행하는 작은 브랜드가 발송 전후 약속과 확인 업무를 체계화한다."
-      },
-      "devilsEditor": {
-        "failureReason": "빈 서식만 제공하면 독자는 언제 무엇을 채워야 할지 몰라 메신저에 다시 의존한다.",
-        "fix": "실제 진행 순서에 따라 한 건의 제안부터 지연 대응·회고까지 같은 사례 문서를 이어 보여준다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 94,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "협찬 운영 서식이 법률 계약을 대신하거나 성과를 보장하는 도구로 오해될 수 있다.",
-      "riskResponse": "운영 합의와 법률 검토가 필요한 항목을 구분하고, 성과 사례는 비용·확인 가능한 결과만 제시한다.",
-      "judgment": "발송 전후 약속과 확인 업무에 초점을 두어, 협찬을 직접 맡는 작은 브랜드 담당자의 실제 사례를 담았다.",
-      "evidence": [
-        {
-          "text": "인플루언서 마케팅 A to Z — 황봄님 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/79299619"
-        },
-        {
-          "text": "[인플루언서 잡아라②] 메가 유튜버 대신 ‘나노 100명’에 러브콜 - 인사이트코리아",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XS2hpODR5RVhRdm1FWGtCSFFNMy1rcV9PV1VHOTRMYnktTkZzdDdSZnAyZnoycVpJRFRIWmFYaXFGNDZRTmFXUmc3VWdMQVBla2xXb1RXZmVXel9JOE1MeHNpcUVRUlVHdGpWVkhjRmR3VUgydUkw0gF3QVVfeXFMTldLaGk4NHlFWFF2bUVYa0JIUU0zLWtxX09XVUc5NExieS1ORnN0N1JmcDJmejJxWklEVEhaYVhpcUY0NlFOYVdSZzdVZ0xBUGVrbFdvVFdmZVd6X0k4TUx4c2lxRVFSVUd0alZWSGNGZHdVSDJ1STA?oc=5"
-        },
-        {
-          "text": "인플루언서 마케팅 — 테드 라이트 저/김상겸 역",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/53214709"
-        },
-        {
-          "text": "인플루언서 마케팅 관련 핫 키워드와 이슈 모르면 주식 대박 힘들다 — 서울공대OB주식연구회 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/85432771"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "인플루언서 마케팅 A to Z",
-          "author": "황봄님 저",
-          "publisher": "라온북",
-          "publicationDate": "20190930",
-          "url": "https://www.yes24.com/product/goods/79299619",
-          "matchedQuery": "인플루언서 마케팅",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "인플루언서 마케팅",
-          "author": "테드 라이트 저/김상겸 역",
-          "publisher": "리더스북",
-          "publicationDate": "20171025",
-          "url": "https://www.yes24.com/product/goods/53214709",
-          "matchedQuery": "인플루언서 마케팅",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "인플루언서 마케팅 관련 핫 키워드와 이슈 모르면 주식 대박 힘들다",
-          "author": "서울공대OB주식연구회 저",
-          "publisher": "비피기술거래",
-          "publicationDate": "20191226",
-          "url": "https://www.yes24.com/product/goods/85432771",
-          "matchedQuery": "인플루언서 마케팅",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-21T16:45:25.351Z",
-        "queries": [
-          "인플루언서 마케팅",
-          "브랜드 협업"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-22T00:19:38.735Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "협찬을 보내기 전에 약속부터 정합니다",
-        "provider": "gemini",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "택배 상자를 닫을 때\n비로소 남는 불안",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "009",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "보내기 버튼을 누르고\n송장을 붙이는 늦은 밤",
-            "body": "작은 박스 수십 개가 테이블에 쌓인다",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "답장이 늦어질수록\n작아지는 마음",
-            "body": "요청한 날짜가 다가올수록 메신저만 본다",
-            "accent": "yellow",
-            "sceneId": "026",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 어떤 협업은\n기준이 먼저 서야 닿는다",
-            "body": "일정과 수정 범위를 적어 두지 않으면 흐려진다",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "말하지 않은 기대는\n약속이 되지 못한다",
-            "body": "발송 전에 남긴 짧은 합의가 서로를 지킨다",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "마음을 전하기 전에\n약속의 기준부터 적는다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "047",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-424a9a11"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1789844542579-OSJCOJPA91MTUZAH7KF7/upc-hdr_sept26.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "University Press Coverage, September 2026",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "정보의 질서를 잡는 그리드 시스템과 타이포그래피 배치를 통해 실무 운영서의 체계성을 시각화하기 좋다.",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "marketing brand decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/fb8773f4-76f1-4af5-beb6-a2438300e9d8/south-carolina_affective-rhetorics_aug26_emily-weigel.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "south carolina affective rhetorics",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피 배치와 정갈한 레이아웃은 실무 운영서의 신뢰감을 높이는 데 유효함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 35,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "marketing brand decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1790535572163-C67AL4CYV9G4J3R5TQ9I/Luke+Bird.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "September Book Covers We Love!",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃을 통해 실무의 복잡함을 질서 있게 정리하는 시각적 질서를 차용할 수 있음",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "marketing brand decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1789844542579-OSJCOJPA91MTUZAH7KF7/upc-hdr_sept26.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "University Press Coverage, September 2026",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "정보의 질서를 잡는 그리드 시스템과 타이포그래피 배치를 통해 실무 운영서의 체계성을 시각화하기 좋다.",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "marketing brand decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/fb8773f4-76f1-4af5-beb6-a2438300e9d8/south-carolina_affective-rhetorics_aug26_emily-weigel.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "south carolina affective rhetorics",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피 배치와 정갈한 레이아웃은 실무 운영서의 신뢰감을 높이는 데 유효함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 35,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "marketing brand decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1790535572163-C67AL4CYV9G4J3R5TQ9I/Luke+Bird.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "September Book Covers We Love!",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃을 통해 실무의 복잡함을 질서 있게 정리하는 시각적 질서를 차용할 수 있음",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "marketing brand decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-424a9a11",
-        "status": "ready",
-        "generatedAt": "2026-10-22T09:01:06.690Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "독서문화·공동체 운영",
-      "field": "독서문화·공동체 운영",
-      "title": "기증받기 전에 책장부터 비웁니다",
-      "concept": "공유 책장을 운영하는 작은 모임이 기증·분류·순환·정리 책임을 함께 정하고, 운영자 한 사람에게 일이 몰리지 않게 만드는 책 나눔 운영 안내서다.",
-      "why": "캠퍼스 열린서가 기사에서 책을 가져오고 나누는 공간을 보여준다. 작은 모임에 적용하려면 기증 기준과 정리 책임을 먼저 정해야 운영 부담을 줄일 수 있다.",
-      "competition": "독서 모임 진행법이나 공간 꾸미기 안내만으로는 기증 거절·방치 도서 정리·담당자 교체 갈등을 다루기 어렵다.",
-      "reader": "작은 도서관이나 동네 모임의 공유 책장을 자원봉사로 맡은 운영자",
-      "readerNeed": "기증 도서를 받는 순간부터 한정된 책장·정리 시간을 고려해 거절 기준과 담당 업무를 명확히 정하고 싶다.",
-      "marketGap": "책을 나누자는 취지는 동의하지만 누가 어떤 책을 치울지는 남는다. 기증자와 이용자 필요를 조정할 기준이 필요하다.",
-      "differentiation": "책장 수용량표와 기증 답장문으로 시작해 순환 기록장과 역할 교대표를 연결하고, 정리 기준을 모임 합의문 한 장으로 완성한다.",
-      "diff": "책장 수용량표와 기증 답장문으로 시작해 순환 기록장과 역할 교대표를 연결하고, 정리 기준을 모임 합의문 한 장으로 완성한다.",
-      "toc": [
-        "책장 크기와 정리 시간을 먼저 재기",
-        "기증을 받을 책과 거절할 책 정하기",
-        "다시 읽힐 책이 보이게 분류하기",
-        "방치된 책을 정리하는 대화 나누기",
-        "운영자를 바꾸어도 남는 규칙 쓰기"
-      ],
-      "searchQueries": [
-        "작은 도서관",
-        "독서 모임"
-      ],
-      "bookworthiness": {
-        "durability": "기증을 받는 공간이 바뀌어도 책장 용량·정리 책임·이용자 우선순위 조정 문제는 지속된다.",
-        "repeatNeed": "새 기증이 들어오고 담당자가 바뀔 때마다 수락 기준과 정리 역할을 다시 확인한다.",
-        "expansionPotential": "주민 공간·직장 모임·동아리의 기증·정리 과정을 비교하고 갈등·운영 서식을 장별로 확장한다.",
-        "productDependency": "낮음"
-      },
-      "authors": [
-        {
-          "name": "포도나의작은도서관",
-          "career": "《나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기》 저자 · 포도나의작은도서관",
-          "why": "YES24에서 이 기획과 인접한 주제의 《나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/152652504",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "다니엘라 자글렌카 테라치니 글그림",
-          "career": "《나의 작은 도서관》 저자 · 웅진주니어",
-          "why": "YES24에서 이 기획과 인접한 주제의 《나의 작은 도서관》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/61942712",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "홍연미 역",
-          "career": "《나의 작은 도서관》 저자 · 웅진주니어",
-          "why": "YES24에서 이 기획과 인접한 주제의 《나의 작은 도서관》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/61942712",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "포도나의작은도서관",
-      "bestAuthor": "포도나의작은도서관",
-      "authorBrief": "",
-      "headlineCopy": "책은 나누고 정리 책임은 함께 나누는 운영법",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "책 나눔을 오래 운영하기",
-          "정리 책임을 혼자 떠안지 않기"
-        ],
-        "quadrant": {
-          "audience": "니치형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "작은 도서관 운영자 모임과 지역 독서 공동체에 기증 수락 기준 사례를 소개한다.",
-        "trust": "공유 책장 운영자가 실제 기증 사례에 서식을 적용하고, 담당자 교체 시 빠진 일을 점검한다.",
-        "conversion": "기증 요청을 수락·보류·거절로 나누는 답장문과 책장 수용량표를 공개해 활용하게 한다.",
-        "maxDropoff": {
-          "stage": "탐색",
-          "problem": "작은 공유 책장을 맡는 일에 책 한 권까지 읽어야 하는지 고민한다.",
-          "objection": "사람 수와 공간이 달라 정해진 서식이 우리 모임에 맞지 않을까 우려한다.",
-          "solution": "책장 하나와 운영자 둘인 모임부터 시작해 공간·인원에 맞게 단계적으로 적용한다."
-        },
-        "positioning": "공유 책장의 기증·정리 책임을 함께 정해 자원봉사자의 부담을 줄이는 작은 공간 운영 가이드다."
-      },
-      "devilsEditor": {
-        "failureReason": "좋은 책 나눔 공간을 소개하는 데 머물면 운영자가 해결할 갈등과 일이 흐려진다.",
-        "fix": "기증 거절·방치 도서 정리·담당자 교체 장면을 중심으로 모든 공간 사례를 다시 써서 구체화한다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 94,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "공공도서관 전문 지침과 혼동되거나 공간 사례 구경으로 흐를 위험이 있다.",
-      "riskResponse": "자율 공유 책장으로 적용 범위를 좁히고, 공간마다 책이 들어오고 나가는 과정을 동일 규칙으로 제시한다.",
-      "judgment": "기증을 환영하면서 정리 부담을 혼자 떠안는 운영자를 겨냥해, 작은 공간에서 합의문과 교대표를 통한 지속 운영을 설계한다.",
-      "evidence": [
-        {
-          "text": "나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기 — 포도나의작은도서관 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/152652504"
-        },
-        {
-          "text": "‘다 읽은 책은 나누고, 읽고 싶은 책은 가져가세요!’… 백남학술정보관, 캠퍼스 열린서가 「RE:BOOK」 오픈 - 뉴스H",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWGZTbEdqN042UnhDTXlCZnRVN1lxekttR3EtZVVCU2I3U3ZvX0Vfd2pfNzloMGxGM21YLVVpT0xpdU1HZ2x5Z3NzTDM4V0xJS3FOR1BXWnR0OU4xTjRHMDNLdGlJY285Um1R?oc=5"
-        },
-        {
-          "text": "나의 작은 도서관 — 다니엘라 자글렌카 테라치니 글그림/홍연미 역",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/61942712"
-        },
-        {
-          "text": "기찻길 옆 작은 도서관 — 최대관 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/102791978"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "나의 작은 도서관 만들기 - 사립 도서관 설립과 운영 이야기",
-          "author": "포도나의작은도서관 저",
-          "publisher": "포도나의작은도서관",
-          "publicationDate": "20250825",
-          "url": "https://www.yes24.com/product/goods/152652504",
-          "matchedQuery": "작은 도서관",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "나의 작은 도서관",
-          "author": "다니엘라 자글렌카 테라치니 글그림/홍연미 역",
-          "publisher": "웅진주니어",
-          "publicationDate": "20180622",
-          "url": "https://www.yes24.com/product/goods/61942712",
-          "matchedQuery": "작은 도서관",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "기찻길 옆 작은 도서관",
-          "author": "최대관 저",
-          "publisher": "수필과비평사",
-          "publicationDate": "20210708",
-          "url": "https://www.yes24.com/product/goods/102791978",
-          "matchedQuery": "작은 도서관",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-21T16:45:26.279Z",
-        "queries": [
-          "작은 도서관",
-          "독서 모임"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-22T00:19:38.735Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "기증받기 전에 책장부터 비웁니다",
-        "provider": "gemini",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "무턱대고 기증받으면\n책장은 쓰레기통이 된다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "002",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "선의로 받은 책이\n결국 혼자 치울 짐이 된다",
-            "body": "공유 서가가 며칠 만에 낡은 창고로 변한다",
-            "accent": "yellow",
-            "sceneId": "021",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "누런 수험서와 찢긴 잡지\n물려줄 사람 없는 전집들",
-            "body": "버리기 아까워 넘긴 책들이 먼지만 쌓아 둔다",
-            "accent": "yellow",
-            "sceneId": "028",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "거절하지 못하는 배려는\n공간을 망치는 방관이다",
-            "body": "받는 순간 정리를 포기한 서가는 멈춘다",
-            "accent": "yellow",
-            "sceneId": "017",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "남길 기준을 먼저 세우고\n정리 순번을 나눠라",
-            "body": "기증 거절 문구와 비움 원칙을 벽에 붙여라",
-            "accent": "yellow",
-            "sceneId": "035",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "책장을 비우지 못하면\n어떤 나눔도 이어지지 않는다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "043",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-424a9a11"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/7367218-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL17080845W",
-          "title": "The Life-Changing Magic of Tidying Up",
-          "subtitle": "",
-          "authors": [
-            "Marie Kondo",
-            "Yuko Uramoto",
-            "Marie Kondo"
-          ],
-          "publisher": "Editora Sextante",
-          "year": 2014,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 3.3,
-          "styleScore": 24,
-          "query": "decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/bc6c4ddd-440f-4c1d-b48d-5b385c83969d/yale_hidden-scrolls-buried-bibles_aug26_vera-villanueva_see-email..jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "yale hidden scrolls buried bibles",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "고전적이고 신비로운 질감은 주제와 거리가 있으나, 레이아웃의 여백과 텍스트 배치 원리는 실용서의 정갈한 미감을 구현할 때 유효함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "decluttering career work",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "title": "Dengue Boy",
-          "context": "Dengue Boy Michel Nieva Rodrigo Corral Studio",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-424a9a11",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "openlibrary",
-          "sourceName": "Open Library",
-          "imageUrl": "https://covers.openlibrary.org/b/id/7367218-L.jpg?default=false",
-          "sourceUrl": "https://openlibrary.org/works/OL17080845W",
-          "title": "The Life-Changing Magic of Tidying Up",
-          "subtitle": "",
-          "authors": [
-            "Marie Kondo",
-            "Yuko Uramoto",
-            "Marie Kondo"
-          ],
-          "publisher": "Editora Sextante",
-          "year": 2014,
-          "slot": "topic",
-          "selectionTier": "validated-hq-recovery-topic",
-          "curationBasis": "image-validated+source-topic-design-gate-v215103",
-          "metadataHqRecovery": true,
-          "role": "",
-          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
-          "gemmaScore": 0,
-          "gemmaTopicFit": 0,
-          "gemmaGenreFit": 0,
-          "gemmaDesignValue": 0,
-          "gemmaStatus": "metadata-validated-hq-recovery",
-          "gemmaParseStatus": "not-required",
-          "topicScore": 3.3,
-          "styleScore": 24,
-          "query": "decluttering",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/bc6c4ddd-440f-4c1d-b48d-5b385c83969d/yale_hidden-scrolls-buried-bibles_aug26_vera-villanueva_see-email..jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-august-2026",
-          "title": "yale hidden scrolls buried bibles",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "고전적이고 신비로운 질감은 주제와 거리가 있으나, 레이아웃의 여백과 텍스트 배치 원리는 실용서의 정갈한 미감을 구현할 때 유효함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "decluttering career work",
-          "sourceRevision": "zcr-424a9a11",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Michel-Nieva-tr.-Rahul-Berry-Dengue-Boy-.jpg",
-          "title": "Dengue Boy",
-          "context": "Dengue Boy Michel Nieva Rodrigo Corral Studio",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-424a9a11",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-424a9a11",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-22T09:01:09.567Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "continuity",
-        "diagnostics": {}
-      }
+      "rank": 3
     }
-  ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261022-d99d2652",
-    "file": "cardnews/2026-10-22.json",
-    "cardCount": 6
-  }
+  ]
 }
