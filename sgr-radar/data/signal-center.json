@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 23. 오후 08:51:13",
+  "updatedAt": "2026. 10. 24. 오전 01:33:36",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -174,7 +174,7 @@
         },
         {
           "id": "https://www.mk.co.kr/news/society/12184321",
-          "title": "[인사] SBS / 재정경제부 / 관세청 등",
+          "title": "[인사] SBS / 재정경제부 / 관세청 외",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
@@ -925,8 +925,8 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "poolSize": 2000,
-    "fetchedItems": 6553,
-    "feedBytes": 1921257,
+    "fetchedItems": 2114,
+    "feedBytes": 621400,
     "rollingWindowHours": 72
   }
 }
