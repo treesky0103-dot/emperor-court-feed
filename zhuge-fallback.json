@@ -3,7 +3,7 @@
   "planDay": "2026-10-23",
   "planSetId": "zps-20261023-79d9442c",
   "generatedAt": "2026-10-23T04:45:30.434Z",
-  "publishedAt": "2026-10-23T04:46:03.957Z",
+  "publishedAt": "2026-10-23T04:46:16.023Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "title": "제갈량의 출판 기획 3선",
@@ -512,6 +512,108 @@
             }
           ]
         }
+      },
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-23T04:46:03.433Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "손님이 머무를 자리를 먼저 만듭니다",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "손님이 머무를 자리를 먼저 만든다",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "009",
+            "sceneCategory": "cover",
+            "source": "ai"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "작은 카페 구석에 손님이 주문하고 책을 펴는 모습",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "016",
+            "sceneCategory": "analysis",
+            "source": "ai"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "그때 느끼는 고요함과 동시에 남는 작은 불편함",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "023",
+            "sceneCategory": "warning",
+            "source": "ai"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "하지만 자리 배치를 바꾸면 체류 시간이 늘어난다",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "014",
+            "sceneCategory": "analysis",
+            "source": "ai"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "작은 변화가 손님의 재방문을 부른다",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "034",
+            "sceneCategory": "fix",
+            "source": "ai"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "머무는 시간이 곧 이야기가 된다",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "050",
+            "sceneCategory": "final",
+            "source": "ai"
+          }
+        ],
+        "sourceRevision": "zcr-44cb19ea"
       }
     },
     {
@@ -1004,6 +1106,108 @@
             }
           ]
         }
+      },
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-23T04:45:32.614Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "동아리 뉴스는 출처부터 확인합니다",
+        "provider": "rule-fallback",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "no-ai-copy",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "화제 영상을 학교 뉴스로 옮기기 전의 질문",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "009",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "할 때, 원본을 못 찾거나 번역 설명이 달라 게재 여부를 망설인다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "번역 설명을 분리하고 최초 게시물, 시각, 장소의 근거를 대조한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "진실을 다룬 보도는 실제 기록처럼 퍼진 화면의 출처를 되짚었다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "016",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "연결표를 작성하고, 확인됨과 미확인을 나누어 기사 문장을 고친다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "034",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "영상을 맞히는 놀이에 치우치면 기사 작성과 정정이라는 책임이 빠진다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "042",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "sourceRevision": "zcr-44cb19ea"
       }
     },
     {
@@ -1480,8 +1684,117 @@
             }
           ]
         }
+      },
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-23T04:46:01.081Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "보안 경고가 오면 고칠 순서를 정합니다",
+        "provider": "cloudflare",
+        "aiCards": 5,
+        "fallback": false,
+        "fallbackReason": "",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "경고 목록을 실제 수정으로 옮기는 팀의 순서",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "001",
+            "sceneCategory": "cover",
+            "source": "rule-repair"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "보안 경고를 서비스의 노출 범위와 데이터 흐름에 연결해",
+            "body": "검토해야 한다.",
+            "accent": "yellow",
+            "sceneId": "022",
+            "sceneCategory": "warning",
+            "source": "ai"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "경고별 영향 지도에 노출 경로와 담당자를 적어야 한다면",
+            "body": "수정 전후의 검증 결과를 붙여야 한다.",
+            "accent": "yellow",
+            "sceneId": "025",
+            "sceneCategory": "warning",
+            "source": "ai"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "보안 점검 결과가 한꺼번에 쌓일 때",
+            "body": "실제 영향과 수정 부담을 구분해야 한다.",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "ai"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "수정과 검증의 연결을 중심으로 해야 한다면",
+            "body": "보류 사유와 재검토 날짜까지 같은 처리 기록에 남겨야 한다.",
+            "accent": "yellow",
+            "sceneId": "040",
+            "sceneCategory": "fix",
+            "source": "ai"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "보안 경고를 무시하지 말고 고칠 순서를 정하라",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "044",
+            "sceneCategory": "final",
+            "source": "ai"
+          }
+        ],
+        "sourceRevision": "zcr-44cb19ea"
       }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261023-79d9442c",
+    "file": "cardnews/2026-10-23.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
