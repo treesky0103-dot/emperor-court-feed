@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 23. 오후 03:18:30",
+  "updatedAt": "2026. 10. 23. 오후 08:51:07",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 544,
-    "passed": 45,
-    "deduped": 45,
-    "eventDeduped": 45,
+    "raw": 525,
+    "passed": 49,
+    "deduped": 49,
+    "eventDeduped": 49,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,6 +42,18 @@
       "url": "https://thediplomat.com/2026/10/philippine-energy-security-could-determine-the-outcome-of-a-taiwan-contingency/"
     },
     {
+      "id": "https://www.themoscowtimes.com/2026/10/23/russian-central-bank-holds-key-interest-rate-steady-a94062",
+      "title": "Russian Central Bank Holds Key Interest Rate Steady - The Moscow Times",
+      "source": "themoscowtimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.themoscowtimes.com/2026/10/23/russian-central-bank-holds-key-interest-rate-steady-a94062"
+    },
+    {
       "id": "http://www.malaysiasun.com/news/279392483/interview-apec-economies-call-for-shattering-trade-barriers-at-finance-ministers-meeting-hksar-financial-chief",
       "title": "Interview: APEC economies call for shattering trade barriers at finance ministers' meeting: HKSAR financial chief",
       "source": "malaysiasun.com",
@@ -52,18 +64,6 @@
       "publishedAt": "2026-10-22T22:46:00Z",
       "summary": "",
       "url": "http://www.malaysiasun.com/news/279392483/interview-apec-economies-call-for-shattering-trade-barriers-at-finance-ministers-meeting-hksar-financial-chief"
-    },
-    {
-      "id": "http://www.newseveryday.com/articles/64917/20260809/federal-reserve-maintains-interest-rate-stance-despite-weak-jobs-data.htm",
-      "title": "Federal Reserve Maintains Interest Rate Stance Despite Weak Jobs Data",
-      "source": "newseveryday.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T22:46:00Z",
-      "publishedAt": "2026-10-22T22:46:00Z",
-      "summary": "",
-      "url": "http://www.newseveryday.com/articles/64917/20260809/federal-reserve-maintains-interest-rate-stance-despite-weak-jobs-data.htm"
     },
     {
       "id": "https://www.newspim.com/news/view/20261023000025",
@@ -78,16 +78,52 @@
       "url": "https://www.newspim.com/news/view/20261023000025"
     },
     {
-      "id": "https://www.sloughobserver.co.uk/news/national/26662827.jackdaw-gas-field-approval-will-strengthen-uk-energy-security-burnham-says/",
-      "title": "Jackdaw gas field approval will strengthen UK energy security, Burnham says",
-      "source": "sloughobserver.co.uk",
+      "id": "https://www.irishtimes.com/business/markets/2026/10/23/global-crude-oil-prices-surge-to-highest-level-since-may-amid-middle-east-attacks/",
+      "title": "Global crude oil prices surge to highest level since May amid Middle East attacks",
+      "source": "irishtimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-23",
-      "dateRaw": "2026-10-23T06:01:00Z",
-      "publishedAt": "2026-10-23T06:01:00Z",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
       "summary": "",
-      "url": "https://www.sloughobserver.co.uk/news/national/26662827.jackdaw-gas-field-approval-will-strengthen-uk-energy-security-burnham-says/"
+      "url": "https://www.irishtimes.com/business/markets/2026/10/23/global-crude-oil-prices-surge-to-highest-level-since-may-amid-middle-east-attacks/"
+    },
+    {
+      "id": "https://www.hellenicshippingnews.com/russia-shipping-first-diesel-cargo-to-us-this-week-after-sanctions-waiver/",
+      "title": "Russia shipping first diesel cargo to US this week after sanctions waiver | Hellenic Shipping News Worldwide",
+      "source": "hellenicshippingnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.hellenicshippingnews.com/russia-shipping-first-diesel-cargo-to-us-this-week-after-sanctions-waiver/"
+    },
+    {
+      "id": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
+      "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+      "source": "aljazeera.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit"
+    },
+    {
+      "id": "http://www.greekherald.com/news/279393988/more-uae-investments-expected-in-greece-in-coming-years-minister-of-foreign-trade",
+      "title": "More UAE investments expected in Greece in coming years: Minister of Foreign Trade",
+      "source": "greekherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "http://www.greekherald.com/news/279393988/more-uae-investments-expected-in-greece-in-coming-years-minister-of-foreign-trade"
     },
     {
       "id": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
@@ -100,42 +136,6 @@
       "publishedAt": "2026-10-23T06:01:00Z",
       "summary": "",
       "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions"
-    },
-    {
-      "id": "http://www.heraldglobe.com/news/279393647/if-we-lift-sanctions-we-make-putin-stronger-zelenskyy-questions-trump-for-waiver-of-sanctions-against-russia",
-      "title": "\"If we lift sanctions, we make Putin stronger\": Zelenskyy questions Trump for waiver of sanctions against Russia",
-      "source": "heraldglobe.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T06:01:00Z",
-      "publishedAt": "2026-10-23T06:01:00Z",
-      "summary": "",
-      "url": "http://www.heraldglobe.com/news/279393647/if-we-lift-sanctions-we-make-putin-stronger-zelenskyy-questions-trump-for-waiver-of-sanctions-against-russia"
-    },
-    {
-      "id": "https://econotimes.com/Trump-Appears-With-Darline-Graham-Five-Days-After-Russia-Sanctions-Waiver-1760796",
-      "title": "Trump Appears With Darline Graham Five Days After Russia Sanctions Waiver | EconoTimes",
-      "source": "econotimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T01:16:00Z",
-      "publishedAt": "2026-10-23T01:16:00Z",
-      "summary": "",
-      "url": "https://econotimes.com/Trump-Appears-With-Darline-Graham-Five-Days-After-Russia-Sanctions-Waiver-1760796"
-    },
-    {
-      "id": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals",
-      "title": "Union Minister G Kishan Reddy to visit Australia to strengthen bilateral cooperation in critical minerals",
-      "source": "australiannews.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T19:47:00Z",
-      "publishedAt": "2026-10-22T19:47:00Z",
-      "summary": "",
-      "url": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals"
     }
   ],
   "trendItems": [
@@ -164,6 +164,18 @@
       "url": "https://thediplomat.com/2026/10/philippine-energy-security-could-determine-the-outcome-of-a-taiwan-contingency/"
     },
     {
+      "id": "https://www.themoscowtimes.com/2026/10/23/russian-central-bank-holds-key-interest-rate-steady-a94062",
+      "title": "Russian Central Bank Holds Key Interest Rate Steady - The Moscow Times",
+      "source": "themoscowtimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.themoscowtimes.com/2026/10/23/russian-central-bank-holds-key-interest-rate-steady-a94062"
+    },
+    {
       "id": "http://www.malaysiasun.com/news/279392483/interview-apec-economies-call-for-shattering-trade-barriers-at-finance-ministers-meeting-hksar-financial-chief",
       "title": "Interview: APEC economies call for shattering trade barriers at finance ministers' meeting: HKSAR financial chief",
       "source": "malaysiasun.com",
@@ -186,6 +198,18 @@
       "publishedAt": "2026-10-22T22:46:00Z",
       "summary": "",
       "url": "http://www.newseveryday.com/articles/64917/20260809/federal-reserve-maintains-interest-rate-stance-despite-weak-jobs-data.htm"
+    },
+    {
+      "id": "https://www.fnnews.com/news/202610231555489108",
+      "title": "신현송 한은 총재 \"고성장·고금리 상황에 대비해 정책 펴겠다\"",
+      "source": "fnnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.fnnews.com/news/202610231555489108"
     },
     {
       "id": "https://www.edaily.co.kr/News/Read?newsId=03247206645615872&mediaCodeNo=257",
@@ -224,6 +248,66 @@
       "url": "https://www.newspim.com/news/view/20261023000025"
     },
     {
+      "id": "https://www.irishtimes.com/business/markets/2026/10/23/global-crude-oil-prices-surge-to-highest-level-since-may-amid-middle-east-attacks/",
+      "title": "Global crude oil prices surge to highest level since May amid Middle East attacks",
+      "source": "irishtimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.irishtimes.com/business/markets/2026/10/23/global-crude-oil-prices-surge-to-highest-level-since-may-amid-middle-east-attacks/"
+    },
+    {
+      "id": "https://www.hellenicshippingnews.com/russia-shipping-first-diesel-cargo-to-us-this-week-after-sanctions-waiver/",
+      "title": "Russia shipping first diesel cargo to US this week after sanctions waiver | Hellenic Shipping News Worldwide",
+      "source": "hellenicshippingnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.hellenicshippingnews.com/russia-shipping-first-diesel-cargo-to-us-this-week-after-sanctions-waiver/"
+    },
+    {
+      "id": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
+      "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+      "source": "aljazeera.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit"
+    },
+    {
+      "id": "https://www.hellenicshippingnews.com/the-commodities-feed-brent-builds-geopolitical-premium-as-gulf-risks-rise/",
+      "title": "The Commodities Feed: Brent builds geopolitical premium as Gulf risks rise | Hellenic Shipping News Worldwide",
+      "source": "hellenicshippingnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.hellenicshippingnews.com/the-commodities-feed-brent-builds-geopolitical-premium-as-gulf-risks-rise/"
+    },
+    {
+      "id": "http://www.greekherald.com/news/279393988/more-uae-investments-expected-in-greece-in-coming-years-minister-of-foreign-trade",
+      "title": "More UAE investments expected in Greece in coming years: Minister of Foreign Trade",
+      "source": "greekherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "http://www.greekherald.com/news/279393988/more-uae-investments-expected-in-greece-in-coming-years-minister-of-foreign-trade"
+    },
+    {
       "id": "https://www.sloughobserver.co.uk/news/national/26662827.jackdaw-gas-field-approval-will-strengthen-uk-energy-security-burnham-says/",
       "title": "Jackdaw gas field approval will strengthen UK energy security, Burnham says",
       "source": "sloughobserver.co.uk",
@@ -234,18 +318,6 @@
       "publishedAt": "2026-10-23T06:01:00Z",
       "summary": "",
       "url": "https://www.sloughobserver.co.uk/news/national/26662827.jackdaw-gas-field-approval-will-strengthen-uk-energy-security-burnham-says/"
-    },
-    {
-      "id": "https://www.vanguardngr.com/2026/10/dollar-to-naira-exchange-rate-today-october-23-2026/",
-      "title": "Dollar to Naira exchange rate today, October 23, 2026",
-      "source": "vanguardngr.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T06:01:00Z",
-      "publishedAt": "2026-10-23T06:01:00Z",
-      "summary": "",
-      "url": "https://www.vanguardngr.com/2026/10/dollar-to-naira-exchange-rate-today-october-23-2026/"
     },
     {
       "id": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
@@ -284,30 +356,6 @@
       "url": "https://econotimes.com/Trump-Appears-With-Darline-Graham-Five-Days-After-Russia-Sanctions-Waiver-1760796"
     },
     {
-      "id": "https://econotimes.com/Istanbul-Hosts-Verona-Forum-on-Economic-and-Geopolitical-Change-1760682",
-      "title": "Istanbul Hosts Verona Forum on Economic and Geopolitical Change | EconoTimes",
-      "source": "econotimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T22:47:00Z",
-      "publishedAt": "2026-10-22T22:47:00Z",
-      "summary": "",
-      "url": "https://econotimes.com/Istanbul-Hosts-Verona-Forum-on-Economic-and-Geopolitical-Change-1760682"
-    },
-    {
-      "id": "https://maritime-executive.com/article/oil-prices-jump-after-houthi-strikes-and-iranian-shipping-attacks",
-      "title": "Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks",
-      "source": "maritime-executive.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T22:47:00Z",
-      "publishedAt": "2026-10-22T22:47:00Z",
-      "summary": "",
-      "url": "https://maritime-executive.com/article/oil-prices-jump-after-houthi-strikes-and-iranian-shipping-attacks"
-    },
-    {
       "id": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals",
       "title": "Union Minister G Kishan Reddy to visit Australia to strengthen bilateral cooperation in critical minerals",
       "source": "australiannews.net",
@@ -318,18 +366,6 @@
       "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
       "url": "http://www.australiannews.net/news/279392545/union-minister-g-kishan-reddy-to-visit-australia-to-strengthen-bilateral-cooperation-in-critical-minerals"
-    },
-    {
-      "id": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/",
-      "title": "TETFund inaugurates committee to establish autism centres in 6 geopolitical zones - Blueprint Newspapers Limited",
-      "source": "blueprint.ng",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T19:47:00Z",
-      "publishedAt": "2026-10-22T19:47:00Z",
-      "summary": "",
-      "url": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/"
     },
     {
       "id": "https://northafricapost.com/101107-un-economic-commission-for-africa-morocco-nigeria-gas-pipeline-project-driver-of-africas-energy-security.html",
@@ -368,18 +404,6 @@
       "url": "http://www.la-regeneration.com/politique/2363-brussels-scratches-head-over-talk-of-us-trade-deal"
     },
     {
-      "id": "https://www.theglobeandmail.com/investing/article-canadian-dollar-extends-daily-winning-streak-as-interest-rate-spreads/",
-      "title": "Canadian dollar extends daily winning streak as interest rate spreads narrow",
-      "source": "theglobeandmail.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T19:47:00Z",
-      "publishedAt": "2026-10-22T19:47:00Z",
-      "summary": "",
-      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-extends-daily-winning-streak-as-interest-rate-spreads/"
-    },
-    {
       "id": "https://www.moneycontrol.com/news/business/europe-shooting-itself-in-the-foot-with-steel-curbs-cbam-piyush-goyal-14057958.html",
       "title": "‘Europe shooting itself in the foot' with steel curbs, CBAM: Piyush Goyal- Moneycontrol.com",
       "source": "moneycontrol.com",
@@ -416,28 +440,16 @@
       "url": "http://www.indiagazette.com/news/279392119/pm-modi-polish-counterpart-tusk-discuss-new-avenues-of-cooperation-in-defence-ai-critical-minerals"
     },
     {
-      "id": "https://www.wsbradio.com/news/world/european-union/3VUC47J4NY6NFF2EQTPJVNCN4A/",
-      "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
-      "source": "wsbradio.com",
+      "id": "http://www.sydneysun.com/news/279394310/interview-unlocking-opportunities-through-australia-china-economic-trade-ties-peak-aussie-industry-body-chief",
+      "title": "Interview: Unlocking opportunities through Australia-China economic, trade ties: peak Aussie industry body chief",
+      "source": "sydneysun.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T15:46:00Z",
-      "publishedAt": "2026-10-22T15:46:00Z",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
       "summary": "",
-      "url": "https://www.wsbradio.com/news/world/european-union/3VUC47J4NY6NFF2EQTPJVNCN4A/"
-    },
-    {
-      "id": "https://retailtimes.co.uk/primark-engages-simulation-tech-to-improve-supply-chain-decisions/",
-      "title": "Primark engages 'simulation' tech to improve supply chain decisions",
-      "source": "retailtimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T11:17:00Z",
-      "publishedAt": "2026-10-22T11:17:00Z",
-      "summary": "",
-      "url": "https://retailtimes.co.uk/primark-engages-simulation-tech-to-improve-supply-chain-decisions/"
+      "url": "http://www.sydneysun.com/news/279394310/interview-unlocking-opportunities-through-australia-china-economic-trade-ties-peak-aussie-industry-body-chief"
     },
     {
       "id": "http://www.bignewsnetwork.com/news/279393816/minister-of-trade-officially-closes-the-41st-tei-potential-transactions-reach-us2294-billion",
@@ -524,6 +536,30 @@
       "url": "https://www.cnbcafrica.com/media/7792680026670/tiemtor-connecting-africa-and-global-markets-to-drive-capital-flow-trade"
     },
     {
+      "id": "https://www.bramptonguardian.com/news/bank-canada-rate-decision-predictions/article_bc0a72ea-cf9c-52c7-aebd-574813406ddc.html",
+      "title": "Bank of Canada's big interest rate decision: What experts are saying",
+      "source": "bramptonguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
+      "summary": "",
+      "url": "https://www.bramptonguardian.com/news/bank-canada-rate-decision-predictions/article_bc0a72ea-cf9c-52c7-aebd-574813406ddc.html"
+    },
+    {
+      "id": "https://econotimes.com/Istanbul-Hosts-Verona-Forum-on-Economic-and-Geopolitical-Change-1760682",
+      "title": "Istanbul Hosts Verona Forum on Economic and Geopolitical Change | EconoTimes",
+      "source": "econotimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T22:47:00Z",
+      "publishedAt": "2026-10-22T22:47:00Z",
+      "summary": "",
+      "url": "https://econotimes.com/Istanbul-Hosts-Verona-Forum-on-Economic-and-Geopolitical-Change-1760682"
+    },
+    {
       "id": "https://www.wkbw.com/politics/america-votes/trump-tariffs-and-health-care-takeaways-from-two-senate-debates",
       "title": "Trump, tariffs and health care: Takeaways from two Senate debates",
       "source": "wkbw.com",
@@ -536,28 +572,40 @@
       "url": "https://www.wkbw.com/politics/america-votes/trump-tariffs-and-health-care-takeaways-from-two-senate-debates"
     },
     {
-      "id": "https://www.barandbench.com/news/litigation/does-ok-reply-by-boss-on-whatsapp-amount-to-sanctioned-leave-cat-answers",
-      "title": "Does 'OK' reply by boss on WhatsApp amount to sanctioned leave? CAT answers",
-      "source": "barandbench.com",
+      "id": "https://www.vanguardngr.com/2026/10/dollar-to-naira-exchange-rate-today-october-23-2026/",
+      "title": "Dollar to Naira exchange rate today, October 23, 2026",
+      "source": "vanguardngr.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-22",
-      "dateRaw": "2026-10-22T11:17:00Z",
-      "publishedAt": "2026-10-22T11:17:00Z",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T06:01:00Z",
+      "publishedAt": "2026-10-23T06:01:00Z",
       "summary": "",
-      "url": "https://www.barandbench.com/news/litigation/does-ok-reply-by-boss-on-whatsapp-amount-to-sanctioned-leave-cat-answers"
+      "url": "https://www.vanguardngr.com/2026/10/dollar-to-naira-exchange-rate-today-october-23-2026/"
     },
     {
-      "id": "https://econotimes.com/Dollar-s-Reserve-Share-Slips-to-56-70-as-Central-Banks-Expect-More-Gold-1760529",
-      "title": "Dollar’s Reserve Share Slips to 56.70% as Central Banks Expect More Gold | EconoTimes",
-      "source": "econotimes.com",
+      "id": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/",
+      "title": "TETFund inaugurates committee to establish autism centres in 6 geopolitical zones - Blueprint Newspapers Limited",
+      "source": "blueprint.ng",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-22",
       "dateRaw": "2026-10-22T19:47:00Z",
       "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
-      "url": "https://econotimes.com/Dollar-s-Reserve-Share-Slips-to-56-70-as-Central-Banks-Expect-More-Gold-1760529"
+      "url": "https://blueprint.ng/tetfund-inaugurates-committee-to-establish-autism-centres-in-6-geopolitical-zones/"
+    },
+    {
+      "id": "https://www.theglobeandmail.com/investing/article-canadian-dollar-extends-daily-winning-streak-as-interest-rate-spreads/",
+      "title": "Canadian dollar extends daily winning streak as interest rate spreads narrow",
+      "source": "theglobeandmail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
+      "summary": "",
+      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-extends-daily-winning-streak-as-interest-rate-spreads/"
     },
     {
       "id": "http://www.indiagazette.com/news/279392203/trump-hints-at-a-different-kind-of-trade-deal-with-india",
@@ -596,6 +644,18 @@
       "url": "https://www.brandonsun.com/local/2026/10/22/carney-set-for-meeting-with-turkish-president-erdogan-in-ankara"
     },
     {
+      "id": "https://www.wsbradio.com/news/world/european-union/3VUC47J4NY6NFF2EQTPJVNCN4A/",
+      "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
+      "source": "wsbradio.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-22",
+      "dateRaw": "2026-10-22T15:46:00Z",
+      "publishedAt": "2026-10-22T15:46:00Z",
+      "summary": "",
+      "url": "https://www.wsbradio.com/news/world/european-union/3VUC47J4NY6NFF2EQTPJVNCN4A/"
+    },
+    {
       "id": "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html",
       "title": "India-EU FTA may come into effect in January-March, says Piyush Goyal",
       "source": "business-standard.com",
@@ -608,25 +668,25 @@
       "url": "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html"
     },
     {
-      "id": "https://www.inewsgr.com/3/Finance-Ministry-on-Economic-Outcast-operation-against-Iran-Greece-enforces-current-sanctions.htm",
-      "title": "Finance Ministry on ‘Economic Outcast’ operation against Iran: Greece enforces current sanctions",
-      "source": "inewsgr.com",
+      "id": "https://econotimes.com/Dollar-s-Reserve-Share-Slips-to-56-70-as-Central-Banks-Expect-More-Gold-1760529",
+      "title": "Dollar’s Reserve Share Slips to 56.70% as Central Banks Expect More Gold | EconoTimes",
+      "source": "econotimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-22",
-      "dateRaw": "2026-10-22T11:17:00Z",
-      "publishedAt": "2026-10-22T11:17:00Z",
+      "dateRaw": "2026-10-22T19:47:00Z",
+      "publishedAt": "2026-10-22T19:47:00Z",
       "summary": "",
-      "url": "https://www.inewsgr.com/3/Finance-Ministry-on-Economic-Outcast-operation-against-Iran-Greece-enforces-current-sanctions.htm"
+      "url": "https://econotimes.com/Dollar-s-Reserve-Share-Slips-to-56-70-as-Central-Banks-Expect-More-Gold-1760529"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 544,
-    "fetchedItems": 4246,
-    "relevantItems": 75,
-    "feedBytes": 1192399,
+    "poolSize": 525,
+    "fetchedItems": 6553,
+    "relevantItems": 103,
+    "feedBytes": 1921257,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
