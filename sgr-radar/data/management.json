@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오전 10:32:53",
+  "updatedAt": "2026. 10. 24. 오후 03:26:18",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 366,
-    "passed": 6,
-    "deduped": 6,
-    "eventDeduped": 6,
-    "displayed": 6,
+    "raw": 340,
+    "passed": 8,
+    "deduped": 8,
+    "eventDeduped": 8,
+    "displayed": 8,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -66,6 +66,18 @@
       "url": "https://www.republicanherald.com/2026/10/23/ai-related-layoffs-list/"
     },
     {
+      "id": "https://www.el-balad.com/17060437",
+      "title": "Iasmin Lucindo set for UFC 333 return after 14-month layoff and suspension - El-Balad.com",
+      "source": "el-balad.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T06:16:00Z",
+      "publishedAt": "2026-10-24T06:16:00Z",
+      "summary": "",
+      "url": "https://www.el-balad.com/17060437"
+    },
+    {
       "id": "https://1190talkradio.iheart.com/content/2026-10-23-american-express-to-cut-5-of-jobs-as-ai-reshapes-business/",
       "title": "American Express To Cut 5% Of Jobs As AI Reshapes Business | Talk Radio 1190",
       "source": "1190talkradio.iheart.com",
@@ -88,6 +100,18 @@
       "publishedAt": "2026-10-23T20:01:00Z",
       "summary": "",
       "url": "https://newsradio1410.iheart.com/content/2026-10-23-american-express-to-cut-5-of-jobs-as-ai-reshapes-business/"
+    },
+    {
+      "id": "https://www.thesierraleonetelegraph.com/ifc-and-west-african-stock-exchange-partner-to-strengthen-corporate-governance/",
+      "title": "IFC and West African Stock Exchange partner to strengthen corporate governance",
+      "source": "thesierraleonetelegraph.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T06:16:00Z",
+      "publishedAt": "2026-10-24T06:16:00Z",
+      "summary": "",
+      "url": "https://www.thesierraleonetelegraph.com/ifc-and-west-african-stock-exchange-partner-to-strengthen-corporate-governance/"
     }
   ],
   "trendItems": [
@@ -140,6 +164,18 @@
       "url": "https://www.republicanherald.com/2026/10/23/ai-related-layoffs-list/"
     },
     {
+      "id": "https://www.el-balad.com/17060437",
+      "title": "Iasmin Lucindo set for UFC 333 return after 14-month layoff and suspension - El-Balad.com",
+      "source": "el-balad.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T06:16:00Z",
+      "publishedAt": "2026-10-24T06:16:00Z",
+      "summary": "",
+      "url": "https://www.el-balad.com/17060437"
+    },
+    {
       "id": "https://1190talkradio.iheart.com/content/2026-10-23-american-express-to-cut-5-of-jobs-as-ai-reshapes-business/",
       "title": "American Express To Cut 5% Of Jobs As AI Reshapes Business | Talk Radio 1190",
       "source": "1190talkradio.iheart.com",
@@ -162,15 +198,27 @@
       "publishedAt": "2026-10-23T20:01:00Z",
       "summary": "",
       "url": "https://newsradio1410.iheart.com/content/2026-10-23-american-express-to-cut-5-of-jobs-as-ai-reshapes-business/"
+    },
+    {
+      "id": "https://www.thesierraleonetelegraph.com/ifc-and-west-african-stock-exchange-partner-to-strengthen-corporate-governance/",
+      "title": "IFC and West African Stock Exchange partner to strengthen corporate governance",
+      "source": "thesierraleonetelegraph.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T06:16:00Z",
+      "publishedAt": "2026-10-24T06:16:00Z",
+      "summary": "",
+      "url": "https://www.thesierraleonetelegraph.com/ifc-and-west-african-stock-exchange-partner-to-strengthen-corporate-governance/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 366,
-    "fetchedItems": 2822,
-    "relevantItems": 70,
-    "feedBytes": 762791,
+    "poolSize": 340,
+    "fetchedItems": 3402,
+    "relevantItems": 47,
+    "feedBytes": 924455,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

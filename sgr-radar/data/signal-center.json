@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오전 10:32:58",
+  "updatedAt": "2026. 10. 24. 오후 03:26:22",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -36,6 +36,32 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/",
+          "title": "“어르신 AI로 건강 관리하세요“…실버머니 공략하는 제약·바이오",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T06:16:00Z",
+          "publishedAt": "2026-10-24T06:16:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261024135151",
+          "title": "[안광섭 AI 진테제] 대규모 LLM이 불평등 증폭",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T04:51:51Z",
+          "publishedAt": "2026-10-24T04:51:51Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261024135151",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01777766645616200&mediaCodeNo=257",
           "title": "가리봉동, 서울 서남권 새로운 주거중심 된다[손바닥부동산]",
           "source": "edaily.co.kr",
@@ -60,18 +86,6 @@
           "url": "https://womannews.net/detail.php?number=457706&thread=22r12r01"
         },
         {
-          "id": "https://biz.chosun.com/topics/topics_social/2026/10/22/TTOA77OM2BF7DCAHMSSA2QASFI/",
-          "title": "전세사기 후 8년 해외 도피… 대마 유통하다 검거",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T05:47:00Z",
-          "publishedAt": "2026-10-22T05:47:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/22/TTOA77OM2BF7DCAHMSSA2QASFI/"
-        },
-        {
           "id": "https://www.etoday.co.kr/news/view/2638973",
           "title": "복지부ㆍ의료혁신위, 충남 의료현장 간담회⋯도서지역 의료 접근성 논의",
           "source": "etoday.co.kr",
@@ -94,20 +108,6 @@
           "publishedAt": "2026-10-21T10:17:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/area/jeju/1283530.html"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261021182153",
-          "title": "넷플릭스, 영화인 100명 대상 글로벌 역량 교육 연다",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T09:46:02Z",
-          "publishedAt": "2026-10-21T09:46:02Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261021182153",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "http://kr.xinhuanet.com/20261023/8fa2f43963034eb1befbec88e2622b09/c.html",
@@ -137,7 +137,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
         },
         {
           "word": "청년",
@@ -149,7 +149,7 @@
         },
         {
           "word": "주거",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -158,20 +158,6 @@
     },
     "economy": {
       "items": [
-        {
-          "id": "https://www.etnews.com/20261021000196",
-          "title": "조주현 중기연 원장 “AI 도입은 생산성 아닌 경영전략 문제…中企 공동혁신 필요”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T03:17:22Z",
-          "publishedAt": "2026-10-21T03:17:22Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261021000196",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
         {
           "id": "https://www.mk.co.kr/news/society/12184321",
           "title": "[인사] SBS / 재정경제부 / 관세청 외",
@@ -185,6 +171,20 @@
           "url": "https://www.mk.co.kr/news/society/12184321",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.etnews.com/20261023000359",
+          "title": "경기혁신센터, 스타트업 12곳·투자사 10곳 연결한 연합 IR 개최",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T12:42:59Z",
+          "publishedAt": "2026-10-23T12:42:59Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261023000359",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01295606645616200&mediaCodeNo=257",
@@ -290,15 +290,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
           "count": 3
-        },
-        {
-          "word": "생산성",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -374,6 +370,18 @@
           "url": "https://www.fnnews.com/news/202610240200290873"
         },
         {
+          "id": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/",
+          "title": "“어르신 AI로 건강 관리하세요“…실버머니 공략하는 제약·바이오",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T06:16:00Z",
+          "publishedAt": "2026-10-24T06:16:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/"
+        },
+        {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513196",
           "title": "엔비디아 진화에도 꺼지지 않는 ‘AI 빚투’ 공포…국내 반도체주까지 영향권",
           "source": "ilyo.co.kr",
@@ -396,18 +404,6 @@
           "publishedAt": "2026-10-23T01:16:00Z",
           "summary": "",
           "url": "http://kr.xinhuanet.com/20261023/2ce9c8a85e0646b682449db6f1008d3d/c.html"
-        },
-        {
-          "id": "https://biz.chosun.com/it-science/ict/2026/10/22/BQL52YYN5FGMVHQBD4CVGM5JVM/",
-          "title": "어플라이드, 50억달러 투입한 세계 최대 반도체 R&D 거점 공개… 삼성·SK하이닉스 참여",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T05:47:00Z",
-          "publishedAt": "2026-10-22T05:47:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/22/BQL52YYN5FGMVHQBD4CVGM5JVM/"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026102115360182358",
@@ -441,7 +437,7 @@
         },
         {
           "word": "반도체",
-          "count": 6
+          "count": 5
         },
         {
           "word": "데이터센터",
@@ -449,6 +445,10 @@
         },
         {
           "word": "로봇",
+          "count": 1
+        },
+        {
+          "word": "바이오",
           "count": 1
         },
         {
@@ -495,18 +495,6 @@
           "publishedAt": "2026-10-22T19:47:00Z",
           "summary": "",
           "url": "https://www.africa-newsroom.com/press/ministry-of-education-united-nations-high-commissioner-for-refugees-unhcr-strengthen-partnership-on-refugee-education"
-        },
-        {
-          "id": "https://www.telecompaper.com/news/samsung-supplies-galaxy-devices-for-university-of-tokyo-ageing-study--1586298",
-          "title": "Samsung supplies Galaxy devices for University of Tokyo ageing study",
-          "source": "telecompaper.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T05:16:00Z",
-          "publishedAt": "2026-10-21T05:16:00Z",
-          "summary": "",
-          "url": "https://www.telecompaper.com/news/samsung-supplies-galaxy-devices-for-university-of-tokyo-ageing-study--1586298"
         },
         {
           "id": "https://www.kclu.org/2026-10-23/disabled-high-school-student-reported-injured-incident-with-ice-on-central-coast",
@@ -591,6 +579,18 @@
           "publishedAt": "2026-10-22T22:47:00Z",
           "summary": "",
           "url": "https://www.wcax.com/2026/10/22/shots-fired-report-north-country-school-believed-be-swatting-incident/"
+        },
+        {
+          "id": "https://panow.com/2026/10/22/prince-albert-school-divisions-report-strong-graduation-results-for-class-of-2026/",
+          "title": "Prince Albert school divisions report strong graduation results for Class of 2026",
+          "source": "panow.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-22",
+          "dateRaw": "2026-10-22T22:47:00Z",
+          "publishedAt": "2026-10-22T22:47:00Z",
+          "summary": "",
+          "url": "https://panow.com/2026/10/22/prince-albert-school-divisions-report-strong-graduation-results-for-class-of-2026/"
         }
       ],
       "keywords": [
@@ -601,10 +601,6 @@
         {
           "word": "이민",
           "count": 2
-        },
-        {
-          "word": "고령화",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -624,18 +620,6 @@
           "publishedAt": "2026-10-23T23:01:00Z",
           "summary": "",
           "url": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/"
-        },
-        {
-          "id": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report",
-          "title": "Gold may trade up to USD 5,000/oz over next two years as central banks sustain demand: Report",
-          "source": "northkoreatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T05:16:00Z",
-          "publishedAt": "2026-10-21T05:16:00Z",
-          "summary": "",
-          "url": "http://www.northkoreatimes.com/news/279388842/gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report"
         },
         {
           "id": "https://www.koreatimes.co.kr/world/20261024/us-treasury-proposes-expanding-tech-investment-restrictions-to-n-korea",
@@ -732,6 +716,18 @@
           "publishedAt": "2026-10-21T10:17:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261021001262"
+        },
+        {
+          "id": "https://biz.chosun.com/international/international_general/2026/10/24/N3SO5FKM7ZHLLFZLBTZDJJBG5U/",
+          "title": "美, 중동 대사관 4곳 인력 축소… “이란, 미국인 겨냥 위협 강화”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T06:16:00Z",
+          "publishedAt": "2026-10-24T06:16:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/24/N3SO5FKM7ZHLLFZLBTZDJJBG5U/"
         }
       ],
       "keywords": [
@@ -740,16 +736,16 @@
           "count": 5
         },
         {
-          "word": "금리",
+          "word": "성장",
           "count": 2
+        },
+        {
+          "word": "금리",
+          "count": 1
         },
         {
           "word": "무역",
-          "count": 2
-        },
-        {
-          "word": "성장",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -920,9 +916,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1870,
-    "fetchedItems": 2822,
-    "feedBytes": 762791,
+    "poolSize": 1745,
+    "fetchedItems": 3402,
+    "feedBytes": 924455,
     "rollingWindowHours": 72
   }
 }
