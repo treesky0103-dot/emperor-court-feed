@@ -3,7 +3,7 @@
   "planDay": "2026-10-24",
   "planSetId": "zps-20261024-089e3f27",
   "generatedAt": "2026-10-23T23:56:28.837Z",
-  "publishedAt": "2026-10-24T00:10:06.897Z",
+  "publishedAt": "2026-10-24T00:18:05.064Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -231,7 +231,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-24T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "우리 동네 이야기를 AI로 만들기 전에 묻습니다",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "중요한 것은 누구의 이야기를 어떻게 썼는지 설명할 수 있는 일이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "010",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "주민의 말과 사진을 어디까지 가공·공개해도 되는지 승인 기준이 없다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "015",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "공개 후 정정 절차를 하나의 작업 기록으로 묶는 지역 콘텐츠 실무서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "030",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "지역 현장에서도 AI 제작이 의제로 등장했음을 보여준다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "가공 이력→주민 확인 요청서→게시 후 정정 기록으로 이어지는 서식.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "031",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "도구 사용 팁을 한 권에 담으려 하면 주민 동의의 핵심이 흐려진다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "047",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-b91c6f77"
+      }
     },
     {
       "type": "제조 현장 경영",
@@ -410,7 +515,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-24T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "공장에 AI를 들이기 전에 불량 기록부터 봅니다",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "받기 전에 우리 공장의 불량이 어떻게 기록되고 있는지부터 확인하라.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "006",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "우리 공정의 실제 문제와 시험을 시작할 지점을 판단할 숫자가 없다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "비교 시험한 뒤 확대·중단을 결정하는 제조 현장용 AI 도입 판단서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "보도(N20)는 AI 도입이 기업 투자 의제로 논의됨을 보여준다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "013",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "오탐·미탐 비용표, 도입 중단 조건을 한 묶음으로 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "035",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "낙관론에 기대어 ROI 수치를 임의로 넣으면 투자 판단을 왜곡한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "043",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-b91c6f77"
+      }
     },
     {
       "type": "CRM 운영",
@@ -580,8 +790,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-10-24T00:18:00.002Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "고객 데이터가 옮겨가는 날, 마케터가 확인할 것들",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "먼저 확인할 숫자는 매출이 아니라 잘못 발송된 메시지가 0건인지다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "006",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "수신 동의와 탈퇴 기록이 누락되지 않는지 확인할 시간이 부족하다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "021",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "시험 발송 후 이전을 승인하는 데이터 이전 체크리스트형 실무서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "022",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "인수 관련 보도(N28)는 기술 공급자 변경 가능성을 생각하게 한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "시 롤백 승인표, 고객 문의 응대문을 실제 전환 일정표에 연결한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "039",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "해설이나 개인정보 법률서로 확장하면 실무자의 즉시 행동이 사라진다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "045",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-b91c6f77"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261024-089e3f27",
+    "file": "cardnews/2026-10-24.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
