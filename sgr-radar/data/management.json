@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오전 08:06:12",
+  "updatedAt": "2026. 10. 24. 오전 10:32:53",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 380,
-    "passed": 5,
-    "deduped": 5,
-    "eventDeduped": 5,
-    "displayed": 5,
+    "raw": 366,
+    "passed": 6,
+    "deduped": 6,
+    "eventDeduped": 6,
+    "displayed": 6,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -28,6 +28,18 @@
       "publishedAt": "2026-10-23T23:02:00Z",
       "summary": "",
       "url": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows"
+    },
+    {
+      "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
+      "title": "The Key To Successful Industrial AI Adoption: Developing Trust",
+      "source": "automationworld.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T01:16:00Z",
+      "publishedAt": "2026-10-24T01:16:00Z",
+      "summary": "",
+      "url": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust"
     },
     {
       "id": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-hg-form-company-to-embed-ai-engineers-in-european-enterprises/",
@@ -92,6 +104,18 @@
       "url": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows"
     },
     {
+      "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
+      "title": "The Key To Successful Industrial AI Adoption: Developing Trust",
+      "source": "automationworld.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T01:16:00Z",
+      "publishedAt": "2026-10-24T01:16:00Z",
+      "summary": "",
+      "url": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust"
+    },
+    {
       "id": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-hg-form-company-to-embed-ai-engineers-in-european-enterprises/",
       "title": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises | PYMNTS.com",
       "source": "pymnts.com",
@@ -143,10 +167,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 380,
-    "fetchedItems": 3576,
-    "relevantItems": 63,
-    "feedBytes": 975700,
+    "poolSize": 366,
+    "fetchedItems": 2822,
+    "relevantItems": 70,
+    "feedBytes": 762791,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
