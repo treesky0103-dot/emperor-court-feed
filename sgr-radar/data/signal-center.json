@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오전 02:39:24",
+  "updatedAt": "2026. 10. 25. 오전 04:49:00",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -499,6 +499,18 @@
           "url": "https://www.africa-newsroom.com/press/ministry-of-education-united-nations-high-commissioner-for-refugees-unhcr-strengthen-partnership-on-refugee-education"
         },
         {
+          "id": "https://kval.com/news/nation-world/registered-sex-offender-tried-to-enroll-at-high-school-by-posing-as-teenage-girl-reports-oregon-mississippi-maple-grove-senior-high-school-students-teachers-education-aggravated-forgery-true-crime",
+          "title": "Registered sex offender tried to enroll at high school by posing as teenage girl: reports",
+          "source": "kval.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T19:46:00Z",
+          "publishedAt": "2026-10-24T19:46:00Z",
+          "summary": "",
+          "url": "https://kval.com/news/nation-world/registered-sex-offender-tried-to-enroll-at-high-school-by-posing-as-teenage-girl-reports-oregon-mississippi-maple-grove-senior-high-school-students-teachers-education-aggravated-forgery-true-crime"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/etimes/wellness/from-a-107-year-old-world-war-ii-veterans-love-of-fish-and-chips-to-okinawas-sweet-potatoes-and-sardinias-bean-soup-heres-what-centenarians-eat-and-what-research-reveals-about-healthy-ageing/articleshow/135174449.cms",
           "title": "From a 107-year-old World War II veteran's love of fish and chips to Okinawa's sweet potatoes and Sardinia's bean soup, here's what centenarians eat and what research reveals about healthy ageing",
           "source": "timesofindia.indiatimes.com",
@@ -581,18 +593,6 @@
           "publishedAt": "2026-10-23T06:01:00Z",
           "summary": "",
           "url": "https://www.herefordtimes.com/news/26650512.downs-private-school-site-become-send-school/"
-        },
-        {
-          "id": "https://abc7.com/story/100-cases-norovirus-reported-kansas-elementary-school-officials-say/19969493/",
-          "title": "Nearly 100 cases of norovirus reported at Kansas elementary school, officials say",
-          "source": "abc7.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T22:47:00Z",
-          "publishedAt": "2026-10-22T22:47:00Z",
-          "summary": "",
-          "url": "https://abc7.com/story/100-cases-norovirus-reported-kansas-elementary-school-officials-say/19969493/"
         }
       ],
       "keywords": [
@@ -914,9 +914,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1630,
-    "fetchedItems": 3330,
-    "feedBytes": 958121,
+    "poolSize": 1572,
+    "fetchedItems": 2758,
+    "feedBytes": 772998,
     "rollingWindowHours": 72
   }
 }
