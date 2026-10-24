@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오후 08:27:34",
+  "updatedAt": "2026. 10. 24. 오후 11:46:50",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -499,6 +499,18 @@
           "url": "https://www.africa-newsroom.com/press/ministry-of-education-united-nations-high-commissioner-for-refugees-unhcr-strengthen-partnership-on-refugee-education"
         },
         {
+          "id": "https://www.tnp.no/norway/politics/5169-new-immigration-and-integration-minister-to-tighten-asylum-policy-in-norway/",
+          "title": "New Immigration and Integration Minister to Tighten Asylum Policy in Norway - The Nordic Page",
+          "source": "tnp.no",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T14:32:00Z",
+          "publishedAt": "2026-10-24T14:32:00Z",
+          "summary": "",
+          "url": "https://www.tnp.no/norway/politics/5169-new-immigration-and-integration-minister-to-tighten-asylum-policy-in-norway/"
+        },
+        {
           "id": "https://www.kclu.org/2026-10-23/disabled-high-school-student-reported-injured-incident-with-ice-on-central-coast",
           "title": "Disabled high school student reported injured in an incident with ICE on the Central Coast",
           "source": "kclu.org",
@@ -581,28 +593,16 @@
           "publishedAt": "2026-10-22T22:47:00Z",
           "summary": "",
           "url": "https://www.wcax.com/2026/10/22/shots-fired-report-north-country-school-believed-be-swatting-incident/"
-        },
-        {
-          "id": "https://panow.com/2026/10/22/prince-albert-school-divisions-report-strong-graduation-results-for-class-of-2026/",
-          "title": "Prince Albert school divisions report strong graduation results for Class of 2026",
-          "source": "panow.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T22:47:00Z",
-          "publishedAt": "2026-10-22T22:47:00Z",
-          "summary": "",
-          "url": "https://panow.com/2026/10/22/prince-albert-school-divisions-report-strong-graduation-results-for-class-of-2026/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 11
+          "count": 10
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -708,6 +708,18 @@
           "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth"
         },
         {
+          "id": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/",
+          "title": "How EU bakery is helping UK retailers rebuild trust and drive premium growth",
+          "source": "bakeryandsnacks.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T14:31:00Z",
+          "publishedAt": "2026-10-24T14:31:00Z",
+          "summary": "",
+          "url": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/"
+        },
+        {
           "id": "https://biz.chosun.com/international/international_general/2026/10/24/N3SO5FKM7ZHLLFZLBTZDJJBG5U/",
           "title": "美, 중동 대사관 4곳 인력 축소… “이란, 미국인 겨냥 위협 강화”",
           "source": "biz.chosun.com",
@@ -718,18 +730,6 @@
           "publishedAt": "2026-10-24T06:16:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/international/international_general/2026/10/24/N3SO5FKM7ZHLLFZLBTZDJJBG5U/"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms",
-          "title": "Zetwerk listing: Zetwerk eyes manufacturing demand from AI, clean energy as shares debut - The Economic Times",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T06:01:00Z",
-          "publishedAt": "2026-10-23T06:01:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms"
         }
       ],
       "keywords": [
@@ -739,7 +739,7 @@
         },
         {
           "word": "성장",
-          "count": 2
+          "count": 3
         },
         {
           "word": "무역",
@@ -914,9 +914,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1696,
-    "fetchedItems": 4297,
-    "feedBytes": 1232489,
+    "poolSize": 1727,
+    "fetchedItems": 3644,
+    "feedBytes": 1044762,
     "rollingWindowHours": 72
   }
 }
