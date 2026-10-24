@@ -1,6 +1,599 @@
 {
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "days": [
+    {
+      "date": "2026-10-25",
+      "planDay": "2026-10-25",
+      "planSetId": "zps-20261025-04142705",
+      "generatedAt": "2026-10-24T23:46:39.112Z",
+      "publishedAt": "2026-10-24T23:55:28.299Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-10-25",
+        "planSetId": "zps-20261025-04142705",
+        "titles": [
+          "스포츠 경기 다음 날 동료를 먼저 칭찬하는 기술",
+          "대중의 지적을 기획의 무기로 바꾸는 스토리 검증법",
+          "외부 위협 속에서 내 코드를 지키는 배포 검증법"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "gemini-3.8-flash",
+        "hqReady": true,
+        "contentRevision": "zcr-f2ab3d70",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-10-24T23:55:25.493Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 자기계발 · 글쓰기 · IT전문서을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "gemini-3.8-flash",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-10-24T23:46:38.502Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-10-24T23:39:38.961Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-10-24T23:30:27.133Z",
+        "bestsellerDataDate": "2026-10-24",
+        "stale": true,
+        "checkedAt": "2026-10-24T23:46:39.112Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "자기계발",
+          "field": "자기계발",
+          "title": "스포츠 경기 다음 날 동료를 먼저 칭찬하는 기술",
+          "concept": "프로젝트 종료 직후 결과 보고서와 회의 발언에서 팀원의 조력을 명시하면서도 본인의 주도적 기여분을 상사에게 각인시키는 사내 성과 커뮤니케이션 실무서.",
+          "why": "스포츠 경기 승리 후 MVP 욕심 대신 동료를 세우겠다는 인터뷰 보도처럼, 협업 중심 조직에서는 성과 독점자가 아닌 협력적 리더십을 증명하는 자가 장기 생존한다. 그러나 기사식 미담과 달리 직장인은 양보만 하다 평가에서 누락되는 현실적 위기에 처해 있다.",
+          "competition": "《끝까지 살아남는 직장인 생존 대화법》, 《성공하는 직장인의 7가지 대화법》 등 기존 처세서는 관계 개선과 겸손의 미덕을 강조하지만, 정작 본인의 실적 기여도를 수치로 지키며 상사를 설득하는 보고용 스크립트는 다루지 않는다.",
+          "reader": "협업 성과를 내고도 보고 자리에서 말을 아끼다 무임승차자에게 공을 빼앗기거나 사내 평판을 잃을까 불안한 3~8년 차 중간관리자 및 PM.",
+          "readerNeed": "팀 분위기를 해치지 않고 동료의 반발을 사지 않으면서도, 이번 프로젝트의 핵심 설계자가 나였음을 고과 평가자에게 명확히 전달해야 하는 순간.",
+          "marketGap": "동료를 칭찬하고 공을 돌리는 행위 자체가 본인의 조율 역량과 총괄 리더십을 입증하는 근거가 되도록 설계된 실무 보고 화법이 서점가에 비어 있다.",
+          "differentiation": "성과 발표 슬라이드 기여도 명시 양식, 회의 발언 3원칙(기여 사실 수치화→협업자 역할 지정 칭찬→내 조율 결과 명시), 평가 면담용 1페이지 성과 기술 시트 제공.",
+          "diff": "성과 발표 슬라이드 기여도 명시 양식, 회의 발언 3원칙(기여 사실 수치화→협업자 역할 지정 칭찬→내 조율 결과 명시), 평가 면담용 1페이지 성과 기술 시트 제공.",
+          "toc": [
+            "성과 발표 직전 내 기여분을 숫자로 정리하기",
+            "결정적 성공 뒤에 협업자의 이름을 먼저 호명하는 기준",
+            "동료의 노고를 인정하며 내 총괄 권한을 각인시키는 회의 화법",
+            "성과 가로채기와 사내 견제를 차단하는 상시 공유 기록법",
+            "팀의 결과물을 내 커리어 평가표로 환산하는 고과 면담 기술"
+          ],
+          "searchQueries": [
+            "직장인 대화법",
+            "성과 관리 커뮤니케이션"
+          ],
+          "bookworthiness": {
+            "durability": "다직군 협업과 다면평가가 존재하는 한 성과 배분과 인정 투쟁은 모든 기업에서 영구히 발생하는 본질적 갈등이다.",
+            "repeatNeed": "분기별 프로젝트 랩업 미팅, 연말 인사고과 면담, 승진 심사 시즌마다 반복해서 열어보는 실무 지침서가 된다.",
+            "expansionPotential": "직무별(기획·개발·영업) 성과 기술문 예시 20종과 회의실 갈등 상황별 스크립트를 결합해 220쪽 분량의 실용서로 완성 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "오수향",
+              "career": "《끝까지 살아남는 직장인 생존 대화법》 저자 · 넥서스BIZ",
+              "why": "YES24에서 이 기획과 인접한 주제의 《끝까지 살아남는 직장인 생존 대화법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/110712625",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "정경진",
+              "career": "《성공하는 직장인의 7가지 대화법》 저자 · 크레듀",
+              "why": "YES24에서 이 기획과 인접한 주제의 《성공하는 직장인의 7가지 대화법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/3088028",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김다솔",
+              "career": "《센스 있는 직장인의 대화법은 1%가 다르다》 저자 · 모모북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《센스 있는 직장인의 대화법은 1%가 다르다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/124639698",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "오수향",
+          "bestAuthor": "오수향",
+          "authorBrief": "",
+          "headlineCopy": "공을 동료에게 돌리면서도 내 기여도를 확실히 챙기는 보고의 기술",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "사내 평판 관리",
+              "인사고과 성과 인정"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "블라인드 이직·커리어 게시판과 링크드인 실무자 네트워크에 '호구 되지 않고 공 인정받는 랩업 보고 템플릿'을 배포해 유입시킨다.",
+            "trust": "국내 주요 대기업 10년 차 이상 인사평가위원 5인의 다면평가 코멘트 분석과 실제 승진자 보고서 사례를 통해 신뢰성을 확보한다.",
+            "conversion": "연말 고과 면담 직전 10분 만에 본인 기여도를 정리할 수 있는 '1페이지 성과 기술 체크리스트'를 부록으로 제시해 구매를 유도한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "단순히 착하게 말하라는 뻔한 처세술이나 도덕책으로 오인해 이탈한다.",
+              "objection": "동료 칭찬만 하다가 내 몫과 고과를 다른 팀원에게 빼앗기는 것 아닌가?",
+              "solution": "내 기여 사실을 먼저 숫자로 박아두고 동료를 조력자로 배치하는 3단계 발언 프레임워크를 목차와 상세페이지 전면에 공개한다."
+            },
+            "positioning": "동료의 신뢰와 인사고과의 실리를 동시에 거머쥐는 협력적 리더십의 실전 언어 전략서"
+          },
+          "devilsEditor": {
+            "failureReason": "도덕적 양보와 겸양의 중요성만 강조하다가 실질적인 사내 평가에서 밀려나는 무력한 지침으로 전락할 위험이 있다.",
+            "fix": "모든 챕터에 발언 스크립트와 함께 '상사가 내 기여로 인식하게 만드는 보고서 문장 표기법'을 필수로 배치해 철저히 실리 중심 실무서로 묶는다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "동료를 앞세우는 화법이 자칫 본인의 전문성 부족이나 자신감 결여로 상사에게 잘못 해석될 수 있다.",
+          "riskResponse": "본인의 정량적 작업 성과와 의사결정 내역을 문서로 먼저 확정한 뒤 언어적 칭찬을 덧붙이는 2단계 보고 원칙을 엄격히 적용한다.",
+          "judgment": "단순한 인성 처세가 아니라 사내 정치와 다면평가에서 실리를 챙기는 구체적 문장 양식을 제공하느냐에 이 기획의 상업적 성패가 갈린다.",
+          "evidence": [
+            {
+              "text": "끝까지 살아남는 직장인 생존 대화법 — 오수향 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/110712625"
+            },
+            {
+              "text": "[현장 인터뷰] '우승 이끈 한 방' FC서울 문선민 \"MVP 욕심 없다, 동료들 밀어줄 것\" - 뉴스핌",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENnEzbm93a2xvY3d5LWdkczZucHpCWGMtMnBjTEpQMlFPaW1JbXhjX1VDUnItVHN5YThQeUFCcktldENaZFlOUGtKaHpoSnFocDlkVFBrNmRhUQ?oc=5"
+            },
+            {
+              "text": "성공하는 직장인의 7가지 대화법 — 정경진 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/3088028"
+            },
+            {
+              "text": "센스 있는 직장인의 대화법은 1%가 다르다 — 김다솔 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/124639698"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "끝까지 살아남는 직장인 생존 대화법",
+              "author": "오수향 저",
+              "publisher": "넥서스BIZ",
+              "publicationDate": "20220720",
+              "url": "https://www.yes24.com/product/goods/110712625",
+              "matchedQuery": "직장인 대화법",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "성공하는 직장인의 7가지 대화법",
+              "author": "정경진 저",
+              "publisher": "크레듀",
+              "publicationDate": "20081010",
+              "url": "https://www.yes24.com/product/goods/3088028",
+              "matchedQuery": "직장인 대화법",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "센스 있는 직장인의 대화법은 1%가 다르다",
+              "author": "김다솔 저",
+              "publisher": "모모북스",
+              "publicationDate": "20240124",
+              "url": "https://www.yes24.com/product/goods/124639698",
+              "matchedQuery": "직장인 대화법",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-24T23:41:08.946Z",
+            "queries": [
+              "직장인 대화법",
+              "성과 관리 커뮤니케이션"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "글쓰기",
+          "field": "글쓰기",
+          "title": "대중의 지적을 기획의 무기로 바꾸는 스토리 검증법",
+          "concept": "전문직 설정 오류와 고증 시비가 터졌을 때 사실관계 해명에 매몰되지 않고 독자가 수용하는 감정선과 서사 개연성으로 전환하는 창작 퇴고 실무서.",
+          "why": "의학 드라마 고증 논란 보도에서 나타나듯 시청자와 독자가 분노하는 지점은 단순 팩트 오류 자체가 아니라 인물의 정서적 진정성과 서사적 설득력 부재다. 창작자에게는 기계적 고증을 넘어선 서사적 납득 기술이 요구된다.",
+          "competition": "《실패 없는 웹소설 작법서》, 《초보자 웹소설 작법서》 등 기존 작법서는 흥행 클리셰나 문장론에 치중해, 연재 중 독자의 집단 지적과 고증 논란을 서사의 극적 반전으로 흡수하는 위기 대응법을 다루지 않는다.",
+          "reader": "전문직물·시대극·장르물을 연재 중이거나 투고를 앞두고 독자의 설정 지적과 댓글 피드백에 서사가 흔들리는 1~5년 차 웹소설 작가 및 시나리오 작가.",
+          "readerNeed": "엄격한 현실 사실관계와 창작물의 극적 재미 사이에서 고증 시비를 예방하고, 이미 발생한 지적을 몰입도 높은 전개로 수습해야 하는 순간.",
+          "marketGap": "완벽한 사실 검증이 불가능한 창작 현장에서 '서사적 허용'을 독자에게 설득력 있게 납득시키는 플롯 수정 점검표가 전무하다.",
+          "differentiation": "연재 전 15분 개연성 자가진단표, 전문직 설정 충돌 시 감정선 대체 4단계 매뉴얼, 독자 반발을 복선으로 치환하는 퇴고 전후 비교 사례 수록.",
+          "diff": "연재 전 15분 개연성 자가진단표, 전문직 설정 충돌 시 감정선 대체 4단계 매뉴얼, 독자 반발을 복선으로 치환하는 퇴고 전후 비교 사례 수록.",
+          "toc": [
+            "독자는 완벽한 사실보다 인물의 절박함에 먼저 설득된다",
+            "전문 취재의 한계와 서사적 허용선을 긋는 3가지 기준",
+            "연재 전 설정 충돌과 논란 요소를 걸러내는 베타 점검표",
+            "독자의 고증 지적을 이야기의 반전 복선으로 바꾸는 퇴고법",
+            "댓글 창의 설정 시비에 서사가 무너지지 않는 연재 멘탈 관리"
+          ],
+          "searchQueries": [
+            "웹소설 작법서",
+            "스토리텔링 기획"
+          ],
+          "bookworthiness": {
+            "durability": "웹툰, 웹소설, 드라마 등 콘텐츠 플랫폼 댓글 문화가 유지되는 한 창작자의 고증 논란과 개연성 시비는 상시적으로 발생한다.",
+            "repeatNeed": "새로운 작품을 기획할 때마다, 그리고 회차별 연재 중 독자 반발이 일어날 때마다 즉각적인 해결책을 위해 반복 참조된다.",
+            "expansionPotential": "실제 흥행작과 논란작의 서사 구조 비교, 설정 구멍 수습 전후 원고 대비를 통해 210쪽 분량의 전문 창작 교본으로 확립 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "윤재",
+              "career": "《실패 없는 웹소설 작법서》 저자 · 아이생각(디지털북스)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《실패 없는 웹소설 작법서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/107663528",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "염형운",
+              "career": "《초보자 웹소설 작법서》 저자 · 국학자료원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《초보자 웹소설 작법서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/152651734",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "팔각",
+              "career": "《웹소설 일러스트 작법서》 저자 · 디지털북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《웹소설 일러스트 작법서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/109187043",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "윤재",
+          "bestAuthor": "윤재",
+          "authorBrief": "",
+          "headlineCopy": "고증 시비를 극적 몰입으로 바꾸는 대중 서사 퇴고의 원칙",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "연재 중단 방지",
+              "독자 몰입도 극대화"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "문피아·조아라 작가 라운지와 스토리 창작 지망생 아카데미에 '연재 1화 전 확인하는 개연성 붕괴 방지표'를 배포한다.",
+            "trust": "현직 웹소설 전문 편집자와 드라마 기획 PD의 실제 원고 피드백 수정 로그를 검증 근거로 제시해 현장성을 담보한다.",
+            "conversion": "실제 독자 항의 댓글 유형 5가지와 이에 대응해 플롯을 우회 수습하는 수정 전후 스크립트를 상세페이지에 공개한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "창작을 규칙으로 옭아매려는 진부한 문예창작 이론서로 보아 지나친다.",
+              "objection": "이야기는 작가의 영감과 감각인데 체크리스트 몇 개로 오류가 해결되겠는가?",
+              "solution": "실제 방영 드라마와 웹소설에서 설정 구멍을 캐릭터의 심리적 결함으로 치환해 대박을 터뜨린 구체적 장면 교정 사례를 보여준다."
+            },
+            "positioning": "독자의 날선 지적을 서사의 강력한 몰입 장치로 전환하는 창작 위기관리 교본"
+          },
+          "devilsEditor": {
+            "failureReason": "특정 드라마나 특정 전문직 장르의 사례 분석에만 치우쳐 웹소설이나 일반 서사 창작자가 자기 작품에 적용하기 어려울 수 있다.",
+            "fix": "전문직 팩트 문제를 포함해 판타지 설정 충돌, 로맨스 감정선 붕괴 등 대중 서사 전반의 보편적 개연성 구조로 공식화한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "고증보다 감정이 우선이라는 논리가 자칫 창작자의 부실한 취재와 게으른 설정을 정당화하는 면죄부로 오용될 위험이 있다.",
+          "riskResponse": "1차 팩트 취재의 필수 기준선을 먼저 정의하고, 서사적 변형이 허용되는 한계와 독자 고지 방식을 단계별로 명시한다.",
+          "judgment": "단순 고증 비법서가 아니라 창작자가 독자의 공격적 피드백을 플롯 안으로 흡수하는 위기 대응 실무를 완성하느냐가 판매를 결정한다.",
+          "evidence": [
+            {
+              "text": "실패 없는 웹소설 작법서 — 윤재 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/107663528"
+            },
+            {
+              "text": "‘닥터X’ 의료고증 논란, 결국 ‘허무한 해프닝’이었다… 시청자가 원한 건 ‘고증’ 아닌 ‘이해’ - 스포츠경향",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05eEdrTTItWjZabmMwbm5ORFplTjVEajdrU2FPa29LVkJsS2dpSFl3T0tQdVFVemV6NlhPb1lhemhyZnRTMjNtNVpMa0s3Zl93LUFHeFJkVUlHcjNIUEHSAWNBVV95cUxQT0p1ekdXOUVJU3RjSGhfVW54TjVpWGtaYkVVYmRoU1M2NjVRUTJ5WHFDWTVWbl9LeG8zSkctQU9NTlVjV1dOd2VZLWg4ODVXZkludjk2M0lrY1VIQTFQV3FCODQ?oc=5"
+            },
+            {
+              "text": "초보자 웹소설 작법서 — 염형운 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/152651734"
+            },
+            {
+              "text": "웹소설 일러스트 작법서 — 팔각 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/109187043"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "실패 없는 웹소설 작법서",
+              "author": "윤재 저",
+              "publisher": "아이생각(디지털북스)",
+              "publicationDate": "20220310",
+              "url": "https://www.yes24.com/product/goods/107663528",
+              "matchedQuery": "웹소설 작법서",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "초보자 웹소설 작법서",
+              "author": "염형운 저",
+              "publisher": "국학자료원",
+              "publicationDate": "20250730",
+              "url": "https://www.yes24.com/product/goods/152651734",
+              "matchedQuery": "웹소설 작법서",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "웹소설 일러스트 작법서",
+              "author": "팔각 저",
+              "publisher": "디지털북스",
+              "publicationDate": "20220520",
+              "url": "https://www.yes24.com/product/goods/109187043",
+              "matchedQuery": "웹소설 작법서",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-24T23:41:10.090Z",
+            "queries": [
+              "웹소설 작법서",
+              "스토리텔링 기획"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "IT전문서",
+          "field": "IT전문서",
+          "title": "외부 위협 속에서 내 코드를 지키는 배포 검증법",
+          "concept": "전담 인프라 보안팀이 없는 소규모 팀과 1인 개발자를 위해 코드 난독화, 오픈소스 라이선스 검증, 역공학 방어를 5단계 자동화 스크립트로 정리한 배포 보안서.",
+          "why": "AI 도구를 활용한 악의적 역공학과 소스코드 탈취 위협이 현실화되면서 소프트웨어 보안은 기업 생존의 필수 조건이 되었다. 그러나 인력과 예산이 부족한 소규모 팀은 복잡한 엔터프라이즈 보안 솔루션을 도입하지 못해 취약점에 노출되어 있다.",
+          "competition": "《공개SW를 활용한 소프트웨어 개발보안 점검가이드》는 공공기관용 규제 해설에 치우치고, 《iOS 해킹과 방어》 등은 특정 플랫폼 해킹 기법 위주여서 당장 배포 파이프라인에 얹을 경량 보안 체크리스트를 주지 못한다.",
+          "reader": "오픈소스와 외부 API를 조합해 빠르게 MVP 상용 서비스를 배포해야 하는 스타트업 주니어 개발자 및 1인 풀스택 개발자.",
+          "readerNeed": "출시 납기에 쫓기면서도 소스코드 노출, 라이선스 위반 소송, 악의적 리버스 엔지니어링으로 인한 지적재산 탈취를 확실히 차단해야 하는 순간.",
+          "marketGap": "대규모 보안 감사 절차 대신 배포 빌드 단계에서 개발자가 명령어 몇 줄로 끝낼 수 있는 경량화된 보안 자동화 파이프라인 가이드가 없다.",
+          "differentiation": "CI/CD 배포 파이프라인에 복사해 넣는 15분 보안 검사 쉘 스크립트, 오픈소스 라이선스 강제 공개 방지 표, 메타데이터 자동 제거 설정 파일 제공.",
+          "diff": "CI/CD 배포 파이프라인에 복사해 넣는 15분 보안 검사 쉘 스크립트, 오픈소스 라이선스 강제 공개 방지 표, 메타데이터 자동 제거 설정 파일 제공.",
+          "toc": [
+            "빌드 파일에서 평문 코드와 민감 정보가 새어 나가는 경로",
+            "배포 직전 빌드 산출물에서 내부 메타데이터 완전히 제거하기",
+            "오픈소스 라이선스 충돌로 소스코드가 강제 공개되는 참사 막기",
+            "외부 공격자의 디컴파일 시도를 무력화하는 실무 난독화 기법",
+            "배포 파이프라인에 심어두는 15분 자동 보안 감사 스크립트"
+          ],
+          "searchQueries": [
+            "개발자 소프트웨어 보안",
+            "소스코드 난독화 배포"
+          ],
+          "bookworthiness": {
+            "durability": "소프트웨어 배포가 지속되는 한 코드 탈취, 리버스 엔지니어링, 라이선스 분쟁은 영구적으로 지속되는 개발 현장의 핵심 위협이다.",
+            "repeatNeed": "신규 서비스 릴리즈, 버전 업데이트, 외부 연동 파이프라인 구축 시마다 체크리스트로 반복 활용된다.",
+            "expansionPotential": "환경별(웹 프론트, 모바일 앱, 백엔드 컨테이너) 배포 스크립트와 가상 공격 방어 실습을 결합해 230쪽 분량으로 구성 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "행정안전부",
+              "career": "《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자 · 진한엠앤비",
+              "why": "YES24에서 이 기획과 인접한 주제의 《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/96883624",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "한국인터넷진흥원",
+              "career": "《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자 · 진한엠앤비",
+              "why": "YES24에서 이 기획과 인접한 주제의 《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/96883624",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "조나단 지드자스키",
+              "career": "《보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어》 저자 · 에이콘출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/7415833",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "행정안전부",
+          "bestAuthor": "행정안전부",
+          "authorBrief": "",
+          "headlineCopy": "배포 버튼을 누르기 전 명령어 몇 줄로 내 코드를 보호하라",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "자산 유출 방지",
+              "배포 사고 예방"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "깃허브 트렌딩 리포지토리와 개발자 오픈채팅방에 '배포 전 15분 컷 보안 점검 쉘 스크립트' 샘플 코드를 배포해 개발자를 유입시킨다.",
+            "trust": "실제 스타트업의 코드 디컴파일 유출 사고 및 라이선스 피소 사례 데이터를 기반으로 방어 로직의 실효성을 교차 검증한다.",
+            "conversion": "개발 환경 CI/CD에 즉시 붙여 넣을 수 있는 '오픈소스 라이선스 충돌 자가진단 파일' 다운로드 링크를 제공해 구매로 연결한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "인프라 보안 전문가나 화이트해커만을 위한 난해한 보안 이론서로 오해한다.",
+              "objection": "우리 같은 소규모 사이드 프로젝트나 초기 스타트업까지 거창한 보안을 신경 써야 하나?",
+              "solution": "단 한 줄의 설정 누락으로 상용 서비스 전체 소스코드가 깃허브에 털린 실제 소규모 팀 피해 사례와 5분 방어 코드를 제시한다."
+            },
+            "positioning": "보안팀 없는 작은 팀 개발자를 위한 배포 직전 최소 비용 코드 방어 실무서"
+          },
+          "devilsEditor": {
+            "failureReason": "보안 이론과 해킹 취약점 원리 설명에 치우쳐 바쁜 개발자가 실무에 즉시 적용하지 못하고 덮어버릴 위험이 있다.",
+            "fix": "배경 이론을 과감히 압축하고 '터미널에 입력할 명령어'와 '설정 파일 수정 전후 코드' 중심으로 전 장을 구성한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "특정 난독화 툴이나 패키징 라이브러리의 버전 업데이트로 인해 책에 수록된 명령어가 작동하지 않게 될 위험이 있다.",
+          "riskResponse": "특정 서드파티 도구에 의존하지 않고 리눅스 표준 환경과 범용 빌드 도구에서 작동하는 근본적인 파일 정제 아키텍처를 중심으로 서술한다.",
+          "judgment": "거창한 보안 체계론을 걷어내고 바쁜 주니어 개발자가 배포 파이프라인에 즉시 꽂아 넣을 수 있는 실행 스크립트를 제공하느냐가 핵심이다.",
+          "evidence": [
+            {
+              "text": "공개SW를 활용한 소프트웨어 개발보안 점검가이드 — 행정안전부,한국인터넷진흥원 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/96883624"
+            },
+            {
+              "text": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시 - AI타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QUmlESUczYVNrT0JRcGh0UUUycmJsZ2hBWG1rTWhzUUpvbHFEN3RDQUFUaGkwa04xdGlTbEE0QkNzLXY3Mkp2LTBTMldwUDRrQWdybHFWT3hrOTR5eGZ2X2UxSWs4UmFDQkE?oc=5"
+            },
+            {
+              "text": "보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어 — 조나단 지드자스키 저/민병호 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/7415833"
+            },
+            {
+              "text": "웹 애플리케이션 해킹 대작전 — 마이크 앤드류스 등저/윤근용 역/강유 감수",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/2364795"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "공개SW를 활용한 소프트웨어 개발보안 점검가이드",
+              "author": "행정안전부,한국인터넷진흥원 공저",
+              "publisher": "진한엠앤비",
+              "publicationDate": "20210118",
+              "url": "https://www.yes24.com/product/goods/96883624",
+              "matchedQuery": "개발자 소프트웨어 보안",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어",
+              "author": "조나단 지드자스키 저/민병호 역",
+              "publisher": "에이콘출판사",
+              "publicationDate": "20120831",
+              "url": "https://www.yes24.com/product/goods/7415833",
+              "matchedQuery": "개발자 소프트웨어 보안",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "웹 애플리케이션 해킹 대작전",
+              "author": "마이크 앤드류스 등저/윤근용 역/강유 감수",
+              "publisher": "에이콘출판사",
+              "publicationDate": "20070130",
+              "url": "https://www.yes24.com/product/goods/2364795",
+              "matchedQuery": "개발자 소프트웨어 보안",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-10-24T23:41:12.561Z",
+            "queries": [
+              "개발자 소프트웨어 보안",
+              "소스코드 난독화 배포"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "planDay": "2026-10-24",
@@ -25363,26 +25956,9 @@
           "type": "건강·가족"
         }
       ]
-    },
-    {
-      "date": "2026-09-17",
-      "plans": [
-        {
-          "title": "마흔 이후, 고전이 답하는 것들",
-          "type": "인문·자기계발"
-        },
-        {
-          "title": "스무 살의 마음은 소설이 먼저 알았다",
-          "type": "문학·자기계발"
-        },
-        {
-          "title": "AI 시대, 회사가 끝까지 돈을 주는 사람",
-          "type": "경제·경영·커리어"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261024-089e3f27",
+  "activePlanSetId": "zps-20261025-04142705",
   "discardedDays": [
     {
       "date": "2026-09-29",
