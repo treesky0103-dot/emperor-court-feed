@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오후 03:26:18",
+  "updatedAt": "2026. 10. 24. 오후 08:27:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 340,
-    "passed": 8,
-    "deduped": 8,
-    "eventDeduped": 8,
-    "displayed": 8,
+    "raw": 390,
+    "passed": 9,
+    "deduped": 9,
+    "eventDeduped": 9,
+    "displayed": 9,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -28,6 +28,18 @@
       "publishedAt": "2026-10-23T23:02:00Z",
       "summary": "",
       "url": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows"
+    },
+    {
+      "id": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/",
+      "title": "Missouri child welfare workers say restructuring puts children’s safety at risk | Fulton Sun",
+      "source": "fultonsun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/"
     },
     {
       "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
@@ -128,6 +140,18 @@
       "url": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows"
     },
     {
+      "id": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/",
+      "title": "Missouri child welfare workers say restructuring puts children’s safety at risk | Fulton Sun",
+      "source": "fultonsun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/"
+    },
+    {
       "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
       "title": "The Key To Successful Industrial AI Adoption: Developing Trust",
       "source": "automationworld.com",
@@ -215,10 +239,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 340,
-    "fetchedItems": 3402,
-    "relevantItems": 47,
-    "feedBytes": 924455,
+    "poolSize": 390,
+    "fetchedItems": 4297,
+    "relevantItems": 65,
+    "feedBytes": 1232489,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

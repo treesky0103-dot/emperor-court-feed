@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오후 03:26:18",
+  "updatedAt": "2026. 10. 24. 오후 08:27:29",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 340,
-    "passed": 107,
-    "deduped": 107,
-    "eventDeduped": 107,
+    "raw": 390,
+    "passed": 125,
+    "deduped": 125,
+    "eventDeduped": 125,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://news.mtn.co.kr/article/2026102315340196719",
+      "title": "칩 공급망에 윤할유...AI 우려 진화 나선 젠슨 황",
+      "source": "news.mtn.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://news.mtn.co.kr/article/2026102315340196719"
+    },
     {
       "id": "https://www.fnnews.com/news/202610240200290873",
       "title": "\"반도체, 주도주 역할 끝났다\"…전문가 \"AI 투자, 다른 분야도 봐야\"",
@@ -40,18 +52,6 @@
       "publishedAt": "2026-10-24T06:16:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/"
-    },
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01577686645616200&mediaCodeNo=257",
-      "title": "AI 불안 가시기도 전에 유가 '쇼크'…다우 1.23% 급락[월스트리트in]",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T23:02:00Z",
-      "publishedAt": "2026-10-23T23:02:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01577686645616200&mediaCodeNo=257"
     },
     {
       "id": "https://www.moneycontrol.com/technology/cg-semi-targets-commercial-production-at-g2-semiconductor-facility-by-late-2028-or-2029-axiro-expands-chip-design-capabilities-article-14058696.html",
@@ -78,6 +78,18 @@
       "url": "https://www.thehindubusinessline.com/companies/chinas-sigenergy-to-build-inverter-battery-storage-plants-in-india/article71615296.ece"
     },
     {
+      "id": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/",
+      "title": "Are jobs promises tied to energy infrastructure being met in the Highlands?",
+      "source": "ross-shirejournal.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/"
+    },
+    {
       "id": "https://www.investegate.co.uk/company/BIOG",
       "title": "Biotech Growth Trust (The) RNS Announcements | BIOG RNS Announcements | Investegate",
       "source": "investegate.co.uk",
@@ -88,18 +100,6 @@
       "publishedAt": "2026-10-23T16:31:00Z",
       "summary": "",
       "url": "https://www.investegate.co.uk/company/BIOG"
-    },
-    {
-      "id": "https://cfrontherecord.podbean.com/e/on-american-energy-strategy-post-hormuz/",
-      "title": "On American Energy Strategy Post-Hormuz | On the Record",
-      "source": "cfrontherecord.podbean.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T11:46:00Z",
-      "publishedAt": "2026-10-23T11:46:00Z",
-      "summary": "",
-      "url": "https://cfrontherecord.podbean.com/e/on-american-energy-strategy-post-hormuz/"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/harmonic-drive-llc/10574",
@@ -114,31 +114,43 @@
       "url": "https://www.roboticstomorrow.com/company_directory/harmonic-drive-llc/10574"
     },
     {
-      "id": "https://www.uniondemocrat.com/news/article_24f4ca53-ee50-4955-b4fb-5ea14e003994.html",
-      "title": "Planning commissioners weigh questions about potential Tuolumne County data center rules",
-      "source": "uniondemocrat.com",
+      "id": "https://www.al-monitor.com/originals/2026/10/hormuz-data-centers-how-irans-threats-are-raising-stakes-renewed-war",
+      "title": "From Hormuz to data centers: How Iran’s threats are raising stakes of renewed war",
+      "source": "al-monitor.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T06:16:00Z",
-      "publishedAt": "2026-10-24T06:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.uniondemocrat.com/news/article_24f4ca53-ee50-4955-b4fb-5ea14e003994.html"
+      "url": "https://www.al-monitor.com/originals/2026/10/hormuz-data-centers-how-irans-threats-are-raising-stakes-renewed-war"
     },
     {
-      "id": "https://www.azom.com/news.aspx?newsID=65957",
-      "title": "Ultra-High-Voltage Semiconductor Switch Poised to Transform Future Power Technologies",
-      "source": "azom.com",
+      "id": "http://www.bignewsnetwork.com/news/279396018/priti-adani-pushes-for-industry-aligned-education-to-boost-india-semiconductor-ambitions",
+      "title": "Priti Adani pushes for industry-aligned education to boost India's semiconductor ambitions",
+      "source": "bignewsnetwork.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T06:16:00Z",
-      "publishedAt": "2026-10-24T06:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.azom.com/news.aspx?newsID=65957"
+      "url": "http://www.bignewsnetwork.com/news/279396018/priti-adani-pushes-for-industry-aligned-education-to-boost-india-semiconductor-ambitions"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://news.mtn.co.kr/article/2026102315340196719",
+      "title": "칩 공급망에 윤할유...AI 우려 진화 나선 젠슨 황",
+      "source": "news.mtn.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://news.mtn.co.kr/article/2026102315340196719"
+    },
     {
       "id": "https://www.fnnews.com/news/202610240200290873",
       "title": "\"반도체, 주도주 역할 끝났다\"…전문가 \"AI 투자, 다른 분야도 봐야\"",
@@ -224,16 +236,16 @@
       "url": "https://www.thehindubusinessline.com/companies/chinas-sigenergy-to-build-inverter-battery-storage-plants-in-india/article71615296.ece"
     },
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=06481286645615872&mediaCodeNo=257",
-      "title": "메타, AI 기반 광고 성능 개선에 매출 성장…목표주가 900달러로 올려-로젠블랫",
-      "source": "edaily.co.kr",
-      "language": "Korean",
+      "id": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/",
+      "title": "Are jobs promises tied to energy infrastructure being met in the Highlands?",
+      "source": "ross-shirejournal.co.uk",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T11:46:00Z",
-      "publishedAt": "2026-10-23T11:46:00Z",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=06481286645615872&mediaCodeNo=257"
+      "url": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/"
     },
     {
       "id": "https://www.investegate.co.uk/company/BIOG",
@@ -308,6 +320,42 @@
       "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513287"
     },
     {
+      "id": "https://www.al-monitor.com/originals/2026/10/hormuz-data-centers-how-irans-threats-are-raising-stakes-renewed-war",
+      "title": "From Hormuz to data centers: How Iran’s threats are raising stakes of renewed war",
+      "source": "al-monitor.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://www.al-monitor.com/originals/2026/10/hormuz-data-centers-how-irans-threats-are-raising-stakes-renewed-war"
+    },
+    {
+      "id": "http://www.bignewsnetwork.com/news/279396018/priti-adani-pushes-for-industry-aligned-education-to-boost-india-semiconductor-ambitions",
+      "title": "Priti Adani pushes for industry-aligned education to boost India's semiconductor ambitions",
+      "source": "bignewsnetwork.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "http://www.bignewsnetwork.com/news/279396018/priti-adani-pushes-for-industry-aligned-education-to-boost-india-semiconductor-ambitions"
+    },
+    {
+      "id": "https://theshillongtimes.com/2026/10/24/dr-priti-adani-calls-for-human-intelligence-skilled-talent-to-power-indias-semiconductor-mission/",
+      "title": "Dr Priti Adani calls for human intelligence, skilled talent to power India's semiconductor mission",
+      "source": "theshillongtimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://theshillongtimes.com/2026/10/24/dr-priti-adani-calls-for-human-intelligence-skilled-talent-to-power-indias-semiconductor-mission/"
+    },
+    {
       "id": "https://www.uniondemocrat.com/news/article_24f4ca53-ee50-4955-b4fb-5ea14e003994.html",
       "title": "Planning commissioners weigh questions about potential Tuolumne County data center rules",
       "source": "uniondemocrat.com",
@@ -380,42 +428,6 @@
       "url": "https://www.abc57.com/news/st-joseph-county-water-advisory-board-welcomes-local-amazon-data-center-developers"
     },
     {
-      "id": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/",
-      "title": "From tariffs to data centers, Michigan's big economic stories | Marketplace Morning Report - WDET 101.9 FM",
-      "source": "wdet.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T23:01:00Z",
-      "publishedAt": "2026-10-23T23:01:00Z",
-      "summary": "",
-      "url": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/"
-    },
-    {
-      "id": "https://www.today.com/food/snacks/lays-thanksgiving-potato-chips-holiday-flavors-review-taste-test-rcna605272",
-      "title": "Lay’s Wants Us to Eat Thanksgiving Dinner by the Handful, so I Tried the New Chips",
-      "source": "today.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:02:00Z",
-      "publishedAt": "2026-10-23T20:02:00Z",
-      "summary": "",
-      "url": "https://www.today.com/food/snacks/lays-thanksgiving-potato-chips-holiday-flavors-review-taste-test-rcna605272"
-    },
-    {
-      "id": "https://www.smh.com.au/goodfood/nsw-good-food-guide/chip-sandwiches-duck-snags-and-bad-waiters-field-notes-from-the-good-food-guide-editors-20261024-p6183i.html",
-      "title": "Chip sandwiches, duck snags and bad waiters: field notes from the Good Food Guide editors",
-      "source": "smh.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:01:00Z",
-      "publishedAt": "2026-10-23T20:01:00Z",
-      "summary": "",
-      "url": "https://www.smh.com.au/goodfood/nsw-good-food-guide/chip-sandwiches-duck-snags-and-bad-waiters-field-notes-from-the-good-food-guide-editors-20261024-p6183i.html"
-    },
-    {
       "id": "https://www.investors.com/research/ibd-stock-analysis/beone-medicines-onc-stock-oncology-biotech-breaks-out/",
       "title": "With Visions Of 177% Earnings Growth, This Biotech Tests Breakout",
       "source": "investors.com",
@@ -452,28 +464,40 @@
       "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/plentisoft/easemotion-completes-smart-manufacturing-upgrade-advances-use-of-recycled-fishing-net-fabrics-in-activewear/2452712"
     },
     {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026102314482152205",
-      "title": "오라클, ‘AI 월드 2026’ 개최…AI 현장 적용 전략 공개 예고",
-      "source": "ddaily.co.kr",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=06481286645615872&mediaCodeNo=257",
+      "title": "메타, AI 기반 광고 성능 개선에 매출 성장…목표주가 900달러로 올려-로젠블랫",
+      "source": "edaily.co.kr",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T11:46:00Z",
+      "publishedAt": "2026-10-23T11:46:00Z",
       "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026102314482152205"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=06481286645615872&mediaCodeNo=257"
     },
     {
-      "id": "https://bismarcktribune.com/news/local/article_9134572c-3dba-4cdf-bb3c-ab0b7fd3606e.html",
-      "title": "Data center forum focuses on the positives",
-      "source": "bismarcktribune.com",
+      "id": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/",
+      "title": "From tariffs to data centers, Michigan's big economic stories | Marketplace Morning Report - WDET 101.9 FM",
+      "source": "wdet.org",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-23",
       "dateRaw": "2026-10-23T23:01:00Z",
       "publishedAt": "2026-10-23T23:01:00Z",
       "summary": "",
-      "url": "https://bismarcktribune.com/news/local/article_9134572c-3dba-4cdf-bb3c-ab0b7fd3606e.html"
+      "url": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/"
+    },
+    {
+      "id": "https://www.today.com/food/snacks/lays-thanksgiving-potato-chips-holiday-flavors-review-taste-test-rcna605272",
+      "title": "Lay’s Wants Us to Eat Thanksgiving Dinner by the Handful, so I Tried the New Chips",
+      "source": "today.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-23",
+      "dateRaw": "2026-10-23T20:02:00Z",
+      "publishedAt": "2026-10-23T20:02:00Z",
+      "summary": "",
+      "url": "https://www.today.com/food/snacks/lays-thanksgiving-potato-chips-holiday-flavors-review-taste-test-rcna605272"
     },
     {
       "id": "http://www.newzealandstar.com/news/279394039/bharat-biotech-announces-equitable-malaria-vaccine-pricing-with-gavi-and-unicef-to-protect-1-million-more-children",
@@ -488,6 +512,30 @@
       "url": "http://www.newzealandstar.com/news/279394039/bharat-biotech-announces-equitable-malaria-vaccine-pricing-with-gavi-and-unicef-to-protect-1-million-more-children"
     },
     {
+      "id": "https://asia.nikkei.com/editor-s-picks/interview/sf-writer-daniel-suarez-warns-of-ai-powered-authoritarianism",
+      "title": "SF writer Daniel Suarez warns of AI-powered authoritarianism",
+      "source": "asia.nikkei.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/sf-writer-daniel-suarez-warns-of-ai-powered-authoritarianism"
+    },
+    {
+      "id": "https://www.ddaily.co.kr:443/page/view/2026102314482152205",
+      "title": "오라클, ‘AI 월드 2026’ 개최…AI 현장 적용 전략 공개 예고",
+      "source": "ddaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T01:16:00Z",
+      "publishedAt": "2026-10-24T01:16:00Z",
+      "summary": "",
+      "url": "https://www.ddaily.co.kr:443/page/view/2026102314482152205"
+    },
+    {
       "id": "https://fortune.com/2026/10/23/twilio-cmo-we-shrank-2-weeks-of-work-down-to-one/",
       "title": "Twilio CMO: We shrank 2 weeks of work down to one day with AI. Then the unsexy work began | Fortune",
       "source": "fortune.com",
@@ -498,6 +546,30 @@
       "publishedAt": "2026-10-23T11:46:00Z",
       "summary": "",
       "url": "https://fortune.com/2026/10/23/twilio-cmo-we-shrank-2-weeks-of-work-down-to-one/"
+    },
+    {
+      "id": "https://focustaiwan.tw/politics/202610240015",
+      "title": "Lin urges Taiwan-Europe cooperation on trusted AI, drone supply chains - Focus Taiwan",
+      "source": "focustaiwan.tw",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://focustaiwan.tw/politics/202610240015"
+    },
+    {
+      "id": "https://nuclear-news.net/2026/10/24/4-b1-microsoft-pulls-out-of-ai-datacentre-project-in-essex-over-power-supply-concerns/",
+      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "source": "nuclear-news.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://nuclear-news.net/2026/10/24/4-b1-microsoft-pulls-out-of-ai-datacentre-project-in-essex-over-power-supply-concerns/"
     },
     {
       "id": "http://www.phoenixherald.com/news/279395432/jh-seo-agency-expands-aeo-and-geo-services-as-early-ai-search-investment-supports-client-visibility",
@@ -560,6 +632,18 @@
       "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513196"
     },
     {
+      "id": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
+      "title": "'The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve — and Tesla should be worried",
+      "source": "techradar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
+      "summary": "",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week"
+    },
+    {
       "id": "https://www.digbycourier.ca/ai-boom-faces-growing-financial-risks-as-data-center-debt-and-costs-surge/",
       "title": "AI Boom Faces Growing Financial Risks as Data Center Debt and Costs Surge",
       "source": "digbycourier.ca",
@@ -584,169 +668,85 @@
       "url": "https://www.fnnews.com/news/202610240802375546"
     },
     {
-      "id": "https://www.bangkokpost.com/business/general/3342719/businesses-deploy-ai-in-bid-to-boost-efficiency",
-      "title": "Businesses deploy AI in bid to boost efficiency",
-      "source": "bangkokpost.com",
+      "id": "https://www.christianpost.com/news/chick-fil-a-ceo-says-no-to-ai-voice-ordering.html",
+      "title": "Chick-fil-A CEO draws line on AI: ‘Human to human’ hospitality means no AI voice ordering",
+      "source": "christianpost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T06:17:00Z",
-      "publishedAt": "2026-10-24T06:17:00Z",
+      "dateRaw": "2026-10-24T11:17:00Z",
+      "publishedAt": "2026-10-24T11:17:00Z",
       "summary": "",
-      "url": "https://www.bangkokpost.com/business/general/3342719/businesses-deploy-ai-in-bid-to-boost-efficiency"
+      "url": "https://www.christianpost.com/news/chick-fil-a-ceo-says-no-to-ai-voice-ordering.html"
     },
     {
-      "id": "https://www.prokerala.com/news/articles/a1828187.html",
-      "title": "Rogue AI threat: OpenAI to train frontier models without internet access",
-      "source": "prokerala.com",
+      "id": "https://www.penarthtimes.co.uk/news/national/26666809.tech-tycoons-must-not-allowed-let-rip-ai-minister-warns/",
+      "title": "Tech tycoons must not be allowed to ‘let rip’ with AI, minister warns",
+      "source": "penarthtimes.co.uk",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T06:16:00Z",
-      "publishedAt": "2026-10-24T06:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.prokerala.com/news/articles/a1828187.html"
+      "url": "https://www.penarthtimes.co.uk/news/national/26666809.tech-tycoons-must-not-allowed-let-rip-ai-minister-warns/"
     },
     {
-      "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
-      "title": "The Key To Successful Industrial AI Adoption: Developing Trust",
-      "source": "automationworld.com",
+      "id": "https://economictimes.indiatimes.com/ai/ai-insights/china-wont-stop-its-ai-from-going-global-but-it-wants-control-over-how-it-travels/articleshow/135168115.cms",
+      "title": "China won’t stop its AI from going global, but it wants control over how it travels",
+      "source": "economictimes.indiatimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust"
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/china-wont-stop-its-ai-from-going-global-but-it-wants-control-over-how-it-travels/articleshow/135168115.cms"
     },
     {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/24/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally",
-      "title": "Earnings flood, Fed meeting will test rickety AI market rally",
-      "source": "thestar.com.my",
+      "id": "https://www.techradar.com/pro/vzmore-ax9-max-ai-mini-pc-review",
+      "title": "The VZMORE AX9 Max AI is a stylish AI-ready mini PC with a hefty price tag",
+      "source": "techradar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally"
+      "url": "https://www.techradar.com/pro/vzmore-ax9-max-ai-mini-pc-review"
     },
     {
-      "id": "http://www.jpost.com/business-and-innovation/article-912661",
-      "title": "Israeli AI startup Vizby sold in multimillion-shekel deal | The Jerusalem Post",
-      "source": "jpost.com",
+      "id": "https://www.hampshirechronicle.co.uk/news/26666883.can-use-ai-generated-images-vinted-key-rules-know/",
+      "title": "Vinted users raise concerns over AI-generated photos as listings spark buying fears",
+      "source": "hampshirechronicle.co.uk",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "http://www.jpost.com/business-and-innovation/article-912661"
+      "url": "https://www.hampshirechronicle.co.uk/news/26666883.can-use-ai-generated-images-vinted-key-rules-know/"
     },
     {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/24/uk-government-sets-out-800-million-of-ai-security-funding",
-      "title": "UK government sets out $800 million of AI security funding",
-      "source": "thestar.com.my",
+      "id": "https://economictimes.indiatimes.com/ai/ai-insights/ai-is-finding-software-flaws-faster-and-so-are-hackers-inside-the-php-scramble/articleshow/135168257.cms",
+      "title": "AI is finding software flaws faster, and so are hackers: Inside the PHP scramble",
+      "source": "economictimes.indiatimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
+      "dateRaw": "2026-10-24T11:16:00Z",
+      "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/uk-government-sets-out-800-million-of-ai-security-funding"
-    },
-    {
-      "id": "https://www.journalgazette.net/local/local-high-schoolers-to-learn-about-future-careers-with-ai-at-rotary-conference/article_1b9660c2-51dd-4f5a-89a3-ad086827634b.html",
-      "title": "Local high schoolers to learn about future careers with AI at Rotary conference",
-      "source": "journalgazette.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
-      "summary": "",
-      "url": "https://www.journalgazette.net/local/local-high-schoolers-to-learn-about-future-careers-with-ai-at-rotary-conference/article_1b9660c2-51dd-4f5a-89a3-ad086827634b.html"
-    },
-    {
-      "id": "https://www.journalgazette.net/local/report-on-human-impact-of-ai-finds-divides-based-on-gender-age/article_747db926-81d5-435b-8104-e72c161b88b8.html",
-      "title": "Report on human impact of AI finds divides based on gender, age",
-      "source": "journalgazette.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
-      "summary": "",
-      "url": "https://www.journalgazette.net/local/report-on-human-impact-of-ai-finds-divides-based-on-gender-age/article_747db926-81d5-435b-8104-e72c161b88b8.html"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/24/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access",
-      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-      "source": "thestar.com.my",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
-      "summary": "",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access"
-    },
-    {
-      "id": "https://www.windermeresun.com/2026/10/22/is-this-black-october-is-ai-helping-or-harming-cybersecurity/",
-      "title": "Is This “Black October”/Is AI Helping Or Harming Cybersecurity?",
-      "source": "windermeresun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
-      "summary": "",
-      "url": "https://www.windermeresun.com/2026/10/22/is-this-black-october-is-ai-helping-or-harming-cybersecurity/"
-    },
-    {
-      "id": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows",
-      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-      "source": "kbia.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T23:02:00Z",
-      "publishedAt": "2026-10-23T23:02:00Z",
-      "summary": "",
-      "url": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows"
-    },
-    {
-      "id": "https://www.weau.com/2026/10/22/ethics-complaint-filed-against-congressman-derrick-van-orden-over-ai-violation-van-orden-alleges-graphic-features-real-picture/",
-      "title": "Ethics complaint filed against Congressman Derrick Van Orden over AI violation; Van Orden alleges graphic features real picture",
-      "source": "weau.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T23:02:00Z",
-      "publishedAt": "2026-10-23T23:02:00Z",
-      "summary": "",
-      "url": "https://www.weau.com/2026/10/22/ethics-complaint-filed-against-congressman-derrick-van-orden-over-ai-violation-van-orden-alleges-graphic-features-real-picture/"
-    },
-    {
-      "id": "https://thepointsguy.com/news/m-social-hotel-sunnyvale/",
-      "title": "TPG exclusive: Silicon Valley is getting a new high-tech hotel with AI assistants and a rooftop beehive - The Points Guy",
-      "source": "thepointsguy.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T23:02:00Z",
-      "publishedAt": "2026-10-23T23:02:00Z",
-      "summary": "",
-      "url": "https://thepointsguy.com/news/m-social-hotel-sunnyvale/"
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-is-finding-software-flaws-faster-and-so-are-hackers-inside-the-php-scramble/articleshow/135168257.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 340,
-    "fetchedItems": 3402,
-    "relevantItems": 47,
-    "feedBytes": 924455,
+    "poolSize": 390,
+    "fetchedItems": 4297,
+    "relevantItems": 65,
+    "feedBytes": 1232489,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
