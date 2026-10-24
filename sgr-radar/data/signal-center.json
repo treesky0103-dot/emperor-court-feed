@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오전 04:49:00",
+  "updatedAt": "2026. 10. 25. 오전 06:59:41",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -201,6 +201,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01295606645616200&mediaCodeNo=257"
         },
         {
+          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/",
+          "title": "[정책 인사이트] ‘전기 먹는 하마’ AI 데이터센터… 정부 “소비자에 전기요금 떠넘기기 안돼”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T21:46:00Z",
+          "publishedAt": "2026-10-24T21:46:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
+        },
+        {
           "id": "https://zdnet.co.kr/view/?no=20261023155138",
           "title": "\"AI 투자 불안은 기회\"…래블업, 공모가 하단 딛고 성장성 입증 나선다",
           "source": "zdnet.co.kr",
@@ -213,18 +225,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261023155138",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://biz.chosun.com/stock/finance/2026/10/22/NH576SDEANHOLPH52EFFDRI2AY/",
-          "title": "“銀 대출 금리 높인다” 지적에… 이찬진 “결정 과정 공개 검토”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T05:47:00Z",
-          "publishedAt": "2026-10-22T05:47:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/22/NH576SDEANHOLPH52EFFDRI2AY/"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226400",
@@ -296,7 +296,11 @@
         },
         {
           "word": "금리",
-          "count": 3
+          "count": 2
+        },
+        {
+          "word": "소비",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -305,6 +309,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/",
+          "title": "[정책 인사이트] ‘전기 먹는 하마’ AI 데이터센터… 정부 “소비자에 전기요금 떠넘기기 안돼”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T21:46:00Z",
+          "publishedAt": "2026-10-24T21:46:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
+        },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02751926645615872&mediaCodeNo=257",
           "title": "[마켓무버]뉴욕증시 혼조 마감…메타발 AI 투자 우려에 반도체 6%대 급락",
@@ -384,18 +400,6 @@
           "url": "https://news.mtn.co.kr/article/2026102315340196719"
         },
         {
-          "id": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/",
-          "title": "“어르신 AI로 건강 관리하세요“…실버머니 공략하는 제약·바이오",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-24",
-          "dateRaw": "2026-10-24T06:16:00Z",
-          "publishedAt": "2026-10-24T06:16:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/"
-        },
-        {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513196",
           "title": "엔비디아 진화에도 꺼지지 않는 ‘AI 빚투’ 공포…국내 반도체주까지 영향권",
           "source": "ilyo.co.kr",
@@ -435,7 +439,7 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 10
+          "count": 11
         },
         {
           "word": "반도체",
@@ -443,14 +447,10 @@
         },
         {
           "word": "데이터센터",
-          "count": 1
+          "count": 2
         },
         {
           "word": "로봇",
-          "count": 1
-        },
-        {
-          "word": "바이오",
           "count": 1
         },
         {
@@ -914,9 +914,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1572,
-    "fetchedItems": 2758,
-    "feedBytes": 772998,
+    "poolSize": 1599,
+    "fetchedItems": 2779,
+    "feedBytes": 735094,
     "rollingWindowHours": 72
   }
 }

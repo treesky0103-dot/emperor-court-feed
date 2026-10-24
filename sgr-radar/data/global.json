@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오전 04:48:57",
+  "updatedAt": "2026. 10. 25. 오전 06:59:39",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 373,
-    "passed": 27,
-    "deduped": 27,
-    "eventDeduped": 27,
+    "raw": 333,
+    "passed": 23,
+    "deduped": 23,
+    "eventDeduped": 23,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,30 +308,6 @@
       "url": "https://www.prokerala.com/news/articles/a1828203.html"
     },
     {
-      "id": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667",
-      "title": "Benjamin Netanyahu warns of banking sanctions, plans alternatives | The Jerusalem Post",
-      "source": "jpost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:01:00Z",
-      "publishedAt": "2026-10-23T20:01:00Z",
-      "summary": "",
-      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667"
-    },
-    {
-      "id": "https://www.kpax.com/investigations/russia-ukraine-war-on-the-ground/ukrainian-civilians-killed-in-russian-attacks-following-trumps-easing-of-sanctions",
-      "title": "Ukrainian civilians killed in Russian attacks following Trump’s easing of sanctions",
-      "source": "kpax.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:01:00Z",
-      "publishedAt": "2026-10-23T20:01:00Z",
-      "summary": "",
-      "url": "https://www.kpax.com/investigations/russia-ukraine-war-on-the-ground/ukrainian-civilians-killed-in-russian-attacks-following-trumps-easing-of-sanctions"
-    },
-    {
       "id": "https://www.wctrib.com/news/minnesota/rep-michelle-fischbach-talks-trade-fuel-prices-immigration-in-bid-for-reelection",
       "title": "Rep. Michelle Fischbach talks trade, fuel prices, immigration in bid for reelection",
       "source": "wctrib.com",
@@ -402,51 +378,15 @@
       "publishedAt": "2026-10-23T23:01:00Z",
       "summary": "",
       "url": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/"
-    },
-    {
-      "id": "https://www.stcatharinesstandard.ca/politics/federal/maine-senator-says-she-secured-tariff-exemptions-for-some-canadian-goods/article_3d29f49e-9a2c-51a1-9a4d-5cdc297bc771.html",
-      "title": "Maine senator says she secured tariff exemptions for some Canadian goods",
-      "source": "stcatharinesstandard.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:02:00Z",
-      "publishedAt": "2026-10-23T20:02:00Z",
-      "summary": "",
-      "url": "https://www.stcatharinesstandard.ca/politics/federal/maine-senator-says-she-secured-tariff-exemptions-for-some-canadian-goods/article_3d29f49e-9a2c-51a1-9a4d-5cdc297bc771.html"
-    },
-    {
-      "id": "https://ksevradio.com/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports/",
-      "title": "US to remove 50% tariffs on some Canadian goods to help Republicans in midterms, WSJ reports - KSEV Radio",
-      "source": "ksevradio.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:02:00Z",
-      "publishedAt": "2026-10-23T20:02:00Z",
-      "summary": "",
-      "url": "https://ksevradio.com/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports/"
-    },
-    {
-      "id": "https://www.theepochtimes.com/world/maine-sen-collins-says-trump-will-drop-tariffs-on-some-canadian-products-6108107",
-      "title": "Maine Sen. Collins Says Trump Will Drop Tariffs on Some Canadian Products",
-      "source": "theepochtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T20:01:00Z",
-      "publishedAt": "2026-10-23T20:01:00Z",
-      "summary": "",
-      "url": "https://www.theepochtimes.com/world/maine-sen-collins-says-trump-will-drop-tariffs-on-some-canadian-products-6108107"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 373,
-    "fetchedItems": 2758,
-    "relevantItems": 44,
-    "feedBytes": 772998,
+    "poolSize": 333,
+    "fetchedItems": 2779,
+    "relevantItems": 30,
+    "feedBytes": 735094,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
