@@ -1,43 +1,41 @@
 {
-  "date": "2026-10-24",
-  "planDay": "2026-10-24",
-  "planSetId": "zps-20261024-089e3f27",
-  "generatedAt": "2026-10-23T23:56:28.837Z",
-  "publishedAt": "2026-10-24T00:20:42.116Z",
+  "date": "2026-10-25",
+  "planDay": "2026-10-25",
+  "planSetId": "zps-20261025-04142705",
+  "generatedAt": "2026-10-24T23:46:39.112Z",
+  "publishedAt": "2026-10-24T23:55:26.170Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
-    "day": "2026-10-24",
-    "planSetId": "zps-20261024-089e3f27",
+    "day": "2026-10-25",
+    "planSetId": "zps-20261025-04142705",
     "titles": [
-      "우리 동네 이야기를 AI로 만들기 전에 묻습니다",
-      "공장에 AI를 들이기 전에 불량 기록부터 봅니다",
-      "고객 데이터가 옮겨가는 날, 마케터가 확인할 것들"
+      "스포츠 경기 다음 날 동료를 먼저 칭찬하는 기술",
+      "대중의 지적을 기획의 무기로 바꾸는 스토리 검증법",
+      "외부 위협 속에서 내 코드를 지키는 배포 검증법"
     ],
     "generationMode": "historical-high-quality-atomic",
-    "model": "chatgpt-scheduled-editor",
+    "model": "gemini-3.8-flash",
     "hqReady": true,
-    "contentRevision": "zcr-b91c6f77",
-    "hqVerifiedBy": "chatgpt-scheduled-editor",
-    "sealedAt": "2026-10-24T00:00:00.004Z",
-    "build": "v2.15.119",
-    "hqUpgradedAt": "2026-10-24T00:01:45.050Z",
-    "hqVerificationError": ""
+    "contentRevision": "zcr-f2ab3d70",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-10-24T23:55:25.493Z",
+    "build": "v2.15.119"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 지역문화 기획 · 제조 현장 경영 · CRM 운영을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 자기계발 · 글쓰기 · IT전문서을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
-  "model": "chatgpt-scheduled-editor",
+  "model": "gemini-3.8-flash",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-10-23T23:56:27.625Z",
+  "sourceSnapshotAt": "2026-10-24T23:46:38.502Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-10-23T23:39:29.240Z",
+    "newsUpdatedAt": "2026-10-24T23:39:38.961Z",
     "staleAdvisors": [
       "sima",
       "zhou",
@@ -46,94 +44,94 @@
       "xunyu",
       "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-10-23T23:30:26.266Z",
-    "bestsellerDataDate": "2026-10-23",
+    "bestsellerUpdatedAt": "2026-10-24T23:30:27.133Z",
+    "bestsellerDataDate": "2026-10-24",
     "stale": true,
-    "checkedAt": "2026-10-23T23:56:28.837Z",
+    "checkedAt": "2026-10-24T23:46:39.112Z",
     "policy": "confirm-and-mark",
     "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "지역문화 기획",
-      "field": "지역문화 기획",
-      "title": "우리 동네 이야기를 AI로 만들기 전에 묻습니다",
-      "concept": "지역 행사 홍보물 한 편의 제작 흐름을 따라 인터뷰 동의, 원자료 출처, AI 재구성 표시, 주민 검수, 공개 후 정정 절차를 하나의 작업 기록으로 묶는 지역 콘텐츠 실무서.",
-      "why": "한성대·성북구의 AI 지역콘텐츠 성과공유회(N22)와 대전 지역 AI·콘텐츠 협력 보도(N34)는 지역 현장에서도 AI 제작이 의제로 등장했음을 보여준다. 그러나 기사 제목만으로 사업 성과나 주민 동의 확보를 확인할 수 없다. 책은 도입 성과 대신 제작자의 책임을 다룬다.",
-      "competition": "지역 브랜딩 사례집은 결과물을, AI 제작 안내서는 도구를 보여준다. 주민의 말과 사진을 홍보물에 싣기 전 누가 무엇을 확인하고 허락받아야 하는지까지 결재 흐름으로 설명하는 데 집중한다.",
-      "reader": "구청·문화재단·마을도서관에서 주민 인터뷰와 지역 기록을 활용해 전시·홍보물을 만드는 1~5년 차 실무자",
-      "readerNeed": "AI로 행사 영상과 홍보 문구를 빨리 만들라는 요청을 받았지만 주민의 말과 사진을 어디까지 가공·공개해도 되는지 승인 기준이 없다.",
-      "marketGap": "주민 발언이 의도와 다르게 요약되거나 실제 장소가 허구 이미지로 바뀔 때 공개 여부를 판단할 실무 도구가 부족하다.",
-      "differentiation": "한 장면의 출처 카드→사용 허락 범위표→AI 가공 이력→주민 확인 요청서→게시 후 정정 기록으로 이어지는 서식. 동의를 받지 못한 장면을 대체하는 경로까지 제시한다.",
-      "diff": "한 장면의 출처 카드→사용 허락 범위표→AI 가공 이력→주민 확인 요청서→게시 후 정정 기록으로 이어지는 서식. 동의를 받지 못한 장면을 대체하는 경로까지 제시한다.",
+      "type": "자기계발",
+      "field": "자기계발",
+      "title": "스포츠 경기 다음 날 동료를 먼저 칭찬하는 기술",
+      "concept": "프로젝트 종료 직후 결과 보고서와 회의 발언에서 팀원의 조력을 명시하면서도 본인의 주도적 기여분을 상사에게 각인시키는 사내 성과 커뮤니케이션 실무서.",
+      "why": "스포츠 경기 승리 후 MVP 욕심 대신 동료를 세우겠다는 인터뷰 보도처럼, 협업 중심 조직에서는 성과 독점자가 아닌 협력적 리더십을 증명하는 자가 장기 생존한다. 그러나 기사식 미담과 달리 직장인은 양보만 하다 평가에서 누락되는 현실적 위기에 처해 있다.",
+      "competition": "《끝까지 살아남는 직장인 생존 대화법》, 《성공하는 직장인의 7가지 대화법》 등 기존 처세서는 관계 개선과 겸손의 미덕을 강조하지만, 정작 본인의 실적 기여도를 수치로 지키며 상사를 설득하는 보고용 스크립트는 다루지 않는다.",
+      "reader": "협업 성과를 내고도 보고 자리에서 말을 아끼다 무임승차자에게 공을 빼앗기거나 사내 평판을 잃을까 불안한 3~8년 차 중간관리자 및 PM.",
+      "readerNeed": "팀 분위기를 해치지 않고 동료의 반발을 사지 않으면서도, 이번 프로젝트의 핵심 설계자가 나였음을 고과 평가자에게 명확히 전달해야 하는 순간.",
+      "marketGap": "동료를 칭찬하고 공을 돌리는 행위 자체가 본인의 조율 역량과 총괄 리더십을 입증하는 근거가 되도록 설계된 실무 보고 화법이 서점가에 비어 있다.",
+      "differentiation": "성과 발표 슬라이드 기여도 명시 양식, 회의 발언 3원칙(기여 사실 수치화→협업자 역할 지정 칭찬→내 조율 결과 명시), 평가 면담용 1페이지 성과 기술 시트 제공.",
+      "diff": "성과 발표 슬라이드 기여도 명시 양식, 회의 발언 3원칙(기여 사실 수치화→협업자 역할 지정 칭찬→내 조율 결과 명시), 평가 면담용 1페이지 성과 기술 시트 제공.",
       "toc": [
-        "주민의 이야기와 공공자료의 권리 범위 구분하기",
-        "인터뷰 문장과 사진을 AI에 넣기 전에 허락받기",
-        "AI가 만든 지역 이미지를 실제 장소처럼 쓰지 않기",
-        "주민 검수에서 의견이 엇갈릴 때 승인선 정하기",
-        "공개 후 항의가 들어오면 정정과 재게시 기록 남기기"
+        "성과 발표 직전 내 기여분을 숫자로 정리하기",
+        "결정적 성공 뒤에 협업자의 이름을 먼저 호명하는 기준",
+        "동료의 노고를 인정하며 내 총괄 권한을 각인시키는 회의 화법",
+        "성과 가로채기와 사내 견제를 차단하는 상시 공유 기록법",
+        "팀의 결과물을 내 커리어 평가표로 환산하는 고과 면담 기술"
       ],
       "searchQueries": [
-        "지역문화 AI 콘텐츠 주민동의",
-        "공공기관 콘텐츠 제작 개인정보 저작권"
+        "직장인 대화법",
+        "성과 관리 커뮤니케이션"
       ],
       "bookworthiness": {
-        "durability": "생성 도구가 바뀌어도 주민 발언의 출처, 사용 허락, 정정 책임은 남는다.",
-        "repeatNeed": "사업마다 새로운 인터뷰 대상과 공개 매체가 생기므로 같은 승인 절차를 반복한다.",
-        "expansionPotential": "구술 기록, 지역축제, 도서관 전시, 관광 안내물의 다른 동의·검수 사례로 확장한다.",
+        "durability": "다직군 협업과 다면평가가 존재하는 한 성과 배분과 인정 투쟁은 모든 기업에서 영구히 발생하는 본질적 갈등이다.",
+        "repeatNeed": "분기별 프로젝트 랩업 미팅, 연말 인사고과 면담, 승진 심사 시즌마다 반복해서 열어보는 실무 지침서가 된다.",
+        "expansionPotential": "직무별(기획·개발·영업) 성과 기술문 예시 20종과 회의실 갈등 상황별 스크립트를 결합해 220쪽 분량의 실용서로 완성 가능하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "류정아",
-          "career": "《한국 축제와 지역문화 콘텐츠》 저자 · 커뮤니케이션북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《한국 축제와 지역문화 콘텐츠》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/7374431",
+          "name": "오수향",
+          "career": "《끝까지 살아남는 직장인 생존 대화법》 저자 · 넥서스BIZ",
+          "why": "YES24에서 이 기획과 인접한 주제의 《끝까지 살아남는 직장인 생존 대화법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/110712625",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "김현",
-          "career": "《지역문화 콘텐츠 제작의 실제》 저자 · 북코리아(Bookorea)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《지역문화 콘텐츠 제작의 실제》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/3691078",
+          "name": "정경진",
+          "career": "《성공하는 직장인의 7가지 대화법》 저자 · 크레듀",
+          "why": "YES24에서 이 기획과 인접한 주제의 《성공하는 직장인의 7가지 대화법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/3088028",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "김영순",
-          "career": "《지역문화 콘텐츠와 스토리텔링》 저자 · 북코리아(Bookorea)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《지역문화 콘텐츠와 스토리텔링》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/5800964",
+          "name": "김다솔",
+          "career": "《센스 있는 직장인의 대화법은 1%가 다르다》 저자 · 모모북스",
+          "why": "YES24에서 이 기획과 인접한 주제의 《센스 있는 직장인의 대화법은 1%가 다르다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/124639698",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "류정아",
-      "bestAuthor": "류정아",
+      "author": "오수향",
+      "bestAuthor": "오수향",
       "authorBrief": "",
-      "headlineCopy": "행사 영상 한 편을 빨리 만드는 것보다 중요한 것은 누구의 이야기를 어떻게 썼는지 설명할 수 있는 일이다.",
+      "headlineCopy": "공을 동료에게 돌리면서도 내 기여도를 확실히 챙기는 보고의 기술",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "주민의 신뢰를 잃지 않고 지역 콘텐츠 제작하기",
-          "홍보물 승인·수정 책임을 문서로 남기기"
+          "사내 평판 관리",
+          "인사고과 성과 인정"
         ],
         "quadrant": {
-          "audience": "니치형",
+          "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "문화재단 실무자 교육과 공공 홍보 담당자 커뮤니티에 주민 인터뷰 사용 허락 범위표를 샘플로 소개한다.",
-        "trust": "지역 기록 전문가·저작권 실무자·현장 담당자에게 가공 표시와 동의 양식을 교차 검토받는다.",
-        "conversion": "동일 인터뷰의 원문·AI 요약·검수 후 최종본을 나란히 보여주고 실제 수정 결재 양식을 제공한다.",
+        "acquisition": "블라인드 이직·커리어 게시판과 링크드인 실무자 네트워크에 '호구 되지 않고 공 인정받는 랩업 보고 템플릿'을 배포해 유입시킨다.",
+        "trust": "국내 주요 대기업 10년 차 이상 인사평가위원 5인의 다면평가 코멘트 분석과 실제 승진자 보고서 사례를 통해 신뢰성을 확보한다.",
+        "conversion": "연말 고과 면담 직전 10분 만에 본인 기여도를 정리할 수 있는 '1페이지 성과 기술 체크리스트'를 부록으로 제시해 구매를 유도한다.",
         "maxDropoff": {
           "stage": "탐색",
-          "problem": "AI 윤리 원론으로 보이면 바쁜 공공 실무자가 구매를 미룬다.",
-          "objection": "우리 기관에는 이미 동의서 양식이 있다.",
-          "solution": "기존 동의서로는 해결되지 않는 AI 재가공·재배포·정정 장면의 판단 사례를 첫 장에 제시한다."
+          "problem": "단순히 착하게 말하라는 뻔한 처세술이나 도덕책으로 오인해 이탈한다.",
+          "objection": "동료 칭찬만 하다가 내 몫과 고과를 다른 팀원에게 빼앗기는 것 아닌가?",
+          "solution": "내 기여 사실을 먼저 숫자로 박아두고 동료를 조력자로 배치하는 3단계 발언 프레임워크를 목차와 상세페이지 전면에 공개한다."
         },
-        "positioning": "주민의 이야기를 생성형 도구로 가공하는 공공 콘텐츠 실무자를 위한 제작 승인·정정 안내서."
+        "positioning": "동료의 신뢰와 인사고과의 실리를 동시에 거머쥐는 협력적 리더십의 실전 언어 전략서"
       },
       "devilsEditor": {
-        "failureReason": "공공기관 정책 일반론과 AI 도구 사용 팁을 한 권에 담으려 하면 주민 동의의 핵심이 흐려진다.",
-        "fix": "인터뷰 한 건이 홍보물로 바뀌는 제작 전 과정을 관통 사례로 고정하고 모든 장을 문서·승인·수정 결과로 끝낸다."
+        "failureReason": "도덕적 양보와 겸양의 중요성만 강조하다가 실질적인 사내 평가에서 밀려나는 무력한 지침으로 전락할 위험이 있다.",
+        "fix": "모든 챕터에 발언 스크립트와 함께 '상사가 내 기여로 인식하게 만드는 보고서 문장 표기법'을 필수로 배치해 철저히 실리 중심 실무서로 묶는다."
       },
       "scores": {
         "market": 92,
@@ -146,29 +144,29 @@
       "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "지역 콘텐츠 사업의 효과가 이미 입증됐다는 인상을 주거나 모든 AI 가공에 같은 법적 허락 방식이 적용된다고 단정할 위험.",
-      "riskResponse": "기사의 행사·협력 사실과 책의 운영 제안을 분리한다. 개인정보·초상권·저작권 적용은 현행 법률과 기관 규정을 전문가가 검토해야 한다고 명시한다.",
-      "judgment": "공공 홍보물 제작의 실제 결재 장면에 붙일 수 있는 책이다. AI 찬반 논쟁으로 확장하지 않고 인터뷰 한 건과 게시물 한 편의 책임 기록에 집중한다.",
+      "risk": "동료를 앞세우는 화법이 자칫 본인의 전문성 부족이나 자신감 결여로 상사에게 잘못 해석될 수 있다.",
+      "riskResponse": "본인의 정량적 작업 성과와 의사결정 내역을 문서로 먼저 확정한 뒤 언어적 칭찬을 덧붙이는 2단계 보고 원칙을 엄격히 적용한다.",
+      "judgment": "단순한 인성 처세가 아니라 사내 정치와 다면평가에서 실리를 챙기는 구체적 문장 양식을 제공하느냐에 이 기획의 상업적 성패가 갈린다.",
       "evidence": [
         {
-          "text": "한국 축제와 지역문화 콘텐츠 — 류정아 저",
+          "text": "끝까지 살아남는 직장인 생존 대화법 — 오수향 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/7374431"
+          "url": "https://www.yes24.com/product/goods/110712625"
         },
         {
-          "text": "한성대·성북구, ‘AI로 만드는 지역콘텐츠’ 성과공유회 개최 - 한국대학신문",
+          "text": "[현장 인터뷰] '우승 이끈 한 방' FC서울 문선민 \"MVP 욕심 없다, 동료들 밀어줄 것\" - 뉴스핌",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42UExLSlFEWFpUNnd4dndzN25NaXZJYUlkUzFzVnFaWmx2U1BiYkRLTkI3MVczQjhHVU1NTi03RG9McmJ0eG4tcXhUQkZObG4wT3E0NURjNThVMlNERjhBTXBabW03Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENnEzbm93a2xvY3d5LWdkczZucHpCWGMtMnBjTEpQMlFPaW1JbXhjX1VDUnItVHN5YThQeUFCcktldENaZFlOUGtKaHpoSnFocDlkVFBrNmRhUQ?oc=5"
         },
         {
-          "text": "지역문화 콘텐츠 제작의 실제 — 김현 저",
+          "text": "성공하는 직장인의 7가지 대화법 — 정경진 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/3691078"
+          "url": "https://www.yes24.com/product/goods/3088028"
         },
         {
-          "text": "한국 축제와 지역문화 콘텐츠 — 류정아 저",
+          "text": "센스 있는 직장인의 대화법은 1%가 다르다 — 김다솔 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/13542618"
+          "url": "https://www.yes24.com/product/goods/124639698"
         }
       ],
       "sourceChannels": [
@@ -189,40 +187,40 @@
       },
       "similarBooks": [
         {
-          "title": "한국 축제와 지역문화 콘텐츠",
-          "author": "류정아 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20120731",
-          "url": "https://www.yes24.com/product/goods/7374431",
-          "matchedQuery": "지역문화 AI 콘텐츠 주민동의",
+          "title": "끝까지 살아남는 직장인 생존 대화법",
+          "author": "오수향 저",
+          "publisher": "넥서스BIZ",
+          "publicationDate": "20220720",
+          "url": "https://www.yes24.com/product/goods/110712625",
+          "matchedQuery": "직장인 대화법",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "지역문화 콘텐츠 제작의 실제",
-          "author": "김현 저",
-          "publisher": "북코리아(Bookorea)",
-          "publicationDate": "20091215",
-          "url": "https://www.yes24.com/product/goods/3691078",
-          "matchedQuery": "지역문화 AI 콘텐츠 주민동의",
+          "title": "성공하는 직장인의 7가지 대화법",
+          "author": "정경진 저",
+          "publisher": "크레듀",
+          "publicationDate": "20081010",
+          "url": "https://www.yes24.com/product/goods/3088028",
+          "matchedQuery": "직장인 대화법",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "한국 축제와 지역문화 콘텐츠",
-          "author": "류정아 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20140630",
-          "url": "https://www.yes24.com/product/goods/13542618",
-          "matchedQuery": "지역문화 AI 콘텐츠 주민동의",
+          "title": "센스 있는 직장인의 대화법은 1%가 다르다",
+          "author": "김다솔 저",
+          "publisher": "모모북스",
+          "publicationDate": "20240124",
+          "url": "https://www.yes24.com/product/goods/124639698",
+          "matchedQuery": "직장인 대화법",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-23T23:56:21.191Z",
+        "updatedAt": "2026-10-24T23:41:08.946Z",
         "queries": [
-          "지역문화 AI 콘텐츠 주민동의",
-          "공공기관 콘텐츠 제작 개인정보 저작권"
+          "직장인 대화법",
+          "성과 관리 커뮤니케이션"
         ],
         "resultCount": 3,
         "errors": []
@@ -231,503 +229,88 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-24T00:20:33.882Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "우리 동네 이야기를 AI로 만들기 전에 묻습니다",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "AI가 그린 우리 동네\n그 전에 물어볼 게 있다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "010",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "동네 축제 현장, 주민들이 웃으며 사진을 건네는 순간",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "015",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "그 사진 뒤에 숨은 사라진 목소리를 떠올리게 된다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "030",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 허가 없이 재구성하면 신뢰는 금방 무너진다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "017",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "투명하게 기록하고, 주민에게 확인받는 과정이 답이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "031",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "AI도 인간의 약속을 기억해야 한다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "047",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-b91c6f77"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/c2ac35db-6b72-43c7-87d9-5e03ebffb2a9/nebraska_pyrrhic-symphony_sept26_andrea-shahan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nebraska pyrrhic symphony",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 텍스트의 배치와 여백을 활용한 레이아웃을 통해 실무서의 정교한 기록적 성격을 시각화하기에 적합함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "cities architecture artificial intelligence",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피 배치를 통해 실무서의 복잡한 절차와 윤리적 쟁점을 시각적 질서로 구조화하는 방식을 참고할 수 있음",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "cities architecture artificial intelligence",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/5d3beff0-5995-4f67-9cdb-6d3802702737/minn_the-carceral-surround_sept26_martyn-schmoll.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "minn the carceral surround",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "텍스트 중심의 레이아웃과 여백 활용은 실무서의 신뢰감과 기록물로서의 정체성을 시각화하기에 탁월한 레퍼런스임",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 50,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "cities architecture artificial intelligence",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/c2ac35db-6b72-43c7-87d9-5e03ebffb2a9/nebraska_pyrrhic-symphony_sept26_andrea-shahan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nebraska pyrrhic symphony",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 텍스트의 배치와 여백을 활용한 레이아웃을 통해 실무서의 정교한 기록적 성격을 시각화하기에 적합함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "cities architecture artificial intelligence",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피 배치를 통해 실무서의 복잡한 절차와 윤리적 쟁점을 시각적 질서로 구조화하는 방식을 참고할 수 있음",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "cities architecture artificial intelligence",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/5d3beff0-5995-4f67-9cdb-6d3802702737/minn_the-carceral-surround_sept26_martyn-schmoll.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "minn the carceral surround",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "텍스트 중심의 레이아웃과 여백 활용은 실무서의 신뢰감과 기록물로서의 정체성을 시각화하기에 탁월한 레퍼런스임",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 50,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "cities architecture artificial intelligence",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-b91c6f77",
-        "status": "ready",
-        "generatedAt": "2026-10-24T00:18:53.993Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 7,
-          "preShortlistCount": 7,
-          "eligibleCount": 7,
-          "scannedCount": 7,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "ohio state jk rowling and the anti trans panic",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 20,
-              "genre": 45,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 101320,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "minn the carceral surround",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 45,
-              "genre": 50,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 127092,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nebraska pyrrhic symphony",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 35,
-              "genre": 40,
-              "design": 85,
-              "score": 71,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 96222,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
-      }
+      "rank": 1
     },
     {
-      "type": "제조 현장 경영",
-      "field": "제조 현장 경영",
-      "title": "공장에 AI를 들이기 전에 불량 기록부터 봅니다",
-      "concept": "설비를 사거나 모델을 도입하기 전에 불량 정의와 검사 기록을 정리하고 한 공정에서 기존 방식과 비교 시험한 뒤 확대·중단을 결정하는 제조 현장용 AI 도입 판단서.",
-      "why": "강원 지역 제조업 AI 혁신 보도(N16)와 AI를 다층 산업 구조로 설명한 발표 보도(N20)는 AI 도입이 기업 투자 의제로 논의됨을 보여준다. 그러나 기사만으로 개별 공장의 생산성 향상이나 투자수익을 입증할 수 없다. 효과를 가정하지 않고 시험의 설계부터 시작한다.",
-      "competition": "제조 AI 기술서는 모델과 센서를, 스마트공장 사례집은 구축 후 성과를 설명한다. 작은 공장 생산팀장이 투자 전에 불량 판정 기준과 기록의 일관성을 점검하는 작업에 집중한다.",
-      "reader": "불량률과 납기 문제로 AI 검사를 검토하지만 전담 데이터팀이 없는 20~100인 제조업체 생산팀장·공장장",
-      "readerNeed": "AI 검사 도입 설명회에서 효과가 좋다는 말을 들었지만 우리 공정의 실제 문제와 시험을 시작할 지점을 판단할 숫자가 없다.",
-      "marketGap": "불량 종류·재작업 비용·검사자 판정 차이를 모른 채 기술 견적부터 받는 의사결정 공백이 있다. 같은 제품을 누가 검사해도 같은 불량으로 기록하는 기초가 먼저다.",
-      "differentiation": "불량 용어 사전, 2주 기록표, 검사자 간 판정 차이표, 기존 방식 대비 시험계획서, 오탐·미탐 비용표, 도입 중단 조건을 한 묶음으로 제공한다. 도입하지 않는 결론도 합리적 판단으로 다룬다.",
-      "diff": "불량 용어 사전, 2주 기록표, 검사자 간 판정 차이표, 기존 방식 대비 시험계획서, 오탐·미탐 비용표, 도입 중단 조건을 한 묶음으로 제공한다. 도입하지 않는 결론도 합리적 판단으로 다룬다.",
+      "type": "글쓰기",
+      "field": "글쓰기",
+      "title": "대중의 지적을 기획의 무기로 바꾸는 스토리 검증법",
+      "concept": "전문직 설정 오류와 고증 시비가 터졌을 때 사실관계 해명에 매몰되지 않고 독자가 수용하는 감정선과 서사 개연성으로 전환하는 창작 퇴고 실무서.",
+      "why": "의학 드라마 고증 논란 보도에서 나타나듯 시청자와 독자가 분노하는 지점은 단순 팩트 오류 자체가 아니라 인물의 정서적 진정성과 서사적 설득력 부재다. 창작자에게는 기계적 고증을 넘어선 서사적 납득 기술이 요구된다.",
+      "competition": "《실패 없는 웹소설 작법서》, 《초보자 웹소설 작법서》 등 기존 작법서는 흥행 클리셰나 문장론에 치중해, 연재 중 독자의 집단 지적과 고증 논란을 서사의 극적 반전으로 흡수하는 위기 대응법을 다루지 않는다.",
+      "reader": "전문직물·시대극·장르물을 연재 중이거나 투고를 앞두고 독자의 설정 지적과 댓글 피드백에 서사가 흔들리는 1~5년 차 웹소설 작가 및 시나리오 작가.",
+      "readerNeed": "엄격한 현실 사실관계와 창작물의 극적 재미 사이에서 고증 시비를 예방하고, 이미 발생한 지적을 몰입도 높은 전개로 수습해야 하는 순간.",
+      "marketGap": "완벽한 사실 검증이 불가능한 창작 현장에서 '서사적 허용'을 독자에게 설득력 있게 납득시키는 플롯 수정 점검표가 전무하다.",
+      "differentiation": "연재 전 15분 개연성 자가진단표, 전문직 설정 충돌 시 감정선 대체 4단계 매뉴얼, 독자 반발을 복선으로 치환하는 퇴고 전후 비교 사례 수록.",
+      "diff": "연재 전 15분 개연성 자가진단표, 전문직 설정 충돌 시 감정선 대체 4단계 매뉴얼, 독자 반발을 복선으로 치환하는 퇴고 전후 비교 사례 수록.",
       "toc": [
-        "우리 공장에서 불량이라고 부르는 것부터 통일하기",
-        "검사 기록에서 빠진 제품과 시간대를 찾기",
-        "AI가 없어도 해결되는 공정 문제 먼저 고치기",
-        "한 제품군에서 사람 검사와 AI 제안을 같은 조건으로 비교하기",
-        "오탐·미탐과 유지비까지 계산해 도입 또는 중단 결정하기"
+        "독자는 완벽한 사실보다 인물의 절박함에 먼저 설득된다",
+        "전문 취재의 한계와 서사적 허용선을 긋는 3가지 기준",
+        "연재 전 설정 충돌과 논란 요소를 걸러내는 베타 점검표",
+        "독자의 고증 지적을 이야기의 반전 복선으로 바꾸는 퇴고법",
+        "댓글 창의 설정 시비에 서사가 무너지지 않는 연재 멘탈 관리"
       ],
       "searchQueries": [
-        "중소제조업 AI 검사 도입 불량 데이터",
-        "제조 현장 품질관리 파일럿 비용"
+        "웹소설 작법서",
+        "스토리텔링 기획"
       ],
       "bookworthiness": {
-        "durability": "검사 장비와 모델이 달라져도 불량 정의·판정 일치·오탐 비용·투자 검증은 남는다.",
-        "repeatNeed": "제품·라인·원자재가 바뀔 때마다 같은 시험표로 투자 여부를 판단한다.",
-        "expansionPotential": "외관 검사, 납기 예측, 설비 이상 감지 등 공정별 다른 파일럿을 같은 판단 틀로 비교한다.",
+        "durability": "웹툰, 웹소설, 드라마 등 콘텐츠 플랫폼 댓글 문화가 유지되는 한 창작자의 고증 논란과 개연성 시비는 상시적으로 발생한다.",
+        "repeatNeed": "새로운 작품을 기획할 때마다, 그리고 회차별 연재 중 독자 반발이 일어날 때마다 즉각적인 해결책을 위해 반복 참조된다.",
+        "expansionPotential": "실제 흥행작과 논란작의 서사 구조 비교, 설정 구멍 수습 전후 원고 대비를 통해 210쪽 분량의 전문 창작 교본으로 확립 가능하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "정태훈",
-          "career": "《자동차정비 관리사업을 위한 현장 경영 실무》 저자 · 삼성북스(삼성실업)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《자동차정비 관리사업을 위한 현장 경영 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/4700295",
+          "name": "윤재",
+          "career": "《실패 없는 웹소설 작법서》 저자 · 아이생각(디지털북스)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《실패 없는 웹소설 작법서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/107663528",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "김규성",
-          "career": "《자동차정비 관리사업을 위한 현장 경영 실무》 저자 · 삼성북스(삼성실업)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《자동차정비 관리사업을 위한 현장 경영 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/4700295",
+          "name": "염형운",
+          "career": "《초보자 웹소설 작법서》 저자 · 국학자료원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《초보자 웹소설 작법서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/152651734",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "이건화",
-          "career": "《자동차정비 관리사업을 위한 현장 경영 실무》 저자 · 삼성북스(삼성실업)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《자동차정비 관리사업을 위한 현장 경영 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/4700295",
+          "name": "팔각",
+          "career": "《웹소설 일러스트 작법서》 저자 · 디지털북스",
+          "why": "YES24에서 이 기획과 인접한 주제의 《웹소설 일러스트 작법서》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/109187043",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "정태훈",
-      "bestAuthor": "정태훈",
+      "author": "윤재",
+      "bestAuthor": "윤재",
       "authorBrief": "",
-      "headlineCopy": "AI 견적서를 받기 전에 우리 공장의 불량이 어떻게 기록되고 있는지부터 확인하라.",
+      "headlineCopy": "고증 시비를 극적 몰입으로 바꾸는 대중 서사 퇴고의 원칙",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "설비 투자 실패를 피하기",
-          "불량 기록을 현장 개선에 바로 활용하기"
+          "연재 중단 방지",
+          "독자 몰입도 극대화"
         ],
         "quadrant": {
           "audience": "니치형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "제조업 협회·산업단지 현장 교육에서 불량 정의표와 시험 중단 기준을 먼저 공개한다.",
-        "trust": "품질관리 실무자와 중소 제조업 공장장의 교차 검토를 거쳐 실제 기입 가능한 양식인지 확인한다.",
-        "conversion": "도입을 결정한 사례뿐 아니라 기록 부족으로 보류한 실습 사례를 함께 제공한다.",
+        "acquisition": "문피아·조아라 작가 라운지와 스토리 창작 지망생 아카데미에 '연재 1화 전 확인하는 개연성 붕괴 방지표'를 배포한다.",
+        "trust": "현직 웹소설 전문 편집자와 드라마 기획 PD의 실제 원고 피드백 수정 로그를 검증 근거로 제시해 현장성을 담보한다.",
+        "conversion": "실제 독자 항의 댓글 유형 5가지와 이에 대응해 플롯을 우회 수습하는 수정 전후 스크립트를 상세페이지에 공개한다.",
         "maxDropoff": {
           "stage": "탐색",
-          "problem": "개발자용 AI 교재로 보이면 생산팀장이 펼치지 않는다.",
-          "objection": "우리 공장에는 데이터를 분석할 직원이 없다.",
-          "solution": "모델 학습보다 종이·스프레드시트 기록과 한 공정의 비교표로 시작한다."
+          "problem": "창작을 규칙으로 옭아매려는 진부한 문예창작 이론서로 보아 지나친다.",
+          "objection": "이야기는 작가의 영감과 감각인데 체크리스트 몇 개로 오류가 해결되겠는가?",
+          "solution": "실제 방영 드라마와 웹소설에서 설정 구멍을 캐릭터의 심리적 결함으로 치환해 대박을 터뜨린 구체적 장면 교정 사례를 보여준다."
         },
-        "positioning": "AI 설비 투자 전에 현장 데이터의 신뢰성과 시험 비용부터 따져 보는 중소공장 관리자용 의사결정 실무서."
+        "positioning": "독자의 날선 지적을 서사의 강력한 몰입 장치로 전환하는 창작 위기관리 교본"
       },
       "devilsEditor": {
-        "failureReason": "기술 낙관론에 기대어 ROI 수치를 임의로 넣으면 투자 판단을 왜곡한다.",
-        "fix": "모든 장에 기록할 숫자·확인할 현장 조건·중단 기준을 두고 효과는 검증 전까지 가설로 표기한다."
+        "failureReason": "특정 드라마나 특정 전문직 장르의 사례 분석에만 치우쳐 웹소설이나 일반 서사 창작자가 자기 작품에 적용하기 어려울 수 있다.",
+        "fix": "전문직 팩트 문제를 포함해 판타지 설정 충돌, 로맨스 감정선 붕괴 등 대중 서사 전반의 보편적 개연성 구조로 공식화한다."
       },
       "scores": {
         "market": 92,
@@ -740,29 +323,29 @@
       "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "AI 도입이 반드시 불량률을 낮춘다는 과장과 가상의 수익률을 실제 사례처럼 제시할 위험.",
-      "riskResponse": "숫자는 독자가 채우는 예시 서식으로만 제시하고 표본 수·비교 조건·유지비를 명시한다. 기계 안전이나 품질 인증에 영향을 주는 변경은 전문 검토를 전제한다.",
-      "judgment": "AI를 도입하라는 책이 아니라 도입하지 않을 근거까지 마련하라는 판단서로 차별화한다. 모델 설명보다 불량 기록의 신뢰성에 집중해야 한다.",
+      "risk": "고증보다 감정이 우선이라는 논리가 자칫 창작자의 부실한 취재와 게으른 설정을 정당화하는 면죄부로 오용될 위험이 있다.",
+      "riskResponse": "1차 팩트 취재의 필수 기준선을 먼저 정의하고, 서사적 변형이 허용되는 한계와 독자 고지 방식을 단계별로 명시한다.",
+      "judgment": "단순 고증 비법서가 아니라 창작자가 독자의 공격적 피드백을 플롯 안으로 흡수하는 위기 대응 실무를 완성하느냐가 판매를 결정한다.",
       "evidence": [
         {
-          "text": "자동차정비 관리사업을 위한 현장 경영 실무 — 정태훈,김규성,이건화 공저",
+          "text": "실패 없는 웹소설 작법서 — 윤재 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/4700295"
+          "url": "https://www.yes24.com/product/goods/107663528"
         },
         {
-          "text": "[AI시대 강원경제 대도약]제조업부터 문화 콘텐츠까지⋯미래산업 ‘AI 혁신 날개’ 활짝 - 강원일보",
+          "text": "‘닥터X’ 의료고증 논란, 결국 ‘허무한 해프닝’이었다… 시청자가 원한 건 ‘고증’ 아닌 ‘이해’ - 스포츠경향",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GMURWamtVMURkVWJFSDBVSERfdGNZZFM4NVBZUVhiQkhRZkctallpckx1bGttZ3NTNVYwT09FcDdDdVpVa09TRUZrak5zeVlTcGk1ejVsVEp0Q00?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05eEdrTTItWjZabmMwbm5ORFplTjVEajdrU2FPa29LVkJsS2dpSFl3T0tQdVFVemV6NlhPb1lhemhyZnRTMjNtNVpMa0s3Zl93LUFHeFJkVUlHcjNIUEHSAWNBVV95cUxQT0p1ekdXOUVJU3RjSGhfVW54TjVpWGtaYkVVYmRoU1M2NjVRUTJ5WHFDWTVWbl9LeG8zSkctQU9NTlVjV1dOd2VZLWg4ODVXZkludjk2M0lrY1VIQTFQV3FCODQ?oc=5"
         },
         {
-          "text": "현장경영이 답이다 — 김성희 저",
+          "text": "초보자 웹소설 작법서 — 염형운 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/57518786"
+          "url": "https://www.yes24.com/product/goods/152651734"
         },
         {
-          "text": "현장경영 — 오노 다이이치 저/김현영 역",
+          "text": "웹소설 일러스트 작법서 — 팔각 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/1510711"
+          "url": "https://www.yes24.com/product/goods/109187043"
         }
       ],
       "sourceChannels": [
@@ -783,40 +366,40 @@
       },
       "similarBooks": [
         {
-          "title": "자동차정비 관리사업을 위한 현장 경영 실무",
-          "author": "정태훈,김규성,이건화 공저",
-          "publisher": "삼성북스(삼성실업)",
-          "publicationDate": "20180116",
-          "url": "https://www.yes24.com/product/goods/4700295",
-          "matchedQuery": "제조 현장 경영",
+          "title": "실패 없는 웹소설 작법서",
+          "author": "윤재 저",
+          "publisher": "아이생각(디지털북스)",
+          "publicationDate": "20220310",
+          "url": "https://www.yes24.com/product/goods/107663528",
+          "matchedQuery": "웹소설 작법서",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "현장경영이 답이다",
-          "author": "김성희 저",
-          "publisher": "이모션미디어",
-          "publicationDate": "20171208",
-          "url": "https://www.yes24.com/product/goods/57518786",
-          "matchedQuery": "제조 현장 경영",
+          "title": "초보자 웹소설 작법서",
+          "author": "염형운 저",
+          "publisher": "국학자료원",
+          "publicationDate": "20250730",
+          "url": "https://www.yes24.com/product/goods/152651734",
+          "matchedQuery": "웹소설 작법서",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "현장경영",
-          "author": "오노 다이이치 저/김현영 역",
-          "publisher": "미래사",
-          "publicationDate": "20050730",
-          "url": "https://www.yes24.com/product/goods/1510711",
-          "matchedQuery": "제조 현장 경영",
+          "title": "웹소설 일러스트 작법서",
+          "author": "팔각 저",
+          "publisher": "디지털북스",
+          "publicationDate": "20220520",
+          "url": "https://www.yes24.com/product/goods/109187043",
+          "matchedQuery": "웹소설 작법서",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-23T23:56:27.040Z",
+        "updatedAt": "2026-10-24T23:41:10.090Z",
         "queries": [
-          "중소제조업 AI 검사 도입 불량 데이터",
-          "제조 현장 품질관리 파일럿 비용"
+          "웹소설 작법서",
+          "스토리텔링 기획"
         ],
         "resultCount": 3,
         "errors": []
@@ -825,538 +408,123 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-24T00:20:33.882Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "공장에 AI를 들이기 전에 불량 기록부터 봅니다",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "불량 기록을 먼저 본다면\nAI 도입이 쉬워진다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "006",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "공장 라인에서 매일 발생하는 작은 결함들",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "결함은 검사 기준과 작업자 판단 차이에서 비롯된다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "012",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "기록표로 차이를 비교하면 개선 포인트가 눈에 보인다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "불량은 데이터가 아니라 검증 과정의 빈틈이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "035",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "AI는 기록을 읽을 때, 먼저 원본을 이해해야 한다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "043",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-b91c6f77"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/2df3ffac-ab88-4e18-8baf-e3bd29a74500/nyu_fire-in-the-heart-of-the-city_sept26_rachel-perkins_illus-matteo-pericoli.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nyu fire in the heart of the city",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피 중심의 레이아웃을 활용해 데이터의 정밀함과 신뢰감을 전달하는 시각적 원리로 참고 가능함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "decluttering data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/33aabbae-8628-45d9-a38d-5951c54c10b0/penn-state_teresa-urrea_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "penn state teresa urrea",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백과 타이포그래피의 대비를 활용한 미니멀한 구성은 데이터와 기록의 본질을 다루는 신뢰감 있는 레이아웃으로 응용 가능하다.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "decluttering data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1554e60f-91cf-4347-a911-22286fcbcf1e/newsouth_trip-reports_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "newsouth trip reports",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피와 정제된 레이아웃은 데이터와 기록의 신뢰성을 강조하는 실무서에 유효한 시각적 원리임",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "decluttering data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/2df3ffac-ab88-4e18-8baf-e3bd29a74500/nyu_fire-in-the-heart-of-the-city_sept26_rachel-perkins_illus-matteo-pericoli.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nyu fire in the heart of the city",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피 중심의 레이아웃을 활용해 데이터의 정밀함과 신뢰감을 전달하는 시각적 원리로 참고 가능함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "decluttering data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/33aabbae-8628-45d9-a38d-5951c54c10b0/penn-state_teresa-urrea_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "penn state teresa urrea",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백과 타이포그래피의 대비를 활용한 미니멀한 구성은 데이터와 기록의 본질을 다루는 신뢰감 있는 레이아웃으로 응용 가능하다.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "decluttering data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1554e60f-91cf-4347-a911-22286fcbcf1e/newsouth_trip-reports_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "newsouth trip reports",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 타이포그래피와 정제된 레이아웃은 데이터와 기록의 신뢰성을 강조하는 실무서에 유효한 시각적 원리임",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "decluttering data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-b91c6f77",
-        "status": "ready",
-        "generatedAt": "2026-10-24T00:19:06.866Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 4,
-          "preShortlistCount": 4,
-          "eligibleCount": 4,
-          "scannedCount": 4,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 4,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 75,
-              "score": 57,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "newsouth trip reports",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 30,
-              "genre": 45,
-              "design": 85,
-              "score": 69,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 201038,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nyu fire in the heart of the city",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 238944,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 156524,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
-      }
+      "rank": 2
     },
     {
-      "type": "CRM 운영",
-      "field": "CRM 운영",
-      "title": "고객 데이터가 옮겨가는 날, 마케터가 확인할 것들",
-      "concept": "CRM 서비스 이전·통합·변경 시 고객의 동의 기록, 삭제 요청, 자동 발송 규칙, 접근 권한을 점검하고 시험 발송 후 이전을 승인하는 데이터 이전 체크리스트형 실무서.",
-      "why": "세일즈포스의 브레이즈 인수 관련 보도(N28)는 마케팅 기술 공급자 변경 가능성을 생각하게 한다. 보도 제목만으로 개별 기업의 데이터 이전이나 제품 통합이 확정됐다고 단정할 수 없다. 특정 거래 결과 대신 CRM 벤더 변경 때 반복되는 고객정보 보호와 운영 연속성 문제를 다룬다.",
-      "competition": "CRM 마케팅서는 세그먼트와 전환율에, 개인정보 안내서는 법률 원칙에 무게를 둔다. 시스템 전환 당일 담당자가 데이터 누락과 잘못된 메시지를 막는 확인 순서를 한 번에 제시한다.",
-      "reader": "CRM 도구 교체나 벤더 인수·통합 소식을 접하고 회원 데이터 이전과 자동 메시지 발송을 맡은 3~8년 차 이커머스 CRM 담당자",
-      "readerNeed": "플랫폼이 바뀌면 고객 목록과 발송 규칙을 그대로 옮겨도 되는지, 수신 동의와 탈퇴 기록이 누락되지 않는지 확인할 시간이 부족하다.",
-      "marketGap": "동의 철회·휴면·탈퇴 고객 상태가 새 도구에서 다르게 해석되거나 기존 자동 메시지가 중복 발송되는 문제를 운영 사고로 다루는 가이드가 필요하다.",
-      "differentiation": "이전 전 고객 상태 대조표, 목적별 동의 범위 지도, 샘플 계정 테스트, 발송 차단 스위치, 이상 발생 시 롤백 승인표, 고객 문의 응대문을 실제 전환 일정표에 연결한다.",
-      "diff": "이전 전 고객 상태 대조표, 목적별 동의 범위 지도, 샘플 계정 테스트, 발송 차단 스위치, 이상 발생 시 롤백 승인표, 고객 문의 응대문을 실제 전환 일정표에 연결한다.",
+      "type": "IT전문서",
+      "field": "IT전문서",
+      "title": "외부 위협 속에서 내 코드를 지키는 배포 검증법",
+      "concept": "전담 인프라 보안팀이 없는 소규모 팀과 1인 개발자를 위해 코드 난독화, 오픈소스 라이선스 검증, 역공학 방어를 5단계 자동화 스크립트로 정리한 배포 보안서.",
+      "why": "AI 도구를 활용한 악의적 역공학과 소스코드 탈취 위협이 현실화되면서 소프트웨어 보안은 기업 생존의 필수 조건이 되었다. 그러나 인력과 예산이 부족한 소규모 팀은 복잡한 엔터프라이즈 보안 솔루션을 도입하지 못해 취약점에 노출되어 있다.",
+      "competition": "《공개SW를 활용한 소프트웨어 개발보안 점검가이드》는 공공기관용 규제 해설에 치우치고, 《iOS 해킹과 방어》 등은 특정 플랫폼 해킹 기법 위주여서 당장 배포 파이프라인에 얹을 경량 보안 체크리스트를 주지 못한다.",
+      "reader": "오픈소스와 외부 API를 조합해 빠르게 MVP 상용 서비스를 배포해야 하는 스타트업 주니어 개발자 및 1인 풀스택 개발자.",
+      "readerNeed": "출시 납기에 쫓기면서도 소스코드 노출, 라이선스 위반 소송, 악의적 리버스 엔지니어링으로 인한 지적재산 탈취를 확실히 차단해야 하는 순간.",
+      "marketGap": "대규모 보안 감사 절차 대신 배포 빌드 단계에서 개발자가 명령어 몇 줄로 끝낼 수 있는 경량화된 보안 자동화 파이프라인 가이드가 없다.",
+      "differentiation": "CI/CD 배포 파이프라인에 복사해 넣는 15분 보안 검사 쉘 스크립트, 오픈소스 라이선스 강제 공개 방지 표, 메타데이터 자동 제거 설정 파일 제공.",
+      "diff": "CI/CD 배포 파이프라인에 복사해 넣는 15분 보안 검사 쉘 스크립트, 오픈소스 라이선스 강제 공개 방지 표, 메타데이터 자동 제거 설정 파일 제공.",
       "toc": [
-        "옮길 데이터와 옮기지 말아야 할 데이터를 구분하기",
-        "동의·철회·삭제 기록이 새 시스템에서도 같은 뜻인지 대조하기",
-        "자동 메시지 중복과 잘못된 타깃 발송을 시험 계정으로 막기",
-        "이전 당일 접근 권한과 발송 승인자를 명확히 하기",
-        "사고가 나면 발송을 멈추고 복구·고객 안내 기록 남기기"
+        "빌드 파일에서 평문 코드와 민감 정보가 새어 나가는 경로",
+        "배포 직전 빌드 산출물에서 내부 메타데이터 완전히 제거하기",
+        "오픈소스 라이선스 충돌로 소스코드가 강제 공개되는 참사 막기",
+        "외부 공격자의 디컴파일 시도를 무력화하는 실무 난독화 기법",
+        "배포 파이프라인에 심어두는 15분 자동 보안 감사 스크립트"
       ],
       "searchQueries": [
-        "CRM 데이터 이전 수신동의 검증",
-        "마케팅 자동화 도구 전환 고객정보"
+        "개발자 소프트웨어 보안",
+        "소스코드 난독화 배포"
       ],
       "bookworthiness": {
-        "durability": "CRM 제품명이 바뀌어도 동의 기록과 발송 규칙, 접근 권한의 이전 검증은 필요하다.",
-        "repeatNeed": "벤더 교체·기능 통합·대행사 변경 때마다 같은 점검표를 재사용한다.",
-        "expansionPotential": "쇼핑몰 회원, 뉴스레터 구독자, 앱 푸시 사용자 등 데이터 유형별 이전 사례로 확장한다.",
+        "durability": "소프트웨어 배포가 지속되는 한 코드 탈취, 리버스 엔지니어링, 라이선스 분쟁은 영구적으로 지속되는 개발 현장의 핵심 위협이다.",
+        "repeatNeed": "신규 서비스 릴리즈, 버전 업데이트, 외부 연동 파이프라인 구축 시마다 체크리스트로 반복 활용된다.",
+        "expansionPotential": "환경별(웹 프론트, 모바일 앱, 백엔드 컨테이너) 배포 스크립트와 가상 공격 방어 실습을 결합해 230쪽 분량으로 구성 가능하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "이나현",
-          "career": "《이게 되네? 챗GPT 미친 기획 X 마케팅 59제》 저자 · 골든래빗",
-          "why": "YES24에서 이 기획과 인접한 주제의 《이게 되네? 챗GPT 미친 기획 X 마케팅 59제》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/146492205",
+          "name": "행정안전부",
+          "career": "《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자 · 진한엠앤비",
+          "why": "YES24에서 이 기획과 인접한 주제의 《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/96883624",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "황성민",
-          "career": "《이게 되네? 챗GPT 미친 기획 X 마케팅 59제》 저자 · 골든래빗",
-          "why": "YES24에서 이 기획과 인접한 주제의 《이게 되네? 챗GPT 미친 기획 X 마케팅 59제》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/146492205",
+          "name": "한국인터넷진흥원",
+          "career": "《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자 · 진한엠앤비",
+          "why": "YES24에서 이 기획과 인접한 주제의 《공개SW를 활용한 소프트웨어 개발보안 점검가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/96883624",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "짐 스턴",
-          "career": "《인공지능 마케팅》 저자 · 한빛미디어",
-          "why": "YES24에서 이 기획과 인접한 주제의 《인공지능 마케팅》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/67090210",
+          "name": "조나단 지드자스키",
+          "career": "《보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어》 저자 · 에이콘출판사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/7415833",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "이나현",
-      "bestAuthor": "이나현",
+      "author": "행정안전부",
+      "bestAuthor": "행정안전부",
       "authorBrief": "",
-      "headlineCopy": "새 CRM이 켜지는 날 가장 먼저 확인할 숫자는 매출이 아니라 잘못 발송된 메시지가 0건인지다.",
+      "headlineCopy": "배포 버튼을 누르기 전 명령어 몇 줄로 내 코드를 보호하라",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "고객정보 이전 사고 방지",
-          "발송 실수와 고객 불만 최소화"
+          "자산 유출 방지",
+          "배포 사고 예방"
         ],
         "quadrant": {
           "audience": "니치형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "CRM 실무 커뮤니티와 이커머스 운영 교육에 전환 당일 점검표를 샘플로 공개한다.",
-        "trust": "개인정보 실무자·CRM 운영자·QA 담당자에게 각 점검표의 수행 가능성을 검토받는다.",
-        "conversion": "테스트 계정 5종과 정상·오류 메시지 시나리오, 중단·복구 결정표를 제공한다.",
+        "acquisition": "깃허브 트렌딩 리포지토리와 개발자 오픈채팅방에 '배포 전 15분 컷 보안 점검 쉘 스크립트' 샘플 코드를 배포해 개발자를 유입시킨다.",
+        "trust": "실제 스타트업의 코드 디컴파일 유출 사고 및 라이선스 피소 사례 데이터를 기반으로 방어 로직의 실효성을 교차 검증한다.",
+        "conversion": "개발 환경 CI/CD에 즉시 붙여 넣을 수 있는 '오픈소스 라이선스 충돌 자가진단 파일' 다운로드 링크를 제공해 구매로 연결한다.",
         "maxDropoff": {
           "stage": "탐색",
-          "problem": "마케팅 자동화 기능 설명서로 보이면 이전 업무 담당자의 긴급성이 전달되지 않는다.",
-          "objection": "개발팀이 데이터를 옮기므로 마케터가 할 일이 없다.",
-          "solution": "기술적 이관과 마케터가 책임질 동의·타깃·발송 내용 검증을 분리한 업무표를 제시한다."
+          "problem": "인프라 보안 전문가나 화이트해커만을 위한 난해한 보안 이론서로 오해한다.",
+          "objection": "우리 같은 소규모 사이드 프로젝트나 초기 스타트업까지 거창한 보안을 신경 써야 하나?",
+          "solution": "단 한 줄의 설정 누락으로 상용 서비스 전체 소스코드가 깃허브에 털린 실제 소규모 팀 피해 사례와 5분 방어 코드를 제시한다."
         },
-        "positioning": "CRM 도구가 바뀌는 날 고객의 동의와 발송 규칙을 끝까지 지키려는 실무자의 이전·검증 안내서."
+        "positioning": "보안팀 없는 작은 팀 개발자를 위한 배포 직전 최소 비용 코드 방어 실무서"
       },
       "devilsEditor": {
-        "failureReason": "벤더 인수 뉴스 해설이나 개인정보 법률서로 확장하면 마케팅 실무자의 즉시 행동이 사라진다.",
-        "fix": "고객 목록 이전 하루 전부터 다음 날까지의 시간순 작업 기록을 뼈대로 삼고 각 장을 실제 확인·승인 서식으로 마무리한다."
+        "failureReason": "보안 이론과 해킹 취약점 원리 설명에 치우쳐 바쁜 개발자가 실무에 즉시 적용하지 못하고 덮어버릴 위험이 있다.",
+        "fix": "배경 이론을 과감히 압축하고 '터미널에 입력할 명령어'와 '설정 파일 수정 전후 코드' 중심으로 전 장을 구성한다."
       },
       "scores": {
-        "market": 88,
+        "market": 92,
         "timing": 96,
         "difference": 95,
         "author": 86,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 93,
+      "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "벤더 인수 보도를 실제 고객정보 이전 사실로 오해하거나 법률 검토 없이 데이터 처리를 승인할 위험.",
-      "riskResponse": "기업 인수 기사와 시스템 이전 시나리오를 구분하고 국내 개인정보 관련 의무는 실제 계약과 현행 법령에 따라 법무·보안 담당자가 확인하도록 명시한다.",
-      "judgment": "CRM 담당자가 성과 개선보다 먼저 책임져야 할 이전 사고를 좁고 깊게 다룬다. 고객정보가 옮겨지는 날의 작업 순서를 끝까지 보여줘야 한다.",
+      "risk": "특정 난독화 툴이나 패키징 라이브러리의 버전 업데이트로 인해 책에 수록된 명령어가 작동하지 않게 될 위험이 있다.",
+      "riskResponse": "특정 서드파티 도구에 의존하지 않고 리눅스 표준 환경과 범용 빌드 도구에서 작동하는 근본적인 파일 정제 아키텍처를 중심으로 서술한다.",
+      "judgment": "거창한 보안 체계론을 걷어내고 바쁜 주니어 개발자가 배포 파이프라인에 즉시 꽂아 넣을 수 있는 실행 스크립트를 제공하느냐가 핵심이다.",
       "evidence": [
         {
-          "text": "이게 되네? 챗GPT 미친 기획 X 마케팅 59제 — 이나현,황성민 공저",
+          "text": "공개SW를 활용한 소프트웨어 개발보안 점검가이드 — 행정안전부,한국인터넷진흥원 공저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/146492205"
+          "url": "https://www.yes24.com/product/goods/96883624"
         },
         {
-          "text": "세일즈포스, AI 마케팅 기업 브레이즈 56억6000만달러에 인수 - 전자신문",
+          "text": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시 - AI타임스",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpUTBBNHpsVmxza0w2NkJpdVBIS2VzS2VYRjRHVVlHMVJQdFVLSHR0Vk0wa2oyZnhTUU13NkRJcndyWEN5VEFyaUdIb1hWQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QUmlESUczYVNrT0JRcGh0UUUycmJsZ2hBWG1rTWhzUUpvbHFEN3RDQUFUaGkwa04xdGlTbEE0QkNzLXY3Mkp2LTBTMldwUDRrQWdybHFWT3hrOTR5eGZ2X2UxSWs4UmFDQkE?oc=5"
         },
         {
-          "text": "인공지능 마케팅 — 짐 스턴 저/김현정 역",
+          "text": "보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어 — 조나단 지드자스키 저/민병호 역",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/67090210"
+          "url": "https://www.yes24.com/product/goods/7415833"
         },
         {
-          "text": "잠재성장률 2년 연속 반등 전망…반도체 ’착시’도 - 연합뉴스TV",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TMm8xRjUzQTZuc2RzZFN1WDdOTXlZaUpUcEctdWo2ZmhiRXotaUVsZ1BQWm9ETVctLTdObG4xZVBzVGxhN2ZCRVc3MVdFT2ZZYy1jWFdEek1KOWFMbVNYc0kxc2pDR0E?oc=5"
+          "text": "웹 애플리케이션 해킹 대작전 — 마이크 앤드류스 등저/윤근용 역/강유 감수",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/2364795"
         }
       ],
       "sourceChannels": [
@@ -1377,429 +545,50 @@
       },
       "similarBooks": [
         {
-          "title": "이게 되네? 챗GPT 미친 기획 X 마케팅 59제",
-          "author": "이나현,황성민 공저",
-          "publisher": "골든래빗",
-          "publicationDate": "20250612",
-          "url": "https://www.yes24.com/product/goods/146492205",
-          "matchedQuery": "마케팅 자동화 도구 전환 고객정보",
+          "title": "공개SW를 활용한 소프트웨어 개발보안 점검가이드",
+          "author": "행정안전부,한국인터넷진흥원 공저",
+          "publisher": "진한엠앤비",
+          "publicationDate": "20210118",
+          "url": "https://www.yes24.com/product/goods/96883624",
+          "matchedQuery": "개발자 소프트웨어 보안",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "인공지능 마케팅",
-          "author": "짐 스턴 저/김현정 역",
-          "publisher": "한빛미디어",
-          "publicationDate": "20181205",
-          "url": "https://www.yes24.com/product/goods/67090210",
-          "matchedQuery": "마케팅 자동화 도구 전환 고객정보",
+          "title": "보안 전문가와 아이폰 개발자를 위한 iOS 해킹과 방어",
+          "author": "조나단 지드자스키 저/민병호 역",
+          "publisher": "에이콘출판사",
+          "publicationDate": "20120831",
+          "url": "https://www.yes24.com/product/goods/7415833",
+          "matchedQuery": "개발자 소프트웨어 보안",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "웹 애플리케이션 해킹 대작전",
+          "author": "마이크 앤드류스 등저/윤근용 역/강유 감수",
+          "publisher": "에이콘출판사",
+          "publicationDate": "20070130",
+          "url": "https://www.yes24.com/product/goods/2364795",
+          "matchedQuery": "개발자 소프트웨어 보안",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-10-23T23:56:24.023Z",
+        "updatedAt": "2026-10-24T23:41:12.561Z",
         "queries": [
-          "CRM 데이터 이전 수신동의 검증",
-          "마케팅 자동화 도구 전환 고객정보"
+          "개발자 소프트웨어 보안",
+          "소스코드 난독화 배포"
         ],
-        "resultCount": 2,
+        "resultCount": 3,
         "errors": []
       },
       "realEditorialGate": {
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-10-24T00:20:33.882Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "고객 데이터가 옮겨가는 날, 마케터가 확인할 것들",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "데이터가 옮겨지는 순간,\n실수는 치명적이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "006",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "새 시스템에 옮기고, 고객 동의가 사라졌다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "021",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "동의 기록이 누락되고, 자동 발송이 멈추고, 오류가 쌓인다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "022",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "이는 고객 신뢰를 잃는 명백한 위험이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "이전 전 체크리스트를 바로 실행하라",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "실수 없는 이전이 곧 브랜드 보호다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "045",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-b91c6f77"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f372e013-7400-4bd8-878e-44ed6cde5dee/mcgill-queens_early-modern-maritime-recipies_sept26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens early modern maritime recipies",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "고전적 타이포그래피의 질서와 여백을 활용해 데이터의 정교한 체크리스트적 성격을 시각화할 수 있음",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Jonas-Hassen-Khemiri-The-Sisters-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Jonas-Hassen-Khemiri-The-Sisters-.jpeg",
-          "title": "The Sisters",
-          "context": "The Sisters Jonas Hassen Khemiri Rodrigo Corral Studio",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-b91c6f77",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-b91c6f77",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f372e013-7400-4bd8-878e-44ed6cde5dee/mcgill-queens_early-modern-maritime-recipies_sept26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens early modern maritime recipies",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "고전적 타이포그래피의 질서와 여백을 활용해 데이터의 정교한 체크리스트적 성격을 시각화할 수 있음",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "data numbers",
-          "sourceRevision": "zcr-b91c6f77",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Jonas-Hassen-Khemiri-The-Sisters-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Jonas-Hassen-Khemiri-The-Sisters-.jpeg",
-          "title": "The Sisters",
-          "context": "The Sisters Jonas Hassen Khemiri Rodrigo Corral Studio",
-          "styleScore": 100,
-          "role": "graphic",
-          "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-b91c6f77",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-b91c6f77",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-b91c6f77",
-        "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-24T00:19:22.058Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": false,
-        "upgradePending": true,
-        "deadlineGuaranteed": true,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "continuity",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 1,
-          "preShortlistCount": 1,
-          "eligibleCount": 1,
-          "scannedCount": 1,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 1,
-          "assessedCount": 1,
-          "selectedCount": 1,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 5,
-            "selected": 1,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:CRM Data Migration Checklist / Marketing Data Transfer Best Practices / Customer Data Transition Process",
-              "googlebooks": [
-                "specific:data numbers=0(cooldown)",
-                "ai:CRM Data Migration Checklist=0(cooldown)",
-                "ai:Marketing Data Transfer Best Practices=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:data numbers=26",
-                "ai:CRM Data Migration Checklist=0",
-                "ai:Marketing Data Transfer Best Practices=4"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "style-block": 2,
-                "offTopic": 303,
-                "low-quality": 2
-              },
-              "rawCounts": {
-                "specific": 26,
-                "nyt": 208,
-                "ai": 4,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 9,
-              "other": 0
-            }
-          },
-          "assessmentSummary": [
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            }
-          ],
-          "finalSlotRepair105": true,
-          "queries": [
-            "data numbers",
-            "CRM 운영 nonfiction books",
-            "practical nonfiction",
-            "popular nonfiction books",
-            "CRM 운영 nonfiction",
-            "new nonfiction books"
-          ],
-          "google": [
-            "data numbers:0(cooldown)",
-            "CRM 운영 nonfiction books:0(cooldown)",
-            "practical nonfiction:0(cooldown)",
-            "popular nonfiction books:0(cooldown)"
-          ],
-          "openlibrary": [
-            "data numbers:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "CRM 운영 nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "practical nonfiction:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "popular nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)"
-          ],
-          "design": "spine:30 arena:0 reedsy:24",
-          "validated": 0,
-          "gemma": 0,
-          "rejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          }
-        }
-      }
+      "rank": 3
     }
   ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261024-089e3f27",
-    "file": "cardnews/2026-10-24.json",
-    "cardCount": 6
-  },
   "fallback": true
 }
