@@ -2,21 +2,45 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오후 08:27:29",
+  "updatedAt": "2026. 10. 25. 오전 02:39:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 343,
-    "passed": 9,
-    "deduped": 9,
-    "eventDeduped": 9,
-    "displayed": 9,
+    "raw": 342,
+    "passed": 11,
+    "deduped": 11,
+    "eventDeduped": 11,
+    "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": false
+    "targetMet": true
   },
   "items": [
+    {
+      "id": "https://econotimes.com/Meta-Reports-Negative-2-12-Billion-Free-Cash-Flow-as-AI-Spending-Rises-1762646",
+      "title": "Meta Reports Negative $2.12 Billion Free Cash Flow as AI Spending Rises | EconoTimes",
+      "source": "econotimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T17:31:00Z",
+      "publishedAt": "2026-10-24T17:31:00Z",
+      "summary": "",
+      "url": "https://econotimes.com/Meta-Reports-Negative-2-12-Billion-Free-Cash-Flow-as-AI-Spending-Rises-1762646"
+    },
+    {
+      "id": "https://www.thefastmode.com/technology-solutions/50973-accenture-dell-expand-partnership-to-scale-enterprise-ai-and-modernize-infrastructure",
+      "title": "Accenture, Dell Expand Partnership to Scale Enterprise AI and Modernize Infrastructure",
+      "source": "thefastmode.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T17:31:00Z",
+      "publishedAt": "2026-10-24T17:31:00Z",
+      "summary": "",
+      "url": "https://www.thefastmode.com/technology-solutions/50973-accenture-dell-expand-partnership-to-scale-enterprise-ai-and-modernize-infrastructure"
+    },
     {
       "id": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows",
       "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
@@ -112,21 +136,33 @@
       "publishedAt": "2026-10-23T20:01:00Z",
       "summary": "",
       "url": "https://newsradio1410.iheart.com/content/2026-10-23-american-express-to-cut-5-of-jobs-as-ai-reshapes-business/"
-    },
-    {
-      "id": "https://www.thesierraleonetelegraph.com/ifc-and-west-african-stock-exchange-partner-to-strengthen-corporate-governance/",
-      "title": "IFC and West African Stock Exchange partner to strengthen corporate governance",
-      "source": "thesierraleonetelegraph.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T06:16:00Z",
-      "publishedAt": "2026-10-24T06:16:00Z",
-      "summary": "",
-      "url": "https://www.thesierraleonetelegraph.com/ifc-and-west-african-stock-exchange-partner-to-strengthen-corporate-governance/"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://econotimes.com/Meta-Reports-Negative-2-12-Billion-Free-Cash-Flow-as-AI-Spending-Rises-1762646",
+      "title": "Meta Reports Negative $2.12 Billion Free Cash Flow as AI Spending Rises | EconoTimes",
+      "source": "econotimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T17:31:00Z",
+      "publishedAt": "2026-10-24T17:31:00Z",
+      "summary": "",
+      "url": "https://econotimes.com/Meta-Reports-Negative-2-12-Billion-Free-Cash-Flow-as-AI-Spending-Rises-1762646"
+    },
+    {
+      "id": "https://www.thefastmode.com/technology-solutions/50973-accenture-dell-expand-partnership-to-scale-enterprise-ai-and-modernize-infrastructure",
+      "title": "Accenture, Dell Expand Partnership to Scale Enterprise AI and Modernize Infrastructure",
+      "source": "thefastmode.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T17:31:00Z",
+      "publishedAt": "2026-10-24T17:31:00Z",
+      "summary": "",
+      "url": "https://www.thefastmode.com/technology-solutions/50973-accenture-dell-expand-partnership-to-scale-enterprise-ai-and-modernize-infrastructure"
+    },
     {
       "id": "https://www.kbia.org/2026-10-23/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows",
       "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
@@ -239,10 +275,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 343,
-    "fetchedItems": 3644,
-    "relevantItems": 70,
-    "feedBytes": 1044762,
+    "poolSize": 342,
+    "fetchedItems": 3330,
+    "relevantItems": 39,
+    "feedBytes": 958121,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

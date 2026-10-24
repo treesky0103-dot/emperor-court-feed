@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 24. 오후 11:46:45",
+  "updatedAt": "2026. 10. 25. 오전 02:39:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 343,
-    "passed": 26,
-    "deduped": 26,
-    "eventDeduped": 26,
+    "raw": 342,
+    "passed": 25,
+    "deduped": 25,
+    "eventDeduped": 25,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -308,18 +308,6 @@
       "url": "https://www.kpax.com/investigations/russia-ukraine-war-on-the-ground/ukrainian-civilians-killed-in-russian-attacks-following-trumps-easing-of-sanctions"
     },
     {
-      "id": "https://buenosairesherald.com/politics/us-looking-with-interest-at-argentine-bill-to-toughen-sanctions-near-malvinas",
-      "title": "US ‘looking with interest’ at Argentine bill to toughen sanctions near Malvinas - Buenos Aires Herald",
-      "source": "buenosairesherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-23",
-      "dateRaw": "2026-10-23T16:31:00Z",
-      "publishedAt": "2026-10-23T16:31:00Z",
-      "summary": "",
-      "url": "https://buenosairesherald.com/politics/us-looking-with-interest-at-argentine-bill-to-toughen-sanctions-near-malvinas"
-    },
-    {
       "id": "https://www.wctrib.com/news/minnesota/rep-michelle-fischbach-talks-trade-fuel-prices-immigration-in-bid-for-reelection",
       "title": "Rep. Michelle Fischbach talks trade, fuel prices, immigration in bid for reelection",
       "source": "wctrib.com",
@@ -443,10 +431,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 343,
-    "fetchedItems": 3644,
-    "relevantItems": 70,
-    "feedBytes": 1044762,
+    "poolSize": 342,
+    "fetchedItems": 3330,
+    "relevantItems": 39,
+    "feedBytes": 958121,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
