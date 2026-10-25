@@ -2,12 +2,12 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 26. 오전 04:52:10",
+  "updatedAt": "2026. 10. 26. 오전 07:19:16",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 235,
+    "raw": 238,
     "passed": 18,
     "deduped": 18,
     "eventDeduped": 18,
@@ -200,6 +200,18 @@
       "url": "https://www.kunm.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee"
     },
     {
+      "id": "https://www.lbc.co.uk/article/trump-canada-tariffs-republicans-susan-collins-5HjdkQS_2/",
+      "title": "Trump loosens Canada tariffs in bid to help Republican senator seeking re-election in Maine | LBC",
+      "source": "lbc.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T22:16:00Z",
+      "publishedAt": "2026-10-25T22:16:00Z",
+      "summary": "",
+      "url": "https://www.lbc.co.uk/article/trump-canada-tariffs-republicans-susan-collins-5HjdkQS_2/"
+    },
+    {
       "id": "https://www.islamicinvitationturkey.com/iran-challenges-all-of-the-sanctions/",
       "title": "Iran challenges all of the sanctions - Islamic Invitation Turkey",
       "source": "islamicinvitationturkey.com",
@@ -284,18 +296,6 @@
       "url": "https://econotimes.com/Ireland-s-Central-Bank-Says-Coinbase-Case-Is-Fifth-Under-Revised-Rules-1762816"
     },
     {
-      "id": "https://ianslive.in/obama-tears-into-trump-over-iran-war-tariffs-and-grifter-presidency-at-ohio-rally--20261025075102",
-      "title": "Obama tears into Trump over Iran war, tariffs and ‘grifter’ presidency at Ohio rally",
-      "source": "ianslive.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T04:46:00Z",
-      "publishedAt": "2026-10-25T04:46:00Z",
-      "summary": "",
-      "url": "https://ianslive.in/obama-tears-into-trump-over-iran-war-tariffs-and-grifter-presidency-at-ohio-rally--20261025075102"
-    },
-    {
       "id": "https://www.zimdaily.com/article/news-2026-10-24-anti-sanctions-gala/",
       "title": "PARTY ALL NIGHT: Bindura Dances Till Dawn Against Sanctions That Washington Now Aims at the President, His Wife and His Deputy | zimDaily",
       "source": "zimdaily.com",
@@ -320,6 +320,18 @@
       "url": "https://www.digbycourier.ca/what-another-federal-reserve-rate-hike-means-for-you/"
     },
     {
+      "id": "https://ianslive.in/obama-tears-into-trump-over-iran-war-tariffs-and-grifter-presidency-at-ohio-rally--20261025075102",
+      "title": "Obama tears into Trump over Iran war, tariffs and ‘grifter’ presidency at Ohio rally",
+      "source": "ianslive.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T04:46:00Z",
+      "publishedAt": "2026-10-25T04:46:00Z",
+      "summary": "",
+      "url": "https://ianslive.in/obama-tears-into-trump-over-iran-war-tariffs-and-grifter-presidency-at-ohio-rally--20261025075102"
+    },
+    {
       "id": "https://www.cinaradio.com/2026/10/24/theyre-the-nicest-people-obama-mocks-trump-for-hitting-canada-with-tariffs/",
       "title": "‘They’re the nicest people’: Obama mocks Trump for hitting Canada with tariffs",
       "source": "cinaradio.com",
@@ -335,10 +347,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 235,
-    "fetchedItems": 3125,
-    "relevantItems": 38,
-    "feedBytes": 870614,
+    "poolSize": 238,
+    "fetchedItems": 2996,
+    "relevantItems": 33,
+    "feedBytes": 852845,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
