@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오후 10:54:28",
+  "updatedAt": "2026. 10. 26. 오전 02:25:39",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 255,
-    "passed": 21,
-    "deduped": 21,
-    "eventDeduped": 21,
+    "raw": 269,
+    "passed": 19,
+    "deduped": 19,
+    "eventDeduped": 19,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -212,16 +212,16 @@
       "url": "https://www.moroccoworldnews.com/2026/10/343690/gold-falls-to-three-month-low-oil-prices-fuel-fed-rate-concerns/"
     },
     {
-      "id": "http://www.australiannews.net/news/279396025/better-logistics-trade-pacts-policy-support-can-boost-india-rice-exports-industry-leaders-at-birc-2026",
-      "title": "Better logistics, trade pacts, policy support can boost India's rice exports: Industry leaders at BIRC 2026",
-      "source": "australiannews.net",
+      "id": "https://www.therecord.com/business/well-known-evil-empire-barack-obama-mocks-president-trump-s-tariff-war-with-canada/article_0e6ecda8-52a5-5708-839b-632993f18bc5.html",
+      "title": "‘Well-known evil empire’: Barack Obama mocks President Trump’s tariff war with Canada",
+      "source": "therecord.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T14:32:00Z",
-      "publishedAt": "2026-10-24T14:32:00Z",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T17:17:00Z",
+      "publishedAt": "2026-10-25T17:17:00Z",
       "summary": "",
-      "url": "http://www.australiannews.net/news/279396025/better-logistics-trade-pacts-policy-support-can-boost-india-rice-exports-industry-leaders-at-birc-2026"
+      "url": "https://www.therecord.com/business/well-known-evil-empire-barack-obama-mocks-president-trump-s-tariff-war-with-canada/article_0e6ecda8-52a5-5708-839b-632993f18bc5.html"
     },
     {
       "id": "https://link.springer.com/referencework/10.1007/978-3-031-47227-5",
@@ -308,18 +308,6 @@
       "url": "https://www.wtvr.com/news/local-news/meet-the-candidates-robert-murray-4th-district-house-race-oct-24-2026"
     },
     {
-      "id": "https://www.mondaq.com:443/unitedstates/financial-services/1858670/federal-reserve-board-proposes-comprehensive-reforms-to-rules-on-lending-to-insiders",
-      "title": "Federal Reserve Board Proposes Comprehensive Reforms To Rules On Lending To Insiders",
-      "source": "mondaq.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T14:31:00Z",
-      "publishedAt": "2026-10-24T14:31:00Z",
-      "summary": "",
-      "url": "https://www.mondaq.com:443/unitedstates/financial-services/1858670/federal-reserve-board-proposes-comprehensive-reforms-to-rules-on-lending-to-insiders"
-    },
-    {
       "id": "https://ianslive.in/obama-tears-into-trump-over-iran-war-tariffs-and-grifter-presidency-at-ohio-rally--20261025075102",
       "title": "Obama tears into Trump over Iran war, tariffs and ‘grifter’ presidency at Ohio rally",
       "source": "ianslive.in",
@@ -330,18 +318,6 @@
       "publishedAt": "2026-10-25T04:46:00Z",
       "summary": "",
       "url": "https://ianslive.in/obama-tears-into-trump-over-iran-war-tariffs-and-grifter-presidency-at-ohio-rally--20261025075102"
-    },
-    {
-      "id": "https://cobrapost.com/blog/karnataka-allows-prosecution-sanction-against-ias-officer-in-exam-scam",
-      "title": "Karnataka Allows Prosecution Sanction Against IAS Officer In Exam Scam",
-      "source": "cobrapost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T14:31:00Z",
-      "publishedAt": "2026-10-24T14:31:00Z",
-      "summary": "",
-      "url": "https://cobrapost.com/blog/karnataka-allows-prosecution-sanction-against-ias-officer-in-exam-scam"
     },
     {
       "id": "https://www.cinaradio.com/2026/10/24/theyre-the-nicest-people-obama-mocks-trump-for-hitting-canada-with-tariffs/",
@@ -359,10 +335,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 255,
-    "fetchedItems": 3892,
-    "relevantItems": 40,
-    "feedBytes": 1097043,
+    "poolSize": 269,
+    "fetchedItems": 3704,
+    "relevantItems": 65,
+    "feedBytes": 1022632,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오후 10:54:30",
+  "updatedAt": "2026. 10. 26. 오전 02:25:40",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -352,16 +352,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02751926645615872&mediaCodeNo=257"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12182879",
-          "title": "UAE 날아간 이재용 삼성그룹 회장… AI·반도체 살릴 전력 시장 집중 점검",
+          "id": "https://www.mk.co.kr/news/business/12185238",
+          "title": "삼성그룹, 하반기 GSAT 실시 … AI·반도체·바이오 채용 확대",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T15:33:39Z",
-          "publishedAt": "2026-10-22T15:33:39Z",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T17:34:00Z",
+          "publishedAt": "2026-10-25T17:34:00Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12182879",
+          "url": "https://www.mk.co.kr/news/business/12185238",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -458,7 +458,7 @@
           "count": 1
         },
         {
-          "word": "전력",
+          "word": "바이오",
           "count": 1
         },
         {
@@ -478,6 +478,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://ksenam.com/ixp/1104/p/lighthouse-ranch-belgrade/",
+          "title": "A New Youth Mental Health Center Is Planned Near Belgrade",
+          "source": "ksenam.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T17:17:00Z",
+          "publishedAt": "2026-10-25T17:17:00Z",
+          "summary": "",
+          "url": "https://ksenam.com/ixp/1104/p/lighthouse-ranch-belgrade/"
+        },
         {
           "id": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/solidarity-of-refugee-women-for-the-social-welfare-soferes/",
           "title": "Solidarity of Refugee Women for the Social Welfare (SOFERES)",
@@ -585,24 +597,12 @@
           "publishedAt": "2026-10-24T01:16:00Z",
           "summary": "",
           "url": "https://www.walb.com/2026/10/23/no-injuries-reported-after-thomas-county-school-bus-lost-control-jefferson-county/"
-        },
-        {
-          "id": "https://www.abudhabicityguide.com/news/news-details.asp?newsid=35420&newstype=Local%20News",
-          "title": "Abu Dhabi Department Of Education And Knowledge Launches Emiratization Policy For Private Education #AbuDhabi",
-          "source": "abudhabicityguide.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T11:46:00Z",
-          "publishedAt": "2026-10-23T11:46:00Z",
-          "summary": "",
-          "url": "https://www.abudhabicityguide.com/news/news-details.asp?newsid=35420&newstype=Local%20News"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 8
+          "count": 6
         },
         {
           "word": "이민",
@@ -610,6 +610,14 @@
         },
         {
           "word": "고령화",
+          "count": 1
+        },
+        {
+          "word": "정신건강",
+          "count": 1
+        },
+        {
+          "word": "청년",
           "count": 1
         }
       ],
@@ -692,18 +700,6 @@
           "url": "http://www.europesun.com/news/279392929/investopia-mediterranean-athens-kicks-off-to-build-new-bridges-for-investment-economic-cooperation-between-uae-and-greece"
         },
         {
-          "id": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece",
-          "title": "Ensure investment MoUs translate into operational projects, Naidu tells officials",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T15:47:00Z",
-          "publishedAt": "2026-10-22T15:47:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece"
-        },
-        {
           "id": "https://www.presstv.co.uk/Detail/2026/10/23/779020/Iran-US-CBI-Hemmati",
           "title": "CBI chief: Iran reserves can sustain imports beyond Trump’s term amid ‘failed’ US economic pressure",
           "source": "presstv.co.uk",
@@ -738,6 +734,18 @@
           "publishedAt": "2026-10-24T14:31:00Z",
           "summary": "",
           "url": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/"
+        },
+        {
+          "id": "https://biz.chosun.com/international/international_general/2026/10/24/N3SO5FKM7ZHLLFZLBTZDJJBG5U/",
+          "title": "美, 중동 대사관 4곳 인력 축소… “이란, 미국인 겨냥 위협 강화”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T06:16:00Z",
+          "publishedAt": "2026-10-24T06:16:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/24/N3SO5FKM7ZHLLFZLBTZDJJBG5U/"
         }
       ],
       "keywords": [
@@ -747,7 +755,7 @@
         },
         {
           "word": "투자",
-          "count": 4
+          "count": 3
         },
         {
           "word": "무역",
@@ -785,16 +793,16 @@
           "url": "https://www.fnnews.com/news/202610231603563207"
         },
         {
-          "id": "https://247wallst.com/companies/tsm/",
-          "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Price, News & Analysis | 24/7 Wall St.",
-          "source": "247wallst.com",
+          "id": "https://www.dailypolitical.com/2026/10/25/ff-eai-robotics-targets-1-billion-by-2030-with-u-s-manufacturing-push.html",
+          "title": "FF EAI Robotics Targets $1 Billion by 2030 With U.S. Manufacturing Push",
+          "source": "dailypolitical.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T15:47:00Z",
-          "publishedAt": "2026-10-22T15:47:00Z",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T17:17:00Z",
+          "publishedAt": "2026-10-25T17:17:00Z",
           "summary": "",
-          "url": "https://247wallst.com/companies/tsm/"
+          "url": "https://www.dailypolitical.com/2026/10/25/ff-eai-robotics-targets-1-billion-by-2030-with-u-s-manufacturing-push.html"
         },
         {
           "id": "https://www.tickerreport.com/banking-finance/13635395/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sold-by-rwc-asset-management-llp.html",
@@ -895,11 +903,15 @@
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 2
+          "word": "데이터센터",
+          "count": 1
         },
         {
-          "word": "데이터센터",
+          "word": "로봇",
+          "count": 1
+        },
+        {
+          "word": "반도체",
           "count": 1
         },
         {
@@ -914,9 +926,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1245,
-    "fetchedItems": 3892,
-    "feedBytes": 1097043,
+    "poolSize": 1175,
+    "fetchedItems": 3704,
+    "feedBytes": 1022632,
     "rollingWindowHours": 72
   }
 }
