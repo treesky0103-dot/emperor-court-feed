@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오전 06:59:41",
+  "updatedAt": "2026. 10. 25. 오전 09:13:11",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -227,20 +227,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226400",
-          "title": "[굿모닝경제] 수입산 소고기 너마저 / 정규-비정규 임금격차 또 벌어져 / 한강벨트 타고 '국평 30억' 번져",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T22:00:00Z",
-          "publishedAt": "2026-10-21T22:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226400",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.fnnews.com/news/202610231555489108",
           "title": "신현송 한은 총재 \"고성장·고금리 상황에 대비해 정책 펴겠다\"",
           "source": "fnnews.com",
@@ -277,6 +263,20 @@
           "url": "https://biz.heraldcorp.com/article/10913038"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226728",
+          "title": "[속보]코스피 5550.30(▲16.53p, 0.30%) 마감, 원·달러 환율 1324.7원",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T06:39:00Z",
+          "publishedAt": "2026-10-23T06:39:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226728",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://womannews.net/detail.php?number=457555&thread=22r04r03%20style=",
           "title": "평택시, 엑셀리스 반도체 장비 아시아 운영센터 착공…575억 원 투자",
           "source": "womannews.net",
@@ -300,6 +300,10 @@
         },
         {
           "word": "소비",
+          "count": 1
+        },
+        {
+          "word": "환율",
           "count": 1
         }
       ],
@@ -424,22 +428,22 @@
           "url": "http://kr.xinhuanet.com/20261023/2ce9c8a85e0646b682449db6f1008d3d/c.html"
         },
         {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026102115360182358",
-          "title": "[AI 표준 전쟁 ②] AI 데이터센터, 이젠 ‘추론 효율’로 잰다…표준 주도권 경쟁 시작",
-          "source": "ddaily.co.kr",
+          "id": "https://biz.heraldcorp.com/article/10912356",
+          "title": "“코스피 바닥 어딜까”…‘AI 위기론’에 3%대 폭락 [투자360]",
+          "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-10-21",
-          "dateRaw": "2026-10-21T22:31:00Z",
-          "publishedAt": "2026-10-21T22:31:00Z",
+          "date": "2026-10-23",
+          "dateRaw": "2026-10-23T01:17:00Z",
+          "publishedAt": "2026-10-23T01:17:00Z",
           "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026102115360182358"
+          "url": "https://biz.heraldcorp.com/article/10912356"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 11
+          "count": 10
         },
         {
           "word": "반도체",
@@ -447,7 +451,7 @@
         },
         {
           "word": "데이터센터",
-          "count": 2
+          "count": 1
         },
         {
           "word": "로봇",
@@ -628,6 +632,18 @@
           "url": "https://wdet.org/2026/10/23/from-tariffs-to-data-centers-michigans-big-economic-stories-marketplace-morning-report/"
         },
         {
+          "id": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
+          "title": "The world's biggest producer of maple syrup has nearly exhausted its strategic reserves after Americans hoarded supplies ahead of Trump's tariffs | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T00:01:00Z",
+          "publishedAt": "2026-10-25T00:01:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/"
+        },
+        {
           "id": "https://www.koreatimes.co.kr/world/20261024/us-treasury-proposes-expanding-tech-investment-restrictions-to-n-korea",
           "title": "US Treasury proposes expanding tech investment restrictions to N. Korea - The Korea Times",
           "source": "koreatimes.co.kr",
@@ -662,18 +678,6 @@
           "publishedAt": "2026-10-23T06:01:00Z",
           "summary": "",
           "url": "https://cbn.co.za/industry-news/manufacturing-news/city-brings-south-africas-manufacturing-industry-to-cape-town-to-unlock-growth-and-investment/"
-        },
-        {
-          "id": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-          "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-          "source": "cnbc.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T01:17:00Z",
-          "publishedAt": "2026-10-23T01:17:00Z",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html"
         },
         {
           "id": "http://www.europesun.com/news/279392929/investopia-mediterranean-athens-kicks-off-to-build-new-bridges-for-investment-economic-cooperation-between-uae-and-greece",
@@ -743,7 +747,7 @@
         },
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "무역",
@@ -914,9 +918,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1599,
-    "fetchedItems": 2779,
-    "feedBytes": 735094,
+    "poolSize": 1441,
+    "fetchedItems": 2354,
+    "feedBytes": 635763,
     "rollingWindowHours": 72
   }
 }
