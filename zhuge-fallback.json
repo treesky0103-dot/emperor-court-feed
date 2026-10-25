@@ -3,7 +3,7 @@
   "planDay": "2026-10-25",
   "planSetId": "zps-20261025-04142705",
   "generatedAt": "2026-10-24T23:46:39.112Z",
-  "publishedAt": "2026-10-25T00:25:06.499Z",
+  "publishedAt": "2026-10-25T01:01:02.501Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -462,8 +462,8 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-f2ab3d70",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-25T00:19:04.661Z",
-        "model": "deterministic-approved-local",
+        "generatedAt": "2026-10-25T00:26:00.461Z",
+        "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": false,
         "upgradePending": true,
@@ -471,107 +471,12 @@
         "deadlineAtKst": "09:25",
         "qualityTier": "continuity",
         "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 0,
-          "preShortlistCount": 0,
-          "eligibleCount": 0,
-          "scannedCount": 0,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 7,
-          "shortlistCount": 0,
-          "assessedCount": 0,
-          "selectedCount": 0,
+          "candidateBank": true,
+          "reusableCandidates": 7,
           "metadataHqRecovery": 0,
-          "expandedRecovery": {
-            "used": true,
-            "raw": 24,
-            "checked": 14,
-            "validated": 7,
-            "selected": 0,
-            "diag": {
-              "nyt": "auth-401:208",
-              "ai": "ok:Internal Communication Skills / Leadership Performance Review Techniques / Self Development Workplace Communication",
-              "googlebooks": [
-                "specific:technology future leadership management=0(cooldown)",
-                "specific:technology future=0(cooldown)",
-                "ai:Internal Communication Skills=0(cooldown)",
-                "ai:Leadership Performance Review Techniques=0(cooldown)",
-                "specific:leadership management reading=0(cooldown)"
-              ],
-              "openlibrary": [
-                "specific:technology future leadership management=20",
-                "specific:technology future=20",
-                "ai:Leadership Performance Review Techniques=8",
-                "specific:leadership management reading=17",
-                "ai:Internal Communication Skills=0(PUBLIC_FETCH_TIMEOUT)"
-              ],
-              "design": "spine:30 arena:40 reedsy:24",
-              "rejected": {
-                "low-quality": 5,
-                "style-block": 1,
-                "offTopic": 307
-              },
-              "rawCounts": {
-                "specific": 57,
-                "nyt": 208,
-                "ai": 8,
-                "design": 94
-              }
-            },
-            "rejected": {
-              "badTitle": 0,
-              "proxyHost": 0,
-              "http": 0,
-              "fetch": 7,
-              "other": 0
-            }
-          },
-          "assessmentSummary": [],
-          "finalSlotRepair105": true,
-          "queries": [
-            "technology future leadership management",
-            "technology future",
-            "자기계발 nonfiction books",
-            "practical nonfiction",
-            "popular nonfiction books",
-            "자기계발 nonfiction"
-          ],
-          "google": [
-            "technology future leadership management:0(cooldown)",
-            "technology future:0(cooldown)",
-            "자기계발 nonfiction books:0(cooldown)",
-            "practical nonfiction:0(cooldown)"
-          ],
-          "openlibrary": [
-            "technology future leadership management:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "technology future:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "자기계발 nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
-            "practical nonfiction:0(Too many subrequests by single Worker invocation. To configure this limit, refer)"
-          ],
-          "design": "spine:30 arena:0 reedsy:24",
-          "validated": 0,
-          "gemma": 0,
-          "rejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
+          "backfilled": 3,
+          "crossPlanReused": 0,
+          "noGemma": true
         }
       }
     },
@@ -858,6 +763,40 @@
       "coverRefs": [
         {
           "ok": true,
+          "curated": true,
+          "validated": true,
+          "validationStatus": "image-http-ok",
+          "source": "reedsy",
+          "sourceName": "Reedsy",
+          "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/393/large_69de6d68415f7a2de4f663491dd77394.jpg",
+          "sourceUrl": "https://reedsy.com/resources/book-covers/self-help/",
+          "title": "Feelings Wheel 2.0 self-help book cover design by Andy M. featuring a photographic pinwheel of rainbow-colored paper petals centered on a charcoal background.",
+          "subtitle": "",
+          "authors": [],
+          "publisher": "",
+          "year": 0,
+          "slot": "topic",
+          "selectionTier": "validated-hq-recovery-topic",
+          "curationBasis": "image-validated+source-topic-design-gate-v215103",
+          "metadataHqRecovery": true,
+          "role": "",
+          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
+          "gemmaScore": 0,
+          "gemmaTopicFit": 0,
+          "gemmaGenreFit": 0,
+          "gemmaDesignValue": 0,
+          "gemmaStatus": "metadata-validated-hq-recovery",
+          "gemmaParseStatus": "not-required",
+          "topicScore": 5,
+          "styleScore": 49,
+          "query": "psychology emotions habits self improvement",
+          "sourceRevision": "zcr-f2ab3d70",
+          "deadlineGuaranteed": false,
+          "qualityTier": "hq",
+          "upgradePending": false
+        },
+        {
+          "ok": true,
           "source": "approved60-fallback",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
           "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
@@ -886,26 +825,6 @@
           "styleScore": 100,
           "role": "graphic",
           "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-f2ab3d70",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
           "approvedFallback": true,
           "sourceRevision": "zcr-f2ab3d70",
           "validated": true,
@@ -920,6 +839,40 @@
       "coverReferences": [
         {
           "ok": true,
+          "curated": true,
+          "validated": true,
+          "validationStatus": "image-http-ok",
+          "source": "reedsy",
+          "sourceName": "Reedsy",
+          "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/393/large_69de6d68415f7a2de4f663491dd77394.jpg",
+          "sourceUrl": "https://reedsy.com/resources/book-covers/self-help/",
+          "title": "Feelings Wheel 2.0 self-help book cover design by Andy M. featuring a photographic pinwheel of rainbow-colored paper petals centered on a charcoal background.",
+          "subtitle": "",
+          "authors": [],
+          "publisher": "",
+          "year": 0,
+          "slot": "topic",
+          "selectionTier": "validated-hq-recovery-topic",
+          "curationBasis": "image-validated+source-topic-design-gate-v215103",
+          "metadataHqRecovery": true,
+          "role": "",
+          "reason": "이미지 검증과 강한 주제 연관성을 함께 통과한 참고 표지입니다.",
+          "gemmaScore": 0,
+          "gemmaTopicFit": 0,
+          "gemmaGenreFit": 0,
+          "gemmaDesignValue": 0,
+          "gemmaStatus": "metadata-validated-hq-recovery",
+          "gemmaParseStatus": "not-required",
+          "topicScore": 5,
+          "styleScore": 49,
+          "query": "psychology emotions habits self improvement",
+          "sourceRevision": "zcr-f2ab3d70",
+          "deadlineGuaranteed": false,
+          "qualityTier": "hq",
+          "upgradePending": false
+        },
+        {
+          "ok": true,
           "source": "approved60-fallback",
           "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
           "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/minor-black-figures.jpg",
@@ -948,26 +901,6 @@
           "styleScore": 100,
           "role": "graphic",
           "reason": "그래픽 참고 · 오브제·도형 중심 구성",
-          "approvedFallback": true,
-          "sourceRevision": "zcr-f2ab3d70",
-          "validated": true,
-          "validation": "approved-static-local",
-          "selectionTier": "deadline-approved-fallback",
-          "deadlineGuaranteed": true,
-          "qualityTier": "continuity",
-          "upgradePending": true,
-          "curated": true
-        },
-        {
-          "ok": true,
-          "source": "approved60-fallback",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Kate-Folk-Sky-Daddy-.jpeg",
-          "title": "Sky Daddy",
-          "context": "Sky Daddy Kate Folk Sarah Horgan",
-          "styleScore": 100,
-          "role": "experimental",
-          "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
           "approvedFallback": true,
           "sourceRevision": "zcr-f2ab3d70",
           "validated": true,
@@ -983,8 +916,8 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-f2ab3d70",
         "status": "continuity-ready-hq-pending",
-        "generatedAt": "2026-10-25T00:25:03.505Z",
-        "model": "deterministic-approved-local",
+        "generatedAt": "2026-10-25T00:26:17.105Z",
+        "model": "@cf/google/gemma-4-26b-a4b-it",
         "deadlineGuaranteed": true,
         "deadlineAtKst": "09:25",
         "displayGuaranteed": true,
@@ -992,8 +925,105 @@
         "upgradePending": true,
         "qualityTier": "continuity",
         "diagnostics": {
-          "deadlineApprovedFallback": 3,
-          "noExternalCalls": true
+          "rawFound": 30,
+          "sourceCounts": {
+            "bookcoverarchive": 0,
+            "spine": 30,
+            "googlebooks": 0,
+            "metmuseum": 0
+          },
+          "poolCount": 0,
+          "preShortlistCount": 0,
+          "eligibleCount": 0,
+          "scannedCount": 0,
+          "validationRejected": {
+            "badTitle": 0,
+            "proxyHost": 0,
+            "http": 0,
+            "fetch": 0,
+            "other": 0
+          },
+          "validatedCount": 8,
+          "shortlistCount": 0,
+          "assessedCount": 0,
+          "selectedCount": 1,
+          "metadataHqRecovery": 1,
+          "expandedRecovery": {
+            "used": true,
+            "raw": 24,
+            "checked": 14,
+            "validated": 8,
+            "selected": 1,
+            "diag": {
+              "nyt": "auth-401:208",
+              "ai": "ok:Writing Fact Checking Techniques / Creating Compelling Storylines for Fiction / Editing for Emotional Connection in Writing",
+              "googlebooks": [
+                "specific:relationships communication psychology emotions=0(cooldown)",
+                "specific:relationships communication=0(cooldown)",
+                "ai:Writing Fact Checking Techniques=0(cooldown)",
+                "ai:Creating Compelling Storylines for Fiction=0(cooldown)",
+                "specific:psychology emotions habits self improvement=0(cooldown)"
+              ],
+              "openlibrary": [
+                "specific:relationships communication psychology emotions=26",
+                "specific:relationships communication=20",
+                "ai:Creating Compelling Storylines for Fiction=1",
+                "ai:Writing Fact Checking Techniques=8",
+                "specific:psychology emotions habits self improvement=10"
+              ],
+              "design": "spine:30 arena:40 reedsy:24",
+              "rejected": {
+                "style-block": 7,
+                "low-quality": 6,
+                "offTopic": 316
+              },
+              "rawCounts": {
+                "specific": 56,
+                "nyt": 208,
+                "ai": 9,
+                "design": 94
+              }
+            },
+            "rejected": {
+              "badTitle": 0,
+              "proxyHost": 0,
+              "http": 0,
+              "fetch": 0,
+              "other": 0
+            }
+          },
+          "assessmentSummary": [],
+          "finalSlotRepair105": true,
+          "queries": [
+            "relationships communication psychology emotions",
+            "relationships communication",
+            "psychology relationships emotion practical books",
+            "글쓰기 nonfiction books",
+            "practical nonfiction",
+            "popular nonfiction books"
+          ],
+          "google": [
+            "relationships communication psychology emotions:0(cooldown)",
+            "relationships communication:0(cooldown)",
+            "psychology relationships emotion practical books:0(cooldown)",
+            "글쓰기 nonfiction books:0(cooldown)"
+          ],
+          "openlibrary": [
+            "relationships communication psychology emotions:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
+            "relationships communication:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
+            "psychology relationships emotion practical books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
+            "글쓰기 nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)"
+          ],
+          "design": "spine:30 arena:0 reedsy:24",
+          "validated": 0,
+          "gemma": 0,
+          "rejected": {
+            "badTitle": 0,
+            "proxyHost": 0,
+            "http": 0,
+            "fetch": 1,
+            "other": 0
+          }
         }
       }
     },
