@@ -6,7 +6,7 @@
       "planDay": "2026-10-25",
       "planSetId": "zps-20261025-04142705",
       "generatedAt": "2026-10-24T23:46:39.112Z",
-      "publishedAt": "2026-10-25T00:18:07.705Z",
+      "publishedAt": "2026-10-25T00:19:54.935Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -238,7 +238,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-25T00:18:00.003Z",
+            "generatedAt": "2026-10-25T00:19:47.972Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -263,82 +263,317 @@
               ]
             },
             "bookTitle": "스포츠 경기 다음 날 동료를 먼저 칭찬하는 기술",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "gemini",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "강한 선언",
-                "headline": "공을 동료에게 돌리면서도 내 기여도를 확실히 챙기는 보고의 기술",
+                "headline": "양보만 하는 사람은\n평가에서 반드시 잘린다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "001",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "warning",
                 "beat": "공감",
-                "headline": "핵심 설계자가 나였음을 고과 평가자에게 명확히 전달해야 하는 순간.",
-                "body": "",
+                "headline": "고생은 혼자 다 하고\n칭찬은 엉뚱한 사람이 받는다",
+                "body": "좋은 팀원으로 남으려다 손해만 본다.",
                 "accent": "yellow",
                 "sceneId": "026",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "구체적 증상",
-                "headline": "주도적 기여분을 상사에게 각인시키는 사내 성과 커뮤니케이션 실무서.",
-                "body": "",
+                "headline": "밤새 보고서를 쓰고도\n우리가 했다고 얼버무리고\n남 좋은 일만 시킨다",
+                "body": "무임승차자는 당신의 침묵을 이용한다.",
                 "accent": "yellow",
                 "sceneId": "029",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "판단 기준",
-                "headline": "성과 독점자가 아닌 협력적 리더십을 증명하는 자가 장기 생존한다.",
-                "body": "",
+                "headline": "협업자의 공을 세워주지\n않는 겸손은\n무능으로 기록될 뿐이다",
+                "body": "조직은 침묵을 미덕으로 보지 않는다.",
                 "accent": "yellow",
                 "sceneId": "014",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "해결",
-                "headline": "조율 결과 명시), 평가 면담용 1페이지 성과 기술 시트 제공.",
-                "body": "",
+                "headline": "동료의 조력을 명시하며\n당신의 조율 결과를\n숫자로 보고하라",
+                "body": "역할을 지정해 칭찬해야 내 지분이 산다.",
                 "accent": "yellow",
                 "sceneId": "040",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "강한 결론",
-                "headline": "실질적인 사내 평가에서 밀려나는 무력한 지침으로 전락할 위험이 있다.",
+                "headline": "성과를 증명하지 않는 배려는\n결국 자기 몫을 빼앗긴다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "042",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-f2ab3d70"
+          },
+          "coverRefs": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
+              "title": "Things in Nature Merely Grow",
+              "context": "Things in Nature Merely Grow Yiyun Li Na Kim",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "sourceRevision": "zcr-f2ab3d70",
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374609337.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374609337.jpg",
+              "title": "Dominion",
+              "context": "Dominion Addie E. Citchens Na Kim",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "sourceRevision": "zcr-f2ab3d70",
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
+              "title": "Covert Joy",
+              "context": "Covert Joy Clarice Lispector Paul Sahre",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "sourceRevision": "zcr-f2ab3d70",
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferences": [
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/12/Things-in-Nature-Merely-Grow.jpeg",
+              "title": "Things in Nature Merely Grow",
+              "context": "Things in Nature Merely Grow Yiyun Li Na Kim",
+              "styleScore": 100,
+              "role": "typography",
+              "reason": "타이포 참고 · 대형 제목과 여백 활용",
+              "approvedFallback": true,
+              "sourceRevision": "zcr-f2ab3d70",
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374609337.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/07/9780374609337.jpg",
+              "title": "Dominion",
+              "context": "Dominion Addie E. Citchens Na Kim",
+              "styleScore": 100,
+              "role": "graphic",
+              "reason": "그래픽 참고 · 오브제·도형 중심 구성",
+              "approvedFallback": true,
+              "sourceRevision": "zcr-f2ab3d70",
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            },
+            {
+              "ok": true,
+              "source": "approved60-fallback",
+              "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
+              "sourceUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/07/Clarice-Lispector-tr.-Katrina-Dodson-Covert-Joy-Selected-Stories-copy.jpg",
+              "title": "Covert Joy",
+              "context": "Covert Joy Clarice Lispector Paul Sahre",
+              "styleScore": 100,
+              "role": "experimental",
+              "reason": "실험 참고 · 사진·콜라주·타이포의 편집적 충돌",
+              "approvedFallback": true,
+              "sourceRevision": "zcr-f2ab3d70",
+              "validated": true,
+              "validation": "approved-static-local",
+              "selectionTier": "deadline-approved-fallback",
+              "deadlineGuaranteed": true,
+              "qualityTier": "continuity",
+              "upgradePending": true,
+              "curated": true
+            }
+          ],
+          "coverReferenceMeta": {
+            "version": "v2.15.58-gemma4-vision-state-safe",
+            "sourceRevision": "zcr-f2ab3d70",
+            "status": "continuity-ready-hq-pending",
+            "generatedAt": "2026-10-25T00:19:04.661Z",
+            "model": "@cf/google/gemma-4-26b-a4b-it",
+            "displayGuaranteed": true,
+            "hqReady": false,
+            "upgradePending": true,
+            "deadlineGuaranteed": true,
+            "deadlineAtKst": "09:25",
+            "qualityTier": "continuity",
+            "diagnostics": {
+              "rawFound": 30,
+              "sourceCounts": {
+                "bookcoverarchive": 0,
+                "spine": 30,
+                "googlebooks": 0,
+                "metmuseum": 0
+              },
+              "poolCount": 0,
+              "preShortlistCount": 0,
+              "eligibleCount": 0,
+              "scannedCount": 0,
+              "validationRejected": {
+                "badTitle": 0,
+                "proxyHost": 0,
+                "http": 0,
+                "fetch": 0,
+                "other": 0
+              },
+              "validatedCount": 7,
+              "shortlistCount": 0,
+              "assessedCount": 0,
+              "selectedCount": 0,
+              "metadataHqRecovery": 0,
+              "expandedRecovery": {
+                "used": true,
+                "raw": 24,
+                "checked": 14,
+                "validated": 7,
+                "selected": 0,
+                "diag": {
+                  "nyt": "auth-401:208",
+                  "ai": "ok:Internal Communication Skills / Leadership Performance Review Techniques / Self Development Workplace Communication",
+                  "googlebooks": [
+                    "specific:technology future leadership management=0(cooldown)",
+                    "specific:technology future=0(cooldown)",
+                    "ai:Internal Communication Skills=0(cooldown)",
+                    "ai:Leadership Performance Review Techniques=0(cooldown)",
+                    "specific:leadership management reading=0(cooldown)"
+                  ],
+                  "openlibrary": [
+                    "specific:technology future leadership management=20",
+                    "specific:technology future=20",
+                    "ai:Leadership Performance Review Techniques=8",
+                    "specific:leadership management reading=17",
+                    "ai:Internal Communication Skills=0(PUBLIC_FETCH_TIMEOUT)"
+                  ],
+                  "design": "spine:30 arena:40 reedsy:24",
+                  "rejected": {
+                    "low-quality": 5,
+                    "style-block": 1,
+                    "offTopic": 307
+                  },
+                  "rawCounts": {
+                    "specific": 57,
+                    "nyt": 208,
+                    "ai": 8,
+                    "design": 94
+                  }
+                },
+                "rejected": {
+                  "badTitle": 0,
+                  "proxyHost": 0,
+                  "http": 0,
+                  "fetch": 7,
+                  "other": 0
+                }
+              },
+              "assessmentSummary": [],
+              "finalSlotRepair105": true,
+              "queries": [
+                "technology future leadership management",
+                "technology future",
+                "자기계발 nonfiction books",
+                "practical nonfiction",
+                "popular nonfiction books",
+                "자기계발 nonfiction"
+              ],
+              "google": [
+                "technology future leadership management:0(cooldown)",
+                "technology future:0(cooldown)",
+                "자기계발 nonfiction books:0(cooldown)",
+                "practical nonfiction:0(cooldown)"
+              ],
+              "openlibrary": [
+                "technology future leadership management:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
+                "technology future:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
+                "자기계발 nonfiction books:0(Too many subrequests by single Worker invocation. To configure this limit, refer)",
+                "practical nonfiction:0(Too many subrequests by single Worker invocation. To configure this limit, refer)"
+              ],
+              "design": "spine:30 arena:0 reedsy:24",
+              "validated": 0,
+              "gemma": 0,
+              "rejected": {
+                "badTitle": 0,
+                "proxyHost": 0,
+                "http": 0,
+                "fetch": 0,
+                "other": 0
+              }
+            }
           }
         },
         {
@@ -522,7 +757,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-25T00:18:00.003Z",
+            "generatedAt": "2026-10-25T00:19:47.972Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -547,81 +782,78 @@
               ]
             },
             "bookTitle": "대중의 지적을 기획의 무기로 바꾸는 스토리 검증법",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "gemini",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "감성 문장",
-                "headline": "고증 시비를 극적 몰입으로 바꾸는 대중 서사 퇴고의 원칙",
+                "headline": "독자의 차가운 지적은\n이야기가 닿았다는 증거다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "007",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "장면",
-                "headline": "이미 발생한 지적을 몰입도 높은 전개로 수습해야 하는 순간.",
-                "body": "",
+                "headline": "새벽 세 시\n화면 가득 올라온\n설정 오류 댓글을 본다",
+                "body": "모니터 불빛 앞에서 손가락이 굳는다.",
                 "accent": "yellow",
                 "sceneId": "016",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "감정",
-                "headline": "독자가 수용하는 감정선과 서사 개연성으로 전환하는 창작 퇴고 실무서.",
-                "body": "",
+                "headline": "애써 쌓아 올린 세계가\n단어 하나 때문에\n무너진 것 같아 두렵다",
+                "body": "정성을 들인 장면일수록 상처는 깊다.",
                 "accent": "yellow",
                 "sceneId": "021",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "관점 전환",
-                "headline": "오류 자체가 아니라 인물의 정서적 진정성과 서사적 설득력 부재다.",
-                "body": "",
+                "headline": "하지만 독자가 화를 낸 건\n지식이 틀려서가 아니라\n몰입이 깨졌기 때문이다",
+                "body": "사람은 사실이 아니라 정서에 반응한다.",
                 "accent": "yellow",
                 "sceneId": "018",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "수용",
-                "headline": "매뉴얼, 독자 반발을 복선으로 치환하는 퇴고 전후 비교 사례 수록.",
-                "body": "",
+                "headline": "오류를 해명하려 애쓰지 말고\n그 빈틈을 인물의 결핍과\n새로운 복선으로 채우자",
+                "body": "틀린 자리는 서사가 자라는 틈이다.",
                 "accent": "yellow",
                 "sceneId": "036",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "여운",
-                "headline": "웹소설이나 일반 서사 창작자가 자기 작품에 적용하기 어려울 수 있다.",
+                "headline": "완벽한 고증보다 중요한 건\n마음을 흔드는 설득력이다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "046",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-f2ab3d70"
           }
         },
@@ -806,7 +1038,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-10-25T00:18:00.003Z",
+            "generatedAt": "2026-10-25T00:19:47.972Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -831,81 +1063,78 @@
               ]
             },
             "bookTitle": "외부 위협 속에서 내 코드를 지키는 배포 검증법",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "gemini",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "궁금증",
-                "headline": "배포 버튼을 누르기 전 명령어 몇 줄로 내 코드를 보호하라",
+                "headline": "배포 버튼을 누르는 순간\n코드가 털리는 진짜 이유",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "010",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "현상",
-                "headline": "엔지니어링으로 인한 지적재산 탈취를 확실히 차단해야 하는 순간.",
-                "body": "",
+                "headline": "마감 시간에 쫓겨 서둘러\n운영 서버로 올린 결과물이\n몇 분 만에 복제된다",
+                "body": "기능 구현에만 매달리다 빈틈을 남긴다.",
                 "accent": "yellow",
                 "sceneId": "011",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "analysis",
                 "beat": "원리",
-                "headline": "검증, 역공학 방어를 5단계 자동화 스크립트로 정리한 배포 보안서.",
-                "body": "",
+                "headline": "역공학 도구는 복잡한 코드도\n단 몇 초 만에\n원래 형태로 풀어낸다",
+                "body": "보호 장치 없는 바이너리는 껍질이 없다.",
                 "accent": "yellow",
                 "sceneId": "018",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "설명",
-                "headline": "현실화되면서 소프트웨어 보안은 기업 생존의 필수 조건이 되었다.",
-                "body": "",
+                "headline": "난독화가 빠진 배포 파일은\n핵심 로직과 설정값을\n공격자에게 그대로 노출한다",
+                "body": "오픈소스 라이선스 위반 위험까지 겹친다.",
                 "accent": "yellow",
                 "sceneId": "019",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "통찰",
-                "headline": "라이선스 강제 공개 방지 표, 메타데이터 자동 제거 설정 파일 제공.",
-                "body": "",
+                "headline": "보안은 출시 후 점검이 아니라\n배포 파이프라인 안에서\n자동으로 걸러내는 절차다",
+                "body": "스크립트 하나로 빌드 단계를 잠가야 한다.",
                 "accent": "yellow",
                 "sceneId": "039",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "핵심 메시지",
-                "headline": "바쁜 개발자가 실무에 즉시 적용하지 못하고 덮어버릴 위험이 있다.",
+                "headline": "가장 안전한 코드는\n배포 전에 스스로를 검증한다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "041",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-f2ab3d70"
           }
         }
