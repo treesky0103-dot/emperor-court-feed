@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 26. 오전 02:25:40",
+  "updatedAt": "2026. 10. 26. 오전 04:52:11",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -503,16 +503,16 @@
           "url": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/solidarity-of-refugee-women-for-the-social-welfare-soferes/"
         },
         {
-          "id": "https://www.africa-newsroom.com/press/ministry-of-education-united-nations-high-commissioner-for-refugees-unhcr-strengthen-partnership-on-refugee-education",
-          "title": "Kenya: Ministry of Education, United Nations High Commissioner for Refugees (UNHCR) Strengthen Partnership on Refugee Education.",
-          "source": "africa-newsroom.com",
+          "id": "https://link.springer.com/referencework/10.1007/978-3-031-16193-3",
+          "title": "The Palgrave Handbook of Teacher Education Research",
+          "source": "link.springer.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T19:47:00Z",
-          "publishedAt": "2026-10-22T19:47:00Z",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T19:46:00Z",
+          "publishedAt": "2026-10-25T19:46:00Z",
           "summary": "",
-          "url": "https://www.africa-newsroom.com/press/ministry-of-education-united-nations-high-commissioner-for-refugees-unhcr-strengthen-partnership-on-refugee-education"
+          "url": "https://link.springer.com/referencework/10.1007/978-3-031-16193-3"
         },
         {
           "id": "https://www.presstv.co.uk/Detail/2026/10/25/779131/France-asks-telecom-for-social-media-restrictions",
@@ -602,11 +602,11 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
         },
         {
           "word": "이민",
-          "count": 3
+          "count": 2
         },
         {
           "word": "고령화",
@@ -829,18 +829,6 @@
           "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms"
         },
         {
-          "id": "https://cbs2iowa.com/news/local/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-data-centers",
-          "title": "US is reviving shuttered nuclear plants to meet growing electricity demand, data centers",
-          "source": "cbs2iowa.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T19:47:00Z",
-          "publishedAt": "2026-10-22T19:47:00Z",
-          "summary": "",
-          "url": "https://cbs2iowa.com/news/local/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-data-centers"
-        },
-        {
           "id": "https://orissadiary.com/odisha-can-unlock-greater-in-statevalue-from-sustainable-manufacturingpahle-india-foundation-report/",
           "title": "Odisha Can Unlock Greater In-StateValue from Sustainable Manufacturing:Pahlé India Foundation Report",
           "source": "orissadiary.com",
@@ -887,6 +875,18 @@
           "publishedAt": "2026-10-24T17:32:00Z",
           "summary": "",
           "url": "http://www.jamaicantimes.com/news/279396258/ai-powered-platforms-can-help-rice-traders-access-transparent-prices-navigate-global-market-volatility-agriguru-founder"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/etimes/wellness/from-a-107-year-old-world-war-ii-veterans-love-of-fish-and-chips-to-okinawas-sweet-potatoes-and-sardinias-bean-soup-heres-what-centenarians-eat-and-what-research-reveals-about-healthy-ageing/articleshow/135174449.cms",
+          "title": "From a 107-year-old World War II veteran's love of fish and chips to Okinawa's sweet potatoes and Sardinia's bean soup, here's what centenarians eat and what research reveals about healthy ageing",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T17:31:00Z",
+          "publishedAt": "2026-10-24T17:31:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/etimes/wellness/from-a-107-year-old-world-war-ii-veterans-love-of-fish-and-chips-to-okinawas-sweet-potatoes-and-sardinias-bean-soup-heres-what-centenarians-eat-and-what-research-reveals-about-healthy-ageing/articleshow/135174449.cms"
         }
       ],
       "keywords": [
@@ -903,19 +903,11 @@
           "count": 2
         },
         {
-          "word": "데이터센터",
-          "count": 1
-        },
-        {
           "word": "로봇",
           "count": 1
         },
         {
           "word": "반도체",
-          "count": 1
-        },
-        {
-          "word": "전력",
           "count": 1
         }
       ],
@@ -926,9 +918,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1175,
-    "fetchedItems": 3704,
-    "feedBytes": 1022632,
+    "poolSize": 1119,
+    "fetchedItems": 3125,
+    "feedBytes": 870614,
     "rollingWindowHours": 72
   }
 }
