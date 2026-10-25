@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오전 09:13:11",
+  "updatedAt": "2026. 10. 25. 오후 01:54:07",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -122,18 +122,16 @@
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277649&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226832",
-          "title": "남의 건강보험증 빌리거나 훔친다?…18만 건 적발",
-          "source": "mbn.co.kr",
+          "id": "https://www.hankookilbo.com/news/article/A2026102510020001950",
+          "title": "강북도 월세 300만원 시대인데…\"종부세 강화 땐 전월셋값 더 뛸 수도\"-경제ㅣ한국일보",
+          "source": "hankookilbo.com",
           "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-24",
-          "dateRaw": "2026-10-24T01:31:00Z",
-          "publishedAt": "2026-10-24T01:31:00Z",
+          "sourceCountry": "",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T04:46:00Z",
+          "publishedAt": "2026-10-25T04:46:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226832",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "url": "https://www.hankookilbo.com/news/article/A2026102510020001950"
         }
       ],
       "keywords": [
@@ -151,7 +149,7 @@
         },
         {
           "word": "주거",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -918,9 +916,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1441,
-    "fetchedItems": 2354,
-    "feedBytes": 635763,
+    "poolSize": 1374,
+    "fetchedItems": 2568,
+    "feedBytes": 704207,
     "rollingWindowHours": 72
   }
 }

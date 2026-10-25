@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오전 09:13:09",
+  "updatedAt": "2026. 10. 25. 오후 01:54:05",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 293,
-    "passed": 9,
-    "deduped": 9,
-    "eventDeduped": 9,
-    "displayed": 9,
+    "raw": 262,
+    "passed": 8,
+    "deduped": 8,
+    "eventDeduped": 8,
+    "displayed": 8,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -64,18 +64,6 @@
       "publishedAt": "2026-10-24T11:16:00Z",
       "summary": "",
       "url": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/"
-    },
-    {
-      "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
-      "title": "The Key To Successful Industrial AI Adoption: Developing Trust",
-      "source": "automationworld.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
-      "summary": "",
-      "url": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust"
     },
     {
       "id": "https://www.moroccoworldnews.com/2026/10/343678/morocco-restructures-police-training-and-forensics-establishes-ai-expertise-unit/",
@@ -176,18 +164,6 @@
       "url": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/"
     },
     {
-      "id": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust",
-      "title": "The Key To Successful Industrial AI Adoption: Developing Trust",
-      "source": "automationworld.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T01:16:00Z",
-      "publishedAt": "2026-10-24T01:16:00Z",
-      "summary": "",
-      "url": "https://www.automationworld.com/factory/digital-transformation/podcast/55414219/the-key-to-successful-industrial-ai-adoption-developing-trust"
-    },
-    {
       "id": "https://www.moroccoworldnews.com/2026/10/343678/morocco-restructures-police-training-and-forensics-establishes-ai-expertise-unit/",
       "title": "Morocco Restructures Police Training and Forensics, Establishes AI Expertise Unit",
       "source": "moroccoworldnews.com",
@@ -239,10 +215,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 293,
-    "fetchedItems": 2354,
-    "relevantItems": 22,
-    "feedBytes": 635763,
+    "poolSize": 262,
+    "fetchedItems": 2568,
+    "relevantItems": 31,
+    "feedBytes": 704207,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
