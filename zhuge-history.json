@@ -6,7 +6,7 @@
       "planDay": "2026-10-25",
       "planSetId": "zps-20261025-04142705",
       "generatedAt": "2026-10-24T23:46:39.112Z",
-      "publishedAt": "2026-10-25T00:00:06.076Z",
+      "publishedAt": "2026-10-25T00:18:07.705Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -234,7 +234,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 1
+          "rank": 1,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-25T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "heist",
+              "label": "하이스트형",
+              "tone": "직설·후킹형",
+              "flow": [
+                "강한 선언",
+                "공감",
+                "구체적 증상",
+                "판단 기준",
+                "해결",
+                "강한 결론"
+              ]
+            },
+            "bookTitle": "스포츠 경기 다음 날 동료를 먼저 칭찬하는 기술",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "강한 선언",
+                "headline": "공을 동료에게 돌리면서도 내 기여도를 확실히 챙기는 보고의 기술",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "001",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "warning",
+                "beat": "공감",
+                "headline": "핵심 설계자가 나였음을 고과 평가자에게 명확히 전달해야 하는 순간.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "026",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "구체적 증상",
+                "headline": "주도적 기여분을 상사에게 각인시키는 사내 성과 커뮤니케이션 실무서.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "029",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "판단 기준",
+                "headline": "성과 독점자가 아닌 협력적 리더십을 증명하는 자가 장기 생존한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "014",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "해결",
+                "headline": "조율 결과 명시), 평가 면담용 1페이지 성과 기술 시트 제공.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "040",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "강한 결론",
+                "headline": "실질적인 사내 평가에서 밀려나는 무력한 지침으로 전락할 위험이 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "042",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-f2ab3d70"
+          }
         },
         {
           "type": "글쓰기",
@@ -413,7 +518,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 2
+          "rank": 2,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-25T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "film",
+              "label": "필름형",
+              "tone": "감성 매거진형",
+              "flow": [
+                "감성 문장",
+                "장면",
+                "감정",
+                "관점 전환",
+                "수용",
+                "여운"
+              ]
+            },
+            "bookTitle": "대중의 지적을 기획의 무기로 바꾸는 스토리 검증법",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "감성 문장",
+                "headline": "고증 시비를 극적 몰입으로 바꾸는 대중 서사 퇴고의 원칙",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "007",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "장면",
+                "headline": "이미 발생한 지적을 몰입도 높은 전개로 수습해야 하는 순간.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "016",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "감정",
+                "headline": "독자가 수용하는 감정선과 서사 개연성으로 전환하는 창작 퇴고 실무서.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "021",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "관점 전환",
+                "headline": "오류 자체가 아니라 인물의 정서적 진정성과 서사적 설득력 부재다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "018",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "수용",
+                "headline": "매뉴얼, 독자 반발을 복선으로 치환하는 퇴고 전후 비교 사례 수록.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "036",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "여운",
+                "headline": "웹소설이나 일반 서사 창작자가 자기 작품에 적용하기 어려울 수 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "046",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-f2ab3d70"
+          }
         },
         {
           "type": "IT전문서",
@@ -592,9 +802,121 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 3
+          "rank": 3,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-10-25T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "forest",
+              "label": "포레스트형",
+              "tone": "지식·통찰 교양형",
+              "flow": [
+                "궁금증",
+                "현상",
+                "원리",
+                "설명",
+                "통찰",
+                "핵심 메시지"
+              ]
+            },
+            "bookTitle": "외부 위협 속에서 내 코드를 지키는 배포 검증법",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "궁금증",
+                "headline": "배포 버튼을 누르기 전 명령어 몇 줄로 내 코드를 보호하라",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "010",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "현상",
+                "headline": "엔지니어링으로 인한 지적재산 탈취를 확실히 차단해야 하는 순간.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "011",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "analysis",
+                "beat": "원리",
+                "headline": "검증, 역공학 방어를 5단계 자동화 스크립트로 정리한 배포 보안서.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "018",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "설명",
+                "headline": "현실화되면서 소프트웨어 보안은 기업 생존의 필수 조건이 되었다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "019",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "통찰",
+                "headline": "라이선스 강제 공개 방지 표, 메타데이터 자동 제거 설정 파일 제공.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "039",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "핵심 메시지",
+                "headline": "바쁜 개발자가 실무에 즉시 적용하지 못하고 덮어버릴 위험이 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "041",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-f2ab3d70"
+          }
         }
-      ]
+      ],
+      "cardnewsAutomation": {
+        "status": "ok",
+        "version": "v2.15.24-cardnews-3styles",
+        "planSetId": "zps-20261025-04142705",
+        "file": "cardnews/2026-10-25.json",
+        "cardCount": 6
+      }
     },
     {
       "date": "2026-10-24",
