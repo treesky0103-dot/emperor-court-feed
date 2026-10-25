@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오후 06:37:06",
+  "updatedAt": "2026. 10. 25. 오후 10:54:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 271,
-    "passed": 81,
-    "deduped": 81,
-    "eventDeduped": 81,
+    "raw": 255,
+    "passed": 70,
+    "deduped": 70,
+    "eventDeduped": 70,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -30,16 +30,16 @@
       "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
     },
     {
-      "id": "https://news.mtn.co.kr/article/2026102315340196719",
-      "title": "칩 공급망에 윤할유...AI 우려 진화 나선 젠슨 황",
-      "source": "news.mtn.co.kr",
-      "language": "Korean",
+      "id": "http://www.beijingbulletin.com/news/279396547/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms",
+      "title": "US Treasury proposes expanding investment curbs on Chinese AI, biotech firms",
+      "source": "beijingbulletin.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
+      "dateRaw": "2026-10-24T17:31:00Z",
+      "publishedAt": "2026-10-24T17:31:00Z",
       "summary": "",
-      "url": "https://news.mtn.co.kr/article/2026102315340196719"
+      "url": "http://www.beijingbulletin.com/news/279396547/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms"
     },
     {
       "id": "https://www.staradvertiser.com/2026/10/24/editorial/letters/letter-investigate-wave-power-for-sustainable-energy/",
@@ -52,18 +52,6 @@
       "publishedAt": "2026-10-24T14:32:00Z",
       "summary": "",
       "url": "https://www.staradvertiser.com/2026/10/24/editorial/letters/letter-investigate-wave-power-for-sustainable-energy/"
-    },
-    {
-      "id": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/",
-      "title": "Are jobs promises tied to energy infrastructure being met in the Highlands?",
-      "source": "ross-shirejournal.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284",
@@ -136,6 +124,18 @@
       "publishedAt": "2026-10-24T19:46:00Z",
       "summary": "",
       "url": "https://econotimes.com/U-S-Semiconductor-and-Component-Price-Index-Hits-Second-Highest-Level-Since-2007-1762711"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-inaugurate-rbis-rs-169-crore-data-centre-in-bhubaneswar-second-after-navi-mumbai/articleshow/135183306.cms",
+      "title": "PM Modi to inaugurate RBI's Rs 169-crore data centre in Bhubaneswar, second after Navi Mumbai",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T04:46:00Z",
+      "publishedAt": "2026-10-25T04:46:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-inaugurate-rbis-rs-169-crore-data-centre-in-bhubaneswar-second-after-navi-mumbai/articleshow/135183306.cms"
     }
   ],
   "trendItems": [
@@ -150,18 +150,6 @@
       "publishedAt": "2026-10-24T21:46:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
-    },
-    {
-      "id": "https://news.mtn.co.kr/article/2026102315340196719",
-      "title": "칩 공급망에 윤할유...AI 우려 진화 나선 젠슨 황",
-      "source": "news.mtn.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://news.mtn.co.kr/article/2026102315340196719"
     },
     {
       "id": "http://www.beijingbulletin.com/news/279396547/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms",
@@ -188,16 +176,28 @@
       "url": "https://www.firerescue1.com/fire-products/communications/artificial-intelligence-drones-and-robotics-are-redefining-whats-possible"
     },
     {
-      "id": "https://asia.nikkei.com/editor-s-picks/interview/sf-writer-daniel-suarez-warns-of-ai-powered-authoritarianism",
-      "title": "SF writer Daniel Suarez warns of AI-powered authoritarianism",
-      "source": "asia.nikkei.com",
+      "id": "https://tv.rediff.com/news/ncert-launches-new-ai--ct-module-for-high-school-students/410127",
+      "title": "NCERT Launches New AI & CT Module For High School Students | Rediff-TV | Rediff.com",
+      "source": "tv.rediff.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T09:31:00Z",
+      "publishedAt": "2026-10-25T09:31:00Z",
+      "summary": "",
+      "url": "https://tv.rediff.com/news/ncert-launches-new-ai--ct-module-for-high-school-students/410127"
+    },
+    {
+      "id": "https://www.the-star.co.ke/news/world/2026-10-24-uk-to-invest-ps100m-in-world-first-ai-biosecurity-lab",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "source": "the-star.co.ke",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
+      "dateRaw": "2026-10-24T17:31:00Z",
+      "publishedAt": "2026-10-24T17:31:00Z",
       "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/sf-writer-daniel-suarez-warns-of-ai-powered-authoritarianism"
+      "url": "https://www.the-star.co.ke/news/world/2026-10-24-uk-to-invest-ps100m-in-world-first-ai-biosecurity-lab"
     },
     {
       "id": "https://www.staradvertiser.com/2026/10/24/editorial/letters/letter-investigate-wave-power-for-sustainable-energy/",
@@ -210,18 +210,6 @@
       "publishedAt": "2026-10-24T14:32:00Z",
       "summary": "",
       "url": "https://www.staradvertiser.com/2026/10/24/editorial/letters/letter-investigate-wave-power-for-sustainable-energy/"
-    },
-    {
-      "id": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/",
-      "title": "Are jobs promises tied to energy infrastructure being met in the Highlands?",
-      "source": "ross-shirejournal.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://www.ross-shirejournal.co.uk/news/are-jobs-promises-tied-to-energy-infrastructure-being-met-in-448314/"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284",
@@ -344,42 +332,6 @@
       "url": "https://econotimes.com/Cardiff-Data-Center-Plan-Puts-Grid-Delays-and-Hospital-Access-in-Focus-1762504"
     },
     {
-      "id": "https://www.al-monitor.com/originals/2026/10/hormuz-data-centers-how-irans-threats-are-raising-stakes-renewed-war",
-      "title": "From Hormuz to data centers: How Iran’s threats are raising stakes of renewed war",
-      "source": "al-monitor.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://www.al-monitor.com/originals/2026/10/hormuz-data-centers-how-irans-threats-are-raising-stakes-renewed-war"
-    },
-    {
-      "id": "http://www.bignewsnetwork.com/news/279396018/priti-adani-pushes-for-industry-aligned-education-to-boost-india-semiconductor-ambitions",
-      "title": "Priti Adani pushes for industry-aligned education to boost India's semiconductor ambitions",
-      "source": "bignewsnetwork.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "http://www.bignewsnetwork.com/news/279396018/priti-adani-pushes-for-industry-aligned-education-to-boost-india-semiconductor-ambitions"
-    },
-    {
-      "id": "https://theshillongtimes.com/2026/10/24/dr-priti-adani-calls-for-human-intelligence-skilled-talent-to-power-indias-semiconductor-mission/",
-      "title": "Dr Priti Adani calls for human intelligence, skilled talent to power India's semiconductor mission",
-      "source": "theshillongtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://theshillongtimes.com/2026/10/24/dr-priti-adani-calls-for-human-intelligence-skilled-talent-to-power-indias-semiconductor-mission/"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-inaugurate-rbis-rs-169-crore-data-centre-in-bhubaneswar-second-after-navi-mumbai/articleshow/135183306.cms",
       "title": "PM Modi to inaugurate RBI's Rs 169-crore data centre in Bhubaneswar, second after Navi Mumbai",
       "source": "timesofindia.indiatimes.com",
@@ -404,18 +356,6 @@
       "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/stage-set-for-pm-to-inaugurate-rbi-data-centre-near-city/articleshow/135172203.cms"
     },
     {
-      "id": "https://tv.rediff.com/news/ncert-launches-new-ai--ct-module-for-high-school-students/410127",
-      "title": "NCERT Launches New AI & CT Module For High School Students | Rediff-TV | Rediff.com",
-      "source": "tv.rediff.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T09:31:00Z",
-      "publishedAt": "2026-10-25T09:31:00Z",
-      "summary": "",
-      "url": "https://tv.rediff.com/news/ncert-launches-new-ai--ct-module-for-high-school-students/410127"
-    },
-    {
       "id": "https://www.tickerreport.com/banking-finance/13635395/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sold-by-rwc-asset-management-llp.html",
       "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Sold by RWC Asset Management LLP",
       "source": "tickerreport.com",
@@ -426,18 +366,6 @@
       "publishedAt": "2026-10-24T17:31:00Z",
       "summary": "",
       "url": "https://www.tickerreport.com/banking-finance/13635395/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sold-by-rwc-asset-management-llp.html"
-    },
-    {
-      "id": "https://www.the-star.co.ke/news/world/2026-10-24-uk-to-invest-ps100m-in-world-first-ai-biosecurity-lab",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "source": "the-star.co.ke",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T17:31:00Z",
-      "publishedAt": "2026-10-24T17:31:00Z",
-      "summary": "",
-      "url": "https://www.the-star.co.ke/news/world/2026-10-24-uk-to-invest-ps100m-in-world-first-ai-biosecurity-lab"
     },
     {
       "id": "https://en.shafaqna.com/487019/iranian-theatre-ai-rashomon/",
@@ -476,30 +404,6 @@
       "url": "https://thearabianpost.com/ai-and-ev-boom-draws-690-million-in-advanced-materials-investment-plans-to-thailand/"
     },
     {
-      "id": "https://focustaiwan.tw/politics/202610240015",
-      "title": "Lin urges Taiwan-Europe cooperation on trusted AI, drone supply chains - Focus Taiwan",
-      "source": "focustaiwan.tw",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://focustaiwan.tw/politics/202610240015"
-    },
-    {
-      "id": "https://nuclear-news.net/2026/10/24/4-b1-microsoft-pulls-out-of-ai-datacentre-project-in-essex-over-power-supply-concerns/",
-      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
-      "source": "nuclear-news.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://nuclear-news.net/2026/10/24/4-b1-microsoft-pulls-out-of-ai-datacentre-project-in-essex-over-power-supply-concerns/"
-    },
-    {
       "id": "https://politicalwire.com/2026/10/24/trump-ai-data-center-push-faces-voter-backlash/",
       "title": "Trump AI Data Center Push Faces Voter Backlash",
       "source": "politicalwire.com",
@@ -512,18 +416,6 @@
       "url": "https://politicalwire.com/2026/10/24/trump-ai-data-center-push-faces-voter-backlash/"
     },
     {
-      "id": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
-      "title": "'The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve — and Tesla should be worried",
-      "source": "techradar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week"
-    },
-    {
       "id": "https://www.xportsnews.com/article/2211043",
       "title": "중계진도 경악! \"안세영 무자비해! 벌을 내리는 듯한 스매시\"…인간미 0% '배드민턴 여제'의 AI 샷, 놀라고 감탄했다",
       "source": "xportsnews.com",
@@ -534,6 +426,102 @@
       "publishedAt": "2026-10-25T04:46:00Z",
       "summary": "",
       "url": "https://www.xportsnews.com/article/2211043"
+    },
+    {
+      "id": "https://www.phillyvoice.com/swedesboro-brewing-co-ai-spokesperson-backlash-new-jersey-beer/",
+      "title": "Swedesboro Brewing Co. made an AI spokesperson and she's getting 'mean comments' from its beer drinkers",
+      "source": "phillyvoice.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.phillyvoice.com/swedesboro-brewing-co-ai-spokesperson-backlash-new-jersey-beer/"
+    },
+    {
+      "id": "https://www.wokv.com/news/technology/make-ai-morally-good/NNEVDBSUYU5NPEOSRCUQVFUFAI/",
+      "title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
+      "source": "wokv.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.wokv.com/news/technology/make-ai-morally-good/NNEVDBSUYU5NPEOSRCUQVFUFAI/"
+    },
+    {
+      "id": "https://mashable.com/life/oct-25-askanymodel-ai-pro-plan-lifetime-subscription",
+      "title": "Get many AI opinions with this multi-AI tool — lifetime access is on sale for just $29.97",
+      "source": "mashable.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://mashable.com/life/oct-25-askanymodel-ai-pro-plan-lifetime-subscription"
+    },
+    {
+      "id": "https://www.watoday.com.au/politics/federal/voters-call-for-local-ai-safeguards-as-data-centre-concern-rises-20261025-p6181r.html",
+      "title": "Voters call for local AI safeguards as data centre concern rises",
+      "source": "watoday.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.watoday.com.au/politics/federal/voters-call-for-local-ai-safeguards-as-data-centre-concern-rises-20261025-p6181r.html"
+    },
+    {
+      "id": "https://richmond.com/zzstyling/column/article_ec63f27a-abcb-42e8-8598-75acdcb6e1db.html",
+      "title": "Protect your privileges: AI, video calls, and legal privacy",
+      "source": "richmond.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://richmond.com/zzstyling/column/article_ec63f27a-abcb-42e8-8598-75acdcb6e1db.html"
+    },
+    {
+      "id": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+      "title": "When AI glasses could be a worthy headphones replacement - Engadget",
+      "source": "engadget.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/city/patna/bihar-govt-ties-up-with-11-it-firms-to-train-teachers-in-ai-computer-skills/articleshow/135192076.cms",
+      "title": "Bihar govt ties up with 11 IT firms to train teachers in AI, computer skills",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/city/patna/bihar-govt-ties-up-with-11-it-firms-to-train-teachers-in-ai-computer-skills/articleshow/135192076.cms"
+    },
+    {
+      "id": "https://www.christianpost.com/news/chick-fil-a-ceo-says-no-to-ai-voice-ordering.html",
+      "title": "Chick-fil-A CEO draws line on AI: ‘Human to human’ hospitality means no AI voice ordering",
+      "source": "christianpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.christianpost.com/news/chick-fil-a-ceo-says-no-to-ai-voice-ordering.html"
     },
     {
       "id": "https://www.komando.com/news/inherited-a-mystery-spreadsheet-this-ai-prompt-decodes-every-tab-and-formula/",
@@ -738,15 +726,27 @@
       "publishedAt": "2026-10-24T19:46:00Z",
       "summary": "",
       "url": "https://powerupgaming.co.uk/2026/10/24/ace-combat-7-co-op-mod-raises-hopes-for-an-ac8-version-but-ai-related-harassment-ends-development/"
+    },
+    {
+      "id": "https://ohnotheydidnt.livejournal.com/tag/artificial%20intelligence/",
+      "title": "ohnotheydidnt, posts by tag: artificial intelligence - LiveJournal",
+      "source": "ohnotheydidnt.livejournal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-24",
+      "dateRaw": "2026-10-24T19:46:00Z",
+      "publishedAt": "2026-10-24T19:46:00Z",
+      "summary": "",
+      "url": "https://ohnotheydidnt.livejournal.com/tag/artificial%20intelligence/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 271,
-    "fetchedItems": 3656,
-    "relevantItems": 45,
-    "feedBytes": 1058609,
+    "poolSize": 255,
+    "fetchedItems": 3892,
+    "relevantItems": 40,
+    "feedBytes": 1097043,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

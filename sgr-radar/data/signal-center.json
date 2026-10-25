@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오후 06:37:08",
+  "updatedAt": "2026. 10. 25. 오후 10:54:30",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -22,18 +22,18 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12185117",
-          "title": "“월세 220만원, 올해 사면 더 싸게” 강릉 빌딩 내놓은 강원래",
+          "id": "https://www.mk.co.kr/news/economy/12185219",
+          "title": "89주째 집값상승…고심 깊어진 금융당국",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-25",
-          "dateRaw": "2026-10-25T16:36:09Z",
-          "publishedAt": "2026-10-25T16:36:09Z",
+          "dateRaw": "2026-10-25T17:31:56Z",
+          "publishedAt": "2026-10-25T17:31:56Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12185117",
+          "url": "https://www.mk.co.kr/news/economy/12185219",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.chosun.com/science-chosun/bio/2026/10/24/AOOOE5Y6BVDDBBTWEJUWGA76HU/",
@@ -98,6 +98,20 @@
           "url": "http://kr.xinhuanet.com/20261023/8fa2f43963034eb1befbec88e2622b09/c.html"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226998",
+          "title": "'부캉이' 이틀 연속 부산항서 발견…\"건강하게 유영\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T10:30:00Z",
+          "publishedAt": "2026-10-25T10:30:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226998",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10914000",
           "title": "[인터뷰] 정승문 보건복지부공무원노동조합 위원장",
           "source": "biz.heraldcorp.com",
@@ -120,20 +134,6 @@
           "publishedAt": "2026-10-25T09:31:00Z",
           "summary": "",
           "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003278354&PAGE_CD=N0002&CMPT_CD=M0113"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226970",
-          "title": "'부캉이', 이틀 연속 부산항서 발견…건강하게 유영 중",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-25",
-          "dateRaw": "2026-10-25T06:28:00Z",
-          "publishedAt": "2026-10-25T06:28:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226970",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
@@ -314,6 +314,20 @@
     "technology": {
       "items": [
         {
+          "id": "https://www.etnews.com/20261023000244",
+          "title": "네이블, 산업용 5G 넘어 'AI 인프라' 시장 공략…반도체·철도·금융 레퍼런스 기반 사업 확장",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T05:22:00Z",
+          "publishedAt": "2026-10-25T05:22:00Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261023000244",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/",
           "title": "[정책 인사이트] ‘전기 먹는 하마’ AI 데이터센터… 정부 “소비자에 전기요금 떠넘기기 안돼”",
           "source": "biz.chosun.com",
@@ -336,20 +350,6 @@
           "publishedAt": "2026-10-22T22:47:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02751926645615872&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.etnews.com/20261023000004",
-          "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T22:37:26Z",
-          "publishedAt": "2026-10-22T22:37:26Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261023000004",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.mk.co.kr/news/business/12182879",
@@ -704,18 +704,6 @@
           "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-investment-mous-translate-into-operational-projects-naidu-tells-officials/article71612476.ece"
         },
         {
-          "id": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
-          "title": "\"Development on the next Mass Effect is ending\": EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
-          "source": "rockpapershotgun.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-22",
-          "dateRaw": "2026-10-22T11:17:00Z",
-          "publishedAt": "2026-10-22T11:17:00Z",
-          "summary": "",
-          "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth"
-        },
-        {
           "id": "https://www.presstv.co.uk/Detail/2026/10/23/779020/Iran-US-CBI-Hemmati",
           "title": "CBI chief: Iran reserves can sustain imports beyond Trump’s term amid ‘failed’ US economic pressure",
           "source": "presstv.co.uk",
@@ -738,6 +726,18 @@
           "publishedAt": "2026-10-24T17:31:00Z",
           "summary": "",
           "url": "https://en.shafaqna.com/486002/china-q3-gdp-growth-exports-stimulus/"
+        },
+        {
+          "id": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/",
+          "title": "How EU bakery is helping UK retailers rebuild trust and drive premium growth",
+          "source": "bakeryandsnacks.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T14:31:00Z",
+          "publishedAt": "2026-10-24T14:31:00Z",
+          "summary": "",
+          "url": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/"
         }
       ],
       "keywords": [
@@ -914,9 +914,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1302,
-    "fetchedItems": 3656,
-    "feedBytes": 1058609,
+    "poolSize": 1245,
+    "fetchedItems": 3892,
+    "feedBytes": 1097043,
     "rollingWindowHours": 72
   }
 }

@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 25. 오후 06:37:06",
+  "updatedAt": "2026. 10. 25. 오후 10:54:28",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 271,
+    "raw": 255,
     "passed": 8,
     "deduped": 8,
     "eventDeduped": 8,
@@ -54,6 +54,18 @@
       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277754&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016"
     },
     {
+      "id": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "source": "theguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+    },
+    {
       "id": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b",
       "title": "Bitcoin Suisse Restructuring Could Affect 60 Swiss Jobs",
       "source": "cointelegraph.com",
@@ -100,18 +112,6 @@
       "publishedAt": "2026-10-25T00:01:00Z",
       "summary": "",
       "url": "https://www.perthnow.com.au/news/business/unions-decry-loss-of-workers-rights-amid-rise-of-ai-c-23067641"
-    },
-    {
-      "id": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/",
-      "title": "Missouri child welfare workers say restructuring puts children’s safety at risk | Fulton Sun",
-      "source": "fultonsun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/"
     }
   ],
   "trendItems": [
@@ -152,6 +152,18 @@
       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277754&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016"
     },
     {
+      "id": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "source": "theguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-25",
+      "dateRaw": "2026-10-25T13:46:00Z",
+      "publishedAt": "2026-10-25T13:46:00Z",
+      "summary": "",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+    },
+    {
       "id": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b",
       "title": "Bitcoin Suisse Restructuring Could Affect 60 Swiss Jobs",
       "source": "cointelegraph.com",
@@ -162,18 +174,6 @@
       "publishedAt": "2026-10-25T00:02:00Z",
       "summary": "",
       "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b"
-    },
-    {
-      "id": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/",
-      "title": "Missouri child welfare workers say restructuring puts children’s safety at risk | Fulton Sun",
-      "source": "fultonsun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-24",
-      "dateRaw": "2026-10-24T11:16:00Z",
-      "publishedAt": "2026-10-24T11:16:00Z",
-      "summary": "",
-      "url": "https://www.fultonsun.com/news/2026/oct/24/missouri-child-welfare-workers-say-restructuring/"
     },
     {
       "id": "https://www.lahainanews.com/wire/?category=5035&ID=401123",
@@ -215,10 +215,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 271,
-    "fetchedItems": 3656,
-    "relevantItems": 45,
-    "feedBytes": 1058609,
+    "poolSize": 255,
+    "fetchedItems": 3892,
+    "relevantItems": 40,
+    "feedBytes": 1097043,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
