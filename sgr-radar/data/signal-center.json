@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 26. 오후 08:14:16",
+  "updatedAt": "2026. 10. 27. 오전 02:26:32",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -157,32 +157,32 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12184321",
-          "title": "[인사] SBS / 재정경제부 / 관세청 외",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T16:46:39Z",
-          "publishedAt": "2026-10-23T16:46:39Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12184321",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.etnews.com/20261023000359",
-          "title": "경기혁신센터, 스타트업 12곳·투자사 10곳 연결한 연합 IR 개최",
+          "id": "https://www.etnews.com/20261024000037",
+          "title": "“수출·재정 확대가 수요 측 물가 압력 키워…건전성 관리 유의해야”",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T12:42:59Z",
-          "publishedAt": "2026-10-23T12:42:59Z",
+          "date": "2026-10-24",
+          "dateRaw": "2026-10-24T12:39:17Z",
+          "publishedAt": "2026-10-24T12:39:17Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261023000359",
+          "url": "https://www.etnews.com/20261024000037",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12185469",
+          "title": "JB금융, 최대 300억 AI 펀드 조성…첫 투자처는 보안기업",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T10:13:35Z",
+          "publishedAt": "2026-10-26T10:13:35Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/economy/12185469",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/finance/1284061.html",
@@ -235,18 +235,6 @@
           "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
         },
         {
-          "id": "https://www.fnnews.com/news/202610231555489108",
-          "title": "신현송 한은 총재 \"고성장·고금리 상황에 대비해 정책 펴겠다\"",
-          "source": "fnnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T11:46:00Z",
-          "publishedAt": "2026-10-23T11:46:00Z",
-          "summary": "",
-          "url": "https://www.fnnews.com/news/202610231555489108"
-        },
-        {
           "id": "https://www.koreatimes.com/article/11629072",
           "title": "뉴욕증시, AI투자 불안에 나스닥 2.6%↓…반도체지수 6.7% 급락",
           "source": "koreatimes.com",
@@ -283,19 +271,43 @@
           "publishedAt": "2026-10-26T00:17:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261008001233"
+        },
+        {
+          "id": "https://www.fnnews.com/news/202610251005265677",
+          "title": "\"한국 투자만큼 비자 쿼터 늘려야\"…美 중간선거 주목하는 아이오와 한인들",
+          "source": "fnnews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-25",
+          "dateRaw": "2026-10-25T09:31:00Z",
+          "publishedAt": "2026-10-25T09:31:00Z",
+          "summary": "",
+          "url": "https://www.fnnews.com/news/202610251005265677"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "금리",
-          "count": 2
+          "count": 1
+        },
+        {
+          "word": "기업",
+          "count": 1
+        },
+        {
+          "word": "물가",
+          "count": 1
         },
         {
           "word": "소비",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         },
         {
@@ -388,18 +400,6 @@
           "url": "https://news.mtn.co.kr/article/2026102315340196719"
         },
         {
-          "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513196",
-          "title": "엔비디아 진화에도 꺼지지 않는 ‘AI 빚투’ 공포…국내 반도체주까지 영향권",
-          "source": "ilyo.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T11:46:00Z",
-          "publishedAt": "2026-10-23T11:46:00Z",
-          "summary": "",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513196"
-        },
-        {
           "id": "https://www.koreatimes.com/article/11629072",
           "title": "뉴욕증시, AI투자 불안에 나스닥 2.6%↓…반도체지수 6.7% 급락",
           "source": "koreatimes.com",
@@ -436,12 +436,24 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227198",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.hankookilbo.com/news/article/A2026102316510004196",
+          "title": "\"반도체 개발해 달라\"는 스티브 잡스의 요청…거절한 인텔이 마주한 결과는?-경제ㅣ한국일보",
+          "source": "hankookilbo.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T05:01:00Z",
+          "publishedAt": "2026-10-26T05:01:00Z",
+          "summary": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026102316510004196"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 8
         },
         {
           "word": "반도체",
@@ -561,42 +573,42 @@
           "url": "https://www.longisland.com/business/cresli.html"
         },
         {
-          "id": "https://www.abudhabicityguide.com/news/news-details.asp?newsid=35420&newstype=Local%20News",
-          "title": "Abu Dhabi Department Of Education And Knowledge Launches Emiratization Policy For Private Education #AbuDhabi",
-          "source": "abudhabicityguide.com",
+          "id": "https://www.pasadenastarnews.com/2026/10/26/whos-on-air-force-one-trump-midterm-election-entourage/",
+          "title": "Who’s on Air Force One? Trump’s midterms entourage includes strategists, aides and aging athletes",
+          "source": "pasadenastarnews.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T11:46:00Z",
-          "publishedAt": "2026-10-23T11:46:00Z",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T17:17:00Z",
+          "publishedAt": "2026-10-26T17:17:00Z",
           "summary": "",
-          "url": "https://www.abudhabicityguide.com/news/news-details.asp?newsid=35420&newstype=Local%20News"
+          "url": "https://www.pasadenastarnews.com/2026/10/26/whos-on-air-force-one-trump-midterm-election-entourage/"
         },
         {
-          "id": "https://www.koreatimes.com/article/11629071",
-          "title": "트럼프, 중간선거앞 물가 표심에 ‘주거비 인하’ 행정명령",
-          "source": "koreatimes.com",
-          "language": "Korean",
+          "id": "https://www.asianscientist.com/2026/10/health/certain-fertility-treatments-linked-to-kawasaki-disease-risk-in-children/",
+          "title": "Certain Fertility Treatments Linked To Kawasaki Disease Risk In Children – Asian Scientist Magazine",
+          "source": "asianscientist.com",
+          "language": "English",
           "sourceCountry": "",
           "date": "2026-10-26",
-          "dateRaw": "2026-10-26T11:02:00Z",
-          "publishedAt": "2026-10-26T11:02:00Z",
+          "dateRaw": "2026-10-26T17:17:00Z",
+          "publishedAt": "2026-10-26T17:17:00Z",
           "summary": "",
-          "url": "https://www.koreatimes.com/article/11629071"
+          "url": "https://www.asianscientist.com/2026/10/health/certain-fertility-treatments-linked-to-kawasaki-disease-risk-in-children/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 3
+        },
+        {
+          "word": "고령화",
+          "count": 2
         },
         {
           "word": "이민",
           "count": 2
-        },
-        {
-          "word": "고령화",
-          "count": 1
         },
         {
           "word": "정신건강",
@@ -698,18 +710,6 @@
           "url": "https://www.koreatimes.co.kr/world/20261024/us-treasury-proposes-expanding-tech-investment-restrictions-to-n-korea"
         },
         {
-          "id": "http://www.sydneysun.com/news/279394310/interview-unlocking-opportunities-through-australia-china-economic-trade-ties-peak-aussie-industry-body-chief",
-          "title": "Interview: Unlocking opportunities through Australia-China economic, trade ties: peak Aussie industry body chief",
-          "source": "sydneysun.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T11:46:00Z",
-          "publishedAt": "2026-10-23T11:46:00Z",
-          "summary": "",
-          "url": "http://www.sydneysun.com/news/279394310/interview-unlocking-opportunities-through-australia-china-economic-trade-ties-peak-aussie-industry-body-chief"
-        },
-        {
           "id": "https://www.radio.gov.pk/26-10-2026/pakistans-economy-shows-improvement-in-first-quarter-of-current-fiscal-year",
           "title": "Pakistan’s economy improves in first quarter of current fiscal year",
           "source": "radio.gov.pk",
@@ -732,6 +732,18 @@
           "publishedAt": "2026-10-26T11:02:00Z",
           "summary": "",
           "url": "https://www.channelnewsasia.com/singapore/indonesia-gas-cut-singapore-energy-exports-6492596"
+        },
+        {
+          "id": "https://www.businesstimes.com.sg/companies-markets/uncovering-the-singapore-bourse/hidden-value-why-sgx-consumer-stocks-deserve-closer-look",
+          "title": "Hidden value: Why SGX consumer stocks deserve a closer look",
+          "source": "businesstimes.com.sg",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T00:16:00Z",
+          "publishedAt": "2026-10-26T00:16:00Z",
+          "summary": "",
+          "url": "https://www.businesstimes.com.sg/companies-markets/uncovering-the-singapore-bourse/hidden-value-why-sgx-consumer-stocks-deserve-closer-look"
         }
       ],
       "keywords": [
@@ -744,15 +756,15 @@
           "count": 2
         },
         {
-          "word": "무역",
-          "count": 2
-        },
-        {
           "word": "성장",
           "count": 2
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         }
       ],
@@ -762,6 +774,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://greentechlead.com/power/microsoft-vs-google-vs-amazon-vs-meta-ai-data-center-energy-investments-power-deals-and-community-protests-in-2026-56175",
+          "title": "Microsoft vs Google vs Amazon vs Meta: AI Data Center Energy Investments, Power Deals and Community Protests in 2026 - GreentechLead",
+          "source": "greentechlead.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T17:16:00Z",
+          "publishedAt": "2026-10-26T17:16:00Z",
+          "summary": "",
+          "url": "https://greentechlead.com/power/microsoft-vs-google-vs-amazon-vs-meta-ai-data-center-energy-investments-power-deals-and-community-protests-in-2026-56175"
+        },
         {
           "id": "http://www.beijingbulletin.com/news/279396547/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms",
           "title": "US Treasury proposes expanding investment curbs on Chinese AI, biotech firms",
@@ -775,16 +799,40 @@
           "url": "http://www.beijingbulletin.com/news/279396547/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms"
         },
         {
-          "id": "https://www.fnnews.com/news/202610231603563207",
-          "title": "美재무부, AI·바이오 등 '민감기술' 대중국 투자규제 강화",
-          "source": "fnnews.com",
-          "language": "Korean",
+          "id": "http://www.coloradostar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
+          "title": "China-aligned hackers used AI tool to target over 2,250 cloud environments worldwide",
+          "source": "coloradostar.com",
+          "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-23",
-          "dateRaw": "2026-10-23T11:46:00Z",
-          "publishedAt": "2026-10-23T11:46:00Z",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T17:17:00Z",
+          "publishedAt": "2026-10-26T17:17:00Z",
           "summary": "",
-          "url": "https://www.fnnews.com/news/202610231603563207"
+          "url": "http://www.coloradostar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide"
+        },
+        {
+          "id": "https://www.techspot.com/news/114333-nvidia-ai-chips-already-make-billions-now-jensen.html",
+          "title": "Nvidia's AI chips already make billions, now Jensen Huang wants $2,000 per GPU in annual software fees",
+          "source": "techspot.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T17:17:00Z",
+          "publishedAt": "2026-10-26T17:17:00Z",
+          "summary": "",
+          "url": "https://www.techspot.com/news/114333-nvidia-ai-chips-already-make-billions-now-jensen.html"
+        },
+        {
+          "id": "https://addictinginfo.org/articles/data-centers-and-your-electricity-bill/",
+          "title": "Data centers and your electricity bill: what’s really driving the increase",
+          "source": "addictinginfo.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T17:17:00Z",
+          "publishedAt": "2026-10-26T17:17:00Z",
+          "summary": "",
+          "url": "https://addictinginfo.org/articles/data-centers-and-your-electricity-bill/"
         },
         {
           "id": "https://www.koreatimes.com/article/1634299",
@@ -845,67 +893,43 @@
           "publishedAt": "2026-10-24T17:31:00Z",
           "summary": "",
           "url": "https://www.tickerreport.com/banking-finance/13635395/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sold-by-rwc-asset-management-llp.html"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261026101827",
-          "title": "LS에코에너지, 베트남서 'AIDC' 울트라캐패시터 생산 준비",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T05:01:00Z",
-          "publishedAt": "2026-10-26T05:01:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261026101827"
-        },
-        {
-          "id": "https://www.chinatechnews.com/2026/10/26/131364-china-now-spends-2-8-of-its-economy-on-research-passing-the-oecd-average-for-the-first-time-could-us-science-cuts-reshape-the-global-ai-and-semiconductor-race",
-          "title": "China now spends 2.8% of its economy on research, passing the OECD average for the first time: Could US science cuts reshape the global AI and semiconductor race? - ChinaTechNews.com",
-          "source": "chinatechnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T00:16:00Z",
-          "publishedAt": "2026-10-26T00:16:00Z",
-          "summary": "",
-          "url": "https://www.chinatechnews.com/2026/10/26/131364-china-now-spends-2-8-of-its-economy-on-research-passing-the-oecd-average-for-the-first-time-could-us-science-cuts-reshape-the-global-ai-and-semiconductor-race"
-        },
-        {
-          "id": "https://orissadiary.com/odisha-can-unlock-greater-in-statevalue-from-sustainable-manufacturingpahle-india-foundation-report/",
-          "title": "Odisha Can Unlock Greater In-StateValue from Sustainable Manufacturing:Pahlé India Foundation Report",
-          "source": "orissadiary.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-25",
-          "dateRaw": "2026-10-25T09:31:00Z",
-          "publishedAt": "2026-10-25T09:31:00Z",
-          "summary": "",
-          "url": "https://orissadiary.com/odisha-can-unlock-greater-in-statevalue-from-sustainable-manufacturingpahle-india-foundation-report/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 6
-        },
-        {
-          "word": "제조",
-          "count": 4
-        },
-        {
-          "word": "바이오",
-          "count": 2
-        },
-        {
-          "word": "반도체",
-          "count": 2
+          "count": 7
         },
         {
           "word": "데이터센터",
-          "count": 1
+          "count": 3
+        },
+        {
+          "word": "제조",
+          "count": 3
+        },
+        {
+          "word": "GPU",
+          "count": 2
         },
         {
           "word": "로봇",
+          "count": 1
+        },
+        {
+          "word": "바이오",
+          "count": 1
+        },
+        {
+          "word": "반도체",
+          "count": 1
+        },
+        {
+          "word": "전력",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -916,9 +940,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1143,
-    "fetchedItems": 6340,
-    "feedBytes": 1793392,
+    "poolSize": 1167,
+    "fetchedItems": 6129,
+    "feedBytes": 1741419,
     "rollingWindowHours": 72
   }
 }
