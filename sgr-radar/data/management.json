@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 26. 오전 04:52:10",
+  "updatedAt": "2026. 10. 26. 오전 09:29:15",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 238,
+    "raw": 268,
     "passed": 10,
     "deduped": 10,
     "eventDeduped": 10,
@@ -17,6 +17,18 @@
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings",
+      "title": "AI spending fears threaten to swamp Big Tech’s strong earnings",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T00:16:00Z",
+      "publishedAt": "2026-10-26T00:16:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings"
+    },
     {
       "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277754&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016",
       "title": "호주ABC의 충격적 고발, 임신 알렸다가 '가짜 구조조정'",
@@ -54,16 +66,16 @@
       "url": "https://98q.com/local-news-stories/76f9da0d376e6435dc0dcf4dd3625761"
     },
     {
-      "id": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b",
-      "title": "Bitcoin Suisse Restructuring Could Affect 60 Swiss Jobs",
-      "source": "cointelegraph.com",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261026000142",
+      "title": "빗썸, 사내 첫 'AI 공모전' 성료…업무 활용 사례 107건 발굴",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T00:02:00Z",
-      "publishedAt": "2026-10-25T00:02:00Z",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T00:16:00Z",
+      "publishedAt": "2026-10-26T00:16:00Z",
       "summary": "",
-      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b"
+      "url": "https://www.newspim.com/news/view/20261026000142"
     },
     {
       "id": "http://www.shanghainews.net/news/279392991/meta-faces-investor-backlash-over-mounting-ai-spending",
@@ -100,18 +112,6 @@
       "publishedAt": "2026-10-25T09:31:00Z",
       "summary": "",
       "url": "https://www.lahainanews.com/wire/?category=5035&ID=401123"
-    },
-    {
-      "id": "https://www.perthnow.com.au/news/business/unions-decry-loss-of-workers-rights-amid-rise-of-ai-c-23067641",
-      "title": "Unions decry loss of workers' rights amid rise of AI",
-      "source": "perthnow.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T00:01:00Z",
-      "publishedAt": "2026-10-25T00:01:00Z",
-      "summary": "",
-      "url": "https://www.perthnow.com.au/news/business/unions-decry-loss-of-workers-rights-amid-rise-of-ai-c-23067641"
     },
     {
       "id": "https://www.dailymail.com/mailonsunday/article-1165718/UBS-poised-unveil-job-cuts-profit-writedowns.html",
@@ -140,6 +140,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings",
+      "title": "AI spending fears threaten to swamp Big Tech’s strong earnings",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T00:16:00Z",
+      "publishedAt": "2026-10-26T00:16:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings"
+    },
+    {
       "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277754&PAGE_CD=ET001&BLCK_NO=1&CMPT_CD=T0016",
       "title": "호주ABC의 충격적 고발, 임신 알렸다가 '가짜 구조조정'",
       "source": "ohmynews.com",
@@ -200,16 +212,16 @@
       "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
     },
     {
-      "id": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b",
-      "title": "Bitcoin Suisse Restructuring Could Affect 60 Swiss Jobs",
-      "source": "cointelegraph.com",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261026000142",
+      "title": "빗썸, 사내 첫 'AI 공모전' 성료…업무 활용 사례 107건 발굴",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T00:02:00Z",
-      "publishedAt": "2026-10-25T00:02:00Z",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T00:16:00Z",
+      "publishedAt": "2026-10-26T00:16:00Z",
       "summary": "",
-      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?t=Bitcoin%20Suisse%20to%20shift%20up%20to%20half%20of%20Swiss%20jobs%20abroad&fnp_t=1792885645.3f43cb26f6cd533b"
+      "url": "https://www.newspim.com/news/view/20261026000142"
     },
     {
       "id": "http://www.shanghainews.net/news/279392991/meta-faces-investor-backlash-over-mounting-ai-spending",
@@ -246,27 +258,15 @@
       "publishedAt": "2026-10-25T09:31:00Z",
       "summary": "",
       "url": "https://www.lahainanews.com/wire/?category=5035&ID=401123"
-    },
-    {
-      "id": "https://www.perthnow.com.au/news/business/unions-decry-loss-of-workers-rights-amid-rise-of-ai-c-23067641",
-      "title": "Unions decry loss of workers' rights amid rise of AI",
-      "source": "perthnow.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T00:01:00Z",
-      "publishedAt": "2026-10-25T00:01:00Z",
-      "summary": "",
-      "url": "https://www.perthnow.com.au/news/business/unions-decry-loss-of-workers-rights-amid-rise-of-ai-c-23067641"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 238,
-    "fetchedItems": 2996,
-    "relevantItems": 33,
-    "feedBytes": 852845,
+    "poolSize": 268,
+    "fetchedItems": 2662,
+    "relevantItems": 51,
+    "feedBytes": 702825,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
