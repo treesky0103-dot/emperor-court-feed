@@ -33,23 +33,35 @@ with sync_playwright() as pw:
     page.on("pageerror",lambda e:result["pageErrors"].append(str(e)))
     response=page.goto(PAGE,wait_until="domcontentloaded",timeout=65000)
     assert response and response.status==200,"PAGES_NOT_200"
-    assert page.evaluate("Boolean(window.__COURT_GPT_SIDECAR_V1__)"),"GPT_SIDECAR_NOT_DEPLOYED"
+    assert page.evaluate("Boolean(window.__COURT_GPT_NATIVE_BRIDGE_V2__)"),"GPT_NATIVE_BRIDGE_NOT_DEPLOYED"
+    assert page.evaluate("!window.__COURT_GPT_SIDECAR_V1__"),"OLD_REPLACEMENT_MODAL_STILL_ACTIVE"
     page.get_by_role("button",name="제갈량 오늘의 출판 기획").click(timeout=15000)
-    page.locator("#court-gpt-editorial-overlay-v1 .cg-card").first.wait_for(timeout=25000)
-    text_nodes=page.locator("#court-gpt-editorial-overlay-v1 .cg-card h3").all_text_contents()
-    dom_titles=[x.split(". ",1)[1] for x in text_nodes]
+    host='#modalOverlay.show[data-active-advisor="zhuge"] #zhugeUnifiedPlansHost'
+    page.locator(host+' .v465-plan-list[data-gpt-fingerprint] .v465-plan-card').first.wait_for(timeout=26000)
+    node_texts=page.locator(host+' .v465-plan-list .v465-plan-type').all_text_contents()
+    title_ok=(len(node_texts)==3 and all(titles[i] in node_texts[i] for i in range(3)))
     ident=page.evaluate("window.__COURT_GPT_LAST_RENDER__")
-    result["liveBrowserMatch"]=(dom_titles==titles and ident=={"date":TODAY,"planSetId":data["planSetId"],"revision":data["revision"],"titles":titles,"isToday":True})
-    body=page.locator("#court-gpt-editorial-overlay-v1").inner_text()
-    result["all14Fields"]=all(x in body for x in ["1. 한 줄 콘셉트","3. 경쟁서 검토","7. 저자 후보","9. 마케팅 병법","11. 카드뉴스","14. 제갈량 최종 판단"])
-    result["marketStatusHonest"]="시장 검증 미완료" in body
-    page.get_by_role("button",name="GPT 기획 닫기").click()
+    result["liveBrowserMatch"]=(title_ok and ident=={"date":TODAY,"planSetId":data["planSetId"],"revision":data["revision"],"titles":titles,"isToday":True,"renderer":"native-zhuge-modal-v2"})
+    result["originalDesignRetained"]=all([
+        page.locator('#modalOverlay .bubble-card.zhuge-full-card').count()==1,
+        page.locator('#modalOverlay .zhuge-left-card.court-portrait-card').is_visible(),
+        page.locator('#zhugeTabsSiblingHost .v22-zhuge-tab').count()==2,
+        page.locator(host+' .v465-plan-list .v465-plan-card.v21544-display-first-card').count()==3
+    ])
+    details=page.locator(host+' .v465-plan-list article.v465-plan-card details')
+    for i in range(3):details.nth(i).locator('summary').click()
+    body=page.locator(host).inner_text()
+    result["all14Fields"]=all(x in body for x in ["1. 한 줄 콘셉트","3. 경쟁서 검토","7. 저자 후보","9. 마케팅 병법","11. 카드뉴스","14. 제갈량 판단"])
+    result["marketStatusHonest"]="미검증" in body
+    pathlib.Path("proof").mkdir(exist_ok=True)
+    page.locator('#modalOverlay').screenshot(path="proof/native-zhuge-screenshot.png")
+    page.locator("#v166InlineBubbleBack:visible").click(timeout=12000)
     page.get_by_role("button",name="좌자 금일 베스트셀러 인사이트").click()
     page.locator("#modalOverlay").wait_for(state="visible",timeout=25000)
     page.locator("#bubbleText .zuoci-best-title:visible").first.wait_for(timeout=25000)
     result["zuociUnaffected"]=len(page.locator("#bubbleText .zuoci-best-title:visible").all_text_contents())==10
     browser.close()
-result["pass"]=all([result["storageMatch"],result["liveBrowserMatch"],result["zuociUnaffected"],result["all14Fields"],result["marketStatusHonest"],not result["pageErrors"]])
+result["pass"]=all([result["storageMatch"],result["liveBrowserMatch"],result["originalDesignRetained"],result["zuociUnaffected"],result["all14Fields"],result["marketStatusHonest"],not result["pageErrors"]])
 pathlib.Path("proof").mkdir(exist_ok=True)
 pathlib.Path("proof/latest-verification.json").write_text(json.dumps(result,ensure_ascii=False,indent=2))
 print("GPT_DIRECT_PUBLIC_E2E",json.dumps(result,ensure_ascii=False),flush=True)
