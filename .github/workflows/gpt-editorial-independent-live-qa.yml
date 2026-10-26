@@ -1,0 +1,36 @@
+name: GPT editorial direct canonical and live Zhuge bubble verification
+'on':
+  push:
+    paths:
+      - gpt-editorial/latest.json
+      - gpt-editorial/daily/**
+      - scripts/verify_gpt_editorial_live.py
+      - .github/workflows/gpt-editorial-independent-live-qa.yml
+  schedule:
+    - cron: '49 0 * * *'  # 09:49 Asia/Seoul; verify, never publish
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: court-gpt-public-feed-readonly-qa
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Syntax, browser driver
+        run: |
+          python3 -m py_compile scripts/verify_gpt_editorial_live.py
+          python3 -m pip install --quiet playwright==1.56.0
+      - name: Compare official GPT daily and latest exact bytes with actual Pages bubble and Zuoci
+        run: python3 scripts/verify_gpt_editorial_live.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gpt-editorial-independent-live-parity
+          path: proof/
+          retention-days: 7
