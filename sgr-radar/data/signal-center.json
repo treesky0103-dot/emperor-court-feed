@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 27. 오전 02:26:32",
+  "updatedAt": "2026. 10. 27. 오전 06:47:04",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -235,6 +235,18 @@
           "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261023000034",
+          "title": "[채권/외환] AI 투자 불안에 美 국채 금리 급락…10년물 5% 아래로, 엔화도 강세",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261023000034"
+        },
+        {
           "id": "https://www.koreatimes.com/article/11629072",
           "title": "뉴욕증시, AI투자 불안에 나스닥 2.6%↓…반도체지수 6.7% 급락",
           "source": "koreatimes.com",
@@ -261,18 +273,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261008001233",
-          "title": "테슬라·BYD 무서운 습격… 수입차 시장 비중 25% 뚫었다",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T00:17:00Z",
-          "publishedAt": "2026-10-26T00:17:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261008001233"
-        },
-        {
           "id": "https://www.fnnews.com/news/202610251005265677",
           "title": "\"한국 투자만큼 비자 쿼터 늘려야\"…美 중간선거 주목하는 아이오와 한인들",
           "source": "fnnews.com",
@@ -288,11 +288,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 6
         },
         {
           "word": "금리",
-          "count": 1
+          "count": 2
         },
         {
           "word": "기업",
@@ -400,6 +400,18 @@
           "url": "https://news.mtn.co.kr/article/2026102315340196719"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261023000034",
+          "title": "[채권/외환] AI 투자 불안에 美 국채 금리 급락…10년물 5% 아래로, 엔화도 강세",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261023000034"
+        },
+        {
           "id": "https://www.koreatimes.com/article/11629072",
           "title": "뉴욕증시, AI투자 불안에 나스닥 2.6%↓…반도체지수 6.7% 급락",
           "source": "koreatimes.com",
@@ -412,6 +424,18 @@
           "url": "https://www.koreatimes.com/article/11629072"
         },
         {
+          "id": "https://www.voakorea.com/a/us-midterm-ballot-measures/8215362.html",
+          "title": "푸아그라 판매 금지·데이터센터 건설까지…중간선거, 이런 것까지 결정한다",
+          "source": "voakorea.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
+          "summary": "",
+          "url": "https://www.voakorea.com/a/us-midterm-ballot-measures/8215362.html"
+        },
+        {
           "id": "https://se.koreatimes.com/article/1634355",
           "title": "장성길 시애틀총영사, 벨뷰 한인 IT기업 테크에이스 방문…AI 전환사업 살펴봐",
           "source": "se.koreatimes.com",
@@ -422,32 +446,6 @@
           "publishedAt": "2026-10-26T11:02:00Z",
           "summary": "",
           "url": "https://se.koreatimes.com/article/1634355"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227198",
-          "title": "AI 독학해 기업 90여 곳 해킹…개인정보 820만 건 빼돌려 협박",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T10:00:00Z",
-          "publishedAt": "2026-10-26T10:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227198",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.hankookilbo.com/news/article/A2026102316510004196",
-          "title": "\"반도체 개발해 달라\"는 스티브 잡스의 요청…거절한 인텔이 마주한 결과는?-경제ㅣ한국일보",
-          "source": "hankookilbo.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T05:01:00Z",
-          "publishedAt": "2026-10-26T05:01:00Z",
-          "summary": "",
-          "url": "https://www.hankookilbo.com/news/article/A2026102316510004196"
         }
       ],
       "keywords": [
@@ -457,11 +455,11 @@
         },
         {
           "word": "반도체",
-          "count": 5
+          "count": 4
         },
         {
           "word": "데이터센터",
-          "count": 1
+          "count": 2
         },
         {
           "word": "클라우드",
@@ -573,28 +571,28 @@
           "url": "https://www.longisland.com/business/cresli.html"
         },
         {
-          "id": "https://www.pasadenastarnews.com/2026/10/26/whos-on-air-force-one-trump-midterm-election-entourage/",
-          "title": "Who’s on Air Force One? Trump’s midterms entourage includes strategists, aides and aging athletes",
-          "source": "pasadenastarnews.com",
+          "id": "https://www.nwemail.co.uk/news/26671886.cumbria-care-workers-trek-great-wall-dementia-uk/",
+          "title": "Cumbria care workers to trek Great Wall for Dementia UK",
+          "source": "nwemail.co.uk",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-26",
-          "dateRaw": "2026-10-26T17:17:00Z",
-          "publishedAt": "2026-10-26T17:17:00Z",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
           "summary": "",
-          "url": "https://www.pasadenastarnews.com/2026/10/26/whos-on-air-force-one-trump-midterm-election-entourage/"
+          "url": "https://www.nwemail.co.uk/news/26671886.cumbria-care-workers-trek-great-wall-dementia-uk/"
         },
         {
-          "id": "https://www.asianscientist.com/2026/10/health/certain-fertility-treatments-linked-to-kawasaki-disease-risk-in-children/",
-          "title": "Certain Fertility Treatments Linked To Kawasaki Disease Risk In Children – Asian Scientist Magazine",
-          "source": "asianscientist.com",
+          "id": "https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/",
+          "title": "Could Victory for Netanyahu Mean Mass Emigration?",
+          "source": "foreignpolicy.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-26",
-          "dateRaw": "2026-10-26T17:17:00Z",
-          "publishedAt": "2026-10-26T17:17:00Z",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
           "summary": "",
-          "url": "https://www.asianscientist.com/2026/10/health/certain-fertility-treatments-linked-to-kawasaki-disease-risk-in-children/"
+          "url": "https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/"
         }
       ],
       "keywords": [
@@ -603,12 +601,12 @@
           "count": 3
         },
         {
-          "word": "고령화",
+          "word": "이민",
           "count": 2
         },
         {
-          "word": "이민",
-          "count": 2
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "정신건강",
@@ -799,16 +797,16 @@
           "url": "http://www.beijingbulletin.com/news/279396547/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms"
         },
         {
-          "id": "http://www.coloradostar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
+          "id": "http://www.brazilsun.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
           "title": "China-aligned hackers used AI tool to target over 2,250 cloud environments worldwide",
-          "source": "coloradostar.com",
+          "source": "brazilsun.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-26",
-          "dateRaw": "2026-10-26T17:17:00Z",
-          "publishedAt": "2026-10-26T17:17:00Z",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
           "summary": "",
-          "url": "http://www.coloradostar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide"
+          "url": "http://www.brazilsun.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide"
         },
         {
           "id": "https://www.techspot.com/news/114333-nvidia-ai-chips-already-make-billions-now-jensen.html",
@@ -940,9 +938,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1167,
-    "fetchedItems": 6129,
-    "feedBytes": 1741419,
+    "poolSize": 1181,
+    "fetchedItems": 4377,
+    "feedBytes": 1224195,
     "rollingWindowHours": 72
   }
 }

@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 27. 오전 02:26:30",
+  "updatedAt": "2026. 10. 27. 오전 06:47:01",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 427,
-    "passed": 155,
-    "deduped": 155,
-    "eventDeduped": 155,
+    "raw": 490,
+    "passed": 181,
+    "deduped": 181,
+    "eventDeduped": 181,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -54,6 +54,18 @@
       "url": "https://www.koreatimes.com/article/11629072"
     },
     {
+      "id": "https://www.energymatters.com.au/renewable-news/smsf-solar-investment-australia/",
+      "title": "Can Your SMSF Invest in Solar and Clean Energy?",
+      "source": "energymatters.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.energymatters.com.au/renewable-news/smsf-solar-investment-australia/"
+    },
+    {
       "id": "https://wwd.com/sourcing-journal/industry-news/why-supply-chain-performance-starts-at-production-sml-factory-1239386051/",
       "title": "Inside the Factory: Why Supply Chain Performance Starts at Production",
       "source": "wwd.com",
@@ -90,18 +102,6 @@
       "url": "http://www.japanherald.com/news/279397752/hcltech-japan-rapidus-announce-partnership-for-next-generation-semiconductor-technologies"
     },
     {
-      "id": "https://en.interfax.com.ua/news/general/1226289.html",
-      "title": "UN Commission of Inquiry: Russian attacks on Ukraine's energy infrastructure amount to crimes against humanity",
-      "source": "en.interfax.com.ua",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:17:00Z",
-      "publishedAt": "2026-10-26T17:17:00Z",
-      "summary": "",
-      "url": "https://en.interfax.com.ua/news/general/1226289.html"
-    },
-    {
       "id": "https://www.gazetteherald.co.uk/news/26669005.tofoo-co-building-new-malton-factory-double-production/",
       "title": "Start on new tofu factory which will double production at North Yorkshire firm",
       "source": "gazetteherald.co.uk",
@@ -126,16 +126,16 @@
       "url": "https://addictinginfo.org/articles/data-centers-and-your-electricity-bill/"
     },
     {
-      "id": "http://www.philippinetimes.com/news/279398482/sierra-club-calls-for-data-center-moratorium-in-georgia",
-      "title": "Sierra Club calls for data center moratorium in Georgia",
-      "source": "philippinetimes.com",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261027000008",
+      "title": "친데이터센터 슈퍼팩, 중간선거 공화당 후보 지원 본격화",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
       "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:17:00Z",
-      "publishedAt": "2026-10-26T17:17:00Z",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
       "summary": "",
-      "url": "http://www.philippinetimes.com/news/279398482/sierra-club-calls-for-data-center-moratorium-in-georgia"
+      "url": "https://www.newspim.com/news/view/20261027000008"
     }
   ],
   "trendItems": [
@@ -210,6 +210,18 @@
       "publishedAt": "2026-10-26T11:02:00Z",
       "summary": "",
       "url": "https://www.koreatimes.com/article/11629072"
+    },
+    {
+      "id": "https://www.energymatters.com.au/renewable-news/smsf-solar-investment-australia/",
+      "title": "Can Your SMSF Invest in Solar and Clean Energy?",
+      "source": "energymatters.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.energymatters.com.au/renewable-news/smsf-solar-investment-australia/"
     },
     {
       "id": "https://wwd.com/sourcing-journal/industry-news/why-supply-chain-performance-starts-at-production-sml-factory-1239386051/",
@@ -320,6 +332,30 @@
       "url": "https://addictinginfo.org/articles/data-centers-and-your-electricity-bill/"
     },
     {
+      "id": "https://www.newspim.com/news/view/20261027000008",
+      "title": "친데이터센터 슈퍼팩, 중간선거 공화당 후보 지원 본격화",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261027000008"
+    },
+    {
+      "id": "https://www.voakorea.com/a/us-midterm-ballot-measures/8215362.html",
+      "title": "푸아그라 판매 금지·데이터센터 건설까지…중간선거, 이런 것까지 결정한다",
+      "source": "voakorea.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.voakorea.com/a/us-midterm-ballot-measures/8215362.html"
+    },
+    {
       "id": "https://www.koreatimes.com/article/1635096",
       "title": "“트럼프 美조선업 부흥의 핵심 파트너”…WSJ, 한화오션 조명",
       "source": "koreatimes.com",
@@ -344,16 +380,40 @@
       "url": "https://www.hankookilbo.com/news/article/A2026102316510004196"
     },
     {
-      "id": "https://www.techspot.com/news/114338-apple-refreshes-ipad-mini-bigger-screen-faster-processor.html",
-      "title": "Apple's new iPad mini gets an OLED display, A20 Pro chip, and IP67 rating",
-      "source": "techspot.com",
+      "id": "https://1370wfea.com/morning-update/data-centers-in-concord-eat-the-rich-in-vermont-and-other-morning-delusions/",
+      "title": "Data Centers in Concord, ‘Eat the Rich’ in Vermont, and Other Morning Delusions",
+      "source": "1370wfea.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:17:00Z",
-      "publishedAt": "2026-10-26T17:17:00Z",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
       "summary": "",
-      "url": "https://www.techspot.com/news/114338-apple-refreshes-ipad-mini-bigger-screen-faster-processor.html"
+      "url": "https://1370wfea.com/morning-update/data-centers-in-concord-eat-the-rich-in-vermont-and-other-morning-delusions/"
+    },
+    {
+      "id": "https://econotimes.com/Simpson-Manufacturing-Raises-Buyback-Authorization-to-1-Billion-1764001",
+      "title": "Simpson Manufacturing Raises Buyback Authorization to $1 Billion | EconoTimes",
+      "source": "econotimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://econotimes.com/Simpson-Manufacturing-Raises-Buyback-Authorization-to-1-Billion-1764001"
+    },
+    {
+      "id": "https://www.breitbart.com/politics/2026/10/26/exclusive-chip-roy-requests-specifics-mass-deportations-dhs/",
+      "title": "Exclusive: Chip Roy Requests Specifics on Mass Deportations from DHS",
+      "source": "breitbart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.breitbart.com/politics/2026/10/26/exclusive-chip-roy-requests-specifics-mass-deportations-dhs/"
     },
     {
       "id": "http://www.philippinetimes.com/news/279398482/sierra-club-calls-for-data-center-moratorium-in-georgia",
@@ -366,18 +426,6 @@
       "publishedAt": "2026-10-26T17:17:00Z",
       "summary": "",
       "url": "http://www.philippinetimes.com/news/279398482/sierra-club-calls-for-data-center-moratorium-in-georgia"
-    },
-    {
-      "id": "https://patch.com/illinois/joliet/joliet-technology-center-ruling-brings-city-joliet-resounding-victory-over-these",
-      "title": "Joliet Technology Center Ruling Brings City Of Joliet Resounding Victory Over These Data Center Opponents",
-      "source": "patch.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:17:00Z",
-      "publishedAt": "2026-10-26T17:17:00Z",
-      "summary": "",
-      "url": "https://patch.com/illinois/joliet/joliet-technology-center-ruling-brings-city-joliet-resounding-victory-over-these"
     },
     {
       "id": "https://www.energy-pedia.com/news/germany/rwe-and-borussia-dortmund-officially-commissioned-the-new-battery-storage-system-at-signal-iduna-park-today-during-the-bundesliga-home-match-205819",
@@ -404,30 +452,6 @@
       "url": "https://www.theblaze.com/tech/this-christian-celebrity-s-new-gym-offers-health-for-normal-people-not-superhuman-biotech"
     },
     {
-      "id": "https://www.sharonherald.com/news/local_news/shapiro-says-his-data-center-order-somerset-countys-restrictions-can-work-together/article_0e4cabec-b8f5-5650-b67d-d423df01d8fc.html",
-      "title": "Shapiro says his data center order, Somerset County's restrictions can work together",
-      "source": "sharonherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:17:00Z",
-      "publishedAt": "2026-10-26T17:17:00Z",
-      "summary": "",
-      "url": "https://www.sharonherald.com/news/local_news/shapiro-says-his-data-center-order-somerset-countys-restrictions-can-work-together/article_0e4cabec-b8f5-5650-b67d-d423df01d8fc.html"
-    },
-    {
-      "id": "http://www.theitem.com/stories/data-centers-are-inspiring-bipartisanship-for-now,448311",
-      "title": "Data centers are inspiring bipartisanship – for now - The Sumter Item",
-      "source": "theitem.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:16:00Z",
-      "publishedAt": "2026-10-26T17:16:00Z",
-      "summary": "",
-      "url": "http://www.theitem.com/stories/data-centers-are-inspiring-bipartisanship-for-now,448311"
-    },
-    {
       "id": "https://www.energy-pedia.com/news/germany/giga-storage-reaches-financial-close-for-the-albatross-energy-storage-project-in-germany-and-builds-1-4-gw-in-3-countries-205817",
       "title": "Germany: GIGA Storage reaches financial close for the Albatross Energy Storage project in Germany and builds 1.4 GW in 3 countries",
       "source": "energy-pedia.com",
@@ -452,18 +476,6 @@
       "url": "https://www.actionforex.com/live-comments/658731-germany-ifo-business-climate-rises-to-90-2-as-manufacturing-turns-positive-for-first-time-in-three-years/"
     },
     {
-      "id": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html",
-      "title": "Asia Is Building the World’s Next $15 Trillion Energy Market | OilPrice.com",
-      "source": "oilprice.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T00:16:00Z",
-      "publishedAt": "2026-10-26T00:16:00Z",
-      "summary": "",
-      "url": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html"
-    },
-    {
       "id": "https://balticbusinessnews.com/medtec-southeast-asia-2025-the-southeast-asias-premier-medical-device-design-manufacturing-exhibition-debuts-in-malaysia/",
       "title": "Medtec Southeast Asia 2025 - The Southeast Asia's Premier Medical Device Design & Manufacturing Exhibition Debuts in Malaysia - Australian Bloggers",
       "source": "balticbusinessnews.com",
@@ -474,18 +486,6 @@
       "publishedAt": "2026-10-25T22:16:00Z",
       "summary": "",
       "url": "https://balticbusinessnews.com/medtec-southeast-asia-2025-the-southeast-asias-premier-medical-device-design-manufacturing-exhibition-debuts-in-malaysia/"
-    },
-    {
-      "id": "https://www.clinicalleader.com/doc/how-a-rare-disease-biotech-replaced-manual-processes-with-rtsm-software-0001",
-      "title": "How A Rare Disease Biotech Replaced Manual Processes With RTSM Software",
-      "source": "clinicalleader.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-25",
-      "dateRaw": "2026-10-25T19:46:00Z",
-      "publishedAt": "2026-10-25T19:46:00Z",
-      "summary": "",
-      "url": "https://www.clinicalleader.com/doc/how-a-rare-disease-biotech-replaced-manual-processes-with-rtsm-software-0001"
     },
     {
       "id": "https://www.dealstreetasia.com/stories/indonesias-iif-extends-33m-financing-for-data-centre-heart-hospital-projects-499166",
@@ -524,40 +524,40 @@
       "url": "https://zdnet.co.kr/view/?no=20261026101827"
     },
     {
-      "id": "http://www.vietnamtribune.com/news/279397937/hkex-launches-artificial-intelligence-and-semiconductor-indices",
+      "id": "http://www.sydneysun.com/news/279397937/hkex-launches-artificial-intelligence-and-semiconductor-indices",
       "title": "HKEX Launches Artificial Intelligence and Semiconductor Indices",
-      "source": "vietnamtribune.com",
+      "source": "sydneysun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:31:00Z",
+      "publishedAt": "2026-10-26T21:31:00Z",
+      "summary": "",
+      "url": "http://www.sydneysun.com/news/279397937/hkex-launches-artificial-intelligence-and-semiconductor-indices"
+    },
+    {
+      "id": "https://www.techspot.com/news/114338-apple-refreshes-ipad-mini-bigger-screen-faster-processor.html",
+      "title": "Apple's new iPad mini gets an OLED display, A20 Pro chip, and IP67 rating",
+      "source": "techspot.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-26",
       "dateRaw": "2026-10-26T17:17:00Z",
       "publishedAt": "2026-10-26T17:17:00Z",
       "summary": "",
-      "url": "http://www.vietnamtribune.com/news/279397937/hkex-launches-artificial-intelligence-and-semiconductor-indices"
+      "url": "https://www.techspot.com/news/114338-apple-refreshes-ipad-mini-bigger-screen-faster-processor.html"
     },
     {
-      "id": "https://www.fonearena.com/blog/495750/apple-ipad-mini-2026-price-india-specifications.html",
-      "title": "Apple introduces new iPad mini with OLED display and A20 Pro chip; India prices starts at Rs. 82,900",
-      "source": "fonearena.com",
+      "id": "https://patch.com/illinois/joliet/joliet-technology-center-ruling-brings-city-joliet-resounding-victory-over-these",
+      "title": "Joliet Technology Center Ruling Brings City Of Joliet Resounding Victory Over These Data Center Opponents",
+      "source": "patch.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-26",
       "dateRaw": "2026-10-26T17:17:00Z",
       "publishedAt": "2026-10-26T17:17:00Z",
       "summary": "",
-      "url": "https://www.fonearena.com/blog/495750/apple-ipad-mini-2026-price-india-specifications.html"
-    },
-    {
-      "id": "https://www.sharonherald.com/news/local_news/homer-city-generations-data-center-water-plans-scrutinized/article_902a4dd6-c0e2-5931-a485-d16c058f6495.html",
-      "title": "Homer City Generation's data center water plans scrutinized",
-      "source": "sharonherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:16:00Z",
-      "publishedAt": "2026-10-26T17:16:00Z",
-      "summary": "",
-      "url": "https://www.sharonherald.com/news/local_news/homer-city-generations-data-center-water-plans-scrutinized/article_902a4dd6-c0e2-5931-a485-d16c058f6495.html"
+      "url": "https://patch.com/illinois/joliet/joliet-technology-center-ruling-brings-city-joliet-resounding-victory-over-these"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261026112031",
@@ -680,6 +680,30 @@
       "url": "https://www.freepressjournal.in/indore/iim-indore-develops-ai-framework-to-safeguard-semiconductor-supply-chains-from-wars-cyberattacks-and-geopolitical-disruptions-study-identifies-safer-logistics-routes"
     },
     {
+      "id": "https://www.newspim.com/news/view/20261023000034",
+      "title": "[채권/외환] AI 투자 불안에 美 국채 금리 급락…10년물 5% 아래로, 엔화도 강세",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261023000034"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261027000005",
+      "title": "[GAM] AI 투자 지형이 바뀐다 ② PHP 취약점 사태 속 사이버보안주는 랠리",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-26",
+      "dateRaw": "2026-10-26T21:32:00Z",
+      "publishedAt": "2026-10-26T21:32:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261027000005"
+    },
+    {
       "id": "https://greentechlead.com/power/ai-data-center-power-demand-2026-2030-amazon-microsoft-google-meta-oracle-and-coreweave-who-needs-the-most-electricity-56166",
       "title": "AI Data Center Power Demand 2026–2030: Amazon, Microsoft, Google, Meta, Oracle and CoreWeave — Who Needs the Most Electricity? - GreentechLead",
       "source": "greentechlead.com",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-10-26T17:16:00Z",
       "summary": "",
       "url": "https://greentechlead.com/power/1-gw-ai-data-center-electricity-consumption-and-cost-microsoft-meta-oracle-xai-and-google-projects-compared-56172"
-    },
-    {
-      "id": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings",
-      "title": "AI spending fears threaten to swamp Big Tech’s strong earnings",
-      "source": "businesstimes.com.sg",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T00:16:00Z",
-      "publishedAt": "2026-10-26T00:16:00Z",
-      "summary": "",
-      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-spending-fears-threaten-swamp-big-techs-strong-earnings"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261026000135",
-      "title": "토마토시스템, 창립 26주년 행사서 \"AI·디지털 헬스케어 확대\"",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T00:16:00Z",
-      "publishedAt": "2026-10-26T00:16:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261026000135"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 427,
-    "fetchedItems": 6129,
-    "relevantItems": 183,
-    "feedBytes": 1741419,
+    "poolSize": 490,
+    "fetchedItems": 4377,
+    "relevantItems": 125,
+    "feedBytes": 1224195,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
