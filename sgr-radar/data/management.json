@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 27. 오전 09:54:09",
+  "updatedAt": "2026. 10. 27. 오후 03:00:07",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 495,
-    "passed": 13,
-    "deduped": 13,
-    "eventDeduped": 13,
+    "raw": 540,
+    "passed": 14,
+    "deduped": 14,
+    "eventDeduped": 14,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -18,28 +18,40 @@
   },
   "items": [
     {
-      "id": "https://www.ksl.com:443/article/51641227/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates",
+      "id": "https://www.asiaone.com/money/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai-spending-accelerates",
       "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
-      "source": "ksl.com",
+      "source": "asiaone.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-27",
-      "dateRaw": "2026-10-27T00:46:00Z",
-      "publishedAt": "2026-10-27T00:46:00Z",
+      "dateRaw": "2026-10-27T05:46:00Z",
+      "publishedAt": "2026-10-27T05:46:00Z",
       "summary": "",
-      "url": "https://www.ksl.com:443/article/51641227/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates"
+      "url": "https://www.asiaone.com/money/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai-spending-accelerates"
     },
     {
-      "id": "https://www.ft.lk/hr/BASL-to-host-inaugural-Board-Leader-Ready-Symposium-on-corporate-governance-and-boardroom-leadership/47-799162",
-      "title": "BASL to host inaugural Board Leader Ready Symposium on corporate governance and boardroom leadership | Daily FT",
-      "source": "ft.lk",
+      "id": "https://www.mondaq.com:443/unitedstates/privacy-protection/1860276/from-iapp-to-action-privacy-security-and-ai-governance",
+      "title": "From IAPP To Action: Privacy, Security And AI Governance",
+      "source": "mondaq.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T05:02:00Z",
-      "publishedAt": "2026-10-26T05:02:00Z",
+      "date": "2026-10-27",
+      "dateRaw": "2026-10-27T05:46:00Z",
+      "publishedAt": "2026-10-27T05:46:00Z",
       "summary": "",
-      "url": "https://www.ft.lk/hr/BASL-to-host-inaugural-Board-Leader-Ready-Symposium-on-corporate-governance-and-boardroom-leadership/47-799162"
+      "url": "https://www.mondaq.com:443/unitedstates/privacy-protection/1860276/from-iapp-to-action-privacy-security-and-ai-governance"
+    },
+    {
+      "id": "https://www.etnews.com/20261027000264",
+      "title": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-27",
+      "dateRaw": "2026-10-27T05:47:00Z",
+      "publishedAt": "2026-10-27T05:47:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261027000264"
     },
     {
       "id": "https://se.koreatimes.com/article/1634355",
@@ -100,6 +112,18 @@
       "publishedAt": "2026-10-26T11:02:00Z",
       "summary": "",
       "url": "https://www.bostonherald.com/2026/10/26/recent-massachusetts-hospital-layoffs-not-reflected-in-states-warn-notification-system/"
+    },
+    {
+      "id": "https://www.ddaily.co.kr:443/page/view/2026102711363809502",
+      "title": "'스픽'이 겪은 AI 한계…\"기술보다 업무 방식 바꿔야\" [현장]",
+      "source": "ddaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-27",
+      "dateRaw": "2026-10-27T05:47:00Z",
+      "publishedAt": "2026-10-27T05:47:00Z",
+      "summary": "",
+      "url": "https://www.ddaily.co.kr:443/page/view/2026102711363809502"
     },
     {
       "id": "https://www.koreatimes.co.kr/economy/others/20261027/chip-led-growth-ai-erode-youth-job-quality-bok",
@@ -112,56 +136,44 @@
       "publishedAt": "2026-10-27T00:46:00Z",
       "summary": "",
       "url": "https://www.koreatimes.co.kr/economy/others/20261027/chip-led-growth-ai-erode-youth-job-quality-bok"
-    },
-    {
-      "id": "https://www.techspot.com/news/114336-meta-plans-95-billion-stock-offering-fuel-ai.html",
-      "title": "Meta plans $95 billion stock offering to fuel AI spending despite growing bubble fears",
-      "source": "techspot.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T17:17:00Z",
-      "publishedAt": "2026-10-26T17:17:00Z",
-      "summary": "",
-      "url": "https://www.techspot.com/news/114336-meta-plans-95-billion-stock-offering-fuel-ai.html"
-    },
-    {
-      "id": "https://www.koreatimes.com/article/11629083",
-      "title": "“앤트로픽, 유럽 ‘AI 컨설팅’ 진출…‘기업 고객’ 놓고 경쟁”",
-      "source": "koreatimes.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T11:01:00Z",
-      "publishedAt": "2026-10-26T11:01:00Z",
-      "summary": "",
-      "url": "https://www.koreatimes.com/article/11629083"
     }
   ],
   "trendItems": [
     {
-      "id": "https://www.ksl.com:443/article/51641227/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates",
+      "id": "https://www.asiaone.com/money/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai-spending-accelerates",
       "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
-      "source": "ksl.com",
+      "source": "asiaone.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-10-27",
-      "dateRaw": "2026-10-27T00:46:00Z",
-      "publishedAt": "2026-10-27T00:46:00Z",
+      "dateRaw": "2026-10-27T05:46:00Z",
+      "publishedAt": "2026-10-27T05:46:00Z",
       "summary": "",
-      "url": "https://www.ksl.com:443/article/51641227/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates"
+      "url": "https://www.asiaone.com/money/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai-spending-accelerates"
     },
     {
-      "id": "https://www.ft.lk/hr/BASL-to-host-inaugural-Board-Leader-Ready-Symposium-on-corporate-governance-and-boardroom-leadership/47-799162",
-      "title": "BASL to host inaugural Board Leader Ready Symposium on corporate governance and boardroom leadership | Daily FT",
-      "source": "ft.lk",
+      "id": "https://www.mondaq.com:443/unitedstates/privacy-protection/1860276/from-iapp-to-action-privacy-security-and-ai-governance",
+      "title": "From IAPP To Action: Privacy, Security And AI Governance",
+      "source": "mondaq.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T05:02:00Z",
-      "publishedAt": "2026-10-26T05:02:00Z",
+      "date": "2026-10-27",
+      "dateRaw": "2026-10-27T05:46:00Z",
+      "publishedAt": "2026-10-27T05:46:00Z",
       "summary": "",
-      "url": "https://www.ft.lk/hr/BASL-to-host-inaugural-Board-Leader-Ready-Symposium-on-corporate-governance-and-boardroom-leadership/47-799162"
+      "url": "https://www.mondaq.com:443/unitedstates/privacy-protection/1860276/from-iapp-to-action-privacy-security-and-ai-governance"
+    },
+    {
+      "id": "https://www.etnews.com/20261027000264",
+      "title": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-27",
+      "dateRaw": "2026-10-27T05:47:00Z",
+      "publishedAt": "2026-10-27T05:47:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261027000264"
     },
     {
       "id": "https://se.koreatimes.com/article/1634355",
@@ -224,16 +236,16 @@
       "url": "https://www.bostonherald.com/2026/10/26/recent-massachusetts-hospital-layoffs-not-reflected-in-states-warn-notification-system/"
     },
     {
-      "id": "https://www.ft.lk/hr/Sentiva-s-Workforce-Asia-Summit-on-4-Nov-to-explore-future-of-work-in-Colombo/47-799161",
-      "title": "Sentiva’s Workforce Asia Summit on 4 Nov. to explore future of work in Colombo | Daily FT",
-      "source": "ft.lk",
-      "language": "English",
+      "id": "https://www.ddaily.co.kr:443/page/view/2026102711363809502",
+      "title": "'스픽'이 겪은 AI 한계…\"기술보다 업무 방식 바꿔야\" [현장]",
+      "source": "ddaily.co.kr",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-10-26",
-      "dateRaw": "2026-10-26T05:01:00Z",
-      "publishedAt": "2026-10-26T05:01:00Z",
+      "date": "2026-10-27",
+      "dateRaw": "2026-10-27T05:47:00Z",
+      "publishedAt": "2026-10-27T05:47:00Z",
       "summary": "",
-      "url": "https://www.ft.lk/hr/Sentiva-s-Workforce-Asia-Summit-on-4-Nov-to-explore-future-of-work-in-Colombo/47-799161"
+      "url": "https://www.ddaily.co.kr:443/page/view/2026102711363809502"
     },
     {
       "id": "https://www.koreatimes.co.kr/economy/others/20261027/chip-led-growth-ai-erode-youth-job-quality-bok",
@@ -299,10 +311,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 495,
-    "fetchedItems": 3154,
-    "relevantItems": 109,
-    "feedBytes": 858476,
+    "poolSize": 540,
+    "fetchedItems": 4020,
+    "relevantItems": 125,
+    "feedBytes": 1103123,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
