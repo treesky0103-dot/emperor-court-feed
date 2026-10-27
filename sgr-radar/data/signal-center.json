@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 28. 오전 02:54:19",
+  "updatedAt": "2026. 10. 28. 오전 06:51:48",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -223,18 +223,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02256646645616528&mediaCodeNo=257"
         },
         {
-          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/",
-          "title": "[정책 인사이트] ‘전기 먹는 하마’ AI 데이터센터… 정부 “소비자에 전기요금 떠넘기기 안돼”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-24",
-          "dateRaw": "2026-10-24T21:46:00Z",
-          "publishedAt": "2026-10-24T21:46:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
-        },
-        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026102711040157035",
           "title": "K-원전 해외시장 진출 모색…경주서 글로벌 공급망 협력 행사",
           "source": "ddaily.co.kr",
@@ -281,6 +269,20 @@
           "publishedAt": "2026-10-27T11:47:00Z",
           "summary": "",
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1318228"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227344",
+          "title": "[속보] 코스피 5638.34(▲168.87p, 3.09%) 마감, 원·달러 환율 1323.7원",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-27",
+          "dateRaw": "2026-10-27T06:41:00Z",
+          "publishedAt": "2026-10-27T06:41:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227344",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
@@ -293,10 +295,6 @@
           "count": 4
         },
         {
-          "word": "소비",
-          "count": 2
-        },
-        {
           "word": "공급망",
           "count": 1
         },
@@ -305,7 +303,15 @@
           "count": 1
         },
         {
+          "word": "소비",
+          "count": 1
+        },
+        {
           "word": "수출",
+          "count": 1
+        },
+        {
+          "word": "환율",
           "count": 1
         }
       ],
@@ -328,18 +334,6 @@
           "url": "https://www.etnews.com/20261026000015",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/",
-          "title": "[정책 인사이트] ‘전기 먹는 하마’ AI 데이터센터… 정부 “소비자에 전기요금 떠넘기기 안돼”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-24",
-          "dateRaw": "2026-10-24T21:46:00Z",
-          "publishedAt": "2026-10-24T21:46:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/25/23QPRCOSVFEHDIRB2I7O6F6PW4/"
         },
         {
           "id": "https://www.mk.co.kr/news/society/12186907",
@@ -442,12 +436,24 @@
           "publishedAt": "2026-10-27T05:47:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11626621"
+        },
+        {
+          "id": "https://www.voakorea.com/a/us-midterm-ballot-measures/8215362.html",
+          "title": "푸아그라 판매 금지·데이터센터 건설까지…중간선거, 이런 것까지 결정한다",
+          "source": "voakorea.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-26",
+          "dateRaw": "2026-10-26T21:32:00Z",
+          "publishedAt": "2026-10-26T21:32:00Z",
+          "summary": "",
+          "url": "https://www.voakorea.com/a/us-midterm-ballot-measures/8215362.html"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "반도체",
@@ -571,34 +577,38 @@
           "url": "https://www.presstv.co.uk/Detail/2026/10/25/779131/France-asks-telecom-for-social-media-restrictions"
         },
         {
-          "id": "https://kval.com/news/nation-world/registered-sex-offender-tried-to-enroll-at-high-school-by-posing-as-teenage-girl-reports-oregon-mississippi-maple-grove-senior-high-school-students-teachers-education-aggravated-forgery-true-crime",
-          "title": "Registered sex offender tried to enroll at high school by posing as teenage girl: reports",
-          "source": "kval.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-24",
-          "dateRaw": "2026-10-24T19:46:00Z",
-          "publishedAt": "2026-10-24T19:46:00Z",
-          "summary": "",
-          "url": "https://kval.com/news/nation-world/registered-sex-offender-tried-to-enroll-at-high-school-by-posing-as-teenage-girl-reports-oregon-mississippi-maple-grove-senior-high-school-students-teachers-education-aggravated-forgery-true-crime"
-        },
-        {
-          "id": "https://www.universityherald.com/articles/80564/20261022/university-california-students-math-failure-rates-nearly-double-after-sat-act-admission-changes.htm",
-          "title": "University of California Students' Math Failure Rates Nearly Double After SAT and ACT Admission Changes",
-          "source": "universityherald.com",
+          "id": "https://www.miragenews.com/rejuvenation-biotechnology-the-quest-to-reverse-1049670/",
+          "title": "Rejuvenation Biotechnology: The Quest to Reverse Aging",
+          "source": "miragenews.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T17:47:00Z",
-          "publishedAt": "2026-10-27T17:47:00Z",
+          "dateRaw": "2026-10-27T21:46:00Z",
+          "publishedAt": "2026-10-27T21:46:00Z",
           "summary": "",
-          "url": "https://www.universityherald.com/articles/80564/20261022/university-california-students-math-failure-rates-nearly-double-after-sat-act-admission-changes.htm"
+          "url": "https://www.miragenews.com/rejuvenation-biotechnology-the-quest-to-reverse-1049670/"
+        },
+        {
+          "id": "https://www.wlox.com/2026/10/27/judge-eyes-house-arrest-mother-son-while-they-await-federal-sentencing-states-largest-welfare-scheme/",
+          "title": "Judge eyes house arrest for mother, son while they await federal sentencing in state’s largest welfare scheme",
+          "source": "wlox.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-27",
+          "dateRaw": "2026-10-27T21:46:00Z",
+          "publishedAt": "2026-10-27T21:46:00Z",
+          "summary": "",
+          "url": "https://www.wlox.com/2026/10/27/judge-eyes-house-arrest-mother-son-while-they-await-federal-sentencing-states-largest-welfare-scheme/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 5
+        },
+        {
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "정신건강",
@@ -926,9 +936,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1496,
-    "fetchedItems": 6638,
-    "feedBytes": 1930977,
+    "poolSize": 1538,
+    "fetchedItems": 4461,
+    "feedBytes": 1252182,
     "rollingWindowHours": 72
   }
 }
