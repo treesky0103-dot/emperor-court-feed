@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 27. 오후 03:00:10",
+  "updatedAt": "2026. 10. 27. 오후 09:01:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -36,18 +36,18 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12186913",
-          "title": "3만명 돌본 천사들의 쉼표… SK, ‘돌봄 돌보다’",
+          "id": "https://www.mk.co.kr/news/politics/12187378",
+          "title": "수도권 청년의원 152명, “김동아 민주당 청년위원장 후보 지지한다” 선언",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T14:08:58Z",
-          "publishedAt": "2026-10-27T14:08:58Z",
+          "dateRaw": "2026-10-27T17:38:18Z",
+          "publishedAt": "2026-10-27T17:38:18Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12186913",
+          "url": "https://www.mk.co.kr/news/politics/12187378",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.segye.com:443/newsView/20261027510039",
@@ -72,6 +72,32 @@
           "publishedAt": "2026-10-26T00:17:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261026000116"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227437",
+          "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T00:15:00Z",
+          "publishedAt": "2026-10-28T00:15:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227437",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "http://www.newstomato.com/ReadNews.aspx?no=1318228",
+          "title": "지갑 닫은 서민들…집값·물가·금리 '삼중고'",
+          "source": "newstomato.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-27",
+          "dateRaw": "2026-10-27T11:47:00Z",
+          "publishedAt": "2026-10-27T11:47:00Z",
+          "summary": "",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1318228"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279256&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
@@ -108,46 +134,20 @@
           "publishedAt": "2026-10-27T05:46:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10916314"
-        },
-        {
-          "id": "https://www.munhwa.com:443/article/11626605",
-          "title": "“7억에 살고 있는데 3억 더 달라니”… 서울 ‘10억 전세’ 속출",
-          "source": "munhwa.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:46:00Z",
-          "publishedAt": "2026-10-27T05:46:00Z",
-          "summary": "",
-          "url": "https://www.munhwa.com:443/article/11626605"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227278",
-          "title": "5·18 소재 ‘닥터X’ 방영 중지 청원…유해진 이어 김지원 SNS도 악플 '아수라장' [아침&매일경제]",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T00:58:00Z",
-          "publishedAt": "2026-10-27T00:58:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227278",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 3
+          "count": 4
         },
         {
           "word": "주거",
           "count": 3
         },
         {
-          "word": "돌봄",
-          "count": 1
+          "word": "청년",
+          "count": 2
         },
         {
           "word": "복지",
@@ -175,16 +175,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12186962",
-          "title": "“대미 투자는 ‘역(逆)마셜플랜’, 관세로도 美·中 못 갈라놨다”",
+          "id": "https://www.mk.co.kr/news/economy/12187424",
+          "title": "3분기 GDP 1% '깜짝성장' … 한국은행 \"올 4%도 가능\"",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T14:50:32Z",
-          "publishedAt": "2026-10-27T14:50:32Z",
+          "dateRaw": "2026-10-27T17:43:45Z",
+          "publishedAt": "2026-10-27T17:43:45Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12186962",
+          "url": "https://www.mk.co.kr/news/economy/12187424",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -201,16 +201,16 @@
           "url": "https://www.hani.co.kr/arti/economy/finance/1284061.html"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261027140733",
-          "title": "메타, AI 투자 위해 최대 950억 달러 주식 발행 추진",
+          "id": "https://zdnet.co.kr/view/?no=20261027190317",
+          "title": "\"韓 VC 생태계는 ‘자갈밭’…투자자 제약하는 규제·제도 개선해야\"",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:07:33Z",
-          "publishedAt": "2026-10-27T05:07:33Z",
+          "dateRaw": "2026-10-27T10:17:02Z",
+          "publishedAt": "2026-10-27T10:17:02Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261027140733",
+          "url": "https://zdnet.co.kr/view/?no=20261027190317",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -275,26 +275,26 @@
           "url": "https://www.newspim.com/news/view/20261023000034"
         },
         {
-          "id": "https://www.fnnews.com/news/202610271025243883",
-          "title": "\"파인엠텍, 폴더블 품질 논란은 기우\" 목표가 26%↑…:\"LG생건, 가격 매력 커졌다\" 투자의견 보유→매수 [株토피아]",
-          "source": "fnnews.com",
+          "id": "http://www.newstomato.com/ReadNews.aspx?no=1318228",
+          "title": "지갑 닫은 서민들…집값·물가·금리 '삼중고'",
+          "source": "newstomato.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:46:00Z",
-          "publishedAt": "2026-10-27T05:46:00Z",
+          "dateRaw": "2026-10-27T11:47:00Z",
+          "publishedAt": "2026-10-27T11:47:00Z",
           "summary": "",
-          "url": "https://www.fnnews.com/news/202610271025243883"
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1318228"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 5
         },
         {
           "word": "금리",
-          "count": 3
+          "count": 4
         },
         {
           "word": "소비",
@@ -302,6 +302,10 @@
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "물가",
           "count": 1
         },
         {
@@ -384,18 +388,6 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://news.mtn.co.kr/article/2026102315340196719",
-          "title": "칩 공급망에 윤할유...AI 우려 진화 나선 젠슨 황",
-          "source": "news.mtn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-24",
-          "dateRaw": "2026-10-24T11:16:00Z",
-          "publishedAt": "2026-10-24T11:16:00Z",
-          "summary": "",
-          "url": "https://news.mtn.co.kr/article/2026102315340196719"
-        },
-        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026102710460297933",
           "title": "46조원 면역항암제 시장 겨냥…삼성바이오에피스, SB27 임상 결과 공개",
           "source": "ddaily.co.kr",
@@ -430,6 +422,18 @@
           "publishedAt": "2026-10-26T11:02:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11629072"
+        },
+        {
+          "id": "http://www.newstomato.com/ReadNews.aspx?no=1318189",
+          "title": "'토큰팩토리' 시동 건 KT, AI 모델 500종 통합 제공 나선다",
+          "source": "newstomato.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-27",
+          "dateRaw": "2026-10-27T11:47:00Z",
+          "publishedAt": "2026-10-27T11:47:00Z",
+          "summary": "",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1318189"
         },
         {
           "id": "https://www.munhwa.com:443/article/11626621",
@@ -567,28 +571,28 @@
           "url": "https://www.tnp.no/norway/politics/5169-new-immigration-and-integration-minister-to-tighten-asylum-policy-in-norway/"
         },
         {
-          "id": "https://www.southcoastregister.com.au/story/9380272/mental-health-pilot-program-to-train-youth-peer-workers/",
-          "title": "How Ethen is turning his mental health struggles into a 'validating' aid for others",
-          "source": "southcoastregister.com.au",
+          "id": "https://www.amny.com/opinion/new-yorkers-mental-health-no-one-guess-where-start/",
+          "title": "When it comes to New Yorkers’ mental health, no one should have to guess where to start",
+          "source": "amny.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:47:00Z",
-          "publishedAt": "2026-10-27T05:47:00Z",
+          "dateRaw": "2026-10-27T11:47:00Z",
+          "publishedAt": "2026-10-27T11:47:00Z",
           "summary": "",
-          "url": "https://www.southcoastregister.com.au/story/9380272/mental-health-pilot-program-to-train-youth-peer-workers/"
+          "url": "https://www.amny.com/opinion/new-yorkers-mental-health-no-one-guess-where-start/"
         },
         {
-          "id": "https://www.warringtonguardian.co.uk/news/26669199.warrington-mental-health-volunteer-retires-35-years/",
-          "title": "Warrington volunteer retires after 35 years helping people with mental health recovery",
-          "source": "warringtonguardian.co.uk",
+          "id": "https://bromsgrovestandard.co.uk/lifestyle/how-birmingham-immigration-lawyers-can-help-with-uk-visa-applications/",
+          "title": "How Birmingham Immigration Lawyers Can Help with UK Visa Applications",
+          "source": "bromsgrovestandard.co.uk",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:46:00Z",
-          "publishedAt": "2026-10-27T05:46:00Z",
+          "dateRaw": "2026-10-27T11:47:00Z",
+          "publishedAt": "2026-10-27T11:47:00Z",
           "summary": "",
-          "url": "https://www.warringtonguardian.co.uk/news/26669199.warrington-mental-health-volunteer-retires-35-years/"
+          "url": "https://bromsgrovestandard.co.uk/lifestyle/how-birmingham-immigration-lawyers-can-help-with-uk-visa-applications/"
         }
       ],
       "keywords": [
@@ -597,15 +601,15 @@
           "count": 4
         },
         {
+          "word": "이민",
+          "count": 2
+        },
+        {
           "word": "정신건강",
-          "count": 3
+          "count": 2
         },
         {
           "word": "고령화",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         },
         {
@@ -716,6 +720,18 @@
           "url": "https://www.sanews.gov.za/south-africa/sa-seeks-turn-chinas-zero-tariff-access-jobs-industrial-growth"
         },
         {
+          "id": "https://autonews.gasgoo.com/articles/news/cpcas-cui-dongshu-forecasts-2-growth-in-chinas-auto-retail-sales-in-2027-2115030343358496769",
+          "title": "CPCA's Cui Dongshu Forecasts 2% Growth in China's Auto Retail Sales in 2027",
+          "source": "autonews.gasgoo.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-27",
+          "dateRaw": "2026-10-27T11:47:00Z",
+          "publishedAt": "2026-10-27T11:47:00Z",
+          "summary": "",
+          "url": "https://autonews.gasgoo.com/articles/news/cpcas-cui-dongshu-forecasts-2-growth-in-chinas-auto-retail-sales-in-2027-2115030343358496769"
+        },
+        {
           "id": "https://www.radio.gov.pk/26-10-2026/pakistans-economy-shows-improvement-in-first-quarter-of-current-fiscal-year",
           "title": "Pakistan’s economy improves in first quarter of current fiscal year",
           "source": "radio.gov.pk",
@@ -726,31 +742,15 @@
           "publishedAt": "2026-10-26T11:02:00Z",
           "summary": "",
           "url": "https://www.radio.gov.pk/26-10-2026/pakistans-economy-shows-improvement-in-first-quarter-of-current-fiscal-year"
-        },
-        {
-          "id": "https://www.channelnewsasia.com/singapore/indonesia-gas-cut-singapore-energy-exports-6492596",
-          "title": "Indonesia's gas cuts to Singapore put spotlight on domestic energy needs, economic trade-offs",
-          "source": "channelnewsasia.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T11:02:00Z",
-          "publishedAt": "2026-10-26T11:02:00Z",
-          "summary": "",
-          "url": "https://www.channelnewsasia.com/singapore/indonesia-gas-cut-singapore-energy-exports-6492596"
         }
       ],
       "keywords": [
         {
-          "word": "관세",
-          "count": 2
-        },
-        {
-          "word": "무역",
-          "count": 2
-        },
-        {
           "word": "성장",
+          "count": 3
+        },
+        {
+          "word": "관세",
           "count": 2
         },
         {
@@ -763,6 +763,10 @@
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         }
       ],
@@ -934,9 +938,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1331,
-    "fetchedItems": 4020,
-    "feedBytes": 1103123,
+    "poolSize": 1374,
+    "fetchedItems": 6815,
+    "feedBytes": 1976075,
     "rollingWindowHours": 72
   }
 }
