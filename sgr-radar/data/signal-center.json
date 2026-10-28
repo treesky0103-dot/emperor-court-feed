@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 28. 오후 10:36:12",
+  "updatedAt": "2026. 10. 29. 오전 04:06:14",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -229,6 +229,18 @@
           "url": "https://www.edaily.co.kr/photo/GalleryNewsList?galleryNo=52737&newsId=04506726645617184&mediaCodeNo=257"
         },
         {
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1284324.html",
+          "title": "올해 경제 성장률 3.6∼4.0% 될 듯…반도체 수출 호조 영향",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284324.html"
+        },
+        {
           "id": "https://www.fnnews.com/news/202610281136379610",
           "title": "세빌스코리아 \"고금리 여파 속 오피스 시장…우량 자산 위주 선별적 투자\"",
           "source": "fnnews.com",
@@ -275,18 +287,6 @@
           "publishedAt": "2026-10-26T21:32:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261023000034"
-        },
-        {
-          "id": "https://kbench.com/?q=node/282849",
-          "title": "엔비디아, 공급망 파트너와 생산 역량 확대해 AI 인프라 구축 가속",
-          "source": "kbench.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T06:31:00Z",
-          "publishedAt": "2026-10-28T06:31:00Z",
-          "summary": "",
-          "url": "https://kbench.com/?q=node/282849"
         }
       ],
       "keywords": [
@@ -295,15 +295,19 @@
           "count": 5
         },
         {
-          "word": "공급망",
-          "count": 3
-        },
-        {
           "word": "금리",
           "count": 3
         },
         {
+          "word": "공급망",
+          "count": 2
+        },
+        {
           "word": "소비",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         }
       ],
@@ -314,16 +318,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261028175824",
-          "title": "메가존클라우드, 게임업계 AX 공략…AI 거버넌스 전략 앞세운다",
+          "id": "https://zdnet.co.kr/view/?no=20261028201002",
+          "title": "컴팔과 ARC 클라우드, 대규모 AI 인프라 가속화 위한 전략적 파트너십 체결",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-28",
-          "dateRaw": "2026-10-28T08:59:03Z",
-          "publishedAt": "2026-10-28T08:59:03Z",
+          "dateRaw": "2026-10-28T11:10:02Z",
+          "publishedAt": "2026-10-28T11:10:02Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261028175824",
+          "url": "https://zdnet.co.kr/view/?no=20261028201002",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -354,6 +358,18 @@
           "url": "https://www.mk.co.kr/news/society/12188640",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1284324.html",
+          "title": "올해 경제 성장률 3.6∼4.0% 될 듯…반도체 수출 호조 영향",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284324.html"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2641224",
@@ -428,31 +444,19 @@
           "publishedAt": "2026-10-28T06:31:00Z",
           "summary": "",
           "url": "https://www.insight.co.kr/news/579523"
-        },
-        {
-          "id": "https://kbench.com/?q=node/282836",
-          "title": "엔비디아 베라 루빈 AI GPU에 무슨 일? HBM4 대역폭 최대 26% 감소",
-          "source": "kbench.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T06:31:00Z",
-          "publishedAt": "2026-10-28T06:31:00Z",
-          "summary": "",
-          "url": "https://kbench.com/?q=node/282836"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
-        },
-        {
-          "word": "바이오",
-          "count": 3
+          "count": 6
         },
         {
           "word": "반도체",
+          "count": 4
+        },
+        {
+          "word": "바이오",
           "count": 3
         },
         {
@@ -473,16 +477,16 @@
     "humanities": {
       "items": [
         {
-          "id": "https://ksenam.com/ixp/1104/p/lighthouse-ranch-belgrade/",
-          "title": "A New Youth Mental Health Center Is Planned Near Belgrade",
-          "source": "ksenam.com",
+          "id": "https://www.claycord.com/2026/10/28/congressman-desaulnier-to-host-virtual-town-hall-on-social-media-and-mental-health/",
+          "title": "Congressman DeSaulnier To Host Virtual Town Hall On Social Media And Mental Health - CLAYCORD.com",
+          "source": "claycord.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-25",
-          "dateRaw": "2026-10-25T17:17:00Z",
-          "publishedAt": "2026-10-25T17:17:00Z",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
           "summary": "",
-          "url": "https://ksenam.com/ixp/1104/p/lighthouse-ranch-belgrade/"
+          "url": "https://www.claycord.com/2026/10/28/congressman-desaulnier-to-host-virtual-town-hall-on-social-media-and-mental-health/"
         },
         {
           "id": "https://wwmt.com/news/nation-world/screen-time-report-dives-into-how-tweens-teens-are-using-ai-social-media-and-more-common-sense-media-census-tech-and-media-use-by-tweens-and-teens",
@@ -601,10 +605,6 @@
         {
           "word": "정신건강",
           "count": 1
-        },
-        {
-          "word": "청년",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -624,6 +624,30 @@
           "publishedAt": "2026-10-27T00:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts"
+        },
+        {
+          "id": "http://thepeninsulaqatar.com/article/28/10/2026/estithmar-holding-qpsc-posts-stronger-q3-earnings-while-advancing-qar-14bn-in-growth-investments",
+          "title": "Estithmar Holding Q.P.S.C. posts stronger Q3 earnings while advancing QAR 1.4bn in growth investments",
+          "source": "thepeninsulaqatar.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "http://thepeninsulaqatar.com/article/28/10/2026/estithmar-holding-qpsc-posts-stronger-q3-earnings-while-advancing-qar-14bn-in-growth-investments"
+        },
+        {
+          "id": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/",
+          "title": "Malaysia intercepted $12.2 million shipment of servers with AI chips suspected of violating export controls | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/"
         },
         {
           "id": "https://www.thehindu.com/news/national/rajnath-singh-calls-for-aatmanirbharta-20-in-defence-stresses-advanced-technologies-and-resilient-supply-chains/article71627117.ece",
@@ -708,30 +732,6 @@
           "publishedAt": "2026-10-26T00:16:00Z",
           "summary": "",
           "url": "https://www.sanews.gov.za/south-africa/sa-seeks-turn-chinas-zero-tariff-access-jobs-industrial-growth"
-        },
-        {
-          "id": "https://www.globaltimes.cn/page/202610/1373126.shtml",
-          "title": "Electronics, high-tech manufacturing drive double-digit growth in China's industrial profits",
-          "source": "globaltimes.cn",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T06:31:00Z",
-          "publishedAt": "2026-10-28T06:31:00Z",
-          "summary": "",
-          "url": "https://www.globaltimes.cn/page/202610/1373126.shtml"
-        },
-        {
-          "id": "https://leadership.ng/firstbank-reaffirms-support-for-manufacturing-to-drive-industrialisation-employment/",
-          "title": "FirstBank Reaffirms Support For Manufacturing To Drive Industrialisation, Employment",
-          "source": "leadership.ng",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T06:31:00Z",
-          "publishedAt": "2026-10-28T06:31:00Z",
-          "summary": "",
-          "url": "https://leadership.ng/firstbank-reaffirms-support-for-manufacturing-to-drive-industrialisation-employment/"
         }
       ],
       "keywords": [
@@ -748,10 +748,6 @@
           "count": 2
         },
         {
-          "word": "고용",
-          "count": 1
-        },
-        {
           "word": "공급망",
           "count": 1
         },
@@ -761,6 +757,10 @@
         },
         {
           "word": "무역",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         }
       ],
@@ -793,6 +793,42 @@
           "publishedAt": "2026-10-26T17:16:00Z",
           "summary": "",
           "url": "https://greentechlead.com/power/microsoft-vs-google-vs-amazon-vs-meta-ai-data-center-energy-investments-power-deals-and-community-protests-in-2026-56175"
+        },
+        {
+          "id": "http://www.birminghamstar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
+          "title": "China-aligned hackers used AI tool to target over 2,250 cloud environments worldwide",
+          "source": "birminghamstar.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "http://www.birminghamstar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide"
+        },
+        {
+          "id": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain",
+          "title": "AI component hikes force the world's largest PC makers to return manufacturing capacity to China — brands to seek lower production costs and efficiency in established supply chain",
+          "source": "tomshardware.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain"
+        },
+        {
+          "id": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/",
+          "title": "Malaysia intercepted $12.2 million shipment of servers with AI chips suspected of violating export controls | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T19:02:00Z",
+          "publishedAt": "2026-10-28T19:02:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/"
         },
         {
           "id": "https://www.texasgopvote.com/economy/chairman-cruz-commerce-secretary-lutnick-announce-24-million-grant-strengthen-0017217",
@@ -853,51 +889,15 @@
           "publishedAt": "2026-10-27T00:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts"
-        },
-        {
-          "id": "http://www.brazilsun.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
-          "title": "China-aligned hackers used AI tool to target over 2,250 cloud environments worldwide",
-          "source": "brazilsun.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T21:32:00Z",
-          "publishedAt": "2026-10-26T21:32:00Z",
-          "summary": "",
-          "url": "http://www.brazilsun.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide"
-        },
-        {
-          "id": "https://addictinginfo.org/articles/data-centers-and-your-electricity-bill/",
-          "title": "Data centers and your electricity bill: what’s really driving the increase",
-          "source": "addictinginfo.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T17:17:00Z",
-          "publishedAt": "2026-10-26T17:17:00Z",
-          "summary": "",
-          "url": "https://addictinginfo.org/articles/data-centers-and-your-electricity-bill/"
-        },
-        {
-          "id": "https://www.koreatimes.com/article/1634299",
-          "title": "“미국 데이터센터 47건 차질…AI 인프라 붐 균열",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T11:02:00Z",
-          "publishedAt": "2026-10-26T11:02:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.com/article/1634299"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 8
         },
         {
-          "word": "데이터센터",
+          "word": "제조",
           "count": 3
         },
         {
@@ -909,15 +909,15 @@
           "count": 2
         },
         {
-          "word": "제조",
-          "count": 2
-        },
-        {
           "word": "클라우드",
           "count": 2
         },
         {
-          "word": "전력",
+          "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "수출규제",
           "count": 1
         }
       ],
@@ -928,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1737,
-    "fetchedItems": 722,
-    "feedBytes": 215918,
+    "poolSize": 1749,
+    "fetchedItems": 5122,
+    "feedBytes": 1471282,
     "rollingWindowHours": 72
   }
 }
