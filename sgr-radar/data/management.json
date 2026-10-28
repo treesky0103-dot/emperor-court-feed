@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 28. 오전 09:59:52",
+  "updatedAt": "2026. 10. 28. 오후 03:47:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 494,
-    "passed": 18,
-    "deduped": 18,
-    "eventDeduped": 18,
+    "raw": 457,
+    "passed": 16,
+    "deduped": 16,
+    "eventDeduped": 16,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "http://www.bignewsnetwork.com/news/279400899/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report",
+      "title": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs rise: Report",
+      "source": "bignewsnetwork.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-28",
+      "dateRaw": "2026-10-28T06:31:00Z",
+      "publishedAt": "2026-10-28T06:31:00Z",
+      "summary": "",
+      "url": "http://www.bignewsnetwork.com/news/279400899/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report"
+    },
     {
       "id": "https://www.tomsguide.com/ai/microsoft-just-offered-60-000-workers-a-way-out-as-ai-spending-soars-heres-what-it-could-mean-for-your-job",
       "title": "Microsoft just offered 60,000 workers a way out as AI spending soars — here's what it could mean for your job",
@@ -40,18 +52,6 @@
       "publishedAt": "2026-10-27T21:46:00Z",
       "summary": "",
       "url": "https://www.proactiveinvestors.com/companies/news/1100790/meta-equity-raise-signals-continued-support-for-ai-spending-analysts-1100790.html"
-    },
-    {
-      "id": "https://www.etnews.com/20261027000264",
-      "title": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-27",
-      "dateRaw": "2026-10-27T05:47:00Z",
-      "publishedAt": "2026-10-27T05:47:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261027000264"
     },
     {
       "id": "https://www.destructoid.com/ea-workers-complain-terrible-morale-layoffs-generative-ai/",
@@ -102,16 +102,16 @@
       "url": "https://www.businessday.co.za/motoring/2026-10-27-porsche-profit-rebounds-in-2026-after-restructuring-costs/"
     },
     {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026102711363809502",
-      "title": "'스픽'이 겪은 AI 한계…\"기술보다 업무 방식 바꿔야\" [현장]",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/28/bosses-or-employees-whos-more-likely-to-use-ai-and-keep-it-secret",
+      "title": "Bosses or employees: Who's more likely to use AI and keep it secret?",
+      "source": "thestar.com.my",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-27",
-      "dateRaw": "2026-10-27T05:47:00Z",
-      "publishedAt": "2026-10-27T05:47:00Z",
+      "date": "2026-10-28",
+      "dateRaw": "2026-10-28T06:31:00Z",
+      "publishedAt": "2026-10-28T06:31:00Z",
       "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026102711363809502"
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/bosses-or-employees-whos-more-likely-to-use-ai-and-keep-it-secret"
     },
     {
       "id": "https://itwire.com/guest-articles/company-news/sap-empowers-ai-developers-to-build-what-matters-and-turn-intent-into-autonomous-execution",
@@ -140,6 +140,18 @@
   ],
   "trendItems": [
     {
+      "id": "http://www.bignewsnetwork.com/news/279400899/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report",
+      "title": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs rise: Report",
+      "source": "bignewsnetwork.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-28",
+      "dateRaw": "2026-10-28T06:31:00Z",
+      "publishedAt": "2026-10-28T06:31:00Z",
+      "summary": "",
+      "url": "http://www.bignewsnetwork.com/news/279400899/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report"
+    },
+    {
       "id": "https://www.tomsguide.com/ai/microsoft-just-offered-60-000-workers-a-way-out-as-ai-spending-soars-heres-what-it-could-mean-for-your-job",
       "title": "Microsoft just offered 60,000 workers a way out as AI spending soars — here's what it could mean for your job",
       "source": "tomsguide.com",
@@ -162,42 +174,6 @@
       "publishedAt": "2026-10-27T21:46:00Z",
       "summary": "",
       "url": "https://www.proactiveinvestors.com/companies/news/1100790/meta-equity-raise-signals-continued-support-for-ai-spending-analysts-1100790.html"
-    },
-    {
-      "id": "https://www.asiaone.com/money/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai-spending-accelerates",
-      "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
-      "source": "asiaone.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-27",
-      "dateRaw": "2026-10-27T05:46:00Z",
-      "publishedAt": "2026-10-27T05:46:00Z",
-      "summary": "",
-      "url": "https://www.asiaone.com/money/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai-spending-accelerates"
-    },
-    {
-      "id": "https://www.mondaq.com:443/unitedstates/privacy-protection/1860276/from-iapp-to-action-privacy-security-and-ai-governance",
-      "title": "From IAPP To Action: Privacy, Security And AI Governance",
-      "source": "mondaq.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-27",
-      "dateRaw": "2026-10-27T05:46:00Z",
-      "publishedAt": "2026-10-27T05:46:00Z",
-      "summary": "",
-      "url": "https://www.mondaq.com:443/unitedstates/privacy-protection/1860276/from-iapp-to-action-privacy-security-and-ai-governance"
-    },
-    {
-      "id": "https://www.etnews.com/20261027000264",
-      "title": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-27",
-      "dateRaw": "2026-10-27T05:47:00Z",
-      "publishedAt": "2026-10-27T05:47:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261027000264"
     },
     {
       "id": "https://www.destructoid.com/ea-workers-complain-terrible-morale-layoffs-generative-ai/",
@@ -272,16 +248,16 @@
       "url": "https://www.businessday.co.za/motoring/2026-10-27-porsche-profit-rebounds-in-2026-after-restructuring-costs/"
     },
     {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026102711363809502",
-      "title": "'스픽'이 겪은 AI 한계…\"기술보다 업무 방식 바꿔야\" [현장]",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/28/bosses-or-employees-whos-more-likely-to-use-ai-and-keep-it-secret",
+      "title": "Bosses or employees: Who's more likely to use AI and keep it secret?",
+      "source": "thestar.com.my",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-27",
-      "dateRaw": "2026-10-27T05:47:00Z",
-      "publishedAt": "2026-10-27T05:47:00Z",
+      "date": "2026-10-28",
+      "dateRaw": "2026-10-28T06:31:00Z",
+      "publishedAt": "2026-10-28T06:31:00Z",
       "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026102711363809502"
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/bosses-or-employees-whos-more-likely-to-use-ai-and-keep-it-secret"
     },
     {
       "id": "https://itwire.com/guest-articles/company-news/sap-empowers-ai-developers-to-build-what-matters-and-turn-intent-into-autonomous-execution",
@@ -359,10 +335,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 494,
-    "fetchedItems": 3597,
-    "relevantItems": 131,
-    "feedBytes": 970098,
+    "poolSize": 457,
+    "fetchedItems": 3764,
+    "relevantItems": 91,
+    "feedBytes": 1058430,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
