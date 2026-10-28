@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 28. 오후 03:47:45",
+  "updatedAt": "2026. 10. 28. 오후 10:36:12",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,18 +48,32 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12188226",
-          "title": "현실에서는 더 하네…막장 부모, 협박에 욕하고 학교까지 찾아가더니 결국",
+          "id": "https://www.mk.co.kr/news/society/12188726",
+          "title": "내년부터 동네의원 초진료 오른다는데…검사 수가 줄여 필수의료 지원",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-28",
-          "dateRaw": "2026-10-28T11:14:19Z",
-          "publishedAt": "2026-10-28T11:14:19Z",
+          "dateRaw": "2026-10-28T17:42:20Z",
+          "publishedAt": "2026-10-28T17:42:20Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12188226",
+          "url": "https://www.mk.co.kr/news/society/12188726",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227687",
+          "title": "\"안전손잡이에 공동 텃밭도 있는데 월세 40만 원\" 고령자 복지주택 가보니",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T10:00:00Z",
+          "publishedAt": "2026-10-28T10:00:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227687",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.segye.com:443/newsView/20261027510039",
@@ -120,34 +134,20 @@
           "publishedAt": "2026-10-28T06:31:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2641224"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227562",
-          "title": "구로 초등학교 인근서 흉기 위협 50대 여성…현행범으로 체포",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T04:36:00Z",
-          "publishedAt": "2026-10-28T04:36:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227562",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
-          "word": "교육",
-          "count": 3
-        },
-        {
           "word": "주거",
-          "count": 3
+          "count": 4
         },
         {
           "word": "복지",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "교육",
+          "count": 1
         },
         {
           "word": "청년",
@@ -189,16 +189,32 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/finance/1284061.html",
-          "title": "높아진 금리, 주식 투자자 대응은?",
-          "source": "hani.co.kr",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227671",
+          "title": "경제안보 ‘광맥’ 캐다…“핵심·전략 광물 공급망 강화” 한목소리",
+          "source": "mbn.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-25",
-          "dateRaw": "2026-10-25T09:31:00Z",
-          "publishedAt": "2026-10-25T09:31:00Z",
+          "sourceCountry": "KR",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T07:17:00Z",
+          "publishedAt": "2026-10-28T07:17:00Z",
           "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1284061.html"
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227671",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261028175527",
+          "title": "AP시스템, \"SD옵틱스 전략적 지분 투자\"",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T08:55:27Z",
+          "publishedAt": "2026-10-28T08:55:27Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261028175527",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/photo/GalleryNewsList?galleryNo=52737&newsId=04506726645617184&mediaCodeNo=257",
@@ -213,20 +229,6 @@
           "url": "https://www.edaily.co.kr/photo/GalleryNewsList?galleryNo=52737&newsId=04506726645617184&mediaCodeNo=257"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261028083419",
-          "title": "블룸버그 \"솔리다임, 美에 60조원 낸드 공장 투자 추진\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T23:57:54Z",
-          "publishedAt": "2026-10-27T23:57:54Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261028083419",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "https://www.fnnews.com/news/202610281136379610",
           "title": "세빌스코리아 \"고금리 여파 속 오피스 시장…우량 자산 위주 선별적 투자\"",
           "source": "fnnews.com",
@@ -237,20 +239,6 @@
           "publishedAt": "2026-10-28T06:31:00Z",
           "summary": "",
           "url": "https://www.fnnews.com/news/202610281136379610"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227459",
-          "title": "핵심·전략 광물 공급망 전략은…국회서 민관 협력 논의",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T22:00:00Z",
-          "publishedAt": "2026-10-27T22:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227459",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026102711040157035",
@@ -287,20 +275,32 @@
           "publishedAt": "2026-10-26T21:32:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261023000034"
+        },
+        {
+          "id": "https://kbench.com/?q=node/282849",
+          "title": "엔비디아, 공급망 파트너와 생산 역량 확대해 AI 인프라 구축 가속",
+          "source": "kbench.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T06:31:00Z",
+          "publishedAt": "2026-10-28T06:31:00Z",
+          "summary": "",
+          "url": "https://kbench.com/?q=node/282849"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
-        },
-        {
-          "word": "금리",
-          "count": 4
+          "count": 5
         },
         {
           "word": "공급망",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "금리",
+          "count": 3
         },
         {
           "word": "소비",
@@ -314,18 +314,18 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/business/12188243",
-          "title": "HD건설기계, 군산 엔진 신공장 준공…AI 데이터센터 시장 공략",
-          "source": "mk.co.kr",
+          "id": "https://zdnet.co.kr/view/?no=20261028175824",
+          "title": "메가존클라우드, 게임업계 AX 공략…AI 거버넌스 전략 앞세운다",
+          "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-28",
-          "dateRaw": "2026-10-28T11:30:00Z",
-          "publishedAt": "2026-10-28T11:30:00Z",
+          "dateRaw": "2026-10-28T08:59:03Z",
+          "publishedAt": "2026-10-28T08:59:03Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12188243",
+          "url": "https://zdnet.co.kr/view/?no=20261028175824",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.etnews.com/20261026000015",
@@ -342,18 +342,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261028112251",
-          "title": "KT클라우드, 버티브와 AI 데이터센터 전력·냉각 기술 협력…군산에 모듈형 인프라 도입",
-          "source": "zdnet.co.kr",
+          "id": "https://www.mk.co.kr/news/society/12188640",
+          "title": "두산·원익 … AI·로봇·바이오기업 전북으로 집결",
+          "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-28",
-          "dateRaw": "2026-10-28T02:23:19Z",
-          "publishedAt": "2026-10-28T02:23:19Z",
+          "dateRaw": "2026-10-28T17:28:04Z",
+          "publishedAt": "2026-10-28T17:28:04Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261028112251",
+          "url": "https://www.mk.co.kr/news/society/12188640",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2641224",
@@ -448,19 +448,15 @@
           "count": 7
         },
         {
+          "word": "바이오",
+          "count": 3
+        },
+        {
           "word": "반도체",
           "count": 3
         },
         {
-          "word": "데이터센터",
-          "count": 2
-        },
-        {
-          "word": "바이오",
-          "count": 2
-        },
-        {
-          "word": "전력",
+          "word": "로봇",
           "count": 1
         },
         {
@@ -932,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1720,
-    "fetchedItems": 3764,
-    "feedBytes": 1058430,
+    "poolSize": 1737,
+    "fetchedItems": 722,
+    "feedBytes": 215918,
     "rollingWindowHours": 72
   }
 }
