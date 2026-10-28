@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 29. 오전 04:06:14",
+  "updatedAt": "2026. 10. 29. 오전 08:10:18",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,16 +48,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12188726",
-          "title": "내년부터 동네의원 초진료 오른다는데…검사 수가 줄여 필수의료 지원",
+          "id": "https://www.mk.co.kr/news/society/12189295",
+          "title": "“6.25 미국이 일으켰나”…경기교육청, 역사관 논란 100만 유튜버 교육 강행",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T17:42:20Z",
-          "publishedAt": "2026-10-28T17:42:20Z",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T05:32:36Z",
+          "publishedAt": "2026-10-29T05:32:36Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12188726",
+          "url": "https://www.mk.co.kr/news/society/12189295",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -142,12 +142,12 @@
           "count": 4
         },
         {
-          "word": "복지",
+          "word": "교육",
           "count": 3
         },
         {
-          "word": "교육",
-          "count": 1
+          "word": "복지",
+          "count": 3
         },
         {
           "word": "청년",
@@ -189,6 +189,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02620726645617840&mediaCodeNo=257",
+          "title": "제미나이도 AI 에이전트로…피차이 \"내년 구글 생산성 황금기\"",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:02:00Z",
+          "publishedAt": "2026-10-28T23:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02620726645617840&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227671",
           "title": "경제안보 ‘광맥’ 캐다…“핵심·전략 광물 공급망 강화” 한목소리",
           "source": "mbn.co.kr",
@@ -203,30 +215,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261028175527",
-          "title": "AP시스템, \"SD옵틱스 전략적 지분 투자\"",
+          "id": "https://zdnet.co.kr/view/?no=20261029045440",
+          "title": "미 연준 '매파적' 금리 동결…2027년부터 회의 체계 전면 개편",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-28",
-          "dateRaw": "2026-10-28T08:55:27Z",
-          "publishedAt": "2026-10-28T08:55:27Z",
+          "dateRaw": "2026-10-28T20:18:23Z",
+          "publishedAt": "2026-10-28T20:18:23Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261028175527",
+          "url": "https://zdnet.co.kr/view/?no=20261029045440",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.edaily.co.kr/photo/GalleryNewsList?galleryNo=52737&newsId=04506726645617184&mediaCodeNo=257",
-          "title": "포토 > 글로벌 자본시장, 청년의 미래, 그리고 한국 경제의 새로운 길 - 이데일리",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T00:46:00Z",
-          "publishedAt": "2026-10-28T00:46:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/photo/GalleryNewsList?galleryNo=52737&newsId=04506726645617184&mediaCodeNo=257"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1284324.html",
@@ -291,16 +291,20 @@
       ],
       "keywords": [
         {
-          "word": "투자",
-          "count": 5
+          "word": "금리",
+          "count": 4
         },
         {
-          "word": "금리",
-          "count": 3
+          "word": "투자",
+          "count": 4
         },
         {
           "word": "공급망",
           "count": 2
+        },
+        {
+          "word": "생산성",
+          "count": 1
         },
         {
           "word": "소비",
@@ -358,6 +362,18 @@
           "url": "https://www.mk.co.kr/news/society/12188640",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02892966645617840&mediaCodeNo=257",
+          "title": "삼성물산, 반도체 투자 확대에 건설 실적 '쑥'…수익성 개선세-한화",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:02:00Z",
+          "publishedAt": "2026-10-28T23:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02892966645617840&mediaCodeNo=257"
         },
         {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1284324.html",
@@ -432,18 +448,6 @@
           "publishedAt": "2026-10-26T11:02:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11629072"
-        },
-        {
-          "id": "https://www.insight.co.kr/news/579523",
-          "title": "HD한국조선해양, 3분기 영업익 37.3%↑...HD현대중공업은 61.3%↑",
-          "source": "insight.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T06:31:00Z",
-          "publishedAt": "2026-10-28T06:31:00Z",
-          "summary": "",
-          "url": "https://www.insight.co.kr/news/579523"
         }
       ],
       "keywords": [
@@ -453,7 +457,7 @@
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "바이오",
@@ -487,6 +491,18 @@
           "publishedAt": "2026-10-28T19:02:00Z",
           "summary": "",
           "url": "https://www.claycord.com/2026/10/28/congressman-desaulnier-to-host-virtual-town-hall-on-social-media-and-mental-health/"
+        },
+        {
+          "id": "https://abc3340.com/news/nation-world/teens-often-turn-to-ai-when-feeling-distressed-report-flags-mental-health-risks-jed-foundation-artificial-intelligence-mental-health-middle-school-high-school-students",
+          "title": "Teens often turn to AI when feeling distressed; report flags mental health risks",
+          "source": "abc3340.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:01:00Z",
+          "publishedAt": "2026-10-28T23:01:00Z",
+          "summary": "",
+          "url": "https://abc3340.com/news/nation-world/teens-often-turn-to-ai-when-feeling-distressed-report-flags-mental-health-risks-jed-foundation-artificial-intelligence-mental-health-middle-school-high-school-students"
         },
         {
           "id": "https://wwmt.com/news/nation-world/screen-time-report-dives-into-how-tweens-teens-are-using-ai-social-media-and-more-common-sense-media-census-tech-and-media-use-by-tweens-and-teens",
@@ -583,28 +599,16 @@
           "publishedAt": "2026-10-27T00:46:00Z",
           "summary": "",
           "url": "https://www.paloaltoonline.com/palo-alto-schools/2026/10/26/department-of-education-investigates-palo-alto-unified-over-student-survey/"
-        },
-        {
-          "id": "https://link.springer.com/referencework/10.1007/978-3-031-16193-3",
-          "title": "The Palgrave Handbook of Teacher Education Research",
-          "source": "link.springer.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-25",
-          "dateRaw": "2026-10-25T19:46:00Z",
-          "publishedAt": "2026-10-25T19:46:00Z",
-          "summary": "",
-          "url": "https://link.springer.com/referencework/10.1007/978-3-031-16193-3"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
         },
         {
           "word": "정신건강",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -624,6 +628,18 @@
           "publishedAt": "2026-10-27T00:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=01577686645617840&mediaCodeNo=257",
+          "title": "美연준, 금리 동결…워시 \"12월 인상 예단 안 해\"(종합)",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:02:00Z",
+          "publishedAt": "2026-10-28T23:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01577686645617840&mediaCodeNo=257"
         },
         {
           "id": "http://thepeninsulaqatar.com/article/28/10/2026/estithmar-holding-qpsc-posts-stronger-q3-earnings-while-advancing-qar-14bn-in-growth-investments",
@@ -720,27 +736,15 @@
           "publishedAt": "2026-10-26T05:01:00Z",
           "summary": "",
           "url": "https://zdnet.co.kr/view/?no=20261026110219"
-        },
-        {
-          "id": "https://www.sanews.gov.za/south-africa/sa-seeks-turn-chinas-zero-tariff-access-jobs-industrial-growth",
-          "title": "SA seeks to turn China’s zero-tariff access into jobs, industrial growth",
-          "source": "sanews.gov.za",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-26",
-          "dateRaw": "2026-10-26T00:16:00Z",
-          "publishedAt": "2026-10-26T00:16:00Z",
-          "summary": "",
-          "url": "https://www.sanews.gov.za/south-africa/sa-seeks-turn-chinas-zero-tariff-access-jobs-industrial-growth"
         }
       ],
       "keywords": [
         {
-          "word": "성장",
-          "count": 3
+          "word": "금리",
+          "count": 2
         },
         {
-          "word": "관세",
+          "word": "성장",
           "count": 2
         },
         {
@@ -752,7 +756,7 @@
           "count": 1
         },
         {
-          "word": "금리",
+          "word": "관세",
           "count": 1
         },
         {
@@ -770,6 +774,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.businesstimes.com.sg/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears",
+          "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
+          "source": "businesstimes.com.sg",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:02:00Z",
+          "publishedAt": "2026-10-28T23:02:00Z",
+          "summary": "",
+          "url": "https://www.businesstimes.com.sg/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears"
+        },
         {
           "id": "https://www.proactiveinvestors.com/companies/news/1100778/blockmate-ventures-enters-ai-compute-market-with-nvidia-b200-gpu-investment.html",
           "title": "Blockmate Ventures enters AI compute market with NVIDIA B200 GPU investment",
@@ -793,6 +809,30 @@
           "publishedAt": "2026-10-26T17:16:00Z",
           "summary": "",
           "url": "https://greentechlead.com/power/microsoft-vs-google-vs-amazon-vs-meta-ai-data-center-energy-investments-power-deals-and-community-protests-in-2026-56175"
+        },
+        {
+          "id": "http://www.bgnes.com/economy/ai-boom-weighs-on-google-s-finances-despite-strong-cloud-growth",
+          "title": "AI boom weighs on Google’s finances despite strong cloud growth",
+          "source": "bgnes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:02:00Z",
+          "publishedAt": "2026-10-28T23:02:00Z",
+          "summary": "",
+          "url": "http://www.bgnes.com/economy/ai-boom-weighs-on-google-s-finances-despite-strong-cloud-growth"
+        },
+        {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02742086645617840&mediaCodeNo=257",
+          "title": "[마켓무버]美 연준 금리 동결에도 뉴욕증시 소폭 상승…반도체·AI주 강세",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-28",
+          "dateRaw": "2026-10-28T23:02:00Z",
+          "publishedAt": "2026-10-28T23:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02742086645617840&mediaCodeNo=257"
         },
         {
           "id": "http://www.birminghamstar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
@@ -853,42 +893,6 @@
           "publishedAt": "2026-10-27T17:47:00Z",
           "summary": "",
           "url": "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html"
-        },
-        {
-          "id": "https://news.az/news/cerebras-and-oracle-partner-to-bring-ai-inference-to-oracle-cloud",
-          "title": "Cerebras and Oracle partner to bring AI inference to Oracle Cloud | News.az",
-          "source": "news.az",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T17:46:00Z",
-          "publishedAt": "2026-10-27T17:46:00Z",
-          "summary": "",
-          "url": "https://news.az/news/cerebras-and-oracle-partner-to-bring-ai-inference-to-oracle-cloud"
-        },
-        {
-          "id": "https://www.globaltimes.cn/page/202610/1373039.shtml",
-          "title": "China's industrial profits rise 15.5% in first nine months of 2026, driven by high-tech manufacturing, AI integration",
-          "source": "globaltimes.cn",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:46:00Z",
-          "publishedAt": "2026-10-27T05:46:00Z",
-          "summary": "",
-          "url": "https://www.globaltimes.cn/page/202610/1373039.shtml"
-        },
-        {
-          "id": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts",
-          "title": "[BREAKING] Korea's economy grows 1% in Q3 on chip exports, beating forecasts - The Korea Times",
-          "source": "koreatimes.co.kr",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T00:46:00Z",
-          "publishedAt": "2026-10-27T00:46:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts"
         }
       ],
       "keywords": [
@@ -897,7 +901,7 @@
           "count": 8
         },
         {
-          "word": "제조",
+          "word": "클라우드",
           "count": 3
         },
         {
@@ -909,7 +913,7 @@
           "count": 2
         },
         {
-          "word": "클라우드",
+          "word": "제조",
           "count": 2
         },
         {
@@ -928,9 +932,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1749,
-    "fetchedItems": 5122,
-    "feedBytes": 1471282,
+    "poolSize": 1787,
+    "fetchedItems": 4748,
+    "feedBytes": 1270890,
     "rollingWindowHours": 72
   }
 }
