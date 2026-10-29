@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 29. 오후 05:48:51",
+  "updatedAt": "2026. 10. 30. 오전 12:39:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -48,6 +48,20 @@
           "url": "https://www.edaily.co.kr/photo/GalleryNewsList?galleryNo=52737&newsId=04506726645617184&mediaCodeNo=257"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261029204109",
+          "title": "한영대학교, 틸론과 협력해 AI 교육혁신 기반 강화",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T11:41:09Z",
+          "publishedAt": "2026-10-29T11:41:09Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261029204109",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/area/capital/1284753.html",
           "title": "경기 버스, 30일 총파업 코앞…도, 전세버스·전철 ‘비상수송대책’",
           "source": "hani.co.kr",
@@ -58,20 +72,6 @@
           "publishedAt": "2026-10-29T02:16:00Z",
           "summary": "",
           "url": "https://www.hani.co.kr/arti/area/capital/1284753.html"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261029090402",
-          "title": "평생 모은 집 한 채가 복지 걸림돌…AI가 본 노인 빈곤의 역설",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T01:24:20Z",
-          "publishedAt": "2026-10-29T01:24:20Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261029090402",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227687",
@@ -124,30 +124,30 @@
           "url": "https://www.newspim.com/news/view/20261026001204"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10918851",
-          "title": "HUG, ‘전월세 안심신탁’ 사업 본격 추진에 속도낸다",
-          "source": "biz.heraldcorp.com",
+          "id": "https://www.busan.com/view/busan/view.php?code=2026102922494012258",
+          "title": "어촌어항공단, ‘2026 수산식품 가공분야 전문교육’ 성료…수료생 92명 배출",
+          "source": "busan.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-29",
-          "dateRaw": "2026-10-29T02:16:00Z",
-          "publishedAt": "2026-10-29T02:16:00Z",
+          "dateRaw": "2026-10-29T15:32:00Z",
+          "publishedAt": "2026-10-29T15:32:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10918851"
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102922494012258"
         }
       ],
       "keywords": [
         {
-          "word": "복지",
-          "count": 4
+          "word": "교육",
+          "count": 7
         },
         {
-          "word": "교육",
+          "word": "복지",
           "count": 3
         },
         {
           "word": "주거",
-          "count": 3
+          "count": 2
         },
         {
           "word": "청년",
@@ -175,18 +175,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12189495",
-          "title": "“수출 잘된다더니 우리 공장은 왜”…중소기업 경기 ‘온도차’",
+          "id": "https://www.mk.co.kr/news/society/12190069",
+          "title": "[인사] 재정경제부 / 현대백화점그룹 / 신용보증기금 등",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-10-29",
-          "dateRaw": "2026-10-29T09:00:53Z",
-          "publishedAt": "2026-10-29T09:00:53Z",
+          "dateRaw": "2026-10-29T17:15:55Z",
+          "publishedAt": "2026-10-29T17:15:55Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12189495",
+          "url": "https://www.mk.co.kr/news/society/12190069",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02620726645617840&mediaCodeNo=257",
@@ -303,19 +303,15 @@
           "count": 2
         },
         {
-          "word": "수출",
-          "count": 2
-        },
-        {
-          "word": "기업",
-          "count": 1
-        },
-        {
           "word": "물가",
           "count": 1
         },
         {
           "word": "생산성",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         }
       ],
@@ -501,6 +497,18 @@
           "url": "https://www.businesstimes.com.sg/singapore/economy-policy/google-expand-ai-partnerships-public-healthcare-groups-establish-new-singapore-research-hub"
         },
         {
+          "id": "https://www.cp24.com/news/money/2026/10/29/cost-of-caregiving-experts-urge-early-conversation-on-aging-parents-care/",
+          "title": "Cost of caregiving: Experts urge early conversation on aging parents' care",
+          "source": "cp24.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T15:32:00Z",
+          "publishedAt": "2026-10-29T15:32:00Z",
+          "summary": "",
+          "url": "https://www.cp24.com/news/money/2026/10/29/cost-of-caregiving-experts-urge-early-conversation-on-aging-parents-care/"
+        },
+        {
           "id": "https://www.claycord.com/2026/10/28/congressman-desaulnier-to-host-virtual-town-hall-on-social-media-and-mental-health/",
           "title": "Congressman DeSaulnier To Host Virtual Town Hall On Social Media And Mental Health - CLAYCORD.com",
           "source": "claycord.com",
@@ -511,6 +519,18 @@
           "publishedAt": "2026-10-28T19:02:00Z",
           "summary": "",
           "url": "https://www.claycord.com/2026/10/28/congressman-desaulnier-to-host-virtual-town-hall-on-social-media-and-mental-health/"
+        },
+        {
+          "id": "https://www.wbiw.com/2026/10/29/indiana-university-partners-with-global-semiconductor-giant-imec-to-advance-microelectronics-research/",
+          "title": "Indiana University partners with global semiconductor giant imec to advance microelectronics research - WBIW",
+          "source": "wbiw.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T15:32:00Z",
+          "publishedAt": "2026-10-29T15:32:00Z",
+          "summary": "",
+          "url": "https://www.wbiw.com/2026/10/29/indiana-university-partners-with-global-semiconductor-giant-imec-to-advance-microelectronics-research/"
         },
         {
           "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69970636-businesses-are-buying-ai-faster-than-they-can-make-it-pay-finds-university-of-manchester-research-for-bytes-technology-group-004.htm",
@@ -583,40 +603,20 @@
           "publishedAt": "2026-10-28T00:46:00Z",
           "summary": "",
           "url": "https://kyma.com/news/home-grown/2026/10/27/university-of-arizona-researchers-in-yuma-test-products-to-fight-soil-salt/"
-        },
-        {
-          "id": "https://vermontbiz.com/news/2026/october/27/vermont-state-university-reports-11-increase-new-students",
-          "title": "Vermont State University reports an 11% increase in new students",
-          "source": "vermontbiz.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T17:47:00Z",
-          "publishedAt": "2026-10-27T17:47:00Z",
-          "summary": "",
-          "url": "https://vermontbiz.com/news/2026/october/27/vermont-state-university-reports-11-increase-new-students"
-        },
-        {
-          "id": "https://news.wsu.edu/news/2026/10/27/high-school-science-teacher-partners-with-wsu-tri-cities-researchers-to-explore-bioplastics/",
-          "title": "High school science teacher partners with WSU Tri-Cities researchers to explore bioplastics",
-          "source": "news.wsu.edu",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T17:46:00Z",
-          "publishedAt": "2026-10-27T17:46:00Z",
-          "summary": "",
-          "url": "https://news.wsu.edu/news/2026/10/27/high-school-science-teacher-partners-with-wsu-tri-cities-researchers-to-explore-bioplastics/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 4
+          "count": 3
         },
         {
           "word": "정신건강",
           "count": 2
+        },
+        {
+          "word": "고령화",
+          "count": 1
         },
         {
           "word": "정보신뢰",
@@ -640,6 +640,18 @@
           "publishedAt": "2026-10-27T00:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts"
+        },
+        {
+          "id": "https://www.business-standard.com/world-news/us-economy-expands-3-4-in-q3-as-consumer-spending-ai-investment-rise-126102901542_1.html",
+          "title": "US economy expands 3.4% in Q3 as consumer spending, AI investment rise",
+          "source": "business-standard.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T15:31:00Z",
+          "publishedAt": "2026-10-29T15:31:00Z",
+          "summary": "",
+          "url": "https://www.business-standard.com/world-news/us-economy-expands-3-4-in-q3-as-consumer-spending-ai-investment-rise-126102901542_1.html"
         },
         {
           "id": "https://akipress.com/news:928114:Kyrgyz-Kazakh_Business_Council_focuses_on_trade_growth,_investment,_border_logistics/",
@@ -736,18 +748,6 @@
           "publishedAt": "2026-10-27T05:46:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/news/national/rajnath-singh-calls-for-aatmanirbharta-20-in-defence-stresses-advanced-technologies-and-resilient-supply-chains/article71627117.ece"
-        },
-        {
-          "id": "https://www.etnews.com/20261022000261",
-          "title": "中 배터리, 美·EU 무역장벽에 해외 투자 900억달러…생산 현지화 가속",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-27",
-          "dateRaw": "2026-10-27T05:46:00Z",
-          "publishedAt": "2026-10-27T05:46:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261022000261"
         }
       ],
       "keywords": [
@@ -757,11 +757,7 @@
         },
         {
           "word": "투자",
-          "count": 3
-        },
-        {
-          "word": "무역",
-          "count": 2
+          "count": 4
         },
         {
           "word": "공급망",
@@ -773,6 +769,10 @@
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "무역",
           "count": 1
         },
         {
@@ -799,6 +799,18 @@
           "url": "https://www.businesstimes.com.sg/companies-markets/microsofts-cloud-growth-cash-flow-offer-respite-ai-spending-fears"
         },
         {
+          "id": "http://www.chinanationalnews.com/news/279402876/global-ai-investment-cycle-unlocks-manufacturing-opportunities-across-six-indian-sectors-avendus-capital",
+          "title": "Global AI investment cycle unlocks manufacturing opportunities across six Indian sectors: Avendus Capital",
+          "source": "chinanationalnews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T15:32:00Z",
+          "publishedAt": "2026-10-29T15:32:00Z",
+          "summary": "",
+          "url": "http://www.chinanationalnews.com/news/279402876/global-ai-investment-cycle-unlocks-manufacturing-opportunities-across-six-indian-sectors-avendus-capital"
+        },
+        {
           "id": "https://www.proactiveinvestors.com/companies/news/1100778/blockmate-ventures-enters-ai-compute-market-with-nvidia-b200-gpu-investment.html",
           "title": "Blockmate Ventures enters AI compute market with NVIDIA B200 GPU investment",
           "source": "proactiveinvestors.com",
@@ -821,6 +833,30 @@
           "publishedAt": "2026-10-26T17:16:00Z",
           "summary": "",
           "url": "https://greentechlead.com/power/microsoft-vs-google-vs-amazon-vs-meta-ai-data-center-energy-investments-power-deals-and-community-protests-in-2026-56175"
+        },
+        {
+          "id": "http://www.newjerseytelegraph.com/news/279403076/oxide-shows-how-to-run-self-hosted-ai-agents-on-the-oxide-cloud-computer",
+          "title": "Oxide Shows How to Run Self-Hosted AI Agents on the Oxide Cloud Computer",
+          "source": "newjerseytelegraph.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T15:31:00Z",
+          "publishedAt": "2026-10-29T15:31:00Z",
+          "summary": "",
+          "url": "http://www.newjerseytelegraph.com/news/279403076/oxide-shows-how-to-run-self-hosted-ai-agents-on-the-oxide-cloud-computer"
+        },
+        {
+          "id": "https://www.eejournal.com/industry_news/advanced-energy-unveils-centra-smart-hub-for-improved-temperature-measurement-in-next-generation-semiconductor-tools/",
+          "title": "Advanced Energy Unveils Centra Smart Hub for Improved Temperature Measurement in Next-Generation Semiconductor Tools",
+          "source": "eejournal.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-29",
+          "dateRaw": "2026-10-29T15:31:00Z",
+          "publishedAt": "2026-10-29T15:31:00Z",
+          "summary": "",
+          "url": "https://www.eejournal.com/industry_news/advanced-energy-unveils-centra-smart-hub-for-improved-temperature-measurement-in-next-generation-semiconductor-tools/"
         },
         {
           "id": "http://www.australiannews.net/news/279402548/dayone-and-sembcorp-to-explore-integrated-power-and-energy-solutions-for-data-centers-in-asia",
@@ -869,48 +905,16 @@
           "publishedAt": "2026-10-28T23:02:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=02742086645617840&mediaCodeNo=257"
-        },
-        {
-          "id": "http://www.birminghamstar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide",
-          "title": "China-aligned hackers used AI tool to target over 2,250 cloud environments worldwide",
-          "source": "birminghamstar.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T19:02:00Z",
-          "publishedAt": "2026-10-28T19:02:00Z",
-          "summary": "",
-          "url": "http://www.birminghamstar.com/news/279398163/china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide"
-        },
-        {
-          "id": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain",
-          "title": "AI component hikes force the world's largest PC makers to return manufacturing capacity to China — brands to seek lower production costs and efficiency in established supply chain",
-          "source": "tomshardware.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T19:02:00Z",
-          "publishedAt": "2026-10-28T19:02:00Z",
-          "summary": "",
-          "url": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain"
-        },
-        {
-          "id": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/",
-          "title": "Malaysia intercepted $12.2 million shipment of servers with AI chips suspected of violating export controls | Fortune",
-          "source": "fortune.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T19:02:00Z",
-          "publishedAt": "2026-10-28T19:02:00Z",
-          "summary": "",
-          "url": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
+        },
+        {
+          "word": "반도체",
+          "count": 3
         },
         {
           "word": "클라우드",
@@ -925,15 +929,7 @@
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 2
-        },
-        {
           "word": "배터리",
-          "count": 1
-        },
-        {
-          "word": "수출규제",
           "count": 1
         },
         {
@@ -948,9 +944,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1878,
-    "fetchedItems": 5196,
-    "feedBytes": 1453226,
+    "poolSize": 1916,
+    "fetchedItems": 6685,
+    "feedBytes": 1885059,
     "rollingWindowHours": 72
   }
 }
