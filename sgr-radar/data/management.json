@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 30. 오전 09:22:48",
+  "updatedAt": "2026. 10. 30. 오후 03:14:48",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 551,
-    "passed": 22,
-    "deduped": 22,
-    "eventDeduped": 22,
+    "raw": 558,
+    "passed": 27,
+    "deduped": 27,
+    "eventDeduped": 27,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261030143322",
+      "title": "\"데이터 관리·AI 에이전트 결합\"…엔코아-베스핀글로벌, 공공 업무 자동화 맞손",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261030143322"
+    },
     {
       "id": "https://www.businessinsider.com/amazon-2027-ai-spending-exceed-220-billion-2026-10",
       "title": "Amazon CEO sees AI spending 'meaningfully' higher in 2027",
@@ -52,6 +64,18 @@
       "publishedAt": "2026-10-30T00:16:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/stock/stock_general/2026/10/30/ZKVIEIOIXRBBFI26APOMLHMKIE/"
+    },
+    {
+      "id": "https://itbusinessnet.com/2026/10/inverite-signs-pilot-agreement-to-evaluate-veil-integration-and-advance-privacy-preserving-financial-intelligence-across-enterprise-ai/",
+      "title": "Inverite Signs Pilot Agreement to Evaluate VEIL Integration and Advance Privacy-Preserving Financial Intelligence Across Enterprise AI – IT Business Net",
+      "source": "itbusinessnet.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://itbusinessnet.com/2026/10/inverite-signs-pilot-agreement-to-evaluate-veil-integration-and-advance-privacy-preserving-financial-intelligence-across-enterprise-ai/"
     },
     {
       "id": "https://www.ksat.com/business/2026/10/29/what-to-consider-if-a-company-that-made-ai-related-job-cuts-wants-you-back/",
@@ -90,28 +114,16 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/singtels-ncs-more-triple-ai-specialist-workforce-over-300-two-years"
     },
     {
-      "id": "https://www.businesstoday.in/india/story/quote-of-the-day-by-anand-mahindra-the-more-you-drive-positive-change-the-more-enhanced-your-business-model-564398-2026-10-29",
-      "title": "Quote of the Day by Anand Mahindra: 'The more you drive positive change, the more enhanced your business model' - BusinessToday",
-      "source": "businesstoday.in",
+      "id": "https://www.mangalorean.com/govt-issues-clarification-on-strategic-restructuring-process-of-idbi-bank/",
+      "title": "Govt issues clarification on ‘strategic restructuring’ process of IDBI Bank - Mangalorean.com",
+      "source": "mangalorean.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T02:16:00Z",
-      "publishedAt": "2026-10-29T02:16:00Z",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
       "summary": "",
-      "url": "https://www.businesstoday.in/india/story/quote-of-the-day-by-anand-mahindra-the-more-you-drive-positive-change-the-more-enhanced-your-business-model-564398-2026-10-29"
-    },
-    {
-      "id": "http://www.newstomato.com/ReadNews.aspx?no=1318215",
-      "title": "[IB토마토](저평가와 승계 셈법)③낮은 주가에 가려진 계열사 가치…승계세 변수",
-      "source": "newstomato.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T02:16:00Z",
-      "publishedAt": "2026-10-29T02:16:00Z",
-      "summary": "",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1318215"
+      "url": "https://www.mangalorean.com/govt-issues-clarification-on-strategic-restructuring-process-of-idbi-bank/"
     },
     {
       "id": "https://www.dualshockers.com/warhammer-40000-boltgun-2-studio-layoffs-successful-launch/",
@@ -124,21 +136,21 @@
       "publishedAt": "2026-10-29T15:31:00Z",
       "summary": "",
       "url": "https://www.dualshockers.com/warhammer-40000-boltgun-2-studio-layoffs-successful-launch/"
-    },
-    {
-      "id": "http://www.malaysiasun.com/news/279402544/sunon-at-orgatec-2026-sunon-ai-nature-reimagining-the-future-of-work",
-      "title": "Sunon at ORGATEC 2026: @Sunon @AI @Nature -- Reimagining the Future of Work",
-      "source": "malaysiasun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T08:31:00Z",
-      "publishedAt": "2026-10-29T08:31:00Z",
-      "summary": "",
-      "url": "http://www.malaysiasun.com/news/279402544/sunon-at-orgatec-2026-sunon-ai-nature-reimagining-the-future-of-work"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://zdnet.co.kr/view/?no=20261030143322",
+      "title": "\"데이터 관리·AI 에이전트 결합\"…엔코아-베스핀글로벌, 공공 업무 자동화 맞손",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261030143322"
+    },
     {
       "id": "https://www.businessinsider.com/amazon-2027-ai-spending-exceed-220-billion-2026-10",
       "title": "Amazon CEO sees AI spending 'meaningfully' higher in 2027",
@@ -176,6 +188,18 @@
       "url": "https://www.business-standard.com/world-news/microsoft-s-cloud-growth-cash-flow-offer-respite-from-ai-spending-fears-126102901904_1.html"
     },
     {
+      "id": "https://zdnet.co.kr/view/?no=20261030142735",
+      "title": "KOSA, 독일 최대 AI 기업 네트워크와 협력…제조·피지컬 AI 시장 공략",
+      "source": "zdnet.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://zdnet.co.kr/view/?no=20261030142735"
+    },
+    {
       "id": "https://biz.chosun.com/stock/stock_general/2026/10/30/ZKVIEIOIXRBBFI26APOMLHMKIE/",
       "title": "“AI 기업 실적 좋아도 주가 안심 못 해…美 소비 위축까지 우려”",
       "source": "biz.chosun.com",
@@ -198,6 +222,18 @@
       "publishedAt": "2026-10-29T08:31:00Z",
       "summary": "",
       "url": "https://biz.chosun.com/it-science/ict/2026/10/29/ZVWQYRLIPVEA5PIAR5QZOIASLE/"
+    },
+    {
+      "id": "https://itbusinessnet.com/2026/10/inverite-signs-pilot-agreement-to-evaluate-veil-integration-and-advance-privacy-preserving-financial-intelligence-across-enterprise-ai/",
+      "title": "Inverite Signs Pilot Agreement to Evaluate VEIL Integration and Advance Privacy-Preserving Financial Intelligence Across Enterprise AI – IT Business Net",
+      "source": "itbusinessnet.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://itbusinessnet.com/2026/10/inverite-signs-pilot-agreement-to-evaluate-veil-integration-and-advance-privacy-preserving-financial-intelligence-across-enterprise-ai/"
     },
     {
       "id": "https://www.ksat.com/business/2026/10/29/what-to-consider-if-a-company-that-made-ai-related-job-cuts-wants-you-back/",
@@ -236,28 +272,16 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/singtels-ncs-more-triple-ai-specialist-workforce-over-300-two-years"
     },
     {
-      "id": "https://www.businesstoday.in/india/story/quote-of-the-day-by-anand-mahindra-the-more-you-drive-positive-change-the-more-enhanced-your-business-model-564398-2026-10-29",
-      "title": "Quote of the Day by Anand Mahindra: 'The more you drive positive change, the more enhanced your business model' - BusinessToday",
-      "source": "businesstoday.in",
+      "id": "https://www.mangalorean.com/govt-issues-clarification-on-strategic-restructuring-process-of-idbi-bank/",
+      "title": "Govt issues clarification on ‘strategic restructuring’ process of IDBI Bank - Mangalorean.com",
+      "source": "mangalorean.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T02:16:00Z",
-      "publishedAt": "2026-10-29T02:16:00Z",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
       "summary": "",
-      "url": "https://www.businesstoday.in/india/story/quote-of-the-day-by-anand-mahindra-the-more-you-drive-positive-change-the-more-enhanced-your-business-model-564398-2026-10-29"
-    },
-    {
-      "id": "http://www.newstomato.com/ReadNews.aspx?no=1318215",
-      "title": "[IB토마토](저평가와 승계 셈법)③낮은 주가에 가려진 계열사 가치…승계세 변수",
-      "source": "newstomato.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T02:16:00Z",
-      "publishedAt": "2026-10-29T02:16:00Z",
-      "summary": "",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1318215"
+      "url": "https://www.mangalorean.com/govt-issues-clarification-on-strategic-restructuring-process-of-idbi-bank/"
     },
     {
       "id": "https://www.dualshockers.com/warhammer-40000-boltgun-2-studio-layoffs-successful-launch/",
@@ -284,6 +308,42 @@
       "url": "http://www.malaysiasun.com/news/279402544/sunon-at-orgatec-2026-sunon-ai-nature-reimagining-the-future-of-work"
     },
     {
+      "id": "http://www.greekherald.com/news/279403971/alphabet-shares-suffer-worst-ever-single-day-fall-usd-500-billion-wiped-off-market-value-amid-ai-spending-concerns",
+      "title": "Alphabet shares suffer worst-ever single-day fall, USD 500 billion wiped off market value amid AI spending concerns",
+      "source": "greekherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "http://www.greekherald.com/news/279403971/alphabet-shares-suffer-worst-ever-single-day-fall-usd-500-billion-wiped-off-market-value-amid-ai-spending-concerns"
+    },
+    {
+      "id": "https://itbusinessnet.com/2026/10/designli-earns-multiple-industry-recognitions-for-app-and-software-development-in-2026/",
+      "title": "Designli Earns Multiple Industry Recognitions for App and Software Development in 2026 – IT Business Net",
+      "source": "itbusinessnet.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://itbusinessnet.com/2026/10/designli-earns-multiple-industry-recognitions-for-app-and-software-development-in-2026/"
+    },
+    {
+      "id": "https://kenya-today.com/report-alphabet-shares-tumble-12-wiping-460-billion-off-market-value-as-ai-spending-spikes-18898/",
+      "title": "Alphabet shares tumble 12%, wiping $460 billion off market value as AI spending spikes",
+      "source": "kenya-today.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "summary": "",
+      "url": "https://kenya-today.com/report-alphabet-shares-tumble-12-wiping-460-billion-off-market-value-as-ai-spending-spikes-18898/"
+    },
+    {
       "id": "https://biz.heraldcorp.com/article/10919869",
       "title": "AI 활용 체납 반복 업무↓...강남구, 제2금융·급여까지 압류",
       "source": "biz.heraldcorp.com",
@@ -294,18 +354,6 @@
       "publishedAt": "2026-10-29T20:32:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10919869"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms",
-      "title": "Cash takes centre stage as investors rethink AI spending boom",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T20:31:00Z",
-      "publishedAt": "2026-10-29T20:31:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms"
     },
     {
       "id": "https://www.busan.com/view/busan/view.php?code=2026102922300346218",
@@ -356,16 +404,16 @@
       "url": "https://www.business-standard.com/world-news/us-economy-expands-3-4-in-q3-as-consumer-spending-ai-investment-rise-126102901542_1.html"
     },
     {
-      "id": "https://www.pymnts.com/earnings/2026/google-pushes-ai-agents-into-commerce-as-spending-pressures-cash-flow/",
-      "title": "Google Pushes AI Agents Into Commerce as Spending Pressures Cash Flow | PYMNTS.com",
-      "source": "pymnts.com",
+      "id": "https://www.dudleynews.co.uk/news/26681428.dudley-council-silent-rumours-30-job-losses-housing-cuts/",
+      "title": "Dudley Council refuses to deny rumours of 30 job losses and housing support cuts",
+      "source": "dudleynews.co.uk",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-29",
-      "dateRaw": "2026-10-29T02:16:00Z",
-      "publishedAt": "2026-10-29T02:16:00Z",
+      "date": "2026-10-30",
+      "dateRaw": "2026-10-30T06:01:00Z",
+      "publishedAt": "2026-10-30T06:01:00Z",
       "summary": "",
-      "url": "https://www.pymnts.com/earnings/2026/google-pushes-ai-agents-into-commerce-as-spending-pressures-cash-flow/"
+      "url": "https://www.dudleynews.co.uk/news/26681428.dudley-council-silent-rumours-30-job-losses-housing-cuts/"
     },
     {
       "id": "https://www.dailystar.co.uk/news/tech-boss-sacks-half-workers-37823050",
@@ -402,15 +450,27 @@
       "publishedAt": "2026-10-29T08:31:00Z",
       "summary": "",
       "url": "https://www.hcamag.com/us/specialization/employee-engagement/ai-makes-work-more-enjoyable-yet-one-in-four-workers-plan-to-quit/595397"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms",
+      "title": "Cash takes centre stage as investors rethink AI spending boom",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-10-29",
+      "dateRaw": "2026-10-29T20:31:00Z",
+      "publishedAt": "2026-10-29T20:31:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 551,
-    "fetchedItems": 3489,
-    "relevantItems": 98,
-    "feedBytes": 950803,
+    "poolSize": 558,
+    "fetchedItems": 3931,
+    "relevantItems": 117,
+    "feedBytes": 1104274,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
