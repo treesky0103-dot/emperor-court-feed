@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 30. 오후 03:14:53",
+  "updatedAt": "2026. 10. 30. 오후 10:10:45",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -9,7 +9,7 @@
       "items": [
         {
           "id": "https://www.mk.co.kr/news/economy/12191515",
-          "title": "청년 10명 중 8명 “대출 여건 개선되면 더 나은 주거지 고려”",
+          "title": "대출 풀리면 주거지 옮기겠다는 청년들…감당 가능한 한달 이자엔 “최대 50만원”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
@@ -215,6 +215,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261030165943",
+          "title": "현대오토에버, 새만금 AI 데이터센터 1146억원 투자…GPUaaS 사업 진출",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T08:04:36Z",
+          "publishedAt": "2026-10-30T08:04:36Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261030165943",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://biz.chosun.com/it-science/ict/2026/10/30/GJK6E3EYUZGV7I4VY6HFG34JDY/",
           "title": "삼성전자·SK하이닉스, 역대급 실적에도 다른 셈법… HBM·투자·주주환원 전략 비교해보니",
           "source": "biz.chosun.com",
@@ -225,20 +239,6 @@
           "publishedAt": "2026-10-30T06:01:00Z",
           "summary": "",
           "url": "https://biz.chosun.com/it-science/ict/2026/10/30/GJK6E3EYUZGV7I4VY6HFG34JDY/"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261030110809",
-          "title": "문화예산 역대 최대인데…콘텐츠 AI 투자 여전히 숙제",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T02:11:22Z",
-          "publishedAt": "2026-10-30T02:11:22Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261030110809",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.etoday.co.kr/news/view/2641747",
@@ -318,6 +318,20 @@
     "technology": {
       "items": [
         {
+          "id": "https://zdnet.co.kr/view/?no=20261030165943",
+          "title": "현대오토에버, 새만금 AI 데이터센터 1146억원 투자…GPUaaS 사업 진출",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T08:04:36Z",
+          "publishedAt": "2026-10-30T08:04:36Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261030165943",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.mk.co.kr/news/society/12190016",
           "title": "광운대, 피지컬 AI 교육 비전 선포...로봇 분야 특성화 전략",
           "source": "mk.co.kr",
@@ -342,20 +356,6 @@
           "publishedAt": "2026-10-29T06:06:35Z",
           "summary": "",
           "url": "https://www.etnews.com/20261029000358",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261028201002",
-          "title": "컴팔과 ARC 클라우드, 대규모 AI 인프라 가속화 위한 전략적 파트너십 체결",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T11:10:02Z",
-          "publishedAt": "2026-10-28T11:10:02Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261028201002",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -434,16 +434,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261030000878",
-          "title": "보건산업진흥원, 바이오헬스 인재 육성…충청권 사이버보안 경진대회 성료",
-          "source": "newspim.com",
+          "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513389",
+          "title": "삼성전자·하이닉스 ‘공급과잉 우려 일축’에도…반도체 주가 흐름 신중론, 왜?",
+          "source": "ilyo.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-10-30",
-          "dateRaw": "2026-10-30T06:02:00Z",
-          "publishedAt": "2026-10-30T06:02:00Z",
+          "dateRaw": "2026-10-30T13:02:00Z",
+          "publishedAt": "2026-10-30T13:02:00Z",
           "summary": "",
-          "url": "https://www.newspim.com/news/view/20261030000878"
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513389"
         }
       ],
       "keywords": [
@@ -452,11 +452,11 @@
           "count": 6
         },
         {
-          "word": "바이오",
-          "count": 2
+          "word": "반도체",
+          "count": 3
         },
         {
-          "word": "반도체",
+          "word": "데이터센터",
           "count": 2
         },
         {
@@ -464,15 +464,11 @@
           "count": 2
         },
         {
-          "word": "데이터센터",
-          "count": 1
-        },
-        {
           "word": "로봇",
           "count": 1
         },
         {
-          "word": "클라우드",
+          "word": "바이오",
           "count": 1
         }
       ],
@@ -484,6 +480,18 @@
   "global": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.prokerala.com/news/articles/a1830880.html",
+          "title": "Assam seeks to reverse youth migration through investment, industrial growth: Himanta Sarma",
+          "source": "prokerala.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T13:02:00Z",
+          "publishedAt": "2026-10-30T13:02:00Z",
+          "summary": "",
+          "url": "https://www.prokerala.com/news/articles/a1830880.html"
+        },
         {
           "id": "https://www.businesstimes.com.sg/singapore/economy-policy/google-expand-ai-partnerships-public-healthcare-groups-establish-new-singapore-research-hub",
           "title": "Google to expand AI partnerships with public healthcare groups, establish new Singapore research hub",
@@ -591,35 +599,27 @@
           "publishedAt": "2026-10-29T15:32:00Z",
           "summary": "",
           "url": "https://www.wbiw.com/2026/10/29/indiana-university-partners-with-global-semiconductor-giant-imec-to-advance-microelectronics-research/"
-        },
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69970636-businesses-are-buying-ai-faster-than-they-can-make-it-pay-finds-university-of-manchester-research-for-bytes-technology-group-004.htm",
-          "title": "Businesses are buying AI faster than they can make it pay, finds University of Manchester research for Bytes Technology Group",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T08:31:00Z",
-          "publishedAt": "2026-10-29T08:31:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69970636-businesses-are-buying-ai-faster-than-they-can-make-it-pay-finds-university-of-manchester-research-for-bytes-technology-group-004.htm"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
+        },
+        {
+          "word": "이민",
+          "count": 2
         },
         {
           "word": "고령화",
           "count": 1
         },
         {
-          "word": "이민",
+          "word": "정신건강",
           "count": 1
         },
         {
-          "word": "정신건강",
+          "word": "청년",
           "count": 1
         }
       ],
@@ -664,6 +664,18 @@
           "publishedAt": "2026-10-29T15:31:00Z",
           "summary": "",
           "url": "https://www.business-standard.com/world-news/us-economy-expands-3-4-in-q3-as-consumer-spending-ai-investment-rise-126102901542_1.html"
+        },
+        {
+          "id": "https://www.prokerala.com/news/articles/a1830880.html",
+          "title": "Assam seeks to reverse youth migration through investment, industrial growth: Himanta Sarma",
+          "source": "prokerala.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T13:02:00Z",
+          "publishedAt": "2026-10-30T13:02:00Z",
+          "summary": "",
+          "url": "https://www.prokerala.com/news/articles/a1830880.html"
         },
         {
           "id": "https://www.thehindu.com/news/national/cti-urges-congress-to-postpone-november-1-rally-says-10000-12000-crore-trade-in-delhi-markets-at-risk/article71643814.ece",
@@ -736,18 +748,6 @@
           "publishedAt": "2026-10-29T08:31:00Z",
           "summary": "",
           "url": "https://www.taylorvilledailynews.com/ai-related-investment-consumers-likely-boosted-us-economic-growth-in-third-quarter/"
-        },
-        {
-          "id": "https://www.businesstoday.in/latest/corporate/story/87-of-indian-ceos-expect-business-growth-will-optimism-translate-into-higher-investment-and-hiring-564401-2026-10-29",
-          "title": "87% of Indian CEOs expect business growth: Will optimism translate into higher investment and hiring? - BusinessToday",
-          "source": "businesstoday.in",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T02:16:00Z",
-          "publishedAt": "2026-10-29T02:16:00Z",
-          "summary": "",
-          "url": "https://www.businesstoday.in/latest/corporate/story/87-of-indian-ceos-expect-business-growth-will-optimism-translate-into-higher-investment-and-hiring-564401-2026-10-29"
         }
       ],
       "keywords": [
@@ -940,9 +940,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1730,
-    "fetchedItems": 3931,
-    "feedBytes": 1104274,
+    "poolSize": 1731,
+    "fetchedItems": 6588,
+    "feedBytes": 1877389,
     "rollingWindowHours": 72
   }
 }
