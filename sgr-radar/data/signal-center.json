@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 01. 오전 03:14:52",
+  "updatedAt": "2026. 11. 01. 오전 06:43:04",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -98,6 +98,18 @@
           "url": "https://www.etoday.co.kr/news/view/2641575"
         },
         {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277635&SRS_CD=0000021791&CMPT_CD=M0153",
+          "title": "IT 회사 다니던 청년, 사표 내고 타투이스트 된 사연",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-31",
+          "dateRaw": "2026-10-31T21:31:00Z",
+          "publishedAt": "2026-10-31T21:31:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277635&SRS_CD=0000021791&CMPT_CD=M0153"
+        },
+        {
           "id": "https://seoul.co.kr:443/news/international/china/2026/10/31/20261031500020",
           "title": "“돈 한 푼 안 쓰고 하루 종일 놀아요”…中청년들 ‘이곳’으로 몰리는 이유 [월드픽]",
           "source": "seoul.co.kr",
@@ -120,18 +132,6 @@
           "publishedAt": "2026-10-31T01:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11629852"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261030001288",
-          "title": "[재정 골든타임] ④ 청년 취업 47개월째 감소…AI 충격 겹쳐 미래 재정 경고등",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T22:32:00Z",
-          "publishedAt": "2026-10-30T22:32:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261030001288"
         }
       ],
       "keywords": [
@@ -930,9 +930,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1524,
-    "fetchedItems": 3575,
-    "feedBytes": 1013618,
+    "poolSize": 1468,
+    "fetchedItems": 3075,
+    "feedBytes": 849167,
     "rollingWindowHours": 72
   }
 }
