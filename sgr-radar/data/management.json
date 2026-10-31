@@ -2,33 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 31. 오후 04:36:17",
+  "updatedAt": "2026. 10. 31. 오후 10:51:47",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 335,
-    "passed": 13,
-    "deduped": 13,
-    "eventDeduped": 13,
-    "displayed": 10,
+    "raw": 294,
+    "passed": 5,
+    "deduped": 5,
+    "eventDeduped": 5,
+    "displayed": 5,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
-    {
-      "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nasdaq-futures-sink-as-amazon-intel-intensify-ai-spending-fears/articleshow/135361094.cms",
-      "title": "AI spending: Nasdaq futures sink as Amazon, Intel intensify AI spending fears - The Economic Times",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:01:00Z",
-      "publishedAt": "2026-10-30T13:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nasdaq-futures-sink-as-amazon-intel-intensify-ai-spending-fears/articleshow/135361094.cms"
-    },
     {
       "id": "https://www.phillyvoice.com/comcast-layoffs-philadelphia-restructuring/",
       "title": "Comcast announces mass layoffs amid company-wide restructuring",
@@ -42,18 +30,6 @@
       "url": "https://www.phillyvoice.com/comcast-layoffs-philadelphia-restructuring/"
     },
     {
-      "id": "https://www.thehindu.com/business/google-parent-alphabets-shares-plunge-126-as-investors-question-returns-from-ai-spending/article71645050.ece",
-      "title": "Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/business/google-parent-alphabets-shares-plunge-126-as-investors-question-returns-from-ai-spending/article71645050.ece"
-    },
-    {
       "id": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-board-vote-on-company-restructuring-sp-group-liquidity-plan/article71645591.ece",
       "title": "Noel Tata seeks board vote on company restructuring, SP Group liquidity plan",
       "source": "thehindubusinessline.com",
@@ -64,30 +40,6 @@
       "publishedAt": "2026-10-30T18:31:00Z",
       "summary": "",
       "url": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-board-vote-on-company-restructuring-sp-group-liquidity-plan/article71645591.ece"
-    },
-    {
-      "id": "https://www.eveningnews24.co.uk/news/national/26683331.natwest-efficiency-drive-results-job-cuts-gbp420-million-cost-savings/",
-      "title": "NatWest efficiency drive results in job cuts and £420 million of cost savings",
-      "source": "eveningnews24.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.eveningnews24.co.uk/news/national/26683331.natwest-efficiency-drive-results-job-cuts-gbp420-million-cost-savings/"
-    },
-    {
-      "id": "https://www.itweb.co.za/article/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/PmxVE7KE4dBqQY85",
-      "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption",
-      "source": "itweb.co.za",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.itweb.co.za/article/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/PmxVE7KE4dBqQY85"
     },
     {
       "id": "https://www.pcmag.com/articles/what-do-ai-employees-actually-do-how-sintra-ai-helps-small-businesses-grow",
@@ -114,44 +66,20 @@
       "url": "https://www.dailynews.com/2026/10/30/disney-lays-off-159-workers-in-experiences-division/"
     },
     {
-      "id": "https://www.livemint.com/industry/how-google-is-bucking-tech-industrys-layoff-trend-adds-10k-employees-in-six-months-with-different-approach-explained-11793357746021.html",
-      "title": "How Google is bucking tech industry's layoff trend; adds 10k employees in six months with different approach | Explained | Mint",
-      "source": "livemint.com",
+      "id": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/",
+      "title": "Ottawa’s investment in Cohere, RBC blocks personal AI agents and Cleveland-Cliffs’ plan to recall Stelco workers: Must-read business and investing stories",
+      "source": "theglobeandmail.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
+      "date": "2026-10-31",
+      "dateRaw": "2026-10-31T13:46:00Z",
+      "publishedAt": "2026-10-31T13:46:00Z",
       "summary": "",
-      "url": "https://www.livemint.com/industry/how-google-is-bucking-tech-industrys-layoff-trend-adds-10k-employees-in-six-months-with-different-approach-explained-11793357746021.html"
-    },
-    {
-      "id": "https://www.newsweek.com/ai-that-earns-its-place-on-job-site-12640096",
-      "title": "The AI that earns its place on a job site | Opinion",
-      "source": "newsweek.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.newsweek.com/ai-that-earns-its-place-on-job-site-12640096"
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/"
     }
   ],
   "trendItems": [
     {
-      "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nasdaq-futures-sink-as-amazon-intel-intensify-ai-spending-fears/articleshow/135361094.cms",
-      "title": "AI spending: Nasdaq futures sink as Amazon, Intel intensify AI spending fears - The Economic Times",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:01:00Z",
-      "publishedAt": "2026-10-30T13:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nasdaq-futures-sink-as-amazon-intel-intensify-ai-spending-fears/articleshow/135361094.cms"
-    },
-    {
       "id": "https://www.phillyvoice.com/comcast-layoffs-philadelphia-restructuring/",
       "title": "Comcast announces mass layoffs amid company-wide restructuring",
       "source": "phillyvoice.com",
@@ -164,30 +92,6 @@
       "url": "https://www.phillyvoice.com/comcast-layoffs-philadelphia-restructuring/"
     },
     {
-      "id": "https://www.thehindu.com/business/google-parent-alphabets-shares-plunge-126-as-investors-question-returns-from-ai-spending/article71645050.ece",
-      "title": "Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/business/google-parent-alphabets-shares-plunge-126-as-investors-question-returns-from-ai-spending/article71645050.ece"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/trai-releases-draft-guidelines-on-responsible-ai-use-in-telecom-networks-services/articleshow/135361926.cms",
-      "title": "TRAI releases draft guidelines on responsible AI use in telecom networks, services",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/trai-releases-draft-guidelines-on-responsible-ai-use-in-telecom-networks-services/articleshow/135361926.cms"
-    },
-    {
       "id": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-board-vote-on-company-restructuring-sp-group-liquidity-plan/article71645591.ece",
       "title": "Noel Tata seeks board vote on company restructuring, SP Group liquidity plan",
       "source": "thehindubusinessline.com",
@@ -198,30 +102,6 @@
       "publishedAt": "2026-10-30T18:31:00Z",
       "summary": "",
       "url": "https://www.thehindubusinessline.com/companies/noel-tata-seeks-board-vote-on-company-restructuring-sp-group-liquidity-plan/article71645591.ece"
-    },
-    {
-      "id": "https://www.eveningnews24.co.uk/news/national/26683331.natwest-efficiency-drive-results-job-cuts-gbp420-million-cost-savings/",
-      "title": "NatWest efficiency drive results in job cuts and £420 million of cost savings",
-      "source": "eveningnews24.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.eveningnews24.co.uk/news/national/26683331.natwest-efficiency-drive-results-job-cuts-gbp420-million-cost-savings/"
-    },
-    {
-      "id": "https://www.itweb.co.za/article/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/PmxVE7KE4dBqQY85",
-      "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption",
-      "source": "itweb.co.za",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.itweb.co.za/article/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/PmxVE7KE4dBqQY85"
     },
     {
       "id": "https://www.pcmag.com/articles/what-do-ai-employees-actually-do-how-sintra-ai-helps-small-businesses-grow",
@@ -248,61 +128,25 @@
       "url": "https://www.dailynews.com/2026/10/30/disney-lays-off-159-workers-in-experiences-division/"
     },
     {
-      "id": "https://www.livemint.com/industry/how-google-is-bucking-tech-industrys-layoff-trend-adds-10k-employees-in-six-months-with-different-approach-explained-11793357746021.html",
-      "title": "How Google is bucking tech industry's layoff trend; adds 10k employees in six months with different approach | Explained | Mint",
-      "source": "livemint.com",
+      "id": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/",
+      "title": "Ottawa’s investment in Cohere, RBC blocks personal AI agents and Cleveland-Cliffs’ plan to recall Stelco workers: Must-read business and investing stories",
+      "source": "theglobeandmail.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
+      "date": "2026-10-31",
+      "dateRaw": "2026-10-31T13:46:00Z",
+      "publishedAt": "2026-10-31T13:46:00Z",
       "summary": "",
-      "url": "https://www.livemint.com/industry/how-google-is-bucking-tech-industrys-layoff-trend-adds-10k-employees-in-six-months-with-different-approach-explained-11793357746021.html"
-    },
-    {
-      "id": "https://www.newsweek.com/ai-that-earns-its-place-on-job-site-12640096",
-      "title": "The AI that earns its place on a job site | Opinion",
-      "source": "newsweek.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://www.newsweek.com/ai-that-earns-its-place-on-job-site-12640096"
-    },
-    {
-      "id": "https://it-online.co.za/2026/10/30/how-is-ai-going-to-impact-future-jobs/",
-      "title": "How is AI going to impact future jobs? - IT-Online",
-      "source": "it-online.co.za",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:02:00Z",
-      "publishedAt": "2026-10-30T13:02:00Z",
-      "summary": "",
-      "url": "https://it-online.co.za/2026/10/30/how-is-ai-going-to-impact-future-jobs/"
-    },
-    {
-      "id": "https://www.livemint.com/ai/sridhar-vembu-ai-bubble-comments-any-job-performed-on-computer-has-this-risk-now-the-risk-is-getting-ever-more-real-11793357901977.html",
-      "title": "Sridhar Vembu AI bubble comments: 'Any job performed on computer has this risk now - The risk is getting ever more real' | Mint",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-30",
-      "dateRaw": "2026-10-30T13:01:00Z",
-      "publishedAt": "2026-10-30T13:01:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/ai/sridhar-vembu-ai-bubble-comments-any-job-performed-on-computer-has-this-risk-now-the-risk-is-getting-ever-more-real-11793357901977.html"
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 335,
-    "fetchedItems": 3545,
-    "relevantItems": 38,
-    "feedBytes": 1002387,
+    "poolSize": 294,
+    "fetchedItems": 4141,
+    "relevantItems": 74,
+    "feedBytes": 1205541,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

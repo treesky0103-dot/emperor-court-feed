@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 31. 오후 04:36:21",
+  "updatedAt": "2026. 10. 31. 오후 10:51:51",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -86,20 +86,6 @@
           "url": "https://www.hani.co.kr/arti/area/capital/1284753.html"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227687",
-          "title": "\"안전손잡이에 공동 텃밭도 있는데 월세 40만 원\" 고령자 복지주택 가보니",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T10:00:00Z",
-          "publishedAt": "2026-10-28T10:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227687",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.etoday.co.kr/news/view/2641575",
           "title": "한화투자증권, 디지털자산 증권사 전환 속도…실전형 AI 교육 강화",
           "source": "etoday.co.kr",
@@ -134,24 +120,32 @@
           "publishedAt": "2026-10-31T01:46:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11629852"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261030001288",
+          "title": "[재정 골든타임] ④ 청년 취업 47개월째 감소…AI 충격 겹쳐 미래 재정 경고등",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T22:32:00Z",
+          "publishedAt": "2026-10-30T22:32:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261030001288"
         }
       ],
       "keywords": [
+        {
+          "word": "청년",
+          "count": 6
+        },
         {
           "word": "교육",
           "count": 5
         },
         {
-          "word": "청년",
-          "count": 5
-        },
-        {
           "word": "주거",
-          "count": 3
-        },
-        {
-          "word": "복지",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -263,20 +257,6 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1284747.html"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227683",
-          "title": "경제안보 '광맥' 캐다…'2026 핵심·전략 광물 국회 세미나' 개최",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-10-28",
-          "dateRaw": "2026-10-28T10:00:00Z",
-          "publishedAt": "2026-10-28T10:00:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227683",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://seoul.co.kr:443/news/economy/industry/2026/10/31/20261031500022",
           "title": "삼성 사장단, 샘 올트먼 초청해 AI 경영 전략 논의…사업 기회 발굴하며 AX 속도전",
           "source": "seoul.co.kr",
@@ -287,12 +267,26 @@
           "publishedAt": "2026-10-31T07:31:00Z",
           "summary": "",
           "url": "https://seoul.co.kr:443/news/economy/industry/2026/10/31/20261031500022"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228209",
+          "title": "'AI 지출 최소화' 애플이 1위…AI 투자 우려 재점화",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-10-31",
+          "dateRaw": "2026-10-31T02:03:00Z",
+          "publishedAt": "2026-10-31T02:03:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228209",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 4
+          "count": 5
         },
         {
           "word": "기업",
@@ -932,9 +926,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1484,
-    "fetchedItems": 3545,
-    "feedBytes": 1002387,
+    "poolSize": 1502,
+    "fetchedItems": 4141,
+    "feedBytes": 1205541,
     "rollingWindowHours": 72
   }
 }
