@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 10. 31. 오후 10:51:51",
+  "updatedAt": "2026. 11. 01. 오전 03:14:52",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -616,6 +616,18 @@
     "economy": {
       "items": [
         {
+          "id": "https://www.thehindu.com/news/cities/puducherry/puducherrys-export-profile-possesses-significant-strength-for-further-growth-says-fieo/article71649312.ece",
+          "title": "Puducherry’s export profile possesses significant strength for further growth, says FIEO",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-31",
+          "dateRaw": "2026-10-31T18:01:00Z",
+          "publishedAt": "2026-10-31T18:01:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/cities/puducherry/puducherrys-export-profile-possesses-significant-strength-for-further-growth-says-fieo/article71649312.ece"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03007766645618168&mediaCodeNo=257",
           "title": "日BOJ, 오늘 금리 1.25% 동결 전망…'물가 2% 달성' 선언할 듯",
           "source": "edaily.co.kr",
@@ -676,18 +688,6 @@
           "url": "https://www.prokerala.com/news/articles/a1830880.html"
         },
         {
-          "id": "https://www.thehindu.com/news/national/cti-urges-congress-to-postpone-november-1-rally-says-10000-12000-crore-trade-in-delhi-markets-at-risk/article71643814.ece",
-          "title": "CTI urges Congress to postpone November 1 rally, says ₹10,000-12,000 crore trade in Delhi markets at risk",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T06:01:00Z",
-          "publishedAt": "2026-10-30T06:01:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/national/cti-urges-congress-to-postpone-november-1-rally-says-10000-12000-crore-trade-in-delhi-markets-at-risk/article71643814.ece"
-        },
-        {
           "id": "https://cedarnews.net/newstasks/1104036/u-s-economy-accelerates-3-4-growth/",
           "title": "U.S. Economy Accelerates to 3.4% Growth in Third Quarter on Investment and Consumer Spending | Cedar News",
           "source": "cedarnews.net",
@@ -739,7 +739,7 @@
       "keywords": [
         {
           "word": "성장",
-          "count": 5
+          "count": 6
         },
         {
           "word": "투자",
@@ -747,7 +747,7 @@
         },
         {
           "word": "무역",
-          "count": 4
+          "count": 3
         },
         {
           "word": "관세",
@@ -755,6 +755,10 @@
         },
         {
           "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "수출",
           "count": 1
         }
       ],
@@ -926,9 +930,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1502,
-    "fetchedItems": 4141,
-    "feedBytes": 1205541,
+    "poolSize": 1524,
+    "fetchedItems": 3575,
+    "feedBytes": 1013618,
     "rollingWindowHours": 72
   }
 }
