@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 01. 오전 09:28:13",
+  "updatedAt": "2026. 11. 01. 오후 03:42:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 262,
-    "passed": 23,
-    "deduped": 23,
-    "eventDeduped": 23,
+    "raw": 236,
+    "passed": 22,
+    "deduped": 22,
+    "eventDeduped": 22,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -28,6 +28,18 @@
       "publishedAt": "2026-11-01T00:16:00Z",
       "summary": "",
       "url": "https://www.ynetnews.com/article/sj0074xn6gx"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10902141",
+      "title": "장기금리와 그린스펀의 수수께끼…이번엔 뒤집혔다 [지안루카 베니그노]",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T06:32:00Z",
+      "publishedAt": "2026-11-01T06:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10902141"
     },
     {
       "id": "https://www.koreatimes.com/article/11629894",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-10-31T13:46:00Z",
       "summary": "",
       "url": "https://jamaica-gleaner.com/article/world-news/20261030/christine-lagarde-step-down-president-european-central-bank-february"
-    },
-    {
-      "id": "https://thenationonlineng.net/interest-rate-decision-and-the-small-business-at-home/",
-      "title": "Interest rate decision and the small business at home",
-      "source": "thenationonlineng.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
-      "summary": "",
-      "url": "https://thenationonlineng.net/interest-rate-decision-and-the-small-business-at-home/"
     }
   ],
   "trendItems": [
@@ -150,6 +150,18 @@
       "publishedAt": "2026-11-01T00:16:00Z",
       "summary": "",
       "url": "https://www.ynetnews.com/article/sj0074xn6gx"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10902141",
+      "title": "장기금리와 그린스펀의 수수께끼…이번엔 뒤집혔다 [지안루카 베니그노]",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T06:32:00Z",
+      "publishedAt": "2026-11-01T06:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10902141"
     },
     {
       "id": "https://www.koreatimes.com/article/11629894",
@@ -368,18 +380,6 @@
       "url": "https://www.thegamenashville.com/2026/10/30/sources-hart-winner-kucherov-33-requests-trade-from-lightning/"
     },
     {
-      "id": "https://www.digbycourier.ca/stock-market-volatility-oil-price-rise-todays-stock-market-news/",
-      "title": "Stock Market Volatility, Oil Price Rise: Today's Stock Market News",
-      "source": "digbycourier.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T01:46:00Z",
-      "publishedAt": "2026-10-31T01:46:00Z",
-      "summary": "",
-      "url": "https://www.digbycourier.ca/stock-market-volatility-oil-price-rise-todays-stock-market-news/"
-    },
-    {
       "id": "https://www.atlantanewsfirst.com/2026/10/30/deep-rifts-among-g20-diplomats-atlanta-prompt-us-ditch-group-photo-plan/",
       "title": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
       "source": "atlantanewsfirst.com",
@@ -402,27 +402,15 @@
       "publishedAt": "2026-10-31T07:31:00Z",
       "summary": "",
       "url": "https://www.tribuneindia.com/news/india/jaishankar-urges-diplomacy-flags-attacks-on-ships-at-g20-meeting/"
-    },
-    {
-      "id": "http://www.thejakartapost.com/world/2026/10/31/rubio-urges-g20-cooperation-amid-rifts-over-wars-in-ukraine-middle-east",
-      "title": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East - Americas - The Jakarta Post",
-      "source": "thejakartapost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T01:46:00Z",
-      "publishedAt": "2026-10-31T01:46:00Z",
-      "summary": "",
-      "url": "http://www.thejakartapost.com/world/2026/10/31/rubio-urges-g20-cooperation-amid-rifts-over-wars-in-ukraine-middle-east"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 262,
-    "fetchedItems": 2289,
-    "relevantItems": 43,
-    "feedBytes": 626183,
+    "poolSize": 236,
+    "fetchedItems": 3252,
+    "relevantItems": 25,
+    "feedBytes": 900326,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

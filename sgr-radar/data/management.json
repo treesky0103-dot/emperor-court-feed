@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 01. 오전 09:28:13",
+  "updatedAt": "2026. 11. 01. 오후 03:42:31",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 262,
-    "passed": 5,
-    "deduped": 5,
-    "eventDeduped": 5,
-    "displayed": 5,
+    "raw": 236,
+    "passed": 4,
+    "deduped": 4,
+    "eventDeduped": 4,
+    "displayed": 4,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -52,18 +52,6 @@
       "publishedAt": "2026-10-31T21:31:00Z",
       "summary": "",
       "url": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703"
-    },
-    {
-      "id": "https://www.pcmag.com/articles/what-do-ai-employees-actually-do-how-sintra-ai-helps-small-businesses-grow",
-      "title": "What Do AI Employees Actually Do? How Sintra AI Helps Small Businesses Grow",
-      "source": "pcmag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T01:46:00Z",
-      "publishedAt": "2026-10-31T01:46:00Z",
-      "summary": "",
-      "url": "https://www.pcmag.com/articles/what-do-ai-employees-actually-do-how-sintra-ai-helps-small-businesses-grow"
     },
     {
       "id": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/",
@@ -116,18 +104,6 @@
       "url": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703"
     },
     {
-      "id": "https://www.pcmag.com/articles/what-do-ai-employees-actually-do-how-sintra-ai-helps-small-businesses-grow",
-      "title": "What Do AI Employees Actually Do? How Sintra AI Helps Small Businesses Grow",
-      "source": "pcmag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T01:46:00Z",
-      "publishedAt": "2026-10-31T01:46:00Z",
-      "summary": "",
-      "url": "https://www.pcmag.com/articles/what-do-ai-employees-actually-do-how-sintra-ai-helps-small-businesses-grow"
-    },
-    {
       "id": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/",
       "title": "Ottawa’s investment in Cohere, RBC blocks personal AI agents and Cleveland-Cliffs’ plan to recall Stelco workers: Must-read business and investing stories",
       "source": "theglobeandmail.com",
@@ -143,10 +119,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 262,
-    "fetchedItems": 2289,
-    "relevantItems": 43,
-    "feedBytes": 626183,
+    "poolSize": 236,
+    "fetchedItems": 3252,
+    "relevantItems": 25,
+    "feedBytes": 900326,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
