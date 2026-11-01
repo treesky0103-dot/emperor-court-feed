@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 01. 오후 03:42:31",
+  "updatedAt": "2026. 11. 01. 오후 10:52:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 236,
-    "passed": 4,
-    "deduped": 4,
-    "eventDeduped": 4,
-    "displayed": 4,
+    "raw": 184,
+    "passed": 5,
+    "deduped": 5,
+    "eventDeduped": 5,
+    "displayed": 5,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -54,16 +54,28 @@
       "url": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703"
     },
     {
-      "id": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/",
-      "title": "Ottawa’s investment in Cohere, RBC blocks personal AI agents and Cleveland-Cliffs’ plan to recall Stelco workers: Must-read business and investing stories",
-      "source": "theglobeandmail.com",
+      "id": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html",
+      "title": "Poundland 'comfortably beating' market expectations before collapse fears with '30,000 job losses' - AOL",
+      "source": "aol.co.uk",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:46:00Z",
+      "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/"
+      "url": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html"
+    },
+    {
+      "id": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html",
+      "title": "The Gen Z AI workers reveal what their jobs actually involve",
+      "source": "dailymail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:47:00Z",
+      "publishedAt": "2026-11-01T13:47:00Z",
+      "summary": "",
+      "url": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html"
     }
   ],
   "trendItems": [
@@ -104,25 +116,37 @@
       "url": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703"
     },
     {
-      "id": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/",
-      "title": "Ottawa’s investment in Cohere, RBC blocks personal AI agents and Cleveland-Cliffs’ plan to recall Stelco workers: Must-read business and investing stories",
-      "source": "theglobeandmail.com",
+      "id": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html",
+      "title": "Poundland 'comfortably beating' market expectations before collapse fears with '30,000 job losses' - AOL",
+      "source": "aol.co.uk",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:46:00Z",
+      "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/"
+      "url": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html"
+    },
+    {
+      "id": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html",
+      "title": "The Gen Z AI workers reveal what their jobs actually involve",
+      "source": "dailymail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:47:00Z",
+      "publishedAt": "2026-11-01T13:47:00Z",
+      "summary": "",
+      "url": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 236,
-    "fetchedItems": 3252,
-    "relevantItems": 25,
-    "feedBytes": 900326,
+    "poolSize": 184,
+    "fetchedItems": 3626,
+    "relevantItems": 41,
+    "feedBytes": 1042864,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

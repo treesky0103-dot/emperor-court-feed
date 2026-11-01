@@ -2,21 +2,33 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 01. 오후 03:42:31",
+  "updatedAt": "2026. 11. 01. 오후 10:52:00",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 236,
-    "passed": 22,
-    "deduped": 22,
-    "eventDeduped": 22,
+    "raw": 184,
+    "passed": 17,
+    "deduped": 17,
+    "eventDeduped": 17,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm",
+      "title": "Geopolitical tensions, crude oil prices, and Q2 earnings to dictate market trends",
+      "source": "rediff.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:47:00Z",
+      "publishedAt": "2026-11-01T13:47:00Z",
+      "summary": "",
+      "url": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm"
+    },
     {
       "id": "https://www.ynetnews.com/article/sj0074xn6gx",
       "title": "Luxembourg takes aim at Israeli settlements with import ban despite tiny trade volume",
@@ -90,18 +102,6 @@
       "url": "https://www.cubaheadlines.com/articles/344405"
     },
     {
-      "id": "https://www.tnp.no/norway/politics/5198-norway-eases-sanctions-against-iran/",
-      "title": "Norway Eases Sanctions against Iran - The Nordic Page",
-      "source": "tnp.no",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T18:02:00Z",
-      "publishedAt": "2026-10-31T18:02:00Z",
-      "summary": "",
-      "url": "https://www.tnp.no/norway/politics/5198-norway-eases-sanctions-against-iran/"
-    },
-    {
       "id": "http://www.batonrougepost.com/news/279405901/determined-to-get-it-across-finish-line-us-envoy-sergio-gor-on-india-us-trade-deal",
       "title": "\"Determined to get it across finish line\": US envoy Sergio Gor on India-US trade deal",
       "source": "batonrougepost.com",
@@ -126,19 +126,31 @@
       "url": "https://www.moneycontrol.com/news/india/quad-to-step-up-cooperation-in-ai-critical-minerals-14065173.html"
     },
     {
-      "id": "https://jamaica-gleaner.com/article/world-news/20261030/christine-lagarde-step-down-president-european-central-bank-february",
-      "title": "Christine Lagarde to step down as president of European Central Bank in February",
-      "source": "jamaica-gleaner.com",
+      "id": "http://www.parisguardian.com/news/279403460/lagarde-resigns-as-ecb-president-more-than-eight-months-early",
+      "title": "Lagarde resigns as ECB president more than eight months early",
+      "source": "parisguardian.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:46:00Z",
+      "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
-      "url": "https://jamaica-gleaner.com/article/world-news/20261030/christine-lagarde-step-down-president-european-central-bank-february"
+      "url": "http://www.parisguardian.com/news/279403460/lagarde-resigns-as-ecb-president-more-than-eight-months-early"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm",
+      "title": "Geopolitical tensions, crude oil prices, and Q2 earnings to dictate market trends",
+      "source": "rediff.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:47:00Z",
+      "publishedAt": "2026-11-01T13:47:00Z",
+      "summary": "",
+      "url": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm"
+    },
     {
       "id": "https://www.ynetnews.com/article/sj0074xn6gx",
       "title": "Luxembourg takes aim at Israeli settlements with import ban despite tiny trade volume",
@@ -284,40 +296,28 @@
       "url": "https://www.moneycontrol.com/news/india/quad-to-step-up-cooperation-in-ai-critical-minerals-14065173.html"
     },
     {
-      "id": "https://jamaica-gleaner.com/article/world-news/20261030/christine-lagarde-step-down-president-european-central-bank-february",
-      "title": "Christine Lagarde to step down as president of European Central Bank in February",
-      "source": "jamaica-gleaner.com",
+      "id": "http://www.parisguardian.com/news/279403460/lagarde-resigns-as-ecb-president-more-than-eight-months-early",
+      "title": "Lagarde resigns as ECB president more than eight months early",
+      "source": "parisguardian.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:46:00Z",
+      "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
-      "url": "https://jamaica-gleaner.com/article/world-news/20261030/christine-lagarde-step-down-president-european-central-bank-february"
+      "url": "http://www.parisguardian.com/news/279403460/lagarde-resigns-as-ecb-president-more-than-eight-months-early"
     },
     {
-      "id": "https://thenationonlineng.net/interest-rate-decision-and-the-small-business-at-home/",
-      "title": "Interest rate decision and the small business at home",
-      "source": "thenationonlineng.net",
+      "id": "https://www.chinatechnews.com/2026/11/01/131673-the-us-china-trade-war-seems-to-have-subsided-but-the-sense-of-calm-is-misleading",
+      "title": "The US-China trade war seems to have subsided - but the sense of calm is misleading - ChinaTechNews.com",
+      "source": "chinatechnews.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:46:00Z",
+      "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
-      "url": "https://thenationonlineng.net/interest-rate-decision-and-the-small-business-at-home/"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/india/india-canada-seek-to-seal-trade-deal-by-year-end/",
-      "title": "India, Canada seek to seal trade deal by year-end - The Tribune",
-      "source": "tribuneindia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T07:31:00Z",
-      "publishedAt": "2026-10-31T07:31:00Z",
-      "summary": "",
-      "url": "https://www.tribuneindia.com/news/india/india-canada-seek-to-seal-trade-deal-by-year-end/"
+      "url": "https://www.chinatechnews.com/2026/11/01/131673-the-us-china-trade-war-seems-to-have-subsided-but-the-sense-of-calm-is-misleading"
     },
     {
       "id": "https://www.thescore1260.com/2026/10/31/report-colts-open-to-trade-talks-involving-rb-jonathan-taylor/",
@@ -332,54 +332,6 @@
       "url": "https://www.thescore1260.com/2026/10/31/report-colts-open-to-trade-talks-involving-rb-jonathan-taylor/"
     },
     {
-      "id": "https://abcnews.com/International/wireStory/uk-prime-minister-signals-government-apology-role-slave-137730910",
-      "title": "UK PM signals the government will consider an apology for its role in the slave trade",
-      "source": "abcnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
-      "summary": "",
-      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-signals-government-apology-role-slave-137730910"
-    },
-    {
-      "id": "https://www.tsn.ca/nfl/article/report-colts-willing-to-trade-rb-taylor-active-in-talks-with-teams-n1-50323095/",
-      "title": "Report: Colts willing to trade RB Taylor, active in talks with teams",
-      "source": "tsn.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T13:46:00Z",
-      "publishedAt": "2026-10-31T13:46:00Z",
-      "summary": "",
-      "url": "https://www.tsn.ca/nfl/article/report-colts-willing-to-trade-rb-taylor-active-in-talks-with-teams-n1-50323095/"
-    },
-    {
-      "id": "https://www.newsandstar.co.uk/news/26678191.lake-district-hotels-extend-30-winter-stay-offer-2027/",
-      "title": "Lake District hotel group expands 30 per cent deal in bid to boost winter trade",
-      "source": "newsandstar.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T07:31:00Z",
-      "publishedAt": "2026-10-31T07:31:00Z",
-      "summary": "",
-      "url": "https://www.newsandstar.co.uk/news/26678191.lake-district-hotels-extend-30-winter-stay-offer-2027/"
-    },
-    {
-      "id": "https://www.thegamenashville.com/2026/10/30/sources-hart-winner-kucherov-33-requests-trade-from-lightning/",
-      "title": "Sources: Kucherov requests trade; Lightning have ‘no intention’ of dealing him",
-      "source": "thegamenashville.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T07:31:00Z",
-      "publishedAt": "2026-10-31T07:31:00Z",
-      "summary": "",
-      "url": "https://www.thegamenashville.com/2026/10/30/sources-hart-winner-kucherov-33-requests-trade-from-lightning/"
-    },
-    {
       "id": "https://www.atlantanewsfirst.com/2026/10/30/deep-rifts-among-g20-diplomats-atlanta-prompt-us-ditch-group-photo-plan/",
       "title": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
       "source": "atlantanewsfirst.com",
@@ -390,27 +342,15 @@
       "publishedAt": "2026-10-31T18:01:00Z",
       "summary": "",
       "url": "https://www.atlantanewsfirst.com/2026/10/30/deep-rifts-among-g20-diplomats-atlanta-prompt-us-ditch-group-photo-plan/"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/india/jaishankar-urges-diplomacy-flags-attacks-on-ships-at-g20-meeting/",
-      "title": "Jaishankar urges diplomacy, flags attacks on ships at G20 meeting - The Tribune",
-      "source": "tribuneindia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T07:31:00Z",
-      "publishedAt": "2026-10-31T07:31:00Z",
-      "summary": "",
-      "url": "https://www.tribuneindia.com/news/india/jaishankar-urges-diplomacy-flags-attacks-on-ships-at-g20-meeting/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 236,
-    "fetchedItems": 3252,
-    "relevantItems": 25,
-    "feedBytes": 900326,
+    "poolSize": 184,
+    "fetchedItems": 3626,
+    "relevantItems": 41,
+    "feedBytes": 1042864,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
