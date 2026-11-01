@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 01. 오후 10:52:00",
+  "updatedAt": "2026. 11. 02. 오전 03:46:40",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 184,
-    "passed": 5,
-    "deduped": 5,
-    "eventDeduped": 5,
-    "displayed": 5,
+    "raw": 179,
+    "passed": 6,
+    "deduped": 6,
+    "eventDeduped": 6,
+    "displayed": 6,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -40,6 +40,18 @@
       "publishedAt": "2026-10-31T21:31:00Z",
       "summary": "",
       "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+    },
+    {
+      "id": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/",
+      "title": "Building a Business That Outlasts You: Best Practices for Succession Planning",
+      "source": "hartfordbusiness.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T18:32:00Z",
+      "publishedAt": "2026-11-01T18:32:00Z",
+      "summary": "",
+      "url": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/"
     },
     {
       "id": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703",
@@ -104,6 +116,18 @@
       "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
     },
     {
+      "id": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/",
+      "title": "Building a Business That Outlasts You: Best Practices for Succession Planning",
+      "source": "hartfordbusiness.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T18:32:00Z",
+      "publishedAt": "2026-11-01T18:32:00Z",
+      "summary": "",
+      "url": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/"
+    },
+    {
       "id": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703",
       "title": "Workforce design is the AI-era gap that most organisations are missing",
       "source": "hcamag.com",
@@ -143,10 +167,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 184,
-    "fetchedItems": 3626,
-    "relevantItems": 41,
-    "feedBytes": 1042864,
+    "poolSize": 179,
+    "fetchedItems": 3750,
+    "relevantItems": 56,
+    "feedBytes": 1040580,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
