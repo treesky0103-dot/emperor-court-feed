@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 02. 오전 03:46:40",
+  "updatedAt": "2026. 11. 02. 오전 07:28:11",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 179,
-    "passed": 6,
-    "deduped": 6,
-    "eventDeduped": 6,
-    "displayed": 6,
+    "raw": 176,
+    "passed": 4,
+    "deduped": 4,
+    "eventDeduped": 4,
+    "displayed": 4,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -30,18 +30,6 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01177526645641456&mediaCodeNo=257"
     },
     {
-      "id": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
-      "title": "AI boom hits a wall on Wall Street as OpenAI cuts fundraising target while Meta gets a credit warning over its cash flow, spending and monetization | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T21:31:00Z",
-      "publishedAt": "2026-10-31T21:31:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
-    },
-    {
       "id": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/",
       "title": "Building a Business That Outlasts You: Best Practices for Succession Planning",
       "source": "hartfordbusiness.com",
@@ -52,18 +40,6 @@
       "publishedAt": "2026-11-01T18:32:00Z",
       "summary": "",
       "url": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/"
-    },
-    {
-      "id": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703",
-      "title": "Workforce design is the AI-era gap that most organisations are missing",
-      "source": "hcamag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T21:31:00Z",
-      "publishedAt": "2026-10-31T21:31:00Z",
-      "summary": "",
-      "url": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703"
     },
     {
       "id": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html",
@@ -104,18 +80,6 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01177526645641456&mediaCodeNo=257"
     },
     {
-      "id": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
-      "title": "AI boom hits a wall on Wall Street as OpenAI cuts fundraising target while Meta gets a credit warning over its cash flow, spending and monetization | Fortune",
-      "source": "fortune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T21:31:00Z",
-      "publishedAt": "2026-10-31T21:31:00Z",
-      "summary": "",
-      "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
-    },
-    {
       "id": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/",
       "title": "Building a Business That Outlasts You: Best Practices for Succession Planning",
       "source": "hartfordbusiness.com",
@@ -126,18 +90,6 @@
       "publishedAt": "2026-11-01T18:32:00Z",
       "summary": "",
       "url": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/"
-    },
-    {
-      "id": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703",
-      "title": "Workforce design is the AI-era gap that most organisations are missing",
-      "source": "hcamag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-10-31",
-      "dateRaw": "2026-10-31T21:31:00Z",
-      "publishedAt": "2026-10-31T21:31:00Z",
-      "summary": "",
-      "url": "https://www.hcamag.com/us/news/general/workforce-design-is-the-ai-era-gap-that-most-organisations-are-missing/595703"
     },
     {
       "id": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html",
@@ -167,10 +119,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 179,
-    "fetchedItems": 3750,
-    "relevantItems": 56,
-    "feedBytes": 1040580,
+    "poolSize": 176,
+    "fetchedItems": 2810,
+    "relevantItems": 47,
+    "feedBytes": 769644,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

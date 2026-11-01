@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 02. 오전 03:46:42",
+  "updatedAt": "2026. 11. 02. 오전 07:28:12",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -74,6 +74,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03329206645618168&mediaCodeNo=257"
         },
         {
+          "id": "https://biz.heraldcorp.com/article/10921976",
+          "title": "노원구 ‘아픈아이 통합돌봄’ 정부혁신 국내 최고기관 선정…전국 확산 모델로",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-01",
+          "dateRaw": "2026-11-01T22:16:00Z",
+          "publishedAt": "2026-11-01T22:16:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10921976"
+        },
+        {
           "id": "https://www.wikitree.co.kr/articles/1170859",
           "title": "[건강꿀팁] 수능 아침엔 '평소 먹던 밥'을 차려주세요, 새 메뉴는 주의하세요",
           "source": "wikitree.co.kr",
@@ -122,27 +134,19 @@
           "publishedAt": "2026-10-31T21:31:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277635&SRS_CD=0000021791&CMPT_CD=M0153"
-        },
-        {
-          "id": "https://seoul.co.kr:443/news/international/china/2026/10/31/20261031500020",
-          "title": "“돈 한 푼 안 쓰고 하루 종일 놀아요”…中청년들 ‘이곳’으로 몰리는 이유 [월드픽]",
-          "source": "seoul.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-31",
-          "dateRaw": "2026-10-31T07:31:00Z",
-          "publishedAt": "2026-10-31T07:31:00Z",
-          "summary": "",
-          "url": "https://seoul.co.kr:443/news/international/china/2026/10/31/20261031500020"
         }
       ],
       "keywords": [
         {
           "word": "청년",
-          "count": 6
+          "count": 5
         },
         {
           "word": "교육",
+          "count": 1
+        },
+        {
+          "word": "돌봄",
           "count": 1
         },
         {
@@ -239,18 +243,6 @@
           "url": "https://www.etoday.co.kr/news/view/2641747"
         },
         {
-          "id": "https://www.radioseoul1650.com/archives/161266",
-          "title": "미 3분기 경제성장률 GDP 3.4% 증가…시장 예상 웃돌아",
-          "source": "radioseoul1650.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T20:31:00Z",
-          "publishedAt": "2026-10-29T20:31:00Z",
-          "summary": "",
-          "url": "https://www.radioseoul1650.com/archives/161266"
-        },
-        {
           "id": "https://biz.heraldcorp.com/article/10902141",
           "title": "장기금리와 그린스펀의 수수께끼…이번엔 뒤집혔다 [지안루카 베니그노]",
           "source": "biz.heraldcorp.com",
@@ -287,6 +279,18 @@
           "publishedAt": "2026-10-31T07:31:00Z",
           "summary": "",
           "url": "https://seoul.co.kr:443/news/economy/industry/2026/10/31/20261031500022"
+        },
+        {
+          "id": "https://www.newspim.com/news/view/20261014001279",
+          "title": "[뉴스분석] 李대통령 '일잘러' 임광현 전격 발탁…영입 인재에서 비서실장까지 인연",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T22:32:00Z",
+          "publishedAt": "2026-10-30T22:32:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261014001279"
         }
       ],
       "keywords": [
@@ -501,18 +505,6 @@
           "url": "https://link.springer.com/referencework/10.1007/978-3-032-35709-0"
         },
         {
-          "id": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915",
-          "title": "Historic Strike Involving Thousands of Oregon Healthcare Workers Comes to an End",
-          "source": "abcnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T20:31:00Z",
-          "publishedAt": "2026-10-29T20:31:00Z",
-          "summary": "",
-          "url": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/calgary/alberta-report-cards-callout-9.7403836",
           "title": "Alberta’s education minister is taking on school report cards. Do you love them? Hate them? Let us know | CBC News",
           "source": "cbc.ca",
@@ -585,16 +577,28 @@
           "url": "https://www.tokyoreporter.com/japan/kyoto/bogus-kyoto-university-cancer-doc-sentenced-to-5-years-after-treating-169-patients-without-license/"
         },
         {
-          "id": "https://www.parisstaronline.com:443/sarnia-regional-news/more-immigration-needed-in-lambton-researcher",
-          "title": "More immigration needed in Lambton: researcher",
-          "source": "parisstaronline.com",
+          "id": "https://www.chardandilminsternews.co.uk/news/national/26688447.home-secretary-announce-immigration-rules-overhaul-monday/",
+          "title": "Home Secretary to announce immigration rules overhaul on Monday",
+          "source": "chardandilminsternews.co.uk",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T20:32:00Z",
-          "publishedAt": "2026-10-29T20:32:00Z",
+          "date": "2026-11-01",
+          "dateRaw": "2026-11-01T22:16:00Z",
+          "publishedAt": "2026-11-01T22:16:00Z",
           "summary": "",
-          "url": "https://www.parisstaronline.com:443/sarnia-regional-news/more-immigration-needed-in-lambton-researcher"
+          "url": "https://www.chardandilminsternews.co.uk/news/national/26688447.home-secretary-announce-immigration-rules-overhaul-monday/"
+        },
+        {
+          "id": "https://www.tnp.no/norway/politics/4977-frp-wants-referendum-for-syrian-refugees-to-norway/",
+          "title": "FrP Wants Referendum for Syrian Refugees to Norway - The Nordic Page",
+          "source": "tnp.no",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-01",
+          "dateRaw": "2026-11-01T22:16:00Z",
+          "publishedAt": "2026-11-01T22:16:00Z",
+          "summary": "",
+          "url": "https://www.tnp.no/norway/politics/4977-frp-wants-referendum-for-syrian-refugees-to-norway/"
         }
       ],
       "keywords": [
@@ -640,18 +644,6 @@
           "publishedAt": "2026-10-30T00:16:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03007766645618168&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.theyeshivaworld.com/news/general/2616661/us-economy-grows-at-brisk-3-4-pace-in-third-quarter-on-strong-consumer-spending-and-ai-investment.html",
-          "title": "US Economy Grows At Brisk 3.4% Pace In Third Quarter On Strong Consumer Spending And AI Investment",
-          "source": "theyeshivaworld.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T20:31:00Z",
-          "publishedAt": "2026-10-29T20:31:00Z",
-          "summary": "",
-          "url": "https://www.theyeshivaworld.com/news/general/2616661/us-economy-grows-at-brisk-3-4-pace-in-third-quarter-on-strong-consumer-spending-and-ai-investment.html"
         },
         {
           "id": "http://www.russiaherald.com/news/279404674/finance-minister-nirmala-sitharaman-meets-russian-ambassador-denis-alipov-discusses-india-russia-trade-and-economic-cooperation",
@@ -736,6 +728,18 @@
           "publishedAt": "2026-10-30T13:02:00Z",
           "summary": "",
           "url": "https://www.livemint.com/market/stock-market-news/amazon-intel-shares-crash-up-to-25-in-premarket-trade-as-ai-spending-concerns-trigger-tech-sell-off-whats-next-11793359621019.html"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
+          "title": "US Stock Market Live Updates: Nasdaq futures tumble 2.4% as Amazon, Intel deepen AI spending concerns - The Economic Times",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T13:02:00Z",
+          "publishedAt": "2026-10-30T13:02:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms"
         }
       ],
       "keywords": [
@@ -749,7 +753,7 @@
         },
         {
           "word": "투자",
-          "count": 3
+          "count": 2
         },
         {
           "word": "금리",
@@ -839,18 +843,6 @@
           "url": "https://biz.chosun.com/science-chosun/bio/2026/10/30/SXKKMNH3AVAIXIYIQDSUT5Q6LU/"
         },
         {
-          "id": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
-          "title": "FirstEnergy data center pipeline increases to 26 GW in Q3",
-          "source": "utilitydive.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-29",
-          "dateRaw": "2026-10-29T20:31:00Z",
-          "publishedAt": "2026-10-29T20:31:00Z",
-          "summary": "",
-          "url": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/"
-        },
-        {
           "id": "https://www.pressdemocrat.com/2026/10/31/apple-nvidia-tech-stocks/",
           "title": "Apple bumps Nvidia as world’s most valuable company amid markets’ AI wakeup call",
           "source": "pressdemocrat.com",
@@ -885,6 +877,18 @@
           "publishedAt": "2026-10-30T22:32:00Z",
           "summary": "",
           "url": "https://www.aspenpublicradio.org/2026-10-30/nearly-2-out-of-3-teens-and-tweens-use-ai-chatbots-new-research-shows"
+        },
+        {
+          "id": "https://www.haaretz.com/middle-east-news/iran/2026-10-30/ty-article/.premium/u-s-and-iran-both-want-talks-wielding-the-threat-of-war-as-a-bargaining-chip/000001a1-8d0f-d125-a3b1-edcf735e0000",
+          "title": "Analysis • U.S. and Iran both want talks – wielding the threat of war as a bargaining chip",
+          "source": "haaretz.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-10-30",
+          "dateRaw": "2026-10-30T22:31:00Z",
+          "publishedAt": "2026-10-30T22:31:00Z",
+          "summary": "",
+          "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-30/ty-article/.premium/u-s-and-iran-both-want-talks-wielding-the-threat-of-war-as-a-bargaining-chip/000001a1-8d0f-d125-a3b1-edcf735e0000"
         }
       ],
       "keywords": [
@@ -897,7 +901,7 @@
           "count": 2
         },
         {
-          "word": "데이터센터",
+          "word": "반도체",
           "count": 1
         },
         {
@@ -920,9 +924,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1118,
-    "fetchedItems": 3750,
-    "feedBytes": 1040580,
+    "poolSize": 1042,
+    "fetchedItems": 2810,
+    "feedBytes": 769644,
     "rollingWindowHours": 72
   }
 }
