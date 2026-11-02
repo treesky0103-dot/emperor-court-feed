@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 02. 오전 07:28:11",
+  "updatedAt": "2026. 11. 02. 오전 10:45:37",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 176,
+    "raw": 174,
     "passed": 4,
     "deduped": 4,
     "eventDeduped": 4,
@@ -17,18 +17,6 @@
     "targetMet": false
   },
   "items": [
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01177526645641456&mediaCodeNo=257",
-      "title": "올해 수능, 서울서 11.3만명 응시…AI 안경 판별 인력 투입",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T00:16:00Z",
-      "publishedAt": "2026-11-01T00:16:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01177526645641456&mediaCodeNo=257"
-    },
     {
       "id": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/",
       "title": "Building a Business That Outlasts You: Best Practices for Succession Planning",
@@ -52,6 +40,18 @@
       "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
       "url": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html"
+    },
+    {
+      "id": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/",
+      "title": "Alaska Airlines To Lay Off 200 Non-Union Employees | Newstalk 1400, 104.5, and 105.9 WJMX",
+      "source": "newstalk1400online.iheart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T01:31:00Z",
+      "publishedAt": "2026-11-02T01:31:00Z",
+      "summary": "",
+      "url": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/"
     },
     {
       "id": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html",
@@ -68,18 +68,6 @@
   ],
   "trendItems": [
     {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01177526645641456&mediaCodeNo=257",
-      "title": "올해 수능, 서울서 11.3만명 응시…AI 안경 판별 인력 투입",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T00:16:00Z",
-      "publishedAt": "2026-11-01T00:16:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01177526645641456&mediaCodeNo=257"
-    },
-    {
       "id": "https://hartfordbusiness.com/article/building-a-business-that-outlasts-you-best-practices-for-succession-planning/",
       "title": "Building a Business That Outlasts You: Best Practices for Succession Planning",
       "source": "hartfordbusiness.com",
@@ -102,6 +90,18 @@
       "publishedAt": "2026-11-01T13:46:00Z",
       "summary": "",
       "url": "https://www.aol.co.uk/articles/poundland-comfortably-beating-market-expectations-130124000.html"
+    },
+    {
+      "id": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/",
+      "title": "Alaska Airlines To Lay Off 200 Non-Union Employees | Newstalk 1400, 104.5, and 105.9 WJMX",
+      "source": "newstalk1400online.iheart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T01:31:00Z",
+      "publishedAt": "2026-11-02T01:31:00Z",
+      "summary": "",
+      "url": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/"
     },
     {
       "id": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html",
@@ -119,10 +119,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 176,
-    "fetchedItems": 2810,
-    "relevantItems": 47,
-    "feedBytes": 769644,
+    "poolSize": 174,
+    "fetchedItems": 2609,
+    "relevantItems": 41,
+    "feedBytes": 681885,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
