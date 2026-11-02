@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 02. 오전 10:45:37",
+  "updatedAt": "2026. 11. 02. 오후 05:23:22",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 174,
-    "passed": 51,
-    "deduped": 51,
-    "eventDeduped": 51,
+    "raw": 232,
+    "passed": 81,
+    "deduped": 81,
+    "eventDeduped": 81,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -18,16 +18,28 @@
   },
   "items": [
     {
-      "id": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia",
-      "title": "OpenAI to purchase Google TPU chips as AI infrastructure demand surges",
-      "source": "techradar.com",
+      "id": "https://english.kontan.co.id/news/asias-factory-activity-feels-fading-glimmer-of-ai-boom",
+      "title": "Asia's Factory Activity Feels Fading Glimmer of AI Boom",
+      "source": "english.kontan.co.id",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
       "summary": "",
-      "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia"
+      "url": "https://english.kontan.co.id/news/asias-factory-activity-feels-fading-glimmer-of-ai-boom"
+    },
+    {
+      "id": "https://www.psucollegian.com/news/science_and_technology/iowa-state-professor-gives-lecture-on-ai-s-potential-to-both-protect-harm-energy-infrastructure/article_351c3406-0a0d-4da5-883e-4b033a5970b1.html",
+      "title": "Iowa State professor gives lecture on AI’s potential to both protect, harm energy infrastructure",
+      "source": "psucollegian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.psucollegian.com/news/science_and_technology/iowa-state-professor-gives-lecture-on-ai-s-potential-to-both-protect-harm-energy-infrastructure/article_351c3406-0a0d-4da5-883e-4b033a5970b1.html"
     },
     {
       "id": "https://zdnet.co.kr/view/?no=20261101230401",
@@ -42,18 +54,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261101230401"
     },
     {
-      "id": "https://www.firerescue1.com/fire-products/communications/artificial-intelligence-drones-and-robotics-are-redefining-whats-possible",
-      "title": "Artificial intelligence, drones and robotics are redefining what’s possible",
-      "source": "firerescue1.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:32:00Z",
-      "publishedAt": "2026-11-02T01:32:00Z",
-      "summary": "",
-      "url": "https://www.firerescue1.com/fire-products/communications/artificial-intelligence-drones-and-robotics-are-redefining-whats-possible"
-    },
-    {
       "id": "https://www.businesstimes.com.sg/companies-markets/who-are-some-longest-serving-ceos-among-singapores-blue-chip-companies",
       "title": "Who are some of the longest-serving CEOs among Singapore’s blue-chip companies?",
       "source": "businesstimes.com.sg",
@@ -64,6 +64,18 @@
       "publishedAt": "2026-11-02T01:31:00Z",
       "summary": "",
       "url": "https://www.businesstimes.com.sg/companies-markets/who-are-some-longest-serving-ceos-among-singapores-blue-chip-companies"
+    },
+    {
+      "id": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group",
+      "title": "Volvo Penta boosts sustainable energy investment with UtilityInnovation Group",
+      "source": "technicalreviewmiddleeast.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group"
     },
     {
       "id": "https://www.rttnews.com/3706919/malaysia-manufacturing-pmi-climbs-into-expansion-territory-s-p-global.aspx",
@@ -90,16 +102,16 @@
       "url": "https://www.2nm.com.au/local-news/re-alliance-calls-for-transparency-on-renewable-energy-zone-infrastructure-response/"
     },
     {
-      "id": "https://www.omanobserver.om/article/1198939/business/energy/oman-must-invest-in-energy-trading-talent-analyst",
-      "title": "Oman must invest in energy-trading talent: Analyst",
-      "source": "omanobserver.om",
+      "id": "https://dailytarheel.com/489800/city-state/gov-stein-and-a-g-jackson-urge-data-centers-to-address-energy-costs-amid-skyrocketing-utility-rates-for-consumers/",
+      "title": "Gov. Stein and A.G. Jackson urge data centers to address energy costs amid skyrocketing utility rates for consumers",
+      "source": "dailytarheel.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
       "summary": "",
-      "url": "https://www.omanobserver.om/article/1198939/business/energy/oman-must-invest-in-energy-trading-talent-analyst"
+      "url": "https://dailytarheel.com/489800/city-state/gov-stein-and-a-g-jackson-urge-data-centers-to-address-energy-costs-amid-skyrocketing-utility-rates-for-consumers/"
     },
     {
       "id": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284",
@@ -114,31 +126,43 @@
       "url": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284"
     },
     {
-      "id": "https://www.munhwa.com:443/article/11627818",
-      "title": "부산 영도 조선소서 수리 중이던 러시아 어선 화재…진화 나선 소방관 부상",
-      "source": "munhwa.com",
+      "id": "https://www.newspim.com/news/view/20261102001547",
+      "title": "5조 쏟아붓는 제조AI 혁신…중소기업엔 여전히 '그림의 떡'",
+      "source": "newspim.com",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T06:31:00Z",
-      "publishedAt": "2026-11-01T06:31:00Z",
-      "summary": "",
-      "url": "https://www.munhwa.com:443/article/11627818"
-    },
-    {
-      "id": "https://www.maysville-online.com/uncategorized/214284/kentucky-cant-afford-to-chase-data-centers-away",
-      "title": "Kentucky can’t afford to chase data centers away",
-      "source": "maysville-online.com",
-      "language": "English",
-      "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.maysville-online.com/uncategorized/214284/kentucky-cant-afford-to-chase-data-centers-away"
+      "url": "https://www.newspim.com/news/view/20261102001547"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://english.kontan.co.id/news/asias-factory-activity-feels-fading-glimmer-of-ai-boom",
+      "title": "Asia's Factory Activity Feels Fading Glimmer of AI Boom",
+      "source": "english.kontan.co.id",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
+      "summary": "",
+      "url": "https://english.kontan.co.id/news/asias-factory-activity-feels-fading-glimmer-of-ai-boom"
+    },
+    {
+      "id": "https://www.psucollegian.com/news/science_and_technology/iowa-state-professor-gives-lecture-on-ai-s-potential-to-both-protect-harm-energy-infrastructure/article_351c3406-0a0d-4da5-883e-4b033a5970b1.html",
+      "title": "Iowa State professor gives lecture on AI’s potential to both protect, harm energy infrastructure",
+      "source": "psucollegian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.psucollegian.com/news/science_and_technology/iowa-state-professor-gives-lecture-on-ai-s-potential-to-both-protect-harm-energy-infrastructure/article_351c3406-0a0d-4da5-883e-4b033a5970b1.html"
+    },
     {
       "id": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia",
       "title": "OpenAI to purchase Google TPU chips as AI infrastructure demand surges",
@@ -164,6 +188,18 @@
       "url": "https://zdnet.co.kr/view/?no=20261101230401"
     },
     {
+      "id": "https://www.newspim.com/news/view/20261102001264",
+      "title": "의료데이터 반출 없이 AI 활용...재경부, 국가 AI 인프라 구축 '시동'",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261102001264"
+    },
+    {
       "id": "https://www.firerescue1.com/fire-products/communications/artificial-intelligence-drones-and-robotics-are-redefining-whats-possible",
       "title": "Artificial intelligence, drones and robotics are redefining what’s possible",
       "source": "firerescue1.com",
@@ -174,18 +210,6 @@
       "publishedAt": "2026-11-02T01:32:00Z",
       "summary": "",
       "url": "https://www.firerescue1.com/fire-products/communications/artificial-intelligence-drones-and-robotics-are-redefining-whats-possible"
-    },
-    {
-      "id": "https://www.businesstimes.com.sg/companies-markets/singapore-banks-wealth-fees-may-ease-q3-ai-lending-bond-yields-draw-scrutiny",
-      "title": "Singapore banks’ wealth fees may ease in Q3 as AI lending, bond yields draw scrutiny",
-      "source": "businesstimes.com.sg",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-banks-wealth-fees-may-ease-q3-ai-lending-bond-yields-draw-scrutiny"
     },
     {
       "id": "https://www.businesstimes.com.sg/companies-markets/who-are-some-longest-serving-ceos-among-singapores-blue-chip-companies",
@@ -212,16 +236,16 @@
       "url": "https://biz.heraldcorp.com/article/10922392"
     },
     {
-      "id": "https://www.roboticstomorrow.com/news/2026/11/01/productive-robotics-adds-physical-ai-to-mill-tending-7-axis-cobot-/27326/",
-      "title": "PRODUCTIVE ROBOTICS ADDS PHYSICAL AI TO MILL TENDING 7-AXIS COBOT | RoboticsTomorrow",
-      "source": "roboticstomorrow.com",
+      "id": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group",
+      "title": "Volvo Penta boosts sustainable energy investment with UtilityInnovation Group",
+      "source": "technicalreviewmiddleeast.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.roboticstomorrow.com/news/2026/11/01/productive-robotics-adds-physical-ai-to-mill-tending-7-axis-cobot-/27326/"
+      "url": "https://technicalreviewmiddleeast.com/power-a-water/volvo-penta-boosts-sustainable-energy-investment-with-utilityinnovation-group"
     },
     {
       "id": "https://www.rttnews.com/3706919/malaysia-manufacturing-pmi-climbs-into-expansion-territory-s-p-global.aspx",
@@ -260,6 +284,18 @@
       "url": "https://www.omanobserver.om/article/1198939/business/energy/oman-must-invest-in-energy-trading-talent-analyst"
     },
     {
+      "id": "https://dailytarheel.com/489800/city-state/gov-stein-and-a-g-jackson-urge-data-centers-to-address-energy-costs-amid-skyrocketing-utility-rates-for-consumers/",
+      "title": "Gov. Stein and A.G. Jackson urge data centers to address energy costs amid skyrocketing utility rates for consumers",
+      "source": "dailytarheel.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
+      "summary": "",
+      "url": "https://dailytarheel.com/489800/city-state/gov-stein-and-a-g-jackson-urge-data-centers-to-address-energy-costs-amid-skyrocketing-utility-rates-for-consumers/"
+    },
+    {
       "id": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284",
       "title": "Industrial Robotics & Automation, Mobile & Humanoid Robots Company - ResinDek / Cornerstone Specialty Wood Products | RoboticsTomorrow",
       "source": "roboticstomorrow.com",
@@ -272,16 +308,16 @@
       "url": "https://www.roboticstomorrow.com/company_directory/resindek--cornerstone-specialty-wood-products/12284"
     },
     {
-      "id": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html",
-      "title": "‘I don't save for retirement now’: Former Google AI expert's alarming warning about artificial intelligence | Mint",
-      "source": "livemint.com",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261102001547",
+      "title": "5조 쏟아붓는 제조AI 혁신…중소기업엔 여전히 '그림의 떡'",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html"
+      "url": "https://www.newspim.com/news/view/20261102001547"
     },
     {
       "id": "https://www.dongascience.com:443/ko/news/80647",
@@ -296,16 +332,64 @@
       "url": "https://www.dongascience.com:443/ko/news/80647"
     },
     {
-      "id": "https://www.munhwa.com:443/article/11627818",
-      "title": "부산 영도 조선소서 수리 중이던 러시아 어선 화재…진화 나선 소방관 부상",
-      "source": "munhwa.com",
-      "language": "Korean",
+      "id": "https://www.rttnews.com/story.aspx?Id=3707022",
+      "title": "Dutch Manufacturing Activity Continues To Expand",
+      "source": "rttnews.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T06:31:00Z",
-      "publishedAt": "2026-11-01T06:31:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.munhwa.com:443/article/11627818"
+      "url": "https://www.rttnews.com/story.aspx?Id=3707022"
+    },
+    {
+      "id": "https://vukagroup.africa-newsroom.com/press/energy-costs-storage-value-and-industrial-competitiveness-led-day-2-of-candi-energy--storage-summit",
+      "title": "Energy costs, storage value and industrial competitiveness led Day 2 of C&I Energy + Storage Summit",
+      "source": "vukagroup.africa-newsroom.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://vukagroup.africa-newsroom.com/press/energy-costs-storage-value-and-industrial-competitiveness-led-day-2-of-candi-energy--storage-summit"
+    },
+    {
+      "id": "https://www.rttnews.com/story.aspx?Id=3707018",
+      "title": "India Manufacturing Growth Stays Strong In October",
+      "source": "rttnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.rttnews.com/story.aspx?Id=3707018"
+    },
+    {
+      "id": "https://3dprint.com/336000/ampulse-asia-the-push-to-scale-up-3d-printing/",
+      "title": "AMPulse Asia: The Push to Scale Up 3D Printing - 3DPrint.com | Additive Manufacturing Business",
+      "source": "3dprint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://3dprint.com/336000/ampulse-asia-the-push-to-scale-up-3d-printing/"
+    },
+    {
+      "id": "https://www.nbr.co.nz/market-close/nzx-50-falls-as-blue-chips-fph-meridian-chilled-in-global-slide/",
+      "title": "NZX 50 falls as blue chips FPH, Meridian chilled in global slide - NBR | Business news & analysis | Independent, ad-free reporting",
+      "source": "nbr.co.nz",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.nbr.co.nz/market-close/nzx-50-falls-as-blue-chips-fph-meridian-chilled-in-global-slide/"
     },
     {
       "id": "https://www.maysville-online.com/uncategorized/214284/kentucky-cant-afford-to-chase-data-centers-away",
@@ -320,30 +404,6 @@
       "url": "https://www.maysville-online.com/uncategorized/214284/kentucky-cant-afford-to-chase-data-centers-away"
     },
     {
-      "id": "https://www.rttnews.com/3706916/south-korea-manufacturing-sector-ebbs-in-october-s-p-global.aspx",
-      "title": "South Korea Manufacturing Sector Ebbs In October - S&P Global",
-      "source": "rttnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://www.rttnews.com/3706916/south-korea-manufacturing-sector-ebbs-in-october-s-p-global.aspx"
-    },
-    {
-      "id": "https://www.rttnews.com/3706917/japan-manufacturing-pmi-slips-to-53-3-in-october-s-p-global.aspx",
-      "title": "Japan Manufacturing PMI Slips To 53.3 In October - S&P Global",
-      "source": "rttnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://www.rttnews.com/3706917/japan-manufacturing-pmi-slips-to-53-3-in-october-s-p-global.aspx"
-    },
-    {
       "id": "http://www.neworleanssun.com/news/279405104/intel-loses-usd146-billion-in-value-as-warning-sparks-chip-rout",
       "title": "Intel loses $146 billion in value as warning sparks chip rout",
       "source": "neworleanssun.com",
@@ -354,30 +414,6 @@
       "publishedAt": "2026-11-02T01:31:00Z",
       "summary": "",
       "url": "http://www.neworleanssun.com/news/279405104/intel-loses-usd146-billion-in-value-as-warning-sparks-chip-rout"
-    },
-    {
-      "id": "https://mymotherlode.com/news/world/11272610/sudans-power-grid-nears-collapse-as-drone-strikes-blamed-on-rsf-target-electric-stations.html",
-      "title": "Sudan’s power grid nears collapse as drone strikes blamed on RSF target electric stations - myMotherLode.com",
-      "source": "mymotherlode.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T22:16:00Z",
-      "publishedAt": "2026-11-01T22:16:00Z",
-      "summary": "",
-      "url": "https://mymotherlode.com/news/world/11272610/sudans-power-grid-nears-collapse-as-drone-strikes-blamed-on-rsf-target-electric-stations.html"
-    },
-    {
-      "id": "http://www.indiagazette.com/news/279406662/excellent-progress-ashwini-vaishnaw-after-inspecting-manufacturing-of-india-first-bullet-train-in-bengaluru",
-      "title": "\"Excellent progress\": Ashwini Vaishnaw after inspecting manufacturing of India's first bullet train in Bengaluru",
-      "source": "indiagazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "http://www.indiagazette.com/news/279406662/excellent-progress-ashwini-vaishnaw-after-inspecting-manufacturing-of-india-first-bullet-train-in-bengaluru"
     },
     {
       "id": "https://www.republicanherald.com/2026/11/01/data-center-health-midterm-elections/",
@@ -416,18 +452,6 @@
       "url": "https://www.theoaklandpress.com/2026/11/01/amid-furor-over-data-center-secrecy-michigan-developers-try-a-new-approach-2/"
     },
     {
-      "id": "https://www.meteoweb.eu/2026/11/google-costruira-un-gigantesco-data-center-in-francia-grande-come-270-campi-da-calcio-e-con-una-potenza-di-oltre-500-megawatt/1001997838/",
-      "title": "Google costruirà un gigantesco data center in Francia: grande come 270 campi da calcio e con una potenza di oltre 500 megawatt",
-      "source": "meteoweb.eu",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:46:00Z",
-      "publishedAt": "2026-11-01T13:46:00Z",
-      "summary": "",
-      "url": "https://www.meteoweb.eu/2026/11/google-costruira-un-gigantesco-data-center-in-francia-grande-come-270-campi-da-calcio-e-con-una-potenza-di-oltre-500-megawatt/1001997838/"
-    },
-    {
       "id": "https://www.reseller.co.nz/article/4243033/hyperscalers-allow-more-scrutiny-of-controversial-data-centre-plans.html",
       "title": "Hyperscalers allow more scrutiny of controversial data centre plans",
       "source": "reseller.co.nz",
@@ -440,16 +464,160 @@
       "url": "https://www.reseller.co.nz/article/4243033/hyperscalers-allow-more-scrutiny-of-controversial-data-centre-plans.html"
     },
     {
-      "id": "https://www.dailypolitical.com/2026/11/01/manufacturing-stocks-to-follow-today-november-1st.html",
-      "title": "Manufacturing Stocks To Follow Today – November 1st",
-      "source": "dailypolitical.com",
+      "id": "https://www.businesstimes.com.sg/companies-markets/singapore-banks-wealth-fees-may-ease-q3-ai-lending-bond-yields-draw-scrutiny",
+      "title": "Singapore banks’ wealth fees may ease in Q3 as AI lending, bond yields draw scrutiny",
+      "source": "businesstimes.com.sg",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T01:31:00Z",
+      "publishedAt": "2026-11-02T01:31:00Z",
+      "summary": "",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-banks-wealth-fees-may-ease-q3-ai-lending-bond-yields-draw-scrutiny"
+    },
+    {
+      "id": "https://www.rttnews.com/3706916/south-korea-manufacturing-sector-ebbs-in-october-s-p-global.aspx",
+      "title": "South Korea Manufacturing Sector Ebbs In October - S&P Global",
+      "source": "rttnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T01:31:00Z",
+      "publishedAt": "2026-11-02T01:31:00Z",
+      "summary": "",
+      "url": "https://www.rttnews.com/3706916/south-korea-manufacturing-sector-ebbs-in-october-s-p-global.aspx"
+    },
+    {
+      "id": "https://mymotherlode.com/news/world/11272610/sudans-power-grid-nears-collapse-as-drone-strikes-blamed-on-rsf-target-electric-stations.html",
+      "title": "Sudan’s power grid nears collapse as drone strikes blamed on RSF target electric stations - myMotherLode.com",
+      "source": "mymotherlode.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T22:16:00Z",
+      "publishedAt": "2026-11-01T22:16:00Z",
+      "summary": "",
+      "url": "https://mymotherlode.com/news/world/11272610/sudans-power-grid-nears-collapse-as-drone-strikes-blamed-on-rsf-target-electric-stations.html"
+    },
+    {
+      "id": "https://www.meteoweb.eu/2026/11/google-costruira-un-gigantesco-data-center-in-francia-grande-come-270-campi-da-calcio-e-con-una-potenza-di-oltre-500-megawatt/1001997838/",
+      "title": "Google costruirà un gigantesco data center in Francia: grande come 270 campi da calcio e con una potenza di oltre 500 megawatt",
+      "source": "meteoweb.eu",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T13:46:00Z",
+      "publishedAt": "2026-11-01T13:46:00Z",
+      "summary": "",
+      "url": "https://www.meteoweb.eu/2026/11/google-costruira-un-gigantesco-data-center-in-francia-grande-come-270-campi-da-calcio-e-con-una-potenza-di-oltre-500-megawatt/1001997838/"
+    },
+    {
+      "id": "https://www.roboticstomorrow.com/news/2026/11/01/productive-robotics-adds-physical-ai-to-mill-tending-7-axis-cobot-/27326/",
+      "title": "PRODUCTIVE ROBOTICS ADDS PHYSICAL AI TO MILL TENDING 7-AXIS COBOT | RoboticsTomorrow",
+      "source": "roboticstomorrow.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-01",
       "dateRaw": "2026-11-01T18:32:00Z",
       "publishedAt": "2026-11-01T18:32:00Z",
       "summary": "",
-      "url": "https://www.dailypolitical.com/2026/11/01/manufacturing-stocks-to-follow-today-november-1st.html"
+      "url": "https://www.roboticstomorrow.com/news/2026/11/01/productive-robotics-adds-physical-ai-to-mill-tending-7-axis-cobot-/27326/"
+    },
+    {
+      "id": "https://econotimes.com/UAE-Launches-Annual-Government-Challenge-Focused-on-AI-Assistants-1768541",
+      "title": "UAE Launches Annual Government Challenge Focused on AI Assistants | EconoTimes",
+      "source": "econotimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://econotimes.com/UAE-Launches-Annual-Government-Challenge-Focused-on-AI-Assistants-1768541"
+    },
+    {
+      "id": "https://www.prokerala.com/news/articles/a1831914.html",
+      "title": "Nearly 7 in 10 Indian firms to boost AI investments despite data readiness gap",
+      "source": "prokerala.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.prokerala.com/news/articles/a1831914.html"
+    },
+    {
+      "id": "https://www.dealstreetasia.com/stories/after-singapore-hsbc-to-launch-ai-institute-in-hong-kong-499809",
+      "title": "After Singapore, HSBC to launch AI Institute in Hong Kong",
+      "source": "dealstreetasia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.dealstreetasia.com/stories/after-singapore-hsbc-to-launch-ai-institute-in-hong-kong-499809"
+    },
+    {
+      "id": "http://kr.xinhuanet.com/20261102/8fa99d5f2280428695cfbd5697c50e80/c.html",
+      "title": "中 택배업계 달라진다...드론·로봇·디지털 직원 등 AI 전환 '가속'",
+      "source": "kr.xinhuanet.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "http://kr.xinhuanet.com/20261102/8fa99d5f2280428695cfbd5697c50e80/c.html"
+    },
+    {
+      "id": "https://www.cinaradio.com/2026/11/02/zuckerberg-wants-to-give-ai-a-body-meet-metas-new-humanoid-robot/",
+      "title": "Zuckerberg Wants To Give AI A Body. Meet Meta’s New Humanoid Robot",
+      "source": "cinaradio.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
+      "summary": "",
+      "url": "https://www.cinaradio.com/2026/11/02/zuckerberg-wants-to-give-ai-a-body-meet-metas-new-humanoid-robot/"
+    },
+    {
+      "id": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html",
+      "title": "‘I don't save for retirement now’: Former Google AI expert's alarming warning about artificial intelligence | Mint",
+      "source": "livemint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-01",
+      "dateRaw": "2026-11-01T18:32:00Z",
+      "publishedAt": "2026-11-01T18:32:00Z",
+      "summary": "",
+      "url": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261102001287",
+      "title": "AI 안경 비상…애꿎은 수능 감독관·수험생만 속앓이",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261102001287"
+    },
+    {
+      "id": "https://news.mtn.co.kr/article/2026110215430560532",
+      "title": "네이버 최수연 \"중소기업까지 AI 활용해야 산업 경쟁력 강화\"",
+      "source": "news.mtn.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://news.mtn.co.kr/article/2026110215430560532"
     },
     {
       "id": "https://biz.heraldcorp.com/article/10921964",
@@ -464,289 +632,121 @@
       "url": "https://biz.heraldcorp.com/article/10921964"
     },
     {
-      "id": "https://www.reseller.co.nz/article/4243022/mistral-open-sources-ai-model-despite-warning-it-could-aid-cyberattacks-2.html",
-      "title": "Mistral open-sources AI model despite warning it could aid cyberattacks",
-      "source": "reseller.co.nz",
+      "id": "https://www.tomsguide.com/ai/i-asked-chatgpt-gemini-claude-and-perplexity-if-there-really-is-an-ai-bubble-and-when-its-going-to-burst-and-one-compared-it-to-the-dot-com-crash",
+      "title": "I asked 4 AI chatbots when the AI bubble will burst — one compared it to the dot-com crash",
+      "source": "tomsguide.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:32:00Z",
-      "publishedAt": "2026-11-02T01:32:00Z",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
       "summary": "",
-      "url": "https://www.reseller.co.nz/article/4243022/mistral-open-sources-ai-model-despite-warning-it-could-aid-cyberattacks-2.html"
+      "url": "https://www.tomsguide.com/ai/i-asked-chatgpt-gemini-claude-and-perplexity-if-there-really-is-an-ai-bubble-and-when-its-going-to-burst-and-one-compared-it-to-the-dot-com-crash"
     },
     {
-      "id": "https://www.elpasoinc.com/askthelegalprofessional/what-employers-need-to-know-about-ai-and-discrimination-claims/article_d9c63e8b-7390-4188-82e7-33db4280989f.html",
-      "title": "What Employers Need to Know About AI and Discrimination Claims",
-      "source": "elpasoinc.com",
+      "id": "https://www.hindustantimes.com/trending/shopify-ceo-turns-wine-cellar-into-ai-server-room-uses-it-to-track-stressful-meetings-101793601952833.html",
+      "title": "Shopify CEO turns wine cellar into AI server room, uses it to track stressful meetings",
+      "source": "hindustantimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.elpasoinc.com/askthelegalprofessional/what-employers-need-to-know-about-ai-and-discrimination-claims/article_d9c63e8b-7390-4188-82e7-33db4280989f.html"
+      "url": "https://www.hindustantimes.com/trending/shopify-ceo-turns-wine-cellar-into-ai-server-room-uses-it-to-track-stressful-meetings-101793601952833.html"
     },
     {
-      "id": "https://www.nrc.nl/nieuws/2026/11/01/ignore-ai-and-ask-for-that-pay-rise-a4940147",
-      "title": "Opinie | Ignore AI and ask for that pay rise",
-      "source": "nrc.nl",
+      "id": "http://www.batonrougepost.com/news/279407306/explainer-how-ai-muddies-the-waters-ahead-of-us-midterm-elections",
+      "title": "Explainer: How AI muddies the waters ahead of U.S. midterm elections?",
+      "source": "batonrougepost.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.nrc.nl/nieuws/2026/11/01/ignore-ai-and-ask-for-that-pay-rise-a4940147"
+      "url": "http://www.batonrougepost.com/news/279407306/explainer-how-ai-muddies-the-waters-ahead-of-us-midterm-elections"
     },
     {
-      "id": "https://www.latimes.com/business/story/2026-11-01/if-we-say-ais-deserve-rights-it-could-start-to-believe-it-microsoft-ceo-says",
-      "title": "If we say AIs deserve rights, it could start to believe it, Microsoft AI CEO says",
-      "source": "latimes.com",
+      "id": "http://www.singaporestar.com/news/279407277/sensex-jumps-over-700-points-nifty-opens-073-higher-amid-us-yields-ease-and-weak-ai-sentiments",
+      "title": "Sensex jumps over 700 points, Nifty opens 0.73% higher amid US Yields ease and weak AI sentiments",
+      "source": "singaporestar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://www.latimes.com/business/story/2026-11-01/if-we-say-ais-deserve-rights-it-could-start-to-believe-it-microsoft-ceo-says"
+      "url": "http://www.singaporestar.com/news/279407277/sensex-jumps-over-700-points-nifty-opens-073-higher-amid-us-yields-ease-and-weak-ai-sentiments"
     },
     {
-      "id": "https://econotimes.com/Julius-Baer-CEO-Says-AI-Bubble-Poses-Greater-Risk-Than-Banking-Crisis-1768314",
-      "title": "Julius Baer CEO Says AI Bubble Poses Greater Risk Than Banking Crisis | EconoTimes",
+      "id": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-small-companies-need-to-see-ai-as-more-than-an-artificial-promise/articleshow/135445913.cms",
+      "title": "India’s small companies need to see AI as more than an artificial promise",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-small-companies-need-to-see-ai-as-more-than-an-artificial-promise/articleshow/135445913.cms"
+    },
+    {
+      "id": "https://www.zawya.com/en/capital-markets/pif-aramco-close-deal-giving-the-oil-kingpin-49-of-ai-firm-humain-1859071",
+      "title": "PIF, Aramco close deal giving the oil kingpin 49% of AI firm HUMAIN",
+      "source": "zawya.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.zawya.com/en/capital-markets/pif-aramco-close-deal-giving-the-oil-kingpin-49-of-ai-firm-humain-1859071"
+    },
+    {
+      "id": "https://www.chroniclelive.co.uk/news/uk-news/73-per-cent-school-pupils-34848192",
+      "title": "73 per cent of school pupils now pass off AI work as their own",
+      "source": "chroniclelive.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
+      "summary": "",
+      "url": "https://www.chroniclelive.co.uk/news/uk-news/73-per-cent-school-pupils-34848192"
+    },
+    {
+      "id": "https://econotimes.com/Germany-Opens-Berlin-Digital-Summit-With-AI-Safety-and-Competition-on-Agenda-1768547",
+      "title": "Germany Opens Berlin Digital Summit With AI Safety and Competition on Agenda | EconoTimes",
       "source": "econotimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://econotimes.com/Julius-Baer-CEO-Says-AI-Bubble-Poses-Greater-Risk-Than-Banking-Crisis-1768314"
+      "url": "https://econotimes.com/Germany-Opens-Berlin-Digital-Summit-With-AI-Safety-and-Competition-on-Agenda-1768547"
     },
     {
-      "id": "https://brobible.com/culture/article/chicago-airport-ai-wheelchair/",
-      "title": "Grandma Tries Out New AI-Controlled Wheelchair In Chicago’s O’Hare Airport. It Goes Wrong In Under 20 Seconds",
-      "source": "brobible.com",
+      "id": "https://www.bangordailynews.com/2026/11/02/business/business-housing/using-ai-buy-sell-bangor-home-joam40zk0w/",
+      "title": "When she wanted to buy a home in Bangor, she turned to AI",
+      "source": "bangordailynews.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T08:16:00Z",
+      "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
-      "url": "https://brobible.com/culture/article/chicago-airport-ai-wheelchair/"
-    },
-    {
-      "id": "https://www.theage.com.au/topic/artificial-intelligence-5ui",
-      "title": "Topic | Artificial intelligence | The Age",
-      "source": "theage.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://www.theage.com.au/topic/artificial-intelligence-5ui"
-    },
-    {
-      "id": "https://www.reseller.co.nz/article/4243028/ciscos-partner-shift-what-customers-should-expect-from-their-cisco-partner-in-the-ai-era-2.html",
-      "title": "Cisco's partner shift: What customers should expect from their Cisco partner in the AI era",
-      "source": "reseller.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://www.reseller.co.nz/article/4243028/ciscos-partner-shift-what-customers-should-expect-from-their-cisco-partner-in-the-ai-era-2.html"
-    },
-    {
-      "id": "https://fd.nl/opinie/1617383/ai-democratie",
-      "title": "AI-bot of Kamerlid: wie vertegenwoordigt de kiezer?",
-      "source": "fd.nl",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://fd.nl/opinie/1617383/ai-democratie"
-    },
-    {
-      "id": "https://japantoday.com/category/tech/one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks",
-      "title": "Tech tip: How to get started with AI agents, and which are best for specific tasks",
-      "source": "japantoday.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T22:16:00Z",
-      "publishedAt": "2026-11-01T22:16:00Z",
-      "summary": "",
-      "url": "https://japantoday.com/category/tech/one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks"
-    },
-    {
-      "id": "https://japantoday.com/category/features/travel/Using-AI-to-plan-your-next-holiday-Sometimes-too-much-information-is-just-too-much",
-      "title": "Using AI to plan your next holiday? Sometimes, too much information is just too much",
-      "source": "japantoday.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T22:16:00Z",
-      "publishedAt": "2026-11-01T22:16:00Z",
-      "summary": "",
-      "url": "https://japantoday.com/category/features/travel/Using-AI-to-plan-your-next-holiday-Sometimes-too-much-information-is-just-too-much"
-    },
-    {
-      "id": "https://itbrief.co.nz/story/assurity-consulting-puts-quality-at-core-of-ai-push",
-      "title": "Assurity Consulting puts quality at core of AI push",
-      "source": "itbrief.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T22:16:00Z",
-      "publishedAt": "2026-11-01T22:16:00Z",
-      "summary": "",
-      "url": "https://itbrief.co.nz/story/assurity-consulting-puts-quality-at-core-of-ai-push"
-    },
-    {
-      "id": "https://www.zazoom.it/2026-11-01/live-f1-gp-messico-2026-in-diretta-beffa-atroce-per-la-ferrari-verstappen-sfrutta-la-penalita-di-leclerc-e-passa-davanti-ai-box/19873749/",
-      "title": "LIVE F1 GP Messico 2026 in DIRETTA | beffa atroce per la Ferrari Verstappen sfrutta la penalità di Leclerc e passa davanti ai box!",
-      "source": "zazoom.it",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T22:16:00Z",
-      "publishedAt": "2026-11-01T22:16:00Z",
-      "summary": "",
-      "url": "https://www.zazoom.it/2026-11-01/live-f1-gp-messico-2026-in-diretta-beffa-atroce-per-la-ferrari-verstappen-sfrutta-la-penalita-di-leclerc-e-passa-davanti-ai-box/19873749/"
-    },
-    {
-      "id": "https://www.omanobserver.om/article/1198936/opinion/business/the-ai-debt-dilemma-who-will-pay-for-the-technology-boom",
-      "title": "The AI debt dilemma: Who will pay for the technology boom?",
-      "source": "omanobserver.om",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://www.omanobserver.om/article/1198936/opinion/business/the-ai-debt-dilemma-who-will-pay-for-the-technology-boom"
-    },
-    {
-      "id": "http://www.editorandpublisher.com/stories/ai-search-is-changing-local-discovery-publishers-already-have-an-advantage,264276",
-      "title": "AI search is changing local discovery. Publishers already have an advantage - Editor and Publisher",
-      "source": "editorandpublisher.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "http://www.editorandpublisher.com/stories/ai-search-is-changing-local-discovery-publishers-already-have-an-advantage,264276"
-    },
-    {
-      "id": "https://www.republicanherald.com/2026/11/01/business-briefcase-workshop-to-explore-using-ai-virtual-clinic/",
-      "title": "Business Briefcase: Workshop to explore using AI virtual clinic",
-      "source": "republicanherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://www.republicanherald.com/2026/11/01/business-briefcase-workshop-to-explore-using-ai-virtual-clinic/"
-    },
-    {
-      "id": "https://en.shafaqna.com/488203/ai-is-changing-how-we-think-are-we-noticing-the-consequences/",
-      "title": "AI is changing how we think, are we noticing the consequences? - Shafaqna English | International Shia News & Fatwas",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:47:00Z",
-      "publishedAt": "2026-11-01T13:47:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/488203/ai-is-changing-how-we-think-are-we-noticing-the-consequences/"
-    },
-    {
-      "id": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html",
-      "title": "The Gen Z AI workers reveal what their jobs actually involve",
-      "source": "dailymail.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:47:00Z",
-      "publishedAt": "2026-11-01T13:47:00Z",
-      "summary": "",
-      "url": "https://www.dailymail.com/sciencetech/article-16249767/AI-generation-Gen-Z-workers.html"
-    },
-    {
-      "id": "https://www.tomsguide.com/ai/a-few-tech-leaders-are-rebranding-ai-as-superintelligence-calling-it-that-doesnt-make-it-accurate",
-      "title": "A few tech leaders are rebranding AI as ‘superintelligence’ — calling it that doesn’t make it accurate",
-      "source": "tomsguide.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:46:00Z",
-      "publishedAt": "2026-11-01T13:46:00Z",
-      "summary": "",
-      "url": "https://www.tomsguide.com/ai/a-few-tech-leaders-are-rebranding-ai-as-superintelligence-calling-it-that-doesnt-make-it-accurate"
-    },
-    {
-      "id": "https://www.henryherald.com/news/to-make-ai-morally-good-tech-companies-are-turning-to-religion/article_849e8ae1-846b-5b46-a47f-68bbcb3d2855.html",
-      "title": "To make AI morally good, tech companies are turning to religion",
-      "source": "henryherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:46:00Z",
-      "publishedAt": "2026-11-01T13:46:00Z",
-      "summary": "",
-      "url": "https://www.henryherald.com/news/to-make-ai-morally-good-tech-companies-are-turning-to-religion/article_849e8ae1-846b-5b46-a47f-68bbcb3d2855.html"
-    },
-    {
-      "id": "https://www.tanzanianewsreports.com/don-urges-ecowas-to-deploy-ai-technology-in-tackling-terrorism/",
-      "title": "Don Urges ECOWAS to Deploy AI Technology in Tackling Terrorism - Tanzania News Reports",
-      "source": "tanzanianewsreports.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T06:32:00Z",
-      "publishedAt": "2026-11-01T06:32:00Z",
-      "summary": "",
-      "url": "https://www.tanzanianewsreports.com/don-urges-ecowas-to-deploy-ai-technology-in-tackling-terrorism/"
-    },
-    {
-      "id": "https://www.republicain-lorrain.fr/culture-loisirs/2026/11/01/sophie-marceau-on-peut-avoir-aime-et-ne-plus-aimer-j-ai-choisi-cette-vie",
-      "title": "L’entretien du dimanche. Sophie Marceau : « On peut avoir aimé et ne plus aimer, j’ai choisi cette vie »",
-      "source": "republicain-lorrain.fr",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T06:32:00Z",
-      "publishedAt": "2026-11-01T06:32:00Z",
-      "summary": "",
-      "url": "https://www.republicain-lorrain.fr/culture-loisirs/2026/11/01/sophie-marceau-on-peut-avoir-aime-et-ne-plus-aimer-j-ai-choisi-cette-vie"
-    },
-    {
-      "id": "https://www.heraldscotland.com/politics/holyrood/26686975.scotland-plans-regulate-benefit-ai/",
-      "title": "My challenge is to make sure Scotland gets AI's benefits without the downsides",
-      "source": "heraldscotland.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T06:31:00Z",
-      "publishedAt": "2026-11-01T06:31:00Z",
-      "summary": "",
-      "url": "https://www.heraldscotland.com/politics/holyrood/26686975.scotland-plans-regulate-benefit-ai/"
+      "url": "https://www.bangordailynews.com/2026/11/02/business/business-housing/using-ai-buy-sell-bangor-home-joam40zk0w/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 174,
-    "fetchedItems": 2609,
-    "relevantItems": 41,
-    "feedBytes": 681885,
+    "poolSize": 232,
+    "fetchedItems": 5492,
+    "relevantItems": 84,
+    "feedBytes": 1560458,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
