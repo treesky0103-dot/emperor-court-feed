@@ -1,23 +1,35 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 02. 오후 05:23:24",
+  "updatedAt": "2026. 11. 03. 오전 03:41:18",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/economy/12191515",
-          "title": "대출 풀리면 주거지 옮기겠다는 청년들…감당 가능한 한달 이자엔 “최대 50만원”",
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html",
+          "title": "경제성장률 3.6% 전망에도…소비·청년고용 다 얼었다",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/society/12193658",
+          "title": "경기도시장군수협의회 “교육투자 순위화 재검토해야”…경기도교육청에 개선 촉구",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T14:48:31Z",
-          "publishedAt": "2026-10-30T14:48:31Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T16:38:09Z",
+          "publishedAt": "2026-11-02T16:38:09Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12191515",
+          "url": "https://www.mk.co.kr/news/society/12193658",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -36,18 +48,32 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261101144548",
-          "title": "\"모바일 신분증으로 본인·보호자·사회복지사 권한 및 동의·위임 검증\"",
+          "id": "https://zdnet.co.kr/view/?no=20261102221210",
+          "title": "유길상 한기대 총장 \"AI 혁신·실천공학·파격 복지 3박자로 전국 최상위권 취업률\"",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-01",
-          "dateRaw": "2026-11-01T05:45:48Z",
-          "publishedAt": "2026-11-01T05:45:48Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T13:12:10Z",
+          "publishedAt": "2026-11-02T13:12:10Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261101144548",
+          "url": "https://zdnet.co.kr/view/?no=20261102221210",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228582",
+          "title": "선거연락소에 200만원 전달 시도?…경찰, 전북교육감 등 3명 수사",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T09:06:00Z",
+          "publishedAt": "2026-11-02T09:06:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228582",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003280632&PAGE_CD=PSTAR&CMPT_CD=S5002",
@@ -72,20 +98,6 @@
           "publishedAt": "2026-11-02T08:16:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261102001264"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228525",
-          "title": "우리금융 계열사 임직원이 '금융 선생님'…자립준비청년 대상 특강",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T04:48:00Z",
-          "publishedAt": "2026-11-02T04:48:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228525",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10921976",
@@ -122,24 +134,16 @@
           "publishedAt": "2026-11-01T00:16:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11629897"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277635&SRS_CD=0000021791&CMPT_CD=M0153",
-          "title": "IT 회사 다니던 청년, 사표 내고 타투이스트 된 사연",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-31",
-          "dateRaw": "2026-10-31T21:31:00Z",
-          "publishedAt": "2026-10-31T21:31:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277635&SRS_CD=0000021791&CMPT_CD=M0153"
         }
       ],
       "keywords": [
         {
+          "word": "교육",
+          "count": 3
+        },
+        {
           "word": "청년",
-          "count": 4
+          "count": 2
         },
         {
           "word": "돌봄",
@@ -147,10 +151,6 @@
         },
         {
           "word": "복지",
-          "count": 1
-        },
-        {
-          "word": "주거",
           "count": 1
         }
       ],
@@ -189,16 +189,40 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261102110337",
-          "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과",
+          "id": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/",
+          "title": "“제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라”",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:32:00Z",
+          "publishedAt": "2026-11-02T18:32:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html",
+          "title": "경제성장률 3.6% 전망에도…소비·청년고용 다 얼었다",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261102211716",
+          "title": "전문가 AI 프로필 연결하는 슈퍼미, 268억 원 투자 유치",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-02",
-          "dateRaw": "2026-11-02T06:01:01Z",
-          "publishedAt": "2026-11-02T06:01:01Z",
+          "dateRaw": "2026-11-02T12:17:16Z",
+          "publishedAt": "2026-11-02T12:17:16Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261102110337",
+          "url": "https://zdnet.co.kr/view/?no=20261102211716",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -263,30 +287,6 @@
           "publishedAt": "2026-10-31T07:31:00Z",
           "summary": "",
           "url": "https://seoul.co.kr:443/news/economy/industry/2026/10/31/20261031500022"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261014001279",
-          "title": "[뉴스분석] 李대통령 '일잘러' 임광현 전격 발탁…영입 인재에서 비서실장까지 인연",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T22:32:00Z",
-          "publishedAt": "2026-10-30T22:32:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261014001279"
-        },
-        {
-          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700871",
-          "title": "경기 용인 영동고속도로 화물차·승용차 추돌…6명 부상",
-          "source": "news.kbs.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-01",
-          "dateRaw": "2026-11-01T13:46:00Z",
-          "publishedAt": "2026-11-01T13:46:00Z",
-          "summary": "",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700871"
         }
       ],
       "keywords": [
@@ -296,6 +296,18 @@
         },
         {
           "word": "환율",
+          "count": 2
+        },
+        {
+          "word": "고용",
+          "count": 1
+        },
+        {
+          "word": "금리",
+          "count": 1
+        },
+        {
+          "word": "소비",
           "count": 1
         }
       ],
@@ -305,6 +317,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/business/12193908",
+          "title": "반도체만 보는 이들이 놓치는 것들…“AI 투자, 지도부터 그려라” [한눈에 보는 AI 투자지도]",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T20:47:07Z",
+          "publishedAt": "2026-11-02T20:47:07Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12193908",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://zdnet.co.kr/view/?no=20261102110337",
           "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과",
@@ -332,20 +358,6 @@
           "url": "https://www.etnews.com/20261102000034",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/business/12193563",
-          "title": "“전기 없인 AIDC 못 켠다” … AI 데이터센터 업계, 전담창구 설립 촉구",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T15:39:43Z",
-          "publishedAt": "2026-11-02T15:39:43Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12193563",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01203766645641456&mediaCodeNo=257",
@@ -437,18 +449,18 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 9
         },
         {
           "word": "데이터센터",
-          "count": 4
-        },
-        {
-          "word": "로봇",
-          "count": 1
+          "count": 3
         },
         {
           "word": "반도체",
+          "count": 2
+        },
+        {
+          "word": "로봇",
           "count": 1
         },
         {
@@ -477,16 +489,16 @@
     "humanities": {
       "items": [
         {
-          "id": "https://www.prokerala.com/news/articles/a1830880.html",
-          "title": "Assam seeks to reverse youth migration through investment, industrial growth: Himanta Sarma",
-          "source": "prokerala.com",
+          "id": "https://www.thehindu.com/incoming/many-uk-social-care-migrant-workers-to-get-pr-in-five-years-under-softer-immigration-overhaul/article71658231.ece",
+          "title": "Many U.K. social care migrant workers to get PR in five years under softer immigration overhaul",
+          "source": "thehindu.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T13:02:00Z",
-          "publishedAt": "2026-10-30T13:02:00Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
           "summary": "",
-          "url": "https://www.prokerala.com/news/articles/a1830880.html"
+          "url": "https://www.thehindu.com/incoming/many-uk-social-care-migrant-workers-to-get-pr-in-five-years-under-softer-immigration-overhaul/article71658231.ece"
         },
         {
           "id": "https://link.springer.com/referencework/10.1007/978-3-032-35709-0",
@@ -499,6 +511,18 @@
           "publishedAt": "2026-10-30T22:32:00Z",
           "summary": "",
           "url": "https://link.springer.com/referencework/10.1007/978-3-032-35709-0"
+        },
+        {
+          "id": "https://kbft.org/new-report-highlights-the-power-of-native-youth-leadership-in-philanthropy/",
+          "title": "New Report Highlights the Power of Native Youth Leadership in Philanthropy - KBFT",
+          "source": "kbft.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
+          "summary": "",
+          "url": "https://kbft.org/new-report-highlights-the-power-of-native-youth-leadership-in-philanthropy/"
         },
         {
           "id": "http://www.singaporestar.com/news/279407342/chandigarh-university-commemorates-father-of-fibre-optics-dr-narinder-singh-kapany-birth-centenary-with-india-first-research-chair-in-his-name",
@@ -561,50 +585,38 @@
           "url": "https://www.compositesworld.com:443/products/university-of-washington-researchers-build-free-interactive-app-for-composites-education"
         },
         {
-          "id": "https://local12.com/news/nation-world/newborn-dies-teen-gives-birth-chicago-elementary-school",
-          "title": "Newborn dies after 15-year-old reportedly gives birth at elementary school",
-          "source": "local12.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T18:31:00Z",
-          "publishedAt": "2026-10-30T18:31:00Z",
-          "summary": "",
-          "url": "https://local12.com/news/nation-world/newborn-dies-teen-gives-birth-chicago-elementary-school"
-        },
-        {
-          "id": "https://www.tell.ng/oborevwori-tasks-new-hos-on-fairness-accountability-workers-welfare-reaffirms-commitment-to-training-other-incentives-for-civil-servants/",
-          "title": "Oborevwori Tasks New HOS On Fairness, Accountability, Workers’ Welfare, Reaffirms Commitment To Training, Other Incentives For Civil Servants",
-          "source": "tell.ng",
+          "id": "https://www.dissexpress.co.uk/news/six-men-and-teenage-boy-found-in-lorry-as-driver-charged-wit-9489567/",
+          "title": "Six men and teenage boy found in lorry as driver charged with immigration offence",
+          "source": "dissexpress.co.uk",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-02",
-          "dateRaw": "2026-11-02T08:16:00Z",
-          "publishedAt": "2026-11-02T08:16:00Z",
+          "dateRaw": "2026-11-02T18:32:00Z",
+          "publishedAt": "2026-11-02T18:32:00Z",
           "summary": "",
-          "url": "https://www.tell.ng/oborevwori-tasks-new-hos-on-fairness-accountability-workers-welfare-reaffirms-commitment-to-training-other-incentives-for-civil-servants/"
+          "url": "https://www.dissexpress.co.uk/news/six-men-and-teenage-boy-found-in-lorry-as-driver-charged-wit-9489567/"
         },
         {
-          "id": "https://www.chardandilminsternews.co.uk/news/national/26688447.home-secretary-announce-immigration-rules-overhaul-monday/",
-          "title": "Home Secretary to announce immigration rules overhaul on Monday",
-          "source": "chardandilminsternews.co.uk",
+          "id": "https://armenianweekly.com/2026/11/02/in-armenia-migration-is-changing-the-language-of-daily-life/",
+          "title": "In Armenia, migration is changing the language of daily life",
+          "source": "armenianweekly.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-01",
-          "dateRaw": "2026-11-01T22:16:00Z",
-          "publishedAt": "2026-11-01T22:16:00Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:32:00Z",
+          "publishedAt": "2026-11-02T18:32:00Z",
           "summary": "",
-          "url": "https://www.chardandilminsternews.co.uk/news/national/26688447.home-secretary-announce-immigration-rules-overhaul-monday/"
+          "url": "https://armenianweekly.com/2026/11/02/in-armenia-migration-is-changing-the-language-of-daily-life/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 8
+          "count": 7
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
         },
         {
           "word": "청년",
@@ -642,30 +654,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01128326645641456&mediaCodeNo=257"
         },
         {
-          "id": "http://www.russiaherald.com/news/279404674/finance-minister-nirmala-sitharaman-meets-russian-ambassador-denis-alipov-discusses-india-russia-trade-and-economic-cooperation",
-          "title": "Finance Minister Nirmala Sitharaman meets Russian Ambassador Denis Alipov, discusses India-Russia trade and economic cooperation",
-          "source": "russiaherald.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T18:32:00Z",
-          "publishedAt": "2026-10-30T18:32:00Z",
-          "summary": "",
-          "url": "http://www.russiaherald.com/news/279404674/finance-minister-nirmala-sitharaman-meets-russian-ambassador-denis-alipov-discusses-india-russia-trade-and-economic-cooperation"
-        },
-        {
-          "id": "https://www.prokerala.com/news/articles/a1830880.html",
-          "title": "Assam seeks to reverse youth migration through investment, industrial growth: Himanta Sarma",
-          "source": "prokerala.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T13:02:00Z",
-          "publishedAt": "2026-10-30T13:02:00Z",
-          "summary": "",
-          "url": "https://www.prokerala.com/news/articles/a1830880.html"
-        },
-        {
           "id": "https://www.rttnews.com/story.aspx?Id=3707050",
           "title": "Dutch Retail Sales Growth Eases To 2.7%",
           "source": "rttnews.com",
@@ -690,62 +678,90 @@
           "url": "https://www.businesstimes.com.sg/international/japans-october-factory-growth-slows-costs-pick-pmi"
         },
         {
-          "id": "http://www.europesun.com/news/279404608/update-xi-meets-president-of-swiss-confederation-calling-for-more-certainty-for-china-europe-economic-trade-cooperation",
-          "title": "Update: Xi meets president of Swiss Confederation, calling for more certainty for China-Europe economic, trade cooperation",
-          "source": "europesun.com",
+          "id": "http://www.irishsun.com/news/279407862/update-chinese-central-bank-shifts-policy-rate-anchor-to-overnight",
+          "title": "Update: Chinese central bank shifts policy rate anchor to overnight",
+          "source": "irishsun.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T18:32:00Z",
-          "publishedAt": "2026-10-30T18:32:00Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
           "summary": "",
-          "url": "http://www.europesun.com/news/279404608/update-xi-meets-president-of-swiss-confederation-calling-for-more-certainty-for-china-europe-economic-trade-cooperation"
+          "url": "http://www.irishsun.com/news/279407862/update-chinese-central-bank-shifts-policy-rate-anchor-to-overnight"
         },
         {
-          "id": "https://timesofoman.com/article/178568-indias-services-exports-rise-72-to-393-billion-in-september-growth-slows-rbi",
-          "title": "India's services exports rise 7.2% to $39.3 billion in September, growth slows: RBI",
-          "source": "timesofoman.com",
+          "id": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html",
+          "title": "UBS says AI investment boom remains intact despite growing scrutiny of spending",
+          "source": "proactiveinvestors.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T18:32:00Z",
-          "publishedAt": "2026-10-30T18:32:00Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
           "summary": "",
-          "url": "https://timesofoman.com/article/178568-indias-services-exports-rise-72-to-393-billion-in-september-growth-slows-rbi"
+          "url": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html"
         },
         {
-          "id": "https://www.livemint.com/market/stock-market-news/amazon-intel-shares-crash-up-to-25-in-premarket-trade-as-ai-spending-concerns-trigger-tech-sell-off-whats-next-11793359621019.html",
-          "title": "Amazon, Intel shares crash up to 25% in premarket trade as AI spending concerns trigger tech sell-off - What's next? | Stock Market News",
-          "source": "livemint.com",
+          "id": "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.html",
+          "title": "Monetary policy in times of high public debt",
+          "source": "ecb.europa.eu",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T13:02:00Z",
-          "publishedAt": "2026-10-30T13:02:00Z",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T08:16:00Z",
+          "publishedAt": "2026-11-02T08:16:00Z",
           "summary": "",
-          "url": "https://www.livemint.com/market/stock-market-news/amazon-intel-shares-crash-up-to-25-in-premarket-trade-as-ai-spending-concerns-trigger-tech-sell-off-whats-next-11793359621019.html"
+          "url": "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.html"
         },
         {
-          "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
-          "title": "US Stock Market Live Updates: Nasdaq futures tumble 2.4% as Amazon, Intel deepen AI spending concerns - The Economic Times",
-          "source": "economictimes.indiatimes.com",
+          "id": "https://www.kurv.com/canadas-carney-reports-progress-in-trade-talks-with-us-trump-talks-up-concept-of-a-deal/",
+          "title": "Canada's Carney Reports Progress In Trade Talks With US. Trump Talks Up 'Concept' Of A Deal – 710am KURV",
+          "source": "kurv.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-10-30",
-          "dateRaw": "2026-10-30T13:02:00Z",
-          "publishedAt": "2026-10-30T13:02:00Z",
+          "date": "2026-11-01",
+          "dateRaw": "2026-11-01T22:16:00Z",
+          "publishedAt": "2026-11-01T22:16:00Z",
           "summary": "",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms"
+          "url": "https://www.kurv.com/canadas-carney-reports-progress-in-trade-talks-with-us-trump-talks-up-concept-of-a-deal/"
+        },
+        {
+          "id": "https://mymotherlode.com/news/national/11272491/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-us-midterms.html",
+          "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms - myMotherLode.com",
+          "source": "mymotherlode.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-01",
+          "dateRaw": "2026-11-01T22:16:00Z",
+          "publishedAt": "2026-11-01T22:16:00Z",
+          "summary": "",
+          "url": "https://mymotherlode.com/news/national/11272491/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-us-midterms.html"
+        },
+        {
+          "id": "https://www.bigblueview.com/new-york-giants-rumors/178234/jonathan-taylor-trade-rumors-deal-more-likely-than-not-ny-giants",
+          "title": "Jonathan Taylor trade rumors: Deal ‘more likely than not’, per report",
+          "source": "bigblueview.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-01",
+          "dateRaw": "2026-11-01T18:31:00Z",
+          "publishedAt": "2026-11-01T18:31:00Z",
+          "summary": "",
+          "url": "https://www.bigblueview.com/new-york-giants-rumors/178234/jonathan-taylor-trade-rumors-deal-more-likely-than-not-ny-giants"
         }
       ],
       "keywords": [
         {
-          "word": "성장",
-          "count": 5
-        },
-        {
           "word": "무역",
           "count": 3
+        },
+        {
+          "word": "성장",
+          "count": 3
+        },
+        {
+          "word": "금리",
+          "count": 1
         },
         {
           "word": "수출",
@@ -762,6 +778,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.renewableenergymagazine.com/ana-bera-1/why-arena-t-more-data-centers-running-20261102",
+          "title": "Why Aren?t More Data Centers Running on Renewable Energy?",
+          "source": "renewableenergymagazine.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
+          "summary": "",
+          "url": "https://www.renewableenergymagazine.com/ana-bera-1/why-arena-t-more-data-centers-running-20261102"
+        },
         {
           "id": "https://dailytarheel.com/489800/city-state/gov-stein-and-a-g-jackson-urge-data-centers-to-address-energy-costs-amid-skyrocketing-utility-rates-for-consumers/",
           "title": "Gov. Stein and A.G. Jackson urge data centers to address energy costs amid skyrocketing utility rates for consumers",
@@ -811,6 +839,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01134886645641456&mediaCodeNo=257"
         },
         {
+          "id": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html",
+          "title": "UBS says AI investment boom remains intact despite growing scrutiny of spending",
+          "source": "proactiveinvestors.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-02",
+          "dateRaw": "2026-11-02T18:31:00Z",
+          "publishedAt": "2026-11-02T18:31:00Z",
+          "summary": "",
+          "url": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html"
+        },
+        {
           "id": "https://www.prokerala.com/news/articles/a1831914.html",
           "title": "Nearly 7 in 10 Indian firms to boost AI investments despite data readiness gap",
           "source": "prokerala.com",
@@ -857,30 +897,6 @@
           "publishedAt": "2026-10-31T13:46:00Z",
           "summary": "",
           "url": "https://www.theglobeandmail.com/business/article-ottawa-cohere-rbc-ai-agents-cleveland-cliffs-stelco-october-31/"
-        },
-        {
-          "id": "https://www.cinaradio.com/2026/11/02/zuckerberg-wants-to-give-ai-a-body-meet-metas-new-humanoid-robot/",
-          "title": "Zuckerberg Wants To Give AI A Body. Meet Meta’s New Humanoid Robot",
-          "source": "cinaradio.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T08:17:00Z",
-          "publishedAt": "2026-11-02T08:17:00Z",
-          "summary": "",
-          "url": "https://www.cinaradio.com/2026/11/02/zuckerberg-wants-to-give-ai-a-body-meet-metas-new-humanoid-robot/"
-        },
-        {
-          "id": "https://www.rttnews.com/story.aspx?Id=3707022",
-          "title": "Dutch Manufacturing Activity Continues To Expand",
-          "source": "rttnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T08:16:00Z",
-          "publishedAt": "2026-11-02T08:16:00Z",
-          "summary": "",
-          "url": "https://www.rttnews.com/story.aspx?Id=3707022"
         }
       ],
       "keywords": [
@@ -890,11 +906,7 @@
         },
         {
           "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "로봇",
-          "count": 1
+          "count": 2
         },
         {
           "word": "바이오",
@@ -902,10 +914,6 @@
         },
         {
           "word": "반도체",
-          "count": 1
-        },
-        {
-          "word": "제조",
           "count": 1
         }
       ],
@@ -916,9 +924,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 959,
-    "fetchedItems": 5492,
-    "feedBytes": 1560458,
+    "poolSize": 867,
+    "fetchedItems": 5217,
+    "feedBytes": 1485602,
     "rollingWindowHours": 72
   }
 }

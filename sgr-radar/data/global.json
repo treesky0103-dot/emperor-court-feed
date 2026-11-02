@@ -2,21 +2,33 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 02. 오후 05:23:22",
+  "updatedAt": "2026. 11. 03. 오전 03:41:16",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 232,
-    "passed": 19,
-    "deduped": 19,
-    "eventDeduped": 19,
+    "raw": 237,
+    "passed": 20,
+    "deduped": 20,
+    "eventDeduped": 20,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/",
+      "title": "“제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라”",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:32:00Z",
+      "publishedAt": "2026-11-02T18:32:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/"
+    },
     {
       "id": "http://kr.xinhuanet.com/20261102/5df31365680041faa11e7fe9ebb7cf4a/c.html",
       "title": "(뉴스 번역) G20 외교장관회의, 지정학·경제 안보 문제 합의 도출 실패",
@@ -30,40 +42,52 @@
       "url": "http://kr.xinhuanet.com/20261102/5df31365680041faa11e7fe9ebb7cf4a/c.html"
     },
     {
-      "id": "https://peakoil.com/production/reliance-looks-to-latin-america-north-america-and-the-mediterranean-as-middle-east-oil-disruptions-put-supply-chains-under-pressure",
-      "title": "Reliance looks to Latin America, North America and the Mediterranean as Middle East oil disruptions put supply chains under pressure",
-      "source": "peakoil.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://peakoil.com/production/reliance-looks-to-latin-america-north-america-and-the-mediterranean-as-middle-east-oil-disruptions-put-supply-chains-under-pressure"
-    },
-    {
-      "id": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm",
-      "title": "Geopolitical tensions, crude oil prices, and Q2 earnings to dictate market trends",
-      "source": "rediff.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:47:00Z",
-      "publishedAt": "2026-11-01T13:47:00Z",
-      "summary": "",
-      "url": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm"
-    },
-    {
-      "id": "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.html",
-      "title": "Monetary policy in times of high public debt",
-      "source": "ecb.europa.eu",
+      "id": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008",
+      "title": "Too much spending or too little tax? Why interest rates are rising",
+      "source": "abc.net.au",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
       "summary": "",
-      "url": "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.html"
+      "url": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008"
+    },
+    {
+      "id": "https://www.romfordrecorder.co.uk/news/national/26692049.oil-prices-pull-back-sharply-signs-us-iran-diplomacy-end-war/",
+      "title": "Oil prices pull back sharply on signs of US-Iran diplomacy to end war",
+      "source": "romfordrecorder.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "https://www.romfordrecorder.co.uk/news/national/26692049.oil-prices-pull-back-sharply-signs-us-iran-diplomacy-end-war/"
+    },
+    {
+      "id": "http://www.asiabulletin.com/news/279408057/heavy-reliance-on-fossil-fuel-disrupts-global-economy-energy-security-future-lies-in-clean-energy-says-pm-modi",
+      "title": "Heavy reliance on fossil fuel disrupts global economy; energy security's future lies in clean energy, says PM Modi",
+      "source": "asiabulletin.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "http://www.asiabulletin.com/news/279408057/heavy-reliance-on-fossil-fuel-disrupts-global-economy-energy-security-future-lies-in-clean-energy-says-pm-modi"
+    },
+    {
+      "id": "https://www.riotimesonline.com/us-warns-libya-sanctions-obstruct-political-transition-2026/",
+      "title": "US Warns of Libya Sanctions as 13 Back UN",
+      "source": "riotimesonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T08:17:00Z",
+      "publishedAt": "2026-11-02T08:17:00Z",
+      "summary": "",
+      "url": "https://www.riotimesonline.com/us-warns-libya-sanctions-obstruct-political-transition-2026/"
     },
     {
       "id": "http://www.batonrougepost.com/news/279407312/india-eu-discuss-fta-implementation-customs-cooperation-and-market-access-in-brussels",
@@ -78,28 +102,16 @@
       "url": "http://www.batonrougepost.com/news/279407312/india-eu-discuss-fta-implementation-customs-cooperation-and-market-access-in-brussels"
     },
     {
-      "id": "https://www.afr.com/policy/economy/how-high-can-interest-rates-go-try-much-higher-than-4-85-per-cent-20261102-p61a9a",
-      "title": "How high can interest rates go? Try much higher than 4.85 per cent",
-      "source": "afr.com",
+      "id": "https://www.timeslive.co.za/news/2026-11-02-us-to-suspend-south-africa-from-duty-free-trade-access/",
+      "title": "US to suspend South Africa from duty-free trade access",
+      "source": "timeslive.co.za",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
       "summary": "",
-      "url": "https://www.afr.com/policy/economy/how-high-can-interest-rates-go-try-much-higher-than-4-85-per-cent-20261102-p61a9a"
-    },
-    {
-      "id": "https://georgiatoday.ge/those-who-use-more-will-pay-more-georgia-plans-consumption-based-gas-and-water-tariffs/",
-      "title": "Those who use more will pay more: Georgia plans consumption-based gas and water tariffs",
-      "source": "georgiatoday.ge",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://georgiatoday.ge/those-who-use-more-will-pay-more-georgia-plans-consumption-based-gas-and-water-tariffs/"
+      "url": "https://www.timeslive.co.za/news/2026-11-02-us-to-suspend-south-africa-from-duty-free-trade-access/"
     },
     {
       "id": "https://www.gtreview.com/news/on-the-move/citi-hires-from-hsbc-for-newly-created-global-trade-role/",
@@ -124,21 +136,33 @@
       "publishedAt": "2026-11-01T22:16:00Z",
       "summary": "",
       "url": "https://www.kurv.com/canadas-carney-reports-progress-in-trade-talks-with-us-trump-talks-up-concept-of-a-deal/"
-    },
-    {
-      "id": "https://mymotherlode.com/news/national/11272491/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-us-midterms.html",
-      "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms - myMotherLode.com",
-      "source": "mymotherlode.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T22:16:00Z",
-      "publishedAt": "2026-11-01T22:16:00Z",
-      "summary": "",
-      "url": "https://mymotherlode.com/news/national/11272491/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-us-midterms.html"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/",
+      "title": "“제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라”",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:32:00Z",
+      "publishedAt": "2026-11-02T18:32:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/"
+    },
+    {
+      "id": "https://biz.chosun.com/stock/stock_general/2026/11/03/MVTDENDBGMYWIYRYGU3DCM3FMQ/",
+      "title": "인터넷은행 ‘마통’ 금리 두달 연속 7%대… 5대 은행보다 높아",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:32:00Z",
+      "publishedAt": "2026-11-02T18:32:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/03/MVTDENDBGMYWIYRYGU3DCM3FMQ/"
+    },
     {
       "id": "http://kr.xinhuanet.com/20261102/5df31365680041faa11e7fe9ebb7cf4a/c.html",
       "title": "(뉴스 번역) G20 외교장관회의, 지정학·경제 안보 문제 합의 도출 실패",
@@ -152,30 +176,6 @@
       "url": "http://kr.xinhuanet.com/20261102/5df31365680041faa11e7fe9ebb7cf4a/c.html"
     },
     {
-      "id": "https://peakoil.com/production/reliance-looks-to-latin-america-north-america-and-the-mediterranean-as-middle-east-oil-disruptions-put-supply-chains-under-pressure",
-      "title": "Reliance looks to Latin America, North America and the Mediterranean as Middle East oil disruptions put supply chains under pressure",
-      "source": "peakoil.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://peakoil.com/production/reliance-looks-to-latin-america-north-america-and-the-mediterranean-as-middle-east-oil-disruptions-put-supply-chains-under-pressure"
-    },
-    {
-      "id": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm",
-      "title": "Geopolitical tensions, crude oil prices, and Q2 earnings to dictate market trends",
-      "source": "rediff.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:47:00Z",
-      "publishedAt": "2026-11-01T13:47:00Z",
-      "summary": "",
-      "url": "https://www.rediff.com/business/report/stock-market-forecast-geopolitics-oil-prices-q2-earnings-us-midterms/20261101.htm"
-    },
-    {
       "id": "http://kr.xinhuanet.com/20261102/22597a9131c54180ba5ee93139d8daad/c.html",
       "title": "중국-아세안 식량·농업 협력, '디지털·지능화' 및 '전 과정 공생'으로 고도화",
       "source": "kr.xinhuanet.com",
@@ -186,6 +186,54 @@
       "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
       "url": "http://kr.xinhuanet.com/20261102/22597a9131c54180ba5ee93139d8daad/c.html"
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008",
+      "title": "Too much spending or too little tax? Why interest rates are rising",
+      "source": "abc.net.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008"
+    },
+    {
+      "id": "https://www.romfordrecorder.co.uk/news/national/26692049.oil-prices-pull-back-sharply-signs-us-iran-diplomacy-end-war/",
+      "title": "Oil prices pull back sharply on signs of US-Iran diplomacy to end war",
+      "source": "romfordrecorder.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "https://www.romfordrecorder.co.uk/news/national/26692049.oil-prices-pull-back-sharply-signs-us-iran-diplomacy-end-war/"
+    },
+    {
+      "id": "http://www.irishsun.com/news/279407862/update-chinese-central-bank-shifts-policy-rate-anchor-to-overnight",
+      "title": "Update: Chinese central bank shifts policy rate anchor to overnight",
+      "source": "irishsun.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "http://www.irishsun.com/news/279407862/update-chinese-central-bank-shifts-policy-rate-anchor-to-overnight"
+    },
+    {
+      "id": "http://www.asiabulletin.com/news/279408057/heavy-reliance-on-fossil-fuel-disrupts-global-economy-energy-security-future-lies-in-clean-energy-says-pm-modi",
+      "title": "Heavy reliance on fossil fuel disrupts global economy; energy security's future lies in clean energy, says PM Modi",
+      "source": "asiabulletin.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "http://www.asiabulletin.com/news/279408057/heavy-reliance-on-fossil-fuel-disrupts-global-economy-energy-security-future-lies-in-clean-energy-says-pm-modi"
     },
     {
       "id": "https://www.riotimesonline.com/us-warns-libya-sanctions-obstruct-political-transition-2026/",
@@ -224,52 +272,16 @@
       "url": "http://www.batonrougepost.com/news/279407312/india-eu-discuss-fta-implementation-customs-cooperation-and-market-access-in-brussels"
     },
     {
-      "id": "https://www.afr.com/policy/economy/how-high-can-interest-rates-go-try-much-higher-than-4-85-per-cent-20261102-p61a9a",
-      "title": "How high can interest rates go? Try much higher than 4.85 per cent",
-      "source": "afr.com",
+      "id": "https://www.timeslive.co.za/news/2026-11-02-us-to-suspend-south-africa-from-duty-free-trade-access/",
+      "title": "US to suspend South Africa from duty-free trade access",
+      "source": "timeslive.co.za",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
       "summary": "",
-      "url": "https://www.afr.com/policy/economy/how-high-can-interest-rates-go-try-much-higher-than-4-85-per-cent-20261102-p61a9a"
-    },
-    {
-      "id": "https://georgiatoday.ge/those-who-use-more-will-pay-more-georgia-plans-consumption-based-gas-and-water-tariffs/",
-      "title": "Those who use more will pay more: Georgia plans consumption-based gas and water tariffs",
-      "source": "georgiatoday.ge",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://georgiatoday.ge/those-who-use-more-will-pay-more-georgia-plans-consumption-based-gas-and-water-tariffs/"
-    },
-    {
-      "id": "https://donegalnews.com/rising-interest-rates-put-annuities-back-on-the-retirement-table/",
-      "title": "Rising interest rates put Annuities back on the retirement table - Donegal News",
-      "source": "donegalnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://donegalnews.com/rising-interest-rates-put-annuities-back-on-the-retirement-table/"
-    },
-    {
-      "id": "https://www.afr.com/policy/economy/home-borrowers-face-6000-hit-from-interest-rates-as-house-prices-tank-20261102-p61abq",
-      "title": "Home borrowers face $6000 hit from interest rates as house prices tank",
-      "source": "afr.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:32:00Z",
-      "publishedAt": "2026-11-01T18:32:00Z",
-      "summary": "",
-      "url": "https://www.afr.com/policy/economy/home-borrowers-face-6000-hit-from-interest-rates-as-house-prices-tank-20261102-p61abq"
+      "url": "https://www.timeslive.co.za/news/2026-11-02-us-to-suspend-south-africa-from-duty-free-trade-access/"
     },
     {
       "id": "https://www.gtreview.com/news/on-the-move/citi-hires-from-hsbc-for-newly-created-global-trade-role/",
@@ -306,51 +318,15 @@
       "publishedAt": "2026-11-01T22:16:00Z",
       "summary": "",
       "url": "https://mymotherlode.com/news/national/11272491/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-us-midterms.html"
-    },
-    {
-      "id": "https://www.bigblueview.com/new-york-giants-rumors/178234/jonathan-taylor-trade-rumors-deal-more-likely-than-not-ny-giants",
-      "title": "Jonathan Taylor trade rumors: Deal ‘more likely than not’, per report",
-      "source": "bigblueview.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T18:31:00Z",
-      "publishedAt": "2026-11-01T18:31:00Z",
-      "summary": "",
-      "url": "https://www.bigblueview.com/new-york-giants-rumors/178234/jonathan-taylor-trade-rumors-deal-more-likely-than-not-ny-giants"
-    },
-    {
-      "id": "http://www.parisguardian.com/news/279403460/lagarde-resigns-as-ecb-president-more-than-eight-months-early",
-      "title": "Lagarde resigns as ECB president more than eight months early",
-      "source": "parisguardian.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:46:00Z",
-      "publishedAt": "2026-11-01T13:46:00Z",
-      "summary": "",
-      "url": "http://www.parisguardian.com/news/279403460/lagarde-resigns-as-ecb-president-more-than-eight-months-early"
-    },
-    {
-      "id": "https://www.chinatechnews.com/2026/11/01/131673-the-us-china-trade-war-seems-to-have-subsided-but-the-sense-of-calm-is-misleading",
-      "title": "The US-China trade war seems to have subsided - but the sense of calm is misleading - ChinaTechNews.com",
-      "source": "chinatechnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-01",
-      "dateRaw": "2026-11-01T13:46:00Z",
-      "publishedAt": "2026-11-01T13:46:00Z",
-      "summary": "",
-      "url": "https://www.chinatechnews.com/2026/11/01/131673-the-us-china-trade-war-seems-to-have-subsided-but-the-sense-of-calm-is-misleading"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 232,
-    "fetchedItems": 5492,
-    "relevantItems": 84,
-    "feedBytes": 1560458,
+    "poolSize": 237,
+    "fetchedItems": 5217,
+    "relevantItems": 103,
+    "feedBytes": 1485602,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
