@@ -1,6 +1,580 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-11-03",
   "days": [
+    {
+      "date": "2026-11-03",
+      "planDay": "2026-11-03",
+      "planSetId": "zps-20261103-394ac081",
+      "generatedAt": "2026-11-03T00:02:28.328Z",
+      "publishedAt": "2026-11-03T00:02:36.220Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 법률가이드 · IT인프라 · 마케팅전략을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "openai/gpt-oss-120b",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-03T00:02:27.746Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-02T23:04:53.363Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang"
+        ],
+        "bestsellerUpdatedAt": "2026-11-02T23:25:05.053Z",
+        "bestsellerDataDate": "2026-11-02",
+        "stale": true,
+        "checkedAt": "2026-11-03T00:02:28.328Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "법률가이드",
+          "field": "법률가이드",
+          "title": "베트남 진출 기업을 위한 법률 체크리스트 만들기",
+          "concept": "현지 변호사와 협업해 실무 계약서 샘플과 단계별 체크리스트를 제공, 바로 적용 가능한 로드맵을 제시한다.",
+          "why": "N13 뉴스가 강조한 바와 같이 베트남 진출 기업은 현지 규제 이해 부족으로 사업 실패 위험이 크다.",
+          "competition": "기존 해외 진출 서적은 일반 절차만 다루고 현지 맞춤형 법률 정보가 거의 제공되지 않는다.",
+          "reader": "베트남 시장에 진출하려는 중소기업 대표",
+          "readerNeed": "현지 법규 파악과 계약서 작성 시 복잡한 절차와 시간 부족 문제를 해결하고 싶다.",
+          "marketGap": "베트남 현지 규제와 실무 서류 작성 방법을 구체적으로 다룬 자료가 거의 없어 독자는 여전히 혼란한다.",
+          "differentiation": "현지 변호사와 만든 실제 계약서 샘플, 체크리스트, 템플릿을 제공해 즉시 활용 가능한 실전 도구를 제공한다.",
+          "diff": "현지 변호사와 만든 실제 계약서 샘플, 체크리스트, 템플릿을 제공해 즉시 활용 가능한 실전 도구를 제공한다.",
+          "toc": [
+            "베트남 시장 개요와 기회 분석",
+            "현지 법률 체계와 주요 규제 이해",
+            "허가 절차와 필수 서류 작성 방법",
+            "실전 계약서 샘플과 템플릿 제공",
+            "체크리스트 활용 가이드와 업데이트 방법"
+          ],
+          "searchQueries": [
+            "베트남 진출 법률",
+            "해외 사업 체크리스트"
+          ],
+          "bookworthiness": {
+            "durability": "베트남 현지 규제는 6개월 이상 지속적으로 변동 가능성이 있어 지속적인 참고가 필요하다.",
+            "repeatNeed": "다양한 사업 분야에서 반복적으로 법률 검토가 필요해 수요가 꾸준히 발생한다.",
+            "expansionPotential": "추가 200쪽에 동남아 다른 국가별 법률 가이드와 사례를 포함해 확장 가능하다.",
+            "productDependency": "보통"
+          },
+          "authors": [
+            {
+              "name": "스타트업법률지원단",
+              "career": "《스타트업 법률가이드 3.0》 저자 · (주)박영사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《스타트업 법률가이드 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/132950982",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김형규",
+              "career": "《성폭력 범죄 법률가이드》 저자 · 박영사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《성폭력 범죄 법률가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/103737438",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김현준 등저",
+              "career": "《스타트업 CEO가 반드시 알아야 할 세금 노무 법률가이드》 저자 · 삼일인포마인",
+              "why": "YES24에서 이 기획과 인접한 주제의 《스타트업 CEO가 반드시 알아야 할 세금 노무 법률가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/89958917",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "스타트업법률지원단",
+          "bestAuthor": "스타트업법률지원단",
+          "authorBrief": "",
+          "headlineCopy": "베트남 진출, 법률 한 장으로 문제 해결",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“현지 법규 파악과 계약서 작성 시 겪는 복잡한 절차와 시간 부족”이라는 상황을 첫 문장에 제시한다.",
+            "trust": "현지 변호사와 협업한 실제 계약서 샘플과 체크리스트를 통해 신뢰성을 확보한다.",
+            "conversion": "무료 정보 나열이 아니라 실전 계약서 샘플과 체크리스트를 즉시 제공한다는 점을 강조한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "N13 뉴스는 베트남 진출 기업이 법률 방패 한 권이면 문제를 해결한다는 점을 강조한다.",
+              "objection": "“이 정도는 인터넷 검색만으로도 알 수 있지 않나?”",
+              "solution": "목차와 상세 페이지에서 현지 변호사 인터뷰와 실무 사례를 구체적으로 제시한다."
+            },
+            "positioning": "베트남 진출 기업이 실무 위험을 최소화하고 빠르게 실행할 수 있도록 돕는 필수 가이드다."
+          },
+          "devilsEditor": {
+            "failureReason": "현지 규제 변동을 실시간으로 반영하지 못할 위험이 있다.",
+            "fix": "정기 업데이트 구독 서비스와 온라인 법률 포털 연동으로 최신 정보를 제공한다."
+          },
+          "scores": {
+            "market": 89,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "현지 법령 변동 시 최신 정보 유지가 어려울 수 있다.",
+          "riskResponse": "정기 업데이트 구독 서비스와 온라인 포털 연동을 제공한다.",
+          "judgment": "베트남 시장 진출을 고민하는 기업이 실무 위험을 최소화하고 빠르게 실행할 수 있어 출판 가치가 높다.",
+          "evidence": [
+            {
+              "text": "스타트업 법률가이드 3.0 — 스타트업법률지원단 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/132950982"
+            },
+            {
+              "text": "베트남 진출한 K-기업의 든든한 법률 방패…'이 책' 한 권이면 끝! - 대한민국 정책브리핑",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEdVeGZSR0VnVzdmcEVJM1NxVFNSMHVHbk96OG9rUWZDbWM1MUZqWURVWUY3NEpYdllNQm9STFhpRVVIMjFadDY3VzJyYkltR181Mk84MERiVHJfelZhRjBXc1lFd3RuOFo3OVRBd1pRdXpZY2xMOVBrc1hRbXlaOUJUVVdhbXc?oc=5"
+            },
+            {
+              "text": "엔터테인먼트 AI 법률가이드 — 법무법인(유한)신원 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/192089861"
+            },
+            {
+              "text": "성폭력 범죄 법률가이드 — 김형규 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/103737438"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "스타트업 법률가이드 3.0",
+              "author": "스타트업법률지원단 저",
+              "publisher": "(주)박영사",
+              "publicationDate": "20240901",
+              "url": "https://www.yes24.com/product/goods/132950982",
+              "matchedQuery": "법률가이드",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "엔터테인먼트 AI 법률가이드",
+              "author": "법무법인(유한)신원 저",
+              "publisher": "좋은피알",
+              "publicationDate": "20260615",
+              "url": "https://www.yes24.com/product/goods/192089861",
+              "matchedQuery": "법률가이드",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "성폭력 범죄 법률가이드",
+              "author": "김형규 저",
+              "publisher": "박영사",
+              "publicationDate": "20210910",
+              "url": "https://www.yes24.com/product/goods/103737438",
+              "matchedQuery": "법률가이드",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-03T00:02:10.518Z",
+            "queries": [
+              "베트남 진출 법률",
+              "해외 사업 체크리스트"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "IT인프라",
+          "field": "IT인프라",
+          "title": "AI 데이터센터 구축 속도전 전략 매뉴얼",
+          "concept": "표준 모듈 설계와 공장 사전 제작, 현장 조립 프로세스를 단계별로 제시하고 비용·시간 절감 시뮬레이션 도구를 제공한다.",
+          "why": "N14 뉴스가 강조한 바와 같이 데이터센터 현장 지연이 큰 문제이며, 모듈화가 속도전 해결책이다.",
+          "competition": "기존 서적은 전통적인 현장 설계 중심으로 빠른 구축 방법을 다루지 않는다.",
+          "reader": "대기업 IT 인프라 담당자 및 데이터센터 프로젝트 매니저",
+          "readerNeed": "AI 데이터센터를 빠르게 구축해야 하는데 표준·모듈화 설계와 현장 조립 과정에서 일정 지연과 비용 초과 위험을 최소화하고 싶다.",
+          "marketGap": "AI 데이터센터 특화 모듈 설계와 현장 조립 노하우가 부족해 실질적인 가이드를 찾지 못한다.",
+          "differentiation": "공장 제작 모듈 도면, 현장 조립 체크리스트, 비용·시간 절감 시뮬레이션 툴을 제공해 즉시 적용 가능한 실전 도구를 제공한다.",
+          "diff": "공장 제작 모듈 도면, 현장 조립 체크리스트, 비용·시간 절감 시뮬레이션 툴을 제공해 즉시 적용 가능한 실전 도구를 제공한다.",
+          "toc": [
+            "속도전 데이터센터 개념과 필요성",
+            "표준 모듈 설계 원칙과 적용 방법",
+            "공장 사전 제작 프로세스와 관리",
+            "현장 조립 단계와 체크포인트",
+            "비용·시간 절감 시뮬레이션 사용법"
+          ],
+          "searchQueries": [
+            "AI 데이터센터 구축",
+            "데이터센터 모듈화"
+          ],
+          "bookworthiness": {
+            "durability": "AI 데이터센터 구축 일정 압박은 6개월 이상 지속돼 장기적인 참고 자료가 필요하다.",
+            "repeatNeed": "다수 프로젝트에서 반복적으로 모듈 설계와 조립 가이드가 요구돼 지속적인 수요가 있다.",
+            "expansionPotential": "추가 200쪽에 클라우드 인프라와 에너지 효율 설계 챕터를 포함해 확장 가능하다.",
+            "productDependency": "보통"
+          },
+          "authors": [
+            {
+              "name": "김주회",
+              "career": "《AI시대에 난생처음 들어보는 데이터센터 이야기》 저자 · 북플레이트",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI시대에 난생처음 들어보는 데이터센터 이야기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/188266803",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이기수",
+              "career": "《AI 데이터센터, 국가 경쟁력의 심장》 저자 · 아키비스트웍스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 데이터센터, 국가 경쟁력의 심장》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/199614917",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "서승종",
+              "career": "《AI 데이터센터, 국가 경쟁력의 심장》 저자 · 아키비스트웍스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 데이터센터, 국가 경쟁력의 심장》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/199614917",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김주회",
+          "bestAuthor": "김주회",
+          "authorBrief": "",
+          "headlineCopy": "AI 데이터센터, 속도전으로 완성",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“신규 AI 데이터센터를 빠르게 구축해야 하는데 표준·모듈화 설계와 현장 조립 과정에서 일정 지연과 비용 초과 위험이 있다”는 상황을 제시한다.",
+            "trust": "공장 제작 모듈 도면과 현장 체크리스트를 통해 실무 신뢰성을 확보한다.",
+            "conversion": "무료 정보 나열이 아니라 실제 모듈 도면과 시뮬레이션 툴을 즉시 제공한다는 점을 강조한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "N14 뉴스는 표준·모듈화가 데이터센터 구축 속도전이라는 점을 강조한다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세 페이지에서 공장 제작 모듈 설계와 현장 조립 체크리스트를 구체적으로 제시한다."
+            },
+            "positioning": "AI 인프라 수요 급증에 따라 빠른 구축이 필수이며, 현장 담당자에게 실전 매뉴얼은 큰 가치를 제공한다."
+          },
+          "devilsEditor": {
+            "failureReason": "표준 모듈 적용 범위가 제한적일 위험이 있다.",
+            "fix": "다양한 규모와 요구에 맞는 모듈 라인업을 추가해 적용 범위를 확대한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "표준 모듈 적용 시 현장 맞춤형 요구와 충돌할 가능성이 있다.",
+          "riskResponse": "모듈 커스터마이징 옵션과 현장 피드백 루프를 구축한다.",
+          "judgment": "AI 인프라 수요 급증에 따라 빠른 구축이 필수이며, 실전 매뉴얼은 현장 담당자에게 큰 가치를 제공한다.",
+          "evidence": [
+            {
+              "text": "AI 데이터센터 구축 운영 매뉴얼 — 최상규 저(AI활용)",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/194522556"
+            },
+            {
+              "text": "AI 데이터센터 건설도 '속도전'건설연, 표준·모듈화로 공장서 만들고 현장서 조립 - 헬로디디",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01RlZ2dVc1TG5yWTR4TTM2a2hKOU1sYlRLbzFhZUc2dUhyVXphMUpZVTBxYWhmV0dBZkY2VGxLUnNGY1ZfRGxEa0gwdXMtT0hBampMRVhFekVFX2dKM2RJMUxydVRfRm9HRVE?oc=5"
+            },
+            {
+              "text": "AI시대 산업별 데이터센터 인프라 구축과 사이버침해 보안기술 분석 — R&D정보센터 편저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/152079522"
+            },
+            {
+              "text": "AI시대에 난생처음 들어보는 데이터센터 이야기 — 김주회 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/188266803"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 1,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "AI 데이터센터 구축 운영 매뉴얼",
+              "author": "최상규 저(AI활용)",
+              "publisher": "BOOKK(부크크)",
+              "publicationDate": "20260716",
+              "url": "https://www.yes24.com/product/goods/194522556",
+              "matchedQuery": "AI 데이터센터 구축",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI시대 산업별 데이터센터 인프라 구축과 사이버침해 보안기술 분석",
+              "author": "R&D정보센터 편저",
+              "publisher": "지식산업정보원",
+              "publicationDate": "20250704",
+              "url": "https://www.yes24.com/product/goods/152079522",
+              "matchedQuery": "AI 데이터센터 구축",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI시대에 난생처음 들어보는 데이터센터 이야기",
+              "author": "김주회 저",
+              "publisher": "북플레이트",
+              "publicationDate": "20260430",
+              "url": "https://www.yes24.com/product/goods/188266803",
+              "matchedQuery": "AI 데이터센터 구축",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-03T00:02:15.789Z",
+            "queries": [
+              "AI 데이터센터 구축",
+              "데이터센터 모듈화"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "마케팅전략",
+          "field": "마케팅전략",
+          "title": "크리에이터 마케팅으로 K뷰티 글로벌 진출 가속화법",
+          "concept": "현지 인기 크리에이터 선정 기준, 협업 프로세스, AI 기반 콘텐츠 제작 가이드와 ROI 측정 프레임워크를 제공해 단계별 실행 로드맵을 제시한다.",
+          "why": "N15 뉴스가 강조한 바와 같이 크리에이터 마케팅이 AI로 진입 장벽을 낮추고 K뷰티 글로벌 확산을 이끌고 있다.",
+          "competition": "기존 마케팅 서적은 전통 광고와 SNS 전략만 다루고 크리에이터와 AI 결합 실무가 부족하다.",
+          "reader": "K뷰티 브랜드 마케터 및 해외 진출 담당자",
+          "readerNeed": "글로벌 시장에서 현지 크리에이터와 협업하려 하지만 문화 차이와 효과 측정 방법을 몰라 실행에 어려움을 겪는다.",
+          "marketGap": "AI 기반 크리에이터 협업과 현지 문화 맞춤형 콘텐츠 제작 방법이 구체적으로 제시되지 않아 마케터가 시행착오를 겪는다.",
+          "differentiation": "AI 도구 활용 예시, 현지 크리에이터 데이터베이스, ROI 측정 템플릿을 제공해 바로 실행 가능한 실전 도구를 제공한다.",
+          "diff": "AI 도구 활용 예시, 현지 크리에이터 데이터베이스, ROI 측정 템플릿을 제공해 바로 실행 가능한 실전 도구를 제공한다.",
+          "toc": [
+            "K뷰티 글로벌 트렌드와 시장 분석",
+            "크리에이터 마케팅 기본 원리와 전략",
+            "AI 기반 콘텐츠 제작 도구 활용법",
+            "현지 문화 맞춤형 협업 프로세스",
+            "ROI 측정과 성과 관리 방법"
+          ],
+          "searchQueries": [
+            "K뷰티 크리에이터 마케팅",
+            "글로벌 뷰티 AI"
+          ],
+          "bookworthiness": {
+            "durability": "글로벌 뷰티 트렌드와 AI 활용은 6개월 이상 지속적인 변화를 겪어 장기 참고가 필요하다.",
+            "repeatNeed": "다양한 캠페인마다 반복적인 전략 수립이 필요해 지속적인 수요가 있다.",
+            "expansionPotential": "추가 200쪽에 아시아·유럽·미국 시장별 사례와 상세 실행 플랜을 포함해 확장 가능하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "정진수",
+              "career": "《SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다》 저자 · 천그루숲+비즈니스맵",
+              "why": "YES24에서 이 기획과 인접한 주제의 《SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/66999871",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "허팝",
+              "career": "《허팝만 따라 해봐! 유튜브 정석》 저자 · 한빛미디어",
+              "why": "YES24에서 이 기획과 인접한 주제의 《허팝만 따라 해봐! 유튜브 정석》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/91453517",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "안정기",
+              "career": "《허팝만 따라 해봐! 유튜브 정석》 저자 · 한빛미디어",
+              "why": "YES24에서 이 기획과 인접한 주제의 《허팝만 따라 해봐! 유튜브 정석》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/91453517",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "정진수",
+          "bestAuthor": "정진수",
+          "authorBrief": "",
+          "headlineCopy": "K뷰티, 크리에이터와 AI로 세계 정복",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 판단하고 싶다",
+              "바로 적용할 기준이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "“글로벌 시장에서 크리에이터와 협업하려 하지만 현지 문화 차이와 효과 측정 방법을 몰라 실행에 어려움이 있다”는 상황을 제시한다.",
+            "trust": "AI 도구 활용 예시와 현지 크리에이터 데이터베이스를 통해 신뢰성을 확보한다.",
+            "conversion": "무료 정보 나열이 아니라 AI 도구와 ROI 템플릿을 즉시 제공한다는 점을 강조한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "N15 뉴스는 크리에이터 마케팅이 AI로 진입 장벽을 낮추며 K뷰티 확산을 이끈다고 강조한다.",
+              "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
+              "solution": "목차와 상세 페이지에서 현지 크리에이터 선정 기준과 AI 협업 프로세스를 구체적으로 제시한다."
+            },
+            "positioning": "글로벌 K뷰티 성장에 필수적인 최신 마케팅 전략으로, 실무 적용 가능성이 높아 출판 가치가 크다."
+          },
+          "devilsEditor": {
+            "failureReason": "AI 도구 적용 난이도가 과다해 독자가 활용하기 어려울 수 있다.",
+            "fix": "초보자용 단계별 튜토리얼과 영상 가이드를 추가한다."
+          },
+          "scores": {
+            "market": 89,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "현지 크리에이터와 계약·저작권 분쟁 위험이 존재한다.",
+          "riskResponse": "표준 계약서와 저작권 관리 체크리스트를 제공한다.",
+          "judgment": "글로벌 K뷰티 성장에 필수적인 최신 마케팅 전략으로, 실무 적용 가능성이 높아 출판 가치가 크다.",
+          "evidence": [
+            {
+              "text": "SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다 — 정진수 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/66999871"
+            },
+            {
+              "text": "K뷰티 글로벌 확산 이끈 크리에이터 마케팅…AI로 진입 장벽 낮춘다 - 어패럴뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jd045NTF3aDJNN0lOaWJub1VBdnM4ak1nNTVNM25hcXRsV0JWYVNVVGs3dDV0TVV4VHJBMndmTEZudWI0aGRLMk9CMnliNDN5M1ZxVXRkRzdBXzBUczRIVW5XeWdDMDBmY3BDY0pwcWxFMkhYM1Fz?oc=5"
+            },
+            {
+              "text": "허팝만 따라 해봐! 유튜브 정석 — 허팝,안정기 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/91453517"
+            },
+            {
+              "text": "크리에이터 커머스 — 서여주 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/195485719"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다",
+              "author": "정진수 저",
+              "publisher": "천그루숲+비즈니스맵",
+              "publicationDate": "20181130",
+              "url": "https://www.yes24.com/product/goods/66999871",
+              "matchedQuery": "K뷰티 크리에이터 마케팅",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "허팝만 따라 해봐! 유튜브 정석",
+              "author": "허팝,안정기 공저",
+              "publisher": "한빛미디어",
+              "publicationDate": "20200810",
+              "url": "https://www.yes24.com/product/goods/91453517",
+              "matchedQuery": "K뷰티 크리에이터 마케팅",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "크리에이터 커머스",
+              "author": "서여주 저",
+              "publisher": "주식회사 백산출판사",
+              "publicationDate": "20260910",
+              "url": "https://www.yes24.com/product/goods/195485719",
+              "matchedQuery": "K뷰티 크리에이터 마케팅",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-03T00:02:19.243Z",
+            "queries": [
+              "K뷰티 크리에이터 마케팅",
+              "글로벌 뷰티 AI"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "planDay": "2026-10-25",
@@ -26838,26 +27412,9 @@
           "type": "문학·여행"
         }
       ]
-    },
-    {
-      "date": "2026-09-18",
-      "plans": [
-        {
-          "title": "집을 사기 전에 숫자부터 봅니다",
-          "type": "경제·재테크"
-        },
-        {
-          "title": "AI를 쓰는 아이, 생각하는 아이",
-          "type": "자녀교육·AI"
-        },
-        {
-          "title": "부모님 병원에 같이 가기 시작했다",
-          "type": "건강·가족"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261025-04142705",
+  "activePlanSetId": "zps-20261103-394ac081",
   "discardedDays": [
     {
       "date": "2026-09-29",
