@@ -2,15 +2,15 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 03. 오전 03:41:16",
+  "updatedAt": "2026. 11. 03. 오전 10:19:16",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 237,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
+    "raw": 298,
+    "passed": 11,
+    "deduped": 11,
+    "eventDeduped": 11,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -78,6 +78,18 @@
       "url": "https://news.mtn.co.kr/article/2026110215430560532"
     },
     {
+      "id": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809",
+      "title": "What should I review before signing a layoff separation agreement?",
+      "source": "lawguru.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T01:16:00Z",
+      "publishedAt": "2026-11-03T01:16:00Z",
+      "summary": "",
+      "url": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809"
+    },
+    {
       "id": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/",
       "title": "Alaska Airlines To Lay Off 200 Non-Union Employees | Newstalk 1400, 104.5, and 105.9 WJMX",
       "source": "newstalk1400online.iheart.com",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-11-02T08:16:00Z",
       "summary": "",
       "url": "https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up"
-    },
-    {
-      "id": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html",
-      "title": "UBS says AI investment boom remains intact despite growing scrutiny of spending",
-      "source": "proactiveinvestors.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T18:31:00Z",
-      "publishedAt": "2026-11-02T18:31:00Z",
-      "summary": "",
-      "url": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html"
     }
   ],
   "trendItems": [
@@ -248,6 +248,18 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html"
     },
     {
+      "id": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809",
+      "title": "What should I review before signing a layoff separation agreement?",
+      "source": "lawguru.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T01:16:00Z",
+      "publishedAt": "2026-11-03T01:16:00Z",
+      "summary": "",
+      "url": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809"
+    },
+    {
       "id": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/",
       "title": "Alaska Airlines To Lay Off 200 Non-Union Employees | Newstalk 1400, 104.5, and 105.9 WJMX",
       "source": "newstalk1400online.iheart.com",
@@ -263,10 +275,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 237,
-    "fetchedItems": 5217,
-    "relevantItems": 103,
-    "feedBytes": 1485602,
+    "poolSize": 298,
+    "fetchedItems": 3491,
+    "relevantItems": 130,
+    "feedBytes": 920878,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
