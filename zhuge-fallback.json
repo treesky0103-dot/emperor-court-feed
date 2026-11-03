@@ -3,7 +3,7 @@
   "planDay": "2026-11-03",
   "planSetId": "zps-20261103-394ac081",
   "generatedAt": "2026-11-03T00:02:28.328Z",
-  "publishedAt": "2026-11-03T00:10:07.861Z",
+  "publishedAt": "2026-11-03T00:18:03.411Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -18,10 +18,11 @@
     "model": "openai/gpt-oss-120b",
     "hqReady": true,
     "contentRevision": "zcr-ad4f141c",
-    "hqVerifiedBy": "v2.15.99",
+    "hqVerifiedBy": "openai/gpt-oss-120b",
     "sealedAt": "2026-11-03T00:05:09.912Z",
     "build": "v2.15.119",
-    "hqVerificationError": ""
+    "hqVerificationError": "",
+    "hqUpgradedAt": "2026-11-03T00:16:32.149Z"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
@@ -227,7 +228,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-03T00:18:02.219Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "베트남 진출 기업을 위한 법률 체크리스트 만들기",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "베트남 진출, 법률 한 장으로 문제 해결",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "008",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "계약서 작성 시 복잡한 절차와 시간 부족 문제를 해결하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "단계별 체크리스트를 제공, 바로 적용 가능한 로드맵을 제시한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "029",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "베트남 진출 기업은 현지 규제 이해 부족으로 사업 실패 위험이 크다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "체크리스트, 템플릿을 제공해 즉시 활용 가능한 실전 도구를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "040",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "현지 규제 변동을 실시간으로 반영하지 못할 위험이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "050",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-ad4f141c"
+      }
     },
     {
       "type": "IT인프라",
@@ -406,7 +512,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-03T00:18:02.219Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "AI 데이터센터 구축 속도전 전략 매뉴얼",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "AI 데이터센터, 속도전으로 완성",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "005",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "현장 조립 과정에서 일정 지연과 비용 초과 위험을 최소화하고 싶다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "013",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "단계별로 제시하고 비용·시간 절감 시뮬레이션 도구를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "데이터센터 현장 지연이 큰 문제이며, 모듈화가 속도전 해결책이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "절감 시뮬레이션 툴을 제공해 즉시 적용 가능한 실전 도구를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "039",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "표준 모듈 적용 범위가 제한적일 위험이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "041",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-ad4f141c"
+      }
     },
     {
       "type": "마케팅전략",
@@ -585,8 +796,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-03T00:18:02.219Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "크리에이터 마케팅으로 K뷰티 글로벌 진출 가속화법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "K뷰티, 크리에이터와 AI로 세계 정복",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "006",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "하지만 문화 차이와 효과 측정 방법을 몰라 실행에 어려움을 겪는다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "ROI 측정 프레임워크를 제공해 단계별 실행 로드맵을 제시한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "023",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "이 AI로 진입 장벽을 낮추고 K뷰티 글로벌 확산을 이끌고 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "ROI 측정 템플릿을 제공해 바로 실행 가능한 실전 도구를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "036",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "AI 도구 적용 난이도가 과다해 독자가 활용하기 어려울 수 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "044",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-ad4f141c"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261103-394ac081",
+    "file": "cardnews/2026-11-03.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
