@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 03. 오전 10:19:16",
+  "updatedAt": "2026. 11. 04. 오전 01:09:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 298,
-    "passed": 11,
-    "deduped": 11,
-    "eventDeduped": 11,
-    "displayed": 10,
+    "raw": 300,
+    "passed": 9,
+    "deduped": 9,
+    "eventDeduped": 9,
+    "displayed": 9,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
+    {
+      "id": "https://www.forbes.com/councils/forbestechcouncil/2026/11/03/your-ai-budget-is-already-a-headcount-decision/",
+      "title": "Your AI Budget Is Already A Headcount Decision",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T16:02:00Z",
+      "publishedAt": "2026-11-03T16:02:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/03/your-ai-budget-is-already-a-headcount-decision/"
+    },
     {
       "id": "https://www.proactiveinvestors.com/companies/news/1101094/anthropic-filing-reveals-scale-of-ai-spending-behind-33b-in-revenue-1101094.html",
       "title": "Anthropic filing reveals scale of AI spending behind $33B in revenue",
@@ -30,28 +42,16 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1101094/anthropic-filing-reveals-scale-of-ai-spending-behind-33b-in-revenue-1101094.html"
     },
     {
-      "id": "https://campustechnology.com/articles/2026/11/02/idc-survey-finds-significant-gap-between-ai-spending-and-measurable-financial-returns.aspx",
-      "title": "IDC Survey Finds Significant Gap Between AI Spending and Measurable Financial Returns -- Campus Technology",
-      "source": "campustechnology.com",
+      "id": "https://rcrwireless.com/20261103/carriers/virgin-media-o2-slashes-costs-as-fiber-retreat-and-job-cuts-loom",
+      "title": "Virgin Media O2 slashes costs as fiber retreat and job cuts loom",
+      "source": "rcrwireless.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T18:31:00Z",
-      "publishedAt": "2026-11-02T18:31:00Z",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T16:02:00Z",
+      "publishedAt": "2026-11-03T16:02:00Z",
       "summary": "",
-      "url": "https://campustechnology.com/articles/2026/11/02/idc-survey-finds-significant-gap-between-ai-spending-and-measurable-financial-returns.aspx"
-    },
-    {
-      "id": "http://kr.xinhuanet.com/20261102/8fa99d5f2280428695cfbd5697c50e80/c.html",
-      "title": "中 택배업계 달라진다...드론·로봇·디지털 직원 등 AI 전환 '가속'",
-      "source": "kr.xinhuanet.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
-      "summary": "",
-      "url": "http://kr.xinhuanet.com/20261102/8fa99d5f2280428695cfbd5697c50e80/c.html"
+      "url": "https://rcrwireless.com/20261103/carriers/virgin-media-o2-slashes-costs-as-fiber-retreat-and-job-cuts-loom"
     },
     {
       "id": "https://www.floridaweekly.com/naples/arts-entertainment/disrupt-hr-naples-sparks-new-ideas-in-leadership-and-culture/article_510039cb-fb65-4f83-ba91-c9d833e11fbd.html",
@@ -66,16 +66,16 @@
       "url": "https://www.floridaweekly.com/naples/arts-entertainment/disrupt-hr-naples-sparks-new-ideas-in-leadership-and-culture/article_510039cb-fb65-4f83-ba91-c9d833e11fbd.html"
     },
     {
-      "id": "https://news.mtn.co.kr/article/2026110215430560532",
-      "title": "네이버 최수연 \"중소기업까지 AI 활용해야 산업 경쟁력 강화\"",
-      "source": "news.mtn.co.kr",
-      "language": "Korean",
+      "id": "https://www.theglobeandmail.com/business/article-us-factory-orders-september-2026/",
+      "title": "U.S. factory orders beat estimates as AI build-out, consumer spending drive activity",
+      "source": "theglobeandmail.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T16:02:00Z",
+      "publishedAt": "2026-11-03T16:02:00Z",
       "summary": "",
-      "url": "https://news.mtn.co.kr/article/2026110215430560532"
+      "url": "https://www.theglobeandmail.com/business/article-us-factory-orders-september-2026/"
     },
     {
       "id": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809",
@@ -90,16 +90,28 @@
       "url": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809"
     },
     {
-      "id": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/",
-      "title": "Alaska Airlines To Lay Off 200 Non-Union Employees | Newstalk 1400, 104.5, and 105.9 WJMX",
-      "source": "newstalk1400online.iheart.com",
+      "id": "https://campustechnology.com/articles/2026/11/02/idc-survey-finds-significant-gap-between-ai-spending-and-measurable-financial-returns.aspx",
+      "title": "IDC Survey Finds Significant Gap Between AI Spending and Measurable Financial Returns -- Campus Technology",
+      "source": "campustechnology.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
       "summary": "",
-      "url": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/"
+      "url": "https://campustechnology.com/articles/2026/11/02/idc-survey-finds-significant-gap-between-ai-spending-and-measurable-financial-returns.aspx"
+    },
+    {
+      "id": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html",
+      "title": "UBS says AI investment boom remains intact despite growing scrutiny of spending",
+      "source": "proactiveinvestors.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-02",
+      "dateRaw": "2026-11-02T18:31:00Z",
+      "publishedAt": "2026-11-02T18:31:00Z",
+      "summary": "",
+      "url": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html"
     },
     {
       "id": "https://www.proactiveinvestors.com/companies/news/1101096/oracle-taps-investors-for-20b-as-ai-spending-mounts-1101096.html",
@@ -112,33 +124,21 @@
       "publishedAt": "2026-11-02T18:31:00Z",
       "summary": "",
       "url": "https://www.proactiveinvestors.com/companies/news/1101096/oracle-taps-investors-for-20b-as-ai-spending-mounts-1101096.html"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-tech-share-buybacks-plunge-83-as-ai-spending-hits-cash-flows/articleshow/135450472.cms",
-      "title": "Big tech share buybacks plunge 83% as AI spending hits cash flows",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:17:00Z",
-      "publishedAt": "2026-11-02T08:17:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-tech-share-buybacks-plunge-83-as-ai-spending-hits-cash-flows/articleshow/135450472.cms"
-    },
-    {
-      "id": "https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up",
-      "title": "Investor scrutiny of the AI spending boom is rising, but Big Tech is unlikely to give up",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.forbes.com/councils/forbestechcouncil/2026/11/03/your-ai-budget-is-already-a-headcount-decision/",
+      "title": "Your AI Budget Is Already A Headcount Decision",
+      "source": "forbes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T16:02:00Z",
+      "publishedAt": "2026-11-03T16:02:00Z",
+      "summary": "",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/03/your-ai-budget-is-already-a-headcount-decision/"
+    },
     {
       "id": "https://www.proactiveinvestors.com/companies/news/1101094/anthropic-filing-reveals-scale-of-ai-spending-behind-33b-in-revenue-1101094.html",
       "title": "Anthropic filing reveals scale of AI spending behind $33B in revenue",
@@ -164,16 +164,16 @@
       "url": "https://campustechnology.com/articles/2026/11/02/idc-survey-finds-significant-gap-between-ai-spending-and-measurable-financial-returns.aspx"
     },
     {
-      "id": "http://kr.xinhuanet.com/20261102/8fa99d5f2280428695cfbd5697c50e80/c.html",
-      "title": "中 택배업계 달라진다...드론·로봇·디지털 직원 등 AI 전환 '가속'",
-      "source": "kr.xinhuanet.com",
-      "language": "Korean",
+      "id": "https://rcrwireless.com/20261103/carriers/virgin-media-o2-slashes-costs-as-fiber-retreat-and-job-cuts-loom",
+      "title": "Virgin Media O2 slashes costs as fiber retreat and job cuts loom",
+      "source": "rcrwireless.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T16:02:00Z",
+      "publishedAt": "2026-11-03T16:02:00Z",
       "summary": "",
-      "url": "http://kr.xinhuanet.com/20261102/8fa99d5f2280428695cfbd5697c50e80/c.html"
+      "url": "https://rcrwireless.com/20261103/carriers/virgin-media-o2-slashes-costs-as-fiber-retreat-and-job-cuts-loom"
     },
     {
       "id": "https://www.floridaweekly.com/naples/arts-entertainment/disrupt-hr-naples-sparks-new-ideas-in-leadership-and-culture/article_510039cb-fb65-4f83-ba91-c9d833e11fbd.html",
@@ -200,40 +200,16 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1101096/oracle-taps-investors-for-20b-as-ai-spending-mounts-1101096.html"
     },
     {
-      "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-tech-share-buybacks-plunge-83-as-ai-spending-hits-cash-flows/articleshow/135450472.cms",
-      "title": "Big tech share buybacks plunge 83% as AI spending hits cash flows",
-      "source": "economictimes.indiatimes.com",
+      "id": "https://www.theglobeandmail.com/business/article-us-factory-orders-september-2026/",
+      "title": "U.S. factory orders beat estimates as AI build-out, consumer spending drive activity",
+      "source": "theglobeandmail.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:17:00Z",
-      "publishedAt": "2026-11-02T08:17:00Z",
+      "date": "2026-11-03",
+      "dateRaw": "2026-11-03T16:02:00Z",
+      "publishedAt": "2026-11-03T16:02:00Z",
       "summary": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-tech-share-buybacks-plunge-83-as-ai-spending-hits-cash-flows/articleshow/135450472.cms"
-    },
-    {
-      "id": "https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up",
-      "title": "Investor scrutiny of the AI spending boom is rising, but Big Tech is unlikely to give up",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up"
-    },
-    {
-      "id": "https://news.mtn.co.kr/article/2026110215430560532",
-      "title": "네이버 최수연 \"중소기업까지 AI 활용해야 산업 경쟁력 강화\"",
-      "source": "news.mtn.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T08:16:00Z",
-      "publishedAt": "2026-11-02T08:16:00Z",
-      "summary": "",
-      "url": "https://news.mtn.co.kr/article/2026110215430560532"
+      "url": "https://www.theglobeandmail.com/business/article-us-factory-orders-september-2026/"
     },
     {
       "id": "https://www.proactiveinvestors.com/companies/news/1101076/ubs-says-ai-investment-boom-remains-intact-despite-growing-scrutiny-of-spending-1101076.html",
@@ -258,27 +234,15 @@
       "publishedAt": "2026-11-03T01:16:00Z",
       "summary": "",
       "url": "https://www.lawguru.com/legal-questions/new-york-labor-employment/I-recently-received-a-separation-agreement-followi-435154809"
-    },
-    {
-      "id": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/",
-      "title": "Alaska Airlines To Lay Off 200 Non-Union Employees | Newstalk 1400, 104.5, and 105.9 WJMX",
-      "source": "newstalk1400online.iheart.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-02",
-      "dateRaw": "2026-11-02T01:31:00Z",
-      "publishedAt": "2026-11-02T01:31:00Z",
-      "summary": "",
-      "url": "https://newstalk1400online.iheart.com/content/2026-11-02-alaska-airlines-to-lay-off-200-non-union-employees/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 298,
-    "fetchedItems": 3491,
-    "relevantItems": 130,
-    "feedBytes": 920878,
+    "poolSize": 300,
+    "fetchedItems": 5807,
+    "relevantItems": 127,
+    "feedBytes": 1664844,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
