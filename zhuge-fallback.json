@@ -3,7 +3,7 @@
   "planDay": "2026-11-03",
   "planSetId": "zps-20261103-394ac081",
   "generatedAt": "2026-11-03T00:02:28.328Z",
-  "publishedAt": "2026-11-03T00:19:30.879Z",
+  "publishedAt": "2026-11-03T00:19:45.006Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -232,7 +232,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-03T00:18:02.219Z",
+        "generatedAt": "2026-11-03T00:19:25.815Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -257,81 +257,78 @@
           ]
         },
         "bookTitle": "베트남 진출 기업을 위한 법률 체크리스트 만들기",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "감성 문장",
-            "headline": "베트남 진출, 법률 한 장으로 문제 해결",
+            "headline": "새로운 땅, 첫 계약서가 떨린다",
             "body": "",
             "accent": "yellow",
             "sceneId": "008",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "장면",
-            "headline": "계약서 작성 시 복잡한 절차와 시간 부족 문제를 해결하고 싶다.",
-            "body": "",
+            "headline": "카페 창가에 놓인 베트남 법률 서류",
+            "body": "서류를 펼쳐 놓고 눈을 맞춘다",
             "accent": "yellow",
             "sceneId": "012",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "감정",
-            "headline": "단계별 체크리스트를 제공, 바로 적용 가능한 로드맵을 제시한다.",
-            "body": "",
+            "headline": "그때 마음은 무거운 구름처럼",
+            "body": "불안이 파도처럼 밀려온다",
             "accent": "yellow",
             "sceneId": "029",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "관점 전환",
-            "headline": "베트남 진출 기업은 현지 규제 이해 부족으로 사업 실패 위험이 크다.",
-            "body": "",
+            "headline": "하지만 작은 체크리스트가 다리를 놓는다",
+            "body": "준비 하나가 길을 열어준다",
             "accent": "yellow",
             "sceneId": "020",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "수용",
-            "headline": "체크리스트, 템플릿을 제공해 즉시 활용 가능한 실전 도구를 제공한다.",
-            "body": "",
+            "headline": "그 과정을 받아들이면 배움이 된다",
+            "body": "천천히 받아들이며 나아가라",
             "accent": "yellow",
             "sceneId": "040",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "여운",
-            "headline": "현지 규제 변동을 실시간으로 반영하지 못할 위험이 있다.",
+            "headline": "발걸음마다 흔적을 남긴다",
             "body": "",
             "accent": "yellow",
             "sceneId": "050",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-ad4f141c"
       },
       "coverRefs": [
@@ -829,7 +826,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-03T00:18:02.219Z",
+        "generatedAt": "2026-11-03T00:18:44.504Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -854,10 +851,10 @@
           ]
         },
         "bookTitle": "AI 데이터센터 구축 속도전 전략 매뉴얼",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -926,9 +923,6 @@
             "source": "rule-fallback"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-ad4f141c"
       },
       "coverRefs": [
@@ -1426,7 +1420,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-03T00:18:02.219Z",
+        "generatedAt": "2026-11-03T00:19:05.165Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1451,81 +1445,78 @@
           ]
         },
         "bookTitle": "크리에이터 마케팅으로 K뷰티 글로벌 진출 가속화법",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "강한 선언",
-            "headline": "K뷰티, 크리에이터와 AI로 세계 정복",
+            "headline": "베트남 진출, 법률 체크 없이 가면 큰 손해다",
             "body": "",
             "accent": "yellow",
             "sceneId": "006",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "warning",
             "beat": "공감",
-            "headline": "하지만 문화 차이와 효과 측정 방법을 몰라 실행에 어려움을 겪는다.",
+            "headline": "현지 계약서 작성에 시간도 없고, 규제는 헷갈리기만 한다",
             "body": "",
             "accent": "yellow",
             "sceneId": "024",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "구체적 증상",
-            "headline": "ROI 측정 프레임워크를 제공해 단계별 실행 로드맵을 제시한다.",
+            "headline": "허가 지연, 벌금 부과, 파트너 신뢰 하락을 겪고 있다면",
             "body": "",
             "accent": "yellow",
             "sceneId": "023",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "판단 기준",
-            "headline": "이 AI로 진입 장벽을 낮추고 K뷰티 글로벌 확산을 이끌고 있다.",
+            "headline": "이는 기본 법률 검토가 부족한 증거다",
             "body": "",
             "accent": "yellow",
             "sceneId": "020",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "해결",
-            "headline": "ROI 측정 템플릿을 제공해 바로 실행 가능한 실전 도구를 제공한다.",
+            "headline": "즉시 현지 변호사와 체크리스트를 만들라",
             "body": "",
             "accent": "yellow",
             "sceneId": "036",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "강한 결론",
-            "headline": "AI 도구 적용 난이도가 과다해 독자가 활용하기 어려울 수 있다.",
+            "headline": "법률 준비 없이 성공은 없다",
             "body": "",
             "accent": "yellow",
             "sceneId": "044",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-ad4f141c"
       },
       "coverRefs": [
