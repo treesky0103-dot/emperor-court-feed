@@ -3,7 +3,7 @@
   "planDay": "2026-11-04",
   "planSetId": "zps-20261104-1cad1aad",
   "generatedAt": "2026-11-03T23:41:48.719Z",
-  "publishedAt": "2026-11-04T00:21:06.767Z",
+  "publishedAt": "2026-11-04T01:01:03.875Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -235,7 +235,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-04T00:18:43.361Z",
+        "generatedAt": "2026-11-04T00:25:57.737Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -546,7 +546,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-726b7619",
         "status": "ready",
-        "generatedAt": "2026-11-04T00:18:53.825Z",
+        "generatedAt": "2026-11-04T00:26:01.521Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -554,98 +554,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 21,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "mit morbid",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 30,
-              "genre": 40,
-              "design": 85,
-              "score": 69,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 39520,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "northwestern lamp back",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 137312,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "toronto victor pelevin",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 89346,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1140,7 +1049,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-726b7619",
         "status": "ready",
-        "generatedAt": "2026-11-04T00:19:03.204Z",
+        "generatedAt": "2026-11-04T00:26:05.100Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1148,98 +1057,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 18,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "toronto victor pelevin",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 89346,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "yale harold cruse",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 55518,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "calgary at the freak show",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 158986,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "georgia the submerged",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 212574,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1423,7 +1241,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-04T00:18:43.361Z",
+        "generatedAt": "2026-11-04T00:27:58.229Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1448,76 +1266,76 @@
           ]
         },
         "bookTitle": "불평등 지리 분석으로 지역 정책 설계하기",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "감성 문장",
-            "headline": "불평등 지도, 정책으로 직접 바꾼다",
+            "headline": "불평등 지도는 우리 일상의 거울이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "007",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "장면",
-            "headline": "정책 연결 단계에서 바로 활용 가능한 분석 도구와 절차가 필요하다.",
+            "headline": "아침 출근길, 지도 위에 뜬 색다른 구역을 바라보는 순간",
             "body": "",
             "accent": "yellow",
             "sceneId": "011",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "감정",
-            "headline": "시뮬레이션 템플릿을 통해 지역 불평등 데이터를 바로 정책에 연결한다.",
+            "headline": "그 색은 지역 간 격차가 만든 불안과 무력감을 떠올리게 한다",
             "body": "",
             "accent": "yellow",
             "sceneId": "026",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "관점 전환",
-            "headline": "지리’가 올해의 책으로 선정돼 지역 격차 해소에 관심이 급증하고 있다.",
+            "headline": "하지만 데이터는 변화를 위한 시작점일 뿐이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "019",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "수용",
-            "headline": "정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다.",
+            "headline": "그 차이를 인정하고 작은 정책부터 시도해 보자",
             "body": "",
             "accent": "yellow",
             "sceneId": "035",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "여운",
-            "headline": "전문 용어와 툴 설명이 부족하면 독자 이해가 저하된다",
+            "headline": "불평등을 보았다면, 행동으로 이어가라",
             "body": "",
             "accent": "yellow",
             "sceneId": "045",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
         "sourceRevision": "zcr-726b7619"
@@ -1734,7 +1552,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-726b7619",
         "status": "ready",
-        "generatedAt": "2026-11-04T00:19:18.151Z",
+        "generatedAt": "2026-11-04T00:26:07.767Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1742,98 +1560,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 15,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "georgia the submerged",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 45,
-              "genre": 50,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 212574,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens postal censorship surveillance resistance",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 45,
-              "genre": 60,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 205508,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "minn the carceral surround",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 45,
-              "genre": 55,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 127092,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     }
   ],
