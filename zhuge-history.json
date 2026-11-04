@@ -6,7 +6,7 @@
       "planDay": "2026-11-04",
       "planSetId": "zps-20261104-1cad1aad",
       "generatedAt": "2026-11-03T23:41:48.719Z",
-      "publishedAt": "2026-11-04T00:15:09.526Z",
+      "publishedAt": "2026-11-04T00:18:06.910Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -234,7 +234,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 1
+          "rank": 1,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-11-04T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "forest",
+              "label": "포레스트형",
+              "tone": "지식·통찰 교양형",
+              "flow": [
+                "궁금증",
+                "현상",
+                "원리",
+                "설명",
+                "통찰",
+                "핵심 메시지"
+              ]
+            },
+            "bookTitle": "파킨슨병 예방을 위한 장내 미생물 관리",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "궁금증",
+                "headline": "파킨슨병 예방, 장내 미생물 관리로 시작한다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "006",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "현상",
+                "headline": "진행을 늦추고 일상 생활을 유지할 구체적인 관리법이 절실히 필요하다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "017",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "analysis",
+                "beat": "원리",
+                "headline": "연관성을 과학적으로 분석하고 실생활에 적용할 관리법을 제시한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "018",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "설명",
+                "headline": "강조하면서 예방 필요성을 알렸기에 독자가 즉시 실천할 지침이 필요하다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "019",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "통찰",
+                "headline": "조절 식단·운동·프로바이오틱스까지 단계별 실천 가이드를 제공한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "037",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "핵심 메시지",
+                "headline": "미생물 관리 내용이 부족하면 독자 신뢰가 떨어진다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "047",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-726b7619"
+          }
         },
         {
           "type": "교육훈련",
@@ -413,7 +518,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 2
+          "rank": 2,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-11-04T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "heist",
+              "label": "하이스트형",
+              "tone": "직설·후킹형",
+              "flow": [
+                "강한 선언",
+                "공감",
+                "구체적 증상",
+                "판단 기준",
+                "해결",
+                "강한 결론"
+              ]
+            },
+            "bookTitle": "AI 콘텐츠 인재 양성 일본 연수 실전 매뉴얼",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "강한 선언",
+                "headline": "AI 인재, 일본 연수로 실전 역량을 키운다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "008",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "warning",
+                "beat": "공감",
+                "headline": "연수 기획과 현장 교육 효과를 극대화할 구체적 절차와 도구가 필요하다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "021",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "구체적 증상",
+                "headline": "연수 설계·운영·성과 측정까지 단계별 체크리스트와 템플릿을 제공한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "028",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "판단 기준",
+                "headline": "일본 연수 사례가 소개돼 기업이 실효성 있는 연수 모델을 찾고 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "015",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "해결",
+                "headline": "연수 전후 교육 커리큘럼·성과 평가 도구를 템플릿 형태로 제공한다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "039",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "강한 결론",
+                "headline": "연수 사례가 부족하면 설득력이 약해진다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "041",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-726b7619"
+          }
         },
         {
           "type": "사회연구",
@@ -592,9 +802,121 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 3
+          "rank": 3,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-11-04T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "film",
+              "label": "필름형",
+              "tone": "감성 매거진형",
+              "flow": [
+                "감성 문장",
+                "장면",
+                "감정",
+                "관점 전환",
+                "수용",
+                "여운"
+              ]
+            },
+            "bookTitle": "불평등 지리 분석으로 지역 정책 설계하기",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "감성 문장",
+                "headline": "불평등 지도, 정책으로 직접 바꾼다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "007",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "장면",
+                "headline": "정책 연결 단계에서 바로 활용 가능한 분석 도구와 절차가 필요하다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "011",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "감정",
+                "headline": "시뮬레이션 템플릿을 통해 지역 불평등 데이터를 바로 정책에 연결한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "026",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "관점 전환",
+                "headline": "지리’가 올해의 책으로 선정돼 지역 격차 해소에 관심이 급증하고 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "019",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "수용",
+                "headline": "정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "035",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "여운",
+                "headline": "전문 용어와 툴 설명이 부족하면 독자 이해가 저하된다",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "045",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-726b7619"
+          }
         }
-      ]
+      ],
+      "cardnewsAutomation": {
+        "status": "ok",
+        "version": "v2.15.24-cardnews-3styles",
+        "planSetId": "zps-20261104-1cad1aad",
+        "file": "cardnews/2026-11-04.json",
+        "cardCount": 6
+      }
     },
     {
       "date": "2026-11-03",
