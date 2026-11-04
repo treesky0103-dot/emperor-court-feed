@@ -10,12 +10,12 @@
     "불평등 지리 분석으로 지역 정책 설계하기"
   ],
   "provider": "partial-mixed",
-  "generatedAt": "2026-11-04T00:21:01.841Z",
+  "generatedAt": "2026-11-04T01:02:23.945Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-04T00:18:43.361Z",
+      "generatedAt": "2026-11-04T01:01:02.463Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -219,7 +219,7 @@
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-04T00:18:43.361Z",
+      "generatedAt": "2026-11-04T00:27:58.229Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -244,76 +244,76 @@
         ]
       },
       "bookTitle": "불평등 지리 분석으로 지역 정책 설계하기",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "불평등 지도, 정책으로 직접 바꾼다",
+          "headline": "불평등 지도는 우리 일상의 거울이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "007",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "정책 연결 단계에서 바로 활용 가능한 분석 도구와 절차가 필요하다.",
+          "headline": "아침 출근길, 지도 위에 뜬 색다른 구역을 바라보는 순간",
           "body": "",
           "accent": "yellow",
           "sceneId": "011",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "시뮬레이션 템플릿을 통해 지역 불평등 데이터를 바로 정책에 연결한다.",
+          "headline": "그 색은 지역 간 격차가 만든 불안과 무력감을 떠올리게 한다",
           "body": "",
           "accent": "yellow",
           "sceneId": "026",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "지리’가 올해의 책으로 선정돼 지역 격차 해소에 관심이 급증하고 있다.",
+          "headline": "하지만 데이터는 변화를 위한 시작점일 뿐이다",
           "body": "",
           "accent": "yellow",
           "sceneId": "019",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다.",
+          "headline": "그 차이를 인정하고 작은 정책부터 시도해 보자",
           "body": "",
           "accent": "yellow",
           "sceneId": "035",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "전문 용어와 툴 설명이 부족하면 독자 이해가 저하된다",
+          "headline": "불평등을 보았다면, 행동으로 이어가라",
           "body": "",
           "accent": "yellow",
           "sceneId": "045",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
       "sourceRevision": "zcr-726b7619"
