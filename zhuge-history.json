@@ -1,6 +1,599 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "days": [
+    {
+      "date": "2026-11-04",
+      "planDay": "2026-11-04",
+      "planSetId": "zps-20261104-1cad1aad",
+      "generatedAt": "2026-11-03T23:41:48.719Z",
+      "publishedAt": "2026-11-04T00:00:07.035Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-11-04",
+        "planSetId": "zps-20261104-1cad1aad",
+        "titles": [
+          "파킨슨병 예방을 위한 장내 미생물 관리",
+          "AI 콘텐츠 인재 양성 일본 연수 실전 매뉴얼",
+          "불평등 지리 분석으로 지역 정책 설계하기"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "openai/gpt-oss-120b",
+        "hqReady": true,
+        "contentRevision": "zcr-726b7619",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-11-04T00:00:00.103Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 건강 · 교육훈련 · 사회연구을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "openai/gpt-oss-120b",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-03T23:41:48.094Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-03T23:39:23.809Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-11-03T23:25:05.249Z",
+        "bestsellerDataDate": "2026-11-03",
+        "stale": true,
+        "checkedAt": "2026-11-03T23:41:48.719Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "건강",
+          "field": "건강",
+          "title": "파킨슨병 예방을 위한 장내 미생물 관리",
+          "concept": "장내 미생물과 파킨슨병의 연관성을 과학적으로 분석하고 실생활에 적용할 관리법을 제시한다",
+          "why": "N11 뉴스가 장내 미생물과 파킨슨병 연결을 강조하면서 예방 필요성을 알렸기에 독자가 즉시 실천할 지침이 필요하다",
+          "competition": "기존 파킨슨병 서적은 신경학적 치료에만 집중하고 장내 미생물의 역할을 다루지 않는다",
+          "reader": "40대 남성 파킨슨병 환자 및 가족",
+          "readerNeed": "파킨슨병 진행을 늦추고 일상 생활을 유지할 구체적인 관리법이 절실히 필요하다",
+          "marketGap": "장내 미생물 기반 예방·관리 전략이 구체적으로 제시된 서적이 현시점에 전무하다",
+          "differentiation": "미생물 조절 식단·운동·프로바이오틱스까지 단계별 실천 가이드를 제공한다",
+          "diff": "미생물 조절 식단·운동·프로바이오틱스까지 단계별 실천 가이드를 제공한다",
+          "toc": [
+            "장내 미생물과 파킨슨병의 과학적 연관성",
+            "예방을 위한 미생물 균형 맞추기 전략",
+            "일상에 적용 가능한 식단 설계 방법",
+            "운동과 생활 습관으로 미생물 관리하기",
+            "성공 사례와 체크리스트 활용법"
+          ],
+          "searchQueries": [
+            "파킨슨병 예방",
+            "장내 미생물 관리"
+          ],
+          "bookworthiness": {
+            "durability": "파킨슨병 예방과 관리 수요는 고령화와 함께 지속적으로 증가할 전망이다",
+            "repeatNeed": "새로운 연구 결과와 최신 관리법을 지속적으로 업데이트해야 하는 필요성이 있다",
+            "expansionPotential": "미생물과 신경질환 전반을 아우르는 시리즈로 확장 가능성이 높다",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "일파 합장",
+              "career": "《치매 파킨슨병 예방법》 저자 · 청어",
+              "why": "YES24에서 이 기획과 인접한 주제의 《치매 파킨슨병 예방법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/142068932",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "박주홍",
+              "career": "《뇌박사 박주홍의 파킨슨병 이야기》 저자 · 성안북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《뇌박사 박주홍의 파킨슨병 이야기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/91575563",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "최현숙 등저",
+              "career": "《알기 쉬운 미생물과 감염관리》 저자 · 의학교육",
+              "why": "YES24에서 이 기획과 인접한 주제의 《알기 쉬운 미생물과 감염관리》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/142611842",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "일파 합장",
+          "bestAuthor": "일파 합장",
+          "authorBrief": "",
+          "headlineCopy": "파킨슨병 예방, 장내 미생물 관리로 시작한다",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "과학적 근거에 기반한 실천법을 원한다",
+              "바로 적용 가능한 구체적 지침이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "‘장내 미생물과 파킨슨병 연결’ 뉴스를 서두에 제시해 독자의 현재 고민을 즉시 끌어낸다",
+            "trust": "전문가 인터뷰·임상 사례·비교표를 통해 신뢰성을 강화한다",
+            "conversion": "무료 요약 대신 ‘단계별 관리 가이드’를 직접 체험하도록 유도한다",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "미생물 관리가 실제 효과가 있는지 의문을 가질 수 있다",
+              "objection": "‘이미 검색하면 알 수 있지 않나’는 생각이 든다",
+              "solution": "목차와 서문에 임상 데이터와 성공 사례를 명시해 설득한다"
+            },
+            "positioning": "파킨슨병 예방을 위한 가장 실용적인 미생물 관리 서적으로 자리매김한다"
+          },
+          "devilsEditor": {
+            "failureReason": "미생물 관리 내용이 부족하면 독자 신뢰가 떨어진다",
+            "fix": "최신 연구와 실제 사례를 추가해 내용 깊이를 보강한다"
+          },
+          "scores": {
+            "market": 89,
+            "timing": 92,
+            "difference": 87,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 96
+          },
+          "score": 91,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "미생물과 파킨슨병 관계가 복잡해 독자 이해가 어려울 수 있다",
+          "riskResponse": "쉽게 풀어쓴 설명과 시각 자료로 이해 장벽을 낮춘다",
+          "judgment": "과학적 근거와 실천 가이드를 동시에 제공해 차별화된 가치가 확실히 드러난다",
+          "evidence": [
+            {
+              "text": "치매 파킨슨병 예방법 — 일파 합장 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/142068932"
+            },
+            {
+              "text": "장내 미생물과 파킨슨병 연결하는 새로운 기전 제시 - 재활뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sR0RucHNfY2pNNlZZczNOMWFXdU41M2s0Uy10Y2JrUFUxcGI5WWVCY0d0N3BWU0RCaTZWRVlPSkJZaUFWMmNQdmxYNzVTOWpkNHNDQXZIVmg1aWFHbTJpS1ZEMDJoN0NzZXZ3?oc=5"
+            },
+            {
+              "text": "뇌박사 박주홍의 파킨슨병 이야기 — 박주홍 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/91575563"
+            },
+            {
+              "text": "알기 쉬운 미생물과 감염관리 — 최현숙 등저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/142611842"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "치매 파킨슨병 예방법",
+              "author": "일파 합장 저",
+              "publisher": "청어",
+              "publicationDate": "20250201",
+              "url": "https://www.yes24.com/product/goods/142068932",
+              "matchedQuery": "파킨슨병 예방",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "뇌박사 박주홍의 파킨슨병 이야기",
+              "author": "박주홍 저",
+              "publisher": "성안북스",
+              "publicationDate": "20200804",
+              "url": "https://www.yes24.com/product/goods/91575563",
+              "matchedQuery": "파킨슨병 예방",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "알기 쉬운 미생물과 감염관리",
+              "author": "최현숙 등저",
+              "publisher": "의학교육",
+              "publicationDate": "20250220",
+              "url": "https://www.yes24.com/product/goods/142611842",
+              "matchedQuery": "장내 미생물 관리",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-03T23:41:34.669Z",
+            "queries": [
+              "파킨슨병 예방",
+              "장내 미생물 관리"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "교육훈련",
+          "field": "교육훈련",
+          "title": "AI 콘텐츠 인재 양성 일본 연수 실전 매뉴얼",
+          "concept": "일본 현지 연수 설계·운영·성과 측정까지 단계별 체크리스트와 템플릿을 제공한다",
+          "why": "N16 기사에서 충남콘진원의 AI 인재 10명 일본 연수 사례가 소개돼 기업이 실효성 있는 연수 모델을 찾고 있다",
+          "competition": "일반 연수 서적은 현지 문화만 다루고 AI 교육 내용은 거의 포함하지 않는다",
+          "reader": "중소기업 인사 담당자와 AI 신입 인재",
+          "readerNeed": "해외 연수 기획과 현장 교육 효과를 극대화할 구체적 절차와 도구가 필요하다",
+          "marketGap": "AI 특화 연수 설계와 현장 적용 사례가 부족해 실무자가 혼란을 겪는다",
+          "differentiation": "연수 전후 교육 커리큘럼·성과 평가 도구를 템플릿 형태로 제공한다",
+          "diff": "연수 전후 교육 커리큘럼·성과 평가 도구를 템플릿 형태로 제공한다",
+          "toc": [
+            "연수 목표와 기대 효과 정의하기",
+            "일본 파트너 선정 및 협업 프로세스",
+            "AI 교육 커리큘럼 설계와 현지 적용",
+            "현장 실습과 피드백 관리 방안",
+            "성과 평가 모델과 ROI 계산법"
+          ],
+          "searchQueries": [
+            "AI 연수 일본",
+            "인재 양성 프로그램"
+          ],
+          "bookworthiness": {
+            "durability": "AI 기술 변화가 빠르지만 인재 양성 체계는 장기적으로 필요하다",
+            "repeatNeed": "연수 후 재교육과 업데이트가 지속적으로 요구돼 반복 구매가 가능하다",
+            "expansionPotential": "다양한 국가와 분야별 연수 매뉴얼로 200쪽 이상 확장 가능하다",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "아우티스",
+              "career": "《딱 1주일 일본어학연수 다녀오겠습니다》 저자 · 미다스북스(리틀미다스)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《딱 1주일 일본어학연수 다녀오겠습니다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/198057172",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "편집부",
+              "career": "《일본어학연수기관》 저자 · 프라다 출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《일본어학연수기관》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/1385184",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이수희",
+              "career": "《일본 맞짱 뜨기》 저자 · 아이생각(디지털북스)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《일본 맞짱 뜨기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/8282612",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "아우티스",
+          "bestAuthor": "아우티스",
+          "authorBrief": "",
+          "headlineCopy": "AI 인재, 일본 연수로 실전 역량을 키운다",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 연수 계획을 수립하고 싶다",
+              "바로 적용 가능한 구체적 템플릿이 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "‘AI 인재 일본 연수 사례’ 를 서두에 제시해 독자의 현재 고민을 즉시 반영한다",
+            "trust": "성공 기업 인터뷰·ROI 모델·비교표로 신뢰성을 확보한다",
+            "conversion": "무료 정보 나열이 아니라 ‘전·후 교육 템플릿 제공’을 강조해 구매를 유도한다",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "연수 비용 대비 효과가 불투명하다고 생각할 수 있다",
+              "objection": "‘이 정도는 인터넷에 있지 않나’는 의구심이 든다",
+              "solution": "목차와 서문에 구체적인 ROI 사례와 비용 절감 포인트를 제시한다"
+            },
+            "positioning": "AI 인재 양성을 위한 가장 실용적인 일본 연수 매뉴얼로 차별화한다"
+          },
+          "devilsEditor": {
+            "failureReason": "연수 사례가 부족하면 설득력이 약해진다",
+            "fix": "다양한 기업 사례와 인터뷰를 추가해 실증성을 강화한다"
+          },
+          "scores": {
+            "market": 89,
+            "timing": 92,
+            "difference": 87,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 96
+          },
+          "score": 91,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "연수 비용 대비 성과가 불확실해 투자 회의가 어려울 수 있다",
+          "riskResponse": "ROI 계산 모델과 성공 사례를 제시해 위험을 최소화한다",
+          "judgment": "실제 연수 사례와 검증된 템플릿을 제공해 기업이 즉시 실행 가능한 가치를 만든다",
+          "evidence": [
+            {
+              "text": "딱 1주일 일본어학연수 다녀오겠습니다 — 아우티스 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/198057172"
+            },
+            {
+              "text": "충남콘진원, AI 콘텐츠 인재 10명 일본 연수 - 지디넷코리아",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdEowc1pVWUU0N1luWjk1eVpuWUFaUTF6WmkwR25DejRBMHUtZHNpcjE0YzJ0MmQxNmNxMFFuellEZV9SNHU0c004RXVJY0w4RTJtYmtR?oc=5"
+            },
+            {
+              "text": "일본어학연수기관 — 편집부",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/1385184"
+            },
+            {
+              "text": "일본 맞짱 뜨기 — 이수희 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/8282612"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 90,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 2,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "딱 1주일 일본어학연수 다녀오겠습니다",
+              "author": "아우티스 저",
+              "publisher": "미다스북스(리틀미다스)",
+              "publicationDate": "20261028",
+              "url": "https://www.yes24.com/product/goods/198057172",
+              "matchedQuery": "AI 연수 일본",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "일본어학연수기관",
+              "author": "편집부",
+              "publisher": "프라다 출판사",
+              "publicationDate": "20040501",
+              "url": "https://www.yes24.com/product/goods/1385184",
+              "matchedQuery": "AI 연수 일본",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "일본 맞짱 뜨기",
+              "author": "이수희 저",
+              "publisher": "아이생각(디지털북스)",
+              "publicationDate": "20130110",
+              "url": "https://www.yes24.com/product/goods/8282612",
+              "matchedQuery": "AI 연수 일본",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-03T23:41:37.007Z",
+            "queries": [
+              "AI 연수 일본",
+              "인재 양성 프로그램"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "사회연구",
+          "field": "사회연구",
+          "title": "불평등 지리 분석으로 지역 정책 설계하기",
+          "concept": "GIS 활용과 정책 시뮬레이션 템플릿을 통해 지역 불평등 데이터를 바로 정책에 연결한다",
+          "why": "N13 기사에서 ‘불평등의 지리’가 올해의 책으로 선정돼 지역 격차 해소에 관심이 급증하고 있다",
+          "competition": "기존 정책 서적은 이론 중심이라 현장 적용 도구와 절차를 제공하지 않는다",
+          "reader": "지방 공무원 및 지역 개발 컨설턴트",
+          "readerNeed": "데이터 시각화와 정책 연결 단계에서 바로 활용 가능한 분석 도구와 절차가 필요하다",
+          "marketGap": "GIS 시각화와 정책 시뮬레이션을 결합한 실무 매뉴얼이 부족해 실무자가 바로 적용하기 어렵다",
+          "differentiation": "GIS 툴 활용법과 정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다",
+          "diff": "GIS 툴 활용법과 정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다",
+          "toc": [
+            "불평등 지리 개념과 핵심 지표 정리",
+            "공공 데이터 수집·정제와 품질 관리",
+            "GIS 기반 시각화 기법과 실습 예시",
+            "정책 시뮬레이션 모델 설계와 적용",
+            "실제 적용 사례와 결과 분석"
+          ],
+          "searchQueries": [
+            "지역 불평등 분석",
+            "정책 GIS 활용"
+          ],
+          "bookworthiness": {
+            "durability": "지역 격차는 장기적 문제라 정책 수요는 지속적으로 유지된다",
+            "repeatNeed": "정기적 데이터 업데이트와 정책 재검토가 필요해 반복 구매가 기대된다",
+            "expansionPotential": "다른 국가·분야의 불평등 분석을 포함해 200쪽 이상 확장 가능하다",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김양희",
+              "career": "《국가균형발전모델의 성 주류화 전략 개발》 저자 · 한국여성정책연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《국가균형발전모델의 성 주류화 전략 개발》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/2811982",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "장미혜",
+              "career": "《국가균형발전모델의 성 주류화 전략 개발》 저자 · 한국여성정책연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《국가균형발전모델의 성 주류화 전략 개발》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/2811982",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김경희 등저",
+              "career": "《국가균형발전모델의 성 주류화 전략 개발》 저자 · 한국여성정책연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《국가균형발전모델의 성 주류화 전략 개발》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/2811982",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김양희",
+          "bestAuthor": "김양희",
+          "authorBrief": "",
+          "headlineCopy": "불평등 지도, 정책으로 직접 바꾼다",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실수 없이 데이터 분석을 하고 싶다",
+              "바로 적용 가능한 정책 도구가 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "‘불평등 데이터와 정책 적용 필요성’ 을 서두에 제시해 독자의 현재 상황을 정확히 반영한다",
+            "trust": "실제 공공 데이터 활용 사례·비교표·체크리스트로 신뢰성을 높인다",
+            "conversion": "무료 정보 나열이 아니라 ‘GIS와 정책 시뮬레이션 템플릿 제공’을 강조해 구매를 유도한다",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "데이터 접근성과 분석 난이도가 높아 포기할 수 있다",
+              "objection": "‘이 정도는 스스로 찾아볼 수 있지 않나’는 생각이 든다",
+              "solution": "목차와 서문에 단계별 스크린샷과 용어 사전을 포함해 접근성을 높인다"
+            },
+            "positioning": "지역 격차 해소를 위한 가장 실용적인 GIS·정책 매뉴얼로 차별화한다"
+          },
+          "devilsEditor": {
+            "failureReason": "전문 용어와 툴 설명이 부족하면 독자 이해가 저하된다",
+            "fix": "툴 사용 단계별 스크린샷과 용어 사전을 추가해 가독성을 높인다"
+          },
+          "scores": {
+            "market": 89,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "공공 데이터 접근성 문제와 분석 복잡도가 독자 진입 장벽이 될 수 있다",
+          "riskResponse": "대체 지표와 데이터 활용 가이드를 제공해 문제를 해결한다",
+          "judgment": "데이터 시각화와 정책 시뮬레이션을 동시에 제공해 실무자가 바로 활용 가능한 차별화된 가치를 만든다",
+          "evidence": [
+            {
+              "text": "국가균형발전모델의 성 주류화 전략 개발 — 김양희,장미혜,김경희 등저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/2811982"
+            },
+            {
+              "text": "‘불평등의 지리’ ‘만해 용운당전서’ 한국출판학회 ‘올해의 책’ 선정 - 경향신문",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OVGVJZ2VzbTgyd1lZMDhXcHZFa1c0S1JlMHhKSXJvWjFWa2lGWkhxaU1vZ1pMTGdTUlFhTE41SkdDMC1FaTFqcGZyZldoNUN1bGt3RDdLeVVBVE9CNHkw0gFfQVVfeXFMTU5UZUlnZXNtODJ3WVkwOFdwdkVrVzRLUmUweEpJcm9aMVZraUZaSHFpTW9nWkxMZ1NSUWFMTjVKR0MwLUVpMWpwZnJmV2g1Q3Vsa3dEN0t5VUFUT0I0eTA?oc=5"
+            },
+            {
+              "text": "돈이 되네? 주문과 매출이 동시에 터지는 스마트스토어+쿠팡 [AI 실전 활용, 2026년 정책 반영] — 김경은(단아쌤) 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/192695313"
+            },
+            {
+              "text": "재난안전정책의 효과적 의사결정을 위한 AI 활용방안 연구 — 류현숙 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/187782069"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "국가균형발전모델의 성 주류화 전략 개발",
+              "author": "김양희,장미혜,김경희 등저",
+              "publisher": "한국여성정책연구원",
+              "publicationDate": "20071228",
+              "url": "https://www.yes24.com/product/goods/2811982",
+              "matchedQuery": "지역 불평등 분석",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "돈이 되네? 주문과 매출이 동시에 터지는 스마트스토어+쿠팡 [AI 실전 활용, 2026년 정책 반영]",
+              "author": "김경은(단아쌤) 저",
+              "publisher": "골든래빗",
+              "publicationDate": "20260707",
+              "url": "https://www.yes24.com/product/goods/192695313",
+              "matchedQuery": "정책 GIS 활용",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "재난안전정책의 효과적 의사결정을 위한 AI 활용방안 연구",
+              "author": "류현숙 저",
+              "publisher": "한국행정연구원",
+              "publicationDate": "20251231",
+              "url": "https://www.yes24.com/product/goods/187782069",
+              "matchedQuery": "정책 GIS 활용",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-03T23:41:38.794Z",
+            "queries": [
+              "지역 불평등 분석",
+              "정책 GIS 활용"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "planDay": "2026-11-03",
@@ -28392,26 +28985,9 @@
           "type": "교육·입시"
         }
       ]
-    },
-    {
-      "date": "2026-09-19",
-      "plans": [
-        {
-          "title": "학부모 상담, 이 문장으로 시작합니다",
-          "type": "교육·교사 실용"
-        },
-        {
-          "title": "월급이 끊기기 5년 전",
-          "type": "경제·자기계발"
-        },
-        {
-          "title": "소설을 따라 걷는 한국",
-          "type": "문학·여행"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261103-394ac081",
+  "activePlanSetId": "zps-20261104-1cad1aad",
   "discardedDays": [
     {
       "date": "2026-09-29",
