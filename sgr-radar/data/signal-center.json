@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 05. 오전 01:16:24",
+  "updatedAt": "2026. 11. 05. 오전 06:57:29",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -656,6 +656,18 @@
           "url": "https://www.equitybulls.com/news/378429/v-mart-retail-reports-strong-q2-fy27-performance-with-18-revenue-growth-and-20-g"
         },
         {
+          "id": "https://www.stuttgartdailyleader.com/arkansas-rice-leaders-warn-of-rising-imports-economic-strain-during-roundtable-with-boozman/",
+          "title": "Arkansas rice leaders warn of rising imports, economic strain during roundtable with Boozman | Stuttgart Daily Leader",
+          "source": "stuttgartdailyleader.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-04",
+          "dateRaw": "2026-11-04T21:47:00Z",
+          "publishedAt": "2026-11-04T21:47:00Z",
+          "summary": "",
+          "url": "https://www.stuttgartdailyleader.com/arkansas-rice-leaders-warn-of-rising-imports-economic-strain-during-roundtable-with-boozman/"
+        },
+        {
           "id": "https://blueprint.ng/dantsoho-fgs-policies-boost-export-growth-by-25-in-two-years/",
           "title": "Dantsoho: FG's policies boost export growth by 25% in two years - Blueprint Newspapers Limited",
           "source": "blueprint.ng",
@@ -738,18 +750,6 @@
           "publishedAt": "2026-11-02T01:31:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/international/japans-october-factory-growth-slows-costs-pick-pmi"
-        },
-        {
-          "id": "https://jowhar.com/report-uk-and-eu-strike-tentative-draft-deal-on-food-trade-terms/",
-          "title": "Report: UK and EU strike tentative draft deal on food trade terms - Jowhar News Leader | Somali News",
-          "source": "jowhar.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-04",
-          "dateRaw": "2026-11-04T08:02:00Z",
-          "publishedAt": "2026-11-04T08:02:00Z",
-          "summary": "",
-          "url": "https://jowhar.com/report-uk-and-eu-strike-tentative-draft-deal-on-food-trade-terms/"
         }
       ],
       "keywords": [
@@ -759,10 +759,6 @@
         },
         {
           "word": "관세",
-          "count": 1
-        },
-        {
-          "word": "무역",
           "count": 1
         },
         {
@@ -922,9 +918,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1300,
-    "fetchedItems": 5969,
-    "feedBytes": 1719167,
+    "poolSize": 1344,
+    "fetchedItems": 4343,
+    "feedBytes": 1206745,
     "rollingWindowHours": 72
   }
 }
