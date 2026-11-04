@@ -1,1177 +1,172 @@
 {
-  "date": "2026-11-03",
-  "planDay": "2026-11-03",
-  "planSetId": "zps-20261103-394ac081",
-  "generatedAt": "2026-11-03T00:02:28.328Z",
-  "publishedAt": "2026-11-03T09:01:20.597Z",
+  "date": "2026-11-04",
+  "planDay": "2026-11-04",
+  "planSetId": "zps-20261104-1cad1aad",
+  "generatedAt": "2026-11-03T23:41:48.719Z",
+  "publishedAt": "2026-11-04T00:00:04.278Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
-    "day": "2026-11-03",
-    "planSetId": "zps-20261103-394ac081",
+    "day": "2026-11-04",
+    "planSetId": "zps-20261104-1cad1aad",
     "titles": [
-      "베트남 진출 기업을 위한 법률 체크리스트 만들기",
-      "AI 데이터센터 구축 속도전 전략 매뉴얼",
-      "크리에이터 마케팅으로 K뷰티 글로벌 진출 가속화법"
+      "파킨슨병 예방을 위한 장내 미생물 관리",
+      "AI 콘텐츠 인재 양성 일본 연수 실전 매뉴얼",
+      "불평등 지리 분석으로 지역 정책 설계하기"
     ],
     "generationMode": "historical-high-quality-atomic",
     "model": "openai/gpt-oss-120b",
     "hqReady": true,
-    "contentRevision": "zcr-ad4f141c",
-    "hqVerifiedBy": "openai/gpt-oss-120b",
-    "sealedAt": "2026-11-03T00:05:09.912Z",
-    "build": "v2.15.119",
-    "hqVerificationError": "",
-    "hqUpgradedAt": "2026-11-03T00:16:32.149Z"
+    "contentRevision": "zcr-726b7619",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-11-04T00:00:00.103Z",
+    "build": "v2.15.119"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 법률가이드 · IT인프라 · 마케팅전략을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 건강 · 교육훈련 · 사회연구을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
   "model": "openai/gpt-oss-120b",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-11-03T00:02:27.746Z",
+  "sourceSnapshotAt": "2026-11-03T23:41:48.094Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-11-02T23:04:53.363Z",
+    "newsUpdatedAt": "2026-11-03T23:39:23.809Z",
     "staleAdvisors": [
       "sima",
       "zhou",
-      "pang"
+      "pang",
+      "cheng",
+      "xunyu",
+      "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-11-02T23:25:05.053Z",
-    "bestsellerDataDate": "2026-11-02",
+    "bestsellerUpdatedAt": "2026-11-03T23:25:05.249Z",
+    "bestsellerDataDate": "2026-11-03",
     "stale": true,
-    "checkedAt": "2026-11-03T00:02:28.328Z",
+    "checkedAt": "2026-11-03T23:41:48.719Z",
     "policy": "confirm-and-mark",
-    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통) 이전 목록"
+    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "법률가이드",
-      "field": "법률가이드",
-      "title": "베트남 진출 기업을 위한 법률 체크리스트 만들기",
-      "concept": "현지 변호사와 협업해 실무 계약서 샘플과 단계별 체크리스트를 제공, 바로 적용 가능한 로드맵을 제시한다.",
-      "why": "N13 뉴스가 강조한 바와 같이 베트남 진출 기업은 현지 규제 이해 부족으로 사업 실패 위험이 크다.",
-      "competition": "기존 해외 진출 서적은 일반 절차만 다루고 현지 맞춤형 법률 정보가 거의 제공되지 않는다.",
-      "reader": "베트남 시장에 진출하려는 중소기업 대표",
-      "readerNeed": "현지 법규 파악과 계약서 작성 시 복잡한 절차와 시간 부족 문제를 해결하고 싶다.",
-      "marketGap": "베트남 현지 규제와 실무 서류 작성 방법을 구체적으로 다룬 자료가 거의 없어 독자는 여전히 혼란한다.",
-      "differentiation": "현지 변호사와 만든 실제 계약서 샘플, 체크리스트, 템플릿을 제공해 즉시 활용 가능한 실전 도구를 제공한다.",
-      "diff": "현지 변호사와 만든 실제 계약서 샘플, 체크리스트, 템플릿을 제공해 즉시 활용 가능한 실전 도구를 제공한다.",
+      "type": "건강",
+      "field": "건강",
+      "title": "파킨슨병 예방을 위한 장내 미생물 관리",
+      "concept": "장내 미생물과 파킨슨병의 연관성을 과학적으로 분석하고 실생활에 적용할 관리법을 제시한다",
+      "why": "N11 뉴스가 장내 미생물과 파킨슨병 연결을 강조하면서 예방 필요성을 알렸기에 독자가 즉시 실천할 지침이 필요하다",
+      "competition": "기존 파킨슨병 서적은 신경학적 치료에만 집중하고 장내 미생물의 역할을 다루지 않는다",
+      "reader": "40대 남성 파킨슨병 환자 및 가족",
+      "readerNeed": "파킨슨병 진행을 늦추고 일상 생활을 유지할 구체적인 관리법이 절실히 필요하다",
+      "marketGap": "장내 미생물 기반 예방·관리 전략이 구체적으로 제시된 서적이 현시점에 전무하다",
+      "differentiation": "미생물 조절 식단·운동·프로바이오틱스까지 단계별 실천 가이드를 제공한다",
+      "diff": "미생물 조절 식단·운동·프로바이오틱스까지 단계별 실천 가이드를 제공한다",
       "toc": [
-        "베트남 시장 개요와 기회 분석",
-        "현지 법률 체계와 주요 규제 이해",
-        "허가 절차와 필수 서류 작성 방법",
-        "실전 계약서 샘플과 템플릿 제공",
-        "체크리스트 활용 가이드와 업데이트 방법"
+        "장내 미생물과 파킨슨병의 과학적 연관성",
+        "예방을 위한 미생물 균형 맞추기 전략",
+        "일상에 적용 가능한 식단 설계 방법",
+        "운동과 생활 습관으로 미생물 관리하기",
+        "성공 사례와 체크리스트 활용법"
       ],
       "searchQueries": [
-        "베트남 진출 법률",
-        "해외 사업 체크리스트"
+        "파킨슨병 예방",
+        "장내 미생물 관리"
       ],
       "bookworthiness": {
-        "durability": "베트남 현지 규제는 6개월 이상 지속적으로 변동 가능성이 있어 지속적인 참고가 필요하다.",
-        "repeatNeed": "다양한 사업 분야에서 반복적으로 법률 검토가 필요해 수요가 꾸준히 발생한다.",
-        "expansionPotential": "추가 200쪽에 동남아 다른 국가별 법률 가이드와 사례를 포함해 확장 가능하다.",
-        "productDependency": "보통"
-      },
-      "authors": [
-        {
-          "name": "스타트업법률지원단",
-          "career": "《스타트업 법률가이드 3.0》 저자 · (주)박영사",
-          "why": "YES24에서 이 기획과 인접한 주제의 《스타트업 법률가이드 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/132950982",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김형규",
-          "career": "《성폭력 범죄 법률가이드》 저자 · 박영사",
-          "why": "YES24에서 이 기획과 인접한 주제의 《성폭력 범죄 법률가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/103737438",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김현준 등저",
-          "career": "《스타트업 CEO가 반드시 알아야 할 세금 노무 법률가이드》 저자 · 삼일인포마인",
-          "why": "YES24에서 이 기획과 인접한 주제의 《스타트업 CEO가 반드시 알아야 할 세금 노무 법률가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/89958917",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "스타트업법률지원단",
-      "bestAuthor": "스타트업법률지원단",
-      "authorBrief": "",
-      "headlineCopy": "베트남 진출, 법률 한 장으로 문제 해결",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "실수 없이 판단하고 싶다",
-          "바로 적용할 기준이 필요하다"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "“현지 법규 파악과 계약서 작성 시 겪는 복잡한 절차와 시간 부족”이라는 상황을 첫 문장에 제시한다.",
-        "trust": "현지 변호사와 협업한 실제 계약서 샘플과 체크리스트를 통해 신뢰성을 확보한다.",
-        "conversion": "무료 정보 나열이 아니라 실전 계약서 샘플과 체크리스트를 즉시 제공한다는 점을 강조한다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "N13 뉴스는 베트남 진출 기업이 법률 방패 한 권이면 문제를 해결한다는 점을 강조한다.",
-          "objection": "“이 정도는 인터넷 검색만으로도 알 수 있지 않나?”",
-          "solution": "목차와 상세 페이지에서 현지 변호사 인터뷰와 실무 사례를 구체적으로 제시한다."
-        },
-        "positioning": "베트남 진출 기업이 실무 위험을 최소화하고 빠르게 실행할 수 있도록 돕는 필수 가이드다."
-      },
-      "devilsEditor": {
-        "failureReason": "현지 규제 변동을 실시간으로 반영하지 못할 위험이 있다.",
-        "fix": "정기 업데이트 구독 서비스와 온라인 법률 포털 연동으로 최신 정보를 제공한다."
-      },
-      "scores": {
-        "market": 89,
-        "timing": 92,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 93,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "현지 법령 변동 시 최신 정보 유지가 어려울 수 있다.",
-      "riskResponse": "정기 업데이트 구독 서비스와 온라인 포털 연동을 제공한다.",
-      "judgment": "베트남 시장 진출을 고민하는 기업이 실무 위험을 최소화하고 빠르게 실행할 수 있어 출판 가치가 높다.",
-      "evidence": [
-        {
-          "text": "스타트업 법률가이드 3.0 — 스타트업법률지원단 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/132950982"
-        },
-        {
-          "text": "베트남 진출한 K-기업의 든든한 법률 방패…'이 책' 한 권이면 끝! - 대한민국 정책브리핑",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEdVeGZSR0VnVzdmcEVJM1NxVFNSMHVHbk96OG9rUWZDbWM1MUZqWURVWUY3NEpYdllNQm9STFhpRVVIMjFadDY3VzJyYkltR181Mk84MERiVHJfelZhRjBXc1lFd3RuOFo3OVRBd1pRdXpZY2xMOVBrc1hRbXlaOUJUVVdhbXc?oc=5"
-        },
-        {
-          "text": "엔터테인먼트 AI 법률가이드 — 법무법인(유한)신원 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/192089861"
-        },
-        {
-          "text": "성폭력 범죄 법률가이드 — 김형규 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/103737438"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "스타트업 법률가이드 3.0",
-          "author": "스타트업법률지원단 저",
-          "publisher": "(주)박영사",
-          "publicationDate": "20240901",
-          "url": "https://www.yes24.com/product/goods/132950982",
-          "matchedQuery": "법률가이드",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "엔터테인먼트 AI 법률가이드",
-          "author": "법무법인(유한)신원 저",
-          "publisher": "좋은피알",
-          "publicationDate": "20260615",
-          "url": "https://www.yes24.com/product/goods/192089861",
-          "matchedQuery": "법률가이드",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "성폭력 범죄 법률가이드",
-          "author": "김형규 저",
-          "publisher": "박영사",
-          "publicationDate": "20210910",
-          "url": "https://www.yes24.com/product/goods/103737438",
-          "matchedQuery": "법률가이드",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-03T00:02:10.518Z",
-        "queries": [
-          "베트남 진출 법률",
-          "해외 사업 체크리스트"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-03T00:19:25.815Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "베트남 진출 기업을 위한 법률 체크리스트 만들기",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "새로운 땅, 첫 계약서가 떨린다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "008",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "카페 창가에 놓인 베트남 법률 서류",
-            "body": "서류를 펼쳐 놓고 눈을 맞춘다",
-            "accent": "yellow",
-            "sceneId": "012",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "그때 마음은 무거운 구름처럼",
-            "body": "불안이 파도처럼 밀려온다",
-            "accent": "yellow",
-            "sceneId": "029",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 작은 체크리스트가 다리를 놓는다",
-            "body": "준비 하나가 길을 열어준다",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "그 과정을 받아들이면 배움이 된다",
-            "body": "천천히 받아들이며 나아가라",
-            "accent": "yellow",
-            "sceneId": "040",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "발걸음마다 흔적을 남긴다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "050",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-ad4f141c"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e78fe94c-0e6a-4ac4-a9ac-f0e387d947ae/duke_archives-of-the-anthropocene_sept26_courtney-l-baker+copy.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "duke archives of the anthropocene",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 예술성은 높으나, 실무 가이드 특유의 신뢰감과 가독성보다는 실험적 타이포그래피 중심의 레이아웃이다.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "law",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1521203808974-S45QL034BWN73XXIE5JN/abcd.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "ABCD Awards 2018",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "주제 연관성은 낮으나, 정보 전달 중심의 타이포그래피 배치와 그리드 활용은 실무 가이드북의 신뢰감을 높이는 데 유용함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 88,
-          "query": "law",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/43ac7906-afaf-4862-80de-fc3725d76395/california_bridge-to-an-unseen-shore_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "california bridge to an unseen shore",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 여백의 미를 활용해 전문 서적의 신뢰감과 정돈된 로드맵 이미지를 시각화하기에 적합함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "law",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e78fe94c-0e6a-4ac4-a9ac-f0e387d947ae/duke_archives-of-the-anthropocene_sept26_courtney-l-baker+copy.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "duke archives of the anthropocene",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 예술성은 높으나, 실무 가이드 특유의 신뢰감과 가독성보다는 실험적 타이포그래피 중심의 레이아웃이다.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "law",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1521203808974-S45QL034BWN73XXIE5JN/abcd.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "ABCD Awards 2018",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "주제 연관성은 낮으나, 정보 전달 중심의 타이포그래피 배치와 그리드 활용은 실무 가이드북의 신뢰감을 높이는 데 유용함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 88,
-          "query": "law",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/43ac7906-afaf-4862-80de-fc3725d76395/california_bridge-to-an-unseen-shore_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "california bridge to an unseen shore",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 여백의 미를 활용해 전문 서적의 신뢰감과 정돈된 로드맵 이미지를 시각화하기에 적합함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "law",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-ad4f141c",
-        "status": "ready",
-        "generatedAt": "2026-11-03T09:01:06.229Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "IT인프라",
-      "field": "IT인프라",
-      "title": "AI 데이터센터 구축 속도전 전략 매뉴얼",
-      "concept": "표준 모듈 설계와 공장 사전 제작, 현장 조립 프로세스를 단계별로 제시하고 비용·시간 절감 시뮬레이션 도구를 제공한다.",
-      "why": "N14 뉴스가 강조한 바와 같이 데이터센터 현장 지연이 큰 문제이며, 모듈화가 속도전 해결책이다.",
-      "competition": "기존 서적은 전통적인 현장 설계 중심으로 빠른 구축 방법을 다루지 않는다.",
-      "reader": "대기업 IT 인프라 담당자 및 데이터센터 프로젝트 매니저",
-      "readerNeed": "AI 데이터센터를 빠르게 구축해야 하는데 표준·모듈화 설계와 현장 조립 과정에서 일정 지연과 비용 초과 위험을 최소화하고 싶다.",
-      "marketGap": "AI 데이터센터 특화 모듈 설계와 현장 조립 노하우가 부족해 실질적인 가이드를 찾지 못한다.",
-      "differentiation": "공장 제작 모듈 도면, 현장 조립 체크리스트, 비용·시간 절감 시뮬레이션 툴을 제공해 즉시 적용 가능한 실전 도구를 제공한다.",
-      "diff": "공장 제작 모듈 도면, 현장 조립 체크리스트, 비용·시간 절감 시뮬레이션 툴을 제공해 즉시 적용 가능한 실전 도구를 제공한다.",
-      "toc": [
-        "속도전 데이터센터 개념과 필요성",
-        "표준 모듈 설계 원칙과 적용 방법",
-        "공장 사전 제작 프로세스와 관리",
-        "현장 조립 단계와 체크포인트",
-        "비용·시간 절감 시뮬레이션 사용법"
-      ],
-      "searchQueries": [
-        "AI 데이터센터 구축",
-        "데이터센터 모듈화"
-      ],
-      "bookworthiness": {
-        "durability": "AI 데이터센터 구축 일정 압박은 6개월 이상 지속돼 장기적인 참고 자료가 필요하다.",
-        "repeatNeed": "다수 프로젝트에서 반복적으로 모듈 설계와 조립 가이드가 요구돼 지속적인 수요가 있다.",
-        "expansionPotential": "추가 200쪽에 클라우드 인프라와 에너지 효율 설계 챕터를 포함해 확장 가능하다.",
-        "productDependency": "보통"
-      },
-      "authors": [
-        {
-          "name": "김주회",
-          "career": "《AI시대에 난생처음 들어보는 데이터센터 이야기》 저자 · 북플레이트",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI시대에 난생처음 들어보는 데이터센터 이야기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/188266803",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "이기수",
-          "career": "《AI 데이터센터, 국가 경쟁력의 심장》 저자 · 아키비스트웍스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 데이터센터, 국가 경쟁력의 심장》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/199614917",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "서승종",
-          "career": "《AI 데이터센터, 국가 경쟁력의 심장》 저자 · 아키비스트웍스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 데이터센터, 국가 경쟁력의 심장》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/199614917",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "김주회",
-      "bestAuthor": "김주회",
-      "authorBrief": "",
-      "headlineCopy": "AI 데이터센터, 속도전으로 완성",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "실수 없이 판단하고 싶다",
-          "바로 적용할 기준이 필요하다"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "“신규 AI 데이터센터를 빠르게 구축해야 하는데 표준·모듈화 설계와 현장 조립 과정에서 일정 지연과 비용 초과 위험이 있다”는 상황을 제시한다.",
-        "trust": "공장 제작 모듈 도면과 현장 체크리스트를 통해 실무 신뢰성을 확보한다.",
-        "conversion": "무료 정보 나열이 아니라 실제 모듈 도면과 시뮬레이션 툴을 즉시 제공한다는 점을 강조한다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "N14 뉴스는 표준·모듈화가 데이터센터 구축 속도전이라는 점을 강조한다.",
-          "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
-          "solution": "목차와 상세 페이지에서 공장 제작 모듈 설계와 현장 조립 체크리스트를 구체적으로 제시한다."
-        },
-        "positioning": "AI 인프라 수요 급증에 따라 빠른 구축이 필수이며, 현장 담당자에게 실전 매뉴얼은 큰 가치를 제공한다."
-      },
-      "devilsEditor": {
-        "failureReason": "표준 모듈 적용 범위가 제한적일 위험이 있다.",
-        "fix": "다양한 규모와 요구에 맞는 모듈 라인업을 추가해 적용 범위를 확대한다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 92,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 93,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "표준 모듈 적용 시 현장 맞춤형 요구와 충돌할 가능성이 있다.",
-      "riskResponse": "모듈 커스터마이징 옵션과 현장 피드백 루프를 구축한다.",
-      "judgment": "AI 인프라 수요 급증에 따라 빠른 구축이 필수이며, 실전 매뉴얼은 현장 담당자에게 큰 가치를 제공한다.",
-      "evidence": [
-        {
-          "text": "AI 데이터센터 구축 운영 매뉴얼 — 최상규 저(AI활용)",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/194522556"
-        },
-        {
-          "text": "AI 데이터센터 건설도 '속도전'건설연, 표준·모듈화로 공장서 만들고 현장서 조립 - 헬로디디",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01RlZ2dVc1TG5yWTR4TTM2a2hKOU1sYlRLbzFhZUc2dUhyVXphMUpZVTBxYWhmV0dBZkY2VGxLUnNGY1ZfRGxEa0gwdXMtT0hBampMRVhFekVFX2dKM2RJMUxydVRfRm9HRVE?oc=5"
-        },
-        {
-          "text": "AI시대 산업별 데이터센터 인프라 구축과 사이버침해 보안기술 분석 — R&D정보센터 편저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/152079522"
-        },
-        {
-          "text": "AI시대에 난생처음 들어보는 데이터센터 이야기 — 김주회 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/188266803"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 1,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "AI 데이터센터 구축 운영 매뉴얼",
-          "author": "최상규 저(AI활용)",
-          "publisher": "BOOKK(부크크)",
-          "publicationDate": "20260716",
-          "url": "https://www.yes24.com/product/goods/194522556",
-          "matchedQuery": "AI 데이터센터 구축",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI시대 산업별 데이터센터 인프라 구축과 사이버침해 보안기술 분석",
-          "author": "R&D정보센터 편저",
-          "publisher": "지식산업정보원",
-          "publicationDate": "20250704",
-          "url": "https://www.yes24.com/product/goods/152079522",
-          "matchedQuery": "AI 데이터센터 구축",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "AI시대에 난생처음 들어보는 데이터센터 이야기",
-          "author": "김주회 저",
-          "publisher": "북플레이트",
-          "publicationDate": "20260430",
-          "url": "https://www.yes24.com/product/goods/188266803",
-          "matchedQuery": "AI 데이터센터 구축",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-03T00:02:15.789Z",
-        "queries": [
-          "AI 데이터센터 구축",
-          "데이터센터 모듈화"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-03T09:01:03.107Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "AI 데이터센터 구축 속도전 전략 매뉴얼",
-        "provider": "rule-fallback",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "no-ai-copy",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "AI 데이터센터, 속도전으로 완성",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "005",
-            "sceneCategory": "cover",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "현장 조립 과정에서 일정 지연과 비용 초과 위험을 최소화하고 싶다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "013",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "단계별로 제시하고 비용·시간 절감 시뮬레이션 도구를 제공한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "데이터센터 현장 지연이 큰 문제이며, 모듈화가 속도전 해결책이다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "절감 시뮬레이션 툴을 제공해 즉시 적용 가능한 실전 도구를 제공한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix",
-            "source": "rule-fallback"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "표준 모듈 적용 범위가 제한적일 위험이 있다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "041",
-            "sceneCategory": "final",
-            "source": "rule-fallback"
-          }
-        ],
-        "sourceRevision": "zcr-ad4f141c"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/12063b90-fdde-4173-984b-81048decb32d/kentucky_carrying-the-bones_oct26_kat-lynch.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky carrying the bones",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 모듈화된 구조적 미학을 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/ad9ecd83-14a8-42f7-a9f1-4ae2865dfac6/kentucky_this-is-a-game-i-play_oct26_michel-vrana.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky this is a game i play",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "감성적 사진 중심의 레이아웃은 기술 매뉴얼과 거리가 멀지만, 여백을 활용한 타이포그래피 배치와 정갈한 구도는 전문 서적의 신뢰감을 높이는 데 참고할 만함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6cc6a24f-9171-4a72-a376-f642dbe0ec99/duke_ninety-nine_oct26_matthew-tauch_calligraphy-md-zahid-hasan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "duke ninety nine",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피와 여백의 대비를 통해 기술적 정밀함과 구조적 질서를 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/12063b90-fdde-4173-984b-81048decb32d/kentucky_carrying-the-bones_oct26_kat-lynch.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky carrying the bones",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 모듈화된 구조적 미학을 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/ad9ecd83-14a8-42f7-a9f1-4ae2865dfac6/kentucky_this-is-a-game-i-play_oct26_michel-vrana.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky this is a game i play",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "감성적 사진 중심의 레이아웃은 기술 매뉴얼과 거리가 멀지만, 여백을 활용한 타이포그래피 배치와 정갈한 구도는 전문 서적의 신뢰감을 높이는 데 참고할 만함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6cc6a24f-9171-4a72-a376-f642dbe0ec99/duke_ninety-nine_oct26_matthew-tauch_calligraphy-md-zahid-hasan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "duke ninety nine",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피와 여백의 대비를 통해 기술적 정밀함과 구조적 질서를 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-ad4f141c",
-        "status": "ready",
-        "generatedAt": "2026-11-03T09:01:10.335Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "마케팅전략",
-      "field": "마케팅전략",
-      "title": "크리에이터 마케팅으로 K뷰티 글로벌 진출 가속화법",
-      "concept": "현지 인기 크리에이터 선정 기준, 협업 프로세스, AI 기반 콘텐츠 제작 가이드와 ROI 측정 프레임워크를 제공해 단계별 실행 로드맵을 제시한다.",
-      "why": "N15 뉴스가 강조한 바와 같이 크리에이터 마케팅이 AI로 진입 장벽을 낮추고 K뷰티 글로벌 확산을 이끌고 있다.",
-      "competition": "기존 마케팅 서적은 전통 광고와 SNS 전략만 다루고 크리에이터와 AI 결합 실무가 부족하다.",
-      "reader": "K뷰티 브랜드 마케터 및 해외 진출 담당자",
-      "readerNeed": "글로벌 시장에서 현지 크리에이터와 협업하려 하지만 문화 차이와 효과 측정 방법을 몰라 실행에 어려움을 겪는다.",
-      "marketGap": "AI 기반 크리에이터 협업과 현지 문화 맞춤형 콘텐츠 제작 방법이 구체적으로 제시되지 않아 마케터가 시행착오를 겪는다.",
-      "differentiation": "AI 도구 활용 예시, 현지 크리에이터 데이터베이스, ROI 측정 템플릿을 제공해 바로 실행 가능한 실전 도구를 제공한다.",
-      "diff": "AI 도구 활용 예시, 현지 크리에이터 데이터베이스, ROI 측정 템플릿을 제공해 바로 실행 가능한 실전 도구를 제공한다.",
-      "toc": [
-        "K뷰티 글로벌 트렌드와 시장 분석",
-        "크리에이터 마케팅 기본 원리와 전략",
-        "AI 기반 콘텐츠 제작 도구 활용법",
-        "현지 문화 맞춤형 협업 프로세스",
-        "ROI 측정과 성과 관리 방법"
-      ],
-      "searchQueries": [
-        "K뷰티 크리에이터 마케팅",
-        "글로벌 뷰티 AI"
-      ],
-      "bookworthiness": {
-        "durability": "글로벌 뷰티 트렌드와 AI 활용은 6개월 이상 지속적인 변화를 겪어 장기 참고가 필요하다.",
-        "repeatNeed": "다양한 캠페인마다 반복적인 전략 수립이 필요해 지속적인 수요가 있다.",
-        "expansionPotential": "추가 200쪽에 아시아·유럽·미국 시장별 사례와 상세 실행 플랜을 포함해 확장 가능하다.",
+        "durability": "파킨슨병 예방과 관리 수요는 고령화와 함께 지속적으로 증가할 전망이다",
+        "repeatNeed": "새로운 연구 결과와 최신 관리법을 지속적으로 업데이트해야 하는 필요성이 있다",
+        "expansionPotential": "미생물과 신경질환 전반을 아우르는 시리즈로 확장 가능성이 높다",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "정진수",
-          "career": "《SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다》 저자 · 천그루숲+비즈니스맵",
-          "why": "YES24에서 이 기획과 인접한 주제의 《SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/66999871",
+          "name": "일파 합장",
+          "career": "《치매 파킨슨병 예방법》 저자 · 청어",
+          "why": "YES24에서 이 기획과 인접한 주제의 《치매 파킨슨병 예방법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/142068932",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "허팝",
-          "career": "《허팝만 따라 해봐! 유튜브 정석》 저자 · 한빛미디어",
-          "why": "YES24에서 이 기획과 인접한 주제의 《허팝만 따라 해봐! 유튜브 정석》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/91453517",
+          "name": "박주홍",
+          "career": "《뇌박사 박주홍의 파킨슨병 이야기》 저자 · 성안북스",
+          "why": "YES24에서 이 기획과 인접한 주제의 《뇌박사 박주홍의 파킨슨병 이야기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/91575563",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "안정기",
-          "career": "《허팝만 따라 해봐! 유튜브 정석》 저자 · 한빛미디어",
-          "why": "YES24에서 이 기획과 인접한 주제의 《허팝만 따라 해봐! 유튜브 정석》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/91453517",
+          "name": "최현숙 등저",
+          "career": "《알기 쉬운 미생물과 감염관리》 저자 · 의학교육",
+          "why": "YES24에서 이 기획과 인접한 주제의 《알기 쉬운 미생물과 감염관리》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/142611842",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "정진수",
-      "bestAuthor": "정진수",
+      "author": "일파 합장",
+      "bestAuthor": "일파 합장",
       "authorBrief": "",
-      "headlineCopy": "K뷰티, 크리에이터와 AI로 세계 정복",
+      "headlineCopy": "파킨슨병 예방, 장내 미생물 관리로 시작한다",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "실수 없이 판단하고 싶다",
-          "바로 적용할 기준이 필요하다"
+          "과학적 근거에 기반한 실천법을 원한다",
+          "바로 적용 가능한 구체적 지침이 필요하다"
         ],
         "quadrant": {
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "“글로벌 시장에서 크리에이터와 협업하려 하지만 현지 문화 차이와 효과 측정 방법을 몰라 실행에 어려움이 있다”는 상황을 제시한다.",
-        "trust": "AI 도구 활용 예시와 현지 크리에이터 데이터베이스를 통해 신뢰성을 확보한다.",
-        "conversion": "무료 정보 나열이 아니라 AI 도구와 ROI 템플릿을 즉시 제공한다는 점을 강조한다.",
+        "acquisition": "‘장내 미생물과 파킨슨병 연결’ 뉴스를 서두에 제시해 독자의 현재 고민을 즉시 끌어낸다",
+        "trust": "전문가 인터뷰·임상 사례·비교표를 통해 신뢰성을 강화한다",
+        "conversion": "무료 요약 대신 ‘단계별 관리 가이드’를 직접 체험하도록 유도한다",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "N15 뉴스는 크리에이터 마케팅이 AI로 진입 장벽을 낮추며 K뷰티 확산을 이끈다고 강조한다.",
-          "objection": "“이 정도는 검색하면 바로 알 수 있지 않나?”",
-          "solution": "목차와 상세 페이지에서 현지 크리에이터 선정 기준과 AI 협업 프로세스를 구체적으로 제시한다."
+          "problem": "미생물 관리가 실제 효과가 있는지 의문을 가질 수 있다",
+          "objection": "‘이미 검색하면 알 수 있지 않나’는 생각이 든다",
+          "solution": "목차와 서문에 임상 데이터와 성공 사례를 명시해 설득한다"
         },
-        "positioning": "글로벌 K뷰티 성장에 필수적인 최신 마케팅 전략으로, 실무 적용 가능성이 높아 출판 가치가 크다."
+        "positioning": "파킨슨병 예방을 위한 가장 실용적인 미생물 관리 서적으로 자리매김한다"
       },
       "devilsEditor": {
-        "failureReason": "AI 도구 적용 난이도가 과다해 독자가 활용하기 어려울 수 있다.",
-        "fix": "초보자용 단계별 튜토리얼과 영상 가이드를 추가한다."
+        "failureReason": "미생물 관리 내용이 부족하면 독자 신뢰가 떨어진다",
+        "fix": "최신 연구와 실제 사례를 추가해 내용 깊이를 보강한다"
       },
       "scores": {
         "market": 89,
         "timing": 92,
-        "difference": 95,
+        "difference": 87,
         "author": 86,
         "marketing": 96,
-        "longtail": 99
+        "longtail": 96
       },
-      "score": 93,
+      "score": 91,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "현지 크리에이터와 계약·저작권 분쟁 위험이 존재한다.",
-      "riskResponse": "표준 계약서와 저작권 관리 체크리스트를 제공한다.",
-      "judgment": "글로벌 K뷰티 성장에 필수적인 최신 마케팅 전략으로, 실무 적용 가능성이 높아 출판 가치가 크다.",
+      "risk": "미생물과 파킨슨병 관계가 복잡해 독자 이해가 어려울 수 있다",
+      "riskResponse": "쉽게 풀어쓴 설명과 시각 자료로 이해 장벽을 낮춘다",
+      "judgment": "과학적 근거와 실천 가이드를 동시에 제공해 차별화된 가치가 확실히 드러난다",
       "evidence": [
         {
-          "text": "SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다 — 정진수 저",
+          "text": "치매 파킨슨병 예방법 — 일파 합장 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/66999871"
+          "url": "https://www.yes24.com/product/goods/142068932"
         },
         {
-          "text": "K뷰티 글로벌 확산 이끈 크리에이터 마케팅…AI로 진입 장벽 낮춘다 - 어패럴뉴스",
+          "text": "장내 미생물과 파킨슨병 연결하는 새로운 기전 제시 - 재활뉴스",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jd045NTF3aDJNN0lOaWJub1VBdnM4ak1nNTVNM25hcXRsV0JWYVNVVGs3dDV0TVV4VHJBMndmTEZudWI0aGRLMk9CMnliNDN5M1ZxVXRkRzdBXzBUczRIVW5XeWdDMDBmY3BDY0pwcWxFMkhYM1Fz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sR0RucHNfY2pNNlZZczNOMWFXdU41M2s0Uy10Y2JrUFUxcGI5WWVCY0d0N3BWU0RCaTZWRVlPSkJZaUFWMmNQdmxYNzVTOWpkNHNDQXZIVmg1aWFHbTJpS1ZEMDJoN0NzZXZ3?oc=5"
         },
         {
-          "text": "허팝만 따라 해봐! 유튜브 정석 — 허팝,안정기 공저",
+          "text": "뇌박사 박주홍의 파킨슨병 이야기 — 박주홍 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/91453517"
+          "url": "https://www.yes24.com/product/goods/91575563"
         },
         {
-          "text": "크리에이터 커머스 — 서여주 저",
+          "text": "알기 쉬운 미생물과 감염관리 — 최현숙 등저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/195485719"
+          "url": "https://www.yes24.com/product/goods/142611842"
         }
       ],
       "sourceChannels": [
@@ -1192,40 +187,40 @@
       },
       "similarBooks": [
         {
-          "title": "SNS 마케팅 한 방에 따라잡기 + 크리에이터의 시대, 2019 SNS 트렌드를 읽다",
-          "author": "정진수 저",
-          "publisher": "천그루숲+비즈니스맵",
-          "publicationDate": "20181130",
-          "url": "https://www.yes24.com/product/goods/66999871",
-          "matchedQuery": "K뷰티 크리에이터 마케팅",
+          "title": "치매 파킨슨병 예방법",
+          "author": "일파 합장 저",
+          "publisher": "청어",
+          "publicationDate": "20250201",
+          "url": "https://www.yes24.com/product/goods/142068932",
+          "matchedQuery": "파킨슨병 예방",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "허팝만 따라 해봐! 유튜브 정석",
-          "author": "허팝,안정기 공저",
-          "publisher": "한빛미디어",
-          "publicationDate": "20200810",
-          "url": "https://www.yes24.com/product/goods/91453517",
-          "matchedQuery": "K뷰티 크리에이터 마케팅",
+          "title": "뇌박사 박주홍의 파킨슨병 이야기",
+          "author": "박주홍 저",
+          "publisher": "성안북스",
+          "publicationDate": "20200804",
+          "url": "https://www.yes24.com/product/goods/91575563",
+          "matchedQuery": "파킨슨병 예방",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "크리에이터 커머스",
-          "author": "서여주 저",
-          "publisher": "주식회사 백산출판사",
-          "publicationDate": "20260910",
-          "url": "https://www.yes24.com/product/goods/195485719",
-          "matchedQuery": "K뷰티 크리에이터 마케팅",
+          "title": "알기 쉬운 미생물과 감염관리",
+          "author": "최현숙 등저",
+          "publisher": "의학교육",
+          "publicationDate": "20250220",
+          "url": "https://www.yes24.com/product/goods/142611842",
+          "matchedQuery": "장내 미생물 관리",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-03T00:02:19.243Z",
+        "updatedAt": "2026-11-03T23:41:34.669Z",
         "queries": [
-          "K뷰티 크리에이터 마케팅",
-          "글로벌 뷰티 AI"
+          "파킨슨병 예방",
+          "장내 미생물 관리"
         ],
         "resultCount": 3,
         "errors": []
@@ -1234,339 +229,366 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-03T00:19:05.165Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "크리에이터 마케팅으로 K뷰티 글로벌 진출 가속화법",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "베트남 진출, 법률 체크 없이 가면 큰 손해다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "006",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "현지 계약서 작성에 시간도 없고, 규제는 헷갈리기만 한다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "024",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "허가 지연, 벌금 부과, 파트너 신뢰 하락을 겪고 있다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "023",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "이는 기본 법률 검토가 부족한 증거다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "즉시 현지 변호사와 체크리스트를 만들라",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "036",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "법률 준비 없이 성공은 없다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "044",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-ad4f141c"
+      "rank": 1
+    },
+    {
+      "type": "교육훈련",
+      "field": "교육훈련",
+      "title": "AI 콘텐츠 인재 양성 일본 연수 실전 매뉴얼",
+      "concept": "일본 현지 연수 설계·운영·성과 측정까지 단계별 체크리스트와 템플릿을 제공한다",
+      "why": "N16 기사에서 충남콘진원의 AI 인재 10명 일본 연수 사례가 소개돼 기업이 실효성 있는 연수 모델을 찾고 있다",
+      "competition": "일반 연수 서적은 현지 문화만 다루고 AI 교육 내용은 거의 포함하지 않는다",
+      "reader": "중소기업 인사 담당자와 AI 신입 인재",
+      "readerNeed": "해외 연수 기획과 현장 교육 효과를 극대화할 구체적 절차와 도구가 필요하다",
+      "marketGap": "AI 특화 연수 설계와 현장 적용 사례가 부족해 실무자가 혼란을 겪는다",
+      "differentiation": "연수 전후 교육 커리큘럼·성과 평가 도구를 템플릿 형태로 제공한다",
+      "diff": "연수 전후 교육 커리큘럼·성과 평가 도구를 템플릿 형태로 제공한다",
+      "toc": [
+        "연수 목표와 기대 효과 정의하기",
+        "일본 파트너 선정 및 협업 프로세스",
+        "AI 교육 커리큘럼 설계와 현지 적용",
+        "현장 실습과 피드백 관리 방안",
+        "성과 평가 모델과 ROI 계산법"
+      ],
+      "searchQueries": [
+        "AI 연수 일본",
+        "인재 양성 프로그램"
+      ],
+      "bookworthiness": {
+        "durability": "AI 기술 변화가 빠르지만 인재 양성 체계는 장기적으로 필요하다",
+        "repeatNeed": "연수 후 재교육과 업데이트가 지속적으로 요구돼 반복 구매가 가능하다",
+        "expansionPotential": "다양한 국가와 분야별 연수 매뉴얼로 200쪽 이상 확장 가능하다",
+        "productDependency": "낮음"
       },
-      "coverRefs": [
+      "authors": [
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f9eea4b6-a30d-4f0e-9da4-fde5bf049262/mcgill-queens_batten-down_oct26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "mcgill queens batten down",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피 배치와 여백의 대비를 통해 실무서의 전문성과 현대적 감각을 전달하는 레이아웃 원리로 참고 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "아우티스",
+          "career": "《딱 1주일 일본어학연수 다녀오겠습니다》 저자 · 미다스북스(리틀미다스)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《딱 1주일 일본어학연수 다녀오겠습니다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/198057172",
+          "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피 배치와 대비되는 색감은 실무서의 전문성과 주목도를 높이는 레이아웃 원리로 활용 가능함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "편집부",
+          "career": "《일본어학연수기관》 저자 · 프라다 출판사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《일본어학연수기관》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/1385184",
+          "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/97b2337f-8d81-4ee5-aa8a-48e2a740275f/newsouth_the-lady-with-the-dog_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "newsouth the lady with the dog",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "감성적 일러스트 중심의 디자인으로, 실무 중심의 마케팅 서적과는 결이 다르나 과감한 레이아웃과 색감 대비의 시각적 원리는 참고할 가치가 있음.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "이수희",
+          "career": "《일본 맞짱 뜨기》 저자 · 아이생각(디지털북스)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《일본 맞짱 뜨기》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/8282612",
+          "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "coverReferences": [
+      "author": "아우티스",
+      "bestAuthor": "아우티스",
+      "authorBrief": "",
+      "headlineCopy": "AI 인재, 일본 연수로 실전 역량을 키운다",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "실수 없이 연수 계획을 수립하고 싶다",
+          "바로 적용 가능한 구체적 템플릿이 필요하다"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "‘AI 인재 일본 연수 사례’ 를 서두에 제시해 독자의 현재 고민을 즉시 반영한다",
+        "trust": "성공 기업 인터뷰·ROI 모델·비교표로 신뢰성을 확보한다",
+        "conversion": "무료 정보 나열이 아니라 ‘전·후 교육 템플릿 제공’을 강조해 구매를 유도한다",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "연수 비용 대비 효과가 불투명하다고 생각할 수 있다",
+          "objection": "‘이 정도는 인터넷에 있지 않나’는 의구심이 든다",
+          "solution": "목차와 서문에 구체적인 ROI 사례와 비용 절감 포인트를 제시한다"
+        },
+        "positioning": "AI 인재 양성을 위한 가장 실용적인 일본 연수 매뉴얼로 차별화한다"
+      },
+      "devilsEditor": {
+        "failureReason": "연수 사례가 부족하면 설득력이 약해진다",
+        "fix": "다양한 기업 사례와 인터뷰를 추가해 실증성을 강화한다"
+      },
+      "scores": {
+        "market": 89,
+        "timing": 92,
+        "difference": 87,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 96
+      },
+      "score": 91,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "연수 비용 대비 성과가 불확실해 투자 회의가 어려울 수 있다",
+      "riskResponse": "ROI 계산 모델과 성공 사례를 제시해 위험을 최소화한다",
+      "judgment": "실제 연수 사례와 검증된 템플릿을 제공해 기업이 즉시 실행 가능한 가치를 만든다",
+      "evidence": [
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f9eea4b6-a30d-4f0e-9da4-fde5bf049262/mcgill-queens_batten-down_oct26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "mcgill queens batten down",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피 배치와 여백의 대비를 통해 실무서의 전문성과 현대적 감각을 전달하는 레이아웃 원리로 참고 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "딱 1주일 일본어학연수 다녀오겠습니다 — 아우티스 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/198057172"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피 배치와 대비되는 색감은 실무서의 전문성과 주목도를 높이는 레이아웃 원리로 활용 가능함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 94,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "충남콘진원, AI 콘텐츠 인재 10명 일본 연수 - 지디넷코리아",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdEowc1pVWUU0N1luWjk1eVpuWUFaUTF6WmkwR25DejRBMHUtZHNpcjE0YzJ0MmQxNmNxMFFuellEZV9SNHU0c004RXVJY0w4RTJtYmtR?oc=5"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/97b2337f-8d81-4ee5-aa8a-48e2a740275f/newsouth_the-lady-with-the-dog_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "newsouth the lady with the dog",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "감성적 일러스트 중심의 디자인으로, 실무 중심의 마케팅 서적과는 결이 다르나 과감한 레이아웃과 색감 대비의 시각적 원리는 참고할 가치가 있음.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "artificial intelligence data numbers",
-          "sourceRevision": "zcr-ad4f141c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "일본어학연수기관 — 편집부",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/1385184"
+        },
+        {
+          "text": "일본 맞짱 뜨기 — 이수희 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/8282612"
         }
       ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-ad4f141c",
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 90,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 2,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "딱 1주일 일본어학연수 다녀오겠습니다",
+          "author": "아우티스 저",
+          "publisher": "미다스북스(리틀미다스)",
+          "publicationDate": "20261028",
+          "url": "https://www.yes24.com/product/goods/198057172",
+          "matchedQuery": "AI 연수 일본",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "일본어학연수기관",
+          "author": "편집부",
+          "publisher": "프라다 출판사",
+          "publicationDate": "20040501",
+          "url": "https://www.yes24.com/product/goods/1385184",
+          "matchedQuery": "AI 연수 일본",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "일본 맞짱 뜨기",
+          "author": "이수희 저",
+          "publisher": "아이생각(디지털북스)",
+          "publicationDate": "20130110",
+          "url": "https://www.yes24.com/product/goods/8282612",
+          "matchedQuery": "AI 연수 일본",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
         "status": "ready",
-        "generatedAt": "2026-11-03T09:01:15.328Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-11-03T23:41:37.007Z",
+        "queries": [
+          "AI 연수 일본",
+          "인재 양성 프로그램"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 2
+    },
+    {
+      "type": "사회연구",
+      "field": "사회연구",
+      "title": "불평등 지리 분석으로 지역 정책 설계하기",
+      "concept": "GIS 활용과 정책 시뮬레이션 템플릿을 통해 지역 불평등 데이터를 바로 정책에 연결한다",
+      "why": "N13 기사에서 ‘불평등의 지리’가 올해의 책으로 선정돼 지역 격차 해소에 관심이 급증하고 있다",
+      "competition": "기존 정책 서적은 이론 중심이라 현장 적용 도구와 절차를 제공하지 않는다",
+      "reader": "지방 공무원 및 지역 개발 컨설턴트",
+      "readerNeed": "데이터 시각화와 정책 연결 단계에서 바로 활용 가능한 분석 도구와 절차가 필요하다",
+      "marketGap": "GIS 시각화와 정책 시뮬레이션을 결합한 실무 매뉴얼이 부족해 실무자가 바로 적용하기 어렵다",
+      "differentiation": "GIS 툴 활용법과 정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다",
+      "diff": "GIS 툴 활용법과 정책 시뮬레이션 템플릿을 제공해 즉시 현장 적용이 가능하도록 만든다",
+      "toc": [
+        "불평등 지리 개념과 핵심 지표 정리",
+        "공공 데이터 수집·정제와 품질 관리",
+        "GIS 기반 시각화 기법과 실습 예시",
+        "정책 시뮬레이션 모델 설계와 적용",
+        "실제 적용 사례와 결과 분석"
+      ],
+      "searchQueries": [
+        "지역 불평등 분석",
+        "정책 GIS 활용"
+      ],
+      "bookworthiness": {
+        "durability": "지역 격차는 장기적 문제라 정책 수요는 지속적으로 유지된다",
+        "repeatNeed": "정기적 데이터 업데이트와 정책 재검토가 필요해 반복 구매가 기대된다",
+        "expansionPotential": "다른 국가·분야의 불평등 분석을 포함해 200쪽 이상 확장 가능하다",
+        "productDependency": "낮음"
+      },
+      "authors": [
+        {
+          "name": "김양희",
+          "career": "《국가균형발전모델의 성 주류화 전략 개발》 저자 · 한국여성정책연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《국가균형발전모델의 성 주류화 전략 개발》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/2811982",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "장미혜",
+          "career": "《국가균형발전모델의 성 주류화 전략 개발》 저자 · 한국여성정책연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《국가균형발전모델의 성 주류화 전략 개발》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/2811982",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김경희 등저",
+          "career": "《국가균형발전모델의 성 주류화 전략 개발》 저자 · 한국여성정책연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《국가균형발전모델의 성 주류화 전략 개발》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/2811982",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "김양희",
+      "bestAuthor": "김양희",
+      "authorBrief": "",
+      "headlineCopy": "불평등 지도, 정책으로 직접 바꾼다",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "실수 없이 데이터 분석을 하고 싶다",
+          "바로 적용 가능한 정책 도구가 필요하다"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "‘불평등 데이터와 정책 적용 필요성’ 을 서두에 제시해 독자의 현재 상황을 정확히 반영한다",
+        "trust": "실제 공공 데이터 활용 사례·비교표·체크리스트로 신뢰성을 높인다",
+        "conversion": "무료 정보 나열이 아니라 ‘GIS와 정책 시뮬레이션 템플릿 제공’을 강조해 구매를 유도한다",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "데이터 접근성과 분석 난이도가 높아 포기할 수 있다",
+          "objection": "‘이 정도는 스스로 찾아볼 수 있지 않나’는 생각이 든다",
+          "solution": "목차와 서문에 단계별 스크린샷과 용어 사전을 포함해 접근성을 높인다"
+        },
+        "positioning": "지역 격차 해소를 위한 가장 실용적인 GIS·정책 매뉴얼로 차별화한다"
+      },
+      "devilsEditor": {
+        "failureReason": "전문 용어와 툴 설명이 부족하면 독자 이해가 저하된다",
+        "fix": "툴 사용 단계별 스크린샷과 용어 사전을 추가해 가독성을 높인다"
+      },
+      "scores": {
+        "market": 89,
+        "timing": 92,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 93,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "공공 데이터 접근성 문제와 분석 복잡도가 독자 진입 장벽이 될 수 있다",
+      "riskResponse": "대체 지표와 데이터 활용 가이드를 제공해 문제를 해결한다",
+      "judgment": "데이터 시각화와 정책 시뮬레이션을 동시에 제공해 실무자가 바로 활용 가능한 차별화된 가치를 만든다",
+      "evidence": [
+        {
+          "text": "국가균형발전모델의 성 주류화 전략 개발 — 김양희,장미혜,김경희 등저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/2811982"
+        },
+        {
+          "text": "‘불평등의 지리’ ‘만해 용운당전서’ 한국출판학회 ‘올해의 책’ 선정 - 경향신문",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OVGVJZ2VzbTgyd1lZMDhXcHZFa1c0S1JlMHhKSXJvWjFWa2lGWkhxaU1vZ1pMTGdTUlFhTE41SkdDMC1FaTFqcGZyZldoNUN1bGt3RDdLeVVBVE9CNHkw0gFfQVVfeXFMTU5UZUlnZXNtODJ3WVkwOFdwdkVrVzRLUmUweEpJcm9aMVZraUZaSHFpTW9nWkxMZ1NSUWFMTjVKR0MwLUVpMWpwZnJmV2g1Q3Vsa3dEN0t5VUFUT0I0eTA?oc=5"
+        },
+        {
+          "text": "돈이 되네? 주문과 매출이 동시에 터지는 스마트스토어+쿠팡 [AI 실전 활용, 2026년 정책 반영] — 김경은(단아쌤) 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/192695313"
+        },
+        {
+          "text": "재난안전정책의 효과적 의사결정을 위한 AI 활용방안 연구 — 류현숙 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/187782069"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "국가균형발전모델의 성 주류화 전략 개발",
+          "author": "김양희,장미혜,김경희 등저",
+          "publisher": "한국여성정책연구원",
+          "publicationDate": "20071228",
+          "url": "https://www.yes24.com/product/goods/2811982",
+          "matchedQuery": "지역 불평등 분석",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "돈이 되네? 주문과 매출이 동시에 터지는 스마트스토어+쿠팡 [AI 실전 활용, 2026년 정책 반영]",
+          "author": "김경은(단아쌤) 저",
+          "publisher": "골든래빗",
+          "publicationDate": "20260707",
+          "url": "https://www.yes24.com/product/goods/192695313",
+          "matchedQuery": "정책 GIS 활용",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "재난안전정책의 효과적 의사결정을 위한 AI 활용방안 연구",
+          "author": "류현숙 저",
+          "publisher": "한국행정연구원",
+          "publicationDate": "20251231",
+          "url": "https://www.yes24.com/product/goods/187782069",
+          "matchedQuery": "정책 GIS 활용",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-11-03T23:41:38.794Z",
+        "queries": [
+          "지역 불평등 분석",
+          "정책 GIS 활용"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 3
     }
   ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261103-394ac081",
-    "file": "cardnews/2026-11-03.json",
-    "cardCount": 6
-  },
   "fallback": true
 }
