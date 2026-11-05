@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 06. 오전 02:33:10",
+  "updatedAt": "2026. 11. 06. 오전 07:50:21",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -36,18 +36,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html",
-          "title": "경제성장률 3.6% 전망에도…소비·청년고용 다 얼었다",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T18:31:00Z",
-          "publishedAt": "2026-11-02T18:31:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html"
-        },
-        {
           "id": "https://zdnet.co.kr/view/?no=20261105214435",
           "title": "SK쉴더스, 이륜차·VR 교육 강화",
           "source": "zdnet.co.kr",
@@ -60,6 +48,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261105214435",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/area/area_general/1285988.html",
+          "title": "‘정신건강 위기’ 소방관 여전히 많은데…정부, 내년도 마음치유 예산 동결",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T09:17:00Z",
+          "publishedAt": "2026-11-05T09:17:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1285988.html"
         },
         {
           "id": "https://seoul.co.kr:443/news/politics/president/2026/11/04/20261104500036",
@@ -110,6 +110,18 @@
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280950&CMPT_CD=PT004"
         },
         {
+          "id": "https://www.sidae.com/article/2026110413261742772",
+          "title": "[근거에 기반한 시대건강 120]⑤매일 30분 운동 VS 주말에 몰아서 하기, 효과는",
+          "source": "sidae.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T22:47:00Z",
+          "publishedAt": "2026-11-05T22:47:00Z",
+          "summary": "",
+          "url": "https://www.sidae.com/article/2026110413261742772"
+        },
+        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229296",
           "title": "임세원법 있어도 의료진 폭행 매년 1700건…\"금속탐지기 도입\"",
           "source": "mbn.co.kr",
@@ -122,18 +134,6 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229296",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261105001435",
-          "title": "홍지선 국토부 장관 \"집값 하락 희망 보인다…서울시도 공급 확대 동참해야\"",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-05",
-          "dateRaw": "2026-11-05T09:16:00Z",
-          "publishedAt": "2026-11-05T09:16:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261105001435"
         }
       ],
       "keywords": [
@@ -143,11 +143,15 @@
         },
         {
           "word": "주거",
-          "count": 3
+          "count": 2
         },
         {
           "word": "청년",
-          "count": 3
+          "count": 2
+        },
+        {
+          "word": "정신건강",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -247,18 +251,6 @@
           "url": "https://www.etoday.co.kr/news/view/2643571"
         },
         {
-          "id": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/",
-          "title": "“제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라”",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T18:32:00Z",
-          "publishedAt": "2026-11-02T18:32:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/11/03/MRTDMM3CHEZGCNRVMM2GKOLDMU/"
-        },
-        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229284",
           "title": "투자 유치한다더니…혈세로 메운 땅에 꽃밭에 텃밭만",
           "source": "mbn.co.kr",
@@ -283,6 +275,18 @@
           "publishedAt": "2026-11-05T09:17:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261105001409"
+        },
+        {
+          "id": "http://kr.xinhuanet.com/20261105/b3f617a923f849c7959eacacff430171/c.html",
+          "title": "美 중간선거 여론조사, 유권자 75% 경제 상황에 '불만'...생계비 문제가 표심 좌우",
+          "source": "kr.xinhuanet.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T02:02:00Z",
+          "publishedAt": "2026-11-05T02:02:00Z",
+          "summary": "",
+          "url": "http://kr.xinhuanet.com/20261105/b3f617a923f849c7959eacacff430171/c.html"
         }
       ],
       "keywords": [
@@ -292,10 +296,6 @@
         },
         {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "금리",
           "count": 1
         },
         {
@@ -312,10 +312,6 @@
         },
         {
           "word": "인력",
-          "count": 1
-        },
-        {
-          "word": "환율",
           "count": 1
         }
       ],
@@ -366,16 +362,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12193908",
-          "title": "반도체만 보는 이들이 놓치는 것들…“AI 투자, 지도부터 그려라” [한눈에 보는 AI 투자지도]",
+          "id": "https://www.mk.co.kr/news/business/12198576",
+          "title": "‘HBM 아버지’ 김정호 카이스트 교수 AI 에이전트 도입 반도체 설계 사례 공개",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T20:47:07Z",
-          "publishedAt": "2026-11-02T20:47:07Z",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T16:44:40Z",
+          "publishedAt": "2026-11-05T16:44:40Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12193908",
+          "url": "https://www.mk.co.kr/news/business/12198576",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -390,6 +386,18 @@
           "publishedAt": "2026-11-05T09:17:00Z",
           "summary": "",
           "url": "https://kbench.com/?q=node/283096"
+        },
+        {
+          "id": "http://inews24.com/view/2023116",
+          "title": "[데스크칼럼] 'AI 데이터센터'는 쌓이는데, 전기는 누가 책임지나",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T22:47:00Z",
+          "publishedAt": "2026-11-05T22:47:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2023116"
         },
         {
           "id": "https://www.fnnews.com/news/202611041618545109",
@@ -416,18 +424,6 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026110414563653015"
         },
         {
-          "id": "http://inews24.com/view/2022539",
-          "title": "로봇이 수소차 충전구 열고 커넥터 체결…현대차그룹이 그린 ‘AI 수소도시’[현장]",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-04",
-          "dateRaw": "2026-11-04T08:02:00Z",
-          "publishedAt": "2026-11-04T08:02:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2022539"
-        },
-        {
           "id": "https://www.newspim.com/news/view/20261104001088",
           "title": "AMD·퓨리오사AI·망고부스트, AI 반도체 통합 인프라 구축 협력",
           "source": "newspim.com",
@@ -440,38 +436,34 @@
           "url": "https://www.newspim.com/news/view/20261104001088"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10925656",
-          "title": "“9회 경기 중 2회쯤에 와 있어”…모건스탠리 CEO, AI 투자 ‘의미심장’ 진단",
+          "id": "https://biz.heraldcorp.com/article/10927786",
+          "title": "나스닥은 5.5%·반도체는 무려 ‘12%’ 폭락…국장 보기 무섭네 [투자360]",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-04",
-          "dateRaw": "2026-11-04T08:02:00Z",
-          "publishedAt": "2026-11-04T08:02:00Z",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T22:47:00Z",
+          "publishedAt": "2026-11-05T22:47:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10925656"
+          "url": "https://biz.heraldcorp.com/article/10927786"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 12
+          "count": 10
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "데이터센터",
-          "count": 2
+          "count": 3
         },
         {
           "word": "전력",
           "count": 2
-        },
-        {
-          "word": "로봇",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -529,18 +521,6 @@
           "publishedAt": "2026-11-03T16:01:00Z",
           "summary": "",
           "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/03/the-erp-migration-blind-spots-that-technology-alone-cant-fix/"
-        },
-        {
-          "id": "https://www.thehindu.com/incoming/many-uk-social-care-migrant-workers-to-get-pr-in-five-years-under-softer-immigration-overhaul/article71658231.ece",
-          "title": "Many U.K. social care migrant workers to get PR in five years under softer immigration overhaul",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-02",
-          "dateRaw": "2026-11-02T18:31:00Z",
-          "publishedAt": "2026-11-02T18:31:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/incoming/many-uk-social-care-migrant-workers-to-get-pr-in-five-years-under-softer-immigration-overhaul/article71658231.ece"
         },
         {
           "id": "http://www.greenvillebusinessmag.com/stories/wechter-named-interim-director-of-clemsons-sandhill-research-and-education-center,62703",
@@ -601,16 +581,28 @@
           "publishedAt": "2026-11-03T21:32:00Z",
           "summary": "",
           "url": "https://talkradio1080.iheart.com/content/2026-11-03-bomb-threats-reported-at-elementary-school-polling-stations-in-ohio/"
+        },
+        {
+          "id": "https://newsradiowkcy.iheart.com/content/2026-11-03-bomb-threats-reported-at-elementary-school-polling-stations-in-ohio/",
+          "title": "Bomb Threats Reported At Elementary School Polling Stations In Ohio | NewsRadio WKCY - 107.9 FM",
+          "source": "newsradiowkcy.iheart.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-03",
+          "dateRaw": "2026-11-03T21:31:00Z",
+          "publishedAt": "2026-11-03T21:31:00Z",
+          "summary": "",
+          "url": "https://newsradiowkcy.iheart.com/content/2026-11-03-bomb-threats-reported-at-elementary-school-polling-stations-in-ohio/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "이민",
-          "count": 4
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -704,6 +696,18 @@
           "url": "https://www.equitybulls.com/news/378429/v-mart-retail-reports-strong-q2-fy27-performance-with-18-revenue-growth-and-20-g"
         },
         {
+          "id": "https://www.wdio.com/ap-top-news/carney-unveils-budget-to-strengthen-canadas-economy-as-trumps-trade-war-continues/",
+          "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues",
+          "source": "wdio.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-05",
+          "dateRaw": "2026-11-05T22:47:00Z",
+          "publishedAt": "2026-11-05T22:47:00Z",
+          "summary": "",
+          "url": "https://www.wdio.com/ap-top-news/carney-unveils-budget-to-strengthen-canadas-economy-as-trumps-trade-war-continues/"
+        },
+        {
           "id": "https://www.thehindu.com/brandhub/pr-release/trex-energy-commissions-bess-manufacturing-facility-in-hyderabad/article71669101.ece",
           "title": "TREX Energy Commissions BESS Manufacturing Facility in Hyderabad",
           "source": "thehindu.com",
@@ -726,39 +730,23 @@
           "publishedAt": "2026-11-04T21:47:00Z",
           "summary": "",
           "url": "https://www.stuttgartdailyleader.com/arkansas-rice-leaders-warn-of-rising-imports-economic-strain-during-roundtable-with-boozman/"
-        },
-        {
-          "id": "https://blueprint.ng/dantsoho-fgs-policies-boost-export-growth-by-25-in-two-years/",
-          "title": "Dantsoho: FG's policies boost export growth by 25% in two years - Blueprint Newspapers Limited",
-          "source": "blueprint.ng",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-04",
-          "dateRaw": "2026-11-04T08:01:00Z",
-          "publishedAt": "2026-11-04T08:01:00Z",
-          "summary": "",
-          "url": "https://blueprint.ng/dantsoho-fgs-policies-boost-export-growth-by-25-in-two-years/"
         }
       ],
       "keywords": [
         {
+          "word": "무역",
+          "count": 3
+        },
+        {
           "word": "성장",
-          "count": 4
+          "count": 3
         },
         {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "무역",
-          "count": 2
-        },
-        {
           "word": "관세",
-          "count": 1
-        },
-        {
-          "word": "수출",
           "count": 1
         },
         {
@@ -918,9 +906,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1474,
-    "fetchedItems": 6765,
-    "feedBytes": 1949887,
+    "poolSize": 1501,
+    "fetchedItems": 4212,
+    "feedBytes": 1145780,
     "rollingWindowHours": 72
   }
 }
