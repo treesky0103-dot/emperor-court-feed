@@ -6,14 +6,14 @@
   "paidApi": false,
   "searchApi": false,
   "aiTokens": false,
-  "mode": "retry",
-  "runDateKst": "2026-11-04",
-  "updatedAt": "2026-11-04T06:38:36.078996Z",
-  "updatedAtKorea": "2026. 11. 04. 15:38:36 KST",
+  "mode": "primary",
+  "runDateKst": "2026-11-05",
+  "updatedAt": "2026-11-05T01:27:45.841425Z",
+  "updatedAtKorea": "2026. 11. 05. 10:27:45 KST",
   "count": 15,
   "successCount": 15,
-  "freshSuccessCount": 15,
-  "staleCount": 0,
+  "freshSuccessCount": 14,
+  "staleCount": 1,
   "institutions": [
     {
       "id": "mgi",
@@ -23,9 +23,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:19:28.190871Z",
+      "fetchedAt": "2026-11-05T01:27:10.298423Z",
       "sourceUrl": "https://www.mckinsey.com/mgi/overview?content_language=English",
-      "lastAttemptAt": "2026-11-04T01:19:25.834856Z",
+      "lastAttemptAt": "2026-11-05T01:27:09.846357Z",
       "error": ""
     },
     {
@@ -36,9 +36,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:19:55.250301Z",
+      "fetchedAt": "2026-11-05T01:27:16.654104Z",
       "sourceUrl": "https://www.bcg.com/bcg-institute",
-      "lastAttemptAt": "2026-11-04T01:19:28.991459Z",
+      "lastAttemptAt": "2026-11-05T01:27:11.099048Z",
       "error": ""
     },
     {
@@ -49,9 +49,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:19:56.726414Z",
+      "fetchedAt": "2026-11-05T01:27:18.042648Z",
       "sourceUrl": "https://www.nri.com/en/knowledge",
-      "lastAttemptAt": "2026-11-04T01:19:56.050869Z",
+      "lastAttemptAt": "2026-11-05T01:27:17.454737Z",
       "error": ""
     },
     {
@@ -62,9 +62,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:19:57.869330Z",
+      "fetchedAt": "2026-11-05T01:27:19.366928Z",
       "sourceUrl": "https://www.csis.org/analysis",
-      "lastAttemptAt": "2026-11-04T01:19:57.526933Z",
+      "lastAttemptAt": "2026-11-05T01:27:18.843162Z",
       "error": ""
     },
     {
@@ -75,9 +75,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:19:58.883006Z",
+      "fetchedAt": "2026-11-05T01:27:20.353750Z",
       "sourceUrl": "https://www.rand.org/pubs.html",
-      "lastAttemptAt": "2026-11-04T01:19:58.669781Z",
+      "lastAttemptAt": "2026-11-05T01:27:20.167488Z",
       "error": ""
     },
     {
@@ -88,9 +88,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:01.369971Z",
+      "fetchedAt": "2026-11-05T01:27:22.786770Z",
       "sourceUrl": "https://en.drc.gov.cn/",
-      "lastAttemptAt": "2026-11-04T01:19:59.683667Z",
+      "lastAttemptAt": "2026-11-05T01:27:21.154454Z",
       "error": ""
     },
     {
@@ -101,9 +101,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:03.923294Z",
+      "fetchedAt": "2026-11-05T01:27:25.183733Z",
       "sourceUrl": "https://ir.mri.co.jp/ja/news.html",
-      "lastAttemptAt": "2026-11-04T01:20:02.173727Z",
+      "lastAttemptAt": "2026-11-05T01:27:23.587451Z",
       "error": ""
     },
     {
@@ -114,9 +114,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:05.217295Z",
+      "fetchedAt": "2026-11-05T01:27:26.346093Z",
       "sourceUrl": "https://www.chathamhouse.org/path/whatsnew.xml",
-      "lastAttemptAt": "2026-11-04T01:20:04.723951Z",
+      "lastAttemptAt": "2026-11-05T01:27:25.984301Z",
       "error": ""
     },
     {
@@ -127,9 +127,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 2,
-      "fetchedAt": "2026-11-04T01:20:09.713286Z",
+      "fetchedAt": "2026-11-05T01:27:31.444296Z",
       "sourceUrl": "https://beach.bruegel.org/",
-      "lastAttemptAt": "2026-11-04T01:20:06.018066Z",
+      "lastAttemptAt": "2026-11-05T01:27:27.146628Z",
       "error": ""
     },
     {
@@ -140,23 +140,23 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:10.902515Z",
+      "fetchedAt": "2026-11-05T01:27:32.570370Z",
       "sourceUrl": "https://www.cfr.org/latest",
-      "lastAttemptAt": "2026-11-04T01:20:10.513900Z",
+      "lastAttemptAt": "2026-11-05T01:27:32.244845Z",
       "error": ""
     },
     {
       "id": "orf",
       "institution": "Observer Research Foundation",
       "ok": true,
-      "fetchOk": true,
+      "fetchOk": false,
       "hasData": true,
-      "stale": false,
+      "stale": true,
       "itemCount": 10,
       "fetchedAt": "2026-11-04T01:20:12.666307Z",
       "sourceUrl": "https://www.orfonline.org/all-updates",
-      "lastAttemptAt": "2026-11-04T01:20:11.703176Z",
-      "error": ""
+      "lastAttemptAt": "2026-11-05T01:27:33.370955Z",
+      "error": "62:1105/012736.887580:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files [3062:3062:1105/012736.892594:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: [3062:3085:1105/012736.893255:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\") [3062:3062:1105/012736.922177:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: [3062:3085:1105/012736.922277:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\") [3062:3062:1105/012736.942405:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type:"
     },
     {
       "id": "lowy",
@@ -166,9 +166,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:14.468454Z",
+      "fetchedAt": "2026-11-05T01:27:39.558907Z",
       "sourceUrl": "https://www.lowyinstitute.org/",
-      "lastAttemptAt": "2026-11-04T01:20:13.466904Z",
+      "lastAttemptAt": "2026-11-05T01:27:38.521912Z",
       "error": ""
     },
     {
@@ -179,9 +179,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:18.746093Z",
+      "fetchedAt": "2026-11-05T01:27:42.462646Z",
       "sourceUrl": "https://portal.fgv.br/en/news",
-      "lastAttemptAt": "2026-11-04T01:20:15.269333Z",
+      "lastAttemptAt": "2026-11-05T01:27:40.359414Z",
       "error": ""
     },
     {
@@ -192,9 +192,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:20.426795Z",
+      "fetchedAt": "2026-11-05T01:27:44.100639Z",
       "sourceUrl": "https://issafrica.org/iss-today",
-      "lastAttemptAt": "2026-11-04T01:20:19.546714Z",
+      "lastAttemptAt": "2026-11-05T01:27:43.263532Z",
       "error": ""
     },
     {
@@ -205,9 +205,9 @@
       "hasData": true,
       "stale": false,
       "itemCount": 10,
-      "fetchedAt": "2026-11-04T01:20:21.850431Z",
+      "fetchedAt": "2026-11-05T01:27:45.840255Z",
       "sourceUrl": "https://portal.cigionline.org/",
-      "lastAttemptAt": "2026-11-04T01:20:21.227393Z",
+      "lastAttemptAt": "2026-11-05T01:27:44.901439Z",
       "error": ""
     }
   ]
