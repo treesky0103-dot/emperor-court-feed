@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 07. 오전 02:38:36",
+  "updatedAt": "2026. 11. 07. 오전 07:23:33",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 387,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
+    "raw": 477,
+    "passed": 11,
+    "deduped": 11,
+    "eventDeduped": 11,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth",
+      "title": "Spectrum overhauls operating model in bid to reignite growth",
+      "source": "lightreading.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T22:17:00Z",
+      "publishedAt": "2026-11-06T22:17:00Z",
+      "summary": "",
+      "url": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
+    },
     {
       "id": "https://www.sify.com/technology/layoffs-surviving-the-new-age-workplace/",
       "title": "Layoffs: Surviving the new-age workplace! - Sify",
@@ -124,21 +136,21 @@
       "publishedAt": "2026-11-06T10:16:00Z",
       "summary": "",
       "url": "https://www.foodnavigator.com/Article/2026/11/05/diageo-can-price-cuts-and-restructure-get-it-back-on-track/"
-    },
-    {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026110611152683079",
-      "title": "“AI·연금·WM 전문가 전진 배치”…미래에셋, 조직 정비 이어 실적 챙긴다",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T02:46:00Z",
-      "publishedAt": "2026-11-06T02:46:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026110611152683079"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth",
+      "title": "Spectrum overhauls operating model in bid to reignite growth",
+      "source": "lightreading.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T22:17:00Z",
+      "publishedAt": "2026-11-06T22:17:00Z",
+      "summary": "",
+      "url": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
+    },
     {
       "id": "https://www.sify.com/technology/layoffs-surviving-the-new-age-workplace/",
       "title": "Layoffs: Surviving the new-age workplace! - Sify",
@@ -263,10 +275,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 387,
-    "fetchedItems": 6117,
-    "relevantItems": 122,
-    "feedBytes": 1764430,
+    "poolSize": 477,
+    "fetchedItems": 4412,
+    "relevantItems": 112,
+    "feedBytes": 1221041,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
