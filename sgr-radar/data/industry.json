@@ -2,33 +2,21 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 07. 오후 05:54:50",
+  "updatedAt": "2026. 11. 08. 오전 12:27:05",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 409,
-    "passed": 145,
-    "deduped": 145,
-    "eventDeduped": 145,
+    "raw": 344,
+    "passed": 114,
+    "deduped": 114,
+    "eventDeduped": 114,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://zdnet.co.kr/view/?no=20261106181057",
-      "title": "미국발 AI 투자 불안…배경훈 부총리 \"경쟁국은 기회로 삼는다\"",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261106181057"
-    },
     {
       "id": "https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/",
       "title": "EuroHPC Requires Bidders to Resubmit AI Gigafactory Proposals - HPCwire",
@@ -42,18 +30,6 @@
       "url": "https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/"
     },
     {
-      "id": "https://bubblear.com/epg-modular-data-center-marks-topping-out-of-its-us120-million-malaysia-fiz-factory/37371/",
-      "title": "EPG Modular Data Center Marks Topping-Out of Its US$120 Million Malaysia FIZ Factory",
-      "source": "bubblear.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://bubblear.com/epg-modular-data-center-marks-topping-out-of-its-us120-million-malaysia-fiz-factory/37371/"
-    },
-    {
       "id": "https://www.munhwa.com:443/article/11629530",
       "title": "오픈AI, 美 민주당 승리에도 “데이터센터 15조 투자 계속 진행”",
       "source": "munhwa.com",
@@ -64,6 +40,30 @@
       "publishedAt": "2026-11-07T08:46:00Z",
       "summary": "",
       "url": "https://www.munhwa.com:443/article/11629530"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "source": "cnbc.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T17:32:00Z",
+      "publishedAt": "2026-11-06T17:32:00Z",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    },
+    {
+      "id": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893",
+      "title": "flash – la costruzione di data center implica investimenti per 5 mila miliardi di dollari fino ...",
+      "source": "dagospia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893"
     },
     {
       "id": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab",
@@ -90,79 +90,55 @@
       "url": "https://www.investegate.co.uk/company/BIOG"
     },
     {
-      "id": "http://www.calcuttanews.net/news/279415685/adnoc-signs-agreement-to-supply-india-gujarat-energy-up-to-4-million-tonnes-of-lng",
-      "title": "ADNOC signs agreement to supply India's Gujarat Energy up to 4 million tonnes of LNG",
-      "source": "calcuttanews.net",
+      "id": "http://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132",
+      "title": "US approved Nvidia chip sales to China-linked firms | The Jerusalem Post",
+      "source": "jpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "http://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132"
+    },
+    {
+      "id": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
+      "title": "The Hidden Microcontroller Inside A LoRa Chip",
+      "source": "hackaday.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/"
+    },
+    {
+      "id": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand",
+      "title": "Innoventic IT Solutions Expands Its Business Portfolio Across Technology, Manufacturing and Hospitality Under 'The Chariot' Brand",
+      "source": "cambodiantimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand"
+    },
+    {
+      "id": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/leaders-of-powerful-energy-industry-prepare-to-work-with-democrat-on-texas-railroad-commission",
+      "title": "Leaders of powerful energy industry prepare to work with Democrat on Texas Railroad Commission",
+      "source": "ketr.org",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
+      "dateRaw": "2026-11-06T22:17:00Z",
+      "publishedAt": "2026-11-06T22:17:00Z",
       "summary": "",
-      "url": "http://www.calcuttanews.net/news/279415685/adnoc-signs-agreement-to-supply-india-gujarat-energy-up-to-4-million-tonnes-of-lng"
-    },
-    {
-      "id": "https://www.dealstreetasia.com/stories/ifc-hexa-climate-renewable-energy-500355",
-      "title": "India: IFC weighs $300m debt investment in Hexa Climate's renewable energy projects",
-      "source": "dealstreetasia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
-      "summary": "",
-      "url": "https://www.dealstreetasia.com/stories/ifc-hexa-climate-renewable-energy-500355"
-    },
-    {
-      "id": "https://www.segye.com:443/newsView/20261106514101",
-      "title": "美 ‘블루 쓰나미’에 코스피 장중 5000 붕괴…반도체 이후 대비해야 [논설실의 관점]",
-      "source": "segye.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
-      "summary": "",
-      "url": "https://www.segye.com:443/newsView/20261106514101"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261106001245",
-      "title": "인천공소청, '삼성바이오 노조 업무방해 불송치' 재수사 요구",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261106001245"
+      "url": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/leaders-of-powerful-energy-industry-prepare-to-work-with-democrat-on-texas-railroad-commission"
     }
   ],
   "trendItems": [
-    {
-      "id": "https://zdnet.co.kr/view/?no=20261106181057",
-      "title": "미국발 AI 투자 불안…배경훈 부총리 \"경쟁국은 기회로 삼는다\"",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261106181057"
-    },
-    {
-      "id": "https://zdnet.co.kr/view/?no=20261106181618",
-      "title": "IT서비스 4사, 3분기 외형 성장 지속…AI·데이터센터 앞세워 대외 공략 가속",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261106181618"
-    },
     {
       "id": "https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/",
       "title": "EuroHPC Requires Bidders to Resubmit AI Gigafactory Proposals - HPCwire",
@@ -174,30 +150,6 @@
       "publishedAt": "2026-11-07T02:02:00Z",
       "summary": "",
       "url": "https://www.hpcwire.com/off-the-wire/eurohpc-requires-bidders-to-resubmit-ai-gigafactory-proposals/"
-    },
-    {
-      "id": "https://bubblear.com/epg-modular-data-center-marks-topping-out-of-its-us120-million-malaysia-fiz-factory/37371/",
-      "title": "EPG Modular Data Center Marks Topping-Out of Its US$120 Million Malaysia FIZ Factory",
-      "source": "bubblear.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://bubblear.com/epg-modular-data-center-marks-topping-out-of-its-us120-million-malaysia-fiz-factory/37371/"
-    },
-    {
-      "id": "https://zdnet.co.kr/view/?no=20261106182300",
-      "title": "AI 시대 네트워크, 끊기지 않고 막히지 않고 닫히지 않아야 한다",
-      "source": "zdnet.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://zdnet.co.kr/view/?no=20261106182300"
     },
     {
       "id": "https://www.munhwa.com:443/article/11629530",
@@ -222,6 +174,54 @@
       "publishedAt": "2026-11-06T17:32:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    },
+    {
+      "id": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/",
+      "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips",
+      "source": "247wallst.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T17:31:00Z",
+      "publishedAt": "2026-11-06T17:31:00Z",
+      "summary": "",
+      "url": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/"
+    },
+    {
+      "id": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
+      "source": "newzealandstar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14"
+    },
+    {
+      "id": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893",
+      "title": "flash – la costruzione di data center implica investimenti per 5 mila miliardi di dollari fino ...",
+      "source": "dagospia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893"
+    },
+    {
+      "id": "https://dailyevergreen.com/201203/campus/writing-center-unsure-about-new-ai-partnership/",
+      "title": "Writing Center unsure about new AI partnership",
+      "source": "dailyevergreen.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T08:46:00Z",
+      "publishedAt": "2026-11-07T08:46:00Z",
+      "summary": "",
+      "url": "https://dailyevergreen.com/201203/campus/writing-center-unsure-about-new-ai-partnership/"
     },
     {
       "id": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab",
@@ -260,88 +260,64 @@
       "url": "https://www.investegate.co.uk/company/BERI"
     },
     {
-      "id": "http://www.calcuttanews.net/news/279415685/adnoc-signs-agreement-to-supply-india-gujarat-energy-up-to-4-million-tonnes-of-lng",
-      "title": "ADNOC signs agreement to supply India's Gujarat Energy up to 4 million tonnes of LNG",
-      "source": "calcuttanews.net",
+      "id": "http://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132",
+      "title": "US approved Nvidia chip sales to China-linked firms | The Jerusalem Post",
+      "source": "jpost.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
       "summary": "",
-      "url": "http://www.calcuttanews.net/news/279415685/adnoc-signs-agreement-to-supply-india-gujarat-energy-up-to-4-million-tonnes-of-lng"
+      "url": "http://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132"
     },
     {
-      "id": "https://www.dealstreetasia.com/stories/ifc-hexa-climate-renewable-energy-500355",
-      "title": "India: IFC weighs $300m debt investment in Hexa Climate's renewable energy projects",
-      "source": "dealstreetasia.com",
+      "id": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
+      "title": "The Hidden Microcontroller Inside A LoRa Chip",
+      "source": "hackaday.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
       "summary": "",
-      "url": "https://www.dealstreetasia.com/stories/ifc-hexa-climate-renewable-energy-500355"
+      "url": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/"
     },
     {
-      "id": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189",
-      "title": "Ukraine and Russia Trade Volley of Strikes Against Each Other’s Energy Infrastructure - The Moscow Times",
-      "source": "themoscowtimes.com",
+      "id": "https://www.thenews.com.pk/latest/1422842-joanna-gaines-claims-husband-chip-pushed-her-to-breaking-point-during-new-show",
+      "title": "Joanna Gaines claims husband Chip pushed her to breaking point during new show",
+      "source": "thenews.com.pk",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
       "summary": "",
-      "url": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189"
+      "url": "https://www.thenews.com.pk/latest/1422842-joanna-gaines-claims-husband-chip-pushed-her-to-breaking-point-during-new-show"
     },
     {
-      "id": "https://biz.heraldcorp.com/article/10928982",
-      "title": "혹한기 앞두고 우크라 전력망 또 타격…러 공습에 곳곳 정전",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
+      "id": "https://www.wclk.com/2026-11-07/an-unexpected-activist-emerged-to-help-block-a-5-billion-data-center-in-maryland",
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "source": "wclk.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
       "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10928982"
+      "url": "https://www.wclk.com/2026-11-07/an-unexpected-activist-emerged-to-help-block-a-5-billion-data-center-in-maryland"
     },
     {
-      "id": "https://www.segye.com:443/newsView/20261106514101",
-      "title": "美 ‘블루 쓰나미’에 코스피 장중 5000 붕괴…반도체 이후 대비해야 [논설실의 관점]",
-      "source": "segye.com",
-      "language": "Korean",
+      "id": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand",
+      "title": "Innoventic IT Solutions Expands Its Business Portfolio Across Technology, Manufacturing and Hospitality Under 'The Chariot' Brand",
+      "source": "cambodiantimes.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
       "summary": "",
-      "url": "https://www.segye.com:443/newsView/20261106514101"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261106001245",
-      "title": "인천공소청, '삼성바이오 노조 업무방해 불송치' 재수사 요구",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261106001245"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261106001206",
-      "title": "루멘스바이오스, 폴라리스우노 인수대금 지급구조 변경",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261106001206"
+      "url": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand"
     },
     {
       "id": "https://en.apa.az/official-news/president-ilham-aliyev-attended-inauguration-of-orthopedic-mattress-manufacturing-facility-in-aghdam-534699",
@@ -380,18 +356,6 @@
       "url": "https://600kcol.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/"
     },
     {
-      "id": "https://patriotla.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/",
-      "title": "Protesters Storm Microsoft Data Center Construction Site | The Patriot KEIB AM 1150",
-      "source": "patriotla.iheart.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T02:02:00Z",
-      "publishedAt": "2026-11-07T02:02:00Z",
-      "summary": "",
-      "url": "https://patriotla.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/"
-    },
-    {
       "id": "https://www.potatopro.com/news/2026/dubai-hosts-four-major-food-and-beverage-exhibitions-showcasing-global-manufacturing",
       "title": "Dubai Hosts Four Major Food and Beverage Exhibitions, Showcasing Global Manufacturing Innovation",
       "source": "potatopro.com",
@@ -402,6 +366,30 @@
       "publishedAt": "2026-11-06T22:17:00Z",
       "summary": "",
       "url": "https://www.potatopro.com/news/2026/dubai-hosts-four-major-food-and-beverage-exhibitions-showcasing-global-manufacturing"
+    },
+    {
+      "id": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/leaders-of-powerful-energy-industry-prepare-to-work-with-democrat-on-texas-railroad-commission",
+      "title": "Leaders of powerful energy industry prepare to work with Democrat on Texas Railroad Commission",
+      "source": "ketr.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T22:17:00Z",
+      "publishedAt": "2026-11-06T22:17:00Z",
+      "summary": "",
+      "url": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/leaders-of-powerful-energy-industry-prepare-to-work-with-democrat-on-texas-railroad-commission"
+    },
+    {
+      "id": "https://www.foxbusiness.com/media/texas-oil-industry-becoming-californicated-would-have-dire-consequences-economy-energy-boss-warns",
+      "title": "Texas oil industry becoming 'Californicated' could have 'dire consequences' for economy, energy boss warns",
+      "source": "foxbusiness.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T22:17:00Z",
+      "publishedAt": "2026-11-06T22:17:00Z",
+      "summary": "",
+      "url": "https://www.foxbusiness.com/media/texas-oil-industry-becoming-californicated-would-have-dire-consequences-economy-energy-boss-warns"
     },
     {
       "id": "https://www.pharmacytimes.com/view/automated-stem-cell-editing-could-expand-gene-therapy-manufacturing-astct-expert-says",
@@ -428,40 +416,16 @@
       "url": "https://idrw.org/india-gan-chips-drdo-imported-fabrication-equipment/"
     },
     {
-      "id": "https://en.apa.az/finance/azerbaijan-explains-reasons-for-introducing-excise-tax-on-sweetened-drinks-and-chips-534500",
-      "title": "Azerbaijan explains reasons for introducing excise tax on sweetened drinks and chips",
-      "source": "en.apa.az",
+      "id": "https://www.rte.ie/news/dublin/2026/1107/1598353-data-centres-protest/",
+      "title": "Thousands attend Dublin protest against data centres",
+      "source": "rte.ie",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
       "summary": "",
-      "url": "https://en.apa.az/finance/azerbaijan-explains-reasons-for-introducing-excise-tax-on-sweetened-drinks-and-chips-534500"
-    },
-    {
-      "id": "https://www.notiziegeopolitiche.net/hong-kong-600-000-chip-nvidia-restano-fermi-in-magazzino-pechino-non-autorizza-lingresso-in-cina/",
-      "title": "Hong Kong, 600.000 chip Nvidia restano fermi in magazzino: Pechino non autorizza l’ingresso in Cina",
-      "source": "notiziegeopolitiche.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
-      "summary": "",
-      "url": "https://www.notiziegeopolitiche.net/hong-kong-600-000-chip-nvidia-restano-fermi-in-magazzino-pechino-non-autorizza-lingresso-in-cina/"
-    },
-    {
-      "id": "https://www.sungazette.com/news/top-news/2026/11/miele-manufacturing-lays-off-nearly-half-its-workforce/",
-      "title": "Miele Manufacturing lays off nearly half its workforce",
-      "source": "sungazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.sungazette.com/news/top-news/2026/11/miele-manufacturing-lays-off-nearly-half-its-workforce/"
+      "url": "https://www.rte.ie/news/dublin/2026/1107/1598353-data-centres-protest/"
     },
     {
       "id": "https://www.edenmagnet.com.au/story/9387434/blue-wave-a-blessing-and-curse-for-aussie-data-centres/",
@@ -512,16 +476,16 @@
       "url": "https://wccftech.com/nvidia-cargo-heist-11-million-dollars-hardware-stolen-oakland-texas/"
     },
     {
-      "id": "https://www.dealstreetasia.com/stories/ing-data-centre-loans-500370",
-      "title": "ING puts $500m of data centre loans up for sale: report",
-      "source": "dealstreetasia.com",
+      "id": "https://www.morningstar.com/markets/weekly-market-update-stocks-down-after-big-losses-energy-tech",
+      "title": "Market Wrap: Stocks Down After Big Losses in Energy and Tech",
+      "source": "morningstar.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
+      "dateRaw": "2026-11-06T22:17:00Z",
+      "publishedAt": "2026-11-06T22:17:00Z",
       "summary": "",
-      "url": "https://www.dealstreetasia.com/stories/ing-data-centre-loans-500370"
+      "url": "https://www.morningstar.com/markets/weekly-market-update-stocks-down-after-big-losses-energy-tech"
     },
     {
       "id": "https://wccftech.com/chinese-memory-chip-manufacturer-cxmt-struggles-in-q3-as-share-drops-to-9-amidst-aggressive-ramp-from-samsung-says-research/",
@@ -548,78 +512,6 @@
       "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70062758-the-biotech-growth-trust-plc-transaction-in-own-shares-008.htm"
     },
     {
-      "id": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/",
-      "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips",
-      "source": "247wallst.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T17:31:00Z",
-      "publishedAt": "2026-11-06T17:31:00Z",
-      "summary": "",
-      "url": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/"
-    },
-    {
-      "id": "https://powertalk1460.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/",
-      "title": "Protesters Storm Microsoft Data Center Construction Site | PowerTalk 1460 AM & 101.1 FM",
-      "source": "powertalk1460.iheart.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T02:01:00Z",
-      "publishedAt": "2026-11-07T02:01:00Z",
-      "summary": "",
-      "url": "https://powertalk1460.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/"
-    },
-    {
-      "id": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/leaders-of-powerful-energy-industry-prepare-to-work-with-democrat-on-texas-railroad-commission",
-      "title": "Leaders of powerful energy industry prepare to work with Democrat on Texas Railroad Commission",
-      "source": "ketr.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T22:17:00Z",
-      "publishedAt": "2026-11-06T22:17:00Z",
-      "summary": "",
-      "url": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/leaders-of-powerful-energy-industry-prepare-to-work-with-democrat-on-texas-railroad-commission"
-    },
-    {
-      "id": "https://www.koreatimes.co.kr/economy/20261106/cover-story-black-friday-kospi-sinks-6-extending-slide-on-us-ai-regulation-fears",
-      "title": "[COVER STORY] Black Friday: KOSPI sinks 6%, extending slide on US AI regulation fears - The Korea Times",
-      "source": "koreatimes.co.kr",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:17:00Z",
-      "publishedAt": "2026-11-06T10:17:00Z",
-      "summary": "",
-      "url": "https://www.koreatimes.co.kr/economy/20261106/cover-story-black-friday-kospi-sinks-6-extending-slide-on-us-ai-regulation-fears"
-    },
-    {
-      "id": "https://www.dealstreetasia.com/stories/chip-packaging-ai-boom-500372",
-      "title": "Amid AI boom, chip packaging is the new battleground for semiconductors",
-      "source": "dealstreetasia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.dealstreetasia.com/stories/chip-packaging-ai-boom-500372"
-    },
-    {
-      "id": "https://dailyevergreen.com/201203/campus/writing-center-unsure-about-new-ai-partnership/",
-      "title": "Writing Center unsure about new AI partnership",
-      "source": "dailyevergreen.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
-      "summary": "",
-      "url": "https://dailyevergreen.com/201203/campus/writing-center-unsure-about-new-ai-partnership/"
-    },
-    {
       "id": "http://en.ammonnews.net/article/96890",
       "title": "Ammonnews : Kazakhstan and Jordan: An Official Visit Deepens Partnership and Puts AI Security on the Agenda",
       "source": "en.ammonnews.net",
@@ -630,6 +522,18 @@
       "publishedAt": "2026-11-07T08:46:00Z",
       "summary": "",
       "url": "http://en.ammonnews.net/article/96890"
+    },
+    {
+      "id": "https://patriotla.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/",
+      "title": "Protesters Storm Microsoft Data Center Construction Site | The Patriot KEIB AM 1150",
+      "source": "patriotla.iheart.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T02:02:00Z",
+      "publishedAt": "2026-11-07T02:02:00Z",
+      "summary": "",
+      "url": "https://patriotla.iheart.com/content/2026-11-06-protesters-storm-microsoft-data-center-construction-site/"
     },
     {
       "id": "https://kbench.com/?q=node/282532",
@@ -692,30 +596,6 @@
       "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70062656-evertise-ai-pr-google-rank-tracker-without-a-subscription-speedyindex-launches-pay-per-check-rank-tracker-with-api-296.htm"
     },
     {
-      "id": "https://www.businessinsider.com/spectro-cloud-snowflake-cro-ai-sales-push-grows-2026-11",
-      "title": "Why Snowflake's former revenue chief is joining a little-known AI infrastructure startup",
-      "source": "businessinsider.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.businessinsider.com/spectro-cloud-snowflake-cro-ai-sales-push-grows-2026-11"
-    },
-    {
-      "id": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
-      "title": "Airbnb is threatening to launch an AI travel agent next year - Engadget",
-      "source": "engadget.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T10:16:00Z",
-      "publishedAt": "2026-11-06T10:16:00Z",
-      "summary": "",
-      "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/"
-    },
-    {
       "id": "https://www.breitbart.com/tech/2026/11/05/the-ai-election-voters-supported-data-center-restrictions-or-moratoriums-in-40-of-41-local-elections/",
       "title": "The AI Election: Voters Supported Data Center Restrictions or Moratoriums in 40 of 41 Local Elections",
       "source": "breitbart.com",
@@ -738,15 +618,135 @@
       "publishedAt": "2026-11-06T22:17:00Z",
       "summary": "",
       "url": "http://www.zerohedge.com/markets/microsoft-pulls-plug-oracle-ai-rental-post-election-data-center-fallout-spreads"
+    },
+    {
+      "id": "https://www.republicanherald.com/2026/11/06/ai-data-center-development-regulations/",
+      "title": "AI data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants",
+      "source": "republicanherald.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T17:31:00Z",
+      "publishedAt": "2026-11-06T17:31:00Z",
+      "summary": "",
+      "url": "https://www.republicanherald.com/2026/11/06/ai-data-center-development-regulations/"
+    },
+    {
+      "id": "https://drimble.nl/binnenlands-nieuws/108518222/onrust-op-wall-street-over-datacenters-en-ai.html",
+      "title": "Onrust op Wall Street over datacenters en AI",
+      "source": "drimble.nl",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-06",
+      "dateRaw": "2026-11-06T17:31:00Z",
+      "publishedAt": "2026-11-06T17:31:00Z",
+      "summary": "",
+      "url": "https://drimble.nl/binnenlands-nieuws/108518222/onrust-op-wall-street-over-datacenters-en-ai.html"
+    },
+    {
+      "id": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
+      "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days - 9to5Mac",
+      "source": "9to5mac.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/"
+    },
+    {
+      "id": "https://www.siliconvalley.com/2026/11/07/lawsuit-google-ai-schools-girl-suicide/",
+      "title": "Lawsuit claims Google’s AI for schools led girl into suicide plan",
+      "source": "siliconvalley.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "https://www.siliconvalley.com/2026/11/07/lawsuit-google-ai-schools-girl-suicide/"
+    },
+    {
+      "id": "https://www.wbur.org/onpoint/2026/11/06/deepfakes-political-advertising-midterms",
+      "title": "How AI deepfakes are upending political advertising",
+      "source": "wbur.org",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "https://www.wbur.org/onpoint/2026/11/06/deepfakes-political-advertising-midterms"
+    },
+    {
+      "id": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854",
+      "title": "AI answers rely on journalism. Who gets paid?",
+      "source": "dw.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854"
+    },
+    {
+      "id": "http://www.jpost.com/israel-news/article-914126",
+      "title": "Israeli researchers develop AI self teaching method without human-generated data | The Jerusalem Post",
+      "source": "jpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:17:00Z",
+      "publishedAt": "2026-11-07T15:17:00Z",
+      "summary": "",
+      "url": "http://www.jpost.com/israel-news/article-914126"
+    },
+    {
+      "id": "https://www.sentinelassam.com/breakingnews/manipur-cm-inaugurates-ai-enabled-career-guidance-hub-urges-students-to-prioritise-education-and-peace",
+      "title": "Manipur: CM Inaugurates AI-Enabled Career Guidance Hub, Urges Students to Prioritise Education and Peace",
+      "source": "sentinelassam.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "https://www.sentinelassam.com/breakingnews/manipur-cm-inaugurates-ai-enabled-career-guidance-hub-urges-students-to-prioritise-education-and-peace"
+    },
+    {
+      "id": "https://thestarphoenix.com/opinion/lewis-is-ai-medicares-saviour-or-nemesis/",
+      "title": "Lewis: Is AI medicare’s saviour or nemesis?",
+      "source": "thestarphoenix.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "https://thestarphoenix.com/opinion/lewis-is-ai-medicares-saviour-or-nemesis/"
+    },
+    {
+      "id": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
+      "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse",
+      "source": "searchenginejournal.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
+      "summary": "",
+      "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 409,
-    "fetchedItems": 4041,
-    "relevantItems": 67,
-    "feedBytes": 1132486,
+    "poolSize": 344,
+    "fetchedItems": 4162,
+    "relevantItems": 57,
+    "feedBytes": 1171732,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
