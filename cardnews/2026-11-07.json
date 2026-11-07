@@ -10,7 +10,7 @@
     "외부 콘텐츠를 인용할 때 지키는 저작권 안전선"
   ],
   "provider": "partial-mixed",
-  "generatedAt": "2026-11-07T00:20:49.024Z",
+  "generatedAt": "2026-11-07T01:01:31.475Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
@@ -117,7 +117,7 @@
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-07T00:18:42.940Z",
+      "generatedAt": "2026-11-07T00:27:52.938Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -142,76 +142,76 @@
         ]
       },
       "bookTitle": "핵심 인재가 갑자기 빠진 날의 팀 재편 순서",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "기둥 팀원이 빠져도 남은 팀으로 마감은 지킵니다",
+          "headline": "주요 인재가 사라지면 팀은 바로 흔들린다",
           "body": "",
           "accent": "yellow",
           "sceneId": "006",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "때 남은 팀원을 어떻게 재배치하고 손실을 막을지 기준이 서지 않는다.",
+          "headline": "핵심 멤버가 떠나면 업무가 뒤죽박죽이고, 마감이 다가오면 불안이 커진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "028",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "분석하여 우선순위를 재설계하고 위기를 넘기는 비상 운영 프로토콜.",
+          "headline": "회의에서 의견이 끊기고, 일정이 미뤄지고, 팀 분위기가 침체된다",
           "body": "",
           "accent": "yellow",
           "sceneId": "027",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "현장 리더는 돌발 공백에 즉각 대응하는 판단 기준이 필요하다.",
+          "headline": "이건 리더십이 흔들리는 신호다",
           "body": "",
           "accent": "yellow",
           "sceneId": "020",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "점검표와 긴급 대체 인력 가동 시 업무 위임 3단계 매뉴얼을 제공한다.",
+          "headline": "남은 인원의 강점을 재배치하고, 즉시 역할표를 재정비하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "036",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "원론적인 동기부여나 팀워크 강조로 끝나면 외면받는다",
+          "headline": "위기는 바로 행동으로 바뀐다",
           "body": "",
           "accent": "yellow",
           "sceneId": "042",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
       "sourceRevision": "zcr-48544266"
@@ -219,7 +219,7 @@
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-07T00:18:42.940Z",
+      "generatedAt": "2026-11-07T01:01:02.085Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
