@@ -3,7 +3,7 @@
   "planDay": "2026-11-07",
   "planSetId": "zps-20261107-f2e7ae97",
   "generatedAt": "2026-11-06T23:45:10.716Z",
-  "publishedAt": "2026-11-07T00:19:20.337Z",
+  "publishedAt": "2026-11-07T00:20:53.931Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -234,7 +234,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-07T00:18:00.085Z",
+        "generatedAt": "2026-11-07T00:20:38.397Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -259,81 +259,78 @@
           ]
         },
         "bookTitle": "주차 시비가 붙었을 때 쓰는 사실 기록법",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "감성 문장",
-            "headline": "차를 긁힌 날, 소리 지르지 않고 증거를 남깁니다",
+            "headline": "주차 갈등은 조용히 시작되는 작은 파동이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "006",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "장면",
-            "headline": "즉시 감정 싸움으로 번지지 않고 합법적으로 대처할 판단 기준이 없다.",
+            "headline": "퇴근길, 내 차 앞에 다른 차가 끼어 있다",
             "body": "",
             "accent": "yellow",
             "sceneId": "019",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "감정",
-            "headline": "및 관리사무소 신고 서식 작성까지 순서대로 실행하는 법률 방어 기준.",
+            "headline": "숨이 막히고 마음이 흔들린다",
             "body": "",
             "accent": "yellow",
             "sceneId": "024",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "관점 전환",
-            "headline": "사건으로 번지기 전에 증거를 남기는 법적 대처법이 절실하기 때문이다.",
+            "headline": "하지만 기록을 남기면 감정이 아닌 증거가 된다",
             "body": "",
             "accent": "yellow",
             "sceneId": "017",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "수용",
-            "headline": "않는 사실진술서 작성 서식을 제시하여 분쟁 초기 주도권을 잡게 한다.",
+            "headline": "그 순간을 차분히 기록하면 상황이 정리된다",
             "body": "",
             "accent": "yellow",
             "sceneId": "035",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "여운",
-            "headline": "단순 민원 호소 사례집으로 흐르면 실용서 가치가 퇴색된다",
+            "headline": "결국 침묵은 증거가 된다",
             "body": "",
             "accent": "yellow",
             "sceneId": "043",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-48544266"
       },
       "coverRefs": [
@@ -831,7 +828,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-07T00:18:00.085Z",
+        "generatedAt": "2026-11-07T00:18:42.940Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -856,10 +853,10 @@
           ]
         },
         "bookTitle": "핵심 인재가 갑자기 빠진 날의 팀 재편 순서",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -928,9 +925,6 @@
             "source": "rule-fallback"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-48544266"
       },
       "coverRefs": [
@@ -1428,7 +1422,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-07T00:18:00.085Z",
+        "generatedAt": "2026-11-07T00:18:42.940Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1453,10 +1447,10 @@
           ]
         },
         "bookTitle": "외부 콘텐츠를 인용할 때 지키는 저작권 안전선",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -1525,9 +1519,6 @@
             "source": "rule-fallback"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-48544266"
       },
       "coverRefs": [
