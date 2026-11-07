@@ -1,6 +1,599 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "days": [
+    {
+      "date": "2026-11-07",
+      "planDay": "2026-11-07",
+      "planSetId": "zps-20261107-f2e7ae97",
+      "generatedAt": "2026-11-06T23:45:10.716Z",
+      "publishedAt": "2026-11-07T00:00:09.545Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-11-07",
+        "planSetId": "zps-20261107-f2e7ae97",
+        "titles": [
+          "주차 시비가 붙었을 때 쓰는 사실 기록법",
+          "핵심 인재가 갑자기 빠진 날의 팀 재편 순서",
+          "외부 콘텐츠를 인용할 때 지키는 저작권 안전선"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+        "hqReady": true,
+        "contentRevision": "zcr-48544266",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-11-07T00:00:00.078Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 생활법률 · 조직관리 · 콘텐츠기획을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-06T23:45:09.806Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-06T23:39:48.331Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-11-06T23:25:05.059Z",
+        "bestsellerDataDate": "2026-11-06",
+        "stale": true,
+        "checkedAt": "2026-11-06T23:45:10.716Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "생활법률",
+          "field": "생활법률",
+          "title": "주차 시비가 붙었을 때 쓰는 사실 기록법",
+          "concept": "상대방과 말다툼하지 않고 현장 사진과 블랙박스 확보부터 경찰 및 관리사무소 신고 서식 작성까지 순서대로 실행하는 법률 방어 기준",
+          "why": "N15 뉴스에서 주차 문제로 관리소장이 입주민 차량을 긁는 극단적 갈등이 확인되었듯 일상적인 주차 다툼이 형사 사건으로 번지기 전에 증거를 남기는 법적 대처법이 절실하기 때문이다",
+          "competition": "일반 법률 교양서는 추상적인 민사 손해배상 요건만 설명하여 현장 상황에서 무엇을 기록해야 할지 모른다",
+          "reader": "공동주택에서 주차 갈등으로 매일 퇴근길 불안을 겪는 운전자",
+          "readerNeed": "이웃이나 관리 주체와 감정적 충돌이 벌어졌을 때 즉시 감정 싸움으로 번지지 않고 합법적으로 대처할 판단 기준이 없다",
+          "marketGap": "실제 분쟁 상황에서 상대방의 폭언이나 보복 행동을 맞닥뜨렸을 때 현장에서 손에 쥘 수 있는 실천용 양식이 없다",
+          "differentiation": "주차 현장 훼손 촬영 4각 체크리스트와 감정 섞지 않는 사실진술서 작성 서식을 제시하여 분쟁 초기 주도권을 잡게 한다",
+          "diff": "주차 현장 훼손 촬영 4각 체크리스트와 감정 섞지 않는 사실진술서 작성 서식을 제시하여 분쟁 초기 주도권을 잡게 한다",
+          "toc": [
+            "내 차가 훼손된 순간 먼저 찍어야 할 사진들",
+            "관리사무소와 대화할 때 지켜야 할 기록 원칙",
+            "감정적 대치 없이 경찰 출동 요청하는 법",
+            "블랙박스와 폐쇄회로 화면 합법 확보 절차",
+            "내용증명으로 끝내는 민사 손해배상 서식 작성법"
+          ],
+          "searchQueries": [
+            "주차 갈등 해결법",
+            "생활 법률 서식"
+          ],
+          "bookworthiness": {
+            "durability": "공동주택 주차난과 차량 훼손 분쟁은 주거 환경에서 사라지지 않는 일상적 위협이다",
+            "repeatNeed": "이사나 주차 구역 변경, 새로운 이웃 입주 때마다 반복해서 참고할 수 있다",
+            "expansionPotential": "층간소음, 공용공간 점유 등 주거 갈등 전반으로 대응 단계를 넓혀 체계화한다",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김형환 강의",
+              "career": "《자녀와의 갈등을 해결하는 법》 저자 · 엔타임",
+              "why": "YES24에서 이 기획과 인접한 주제의 《자녀와의 갈등을 해결하는 법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/2970479",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "박철규",
+              "career": "《우리나라 ADR법, 이렇게 제정하자》 저자 · 밥북",
+              "why": "YES24에서 이 기획과 인접한 주제의 《우리나라 ADR법, 이렇게 제정하자》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/84928102",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "정주진",
+              "career": "《갈등해결 수업》 저자 · 철수와영희",
+              "why": "YES24에서 이 기획과 인접한 주제의 《갈등해결 수업》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/104408584",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김형환 강의",
+          "bestAuthor": "김형환 강의",
+          "authorBrief": "",
+          "headlineCopy": "차를 긁힌 날, 소리 지르지 않고 증거를 남깁니다",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "분쟁 시 재산 손실 방지",
+              "이웃 갈등 스트레스 최소화"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "운전자 온라인 커뮤니티 및 아파트 입주자 카페 정보 게시판",
+            "trust": "실제 손괴 사건 판례 분석과 현직 변호사의 절차 감수 내용 수록",
+            "conversion": "사고 즉시 현장에서 인쇄해 쓸 수 있는 사진 촬영 6단계 체크리스트 배포",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "단순한 감정 싸움 해결책으로 오해하여 이탈",
+              "objection": "법률 상담은 변호사에게 직접 가야 하지 않나",
+              "solution": "초기 증거를 확보하지 못하면 변호사도 도울 수 없음을 보여준다"
+            },
+            "positioning": "주차 시비가 붙은 날 즉시 꺼내 드는 법적 사실 기록 지침서"
+          },
+          "devilsEditor": {
+            "failureReason": "단순 민원 호소 사례집으로 흐르면 실용서 가치가 퇴색된다",
+            "fix": "형사 고소장과 내용증명 표준 양식 해설 비중을 대폭 늘린다"
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "개인 간 분쟁 양상이 다양해 일률적 적용이 힘들 수 있다",
+          "riskResponse": "형사 재물손괴와 민사 손해배상의 공통 증거 수집 표준 절차를 중심으로 안내한다",
+          "judgment": "공동주택 거주자라면 누구나 한 번쯤 겪는 주차 스트레스를 구체적 행동 지침으로 풀어내 실구매 수요가 매우 탄탄하므로, 이 책은 공동주택 주차 갈등을 법적 증거 수집과 사실 기록의 관점에서 접근하여 독자들에게 실질적인 도움을 줄 수 있을 것이다.",
+          "evidence": [
+            {
+              "text": "자녀와의 갈등을 해결하는 법 — 김형환 강의",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/2970479"
+            },
+            {
+              "text": "\"주차 비뚤어졌다\" 관리소장이 차 X로 긁어 [이슈톺] - YTN",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnVHEtZ0duNmRTRnctZDVqZVZvSEpzRmtDVEJ1UEtpNU9GMUdqX0JHUzgtcE1TX2FhWWdKaUcxZFFfRWNkMEVUcjExMjhhZEJsMzFNVC1fM01aWG9HYWc?oc=5"
+            },
+            {
+              "text": "우리나라 ADR법, 이렇게 제정하자 — 박철규 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/84928102"
+            },
+            {
+              "text": "갈등해결 수업 — 정주진 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/104408584"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "자녀와의 갈등을 해결하는 법",
+              "author": "김형환 강의",
+              "publisher": "엔타임",
+              "publicationDate": "20080604",
+              "url": "https://www.yes24.com/product/goods/2970479",
+              "matchedQuery": "주차 갈등 해결법",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "우리나라 ADR법, 이렇게 제정하자",
+              "author": "박철규 저",
+              "publisher": "밥북",
+              "publicationDate": "20191216",
+              "url": "https://www.yes24.com/product/goods/84928102",
+              "matchedQuery": "주차 갈등 해결법",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "갈등해결 수업",
+              "author": "정주진 저",
+              "publisher": "철수와영희",
+              "publicationDate": "20211029",
+              "url": "https://www.yes24.com/product/goods/104408584",
+              "matchedQuery": "주차 갈등 해결법",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-06T23:41:26.171Z",
+            "queries": [
+              "주차 갈등 해결법",
+              "생활 법률 서식"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "조직관리",
+          "field": "조직관리",
+          "title": "핵심 인재가 갑자기 빠진 날의 팀 재편 순서",
+          "concept": "대체 불가한 인력이 사라졌을 때 남은 자원의 강점을 분석하여 우선순위를 재설계하고 위기를 넘기는 비상 운영 프로토콜",
+          "why": "N17 뉴스에서 포스트시즌 경기 중 주전 선수의 부상 악재에 직면한 감독이 장타력 중심으로 타순을 재조정하듯 현장 리더는 돌발 공백에 즉각 대응하는 판단 기준이 필요하다",
+          "competition": "기존 리더십 서적은 평상시 인재 육성이나 소통 기술에 치우쳐 긴급한 결원 발생 시의 실무 지침이 부족하다",
+          "reader": "핵심 팀원의 갑작스러운 이탈이나 부상으로 프로젝트 일정이 붕괴된 중간관리자",
+          "readerNeed": "중요 일정을 코앞에 두고 핵심 인력이 공백이 되었을 때 남은 팀원을 어떻게 재배치하고 손실을 막을지 기준이 서지 않는다",
+          "marketGap": "핵심 인재가 당장 내일 출근하지 못할 때 오늘 오후 당장 재배치해야 하는 업무 배분 원칙을 주지 않는다",
+          "differentiation": "남은 인력의 기술 매트릭스 점검표와 긴급 대체 인력 가동 시 업무 위임 3단계 매뉴얼을 제공한다",
+          "diff": "남은 인력의 기술 매트릭스 점검표와 긴급 대체 인력 가동 시 업무 위임 3단계 매뉴얼을 제공한다",
+          "toc": [
+            "결원 발생 직후 24시간 동안 해야 할 일",
+            "남은 팀원의 숨은 강점을 읽어내는 기술 분석법",
+            "납기를 맞추기 위해 과감히 버려야 할 작업들",
+            "업무 공백을 메우는 1주일 임시 분담 시트",
+            "위기 후 팀의 사기를 복원하는 피드백 방식"
+          ],
+          "searchQueries": [
+            "팀장 업무 분담",
+            "조직 위기 관리"
+          ],
+          "bookworthiness": {
+            "durability": "퇴사나 이직, 병가로 인한 조직의 돌발 공백은 모든 기업에서 상시 발생한다",
+            "repeatNeed": "프로젝트 킥오프마다 팀원의 이탈 리스크를 대비하기 위해 재참조된다",
+            "expansionPotential": "인수인계 체계 구축과 평상시 백업 체계 설계로 200쪽 분량을 탄탄히 구성한다",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "이연",
+              "career": "《기술유출과 국가위기관리》 저자 · 박영사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《기술유출과 국가위기관리》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/192744425",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "권호천",
+              "career": "《크라이시스 커뮤니케이션》 저자 · 새녘",
+              "why": "YES24에서 이 기획과 인접한 주제의 《크라이시스 커뮤니케이션》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/96642587",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "장상인",
+              "career": "《홍보는 위기관리다》 저자 · 소담출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《홍보는 위기관리다》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/11251986",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "이연",
+          "bestAuthor": "이연",
+          "authorBrief": "",
+          "headlineCopy": "기둥 팀원이 빠져도 남은 팀으로 마감은 지킵니다",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "프로젝트 납기 준수",
+              "팀 붕괴 방지 및 리더십 입증"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "직장인 커뮤니티 블라인드 및 프로젝트 관리자 실무 네트워킹 모임",
+            "trust": "위기 관리 프로젝트를 다수 수습한 시니어 PM 및 인사 전문가 인터뷰 포함",
+            "conversion": "결원 발생 시 1시간 안에 작성하는 업무 우선순위 배분 템플릿 무료 제공",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "우리 팀 특수 상황에는 안 맞을 것이라는 선입견",
+              "objection": "결국 사람을 더 뽑아야 해결되는 것 아닌가",
+              "solution": "채용 전까지 버티는 30일 공백 방어 운영표를 보여준다"
+            },
+            "positioning": "에이스가 빠져도 프로젝트를 무사히 완주시키는 팀장의 실전 생존법"
+          },
+          "devilsEditor": {
+            "failureReason": "원론적인 동기부여나 팀워크 강조로 끝나면 외면받는다",
+            "fix": "업무 쪼개기와 재할당을 위한 엑셀 작업 시트 예시를 전면에 배치한다"
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "직군마다 업무 성격이 달라 일괄 적용이 힘들 수 있다",
+          "riskResponse": "프로젝트 기반 지식 근로 조직의 범용 마감 공정 중심으로 프로세스를 압축한다",
+          "judgment": "실무 현장에서 팀원의 이탈과 공백은 모든 팀장이 겪는 위기이므로, 이 책은 팀장들이 이러한 위기를 극복하고 프로젝트를 성공적으로 완수하는 데 필요한 실질적인 도구와 지침을 제공할 수 있을 것이다.",
+          "evidence": [
+            {
+              "text": "기술유출과 국가위기관리 — 이연 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/192744425"
+            },
+            {
+              "text": "208안타 최원준 부상으로 빠진 KT... 이강철 감독 \"대구니까 장타 생각\" - 조선일보",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnMyUjdHVDVWOEJBN0lOazNxbU1kYlk1RER4b21WYW9VS092OV9JRDBPVFBOclcxWGhDN0h5NGZIX2s2eTIxMEZ3QmpUb3VYNnZocV9zN0l5eGVSU3pwX3NQdGdWTmZjckR5R2c3WDJCSFBiMjdzcTZwUDVEbldaMVp2QQ?oc=5"
+            },
+            {
+              "text": "크라이시스 커뮤니케이션 — 권호천 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/96642587"
+            },
+            {
+              "text": "홍보는 위기관리다 — 장상인 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/11251986"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "기술유출과 국가위기관리",
+              "author": "이연 저",
+              "publisher": "박영사",
+              "publicationDate": "20260530",
+              "url": "https://www.yes24.com/product/goods/192744425",
+              "matchedQuery": "조직 위기 관리",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "크라이시스 커뮤니케이션",
+              "author": "권호천 저",
+              "publisher": "새녘",
+              "publicationDate": "20210104",
+              "url": "https://www.yes24.com/product/goods/96642587",
+              "matchedQuery": "조직 위기 관리",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "홍보는 위기관리다",
+              "author": "장상인 저",
+              "publisher": "소담출판사",
+              "publicationDate": "20131025",
+              "url": "https://www.yes24.com/product/goods/11251986",
+              "matchedQuery": "조직 위기 관리",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-06T23:41:27.445Z",
+            "queries": [
+              "팀장 업무 분담",
+              "조직 위기 관리"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "콘텐츠기획",
+          "field": "콘텐츠기획",
+          "title": "외부 콘텐츠를 인용할 때 지키는 저작권 안전선",
+          "concept": "공정이용의 한계선과 상업적 배포 기준을 명확히 구분하고 출처 표기와 라이선스 검증을 시스템화하는 콘텐츠 방어 가이드",
+          "why": "N16 뉴스에서 지상파 3사가 네이버를 상대로 대규모 저작권 손해액 배상 소송을 제기했듯 콘텐츠 무단 학습과 인용에 대한 법적 책임 공방이 일반 창작자에게도 현실화되고 있기 때문이다",
+          "competition": "기존 저작권 서적은 학술적인 법리 해석에 치우쳐 실무자가 마감 전 체크할 체크리스트를 주지 못한다",
+          "reader": "외부 자료를 취합해 온라인 콘텐츠나 마케팅 자료를 만드는 크리에이터와 마케터",
+          "readerNeed": "타인의 기사나 영상, 이미지를 활용해 2차 창작물을 만들 때 저작권 침해로 소송이나 손해배상 청구를 당할까 불안하다",
+          "marketGap": "인터넷 기사나 뉴스 영상 클립을 몇 초, 몇 문장까지 인용해도 안전한지 구체적 실무 기준을 제시하지 않는다",
+          "differentiation": "배포 채널별 저작권 침해 위험도 판정표와 라이선스 출처 표기 표준 가이드를 제공한다",
+          "diff": "배포 채널별 저작권 침해 위험도 판정표와 라이선스 출처 표기 표준 가이드를 제공한다",
+          "toc": [
+            "기사 한 줄 인용도 위험해지는 순간의 구별법",
+            "저작권 소송을 피하는 안전한 출처 표기 공식",
+            "공정이용으로 인정받기 위한 4가지 판단 기준",
+            "무료 이미지와 폰트의 숨겨진 유료 조건 찾기",
+            "침해 경고장을 받았을 때 합의금 막는 답변 절차"
+          ],
+          "searchQueries": [
+            "콘텐츠 저작권 가이드",
+            "공정이용 인용 기준"
+          ],
+          "bookworthiness": {
+            "durability": "AI와 디지털 미디어 확산으로 저작권과 인용 분쟁의 기준 검토 수요는 영구적이다",
+            "repeatNeed": "새로운 기획물을 발행하거나 마케팅 캠페인을 론칭할 때마다 점검표로 활용된다",
+            "expansionPotential": "이미지, 텍스트, 음원, 영상, AI 학습 데이터까지 매체별 검증법으로 장을 확장한다",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "이종구",
+              "career": "《디지털 창작자의 저작권 생존 가이드》 저자 · 디지털콘텐츠그룹",
+              "why": "YES24에서 이 기획과 인접한 주제의 《디지털 창작자의 저작권 생존 가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/153163705",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "한국콘텐츠미디어",
+              "career": "《2026-27 한국 MICE 산업 주소록 CD》 저자 · 한국콘텐츠미디어",
+              "why": "YES24에서 이 기획과 인접한 주제의 《2026-27 한국 MICE 산업 주소록 CD》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/199648514",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "노동형",
+              "career": "《포스트 코로나 K-콘텐츠기획 가이드》 저자 · 청년정신",
+              "why": "YES24에서 이 기획과 인접한 주제의 《포스트 코로나 K-콘텐츠기획 가이드》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/97163519",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "이종구",
+          "bestAuthor": "이종구",
+          "authorBrief": "",
+          "headlineCopy": "배포 버튼을 누르기 전, 5분 저작권 자가진단",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "법적 피소 공포 해소",
+              "안전하고 당당한 창작물 유통"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "유튜브 창작자 모임, 1인 지식 창업자 커뮤니티, 마케터 실무 포럼",
+            "trust": "지식재산권 전문 변호사의 감수와 최신 콘텐츠 침해 판례 데이터베이스 반영",
+            "conversion": "배포 전 10개 문항으로 끝내는 저작권 침해 자가진단 체크리스트 제공",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "법률 책이라 내용이 딱딱하고 난해할 것이라 예상",
+              "objection": "작은 채널이나 브랜드까지 정말 소송을 걸어올까",
+              "solution": "합의금 장사의 표적이 된 실제 1인 창작자 피소 사례와 방어 성공기를 제시한다"
+            },
+            "positioning": "소송 걱정 없이 남의 자료를 당당하게 활용하는 창작자 저작권 방패"
+          },
+          "devilsEditor": {
+            "failureReason": "복잡한 법 조문만 나열하면 실무자가 즉시 포기한다",
+            "fix": "합법과 불법의 실제 콘텐츠 인용 사례를 나란히 비교하는 시각 자료를 넣는다"
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "법원의 판례 변화에 따라 기준 해석이 달라질 위험이 있다",
+          "riskResponse": "가장 보수적이고 안전한 최소 인용 원칙과 공식 라이선스 취득 경로를 중심으로 서술한다",
+          "judgment": "콘텐츠 제작이 대중화된 환경에서 법적 분쟁을 회피하려는 제작자의 실질적 필요를 충족할 수 있는 책으로, 저작권 침해와 관련된 법적 지식과 실무 지침을 제공하여 독자들이 안전하고 당당하게 창작물을 만들 수 있도록 도와줄 것이다.",
+          "evidence": [
+            {
+              "text": "디지털 창작자의 저작권 생존 가이드 — 이종구 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/153163705"
+            },
+            {
+              "text": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목 - AI타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83clYzUElkRkFCMDZ6MDNQNWp3RndhNzg0dmgtUXV0MkVZN01vRUxESUh3TEdsRWRvLThOZ1d1TVEzNUdVQ0dSQjYxbFkzN21pZ2xDcjZaMnI4alBxY3lPQ3JYX2tsaUJyVnc?oc=5"
+            },
+            {
+              "text": "2026-27 한국 MICE 산업 주소록 CD — 한국콘텐츠미디어 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/199648514"
+            },
+            {
+              "text": "포스트 코로나 K-콘텐츠기획 가이드 — 노동형 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/97163519"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "디지털 창작자의 저작권 생존 가이드",
+              "author": "이종구 저",
+              "publisher": "디지털콘텐츠그룹",
+              "publicationDate": "20250908",
+              "url": "https://www.yes24.com/product/goods/153163705",
+              "matchedQuery": "콘텐츠 저작권 가이드",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "2026-27 한국 MICE 산업 주소록 CD",
+              "author": "한국콘텐츠미디어 저",
+              "publisher": "한국콘텐츠미디어",
+              "publicationDate": "20261020",
+              "url": "https://www.yes24.com/product/goods/199648514",
+              "matchedQuery": "콘텐츠기획",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "포스트 코로나 K-콘텐츠기획 가이드",
+              "author": "노동형 저",
+              "publisher": "청년정신",
+              "publicationDate": "20210131",
+              "url": "https://www.yes24.com/product/goods/97163519",
+              "matchedQuery": "콘텐츠기획",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-06T23:41:29.335Z",
+            "queries": [
+              "콘텐츠 저작권 가이드",
+              "공정이용 인용 기준"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "planDay": "2026-11-04",
@@ -29949,26 +30542,9 @@
           "type": "경제·산업·투자교양"
         }
       ]
-    },
-    {
-      "date": "2026-09-20",
-      "plans": [
-        {
-          "title": "폰을 뺏지 않고 끄게 하는 법",
-          "type": "자녀교육·디지털생활"
-        },
-        {
-          "title": "AI에게 일을 맡기기 전에",
-          "type": "경제·경영·AI"
-        },
-        {
-          "title": "틀린 문제보다 틀린 이유를 찾습니다",
-          "type": "교육·입시"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261104-1cad1aad",
+  "activePlanSetId": "zps-20261107-f2e7ae97",
   "discardedDays": [
     {
       "date": "2026-09-29",
