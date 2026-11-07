@@ -6,7 +6,7 @@
       "planDay": "2026-11-07",
       "planSetId": "zps-20261107-f2e7ae97",
       "generatedAt": "2026-11-06T23:45:10.716Z",
-      "publishedAt": "2026-11-07T00:20:56.053Z",
+      "publishedAt": "2026-11-07T01:01:13.153Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -548,7 +548,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-48544266",
             "status": "ready",
-            "generatedAt": "2026-11-07T00:18:54.799Z",
+            "generatedAt": "2026-11-07T01:01:03.599Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -556,98 +556,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 12,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "mcgill queens early modern maritime recipies",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 105964,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nebraska pyrrhic symphony",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 96222,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "newsouth trip reports",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 20,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 65,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 201038,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "northwestern blow yourself up",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 59088,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -831,7 +740,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-07T00:18:42.940Z",
+            "generatedAt": "2026-11-07T00:27:52.938Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -856,76 +765,76 @@
               ]
             },
             "bookTitle": "핵심 인재가 갑자기 빠진 날의 팀 재편 순서",
-            "provider": "rule-fallback",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "no-ai-copy",
+            "provider": "groq",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "강한 선언",
-                "headline": "기둥 팀원이 빠져도 남은 팀으로 마감은 지킵니다",
+                "headline": "주요 인재가 사라지면 팀은 바로 흔들린다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "006",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "warning",
                 "beat": "공감",
-                "headline": "때 남은 팀원을 어떻게 재배치하고 손실을 막을지 기준이 서지 않는다.",
+                "headline": "핵심 멤버가 떠나면 업무가 뒤죽박죽이고, 마감이 다가오면 불안이 커진다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "028",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "구체적 증상",
-                "headline": "분석하여 우선순위를 재설계하고 위기를 넘기는 비상 운영 프로토콜.",
+                "headline": "회의에서 의견이 끊기고, 일정이 미뤄지고, 팀 분위기가 침체된다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "027",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "판단 기준",
-                "headline": "현장 리더는 돌발 공백에 즉각 대응하는 판단 기준이 필요하다.",
+                "headline": "이건 리더십이 흔들리는 신호다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "020",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "해결",
-                "headline": "점검표와 긴급 대체 인력 가동 시 업무 위임 3단계 매뉴얼을 제공한다.",
+                "headline": "남은 인원의 강점을 재배치하고, 즉시 역할표를 재정비하라",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "036",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "강한 결론",
-                "headline": "원론적인 동기부여나 팀워크 강조로 끝나면 외면받는다",
+                "headline": "위기는 바로 행동으로 바뀐다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "042",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
             "sourceRevision": "zcr-48544266"
@@ -1142,7 +1051,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-48544266",
             "status": "ready",
-            "generatedAt": "2026-11-07T00:19:06.120Z",
+            "generatedAt": "2026-11-07T01:01:05.936Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1150,98 +1059,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 9,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "University Press Cover Round-Up",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 30,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 69,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 244716,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "northwestern blow yourself up",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 20,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 65,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 59088,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nyu fire in the heart of the city",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 35,
-                  "genre": 40,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 238944,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "penn state teresa urrea",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 20,
-                  "genre": 35,
-                  "design": 85,
-                  "score": 65,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 156524,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -1425,7 +1243,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-07T00:18:42.940Z",
+            "generatedAt": "2026-11-07T00:25:57.113Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1736,7 +1554,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-48544266",
             "status": "ready",
-            "generatedAt": "2026-11-07T00:19:17.808Z",
+            "generatedAt": "2026-11-07T01:01:08.338Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1744,98 +1562,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 7,
-              "preShortlistCount": 7,
-              "eligibleCount": 7,
-              "scannedCount": 7,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "University Press Coverage, June 2025",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 45,
-                  "genre": 60,
-                  "design": 85,
-                  "score": 74,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 199328,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "The Avian Hourglass - An Interview with Author Lindsey Drager and Designer Steven Seighman",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 20,
-                  "genre": 35,
-                  "design": 85,
-                  "score": 65,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 357770,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "northwestern blow yourself up",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 20,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 65,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 59088,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "pitt abider",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 45,
-                  "genre": 55,
-                  "design": 85,
-                  "score": 74,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 99740,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         }
       ],
