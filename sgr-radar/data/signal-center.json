@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 08. 오전 04:34:48",
+  "updatedAt": "2026. 11. 08. 오전 07:58:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -175,16 +175,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12196914",
-          "title": "[영상] 전쟁은 에너지를, 인플레이션은 금융, AI는 산업 금속을 깨운다! 원자재 실전투자",
+          "id": "https://www.mk.co.kr/news/economy/12201465",
+          "title": "“속만 타는 주식, 이제 손 떼고 싶어요”…수천억 뭉칫돈 몰린 고금리 예금",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-04",
-          "dateRaw": "2026-11-04T20:56:13Z",
-          "publishedAt": "2026-11-04T20:56:13Z",
+          "date": "2026-11-07",
+          "dateRaw": "2026-11-07T15:33:29Z",
+          "publishedAt": "2026-11-07T15:33:29Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12196914",
+          "url": "https://www.mk.co.kr/news/economy/12201465",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -292,15 +292,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 8
+          "count": 7
         },
         {
           "word": "금리",
-          "count": 2
-        },
-        {
-          "word": "물가",
-          "count": 1
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -783,6 +779,18 @@
           "url": "https://zdnet.co.kr/view/?no=20261106181057"
         },
         {
+          "id": "https://www.beurs.nl/Forum/Topic/1396839/Taiwan-Semiconductor-Manufacturing-Company-TSMC_Forum-Taiwan-Semiconductor-Manufacturing-Company-TSMC-geopend.aspx",
+          "title": "Forum: Taiwan Semiconductor Manufacturing Company (TSMC) » Forum Taiwan Semiconductor Manufacturing Company (TSMC) geopend",
+          "source": "beurs.nl",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-07",
+          "dateRaw": "2026-11-07T22:46:00Z",
+          "publishedAt": "2026-11-07T22:46:00Z",
+          "summary": "",
+          "url": "https://www.beurs.nl/Forum/Topic/1396839/Taiwan-Semiconductor-Manufacturing-Company-TSMC_Forum-Taiwan-Semiconductor-Manufacturing-Company-TSMC-geopend.aspx"
+        },
+        {
           "id": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/",
           "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips",
           "source": "247wallst.com",
@@ -877,18 +885,6 @@
           "publishedAt": "2026-11-07T15:16:00Z",
           "summary": "",
           "url": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14"
-        },
-        {
-          "id": "https://wccftech.com/chinese-memory-chip-manufacturer-cxmt-struggles-in-q3-as-share-drops-to-9-amidst-aggressive-ramp-from-samsung-says-research/",
-          "title": "Chinese Memory Chip Manufacturer CXMT Struggles In Q3 As Share Drops To 9% Amidst Aggressive Ramp From Samsung, Says Research",
-          "source": "wccftech.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T17:32:00Z",
-          "publishedAt": "2026-11-06T17:32:00Z",
-          "summary": "",
-          "url": "https://wccftech.com/chinese-memory-chip-manufacturer-cxmt-struggles-in-q3-as-share-drops-to-9-amidst-aggressive-ramp-from-samsung-says-research/"
         }
       ],
       "keywords": [
@@ -897,16 +893,16 @@
           "count": 7
         },
         {
-          "word": "클라우드",
+          "word": "반도체",
           "count": 3
         },
         {
-          "word": "반도체",
-          "count": 2
+          "word": "제조",
+          "count": 3
         },
         {
-          "word": "제조",
-          "count": 1
+          "word": "클라우드",
+          "count": 3
         }
       ],
       "displayed": 10,
@@ -916,9 +912,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1330,
-    "fetchedItems": 2633,
-    "feedBytes": 754911,
+    "poolSize": 1261,
+    "fetchedItems": 2600,
+    "feedBytes": 722266,
     "rollingWindowHours": 72
   }
 }

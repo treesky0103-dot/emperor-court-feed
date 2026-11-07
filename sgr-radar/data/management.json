@@ -2,33 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 08. 오전 04:34:45",
+  "updatedAt": "2026. 11. 08. 오전 07:58:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 288,
-    "passed": 9,
-    "deduped": 9,
-    "eventDeduped": 9,
-    "displayed": 9,
+    "raw": 224,
+    "passed": 8,
+    "deduped": 8,
+    "eventDeduped": 8,
+    "displayed": 8,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
   },
   "items": [
-    {
-      "id": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth",
-      "title": "Spectrum overhauls operating model in bid to reignite growth",
-      "source": "lightreading.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T22:17:00Z",
-      "publishedAt": "2026-11-06T22:17:00Z",
-      "summary": "",
-      "url": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
-    },
     {
       "id": "https://www.saratogian.com/2026/11/07/sny-layoffs-cancels-shows-website/",
       "title": "SNY undergoes layoffs, cancels shows and scales back website",
@@ -127,18 +115,6 @@
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth",
-      "title": "Spectrum overhauls operating model in bid to reignite growth",
-      "source": "lightreading.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-06",
-      "dateRaw": "2026-11-06T22:17:00Z",
-      "publishedAt": "2026-11-06T22:17:00Z",
-      "summary": "",
-      "url": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
-    },
     {
       "id": "https://www.saratogian.com/2026/11/07/sny-layoffs-cancels-shows-website/",
       "title": "SNY undergoes layoffs, cancels shows and scales back website",
@@ -239,10 +215,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 288,
-    "fetchedItems": 2633,
-    "relevantItems": 51,
-    "feedBytes": 754911,
+    "poolSize": 224,
+    "fetchedItems": 2600,
+    "relevantItems": 25,
+    "feedBytes": 722266,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
