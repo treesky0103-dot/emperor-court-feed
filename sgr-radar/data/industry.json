@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 08. 오전 11:16:37",
+  "updatedAt": "2026. 11. 08. 오후 06:10:30",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 178,
-    "passed": 59,
-    "deduped": 59,
-    "eventDeduped": 59,
+    "raw": 176,
+    "passed": 55,
+    "deduped": 55,
+    "eventDeduped": 55,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -18,16 +18,28 @@
   },
   "items": [
     {
-      "id": "https://www.munhwa.com:443/article/11629530",
-      "title": "오픈AI, 美 민주당 승리에도 “데이터센터 15조 투자 계속 진행”",
-      "source": "munhwa.com",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01889286645643752&mediaCodeNo=257",
+      "title": "'블루쓰나미' 증시강타에 \"민주당도 AI 패권경쟁 한뜻…투자위축 우려 과도\" 진단",
+      "source": "edaily.co.kr",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
       "summary": "",
-      "url": "https://www.munhwa.com:443/article/11629530"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01889286645643752&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.ghanamma.com/2026/11/08/the-electricity-company-of-ghana-is-set-to-launch-a-major-nationwide-revenue-mobilization-exercise/",
+      "title": "The Electricity Company of Ghana is set to launch a major nationwide revenue mobilization exercise – Ghanamma.com",
+      "source": "ghanamma.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "https://www.ghanamma.com/2026/11/08/the-electricity-company-of-ghana-is-set-to-launch-a-major-nationwide-revenue-mobilization-exercise/"
     },
     {
       "id": "https://www.newsway.co.kr/news/view?ud=2026110809043001873",
@@ -40,18 +52,6 @@
       "publishedAt": "2026-11-08T02:01:00Z",
       "summary": "",
       "url": "https://www.newsway.co.kr/news/view?ud=2026110809043001873"
-    },
-    {
-      "id": "https://tradearabia.com:443/News/489330/Leading-AI-builders-make-$10bnb-commitments-on-VAST-powered-infrastructure",
-      "title": "Leading AI builders make $10bnb commitments on VAST-powered infrastructure",
-      "source": "tradearabia.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T19:31:00Z",
-      "publishedAt": "2026-11-07T19:31:00Z",
-      "summary": "",
-      "url": "https://tradearabia.com:443/News/489330/Leading-AI-builders-make-$10bnb-commitments-on-VAST-powered-infrastructure"
     },
     {
       "id": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893",
@@ -90,6 +90,30 @@
       "url": "https://www.beurs.nl/Forum/Topic/1396839/Taiwan-Semiconductor-Manufacturing-Company-TSMC_Forum-Taiwan-Semiconductor-Manufacturing-Company-TSMC-geopend.aspx"
     },
     {
+      "id": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+      "source": "wired.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T22:46:00Z",
+      "publishedAt": "2026-11-07T22:46:00Z",
+      "summary": "",
+      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/"
+    },
+    {
+      "id": "https://tradearabia.com:443/News/489340/ADNOC-partners-with-Abu-Dhabi-firms-for-RTP-pipes-manufacturing",
+      "title": "ADNOC partners with Abu Dhabi firms for RTP pipes manufacturing",
+      "source": "tradearabia.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-07",
+      "dateRaw": "2026-11-07T19:31:00Z",
+      "publishedAt": "2026-11-07T19:31:00Z",
+      "summary": "",
+      "url": "https://tradearabia.com:443/News/489340/ADNOC-partners-with-Abu-Dhabi-firms-for-RTP-pipes-manufacturing"
+    },
+    {
       "id": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand",
       "title": "Innoventic IT Solutions Expands Its Business Portfolio Across Technology, Manufacturing and Hospitality Under 'The Chariot' Brand",
       "source": "cambodiantimes.com",
@@ -102,18 +126,6 @@
       "url": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand"
     },
     {
-      "id": "https://en.apa.az/official-news/president-ilham-aliyev-attended-inauguration-of-orthopedic-mattress-manufacturing-facility-in-aghdam-534699",
-      "title": "President Ilham Aliyev attended inauguration of orthopedic mattress manufacturing facility in Aghdam",
-      "source": "en.apa.az",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
-      "summary": "",
-      "url": "https://en.apa.az/official-news/president-ilham-aliyev-attended-inauguration-of-orthopedic-mattress-manufacturing-facility-in-aghdam-534699"
-    },
-    {
       "id": "https://www.irishtimes.com/environment/climate-crisis/2026/11/07/they-are-tearing-communities-apart-first-national-protest-against-data-centres-in-dublin/",
       "title": "‘They are tearing communities apart’: First national protest against data centres in Dublin",
       "source": "irishtimes.com",
@@ -124,32 +136,56 @@
       "publishedAt": "2026-11-07T19:31:00Z",
       "summary": "",
       "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/07/they-are-tearing-communities-apart-first-national-protest-against-data-centres-in-dublin/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/that-stops-when-im-governor-texas-governor-elect-gina-hinojosa-warns-elon-musk-big-tech-over-data-centres/articleshow/135645426.cms",
-      "title": "‘That stops when I’m governor’: Texas governor-elect Gina Hinojosa warns Elon Musk, Big Tech over data centres",
-      "source": "timesofindia.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T19:31:00Z",
-      "publishedAt": "2026-11-07T19:31:00Z",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/that-stops-when-im-governor-texas-governor-elect-gina-hinojosa-warns-elon-musk-big-tech-over-data-centres/articleshow/135645426.cms"
     }
   ],
   "trendItems": [
     {
-      "id": "https://www.munhwa.com:443/article/11629530",
-      "title": "오픈AI, 美 민주당 승리에도 “데이터센터 15조 투자 계속 진행”",
-      "source": "munhwa.com",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01889286645643752&mediaCodeNo=257",
+      "title": "'블루쓰나미' 증시강타에 \"민주당도 AI 패권경쟁 한뜻…투자위축 우려 과도\" 진단",
+      "source": "edaily.co.kr",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
       "summary": "",
-      "url": "https://www.munhwa.com:443/article/11629530"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01889286645643752&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=02138566645643752&mediaCodeNo=257",
+      "title": "민주당 압승에 뜨는 ‘의원님들의 AI 헬스케어 픽’ 3選[AI헬스케어]",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02138566645643752&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01935206645643752&mediaCodeNo=257",
+      "title": "AI 역풍 맞은 앤스로픽 IPO…몸값 2728조원서 '반토막' 우려",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01935206645643752&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.ghanamma.com/2026/11/08/the-electricity-company-of-ghana-is-set-to-launch-a-major-nationwide-revenue-mobilization-exercise/",
+      "title": "The Electricity Company of Ghana is set to launch a major nationwide revenue mobilization exercise – Ghanamma.com",
+      "source": "ghanamma.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "https://www.ghanamma.com/2026/11/08/the-electricity-company-of-ghana-is-set-to-launch-a-major-nationwide-revenue-mobilization-exercise/"
     },
     {
       "id": "https://www.newsway.co.kr/news/view?ud=2026110809043001873",
@@ -176,18 +212,6 @@
       "url": "https://tradearabia.com:443/News/489330/Leading-AI-builders-make-$10bnb-commitments-on-VAST-powered-infrastructure"
     },
     {
-      "id": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
-      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
-      "source": "newzealandstar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:16:00Z",
-      "publishedAt": "2026-11-07T15:16:00Z",
-      "summary": "",
-      "url": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14"
-    },
-    {
       "id": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893",
       "title": "flash – la costruzione di data center implica investimenti per 5 mila miliardi di dollari fino ...",
       "source": "dagospia.com",
@@ -198,30 +222,6 @@
       "publishedAt": "2026-11-07T15:16:00Z",
       "summary": "",
       "url": "https://www.dagospia.com/business/flash-costruzione-data-center-implica-investimenti-per-5-mila-miliardi-492893"
-    },
-    {
-      "id": "https://dailyevergreen.com/201203/campus/writing-center-unsure-about-new-ai-partnership/",
-      "title": "Writing Center unsure about new AI partnership",
-      "source": "dailyevergreen.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
-      "summary": "",
-      "url": "https://dailyevergreen.com/201203/campus/writing-center-unsure-about-new-ai-partnership/"
-    },
-    {
-      "id": "http://en.ammonnews.net/article/96890",
-      "title": "Ammonnews : Kazakhstan and Jordan: An Official Visit Deepens Partnership and Puts AI Security on the Agenda",
-      "source": "en.ammonnews.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
-      "summary": "",
-      "url": "http://en.ammonnews.net/article/96890"
     },
     {
       "id": "https://www.newsminer.com/community-colleges-rush-to-expand-semiconductor-training-as-labor-shortage-looms-us-chip-industry/article_52d6afac-6f98-49fc-b726-f3dfc7a7c641.html",
@@ -356,18 +356,6 @@
       "url": "http://www.cambodiantimes.com/news/279418448/innoventic-it-solutions-expands-its-business-portfolio-across-technology-manufacturing-and-hospitality-under-the-chariot-brand"
     },
     {
-      "id": "https://en.apa.az/official-news/president-ilham-aliyev-attended-inauguration-of-orthopedic-mattress-manufacturing-facility-in-aghdam-534699",
-      "title": "President Ilham Aliyev attended inauguration of orthopedic mattress manufacturing facility in Aghdam",
-      "source": "en.apa.az",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
-      "summary": "",
-      "url": "https://en.apa.az/official-news/president-ilham-aliyev-attended-inauguration-of-orthopedic-mattress-manufacturing-facility-in-aghdam-534699"
-    },
-    {
       "id": "https://www.irishtimes.com/environment/climate-crisis/2026/11/07/they-are-tearing-communities-apart-first-national-protest-against-data-centres-in-dublin/",
       "title": "‘They are tearing communities apart’: First national protest against data centres in Dublin",
       "source": "irishtimes.com",
@@ -404,16 +392,16 @@
       "url": "https://www.rte.ie/news/dublin/2026/1107/1598353-data-centres-protest/"
     },
     {
-      "id": "https://kbench.com/?q=node/282532",
-      "title": "지멘스, 제조 데이터와 AI 업무 실행 연결하는 '인텔리전스 센터 X' 국내 공개",
-      "source": "kbench.com",
-      "language": "Korean",
+      "id": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
+      "source": "newzealandstar.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
+      "dateRaw": "2026-11-07T15:16:00Z",
+      "publishedAt": "2026-11-07T15:16:00Z",
       "summary": "",
-      "url": "https://kbench.com/?q=node/282532"
+      "url": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14"
     },
     {
       "id": "https://www.newsway.co.kr/news/view?ud=2026110810364981355",
@@ -428,18 +416,6 @@
       "url": "https://www.newsway.co.kr/news/view?ud=2026110810364981355"
     },
     {
-      "id": "https://www.inforum.com/news/north-dakota/data-center-growth-meets-a-different-response-in-north-dakota",
-      "title": "Data center growth meets a different response in North Dakota",
-      "source": "inforum.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T08:46:00Z",
-      "publishedAt": "2026-11-07T08:46:00Z",
-      "summary": "",
-      "url": "https://www.inforum.com/news/north-dakota/data-center-growth-meets-a-different-response-in-north-dakota"
-    },
-    {
       "id": "https://www.oedigital.com/news/544109-eco-wave-power-advances-ai-digital-twin-for-wave-energy-systems",
       "title": "Eco Wave Power Advances AI Digital Twin for Wave Energy Systems",
       "source": "oedigital.com",
@@ -450,6 +426,18 @@
       "publishedAt": "2026-11-07T22:46:00Z",
       "summary": "",
       "url": "https://www.oedigital.com/news/544109-eco-wave-power-advances-ai-digital-twin-for-wave-energy-systems"
+    },
+    {
+      "id": "https://www.ddaily.co.kr:443/page/view/2026110811052084839",
+      "title": "[르포] \"AI에 내 카드를 맡길 수 있을까\"… SKT, 외부 개발자와 '실행형 AI' 해법 찾는다",
+      "source": "ddaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "https://www.ddaily.co.kr:443/page/view/2026110811052084839"
     },
     {
       "id": "https://news.mtn.co.kr/article/2026110720174965684",
@@ -486,6 +474,42 @@
       "publishedAt": "2026-11-07T22:46:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10929416"
+    },
+    {
+      "id": "https://natlawreview.com/article/sec-again-puts-disclosures-focus-limits-ai-bubble-are-tested",
+      "title": "SEC Again Puts Disclosures in Focus as the Limits of AI Bubble Are Tested",
+      "source": "natlawreview.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:02:00Z",
+      "publishedAt": "2026-11-08T09:02:00Z",
+      "summary": "",
+      "url": "https://natlawreview.com/article/sec-again-puts-disclosures-focus-limits-ai-bubble-are-tested"
+    },
+    {
+      "id": "http://www.rockymounttelegram.com/news/national/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_993f6eae-e6ec-5722-8d76-c083ad05e456.html",
+      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+      "source": "rockymounttelegram.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "http://www.rockymounttelegram.com/news/national/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_993f6eae-e6ec-5722-8d76-c083ad05e456.html"
+    },
+    {
+      "id": "https://www.irishtimes.com/your-money/2026/11/08/the-magnificent-one-apple-is-winning-by-sitting-out-the-ai-spending-race/",
+      "title": "The magnificent one: Apple is winning by sitting out the AI spending race",
+      "source": "irishtimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T09:01:00Z",
+      "publishedAt": "2026-11-08T09:01:00Z",
+      "summary": "",
+      "url": "https://www.irishtimes.com/your-money/2026/11/08/the-magnificent-one-apple-is-winning-by-sitting-out-the-ai-spending-race/"
     },
     {
       "id": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343/",
@@ -714,39 +738,15 @@
       "publishedAt": "2026-11-07T15:16:00Z",
       "summary": "",
       "url": "https://thestarphoenix.com/opinion/lewis-is-ai-medicares-saviour-or-nemesis/"
-    },
-    {
-      "id": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
-      "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse",
-      "source": "searchenginejournal.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:16:00Z",
-      "publishedAt": "2026-11-07T15:16:00Z",
-      "summary": "",
-      "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/"
-    },
-    {
-      "id": "http://www.sanantoniopost.com/news/279418355/mlai-hosts-infrashift-an-ai-hackathon-for-students-and-engineers-with-rs-1-lakh-prize-pool",
-      "title": "ML.ai Hosts INFRASHIFT, an AI hackathon for Students and Engineers with Rs 1 lakh prize pool",
-      "source": "sanantoniopost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:16:00Z",
-      "publishedAt": "2026-11-07T15:16:00Z",
-      "summary": "",
-      "url": "http://www.sanantoniopost.com/news/279418355/mlai-hosts-infrashift-an-ai-hackathon-for-students-and-engineers-with-rs-1-lakh-prize-pool"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 178,
-    "fetchedItems": 1977,
-    "relevantItems": 32,
-    "feedBytes": 527512,
+    "poolSize": 176,
+    "fetchedItems": 3843,
+    "relevantItems": 57,
+    "feedBytes": 1101953,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
