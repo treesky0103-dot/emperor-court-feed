@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 09. 오전 05:25:40",
+  "updatedAt": "2026. 11. 09. 오전 08:54:09",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 150,
-    "passed": 5,
-    "deduped": 5,
-    "eventDeduped": 5,
-    "displayed": 5,
+    "raw": 172,
+    "passed": 6,
+    "deduped": 6,
+    "eventDeduped": 6,
+    "displayed": 6,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -76,6 +76,18 @@
       "publishedAt": "2026-11-08T02:01:00Z",
       "summary": "",
       "url": "https://www.newsway.co.kr/news/view?ud=2026110622243768049"
+    },
+    {
+      "id": "http://www.parisguardian.com/news/279415920/global-ai-spending-boom-raises-financial-risks-puts-indian-it-stocks-in-focus-report",
+      "title": "Global AI spending boom raises financial risks, puts Indian IT stocks in focus: Report",
+      "source": "parisguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T23:47:00Z",
+      "publishedAt": "2026-11-08T23:47:00Z",
+      "summary": "",
+      "url": "http://www.parisguardian.com/news/279415920/global-ai-spending-boom-raises-financial-risks-puts-indian-it-stocks-in-focus-report"
     }
   ],
   "trendItems": [
@@ -116,6 +128,18 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=06494406645643096&mediaCodeNo=257"
     },
     {
+      "id": "http://www.parisguardian.com/news/279415920/global-ai-spending-boom-raises-financial-risks-puts-indian-it-stocks-in-focus-report",
+      "title": "Global AI spending boom raises financial risks, puts Indian IT stocks in focus: Report",
+      "source": "parisguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-08",
+      "dateRaw": "2026-11-08T23:47:00Z",
+      "publishedAt": "2026-11-08T23:47:00Z",
+      "summary": "",
+      "url": "http://www.parisguardian.com/news/279415920/global-ai-spending-boom-raises-financial-risks-puts-indian-it-stocks-in-focus-report"
+    },
+    {
       "id": "https://www.ddaily.co.kr:443/page/view/2026110811052084839",
       "title": "[르포] \"AI에 내 카드를 맡길 수 있을까\"… SKT, 외부 개발자와 '실행형 AI' 해법 찾는다",
       "source": "ddaily.co.kr",
@@ -143,10 +167,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 150,
-    "fetchedItems": 2955,
-    "relevantItems": 31,
-    "feedBytes": 815895,
+    "poolSize": 172,
+    "fetchedItems": 2587,
+    "relevantItems": 62,
+    "feedBytes": 700072,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
