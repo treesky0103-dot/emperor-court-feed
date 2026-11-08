@@ -2,19 +2,19 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 08. 오후 06:10:30",
+  "updatedAt": "2026. 11. 09. 오전 01:03:47",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 176,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
-    "displayed": 10,
+    "raw": 163,
+    "passed": 8,
+    "deduped": 8,
+    "eventDeduped": 8,
+    "displayed": 8,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
     {
@@ -40,18 +40,6 @@
       "publishedAt": "2026-11-08T02:01:00Z",
       "summary": "",
       "url": "https://english.news.cn/asiapacific/20261108/915d8c8f2da64bbe8bccee1a4b00aa08/c.html"
-    },
-    {
-      "id": "https://www.thehindu.com/news/national/kerala/satheesan-pinarayi-trade-sharp-words-over-power-supply-deals-in-keralam/article71678190.ece",
-      "title": "Satheesan, Pinarayi trade sharp words over power supply deals in Keralam",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:17:00Z",
-      "publishedAt": "2026-11-07T15:17:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/kerala/satheesan-pinarayi-trade-sharp-words-over-power-supply-deals-in-keralam/article71678190.ece"
     },
     {
       "id": "https://biz.heraldcorp.com/article/10929416",
@@ -124,18 +112,6 @@
       "publishedAt": "2026-11-07T19:31:00Z",
       "summary": "",
       "url": "https://allafrica.com/stories/202611060201.html"
-    },
-    {
-      "id": "https://www.dailygazette.com/the_recorder/ap/business/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_5041365a-5888-5535-96fe-4689a2530100.html",
-      "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-      "source": "dailygazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:16:00Z",
-      "publishedAt": "2026-11-07T15:16:00Z",
-      "summary": "",
-      "url": "https://www.dailygazette.com/the_recorder/ap/business/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_5041365a-5888-5535-96fe-4689a2530100.html"
     }
   ],
   "trendItems": [
@@ -164,18 +140,6 @@
       "url": "https://english.news.cn/asiapacific/20261108/915d8c8f2da64bbe8bccee1a4b00aa08/c.html"
     },
     {
-      "id": "https://www.thehindu.com/news/national/kerala/satheesan-pinarayi-trade-sharp-words-over-power-supply-deals-in-keralam/article71678190.ece",
-      "title": "Satheesan, Pinarayi trade sharp words over power supply deals in Keralam",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:17:00Z",
-      "publishedAt": "2026-11-07T15:17:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/kerala/satheesan-pinarayi-trade-sharp-words-over-power-supply-deals-in-keralam/article71678190.ece"
-    },
-    {
       "id": "https://biz.heraldcorp.com/article/10929416",
       "title": "美국채금리 움직이는 건 유가 아닌 AI…월가 일찌감치 감지한 이상 신호",
       "source": "biz.heraldcorp.com",
@@ -246,27 +210,15 @@
       "publishedAt": "2026-11-07T19:31:00Z",
       "summary": "",
       "url": "https://www.nwemail.co.uk/news/national/26708887.former-eu-negotiator-warns-uk-will-not-able-pick-choose-trade-rules/"
-    },
-    {
-      "id": "https://www.dailygazette.com/the_recorder/ap/business/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_5041365a-5888-5535-96fe-4689a2530100.html",
-      "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-      "source": "dailygazette.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-07",
-      "dateRaw": "2026-11-07T15:16:00Z",
-      "publishedAt": "2026-11-07T15:16:00Z",
-      "summary": "",
-      "url": "https://www.dailygazette.com/the_recorder/ap/business/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_5041365a-5888-5535-96fe-4689a2530100.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 176,
-    "fetchedItems": 3843,
-    "relevantItems": 57,
-    "feedBytes": 1101953,
+    "poolSize": 163,
+    "fetchedItems": 2248,
+    "relevantItems": 31,
+    "feedBytes": 657102,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
