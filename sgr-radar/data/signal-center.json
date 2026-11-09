@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 09. 오후 01:52:32",
+  "updatedAt": "2026. 11. 09. 오후 10:38:35",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -34,6 +34,20 @@
           "url": "https://www.mk.co.kr/news/economy/12201878",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261109181003",
+          "title": "쭐랄롱꼰대학교, 세계 상위 2% 과학자 150% 증가",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T09:10:03Z",
+          "publishedAt": "2026-11-09T09:10:03Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261109181003",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01931926645644080&mediaCodeNo=257",
@@ -120,30 +134,16 @@
           "publishedAt": "2026-11-06T17:32:00Z",
           "summary": "",
           "url": "https://pann.nate.com/talk/375703830"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/society/12202331",
-          "title": "“갑자기 안경 쓰더니 시험 내내 안경테 만지작”…교육부 조사서 부정행위 적발",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T13:39:34Z",
-          "publishedAt": "2026-11-09T13:39:34Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12202331",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
-          "word": "청년",
+          "word": "교육",
           "count": 5
         },
         {
-          "word": "교육",
-          "count": 4
+          "word": "청년",
+          "count": 5
         },
         {
           "word": "복지",
@@ -172,7 +172,7 @@
           "summary": "",
           "url": "https://www.etnews.com/20261109000049",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.mk.co.kr/news/economy/12202108",
@@ -187,6 +187,20 @@
           "url": "https://www.mk.co.kr/news/economy/12202108",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261109174701",
+          "title": "모티프, 엔비디아 투자 받는다…글로벌 AI '톱5' 도전",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T08:47:01Z",
+          "publishedAt": "2026-11-09T08:47:01Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261109174701",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01728566645644080&mediaCodeNo=257",
@@ -213,32 +227,6 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229690",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261108172642",
-          "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T08:26:42Z",
-          "publishedAt": "2026-11-08T08:26:42Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261108172642",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/politics/politics_general/1286188.html",
-          "title": "민주, 증시 급락에 긴급 당정…김민석 “개인 투자자 보호·시장 신뢰 회복”",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T10:17:00Z",
-          "publishedAt": "2026-11-06T10:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1286188.html"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10930006",
@@ -287,12 +275,24 @@
           "publishedAt": "2026-11-07T08:46:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11629530"
+        },
+        {
+          "id": "https://isplus.com/article/view/isp202611090134",
+          "title": "박해민 \"경기 안 나가는 거야? 못 나가는 거야?\" 삼성의 위대함을 깨운 프러포즈남 박승규 - 일간스포츠",
+          "source": "isplus.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
+          "summary": "",
+          "url": "https://isplus.com/article/view/isp202611090134"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 6
         },
         {
           "word": "금리",
@@ -310,18 +310,32 @@
     "technology": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261108030741",
-          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들",
+          "id": "https://zdnet.co.kr/view/?no=20261109172833",
+          "title": "노타, GPU 4분의 1로 초거대 AI 구동…전력 부담 낮춘다",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T00:54:32Z",
-          "publishedAt": "2026-11-08T00:54:32Z",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T08:28:56Z",
+          "publishedAt": "2026-11-09T08:28:56Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261108030741",
+          "url": "https://zdnet.co.kr/view/?no=20261109172833",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.etnews.com/20261109000247",
+          "title": "에이비스, AI 분석 넘어 디지털병리 플랫폼 사업 확대…IMS 'Glaso' 식약처 제조신고 완료",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:45:59Z",
+          "publishedAt": "2026-11-09T04:45:59Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261109000247",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.mk.co.kr/news/world/12200962",
@@ -336,20 +350,6 @@
           "url": "https://www.mk.co.kr/news/world/12200962",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261109000216",
-          "title": "아이엘, 유럽 AI·로봇 협의체 ADRA 정식 가입…피지컬 AI 사업 확대",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T03:40:08Z",
-          "publishedAt": "2026-11-09T03:40:08Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261109000216",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01977846645644080&mediaCodeNo=257",
@@ -374,6 +374,18 @@
           "publishedAt": "2026-11-08T23:47:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026110822545429367"
+        },
+        {
+          "id": "https://biz.chosun.com/distribution/food/2026/11/09/LZPYTCXNEFDZTFOBXLL35RBQDM/",
+          "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% ↑",
+          "source": "biz.chosun.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
+          "summary": "",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/09/LZPYTCXNEFDZTFOBXLL35RBQDM/"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229782",
@@ -424,31 +436,23 @@
           "publishedAt": "2026-11-07T08:46:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11629530"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026110615254173150",
-          "title": "美 반도체 빅3, 11월 '코리아 러시' - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T02:01:00Z",
-          "publishedAt": "2026-11-08T02:01:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026110615254173150"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "반도체",
-          "count": 5
+          "count": 4
         },
         {
-          "word": "데이터센터",
+          "word": "제조",
+          "count": 3
+        },
+        {
+          "word": "GPU",
           "count": 2
         },
         {
@@ -456,11 +460,11 @@
           "count": 2
         },
         {
-          "word": "로봇",
+          "word": "데이터센터",
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "전력",
           "count": 1
         }
       ],
@@ -521,6 +525,30 @@
           "url": "https://www.nbr.co.nz/politics/greens-say-economic-plan-needed-to-keep-young-people-here/"
         },
         {
+          "id": "https://www.kgou.org/2026-11-09/democrats-won-big-on-issues-like-immigration-but-ice-still-has-the-money",
+          "title": "Democrats won big on issues like immigration. But ICE still has the money",
+          "source": "kgou.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
+          "summary": "",
+          "url": "https://www.kgou.org/2026-11-09/democrats-won-big-on-issues-like-immigration-but-ice-still-has-the-money"
+        },
+        {
+          "id": "https://www.rttnews.com/story.aspx?Id=3711775",
+          "title": "Trump Admits Crackdown On Immigration Was 'too Tough', 'hurt' GOP In Election",
+          "source": "rttnews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
+          "summary": "",
+          "url": "https://www.rttnews.com/story.aspx?Id=3711775"
+        },
+        {
           "id": "http://www.sierraleonetimes.com/news/279420845/arab-america-tracing-the-history-and-growth-of-arab-immigration-in-the-us-and-canada",
           "title": "Arab America: Tracing the history and growth of Arab immigration in the US and Canada",
           "source": "sierraleonetimes.com",
@@ -567,44 +595,16 @@
           "publishedAt": "2026-11-08T23:47:00Z",
           "summary": "",
           "url": "https://www.bursa.ro/less-famous388221-crises-mental-health-in-europe-inadequate-treatment-costs-hundreds-of-billions-of-euros-26559061"
-        },
-        {
-          "id": "https://timesofindia.indiatimes.com/toi-plus/education/school-admissions-study-abroad-competitive-exams-get-ahead-with-toi/articleshow/133178103.cms",
-          "title": "School admissions. Study abroad. Competitive exams. Write to +Education Advisor - The Times of India",
-          "source": "timesofindia.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T20:16:00Z",
-          "publishedAt": "2026-11-08T20:16:00Z",
-          "summary": "",
-          "url": "https://timesofindia.indiatimes.com/toi-plus/education/school-admissions-study-abroad-competitive-exams-get-ahead-with-toi/articleshow/133178103.cms"
-        },
-        {
-          "id": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/society-for-safe-environment-and-welfare-of-agrarians-in-pakistan/",
-          "title": "Society for Safe Environment and Welfare of Agrarians in Pakistan",
-          "source": "girlsnotbrides.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T20:16:00Z",
-          "publishedAt": "2026-11-08T20:16:00Z",
-          "summary": "",
-          "url": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/society-for-safe-environment-and-welfare-of-agrarians-in-pakistan/"
         }
       ],
       "keywords": [
         {
           "word": "이민",
-          "count": 3
+          "count": 5
         },
         {
           "word": "정신건강",
           "count": 3
-        },
-        {
-          "word": "교육",
-          "count": 2
         },
         {
           "word": "청년",
@@ -666,30 +666,6 @@
           "url": "https://perishablenews.com/produce/integrated-u-s-mexico-avocado-supply-chain-fuels-economic-growth-generating-7-1-billion-in-u-s-output/"
         },
         {
-          "id": "http://www.bruneinews.net/news/279415711/economic-watch-china-remains-favored-destination-for-long-term-foreign-investment",
-          "title": "Economic Watch: China remains favored destination for long-term foreign investment",
-          "source": "bruneinews.net",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T10:17:00Z",
-          "publishedAt": "2026-11-06T10:17:00Z",
-          "summary": "",
-          "url": "http://www.bruneinews.net/news/279415711/economic-watch-china-remains-favored-destination-for-long-term-foreign-investment"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261106181057",
-          "title": "미국발 AI 투자 불안…배경훈 부총리 \"경쟁국은 기회로 삼는다\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T10:16:00Z",
-          "publishedAt": "2026-11-06T10:16:00Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261106181057"
-        },
-        {
           "id": "https://www.trend.az/casia/turkmenistan/4244318.html",
           "title": "Turkmenistan's trade turnover growth reaches 110.2% in January-October",
           "source": "trend.az",
@@ -736,6 +712,30 @@
           "publishedAt": "2026-11-06T17:31:00Z",
           "summary": "",
           "url": "http://www.calcuttanews.net/news/279416167/major-projects-and-export-orders-drives-continued-business-growth-for-ksb-limited-in-q3-fy-2026"
+        },
+        {
+          "id": "http://www.shanghaisun.com/news/279421160/ciie-buoyed-by-zero-tariffs-african-exporters-eye-bigger-china-market",
+          "title": "(CIIE) Buoyed by zero tariffs, African exporters eye bigger China market",
+          "source": "shanghaisun.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
+          "summary": "",
+          "url": "http://www.shanghaisun.com/news/279421160/ciie-buoyed-by-zero-tariffs-african-exporters-eye-bigger-china-market"
+        },
+        {
+          "id": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/",
+          "title": "SplashBI opens Hyderabad GCC, announces $100 million investment to strengthen enterprise data intelligence and AI capabilities",
+          "source": "aninews.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
+          "summary": "",
+          "url": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/"
         }
       ],
       "keywords": [
@@ -771,16 +771,16 @@
     "technology": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261106181057",
-          "title": "미국발 AI 투자 불안…배경훈 부총리 \"경쟁국은 기회로 삼는다\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
+          "id": "https://economictimes.indiatimes.com/news/international/us/the-end-customer-is-alibaba-anonymous-claim-links-malaysias-ytl-ai-cloud-to-nvidiamegaspeed-scandal-whats-actually-proven/articleshow/135680911.cms",
+          "title": "'The end customer is Alibaba': Anonymous claim links Malaysia’s YTL AI Cloud to Nvidia–Megaspeed scandal - what’s actually proven",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T10:16:00Z",
-          "publishedAt": "2026-11-06T10:16:00Z",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261106181057"
+          "url": "https://economictimes.indiatimes.com/news/international/us/the-end-customer-is-alibaba-anonymous-claim-links-malaysias-ytl-ai-cloud-to-nvidiamegaspeed-scandal-whats-actually-proven/articleshow/135680911.cms"
         },
         {
           "id": "https://www.newsway.co.kr/news/view?ud=2026110809043001873",
@@ -805,6 +805,18 @@
           "publishedAt": "2026-11-07T22:46:00Z",
           "summary": "",
           "url": "https://www.beurs.nl/Forum/Topic/1396839/Taiwan-Semiconductor-Manufacturing-Company-TSMC_Forum-Taiwan-Semiconductor-Manufacturing-Company-TSMC-geopend.aspx"
+        },
+        {
+          "id": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/",
+          "title": "SplashBI opens Hyderabad GCC, announces $100 million investment to strengthen enterprise data intelligence and AI capabilities",
+          "source": "aninews.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
+          "summary": "",
+          "url": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/"
         },
         {
           "id": "https://www.hindustantimes.com/business/diwali-muhurat-trading-live-updates-sensex-nifty-to-open-for-special-session-at-2-20-pm-investors-eye-blue-chip-stocks-101794125048058.html",
@@ -855,57 +867,49 @@
           "url": "https://wccftech.com/chinese-memory-chip-manufacturer-cxmt-struggles-in-q3-as-share-drops-to-9-amidst-aggressive-ramp-from-samsung-says-research/"
         },
         {
-          "id": "https://www.dealstreetasia.com/stories/ing-data-centre-loans-500370",
-          "title": "ING puts $500m of data centre loans up for sale: report",
-          "source": "dealstreetasia.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T10:16:00Z",
-          "publishedAt": "2026-11-06T10:16:00Z",
-          "summary": "",
-          "url": "https://www.dealstreetasia.com/stories/ing-data-centre-loans-500370"
-        },
-        {
-          "id": "https://www.ibj.com/articles/heres-why-investors-are-dumping-ai-company-stocks-after-dems-election-sweep",
-          "title": "Here's why investors are dumping AI company stocks after Dems’ election sweep - Indianapolis Business Journal",
-          "source": "ibj.com",
+          "id": "https://www.sakshipost.com/news/technology/microsoft-employees-revolt-against-ai-workplace-becomes-joyless-483100",
+          "title": "Microsoft Employees Revolt Against AI: Workplace Becomes Joyless?",
+          "source": "sakshipost.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-09",
-          "dateRaw": "2026-11-09T04:46:00Z",
-          "publishedAt": "2026-11-09T04:46:00Z",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
           "summary": "",
-          "url": "https://www.ibj.com/articles/heres-why-investors-are-dumping-ai-company-stocks-after-dems-election-sweep"
+          "url": "https://www.sakshipost.com/news/technology/microsoft-employees-revolt-against-ai-workplace-becomes-joyless-483100"
         },
         {
-          "id": "https://www.pharmaceuticalonline.com/doc/manufacturing-readiness-why-compliance-is-won-or-lost-on-the-floor-0001",
-          "title": "Manufacturing Readiness: Why Compliance Is Won Or Lost On The Floor",
-          "source": "pharmaceuticalonline.com",
+          "id": "http://www.austinglobe.com/news/279421425/samsung-us-chip-plant-nears-trial-run-in-december-mass-production-planned-for-2027",
+          "title": "Samsung's US chip plant nears trial run in December, mass production planned for 2027",
+          "source": "austinglobe.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-09",
-          "dateRaw": "2026-11-09T04:46:00Z",
-          "publishedAt": "2026-11-09T04:46:00Z",
+          "dateRaw": "2026-11-09T13:32:00Z",
+          "publishedAt": "2026-11-09T13:32:00Z",
           "summary": "",
-          "url": "https://www.pharmaceuticalonline.com/doc/manufacturing-readiness-why-compliance-is-won-or-lost-on-the-floor-0001"
+          "url": "http://www.austinglobe.com/news/279421425/samsung-us-chip-plant-nears-trial-run-in-december-mass-production-planned-for-2027"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 7
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "제조",
-          "count": 3
+          "count": 2
         },
         {
           "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -916,9 +920,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 870,
-    "fetchedItems": 3055,
-    "feedBytes": 791068,
+    "poolSize": 896,
+    "fetchedItems": 5250,
+    "feedBytes": 1528725,
     "rollingWindowHours": 72
   }
 }
