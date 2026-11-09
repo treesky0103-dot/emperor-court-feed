@@ -1,6 +1,592 @@
 {
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-09",
   "days": [
+    {
+      "date": "2026-11-09",
+      "planDay": "2026-11-09",
+      "planSetId": "zps-20261109-4f709d9e",
+      "generatedAt": "2026-11-08T23:46:45.068Z",
+      "publishedAt": "2026-11-09T00:00:05.854Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-11-09",
+        "planSetId": "zps-20261109-4f709d9e",
+        "titles": [
+          "고물가 시대에 내 돈을 지키는 법",
+          "AI 저작권 분쟁을 피하는 방법",
+          "고객 데이터를 보호하는 방법"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "openai/gpt-oss-120b",
+        "hqReady": true,
+        "contentRevision": "zcr-ed69af10",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-11-09T00:00:00.079Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 재무 · 법률 · 마케팅을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "openai/gpt-oss-120b",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-08T23:46:44.557Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-08T23:39:34.338Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-11-08T23:25:05.955Z",
+        "bestsellerDataDate": "2026-11-08",
+        "stale": true,
+        "checkedAt": "2026-11-08T23:46:45.068Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "재무",
+          "field": "재무",
+          "title": "고물가 시대에 내 돈을 지키는 법",
+          "concept": "경제 뉴스와 생활비·부채·현금흐름·장기자산을 연결해 개인 재무 판단을 돕는 실전 가이드.",
+          "why": "프랑스와 네덜란드의 고물가 시위가 보여주듯 물가 상승이 일상에 미치는 영향을 바로 재무 관리에 반영해야 한다.",
+          "competition": "기존 재무 서적은 물가 상승 상황에 맞춘 구체적 전략을 제공하지 않아 차별화가 필요하다.",
+          "reader": "경제 뉴스에 흔들리며 재무 결정을 내리기 어려운 30~50대 직장인 및 자영업자.",
+          "readerNeed": "고물가로 인한 생활비 증가와 자산 가치 하락에 대응할 실질적 재무 관리법을 원한다.",
+          "marketGap": "물가 상승기에 맞춘 단계별 재무 전략과 투자 방안을 제시하는 책이 아직 부족하다.",
+          "differentiation": "고물가 상황을 가정한 현금 흐름 관리, 부채 상환, 장기 투자 로드맵을 구체적으로 제시한다.",
+          "diff": "고물가 상황을 가정한 현금 흐름 관리, 부채 상환, 장기 투자 로드맵을 구체적으로 제시한다.",
+          "toc": [
+            "고물가의 원인과 경제 흐름 분석",
+            "현금 흐름 관리와 생활비 절감 전략",
+            "부채 구조조정과 이자 비용 최소화 방법",
+            "인플레이션 대비 장기 투자 포트폴리오 설계",
+            "실제 사례를 통한 재무 계획 실행 체크리스트"
+          ],
+          "searchQueries": [
+            "고물가 대처",
+            "재무 관리"
+          ],
+          "bookworthiness": {
+            "durability": "고물가 현상은 장기화될 가능성이 높아 지속적인 재무 관리가 필요하다.",
+            "repeatNeed": "재무 관리와 투자 전략은 주기적인 점검과 업데이트가 필수적이다.",
+            "expansionPotential": "다양한 물가 상승 시나리오와 대응 방안을 추가로 다룰 수 있는 확장성이 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김민환",
+              "career": "《2027 하루에 끝장내기 재무관리》 저자 · 도서출판(파란)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《2027 하루에 끝장내기 재무관리》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/199880062",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이석규",
+              "career": "《기업 재무 관리 개론》 저자 · 두양사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《기업 재무 관리 개론》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/3727497",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "노덕환",
+              "career": "《재무 관리 기초》 저자 · 형설출판사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《재무 관리 기초》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/3543721",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김민환",
+          "bestAuthor": "김민환",
+          "authorBrief": "",
+          "headlineCopy": "고물가 시대에 내 돈을 지키는 실전 재무 전략을 만나보세요.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "경제 변동에 흔들리지 않는 판단 기준을 원한다",
+              "즉시 적용 가능한 재무 관리 도구가 필요하다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "‘고물가로 생활비가 급증했다’는 현실적인 상황을 서두에 제시해 독자의 공감을 이끌어낸다.",
+            "trust": "실제 사례와 체크리스트를 통해 제시된 전략의 신뢰성을 지속적으로 강조한다.",
+            "conversion": "무료 요약본 대신 책 전체에서 제공되는 구체적 실행 플랜을 직접 체험하도록 유도한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "고물가가 일시적 현상이라고 생각하는 독자들의 불신",
+              "objection": "‘이미 인터넷에 정보가 많다’는 생각을 가진 독자",
+              "solution": "목차와 서문에서 독자 맞춤형 재무 시뮬레이션을 제시해 차별성을 부각한다."
+            },
+            "positioning": "고물가 시대에 재무 안정성을 확보하고자 하는 모든 이에게 필수적인 실전 가이드이다."
+          },
+          "devilsEditor": {
+            "failureReason": "재무 관리 내용이 복잡해 보일 경우 독자가 포기할 위험이 있다.",
+            "fix": "단계별 실천 체크리스트와 시각적 도표를 삽입해 이해를 돕는다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "고물가가 지속돼 생활비가 급증하는 상황",
+          "riskResponse": "구체적 현금 흐름 관리와 투자 전략으로 물가 상승 위험을 최소화한다.",
+          "judgment": "고물가 시대에 재무 관리가 필수가 된 만큼, 이 책은 독자에게 실질적 안정과 장기 성장 기반을 제공한다.",
+          "evidence": [
+            {
+              "text": "2027 하루에 끝장내기 재무관리 — 김민환 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/199880062"
+            },
+            {
+              "text": "프랑스 4주째 고물가 항의 주말 시위…규모 줄어 15만명 집결(종합) - 연합뉴스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vN2F6Y0VwalhJMmphNThhdFltZjNGOWZRa1NUanVsSlVaN3NuejhTYjRwODdrY20yeGxyNDBlZndHVzZ2bDd1Qzk1ejVQa0g2SFNLMzZzWTVVaEXSAWBBVV95cUxQZWZ0aUNiaExEVlBWcFJMM3dkN2ZmY1pOOUltRzY3S3JxV1VISFlXZk8yZDJ5MV8tejVPZ28wWmNxd3dqN1FKaExfWi00aHRISG80blBxRFlsWXdtcTlkN0o?oc=5"
+            },
+            {
+              "text": "기업 재무 관리 개론 — 이석규 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/3727497"
+            },
+            {
+              "text": "재무 관리 기초 — 노덕환 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/3543721"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 90,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "2027 하루에 끝장내기 재무관리",
+              "author": "김민환 저",
+              "publisher": "도서출판(파란)",
+              "publicationDate": "20261106",
+              "url": "https://www.yes24.com/product/goods/199880062",
+              "matchedQuery": "재무 관리",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "기업 재무 관리 개론",
+              "author": "이석규 저",
+              "publisher": "두양사",
+              "publicationDate": "20100225",
+              "url": "https://www.yes24.com/product/goods/3727497",
+              "matchedQuery": "재무 관리",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "재무 관리 기초",
+              "author": "노덕환 저",
+              "publisher": "형설출판사",
+              "publicationDate": "20090904",
+              "url": "https://www.yes24.com/product/goods/3543721",
+              "matchedQuery": "재무 관리",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-08T23:43:18.652Z",
+            "queries": [
+              "고물가 대처",
+              "재무 관리"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "법률",
+          "field": "법률",
+          "title": "AI 저작권 분쟁을 피하는 방법",
+          "concept": "AI 작업을 세분화하고 인간이 담당할 영역을 재설계해 저작권 리스크를 사전에 차단한다.",
+          "why": "지상파 3사와 네이버의 AI 저작권 소송이 급증하고 있어 기업과 개인 모두 사전 예방이 필요하다.",
+          "competition": "전통 법률 서적은 AI와 저작권의 구체적 충돌 사례와 실무 방안을 충분히 다루지 않는다.",
+          "reader": "AI 도구를 도입하려는 기업 담당자와 저작권 위험을 우려하는 콘텐츠 제작자.",
+          "readerNeed": "AI 활용 과정에서 발생할 수 있는 저작권 분쟁을 미연에 방지할 구체적 절차가 필요하다.",
+          "marketGap": "AI 저작권 리스크를 단계별로 관리하고 책임 소재를 명확히 하는 실무 지침서가 부족하다.",
+          "differentiation": "작업 단위별 AI 활용 가이드와 인간 책임 구역을 명확히 구분해 실천 가능한 방안을 제공한다.",
+          "diff": "작업 단위별 AI 활용 가이드와 인간 책임 구역을 명확히 구분해 실천 가능한 방안을 제공한다.",
+          "toc": [
+            "AI 저작권 기본 원리와 법적 정의",
+            "AI 생성물 유형별 저작권 위험 분석",
+            "작업 흐름에서 AI와 인간 역할 구분 방법",
+            "저작권 분쟁 예방을 위한 계약 및 정책 수립",
+            "실제 기업 사례를 통한 리스크 관리 체크리스트"
+          ],
+          "searchQueries": [
+            "AI 저작권",
+            "법률"
+          ],
+          "bookworthiness": {
+            "durability": "AI와 저작권 이슈는 기술 발전과 함께 지속적으로 등장할 전망이다.",
+            "repeatNeed": "법적 규제와 기술 변화에 따라 지속적인 업데이트와 재학습이 필요하다.",
+            "expansionPotential": "다양한 AI 도구와 산업별 적용 사례를 추가해 책의 범위를 넓힐 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "정지우",
+              "career": "《AI, 글쓰기, 저작권》 저자 · 마름모",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI, 글쓰기, 저작권》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/189007418",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김경숙",
+              "career": "《AI 학습·생성과 저작권》 저자 · 커뮤니케이션북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 학습·생성과 저작권》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/189430122",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "정지우",
+          "bestAuthor": "정지우",
+          "authorBrief": "",
+          "headlineCopy": "AI 시대, 저작권 분쟁 없이 안전하게 작업하는 방법을 알려드립니다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "AI 활용 시 법적 위험을 최소화하고 싶다",
+              "구체적인 계약서와 정책 템플릿을 바로 적용하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "‘AI 저작권 분쟁을 피하고 싶다’는 구체적 고민을 서두에 제시해 타깃 독자를 즉시 끌어들인다.",
+            "trust": "법률 전문가 인터뷰와 실제 기업 사례를 통해 제시된 방안의 신뢰성을 강화한다.",
+            "conversion": "무료 챕터 대신 전체 책에서 제공되는 계약서 템플릿과 체크리스트를 직접 활용하도록 유도한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "AI 저작권이 아직은 모호하고 복잡하다는 인식",
+              "objection": "‘이미 법률 서적에 다 나와 있다’는 생각",
+              "solution": "AI 특화 사례와 실무 적용 가이드를 통해 차별성을 강조한다."
+            },
+            "positioning": "AI 도입 기업과 콘텐츠 제작자가 법적 위험 없이 혁신을 추진하도록 돕는 필수 지침서이다."
+          },
+          "devilsEditor": {
+            "failureReason": "법률 용어가 난해해 독자가 포기할 가능성이 있다.",
+            "fix": "쉽게 이해할 수 있는 사례와 도표를 삽입해 실용성을 높인다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 82,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "AI 저작권 분쟁으로 인한 법적 비용과 평판 손실",
+          "riskResponse": "사전 계약과 정책 수립으로 분쟁 가능성을 근본적으로 차단한다.",
+          "judgment": "AI 활용이 급증하는 현 시점에서 저작권 리스크를 사전에 차단하는 이 책은 기업과 개인 모두에게 반드시 필요한 실무 도구이다.",
+          "evidence": [
+            {
+              "text": "AI, 글쓰기, 저작권 — 정지우 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/189007418"
+            },
+            {
+              "text": "AI 저작권 소송…지상파 3사 \"네이버 끼친 손해액 각 400억대\" - 한국기자협회",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DNDI0OExxazJMMWJiQ0hPWGVMV05YTkdNTG9SNzF6QkRlYzJ4MWxXdWpsTDlENlR2RlhLY0VHQ0JTS21GblV2NW5DV25BNk0wYnY2Uzd2aEU0T1ZqRjN4OU9ubw?oc=5"
+            },
+            {
+              "text": "AI 학습·생성과 저작권 — 김경숙 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/189430122"
+            },
+            {
+              "text": "AI 광고 마케팅 시대의 저작권 — 조광익 저(AI활용)",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/192498910"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "AI, 글쓰기, 저작권",
+              "author": "정지우 저",
+              "publisher": "마름모",
+              "publicationDate": "20260518",
+              "url": "https://www.yes24.com/product/goods/189007418",
+              "matchedQuery": "AI 저작권",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI 학습·생성과 저작권",
+              "author": "김경숙 저",
+              "publisher": "커뮤니케이션북스",
+              "publicationDate": "20260515",
+              "url": "https://www.yes24.com/product/goods/189430122",
+              "matchedQuery": "AI 저작권",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI 광고 마케팅 시대의 저작권",
+              "author": "조광익 저(AI활용)",
+              "publisher": "BOOKK(부크크)",
+              "publicationDate": "20260615",
+              "url": "https://www.yes24.com/product/goods/192498910",
+              "matchedQuery": "AI 저작권",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-08T23:43:19.240Z",
+            "queries": [
+              "AI 저작권",
+              "법률"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "마케팅",
+          "field": "마케팅",
+          "title": "고객 데이터를 보호하는 방법",
+          "concept": "데이터 보안 원칙을 실제 업무에 적용해 고객 신뢰를 유지하고 법적 위험을 최소화한다.",
+          "why": "아마존의 문자 쇼핑 서비스처럼 고객 데이터 유출 위험이 커지고 있어 기업의 보안 대책이 시급하다.",
+          "competition": "기존 마케팅 서적은 데이터 보호 기술보다는 마케팅 전략에 집중해 실질적 보안 지침이 부족하다.",
+          "reader": "데이터 기반 마케팅을 수행하지만 보안에 대한 구체적 지식이 부족한 마케터와 관리자.",
+          "readerNeed": "고객 데이터 유출을 방지하고, 법적·신뢰적 위험을 최소화할 실천 가능한 방법을 찾고 있다.",
+          "marketGap": "마케팅 실무와 데이터 보안을 동시에 다루는 구체적 가이드가 현재 시장에 존재하지 않는다.",
+          "differentiation": "마케팅 프로세스에 보안 체크포인트를 삽입하고, 실제 사례 기반 대응 매뉴얼을 제공한다.",
+          "diff": "마케팅 프로세스에 보안 체크포인트를 삽입하고, 실제 사례 기반 대응 매뉴얼을 제공한다.",
+          "toc": [
+            "고객 데이터 보안 기본 원칙과 법적 요구사항",
+            "데이터 수집·저장 단계별 위험 요소 분석",
+            "보안 정책 수립과 직원 교육 실천 가이드",
+            "유출 사고 대응 절차와 커뮤니케이션 전략",
+            "보안 강화 사례와 지속 가능한 관리 체크리스트"
+          ],
+          "searchQueries": [
+            "고객 데이터",
+            "마케팅"
+          ],
+          "bookworthiness": {
+            "durability": "데이터 보안은 기술 변화와 규제 강화로 장기적인 중요성이 지속된다.",
+            "repeatNeed": "보안 정책은 정기적인 점검과 업데이트가 필수적이다.",
+            "expansionPotential": "다양한 산업별 데이터 보안 사례와 최신 기술 적용 방안을 추가로 다룰 수 있다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "고하마 다이지",
+              "career": "《누구나 할 수 있는 고객데이터 조사법》 저자 · 성림",
+              "why": "YES24에서 이 기획과 인접한 주제의 《누구나 할 수 있는 고객데이터 조사법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/70328",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김영한 역",
+              "career": "《누구나 할 수 있는 고객데이터 조사법》 저자 · 성림",
+              "why": "YES24에서 이 기획과 인접한 주제의 《누구나 할 수 있는 고객데이터 조사법》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/70328",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "정인근",
+              "career": "《고객 니즈가 보이는 데이터 분석 with 파이썬》 저자 · 길벗",
+              "why": "YES24에서 이 기획과 인접한 주제의 《고객 니즈가 보이는 데이터 분석 with 파이썬》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/125892195",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "고하마 다이지",
+          "bestAuthor": "고하마 다이지",
+          "authorBrief": "",
+          "headlineCopy": "고객 데이터를 안전하게 지키며 마케팅 효과를 높이는 방법을 제시합니다.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "고객 데이터 유출 없이 마케팅을 진행하고 싶다",
+              "법적 규제에 맞는 보안 체계를 바로 구축하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "‘고객 데이터 보호가 필요하다’는 현실적 문제를 서두에 제시해 독자의 관심을 즉시 끈다.",
+            "trust": "실제 기업 보안 사례와 체크리스트를 통해 제시된 방법의 실효성을 지속적으로 강조한다.",
+            "conversion": "무료 요약 대신 전체 책에서 제공되는 보안 정책 템플릿과 대응 매뉴얼을 직접 활용하도록 유도한다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "데이터 보안이 복잡하고 비용이 많이 든다는 인식",
+              "objection": "‘이미 기본 보안만으로 충분하다’는 생각",
+              "solution": "구체적인 비용 절감 방안과 단계별 실행 로드맵을 제시한다."
+            },
+            "positioning": "데이터 보안을 강화하면서도 마케팅 효율을 높이고자 하는 모든 기업에 필수적인 실무 가이드이다."
+          },
+          "devilsEditor": {
+            "failureReason": "보안 용어와 절차가 난해해 독자가 포기할 위험이 있다.",
+            "fix": "쉽게 적용 가능한 체크리스트와 시각적 흐름도를 제공해 실천성을 높인다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "고객 데이터 유출로 인한 신뢰 손실과 법적 제재",
+          "riskResponse": "예방 중심 정책과 사고 대응 매뉴얼로 위험을 사전에 차단한다.",
+          "judgment": "데이터 보안이 마케팅 성공의 핵심인 만큼, 이 책은 기업이 신뢰를 유지하고 지속 가능한 성장을 이루게 하는 필수 도구이다.",
+          "evidence": [
+            {
+              "text": "누구나 할 수 있는 고객데이터 조사법 — 고하마 다이지 저/김영한 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/70328"
+            },
+            {
+              "text": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시 - AI타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03UXRLeUFsalktX3c1NjhrSzZiTEd3N1E5Sm1TM2N1VnVMbTVyUGtuNVh4YmIyZFo0cjR5aVRzMEVJRWN1QjRoRmZ4R3V1MzNCTmpTVk9DSUFMZHBIczctQTQ0bldUYlNoUEE?oc=5"
+            },
+            {
+              "text": "고객 니즈가 보이는 데이터 분석 with 파이썬 — 정인근 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/125892195"
+            },
+            {
+              "text": "디지털 트랜스포메이션의 성공 조건, 데이터 드리븐 고객 경험 — 이주호,이선희 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/115816508"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "누구나 할 수 있는 고객데이터 조사법",
+              "author": "고하마 다이지 저/김영한 역",
+              "publisher": "성림",
+              "publicationDate": "19930630",
+              "url": "https://www.yes24.com/product/goods/70328",
+              "matchedQuery": "고객 데이터",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "고객 니즈가 보이는 데이터 분석 with 파이썬",
+              "author": "정인근 저",
+              "publisher": "길벗",
+              "publicationDate": "20240422",
+              "url": "https://www.yes24.com/product/goods/125892195",
+              "matchedQuery": "고객 데이터",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "디지털 트랜스포메이션의 성공 조건, 데이터 드리븐 고객 경험",
+              "author": "이주호,이선희 공저",
+              "publisher": "바른북스",
+              "publicationDate": "20221201",
+              "url": "https://www.yes24.com/product/goods/115816508",
+              "matchedQuery": "고객 데이터",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-08T23:43:19.813Z",
+            "queries": [
+              "고객 데이터",
+              "마케팅"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "planDay": "2026-11-07",
@@ -31506,26 +32092,9 @@
           "type": "사회·AI·공공혁신"
         }
       ]
-    },
-    {
-      "date": "2026-09-21",
-      "plans": [
-        {
-          "title": "가족의 규칙은 다시 정할 수 있습니다",
-          "type": "가족·사회·관계"
-        },
-        {
-          "title": "정답을 고르는 아이에서 답을 만드는 아이로",
-          "type": "교육·자녀교육·학습법"
-        },
-        {
-          "title": "반도체를 알면 한국 경제가 보입니다",
-          "type": "경제·산업·투자교양"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261107-f2e7ae97",
+  "activePlanSetId": "zps-20261109-4f709d9e",
   "discardedDays": [
     {
       "date": "2026-09-29",
