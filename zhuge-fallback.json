@@ -3,7 +3,7 @@
   "planDay": "2026-11-09",
   "planSetId": "zps-20261109-4f709d9e",
   "generatedAt": "2026-11-08T23:46:45.068Z",
-  "publishedAt": "2026-11-09T00:10:03.627Z",
+  "publishedAt": "2026-11-09T00:18:04.558Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -230,7 +230,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-09T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "고물가 시대에 내 돈을 지키는 법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "고물가 시대에 내 돈을 지키는 실전 재무 전략을 만나보라.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "003",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "생활비 증가와 자산 가치 하락에 대응할 실질적 재무 관리법을 원한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "027",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "연결해 개인 재무 판단을 돕는 실전 가이드.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "물가 상승이 일상에 미치는 영향을 바로 재무 관리에 반영해야 한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "흐름 관리, 부채 상환, 장기 투자 로드맵을 구체적으로 제시한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "재무 관리 내용이 복잡해 보일 경우 독자가 포기할 위험이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "041",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-ed69af10"
+      }
     },
     {
       "type": "법률",
@@ -402,7 +507,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-09T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "AI 저작권 분쟁을 피하는 방법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "AI 시대, 저작권 분쟁 없이 안전하게 작업하는 방법을 알려드립니다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "005",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "발생할 수 있는 저작권 분쟁을 미연에 방지할 구체적 절차가 필요하다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "014",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "인간이 담당할 영역을 재설계해 저작권 리스크를 사전에 차단한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "023",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "저작권 소송이 급증하고 있어 기업과 개인 모두 사전 예방이 필요하다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "016",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "인간 책임 구역을 명확히 구분해 실천 가능한 방안을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "034",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "법률 용어가 난해해 독자가 포기할 가능성이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "050",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-ed69af10"
+      }
     },
     {
       "type": "마케팅",
@@ -581,8 +791,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-09T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "고객 데이터를 보호하는 방법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "고객 데이터를 안전하게 지키며 효과를 높이는 방법을 제시한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "001",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "법적·신뢰적 위험을 최소화할 실천 가능한 방법을 찾고 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "실제 업무에 적용해 고객 신뢰를 유지하고 법적 위험을 최소화한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "018",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "고객 데이터 유출 위험이 커지고 있어 기업의 보안 대책이 시급하다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "보안 체크포인트를 삽입하고, 실제 사례 기반 대응 매뉴얼을 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "031",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "보안 용어와 절차가 난해해 독자가 포기할 위험이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "043",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-ed69af10"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261109-4f709d9e",
+    "file": "cardnews/2026-11-09.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
