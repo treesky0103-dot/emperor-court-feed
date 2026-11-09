@@ -3,7 +3,7 @@
   "planDay": "2026-11-09",
   "planSetId": "zps-20261109-4f709d9e",
   "generatedAt": "2026-11-08T23:46:45.068Z",
-  "publishedAt": "2026-11-09T00:21:08.117Z",
+  "publishedAt": "2026-11-09T01:01:02.313Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -545,7 +545,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-ed69af10",
         "status": "ready",
-        "generatedAt": "2026-11-09T00:18:53.967Z",
+        "generatedAt": "2026-11-09T00:25:58.506Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -553,98 +553,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 15,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "duke archives of the anthropocene",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 157542,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "ohio state jk rowling and the anti trans panic",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 75,
-              "score": 57,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 101320,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "ABCD Awards 2018",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 315752,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "california bridge to an unseen shore",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 228822,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -821,7 +730,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-09T00:18:43.221Z",
+        "generatedAt": "2026-11-09T00:25:56.583Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1132,7 +1041,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-ed69af10",
         "status": "ready",
-        "generatedAt": "2026-11-09T00:19:03.566Z",
+        "generatedAt": "2026-11-09T00:26:00.911Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1140,98 +1049,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 12,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "ohio state jk rowling and the anti trans panic",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 101320,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "duke ninety nine",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 67452,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "kentucky carrying the bones",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 109240,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "kentucky this is a game i play",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 175400,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1415,7 +1233,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-09T00:18:43.221Z",
+        "generatedAt": "2026-11-09T00:25:56.583Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1726,7 +1544,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-ed69af10",
         "status": "ready",
-        "generatedAt": "2026-11-09T00:19:13.348Z",
+        "generatedAt": "2026-11-09T00:26:03.611Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1734,98 +1552,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 8,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "ohio state jk rowling and the anti trans panic",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 101320,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens batten down",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 30,
-              "genre": 45,
-              "design": 85,
-              "score": 69,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 138278,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "newsouth the lady with the dog",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 116960,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "northwestern blow yourself up",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 59088,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     }
   ],
