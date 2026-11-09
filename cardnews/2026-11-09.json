@@ -9,13 +9,13 @@
     "AI 저작권 분쟁을 피하는 방법",
     "고객 데이터를 보호하는 방법"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-11-09T00:18:00.001Z",
+  "provider": "partial-mixed",
+  "generatedAt": "2026-11-09T00:21:03.055Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-09T00:18:00.001Z",
+      "generatedAt": "2026-11-09T00:20:40.942Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,87 +40,84 @@
         ]
       },
       "bookTitle": "고물가 시대에 내 돈을 지키는 법",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "고물가 시대에 내 돈을 지키는 실전 재무 전략을 만나보라.",
+          "headline": "물가 폭등, 내 돈이 사라지는 순간",
           "body": "",
           "accent": "yellow",
           "sceneId": "003",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "생활비 증가와 자산 가치 하락에 대응할 실질적 재무 관리법을 원한다.",
+          "headline": "월급은 그대로인데 생활비가 눈에 띄게 늘었다면",
           "body": "",
           "accent": "yellow",
           "sceneId": "027",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "구체적 증상",
-          "headline": "연결해 개인 재무 판단을 돕는 실전 가이드.",
+          "headline": "식비가 쑥쑥, 교통비는 끊임없이 오르고 있다면",
           "body": "",
           "accent": "yellow",
           "sceneId": "024",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "물가 상승이 일상에 미치는 영향을 바로 재무 관리에 반영해야 한다.",
+          "headline": "그건 재무 관리가 뒤처졌다는 신호다",
           "body": "",
           "accent": "yellow",
           "sceneId": "019",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "흐름 관리, 부채 상환, 장기 투자 로드맵을 구체적으로 제시한다.",
+          "headline": "지금 바로 현금 흐름표를 작성하고 지출을 재분류하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "033",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "재무 관리 내용이 복잡해 보일 경우 독자가 포기할 위험이 있다.",
+          "headline": "재정 안정을 위한 첫걸음은 ‘보이는 것’부터 시작한다",
           "body": "",
           "accent": "yellow",
           "sceneId": "041",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-ed69af10"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-09T00:18:00.001Z",
+      "generatedAt": "2026-11-09T00:18:43.221Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,10 +142,10 @@
         ]
       },
       "bookTitle": "AI 저작권 분쟁을 피하는 방법",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -217,15 +214,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-ed69af10"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-09T00:18:00.001Z",
+      "generatedAt": "2026-11-09T00:18:43.221Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,10 +244,10 @@
         ]
       },
       "bookTitle": "고객 데이터를 보호하는 방법",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -322,9 +316,6 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-ed69af10"
     }
   ]
