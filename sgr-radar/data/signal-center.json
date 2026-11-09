@@ -1,12 +1,26 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 09. 오전 08:54:11",
+  "updatedAt": "2026. 11. 09. 오후 01:52:32",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.etnews.com/20261109000188",
+          "title": "KCA, 한국복지정보통신협의회와 고령층 피지컬 AI 로봇 활용교육",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T02:36:24Z",
+          "publishedAt": "2026-11-09T02:36:24Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261109000188",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
         {
           "id": "https://www.mk.co.kr/news/economy/12201878",
           "title": "[단독] 근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'",
@@ -22,20 +36,6 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261108000099",
-          "title": "서울동구고, 자격증 취득부터 AI 활용까지…자격증·NCS·AI 활용 취업 전략 등 실무 중심 교육 지원",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T13:33:33Z",
-          "publishedAt": "2026-11-08T13:33:33Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261108000099",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01931926645644080&mediaCodeNo=257",
           "title": "“한 번 삐끗하면 끝장”…실패 숨기는 한국 청년들",
           "source": "edaily.co.kr",
@@ -46,20 +46,6 @@
           "publishedAt": "2026-11-08T23:47:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01931926645644080&mediaCodeNo=257"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261106093054",
-          "title": "애플, iOS 27.3 첫 공개 베타 출시 \"새 건강 앱·아이폰 듀오 편의성 개선\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T02:26:12Z",
-          "publishedAt": "2026-11-06T02:26:12Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261106093054",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10928750",
@@ -74,16 +60,16 @@
           "url": "https://biz.heraldcorp.com/article/10928750"
         },
         {
-          "id": "https://www.ddaily.co.kr:443/page/view/2026110610141081704",
-          "title": "기아, 광주에 3조원 투자…지자체·대학 손잡고 미래차 전환 속도",
-          "source": "ddaily.co.kr",
+          "id": "http://www.ihalla.com/article.php?aid=1794190865792551014",
+          "title": "제주교육청 내년 예산안 1조6170억원 편성",
+          "source": "ihalla.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T02:47:00Z",
-          "publishedAt": "2026-11-06T02:47:00Z",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
           "summary": "",
-          "url": "https://www.ddaily.co.kr:443/page/view/2026110610141081704"
+          "url": "http://www.ihalla.com/article.php?aid=1794190865792551014"
         },
         {
           "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282851&CMPT_CD=M0152",
@@ -134,6 +120,20 @@
           "publishedAt": "2026-11-06T17:32:00Z",
           "summary": "",
           "url": "https://pann.nate.com/talk/375703830"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/society/12202331",
+          "title": "“갑자기 안경 쓰더니 시험 내내 안경테 만지작”…교육부 조사서 부정행위 적발",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T13:39:34Z",
+          "publishedAt": "2026-11-09T13:39:34Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12202331",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
@@ -143,14 +143,14 @@
         },
         {
           "word": "교육",
-          "count": 3
-        },
-        {
-          "word": "돌봄",
-          "count": 1
+          "count": 4
         },
         {
           "word": "복지",
+          "count": 2
+        },
+        {
+          "word": "돌봄",
           "count": 1
         }
       ],
@@ -161,32 +161,32 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261107000038",
-          "title": "경기도의회, '지역화폐·배달특급' 운영 개선 촉구…경제실 대상 행감",
+          "id": "https://www.etnews.com/20261109000049",
+          "title": "경기창조경제혁신센터, 로보월드서 경기도 창업기업 미국 투자사에 연결",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-07",
-          "dateRaw": "2026-11-07T13:28:47Z",
-          "publishedAt": "2026-11-07T13:28:47Z",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T00:15:12Z",
+          "publishedAt": "2026-11-09T00:15:12Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261107000038",
+          "url": "https://www.etnews.com/20261109000049",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.mk.co.kr/news/society/12202025",
-          "title": "“경호원까지 고용했다”…남대문 시장 ‘스카프 아저씨’ 무슨일이",
+          "id": "https://www.mk.co.kr/news/economy/12202108",
+          "title": "내년 금리는 어떻게 될까…“반도체 꺾이면 한은도 돌아선다” 씨티銀 분석",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-09",
-          "dateRaw": "2026-11-09T08:47:19Z",
-          "publishedAt": "2026-11-09T08:47:19Z",
+          "dateRaw": "2026-11-09T10:26:41Z",
+          "publishedAt": "2026-11-09T10:26:41Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12202025",
+          "url": "https://www.mk.co.kr/news/economy/12202108",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01728566645644080&mediaCodeNo=257",
@@ -241,18 +241,6 @@
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1286188.html"
         },
         {
-          "id": "https://www.etoday.co.kr/news/view/2644956",
-          "title": "이달 최대 리스크는 '주요국 고금리 장기화'⋯\"미 중간선거 후 재정협상도 변수\"",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T02:46:00Z",
-          "publishedAt": "2026-11-06T02:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2644956"
-        },
-        {
           "id": "https://biz.heraldcorp.com/article/10930006",
           "title": "‘20만전자’ 깨지고 6% 폭락한 코스피, 美반도체주 반등·반발 매수 ‘기대’…‘오천피’ 사수할까 [투자360]",
           "source": "biz.heraldcorp.com",
@@ -287,19 +275,31 @@
           "publishedAt": "2026-11-08T09:02:00Z",
           "summary": "",
           "url": "https://www.newspim.com/news/view/20261019000514"
+        },
+        {
+          "id": "https://www.munhwa.com:443/article/11629530",
+          "title": "오픈AI, 美 민주당 승리에도 “데이터센터 15조 투자 계속 진행”",
+          "source": "munhwa.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-07",
+          "dateRaw": "2026-11-07T08:46:00Z",
+          "publishedAt": "2026-11-07T08:46:00Z",
+          "summary": "",
+          "url": "https://www.munhwa.com:443/article/11629530"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 7
         },
         {
           "word": "금리",
           "count": 2
         },
         {
-          "word": "고용",
+          "word": "기업",
           "count": 1
         }
       ],
@@ -338,6 +338,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://www.etnews.com/20261109000216",
+          "title": "아이엘, 유럽 AI·로봇 협의체 ADRA 정식 가입…피지컬 AI 사업 확대",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T03:40:08Z",
+          "publishedAt": "2026-11-09T03:40:08Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261109000216",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01977846645644080&mediaCodeNo=257",
           "title": "[마켓무버]뉴욕증시, AI 반도체 저가 매수에 나스닥 1% 반등…금리 부담은 여전",
           "source": "edaily.co.kr",
@@ -348,20 +362,6 @@
           "publishedAt": "2026-11-08T23:47:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01977846645644080&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.etnews.com/20261106000220",
-          "title": "최백준 틸론 대표 “제주 데이터센터, AI 시대 위기 극복할 핵심 성장동력”",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T03:00:00Z",
-          "publishedAt": "2026-11-08T03:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261106000220",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026110822545429367",
@@ -376,6 +376,20 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026110822545429367"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229782",
+          "title": "AI 반도체 올인한 개미들 '비명'…코스피, 장 초반 보합세로 '5천선' 간신히 사수 [아침&매일경제]",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T01:00:00Z",
+          "publishedAt": "2026-11-09T01:00:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229782",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://kbench.com/?q=node/282532",
           "title": "지멘스, 제조 데이터와 AI 업무 실행 연결하는 '인텔리전스 센터 X' 국내 공개",
           "source": "kbench.com",
@@ -386,32 +400,6 @@
           "publishedAt": "2026-11-07T08:46:00Z",
           "summary": "",
           "url": "https://kbench.com/?q=node/282532"
-        },
-        {
-          "id": "https://www.etoday.co.kr/news/view/2645036",
-          "title": "美 AI 허브 텍사스에 제동⋯주지사 당선인 “데이터센터 사업 멈춰야”",
-          "source": "etoday.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T02:46:00Z",
-          "publishedAt": "2026-11-06T02:46:00Z",
-          "summary": "",
-          "url": "https://www.etoday.co.kr/news/view/2645036"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229400",
-          "title": "서울대 시스템면역의학연구소, UAE 라이프파마와 맞손 \"AI·항암 바이오 영토 넓힌다\"",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T01:33:00Z",
-          "publishedAt": "2026-11-06T01:33:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229400",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10930006",
@@ -436,6 +424,18 @@
           "publishedAt": "2026-11-07T08:46:00Z",
           "summary": "",
           "url": "https://www.munhwa.com:443/article/11629530"
+        },
+        {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026110615254173150",
+          "title": "美 반도체 빅3, 11월 '코리아 러시' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-08",
+          "dateRaw": "2026-11-08T02:01:00Z",
+          "publishedAt": "2026-11-08T02:01:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026110615254173150"
         }
       ],
       "keywords": [
@@ -444,19 +444,19 @@
           "count": 8
         },
         {
-          "word": "데이터센터",
-          "count": 4
+          "word": "반도체",
+          "count": 5
         },
         {
-          "word": "반도체",
-          "count": 3
+          "word": "데이터센터",
+          "count": 2
         },
         {
           "word": "클라우드",
           "count": 2
         },
         {
-          "word": "바이오",
+          "word": "로봇",
           "count": 1
         },
         {
@@ -485,6 +485,30 @@
           "url": "https://townhall.com/news/scott-mcclallen/2026/11/07/healthcare-execs-accused-of-billing-14-million-for-youth-mental-health-services-n2686052"
         },
         {
+          "id": "https://www.stgeorgeutah.com/news/immigration-could-be-a-solution-to-utah-s-wicked-demographic-woes-researchers-say/article_288d0434-33ad-4867-ac6c-7dc06f887bd3.html",
+          "title": "Immigration could be a solution to Utah’s ‘wicked’ demographic woes, researchers say",
+          "source": "stgeorgeutah.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.stgeorgeutah.com/news/immigration-could-be-a-solution-to-utah-s-wicked-demographic-woes-researchers-say/article_288d0434-33ad-4867-ac6c-7dc06f887bd3.html"
+        },
+        {
+          "id": "https://www.tokyoreporter.com/japan-news/chinese-ring-swindled-millions-in-welfare-by-posing-as-wwii-orphan-police/",
+          "title": "Chinese ring swindled millions in welfare by posing as WWII orphan: police - TokyoReporter",
+          "source": "tokyoreporter.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.tokyoreporter.com/japan-news/chinese-ring-swindled-millions-in-welfare-by-posing-as-wwii-orphan-police/"
+        },
+        {
           "id": "https://www.nbr.co.nz/politics/greens-say-economic-plan-needed-to-keep-young-people-here/",
           "title": "Greens say emigration will cause $76b in lost GDP over 40 years - NBR | Business news & analysis | Independent, ad-free reporting",
           "source": "nbr.co.nz",
@@ -497,40 +521,28 @@
           "url": "https://www.nbr.co.nz/politics/greens-say-economic-plan-needed-to-keep-young-people-here/"
         },
         {
-          "id": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/how-immigration-policy-and-ice-enforcement-could-change-under-democrats",
-          "title": "How immigration policy and ICE enforcement could change under Democrats",
-          "source": "ketr.org",
+          "id": "http://www.sierraleonetimes.com/news/279420845/arab-america-tracing-the-history-and-growth-of-arab-immigration-in-the-us-and-canada",
+          "title": "Arab America: Tracing the history and growth of Arab immigration in the US and Canada",
+          "source": "sierraleonetimes.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T22:16:00Z",
-          "publishedAt": "2026-11-06T22:16:00Z",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
           "summary": "",
-          "url": "https://www.ketr.org/stories-from-texas-stations/2026-11-06/how-immigration-policy-and-ice-enforcement-could-change-under-democrats"
+          "url": "http://www.sierraleonetimes.com/news/279420845/arab-america-tracing-the-history-and-growth-of-arab-immigration-in-the-us-and-canada"
         },
         {
-          "id": "https://www.stripes.com/branches/army/2026-11-06/mwr-returns-social-media-23382405.html",
-          "title": "MWR returns to Facebook after Army authorizes social media policy exemption",
-          "source": "stripes.com",
+          "id": "https://www.newson6.com/tulsa-oklahoma-news/trumps-60-minutes-interview-gop-midterms-immigration",
+          "title": "10 takeaways from Trump's 60 Minutes interview: Why GOP lost midterms, what went wrong on immigration, more",
+          "source": "newson6.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T17:32:00Z",
-          "publishedAt": "2026-11-06T17:32:00Z",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
           "summary": "",
-          "url": "https://www.stripes.com/branches/army/2026-11-06/mwr-returns-social-media-23382405.html"
-        },
-        {
-          "id": "https://www.madhyamam.com/kerala/local-news/kannur/three-arrested-for-beating-youth-who-reported-cannabis-to-excise-1569580",
-          "title": "കഞ്ചാവ് വിവരം എക്‌സൈസിനെ അറിയിച്ചെന്ന്; യുവാവിന് ക്രൂര മർദനം, മൂന്നുപേർ അറസ്റ്റിൽ | Three Arrested for Beating Youth Who Reported Cannabis to Excise | Madhyamam",
-          "source": "madhyamam.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T02:47:00Z",
-          "publishedAt": "2026-11-06T02:47:00Z",
-          "summary": "",
-          "url": "https://www.madhyamam.com/kerala/local-news/kannur/three-arrested-for-beating-youth-who-reported-cannabis-to-excise-1569580"
+          "url": "https://www.newson6.com/tulsa-oklahoma-news/trumps-60-minutes-interview-gop-midterms-immigration"
         },
         {
           "id": "https://www.nbcphiladelphia.com/community/nbcuniversal-local-impact-grants/seans-house-offers-free-mental-health-support-to-teens-young-adults-in-del/4493078/",
@@ -579,21 +591,13 @@
           "publishedAt": "2026-11-08T20:16:00Z",
           "summary": "",
           "url": "https://www.girlsnotbrides.org/en/our-partnership/member-directory/society-for-safe-environment-and-welfare-of-agrarians-in-pakistan/"
-        },
-        {
-          "id": "https://www.winnipegfreepress.com/canada/2026/11/08/quebec-immigration-minister-shocked-by-more-than-100-cases-of-alleged-fraud",
-          "title": "Quebec immigration minister ‘shocked’ by more than 100 cases of alleged fraud",
-          "source": "winnipegfreepress.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T20:16:00Z",
-          "publishedAt": "2026-11-08T20:16:00Z",
-          "summary": "",
-          "url": "https://www.winnipegfreepress.com/canada/2026/11/08/quebec-immigration-minister-shocked-by-more-than-100-cases-of-alleged-fraud"
         }
       ],
       "keywords": [
+        {
+          "word": "이민",
+          "count": 3
+        },
         {
           "word": "정신건강",
           "count": 3
@@ -603,12 +607,8 @@
           "count": 2
         },
         {
-          "word": "이민",
-          "count": 2
-        },
-        {
           "word": "청년",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -807,30 +807,6 @@
           "url": "https://www.beurs.nl/Forum/Topic/1396839/Taiwan-Semiconductor-Manufacturing-Company-TSMC_Forum-Taiwan-Semiconductor-Manufacturing-Company-TSMC-geopend.aspx"
         },
         {
-          "id": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/",
-          "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips",
-          "source": "247wallst.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T17:31:00Z",
-          "publishedAt": "2026-11-06T17:31:00Z",
-          "summary": "",
-          "url": "https://247wallst.com/investing/2026/11/06/iren-says-new-ai-cloud-customers-are-prepaying-90-of-the-chips/"
-        },
-        {
-          "id": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-          "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-          "source": "cnbc.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-06",
-          "dateRaw": "2026-11-06T02:47:00Z",
-          "publishedAt": "2026-11-06T02:47:00Z",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"
-        },
-        {
           "id": "https://www.hindustantimes.com/business/diwali-muhurat-trading-live-updates-sensex-nifty-to-open-for-special-session-at-2-20-pm-investors-eye-blue-chip-stocks-101794125048058.html",
           "title": "Diwali muhurat trading LIVE updates: Markets open for special session, investors eye blue-chip stocks",
           "source": "hindustantimes.com",
@@ -889,6 +865,30 @@
           "publishedAt": "2026-11-06T10:16:00Z",
           "summary": "",
           "url": "https://www.dealstreetasia.com/stories/ing-data-centre-loans-500370"
+        },
+        {
+          "id": "https://www.ibj.com/articles/heres-why-investors-are-dumping-ai-company-stocks-after-dems-election-sweep",
+          "title": "Here's why investors are dumping AI company stocks after Dems’ election sweep - Indianapolis Business Journal",
+          "source": "ibj.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.ibj.com/articles/heres-why-investors-are-dumping-ai-company-stocks-after-dems-election-sweep"
+        },
+        {
+          "id": "https://www.pharmaceuticalonline.com/doc/manufacturing-readiness-why-compliance-is-won-or-lost-on-the-floor-0001",
+          "title": "Manufacturing Readiness: Why Compliance Is Won Or Lost On The Floor",
+          "source": "pharmaceuticalonline.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T04:46:00Z",
+          "publishedAt": "2026-11-09T04:46:00Z",
+          "summary": "",
+          "url": "https://www.pharmaceuticalonline.com/doc/manufacturing-readiness-why-compliance-is-won-or-lost-on-the-floor-0001"
         }
       ],
       "keywords": [
@@ -898,18 +898,14 @@
         },
         {
           "word": "반도체",
-          "count": 5
+          "count": 4
         },
         {
           "word": "제조",
-          "count": 2
+          "count": 3
         },
         {
           "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -920,9 +916,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 960,
-    "fetchedItems": 2587,
-    "feedBytes": 700072,
+    "poolSize": 870,
+    "fetchedItems": 3055,
+    "feedBytes": 791068,
     "rollingWindowHours": 72
   }
 }
