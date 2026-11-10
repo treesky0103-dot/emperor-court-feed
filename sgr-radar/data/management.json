@@ -2,19 +2,19 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 10. 오후 09:58:38",
+  "updatedAt": "2026. 11. 11. 오전 05:25:03",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 346,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
-    "displayed": 10,
+    "raw": 353,
+    "passed": 8,
+    "deduped": 8,
+    "eventDeduped": 8,
+    "displayed": 8,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
     {
@@ -76,30 +76,6 @@
       "publishedAt": "2026-11-10T04:31:00Z",
       "summary": "",
       "url": "https://econotimes.com/UBS-Chief-Warns-U-S-Midterm-Results-Could-Slow-AI-Infrastructure-Spending-1774192"
-    },
-    {
-      "id": "https://www.sakshipost.com/news/technology/microsoft-employees-revolt-against-ai-workplace-becomes-joyless-483100",
-      "title": "Microsoft Employees Revolt Against AI: Workplace Becomes Joyless?",
-      "source": "sakshipost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T13:32:00Z",
-      "publishedAt": "2026-11-09T13:32:00Z",
-      "summary": "",
-      "url": "https://www.sakshipost.com/news/technology/microsoft-employees-revolt-against-ai-workplace-becomes-joyless-483100"
-    },
-    {
-      "id": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/",
-      "title": "SplashBI opens Hyderabad GCC, announces $100 million investment to strengthen enterprise data intelligence and AI capabilities",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T13:32:00Z",
-      "publishedAt": "2026-11-09T13:32:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/"
     },
     {
       "id": "https://en.shafaqna.com/488189/ai-job-market-employment-risks-new-opportunities/",
@@ -200,30 +176,6 @@
       "url": "https://econotimes.com/UBS-Chief-Warns-U-S-Midterm-Results-Could-Slow-AI-Infrastructure-Spending-1774192"
     },
     {
-      "id": "https://www.sakshipost.com/news/technology/microsoft-employees-revolt-against-ai-workplace-becomes-joyless-483100",
-      "title": "Microsoft Employees Revolt Against AI: Workplace Becomes Joyless?",
-      "source": "sakshipost.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T13:32:00Z",
-      "publishedAt": "2026-11-09T13:32:00Z",
-      "summary": "",
-      "url": "https://www.sakshipost.com/news/technology/microsoft-employees-revolt-against-ai-workplace-becomes-joyless-483100"
-    },
-    {
-      "id": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/",
-      "title": "SplashBI opens Hyderabad GCC, announces $100 million investment to strengthen enterprise data intelligence and AI capabilities",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T13:32:00Z",
-      "publishedAt": "2026-11-09T13:32:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/national/general-news/splashbi-opens-hyderabad-gcc-announces-100-million-investment-to-strengthen-enterprise-data-intelligence-and-ai-capabilities20261109171546/"
-    },
-    {
       "id": "https://en.shafaqna.com/488189/ai-job-market-employment-risks-new-opportunities/",
       "title": "AI is reshaping the jobs market, creating winners and putting others at risk - Shafaqna English | International Shia News & Fatwas",
       "source": "en.shafaqna.com",
@@ -263,10 +215,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 346,
-    "fetchedItems": 6618,
-    "relevantItems": 120,
-    "feedBytes": 1906182,
+    "poolSize": 353,
+    "fetchedItems": 4513,
+    "relevantItems": 93,
+    "feedBytes": 1287217,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
