@@ -1,12 +1,26 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 10. 오전 08:10:47",
+  "updatedAt": "2026. 11. 10. 오후 01:37:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/society/12203717",
+          "title": "노동자 건강검진 속이려 납 농도 낮추는 주사 5번이나…복지부 칼 빼 들었다",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T11:18:04Z",
+          "publishedAt": "2026-11-10T11:18:04Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/society/12203717",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
         {
           "id": "https://www.etnews.com/20261109000188",
           "title": "KCA, 한국복지정보통신협의회와 고령층 피지컬 AI 로봇 활용교육",
@@ -20,20 +34,6 @@
           "url": "https://www.etnews.com/20261109000188",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/economy/12201878",
-          "title": "[단독] 근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T17:39:48Z",
-          "publishedAt": "2026-11-08T17:39:48Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12201878",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261109181003",
@@ -62,6 +62,18 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01931926645644080&mediaCodeNo=257"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261030000861",
+          "title": "[60초 교육정책] 어린이집·유치원 입소·입학 신청 이달 2일부터…유보통합포털 활용",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261030000861"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10928750",
           "title": "“집·교통 정책 의견 청년에 묻는다”…국토부, 청년자문단 공개모집",
           "source": "biz.heraldcorp.com",
@@ -74,6 +86,44 @@
           "url": "https://biz.heraldcorp.com/article/10928750"
         },
         {
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283459&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "은둔, 고립 청년 50만 명 통계를 보고 깜짝 놀랐다",
+          "source": "ohmynews.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
+          "summary": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283459&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
+          "id": "https://kbench.com/?q=node/283057",
+          "title": "갤럭시 버즈4 프로·버즈3 프로, 청력 검사·케어 기능 지원…식약처 의료기기 허가 획득",
+          "source": "kbench.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
+          "summary": "",
+          "url": "https://kbench.com/?q=node/283057"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229987",
+          "title": "15개국 163개 대학 참여…아시아연합대학 동서대서 출범",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T00:20:00Z",
+          "publishedAt": "2026-11-10T00:20:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229987",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "http://www.ihalla.com/article.php?aid=1794190865792551014",
           "title": "제주교육청 내년 예산안 1조6170억원 편성",
           "source": "ihalla.com",
@@ -84,64 +134,12 @@
           "publishedAt": "2026-11-09T04:46:00Z",
           "summary": "",
           "url": "http://www.ihalla.com/article.php?aid=1794190865792551014"
-        },
-        {
-          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282851&CMPT_CD=M0152",
-          "title": "'죽음의 발판'에 희생된 청년 청소노동자... '순직 인정'으로 끝나선 안 돼",
-          "source": "ohmynews.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T09:02:00Z",
-          "publishedAt": "2026-11-08T09:02:00Z",
-          "summary": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282851&CMPT_CD=M0152"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261029001357",
-          "title": "김진오 인구위 부위원장 \"소규모 사업장 맞춤형 돌봄 지원 방안 모색\"",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T09:01:00Z",
-          "publishedAt": "2026-11-08T09:01:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261029001357"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229652",
-          "title": "'교육감 투표 내역 공개' 이해식 의원, 공소청 송치",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T05:32:00Z",
-          "publishedAt": "2026-11-08T05:32:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229652",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://www.etnews.com/20261109000396",
-          "title": "성균관대 SW융합대학 실감미디어공학과 '2026 Annual Research Review' 성료",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T07:57:02Z",
-          "publishedAt": "2026-11-09T07:57:02Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261109000396",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 7
         },
         {
           "word": "청년",
@@ -150,10 +148,6 @@
         {
           "word": "복지",
           "count": 2
-        },
-        {
-          "word": "돌봄",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -191,16 +185,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261110031012",
-          "title": "시전 보고서, 검색, 소셜 및 AI 속 숨은 소비자 트렌드 공개",
+          "id": "https://zdnet.co.kr/view/?no=20261110113136",
+          "title": "국방 AI 힘주는 기업들…군 인재 확보 속도전",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T18:10:12Z",
-          "publishedAt": "2026-11-09T18:10:12Z",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T02:53:06Z",
+          "publishedAt": "2026-11-10T02:53:06Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261110031012",
+          "url": "https://zdnet.co.kr/view/?no=20261110113136",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -231,6 +225,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261110000802",
+          "title": "BMW그룹, 삼성SDI·LG엔솔과 공급 계약…전기차 공급망 다변화 추진",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261110000802"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10930006",
           "title": "‘20만전자’ 깨지고 6% 폭락한 코스피, 美반도체주 반등·반발 매수 ‘기대’…‘오천피’ 사수할까 [투자360]",
           "source": "biz.heraldcorp.com",
@@ -255,18 +261,6 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026110822545429367"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261019000514",
-          "title": "[뉴스분석] 추미애가 쏘아 올린 소방 재정 논란...여야 \"지원 확대\" 한목소리",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-08",
-          "dateRaw": "2026-11-08T09:02:00Z",
-          "publishedAt": "2026-11-08T09:02:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261019000514"
-        },
-        {
           "id": "https://www.munhwa.com:443/article/11629530",
           "title": "오픈AI, 美 민주당 승리에도 “데이터센터 15조 투자 계속 진행”",
           "source": "munhwa.com",
@@ -279,16 +273,16 @@
           "url": "https://www.munhwa.com:443/article/11629530"
         },
         {
-          "id": "https://isplus.com/article/view/isp202611090134",
-          "title": "박해민 \"경기 안 나가는 거야? 못 나가는 거야?\" 삼성의 위대함을 깨운 프러포즈남 박승규 - 일간스포츠",
-          "source": "isplus.com",
+          "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283519&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+          "title": "소방노조, 추미애에 감사패 전달… \"소방재정 국가 책임 강화 노력에 감사\"",
+          "source": "ohmynews.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T04:46:00Z",
-          "publishedAt": "2026-11-09T04:46:00Z",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
           "summary": "",
-          "url": "https://isplus.com/article/view/isp202611090134"
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283519&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
         }
       ],
       "keywords": [
@@ -302,10 +296,10 @@
         },
         {
           "word": "기업",
-          "count": 1
+          "count": 2
         },
         {
-          "word": "소비",
+          "word": "공급망",
           "count": 1
         }
       ],
@@ -483,16 +477,16 @@
     "humanities": {
       "items": [
         {
-          "id": "https://townhall.com/news/scott-mcclallen/2026/11/07/healthcare-execs-accused-of-billing-14-million-for-youth-mental-health-services-n2686052",
-          "title": "Healthcare Execs Accused of Billing $14M for Youth Mental Health Services",
-          "source": "townhall.com",
+          "id": "https://economictimes.indiatimes.com/world/us/cornell-university-rocked-by-another-sexual-assault-scandal-involving-more-than-10-potential-victims-accused-of-ignoring-reports/articleshow/135697741.cms",
+          "title": "Cornell University rocked by another sexual assault scandal involving more than 10 potential victims, accused of ignoring reports",
+          "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-07",
-          "dateRaw": "2026-11-07T19:31:00Z",
-          "publishedAt": "2026-11-07T19:31:00Z",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
           "summary": "",
-          "url": "https://townhall.com/news/scott-mcclallen/2026/11/07/healthcare-execs-accused-of-billing-14-million-for-youth-mental-health-services-n2686052"
+          "url": "https://economictimes.indiatimes.com/world/us/cornell-university-rocked-by-another-sexual-assault-scandal-involving-more-than-10-potential-victims-accused-of-ignoring-reports/articleshow/135697741.cms"
         },
         {
           "id": "https://nbcmontana.com/news/nation-world/trump-gives-mixed-messages-on-immigration-strategy-deportation-democrats",
@@ -531,6 +525,18 @@
           "url": "https://www.tokyoreporter.com/japan-news/chinese-ring-swindled-millions-in-welfare-by-posing-as-wwii-orphan-police/"
         },
         {
+          "id": "https://www.tribuneindia.com/news/world/canada-makes-rural-immigration-pilot-permanent-to-tackle-labour-shortages/",
+          "title": "Canada makes rural immigration pilot permanent to tackle labour shortages - The Tribune",
+          "source": "tribuneindia.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
+          "summary": "",
+          "url": "https://www.tribuneindia.com/news/world/canada-makes-rural-immigration-pilot-permanent-to-tackle-labour-shortages/"
+        },
+        {
           "id": "https://www.sherbrookerecord.com/coffee-with-carney-putting-farmers-mental-health-on-the-agenda/",
           "title": "Coffee with Carney: Putting farmers’ mental health on the agenda - Sherbrooke Record",
           "source": "sherbrookerecord.com",
@@ -541,18 +547,6 @@
           "publishedAt": "2026-11-09T23:02:00Z",
           "summary": "",
           "url": "https://www.sherbrookerecord.com/coffee-with-carney-putting-farmers-mental-health-on-the-agenda/"
-        },
-        {
-          "id": "https://newstalk1130.iheart.com/content/2026-11-09-trump-admits-immigration-crackdown-was-too-tough-in-60-minutes-interview-after-midterm-losses/",
-          "title": "Trump Admits Immigration Crackdown Was ‘Too Tough’ In '60 Minutes' Interview After Midterm Losses | News/Talk 1130 WISN",
-          "source": "newstalk1130.iheart.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T23:02:00Z",
-          "publishedAt": "2026-11-09T23:02:00Z",
-          "summary": "",
-          "url": "https://newstalk1130.iheart.com/content/2026-11-09-trump-admits-immigration-crackdown-was-too-tough-in-60-minutes-interview-after-midterm-losses/"
         },
         {
           "id": "https://www.okgazette.com/arts-culture/communitylifestyle/okc-animal-welfare-launches-empty-the-shelter/",
@@ -579,6 +573,18 @@
           "url": "https://www.bursa.ro/minister-of-education-proposes-advisory-council-of-former-ministers-to-ensure-continuity-of-reforms-43189067"
         },
         {
+          "id": "https://newstalk1130.iheart.com/content/2026-11-09-trump-admits-immigration-crackdown-was-too-tough-in-60-minutes-interview-after-midterm-losses/",
+          "title": "Trump Admits Immigration Crackdown Was ‘Too Tough’ In '60 Minutes' Interview After Midterm Losses | News/Talk 1130 WISN",
+          "source": "newstalk1130.iheart.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-09",
+          "dateRaw": "2026-11-09T23:02:00Z",
+          "publishedAt": "2026-11-09T23:02:00Z",
+          "summary": "",
+          "url": "https://newstalk1130.iheart.com/content/2026-11-09-trump-admits-immigration-crackdown-was-too-tough-in-60-minutes-interview-after-midterm-losses/"
+        },
+        {
           "id": "https://www.kgou.org/2026-11-09/democrats-won-big-on-issues-like-immigration-but-ice-still-has-the-money",
           "title": "Democrats won big on issues like immigration. But ICE still has the money",
           "source": "kgou.org",
@@ -589,18 +595,6 @@
           "publishedAt": "2026-11-09T13:32:00Z",
           "summary": "",
           "url": "https://www.kgou.org/2026-11-09/democrats-won-big-on-issues-like-immigration-but-ice-still-has-the-money"
-        },
-        {
-          "id": "https://www.rttnews.com/story.aspx?Id=3711775",
-          "title": "Trump Admits Crackdown On Immigration Was 'too Tough', 'hurt' GOP In Election",
-          "source": "rttnews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T13:32:00Z",
-          "publishedAt": "2026-11-09T13:32:00Z",
-          "summary": "",
-          "url": "https://www.rttnews.com/story.aspx?Id=3711775"
         }
       ],
       "keywords": [
@@ -609,15 +603,11 @@
           "count": 5
         },
         {
-          "word": "정신건강",
+          "word": "교육",
           "count": 2
         },
         {
-          "word": "교육",
-          "count": 1
-        },
-        {
-          "word": "청년",
+          "word": "정신건강",
           "count": 1
         }
       ],
@@ -627,6 +617,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "http://www.thejakartapost.com/business/2026/11/10/chinas-trade-surplus-soars-past-1-trillion-as-ai-boom-powers-exports",
+          "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Economy - The Jakarta Post",
+          "source": "thejakartapost.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
+          "summary": "",
+          "url": "http://www.thejakartapost.com/business/2026/11/10/chinas-trade-surplus-soars-past-1-trillion-as-ai-boom-powers-exports"
+        },
         {
           "id": "http://www.haitisun.com/news/279418237/india-chemical-industry-set-for-strong-growth-global-market-expansion-amid-investment-push",
           "title": "India's chemical industry set for strong growth, global market expansion amid investment push",
@@ -664,18 +666,6 @@
           "url": "https://www.thehindu.com/news/national/kerala/satheesan-pinarayi-trade-sharp-words-over-power-supply-deals-in-keralam/article71678190.ece"
         },
         {
-          "id": "https://perishablenews.com/produce/integrated-u-s-mexico-avocado-supply-chain-fuels-economic-growth-generating-7-1-billion-in-u-s-output/",
-          "title": "Integrated U.S.-Mexico Avocado Supply Chain Fuels Economic Growth, Generating $7.1 Billion in U.S. Output",
-          "source": "perishablenews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-07",
-          "dateRaw": "2026-11-07T02:01:00Z",
-          "publishedAt": "2026-11-07T02:01:00Z",
-          "summary": "",
-          "url": "https://perishablenews.com/produce/integrated-u-s-mexico-avocado-supply-chain-fuels-economic-growth-generating-7-1-billion-in-u-s-output/"
-        },
-        {
           "id": "https://www.trend.az/casia/turkmenistan/4244318.html",
           "title": "Turkmenistan's trade turnover growth reaches 110.2% in January-October",
           "source": "trend.az",
@@ -688,16 +678,16 @@
           "url": "https://www.trend.az/casia/turkmenistan/4244318.html"
         },
         {
-          "id": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/",
-          "title": "How EU bakery is helping UK retailers rebuild trust and drive premium growth",
-          "source": "bakeryandsnacks.com",
+          "id": "https://www.tribuneindia.com/news/business/india-may-not-see-us-like-rise-in-natural-interest-rates-despite-global-yield-pressures-report/",
+          "title": "India may not see US-like rise in natural interest rates despite global yield pressures: Report - The Tribune",
+          "source": "tribuneindia.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-07",
-          "dateRaw": "2026-11-07T02:02:00Z",
-          "publishedAt": "2026-11-07T02:02:00Z",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
           "summary": "",
-          "url": "https://www.bakeryandsnacks.com/News/Promotional-features/eu-bakery-is-helping-uk-retailers-rebuild-trust-and-drive-premium-growth/"
+          "url": "https://www.tribuneindia.com/news/business/india-may-not-see-us-like-rise-in-natural-interest-rates-despite-global-yield-pressures-report/"
         },
         {
           "id": "https://en.shafaqna.com/489421/malaysia-to-showcase-halal-products-at-lagos-trade-fair-launch-digital-marketplace/",
@@ -750,23 +740,23 @@
       ],
       "keywords": [
         {
-          "word": "성장",
+          "word": "무역",
           "count": 4
         },
         {
-          "word": "무역",
-          "count": 3
+          "word": "성장",
+          "count": 2
         },
         {
           "word": "투자",
           "count": 2
         },
         {
-          "word": "공급망",
+          "word": "관세",
           "count": 1
         },
         {
-          "word": "관세",
+          "word": "금리",
           "count": 1
         },
         {
@@ -881,42 +871,42 @@
           "url": "http://www.newzealandstar.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14"
         },
         {
-          "id": "https://www.accountingtoday.com/news/numica-raises-21-million-to-buy-firms-put-them-on-internal-ai-platform",
-          "title": "Numica raises $21M to buy firms, put them on AI platform",
-          "source": "accountingtoday.com",
+          "id": "https://techreport.com/news/innovation/space-and-time-enterprise-ai-private-data-verification/",
+          "title": "Space and Time Launches AI Data Verification Platform",
+          "source": "techreport.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T23:02:00Z",
-          "publishedAt": "2026-11-09T23:02:00Z",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
           "summary": "",
-          "url": "https://www.accountingtoday.com/news/numica-raises-21-million-to-buy-firms-put-them-on-internal-ai-platform"
+          "url": "https://techreport.com/news/innovation/space-and-time-enterprise-ai-private-data-verification/"
         },
         {
-          "id": "https://www.batemansbaypost.com.au/story/9388679/tech-guarded-in-data-centre-could-bring-medical-marvels/",
-          "title": "Tech guarded in data centre could bring medical marvels",
-          "source": "batemansbaypost.com.au",
+          "id": "http://www.newjerseytelegraph.com/news/279422863/tgi-solar-power-group-and-tgi-amiron-announce-preliminary-design-completion-for-planned-aktau-ai-data-center-campus",
+          "title": "TGI Solar Power Group and TGI AMIRON Announce Preliminary Design Completion for Planned Aktau AI Data Center Campus",
+          "source": "newjerseytelegraph.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-09",
-          "dateRaw": "2026-11-09T23:02:00Z",
-          "publishedAt": "2026-11-09T23:02:00Z",
+          "date": "2026-11-10",
+          "dateRaw": "2026-11-10T04:31:00Z",
+          "publishedAt": "2026-11-10T04:31:00Z",
           "summary": "",
-          "url": "https://www.batemansbaypost.com.au/story/9388679/tech-guarded-in-data-centre-could-bring-medical-marvels/"
+          "url": "http://www.newjerseytelegraph.com/news/279422863/tgi-solar-power-group-and-tgi-amiron-announce-preliminary-design-completion-for-planned-aktau-ai-data-center-campus"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 8
+        },
+        {
+          "word": "데이터센터",
+          "count": 3
         },
         {
           "word": "반도체",
           "count": 3
-        },
-        {
-          "word": "데이터센터",
-          "count": 2
         },
         {
           "word": "제조",
@@ -938,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 807,
-    "fetchedItems": 4060,
-    "feedBytes": 1147284,
+    "poolSize": 876,
+    "fetchedItems": 2985,
+    "feedBytes": 832741,
     "rollingWindowHours": 72
   }
 }
