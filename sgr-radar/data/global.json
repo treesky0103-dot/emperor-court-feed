@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 12. 오전 12:24:51",
+  "updatedAt": "2026. 11. 12. 오전 07:08:21",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 331,
-    "passed": 27,
-    "deduped": 27,
-    "eventDeduped": 27,
+    "raw": 346,
+    "passed": 24,
+    "deduped": 24,
+    "eventDeduped": 24,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,18 +42,6 @@
       "url": "https://www.thailand-business-news.com/markets/commodities/339580-thai-government-announces-109-increase-in-rice-exports-to-asean"
     },
     {
-      "id": "https://www.northqueenslandregister.com.au/story/9388775/australian-wheat-growers-face-risk-from-russian-export-slump/",
-      "title": "Russian wheat export gap leaves 12.5Mt market shortfall in global trade",
-      "source": "northqueenslandregister.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:17:00Z",
-      "publishedAt": "2026-11-10T20:17:00Z",
-      "summary": "",
-      "url": "https://www.northqueenslandregister.com.au/story/9388775/australian-wheat-growers-face-risk-from-russian-export-slump/"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261111001309",
       "title": "엔화 159엔 눈앞...美 금리인상 기대에 미·일 금리차 다시 확대",
       "source": "newspim.com",
@@ -76,6 +64,30 @@
       "publishedAt": "2026-11-11T00:32:00Z",
       "summary": "",
       "url": "https://biz.heraldcorp.com/article/10933097"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
+      "title": "These deep-sea ‘nodules’ are rich in critical minerals—and in ocean life",
+      "source": "scientificamerican.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T22:02:00Z",
+      "publishedAt": "2026-11-11T22:02:00Z",
+      "summary": "",
+      "url": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/"
+    },
+    {
+      "id": "https://news.webindia123.com/news/Articles/World/20261112/4518588.html",
+      "title": "Stopping anti-India hate, reclaiming tariff powers from White House top priorities, says Indian-American Congressman-elect Amish Shah",
+      "source": "news.webindia123.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T22:02:00Z",
+      "publishedAt": "2026-11-11T22:02:00Z",
+      "summary": "",
+      "url": "https://news.webindia123.com/news/Articles/World/20261112/4518588.html"
     },
     {
       "id": "https://tribune.net.ph/2026/11/10/angelina-jolie-arrives-in-manila-for-asean-summit",
@@ -124,18 +136,6 @@
       "publishedAt": "2026-11-11T15:16:00Z",
       "summary": "",
       "url": "https://timesca.com/us-sanctions-tajik-national-iran-missile-procurement/"
-    },
-    {
-      "id": "https://www.businessday.co.za/motoring/2026-11-11-ai-chip-demand-creates-bottlenecks-in-car-supply-chain/",
-      "title": "AI chip demand creates bottlenecks in car supply chain",
-      "source": "businessday.co.za",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-11",
-      "dateRaw": "2026-11-11T07:01:00Z",
-      "publishedAt": "2026-11-11T07:01:00Z",
-      "summary": "",
-      "url": "https://www.businessday.co.za/motoring/2026-11-11-ai-chip-demand-creates-bottlenecks-in-car-supply-chain/"
     }
   ],
   "trendItems": [
@@ -164,18 +164,6 @@
       "url": "https://www.thailand-business-news.com/markets/commodities/339580-thai-government-announces-109-increase-in-rice-exports-to-asean"
     },
     {
-      "id": "https://www.northqueenslandregister.com.au/story/9388775/australian-wheat-growers-face-risk-from-russian-export-slump/",
-      "title": "Russian wheat export gap leaves 12.5Mt market shortfall in global trade",
-      "source": "northqueenslandregister.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:17:00Z",
-      "publishedAt": "2026-11-10T20:17:00Z",
-      "summary": "",
-      "url": "https://www.northqueenslandregister.com.au/story/9388775/australian-wheat-growers-face-risk-from-russian-export-slump/"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261111001309",
       "title": "엔화 159엔 눈앞...美 금리인상 기대에 미·일 금리차 다시 확대",
       "source": "newspim.com",
@@ -200,16 +188,28 @@
       "url": "https://biz.heraldcorp.com/article/10933097"
     },
     {
-      "id": "https://newsway.co.kr/news/view?ud=2026111101022833356",
-      "title": "美 10월 소비자물가 예상 밖 상승···연준 금리 결정 '주목' - 뉴스웨이",
-      "source": "newsway.co.kr",
-      "language": "Korean",
+      "id": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
+      "title": "These deep-sea ‘nodules’ are rich in critical minerals—and in ocean life",
+      "source": "scientificamerican.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:17:00Z",
-      "publishedAt": "2026-11-10T20:17:00Z",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T22:02:00Z",
+      "publishedAt": "2026-11-11T22:02:00Z",
       "summary": "",
-      "url": "https://newsway.co.kr/news/view?ud=2026111101022833356"
+      "url": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/"
+    },
+    {
+      "id": "https://news.webindia123.com/news/Articles/World/20261112/4518588.html",
+      "title": "Stopping anti-India hate, reclaiming tariff powers from White House top priorities, says Indian-American Congressman-elect Amish Shah",
+      "source": "news.webindia123.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T22:02:00Z",
+      "publishedAt": "2026-11-11T22:02:00Z",
+      "summary": "",
+      "url": "https://news.webindia123.com/news/Articles/World/20261112/4518588.html"
     },
     {
       "id": "https://tribune.net.ph/2026/11/10/angelina-jolie-arrives-in-manila-for-asean-summit",
@@ -344,30 +344,6 @@
       "url": "https://cbs12.com/news/nation-world/larger-series-of-interest-rate-hikes-more-likely-after-hot-october-cpi-federal-reserve"
     },
     {
-      "id": "https://dailythepatriot.com/tag/pakistan-reiterates-commitment-to-decarbonize-global-supply-chains/",
-      "title": "Pakistan reiterates commitment to decarbonize global supply chains Archives - Daily The Patriot",
-      "source": "dailythepatriot.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:17:00Z",
-      "publishedAt": "2026-11-10T20:17:00Z",
-      "summary": "",
-      "url": "https://dailythepatriot.com/tag/pakistan-reiterates-commitment-to-decarbonize-global-supply-chains/"
-    },
-    {
-      "id": "https://dailynews.co.tz/eac-ministers-use-the-49th-sctifi-meeting-to-advance-regional-trade-investment-economic-ties/",
-      "title": "EAC Ministers use the 49th SCTIFI meeting to advance regional trade, investment, economic ties - Daily News",
-      "source": "dailynews.co.tz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:16:00Z",
-      "publishedAt": "2026-11-10T20:16:00Z",
-      "summary": "",
-      "url": "https://dailynews.co.tz/eac-ministers-use-the-49th-sctifi-meeting-to-advance-regional-trade-investment-economic-ties/"
-    },
-    {
       "id": "https://www.canoncitydailyrecord.com/2026/11/11/scott-bessent-us-china-trade-ties/",
       "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks",
       "source": "canoncitydailyrecord.com",
@@ -392,16 +368,16 @@
       "url": "https://www.euronews.com/2026/11/11/ecb-says-lagardes-exit-will-not-delay-the-digital-euro-as-brussels-negotiates-the-law"
     },
     {
-      "id": "https://www.wsbradio.com/news/business/despite-democrats/EHLCIFCDFM5PZKVQTWJHAXV74Q/",
-      "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks",
-      "source": "wsbradio.com",
-      "language": "English",
+      "id": "http://inews24.com/view/2025266",
+      "title": "국제유가 사흘 만에 반등⋯美·이란 종전 협상 난항",
+      "source": "inews24.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:16:00Z",
-      "publishedAt": "2026-11-10T20:16:00Z",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T22:02:00Z",
+      "publishedAt": "2026-11-11T22:02:00Z",
       "summary": "",
-      "url": "https://www.wsbradio.com/news/business/despite-democrats/EHLCIFCDFM5PZKVQTWJHAXV74Q/"
+      "url": "http://inews24.com/view/2025266"
     },
     {
       "id": "http://www.sydneysun.com/news/279422437/china-keeps-24-tariff-on-us-goods-on-hold-for-two-months",
@@ -419,10 +395,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 331,
-    "fetchedItems": 6345,
-    "relevantItems": 152,
-    "feedBytes": 1844679,
+    "poolSize": 346,
+    "fetchedItems": 4404,
+    "relevantItems": 90,
+    "feedBytes": 1218489,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
