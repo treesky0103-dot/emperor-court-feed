@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 11. 오전 05:25:03",
+  "updatedAt": "2026. 11. 11. 오전 09:48:06",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 353,
-    "passed": 128,
-    "deduped": 128,
-    "eventDeduped": 128,
+    "raw": 302,
+    "passed": 110,
+    "deduped": 110,
+    "eventDeduped": 110,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03535846645644736&mediaCodeNo=257",
+      "title": "셀바스AI, 예스24에 한국어·영어 AI 음성합성 기술 적용",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03535846645644736&mediaCodeNo=257"
+    },
     {
       "id": "http://www.bruneinews.net/news/279423485/chimes-ai-achieves-29x-faster-ai-inference-with-fpt-ai-factory",
       "title": "Chimes AI Achieves 2.9x Faster AI Inference with FPT AI Factory",
@@ -28,30 +40,6 @@
       "publishedAt": "2026-11-10T12:47:00Z",
       "summary": "",
       "url": "http://www.bruneinews.net/news/279423485/chimes-ai-achieves-29x-faster-ai-inference-with-fpt-ai-factory"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261014000717",
-      "title": "카카오, '모두의 AI' 연내 출시...월 이용자 500만명 목표",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T04:31:00Z",
-      "publishedAt": "2026-11-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261014000717"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10931359",
-      "title": "삼성SDI는 유럽·LG엔솔은 美서 BMW 6세대 배터리 공급[비즈360]",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10931359"
     },
     {
       "id": "https://www.roadandtrack.com/news/a74389098/honda-builds-new-ohio-factory-hybrid-production/",
@@ -90,16 +78,16 @@
       "url": "https://www.kyivpost.com/post/89664"
     },
     {
-      "id": "https://www.kiro7.com/news/how-data-center/EZXZIDKMFYZ6PK7LB7OCPYQNYI/",
-      "title": "How data center demand is reshaping electricity costs across the US",
-      "source": "kiro7.com",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261014001163",
+      "title": "중국 9월 수출 36.3% 급증, 반도체 수출 136% 폭증",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T04:31:00Z",
+      "publishedAt": "2026-11-10T04:31:00Z",
       "summary": "",
-      "url": "https://www.kiro7.com/news/how-data-center/EZXZIDKMFYZ6PK7LB7OCPYQNYI/"
+      "url": "https://www.newspim.com/news/view/20261014001163"
     },
     {
       "id": "https://kbench.com/?q=node/283077",
@@ -126,6 +114,18 @@
       "url": "https://www.kcra.com/article/fairfield-data-center-moratorium-city-council/74390270"
     },
     {
+      "id": "https://www.wlip.com/kenosha-seeks-long-term-guarantees-as-microsoft-data-center-negotiations-continue/",
+      "title": "Kenosha Seeks Long-Term Guarantees as Microsoft Data Center Negotiations Continue - AM 1050 WLIP",
+      "source": "wlip.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T20:16:00Z",
+      "publishedAt": "2026-11-10T20:16:00Z",
+      "summary": "",
+      "url": "https://www.wlip.com/kenosha-seeks-long-term-guarantees-as-microsoft-data-center-negotiations-continue/"
+    },
+    {
       "id": "https://www.hindustantimes.com/world-news/nvidia-ceo-case-live-updates-jensen-huang-chinese-spy-alice-huang-love-affair-ai-chip-company-shares-donald-trump-latest-101794311951604.html",
       "title": "Nvidia CEO Jensen Huang Case LIVE: Jensen's ties with ‘spy’ facilitated $7.5 billion chips to China, says report",
       "source": "hindustantimes.com",
@@ -140,6 +140,42 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03535846645644736&mediaCodeNo=257",
+      "title": "셀바스AI, 예스24에 한국어·영어 AI 음성합성 기술 적용",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03535846645644736&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03548966645644736&mediaCodeNo=257",
+      "title": "CJ제일제당, 식음료 특화 '제조AI' 개발…공정·품질·안전 잡는다",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03548966645644736&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03480086645644736&mediaCodeNo=257",
+      "title": "[속보]코스피, 0.27% 내린 5225선 출발…반도체 조정에 코스닥은 강세",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03480086645644736&mediaCodeNo=257"
+    },
+    {
       "id": "http://www.bruneinews.net/news/279423485/chimes-ai-achieves-29x-faster-ai-inference-with-fpt-ai-factory",
       "title": "Chimes AI Achieves 2.9x Faster AI Inference with FPT AI Factory",
       "source": "bruneinews.net",
@@ -152,6 +188,30 @@
       "url": "http://www.bruneinews.net/news/279423485/chimes-ai-achieves-29x-faster-ai-inference-with-fpt-ai-factory"
     },
     {
+      "id": "https://biz.heraldcorp.com/article/10933090",
+      "title": "롯데이노베이트, 프랑스 탈레스와 맞손…“AI 보안사업 확대”",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10933090"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10933094",
+      "title": "“AI 투자 ‘실질 수익성’ 따질 때”…신한투자증권, ‘2027년 신한 금융시장 포럼’ 개최",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10933094"
+    },
+    {
       "id": "https://www.newspim.com/news/view/20261014000717",
       "title": "카카오, '모두의 AI' 연내 출시...월 이용자 500만명 목표",
       "source": "newspim.com",
@@ -162,42 +222,6 @@
       "publishedAt": "2026-11-10T04:31:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261014000717"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261006000492",
-      "title": "[2026 국감] 배경훈 부총리 \"연말 '모두의 AI' 출시…AI 3대 강국 입지 다질 것\"",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T04:31:00Z",
-      "publishedAt": "2026-11-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261006000492"
-    },
-    {
-      "id": "https://www.thehindu.com/books/books-authors/uk-author-m-john-harrison-wins-booker-prize-for-the-end-of-everything/article71684119.ece",
-      "title": "U.K. writer M. John Harrison wins Booker for AI-tinged apocalyptic novel",
-      "source": "thehindu.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
-      "summary": "",
-      "url": "https://www.thehindu.com/books/books-authors/uk-author-m-john-harrison-wins-booker-prize-for-the-end-of-everything/article71684119.ece"
-    },
-    {
-      "id": "https://biz.heraldcorp.com/article/10931359",
-      "title": "삼성SDI는 유럽·LG엔솔은 美서 BMW 6세대 배터리 공급[비즈360]",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
-      "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10931359"
     },
     {
       "id": "https://www.roadandtrack.com/news/a74389098/honda-builds-new-ohio-factory-hybrid-production/",
@@ -260,42 +284,6 @@
       "url": "https://aa.com.tr/en/economy/turkiye-plans-300b-in-energy-transition-investment-by-2040-energy-minister-says-at-cop31/4118863"
     },
     {
-      "id": "http://www.hawaiitelegraph.com/news/279423498/mispyai-opens-the-door-to-licensed-private-investigators-for-everyday-people",
-      "title": "MiSpy.ai Opens the Door to Licensed Private Investigators for Everyday People",
-      "source": "hawaiitelegraph.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T12:47:00Z",
-      "publishedAt": "2026-11-10T12:47:00Z",
-      "summary": "",
-      "url": "http://www.hawaiitelegraph.com/news/279423498/mispyai-opens-the-door-to-licensed-private-investigators-for-everyday-people"
-    },
-    {
-      "id": "https://www.easternriverinachronicle.com.au/story/9388684/power-struggle-the-energy-supply-election-question/",
-      "title": "Power struggle: the energy supply election question",
-      "source": "easternriverinachronicle.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:01:00Z",
-      "publishedAt": "2026-11-09T23:01:00Z",
-      "summary": "",
-      "url": "https://www.easternriverinachronicle.com.au/story/9388684/power-struggle-the-energy-supply-election-question/"
-    },
-    {
-      "id": "https://www.kiro7.com/news/how-data-center/EZXZIDKMFYZ6PK7LB7OCPYQNYI/",
-      "title": "How data center demand is reshaping electricity costs across the US",
-      "source": "kiro7.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
-      "summary": "",
-      "url": "https://www.kiro7.com/news/how-data-center/EZXZIDKMFYZ6PK7LB7OCPYQNYI/"
-    },
-    {
       "id": "https://www.newspim.com/news/view/20261014001163",
       "title": "중국 9월 수출 36.3% 급증, 반도체 수출 136% 폭증",
       "source": "newspim.com",
@@ -306,6 +294,18 @@
       "publishedAt": "2026-11-10T04:31:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261014001163"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261027000339",
+      "title": "'반도체 훈풍'에 3분기 GDP 1.0% 깜짝 성장…한은 \"연간 3.6% 가능\"",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T04:31:00Z",
+      "publishedAt": "2026-11-10T04:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261027000339"
     },
     {
       "id": "https://kbench.com/?q=node/283077",
@@ -320,16 +320,16 @@
       "url": "https://kbench.com/?q=node/283077"
     },
     {
-      "id": "https://biz.heraldcorp.com/article/10931304",
-      "title": "반도체지수 6.9%↑, 美증시 상승 마감…엔비디아만 4%대 급락",
-      "source": "biz.heraldcorp.com",
-      "language": "Korean",
+      "id": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/",
+      "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
+      "source": "defensenews.com",
+      "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T20:17:00Z",
+      "publishedAt": "2026-11-10T20:17:00Z",
       "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10931304"
+      "url": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/"
     },
     {
       "id": "https://www.kcra.com/article/fairfield-data-center-moratorium-city-council/74390270",
@@ -392,18 +392,6 @@
       "url": "https://www.redditchadvertiser.co.uk/news/26714718.new-banksy-style-artwork-appears-bromsgrove-chippy/"
     },
     {
-      "id": "https://www.straitstimes.com/opinion/heres-the-thing-about-chip-espionage",
-      "title": "Here’s the thing about chip espionage...",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T12:47:00Z",
-      "publishedAt": "2026-11-10T12:47:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/opinion/heres-the-thing-about-chip-espionage"
-    },
-    {
       "id": "https://www.khq.com/news/small-town---big-tech-quincy-data-centers-bring-jobs-new-hospital-and-new/article_d0c60ce8-9eb8-47bf-a881-36e20a5f34d6.html",
       "title": "Small Town - Big Tech: Quincy data centers bring jobs, new hospital and new high school, but also spark power concerns",
       "source": "khq.com",
@@ -416,16 +404,16 @@
       "url": "https://www.khq.com/news/small-town---big-tech-quincy-data-centers-bring-jobs-new-hospital-and-new/article_d0c60ce8-9eb8-47bf-a881-36e20a5f34d6.html"
     },
     {
-      "id": "https://insideevs.com/news/814711/ford-first-fathoms-pre-production/",
-      "title": "Ford's Radical New EV Manufacturing Process Is Already Building Trucks",
-      "source": "insideevs.com",
+      "id": "https://www.kxii.com/2026/11/10/meeting-held-discuss-proposed-atoka-data-center/",
+      "title": "Meeting held to discuss proposed Atoka data center",
+      "source": "kxii.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T04:31:00Z",
+      "publishedAt": "2026-11-10T04:31:00Z",
       "summary": "",
-      "url": "https://insideevs.com/news/814711/ford-first-fathoms-pre-production/"
+      "url": "https://www.kxii.com/2026/11/10/meeting-held-discuss-proposed-atoka-data-center/"
     },
     {
       "id": "https://www.ibtimes.co.uk/openai-effingham-county-data-centre-secret-meetings-lawsuit-1831304",
@@ -438,30 +426,6 @@
       "publishedAt": "2026-11-10T12:47:00Z",
       "summary": "",
       "url": "https://www.ibtimes.co.uk/openai-effingham-county-data-centre-secret-meetings-lawsuit-1831304"
-    },
-    {
-      "id": "https://www.batemansbaypost.com.au/story/9388679/tech-guarded-in-data-centre-could-bring-medical-marvels/",
-      "title": "Tech guarded in data centre could bring medical marvels",
-      "source": "batemansbaypost.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
-      "summary": "",
-      "url": "https://www.batemansbaypost.com.au/story/9388679/tech-guarded-in-data-centre-could-bring-medical-marvels/"
-    },
-    {
-      "id": "https://www.straitstimes.com/opinion/can-indias-data-centre-boom-deliver-jobs-one-state-is-betting-it-can",
-      "title": "Can India’s data centre boom deliver jobs? One state is betting it can",
-      "source": "straitstimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:01:00Z",
-      "publishedAt": "2026-11-09T23:01:00Z",
-      "summary": "",
-      "url": "https://www.straitstimes.com/opinion/can-indias-data-centre-boom-deliver-jobs-one-state-is-betting-it-can"
     },
     {
       "id": "https://www.rnz.co.nz/news/business/2529574/dozens-of-jobs-saved-after-local-investors-buy-candida-s-nz-manufacturing-plant",
@@ -488,6 +452,78 @@
       "url": "https://www.dailypolitical.com/2026/11/09/promising-manufacturing-stocks-to-keep-an-eye-on-november-7th.html"
     },
     {
+      "id": "https://www.newspim.com/news/view/20261006000492",
+      "title": "[2026 국감] 배경훈 부총리 \"연말 '모두의 AI' 출시…AI 3대 강국 입지 다질 것\"",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T04:31:00Z",
+      "publishedAt": "2026-11-10T04:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261006000492"
+    },
+    {
+      "id": "https://greentechlead.com/solar/top-10-solar-tracker-manufacturers-in-2027-nextpower-gamechange-energy-arctech-array-and-pv-hardware-lead-global-market-56457",
+      "title": "Top 10 Solar Tracker Manufacturers in 2027: Nextpower, GameChange Energy, Arctech, Array and PV Hardware Lead Global Market - GreentechLead",
+      "source": "greentechlead.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T20:16:00Z",
+      "publishedAt": "2026-11-10T20:16:00Z",
+      "summary": "",
+      "url": "https://greentechlead.com/solar/top-10-solar-tracker-manufacturers-in-2027-nextpower-gamechange-energy-arctech-array-and-pv-hardware-lead-global-market-56457"
+    },
+    {
+      "id": "https://www.straitstimes.com/opinion/heres-the-thing-about-chip-espionage",
+      "title": "Here’s the thing about chip espionage...",
+      "source": "straitstimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T12:47:00Z",
+      "publishedAt": "2026-11-10T12:47:00Z",
+      "summary": "",
+      "url": "https://www.straitstimes.com/opinion/heres-the-thing-about-chip-espionage"
+    },
+    {
+      "id": "https://www.whio.com/news/local/township-prepares-vote-data-center-moratorium/XNZ366JE45H6VDZWKRTSM56NHE/",
+      "title": "Township prepares for vote on a data center moratorium",
+      "source": "whio.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T04:31:00Z",
+      "publishedAt": "2026-11-10T04:31:00Z",
+      "summary": "",
+      "url": "https://www.whio.com/news/local/township-prepares-vote-data-center-moratorium/XNZ366JE45H6VDZWKRTSM56NHE/"
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-11/70093939-evertise-ai-pr-bravex-expands-global-payments-with-ousd-partnership-and-business-accounts-296.htm",
+      "title": "Evertise AI PR: BraveX Expands Global Payments with OUSD Partnership and Business Accounts",
+      "source": "finanznachrichten.de",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:31:00Z",
+      "publishedAt": "2026-11-11T00:31:00Z",
+      "summary": "",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70093939-evertise-ai-pr-bravex-expands-global-payments-with-ousd-partnership-and-business-accounts-296.htm"
+    },
+    {
+      "id": "http://www.hawaiitelegraph.com/news/279423498/mispyai-opens-the-door-to-licensed-private-investigators-for-everyday-people",
+      "title": "MiSpy.ai Opens the Door to Licensed Private Investigators for Everyday People",
+      "source": "hawaiitelegraph.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-10",
+      "dateRaw": "2026-11-10T12:47:00Z",
+      "publishedAt": "2026-11-10T12:47:00Z",
+      "summary": "",
+      "url": "http://www.hawaiitelegraph.com/news/279423498/mispyai-opens-the-door-to-licensed-private-investigators-for-everyday-people"
+    },
+    {
       "id": "http://www.hawaiitelegraph.com/news/279423807/silicon-publishing-launches-prism-bringing-ai-assisted-automation-to-database-publishing",
       "title": "Silicon Publishing Launches Prism, Bringing AI-Assisted Automation to Database Publishing",
       "source": "hawaiitelegraph.com",
@@ -498,42 +534,6 @@
       "publishedAt": "2026-11-10T12:46:00Z",
       "summary": "",
       "url": "http://www.hawaiitelegraph.com/news/279423807/silicon-publishing-launches-prism-bringing-ai-assisted-automation-to-database-publishing"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261027000339",
-      "title": "'반도체 훈풍'에 3분기 GDP 1.0% 깜짝 성장…한은 \"연간 3.6% 가능\"",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T04:31:00Z",
-      "publishedAt": "2026-11-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261027000339"
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/",
-      "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
-      "source": "defensenews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T20:17:00Z",
-      "publishedAt": "2026-11-10T20:17:00Z",
-      "summary": "",
-      "url": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/"
-    },
-    {
-      "id": "https://www.kxii.com/2026/11/10/meeting-held-discuss-proposed-atoka-data-center/",
-      "title": "Meeting held to discuss proposed Atoka data center",
-      "source": "kxii.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-10",
-      "dateRaw": "2026-11-10T04:31:00Z",
-      "publishedAt": "2026-11-10T04:31:00Z",
-      "summary": "",
-      "url": "https://www.kxii.com/2026/11/10/meeting-held-discuss-proposed-atoka-data-center/"
     },
     {
       "id": "https://techreport.com/news/innovation/space-and-time-enterprise-ai-private-data-verification/",
@@ -558,18 +558,6 @@
       "publishedAt": "2026-11-10T04:31:00Z",
       "summary": "",
       "url": "https://econotimes.com/UBS-Chief-Warns-U-S-Midterm-Results-Could-Slow-AI-Infrastructure-Spending-1774192"
-    },
-    {
-      "id": "https://leadership.ng/meta-targets-underage-users-with-global-ai-safety-expansion/",
-      "title": "Meta Targets Underage Users With Global AI Safety Expansion",
-      "source": "leadership.ng",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
-      "summary": "",
-      "url": "https://leadership.ng/meta-targets-underage-users-with-global-ai-safety-expansion/"
     },
     {
       "id": "https://aninews.in/news/business/india-isnt-just-a-refuge-from-ai-hype-says-anand-mahindra-despite-advanced-chip-limitations20261110170644/",
@@ -620,16 +608,28 @@
       "url": "http://www.newjerseytelegraph.com/news/279422863/tgi-solar-power-group-and-tgi-amiron-announce-preliminary-design-completion-for-planned-aktau-ai-data-center-campus"
     },
     {
-      "id": "https://www.straitstimes.com/world/united-states/nvidia-spy-allegations-likely-to-spur-laws-to-tighten-chinas-access-to-ai-chips-say-experts",
-      "title": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers",
-      "source": "straitstimes.com",
-      "language": "English",
+      "id": "https://biz.heraldcorp.com/article/10932943",
+      "title": "고교생 100명, 현대차서 자동차 AI 배운다…산업인력공단 특강",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-09",
-      "dateRaw": "2026-11-09T23:02:00Z",
-      "publishedAt": "2026-11-09T23:02:00Z",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
       "summary": "",
-      "url": "https://www.straitstimes.com/world/united-states/nvidia-spy-allegations-likely-to-spur-laws-to-tighten-chinas-access-to-ai-chips-say-experts"
+      "url": "https://biz.heraldcorp.com/article/10932943"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10933097",
+      "title": "美 ‘빅스텝’ 거론까지…‘AI 리스크’에도 한은 금리 올리나 [머니뭐니]",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-11",
+      "dateRaw": "2026-11-11T00:32:00Z",
+      "publishedAt": "2026-11-11T00:32:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10933097"
     },
     {
       "id": "https://www.newspim.com/news/view/20261104001210",
@@ -743,10 +743,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 353,
-    "fetchedItems": 4513,
-    "relevantItems": 93,
-    "feedBytes": 1287217,
+    "poolSize": 302,
+    "fetchedItems": 3600,
+    "relevantItems": 45,
+    "feedBytes": 1000963,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
