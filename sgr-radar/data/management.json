@@ -2,57 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 13. 오전 08:53:52",
+  "updatedAt": "2026. 11. 13. 오후 02:19:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 379,
-    "passed": 16,
-    "deduped": 16,
-    "eventDeduped": 16,
-    "displayed": 10,
+    "raw": 341,
+    "passed": 9,
+    "deduped": 9,
+    "eventDeduped": 9,
+    "displayed": 9,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
-    {
-      "id": "https://itbrief.co.nz/story/ai-literacy-and-governance-the-workforce-skills-enterprises-need-for-responsible-ai",
-      "title": "AI Literacy And Governance: The Workforce Skills Enterprises Need For Responsible AI",
-      "source": "itbrief.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:47:00Z",
-      "publishedAt": "2026-11-12T02:47:00Z",
-      "summary": "",
-      "url": "https://itbrief.co.nz/story/ai-literacy-and-governance-the-workforce-skills-enterprises-need-for-responsible-ai"
-    },
-    {
-      "id": "https://www.etnews.com/20261112000111",
-      "title": "“딸 승계 원치 않아, 원한다면 스스로 쟁취해야”…젠슨 황, 과거 엔비디아 후계 논의 거부했다",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:47:00Z",
-      "publishedAt": "2026-11-12T02:47:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261112000111"
-    },
-    {
-      "id": "https://worthplaying.com/article/2026/11/11/news/151413-tripwire-interactive-announces-restructuring-resulting-in-layoffs/",
-      "title": "Tripwire Interactive Announces Restructuring Resulting In Layoffs",
-      "source": "worthplaying.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
-      "summary": "",
-      "url": "https://worthplaying.com/article/2026/11/11/news/151413-tripwire-interactive-announces-restructuring-resulting-in-layoffs/"
-    },
     {
       "id": "http://www.wyomingnews.com/news/local_news/with-274-trona-workers-facing-january-layoffs-we-soda-union-opposes-company-s-pending-13m/article_b05844af-a7d4-4b9f-baed-0d08470a6155.html",
       "title": "With 274 trona workers facing January layoffs, WE Soda union opposes company’s pending $13M state grant",
@@ -114,80 +78,56 @@
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-brings-local-ai-processing-to-india-for-eligible-api-users/articleshow/135764548.cms"
     },
     {
-      "id": "https://www.ft.lk/it-telecom-tech/Dialog-Enterprise-and-Hayleys-Alumex-partner-to-accelerate-AI-powered-manufacturing-excellence/50-799970",
-      "title": "Dialog Enterprise and Hayleys’ Alumex partner to accelerate AI-powered manufacturing excellence | Daily FT",
-      "source": "ft.lk",
+      "id": "https://japantoday.com/category/business/why-professional-networking-is-a-job-search-asset-that-ai-can%E2%80%99t-replace",
+      "title": "Why professional networking is a job search asset that AI can’t replace",
+      "source": "japantoday.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
+      "dateRaw": "2026-11-12T23:47:00Z",
+      "publishedAt": "2026-11-12T23:47:00Z",
       "summary": "",
-      "url": "https://www.ft.lk/it-telecom-tech/Dialog-Enterprise-and-Hayleys-Alumex-partner-to-accelerate-AI-powered-manufacturing-excellence/50-799970"
+      "url": "https://japantoday.com/category/business/why-professional-networking-is-a-job-search-asset-that-ai-can%E2%80%99t-replace"
     },
     {
-      "id": "https://www.hcamag.com/nz/specialisation/employee-engagement/guardrails-lag-in-kiwi-workplaces-amid-widespread-ai-use/597071",
-      "title": "Guardrails lag in Kiwi workplaces amid widespread AI use",
-      "source": "hcamag.com",
+      "id": "https://thenonprofittimes.com/npt_articles/ai-did-job-seekers-dirty/",
+      "title": "AI Did Job Seekers Dirty - The NonProfit Times",
+      "source": "thenonprofittimes.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
+      "dateRaw": "2026-11-12T18:32:00Z",
+      "publishedAt": "2026-11-12T18:32:00Z",
       "summary": "",
-      "url": "https://www.hcamag.com/nz/specialisation/employee-engagement/guardrails-lag-in-kiwi-workplaces-amid-widespread-ai-use/597071"
+      "url": "https://thenonprofittimes.com/npt_articles/ai-did-job-seekers-dirty/"
+    },
+    {
+      "id": "https://www.digit.in/features/general/ai-handles-37-percent-of-entry-level-tasks-not-jobs-says-pearson-india.html",
+      "title": "AI handles 37-percent of entry-level tasks, not jobs, says Pearson India",
+      "source": "digit.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-12",
+      "dateRaw": "2026-11-12T10:31:00Z",
+      "publishedAt": "2026-11-12T10:31:00Z",
+      "summary": "",
+      "url": "https://www.digit.in/features/general/ai-handles-37-percent-of-entry-level-tasks-not-jobs-says-pearson-india.html"
+    },
+    {
+      "id": "https://www.theglobeandmail.com/business/article-will-anthropic-public-benefit-fund-help-workers-ai/",
+      "title": "Would Anthropic’s proposed Public Benefit Fund actually help workers disrupted by AI?",
+      "source": "theglobeandmail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-12",
+      "dateRaw": "2026-11-12T10:31:00Z",
+      "publishedAt": "2026-11-12T10:31:00Z",
+      "summary": "",
+      "url": "https://www.theglobeandmail.com/business/article-will-anthropic-public-benefit-fund-help-workers-ai/"
     }
   ],
   "trendItems": [
     {
-      "id": "https://itbrief.co.nz/story/ai-literacy-and-governance-the-workforce-skills-enterprises-need-for-responsible-ai",
-      "title": "AI Literacy And Governance: The Workforce Skills Enterprises Need For Responsible AI",
-      "source": "itbrief.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:47:00Z",
-      "publishedAt": "2026-11-12T02:47:00Z",
-      "summary": "",
-      "url": "https://itbrief.co.nz/story/ai-literacy-and-governance-the-workforce-skills-enterprises-need-for-responsible-ai"
-    },
-    {
-      "id": "https://www.etnews.com/20261112000111",
-      "title": "“딸 승계 원치 않아, 원한다면 스스로 쟁취해야”…젠슨 황, 과거 엔비디아 후계 논의 거부했다",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:47:00Z",
-      "publishedAt": "2026-11-12T02:47:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261112000111"
-    },
-    {
-      "id": "https://worthplaying.com/article/2026/11/11/news/151413-tripwire-interactive-announces-restructuring-resulting-in-layoffs/",
-      "title": "Tripwire Interactive Announces Restructuring Resulting In Layoffs",
-      "source": "worthplaying.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
-      "summary": "",
-      "url": "https://worthplaying.com/article/2026/11/11/news/151413-tripwire-interactive-announces-restructuring-resulting-in-layoffs/"
-    },
-    {
-      "id": "https://www.etnews.com/20261112000195",
-      "title": "전문대교협 'AI 시대 대학 수업과 행정을 바꾸는 실무형 연수' 개최…내년 1월~2월 교직원 대면, 5개 분야 16개 과정 운영",
-      "source": "etnews.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
-      "summary": "",
-      "url": "https://www.etnews.com/20261112000195"
-    },
-    {
       "id": "http://www.wyomingnews.com/news/local_news/with-274-trona-workers-facing-january-layoffs-we-soda-union-opposes-company-s-pending-13m/article_b05844af-a7d4-4b9f-baed-0d08470a6155.html",
       "title": "With 274 trona workers facing January layoffs, WE Soda union opposes company’s pending $13M state grant",
       "source": "wyomingnews.com",
@@ -210,18 +150,6 @@
       "publishedAt": "2026-11-12T10:31:00Z",
       "summary": "",
       "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-stelco-standoff-the-feud-over-layoffs-at-the-steel-company/"
-    },
-    {
-      "id": "https://www.foundry-planet.com/d/schaeffler-announces-further-cost-saving-programme-with-3460-job-cuts-in-europe",
-      "title": "Schaeffler Announces Further Cost-Saving Programme with 3,460 Job Cuts in Europe",
-      "source": "foundry-planet.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
-      "summary": "",
-      "url": "https://www.foundry-planet.com/d/schaeffler-announces-further-cost-saving-programme-with-3460-job-cuts-in-europe"
     },
     {
       "id": "https://dailypioneer.com/business/ai-can-bring-productivity-gains-with-job-risks-impact-on-india-not-yet-clearly-visible-moodys",
@@ -258,30 +186,6 @@
       "publishedAt": "2026-11-12T10:32:00Z",
       "summary": "",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-brings-local-ai-processing-to-india-for-eligible-api-users/articleshow/135764548.cms"
-    },
-    {
-      "id": "https://www.ft.lk/it-telecom-tech/Dialog-Enterprise-and-Hayleys-Alumex-partner-to-accelerate-AI-powered-manufacturing-excellence/50-799970",
-      "title": "Dialog Enterprise and Hayleys’ Alumex partner to accelerate AI-powered manufacturing excellence | Daily FT",
-      "source": "ft.lk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
-      "summary": "",
-      "url": "https://www.ft.lk/it-telecom-tech/Dialog-Enterprise-and-Hayleys-Alumex-partner-to-accelerate-AI-powered-manufacturing-excellence/50-799970"
-    },
-    {
-      "id": "https://www.hcamag.com/nz/specialisation/employee-engagement/guardrails-lag-in-kiwi-workplaces-amid-widespread-ai-use/597071",
-      "title": "Guardrails lag in Kiwi workplaces amid widespread AI use",
-      "source": "hcamag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-12",
-      "dateRaw": "2026-11-12T02:46:00Z",
-      "publishedAt": "2026-11-12T02:46:00Z",
-      "summary": "",
-      "url": "https://www.hcamag.com/nz/specialisation/employee-engagement/guardrails-lag-in-kiwi-workplaces-amid-widespread-ai-use/597071"
     },
     {
       "id": "https://japantoday.com/category/business/why-professional-networking-is-a-job-search-asset-that-ai-can%E2%80%99t-replace",
@@ -335,10 +239,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 379,
-    "fetchedItems": 4094,
-    "relevantItems": 89,
-    "feedBytes": 1096090,
+    "poolSize": 341,
+    "fetchedItems": 3574,
+    "relevantItems": 79,
+    "feedBytes": 986300,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
