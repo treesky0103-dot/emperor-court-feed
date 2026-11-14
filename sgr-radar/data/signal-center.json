@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 14. 오후 04:35:22",
+  "updatedAt": "2026. 11. 14. 오후 11:30:28",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -32,6 +32,20 @@
           "publishedAt": "2026-11-12T02:04:34Z",
           "summary": "",
           "url": "https://www.etnews.com/20261112000168",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230886",
+          "title": "\"안경도 필요 없어\" 부정수법 SNS 활개…안일한 교육 당국",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T10:30:00Z",
+          "publishedAt": "2026-11-14T10:30:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230886",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -120,24 +134,12 @@
           "publishedAt": "2026-11-13T20:17:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282423&SRS_CD=0000015995&CMPT_CD=M0153"
-        },
-        {
-          "id": "https://www.dongascience.com:443/ko/news/79307",
-          "title": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다",
-          "source": "dongascience.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:02:00Z",
-          "publishedAt": "2026-11-13T13:02:00Z",
-          "summary": "",
-          "url": "https://www.dongascience.com:443/ko/news/79307"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "청년",
@@ -237,18 +239,18 @@
           "url": "https://www.fnnews.com/news/202611121033165658"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230844",
-          "title": "\"투자 위축 부르는 재승인 제도…네거티브 규제로 전면 개편해야\"",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230885",
+          "title": "엔비디아 곤두박질…\"젠슨황 스캔들은 투자 기회\"",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-14",
-          "dateRaw": "2026-11-14T05:34:00Z",
-          "publishedAt": "2026-11-14T05:34:00Z",
+          "dateRaw": "2026-11-14T10:30:00Z",
+          "publishedAt": "2026-11-14T10:30:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230844",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230885",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10936364",
@@ -322,16 +324,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261114011002",
-          "title": "슈퍼마이크로, 클라우드, HPC, 에이전틱 AI 워크로드용 6세대 AMD EPYC™ 9006 Series CPU 탑재 차세대 서버 출하 개시",
+          "id": "https://zdnet.co.kr/view/?no=20261114191001",
+          "title": "VKAISS 2026, 베트남과 한국의 AI 및 반도체 협력 강화",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T16:10:02Z",
-          "publishedAt": "2026-11-13T16:10:02Z",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T10:10:01Z",
+          "publishedAt": "2026-11-14T10:10:01Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261114011002",
+          "url": "https://zdnet.co.kr/view/?no=20261114191001",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -348,6 +350,20 @@
           "url": "https://www.etnews.com/20261113000261",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230869",
+          "title": "가디언 \"트럼프, 지난해 AI 칩 규제 풀기 전 엔비디아 주식 매수\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T08:48:00Z",
+          "publishedAt": "2026-11-14T08:48:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230869",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026111217223203470",
@@ -384,20 +400,6 @@
           "publishedAt": "2026-11-13T13:01:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10936364"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230679",
-          "title": "\"앨리스황 관련 기업들, '엔비디아 칩' 걸고 딥시크에 비밀 투자\"",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T05:02:00Z",
-          "publishedAt": "2026-11-13T05:02:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230679",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.fnnews.com/news/202611112304455410",
@@ -439,22 +441,18 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 6
+        },
+        {
+          "word": "반도체",
+          "count": 3
         },
         {
           "word": "데이터센터",
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 2
-        },
-        {
           "word": "바이오",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -489,6 +487,18 @@
           "publishedAt": "2026-11-12T10:32:00Z",
           "summary": "",
           "url": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915"
+        },
+        {
+          "id": "https://econotimes.com/Guardian-Reports-UK-Ministers-Consider-Extending-Under-25-Welfare-Plan-to-Older-Adults-1776790",
+          "title": "Guardian Reports UK Ministers Consider Extending Under-25 Welfare Plan to Older Adults | EconoTimes",
+          "source": "econotimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T14:16:00Z",
+          "publishedAt": "2026-11-14T14:16:00Z",
+          "summary": "",
+          "url": "https://econotimes.com/Guardian-Reports-UK-Ministers-Consider-Extending-Under-25-Welfare-Plan-to-Older-Adults-1776790"
         },
         {
           "id": "https://www.mercurynews.com/2026/11/13/oakland-unified-school-board-divided-on-state-reports-warning-of-fiscal-insolvency/",
@@ -573,18 +583,6 @@
           "publishedAt": "2026-11-12T23:47:00Z",
           "summary": "",
           "url": "https://cloverdalereporter.com/2026/11/12/letter-more-young-people-attending-remembrance-day-is-a-positive-sign/"
-        },
-        {
-          "id": "https://www.wfmj.com/news/national/ice-reports-record-high-immigration-arrests-and-deportations-since-trumps-return-to-white-house/article_c4f2d618-da97-53f6-afeb-be89e07ebfe0.html",
-          "title": "ICE reports record-high immigration arrests and deportations since Trump's return to White House",
-          "source": "wfmj.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-12",
-          "dateRaw": "2026-11-12T23:47:00Z",
-          "publishedAt": "2026-11-12T23:47:00Z",
-          "summary": "",
-          "url": "https://www.wfmj.com/news/national/ice-reports-record-high-immigration-arrests-and-deportations-since-trumps-return-to-white-house/article_c4f2d618-da97-53f6-afeb-be89e07ebfe0.html"
         }
       ],
       "keywords": [
@@ -594,7 +592,7 @@
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 1
         },
         {
           "word": "청년",
@@ -608,16 +606,16 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-          "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+          "id": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html",
+          "title": "Juice your growth and save on taxes in this workplace investment account",
           "source": "cnbc.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-12",
-          "dateRaw": "2026-11-12T18:32:00Z",
-          "publishedAt": "2026-11-12T18:32:00Z",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T14:17:00Z",
+          "publishedAt": "2026-11-14T14:17:00Z",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
+          "url": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html"
         },
         {
           "id": "https://aninews.in/news/business/8220fixtra-builds-a-nationwide-spare-parts-supply-chain-for-indias-repair-economy8221-anmol-gupta-founder-fixtra20261114103139/",
@@ -731,18 +729,18 @@
       "keywords": [
         {
           "word": "성장",
-          "count": 3
-        },
-        {
-          "word": "금리",
-          "count": 2
+          "count": 4
         },
         {
           "word": "투자",
-          "count": 2
+          "count": 3
         },
         {
           "word": "공급망",
+          "count": 1
+        },
+        {
+          "word": "금리",
           "count": 1
         },
         {
@@ -922,9 +920,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1207,
-    "fetchedItems": 2286,
-    "feedBytes": 640783,
+    "poolSize": 1217,
+    "fetchedItems": 3760,
+    "feedBytes": 1090187,
     "rollingWindowHours": 72
   }
 }

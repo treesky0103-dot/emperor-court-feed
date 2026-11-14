@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 14. 오후 04:35:20",
+  "updatedAt": "2026. 11. 14. 오후 11:30:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 283,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
-    "displayed": 10,
+    "raw": 222,
+    "passed": 8,
+    "deduped": 8,
+    "eventDeduped": 8,
+    "displayed": 8,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
+    {
+      "id": "https://www.barandbench.com/news/iim-ahmedabad-tata-sons-train-over-100-in-house-lawyers-in-business-strategy-leadership",
+      "title": "IIM Ahmedabad, Tata group train over 100 in-house lawyers in business strategy, leadership",
+      "source": "barandbench.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T14:16:00Z",
+      "publishedAt": "2026-11-14T14:16:00Z",
+      "summary": "",
+      "url": "https://www.barandbench.com/news/iim-ahmedabad-tata-sons-train-over-100-in-house-lawyers-in-business-strategy-leadership"
+    },
     {
       "id": "https://www.worldoil.com/magazine/2026/september/special-focus-upstream-practices/from-automation-to-autonomy-building-the-next-oil-and-gas-operating-model/",
       "title": "From automation to autonomy: Building the next oil and gas operating model",
@@ -54,30 +66,6 @@
       "url": "http://www.timberjay.com/stories/future-of-vermilion-campus-uncertain-amid-minnesota-state-restructuring,49821"
     },
     {
-      "id": "https://www.countytimes.co.uk/news/26726302.aberystwyth-university-proposes-150-academic-job-cuts/",
-      "title": "Union 'devastated and angry' amid further job cuts at Aberystwyth University",
-      "source": "countytimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
-      "summary": "",
-      "url": "https://www.countytimes.co.uk/news/26726302.aberystwyth-university-proposes-150-academic-job-cuts/"
-    },
-    {
-      "id": "https://pctechmag.com/2026/11/top-reliable-custom-software-development-companies-for-long-term-projects/",
-      "title": "Reliable Software Development Companies for Long-Term Projects",
-      "source": "pctechmag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
-      "summary": "",
-      "url": "https://pctechmag.com/2026/11/top-reliable-custom-software-development-companies-for-long-term-projects/"
-    },
-    {
       "id": "https://www.investmentnews.com/transformation/exclusive-osaic-in-talks-with-anthropic-as-ai-reshapes-advisor-workforce/268990",
       "title": "Osaic in talks with Anthropic as AI reshapes advisor workforce",
       "source": "investmentnews.com",
@@ -102,28 +90,16 @@
       "url": "https://www.telecompaper.com/news/azerbaijan-and-uk-to-expand-cooperation-in-ai-and-digital-governance--1588854"
     },
     {
-      "id": "https://business-review.eu/tech/how-ai-voice-agents-are-changing-enterprise-sales-and-support-303172",
-      "title": "How AI Voice Agents Are Changing Enterprise Sales and Support - Business Review",
-      "source": "business-review.eu",
+      "id": "https://www.theglobeandmail.com/business/article-cppib-to-lay-off-dozens-of-employees-at-struggling-active-equities/",
+      "title": "CPPIB to lay off dozens of employees at struggling active equities division",
+      "source": "theglobeandmail.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T14:16:00Z",
+      "publishedAt": "2026-11-14T14:16:00Z",
       "summary": "",
-      "url": "https://business-review.eu/tech/how-ai-voice-agents-are-changing-enterprise-sales-and-support-303172"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/new-updates/layoff-just-before-the-wedding-employee-set-to-marry-on-november-18-learns-he-has-lost-his-job-says-feeling-more-relaxed-after-manager-confirms-decision/articleshow/135803422.cms",
-      "title": "Layoff just before the wedding: Employee set to marry on November 18 learns he has lost his job, says 'feeling more relaxed' after manager confirms decision",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/layoff-just-before-the-wedding-employee-set-to-marry-on-november-18-learns-he-has-lost-his-job-says-feeling-more-relaxed-after-manager-confirms-decision/articleshow/135803422.cms"
+      "url": "https://www.theglobeandmail.com/business/article-cppib-to-lay-off-dozens-of-employees-at-struggling-active-equities/"
     },
     {
       "id": "https://wcti12.com/news/nation-world/fact-check-team-is-ai-replacing-american-workers-and-how-hard-is-it-to-find-a-new-job-operations-artificial-intelligence",
@@ -140,6 +116,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.barandbench.com/news/iim-ahmedabad-tata-sons-train-over-100-in-house-lawyers-in-business-strategy-leadership",
+      "title": "IIM Ahmedabad, Tata group train over 100 in-house lawyers in business strategy, leadership",
+      "source": "barandbench.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T14:16:00Z",
+      "publishedAt": "2026-11-14T14:16:00Z",
+      "summary": "",
+      "url": "https://www.barandbench.com/news/iim-ahmedabad-tata-sons-train-over-100-in-house-lawyers-in-business-strategy-leadership"
+    },
+    {
       "id": "https://www.worldoil.com/magazine/2026/september/special-focus-upstream-practices/from-automation-to-autonomy-building-the-next-oil-and-gas-operating-model/",
       "title": "From automation to autonomy: Building the next oil and gas operating model",
       "source": "worldoil.com",
@@ -176,30 +164,6 @@
       "url": "http://www.timberjay.com/stories/future-of-vermilion-campus-uncertain-amid-minnesota-state-restructuring,49821"
     },
     {
-      "id": "https://www.countytimes.co.uk/news/26726302.aberystwyth-university-proposes-150-academic-job-cuts/",
-      "title": "Union 'devastated and angry' amid further job cuts at Aberystwyth University",
-      "source": "countytimes.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
-      "summary": "",
-      "url": "https://www.countytimes.co.uk/news/26726302.aberystwyth-university-proposes-150-academic-job-cuts/"
-    },
-    {
-      "id": "https://pctechmag.com/2026/11/top-reliable-custom-software-development-companies-for-long-term-projects/",
-      "title": "Reliable Software Development Companies for Long-Term Projects",
-      "source": "pctechmag.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
-      "summary": "",
-      "url": "https://pctechmag.com/2026/11/top-reliable-custom-software-development-companies-for-long-term-projects/"
-    },
-    {
       "id": "https://www.investmentnews.com/transformation/exclusive-osaic-in-talks-with-anthropic-as-ai-reshapes-advisor-workforce/268990",
       "title": "Osaic in talks with Anthropic as AI reshapes advisor workforce",
       "source": "investmentnews.com",
@@ -224,28 +188,16 @@
       "url": "https://www.telecompaper.com/news/azerbaijan-and-uk-to-expand-cooperation-in-ai-and-digital-governance--1588854"
     },
     {
-      "id": "https://business-review.eu/tech/how-ai-voice-agents-are-changing-enterprise-sales-and-support-303172",
-      "title": "How AI Voice Agents Are Changing Enterprise Sales and Support - Business Review",
-      "source": "business-review.eu",
+      "id": "https://www.theglobeandmail.com/business/article-cppib-to-lay-off-dozens-of-employees-at-struggling-active-equities/",
+      "title": "CPPIB to lay off dozens of employees at struggling active equities division",
+      "source": "theglobeandmail.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T14:16:00Z",
+      "publishedAt": "2026-11-14T14:16:00Z",
       "summary": "",
-      "url": "https://business-review.eu/tech/how-ai-voice-agents-are-changing-enterprise-sales-and-support-303172"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/new-updates/layoff-just-before-the-wedding-employee-set-to-marry-on-november-18-learns-he-has-lost-his-job-says-feeling-more-relaxed-after-manager-confirms-decision/articleshow/135803422.cms",
-      "title": "Layoff just before the wedding: Employee set to marry on November 18 learns he has lost his job, says 'feeling more relaxed' after manager confirms decision",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T13:01:00Z",
-      "publishedAt": "2026-11-13T13:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/layoff-just-before-the-wedding-employee-set-to-marry-on-november-18-learns-he-has-lost-his-job-says-feeling-more-relaxed-after-manager-confirms-decision/articleshow/135803422.cms"
+      "url": "https://www.theglobeandmail.com/business/article-cppib-to-lay-off-dozens-of-employees-at-struggling-active-equities/"
     },
     {
       "id": "https://wcti12.com/news/nation-world/fact-check-team-is-ai-replacing-american-workers-and-how-hard-is-it-to-find-a-new-job-operations-artificial-intelligence",
@@ -263,10 +215,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 283,
-    "fetchedItems": 2286,
-    "relevantItems": 40,
-    "feedBytes": 640783,
+    "poolSize": 222,
+    "fetchedItems": 3760,
+    "relevantItems": 44,
+    "feedBytes": 1090187,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
