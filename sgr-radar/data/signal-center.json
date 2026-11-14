@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 14. 오전 05:31:38",
+  "updatedAt": "2026. 11. 14. 오전 10:00:50",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -173,6 +173,20 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261114021002",
+          "title": "코히어, 소버린 AI 투자와 기업 도입 증가로 일본에 대한 의지 강화",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-13",
+          "dateRaw": "2026-11-13T17:10:02Z",
+          "publishedAt": "2026-11-13T17:10:02Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261114021002",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.etnews.com/20261111000371",
           "title": "[AIx소프트웨이브 2026] AI+X 투자사협의회 “AI 기업 키울 전주기 투자 생태계 구축해야”",
           "source": "etnews.com",
@@ -183,20 +197,6 @@
           "publishedAt": "2026-11-11T06:09:15Z",
           "summary": "",
           "url": "https://www.etnews.com/20261111000371",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261113231002",
-          "title": "오만투자청, 역사적 국빈 방문 기간 중국 파트너들과 역대 최대 규모 투자 패키지 체결",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T14:10:02Z",
-          "publishedAt": "2026-11-13T14:10:02Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261113231002",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -290,11 +290,11 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 8
+          "count": 7
         },
         {
           "word": "기업",
-          "count": 2
+          "count": 3
         },
         {
           "word": "환율",
@@ -308,30 +308,30 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/business/12208236",
-          "title": "AI 투자 고점 피로감에 … 바이오에 다시 돈 몰려",
+          "id": "https://www.mk.co.kr/news/business/12208700",
+          "title": "“AI 원금복구 기다리느니”…‘미워도 다시한번’ 바이오 몰리는 투자금",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T17:23:09Z",
-          "publishedAt": "2026-11-13T17:23:09Z",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T06:23:54Z",
+          "publishedAt": "2026-11-14T06:23:54Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12208236",
+          "url": "https://www.mk.co.kr/news/business/12208700",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261113221014",
-          "title": "항차, 글로벌 딜러 콘퍼런스에서 LINGTRA AI-Fork 로봇 공개하고 2030 비전 제시",
+          "id": "https://zdnet.co.kr/view/?no=20261114011002",
+          "title": "슈퍼마이크로, 클라우드, HPC, 에이전틱 AI 워크로드용 6세대 AMD EPYC™ 9006 Series CPU 탑재 차세대 서버 출하 개시",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:10:14Z",
-          "publishedAt": "2026-11-13T13:10:14Z",
+          "dateRaw": "2026-11-13T16:10:02Z",
+          "publishedAt": "2026-11-13T16:10:02Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261113221014",
+          "url": "https://zdnet.co.kr/view/?no=20261114011002",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -446,15 +446,19 @@
           "count": 2
         },
         {
-          "word": "로봇",
-          "count": 2
-        },
-        {
           "word": "반도체",
           "count": 2
         },
         {
+          "word": "로봇",
+          "count": 1
+        },
+        {
           "word": "바이오",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -489,6 +493,30 @@
           "publishedAt": "2026-11-12T10:32:00Z",
           "summary": "",
           "url": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915"
+        },
+        {
+          "id": "https://www.mercurynews.com/2026/11/13/oakland-unified-school-board-divided-on-state-reports-warning-of-fiscal-insolvency/",
+          "title": "Oakland Unified school board divided on state report’s warning of fiscal insolvency",
+          "source": "mercurynews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T00:46:00Z",
+          "publishedAt": "2026-11-14T00:46:00Z",
+          "summary": "",
+          "url": "https://www.mercurynews.com/2026/11/13/oakland-unified-school-board-divided-on-state-reports-warning-of-fiscal-insolvency/"
+        },
+        {
+          "id": "https://en.antaranews.com/news/442151/bali-immigration-detains-28-foreigners-over-investment-fraud",
+          "title": "Bali Immigration detains 28 foreigners over investment fraud",
+          "source": "en.antaranews.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T00:46:00Z",
+          "publishedAt": "2026-11-14T00:46:00Z",
+          "summary": "",
+          "url": "https://en.antaranews.com/news/442151/bali-immigration-detains-28-foreigners-over-investment-fraud"
         },
         {
           "id": "https://www.wtma.com/2026/11/13/north-charleston-police-find-no-weapon-after-report-of-firearm-at-school/",
@@ -561,44 +589,16 @@
           "publishedAt": "2026-11-12T23:47:00Z",
           "summary": "",
           "url": "https://www.wfmj.com/news/national/ice-reports-record-high-immigration-arrests-and-deportations-since-trumps-return-to-white-house/article_c4f2d618-da97-53f6-afeb-be89e07ebfe0.html"
-        },
-        {
-          "id": "https://www.hazard-herald.com/news/national/advocates-spar-over-immigration-policy-after-midterms-supreme-court-decisions/article_621dd512-7911-5928-b101-591d23b125b1.html",
-          "title": "Advocates spar over immigration policy after midterms, Supreme Court decisions",
-          "source": "hazard-herald.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-12",
-          "dateRaw": "2026-11-12T23:47:00Z",
-          "publishedAt": "2026-11-12T23:47:00Z",
-          "summary": "",
-          "url": "https://www.hazard-herald.com/news/national/advocates-spar-over-immigration-policy-after-midterms-supreme-court-decisions/article_621dd512-7911-5928-b101-591d23b125b1.html"
-        },
-        {
-          "id": "https://www.globalissues.org/news/2026/11/12/44579",
-          "title": "COP31: New Research Ties Extreme Weather to Mental Health Challenges in Africa",
-          "source": "globalissues.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-12",
-          "dateRaw": "2026-11-12T18:32:00Z",
-          "publishedAt": "2026-11-12T18:32:00Z",
-          "summary": "",
-          "url": "https://www.globalissues.org/news/2026/11/12/44579"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 6
         },
         {
           "word": "이민",
           "count": 2
-        },
-        {
-          "word": "정신건강",
-          "count": 1
         },
         {
           "word": "청년",
@@ -769,6 +769,30 @@
           "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70101917-semiconductor-manufacturing-equipment-market-worth-dollar-371-58-billion-by-2033-exclusive-report-by-marketsandmarkets-008.htm"
         },
         {
+          "id": "https://kpic.com/news/local/oregon-plan-requires-future-large-data-centers-to-pay-full-electricity-costs-pacific-power-costs-budget-business-politics-customers-utilities",
+          "title": "Pacific Power to make Oregon data centers pay full electricity costs",
+          "source": "kpic.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T00:46:00Z",
+          "publishedAt": "2026-11-14T00:46:00Z",
+          "summary": "",
+          "url": "https://kpic.com/news/local/oregon-plan-requires-future-large-data-centers-to-pay-full-electricity-costs-pacific-power-costs-budget-business-politics-customers-utilities"
+        },
+        {
+          "id": "https://www.powermag.com/calibrant-energy-secures-145-million-in-project-financing-including-battery-storage-for-hyperscale-data-center-customer-in-pjm/",
+          "title": "Calibrant Energy Secures $145 Million in Project Financing, Including Battery Storage for Hyperscale Data Center Customer in PJM",
+          "source": "powermag.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T00:46:00Z",
+          "publishedAt": "2026-11-14T00:46:00Z",
+          "summary": "",
+          "url": "https://www.powermag.com/calibrant-energy-secures-145-million-in-project-financing-including-battery-storage-for-hyperscale-data-center-customer-in-pjm/"
+        },
+        {
           "id": "https://www.journal-topics.com/articles/comed-expanding-local-power-grid-to-meet-data-center-surge/",
           "title": "ComEd Expanding Local Power Grid To Meet Data Center Surge - Journal & Topics Media Group",
           "source": "journal-topics.com",
@@ -851,43 +875,19 @@
           "publishedAt": "2026-11-12T02:46:00Z",
           "summary": "",
           "url": "https://www.ft.lk/it-telecom-tech/Dialog-Enterprise-and-Hayleys-Alumex-partner-to-accelerate-AI-powered-manufacturing-excellence/50-799970"
-        },
-        {
-          "id": "https://www.emsnow.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/",
-          "title": "The Next Level of Efficiency in Chip Manufacturing Is Taking Shape Below the Cleanroom · EMSNow",
-          "source": "emsnow.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-11",
-          "dateRaw": "2026-11-11T22:02:00Z",
-          "publishedAt": "2026-11-11T22:02:00Z",
-          "summary": "",
-          "url": "https://www.emsnow.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/"
-        },
-        {
-          "id": "https://www.euronews.com/2026/11/11/eu-lawmakers-push-to-reduce-europes-dependence-on-foreign-cloud-providers",
-          "title": "EU lawmakers seek to boost Europe's cloud and AI infrastructure",
-          "source": "euronews.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-11",
-          "dateRaw": "2026-11-11T15:17:00Z",
-          "publishedAt": "2026-11-11T15:17:00Z",
-          "summary": "",
-          "url": "https://www.euronews.com/2026/11/11/eu-lawmakers-push-to-reduce-europes-dependence-on-foreign-cloud-providers"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "데이터센터",
+          "count": 3
         },
         {
           "word": "제조",
-          "count": 4
-        },
-        {
-          "word": "반도체",
           "count": 3
         },
         {
@@ -899,15 +899,19 @@
           "count": 2
         },
         {
-          "word": "클라우드",
+          "word": "반도체",
           "count": 2
         },
         {
-          "word": "데이터센터",
+          "word": "전력",
+          "count": 2
+        },
+        {
+          "word": "배터리",
           "count": 1
         },
         {
-          "word": "전력",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -918,9 +922,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1325,
-    "fetchedItems": 4859,
-    "feedBytes": 1386156,
+    "poolSize": 1289,
+    "fetchedItems": 3528,
+    "feedBytes": 959533,
     "rollingWindowHours": 72
   }
 }
