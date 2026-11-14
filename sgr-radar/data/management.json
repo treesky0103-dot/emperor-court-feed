@@ -2,19 +2,19 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 14. 오전 10:00:47",
+  "updatedAt": "2026. 11. 14. 오후 04:35:20",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 317,
-    "passed": 9,
-    "deduped": 9,
-    "eventDeduped": 9,
-    "displayed": 9,
+    "raw": 283,
+    "passed": 10,
+    "deduped": 10,
+    "eventDeduped": 10,
+    "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": false
+    "targetMet": true
   },
   "items": [
     {
@@ -28,6 +28,18 @@
       "publishedAt": "2026-11-14T00:46:00Z",
       "summary": "",
       "url": "https://www.worldoil.com/magazine/2026/september/special-focus-upstream-practices/from-automation-to-autonomy-building-the-next-oil-and-gas-operating-model/"
+    },
+    {
+      "id": "https://aninews.in/news/business/haworth-unveils-the-future-of-workspaces-build-for-those-who-build-india-at-orgatec-india-202620261114101251/",
+      "title": "Haworth Unveils the Future of Workspaces, Build for Those Who Build India, at ORGATEC India 2026",
+      "source": "aninews.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T07:31:00Z",
+      "publishedAt": "2026-11-14T07:31:00Z",
+      "summary": "",
+      "url": "https://aninews.in/news/business/haworth-unveils-the-future-of-workspaces-build-for-those-who-build-india-at-orgatec-india-202620261114101251/"
     },
     {
       "id": "http://www.timberjay.com/stories/future-of-vermilion-campus-uncertain-amid-minnesota-state-restructuring,49821",
@@ -140,6 +152,18 @@
       "url": "https://www.worldoil.com/magazine/2026/september/special-focus-upstream-practices/from-automation-to-autonomy-building-the-next-oil-and-gas-operating-model/"
     },
     {
+      "id": "https://aninews.in/news/business/haworth-unveils-the-future-of-workspaces-build-for-those-who-build-india-at-orgatec-india-202620261114101251/",
+      "title": "Haworth Unveils the Future of Workspaces, Build for Those Who Build India, at ORGATEC India 2026",
+      "source": "aninews.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T07:31:00Z",
+      "publishedAt": "2026-11-14T07:31:00Z",
+      "summary": "",
+      "url": "https://aninews.in/news/business/haworth-unveils-the-future-of-workspaces-build-for-those-who-build-india-at-orgatec-india-202620261114101251/"
+    },
+    {
       "id": "http://www.timberjay.com/stories/future-of-vermilion-campus-uncertain-amid-minnesota-state-restructuring,49821",
       "title": "Future of Vermilion campus uncertain amid Minnesota State restructuring - The Timberjay",
       "source": "timberjay.com",
@@ -239,10 +263,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 317,
-    "fetchedItems": 3528,
-    "relevantItems": 78,
-    "feedBytes": 959533,
+    "poolSize": 283,
+    "fetchedItems": 2286,
+    "relevantItems": 40,
+    "feedBytes": 640783,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
