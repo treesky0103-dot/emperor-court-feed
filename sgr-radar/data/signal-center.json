@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 14. 오후 11:30:28",
+  "updatedAt": "2026. 11. 15. 오전 04:25:45",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -161,20 +161,6 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12205536",
-          "title": "\"두마리 토끼 잡는 해외인재 유치…지역경제 살리고 구인난도 해결\"",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-11",
-          "dateRaw": "2026-11-11T17:18:13Z",
-          "publishedAt": "2026-11-11T17:18:13Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12205536",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
-        },
-        {
           "id": "https://zdnet.co.kr/view/?no=20261114021002",
           "title": "코히어, 소버린 AI 투자와 기업 도입 증가로 일본에 대한 의지 강화",
           "source": "zdnet.co.kr",
@@ -187,6 +173,20 @@
           "url": "https://zdnet.co.kr/view/?no=20261114021002",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/business/12208700",
+          "title": "“AI 원금복구 기다리느니”…‘미워도 다시한번’ 바이오 몰리는 투자금",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T06:23:54Z",
+          "publishedAt": "2026-11-14T06:23:54Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12208700",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://www.etnews.com/20261113000200",
@@ -292,7 +292,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 8
+          "count": 9
         },
         {
           "word": "기업",
@@ -489,6 +489,18 @@
           "url": "https://abcnews.com/Health/wireStory/historic-strike-involving-thousands-oregon-healthcare-workers-end-119223915"
         },
         {
+          "id": "https://indiaeducationdiary.in/amu-paves-the-way-for-stronger-india-uzbekistan-ties-through-international-academic-cooperation-and-collaborative-research/",
+          "title": "AMU PAVES THE WAY FOR STRONGER INDIA–UZBEKISTAN TIES THROUGH INTERNATIONAL ACADEMIC COOPERATION AND COLLABORATIVE RESEARCH - India Education | Latest Education News | Global Educational News | Recent Educational News",
+          "source": "indiaeducationdiary.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-14",
+          "dateRaw": "2026-11-14T19:16:00Z",
+          "publishedAt": "2026-11-14T19:16:00Z",
+          "summary": "",
+          "url": "https://indiaeducationdiary.in/amu-paves-the-way-for-stronger-india-uzbekistan-ties-through-international-academic-cooperation-and-collaborative-research/"
+        },
+        {
           "id": "https://econotimes.com/Guardian-Reports-UK-Ministers-Consider-Extending-Under-25-Welfare-Plan-to-Older-Adults-1776790",
           "title": "Guardian Reports UK Ministers Consider Extending Under-25 Welfare Plan to Older Adults | EconoTimes",
           "source": "econotimes.com",
@@ -571,31 +583,15 @@
           "publishedAt": "2026-11-13T05:16:00Z",
           "summary": "",
           "url": "https://www.tokyoreporter.com/japan-news/keio-university-student-accused-of-using-master-key-to-steal-gym-members-credit-cards/"
-        },
-        {
-          "id": "https://cloverdalereporter.com/2026/11/12/letter-more-young-people-attending-remembrance-day-is-a-positive-sign/",
-          "title": "LETTER: More young people attending Remembrance Day is a positive sign - Cloverdale Reporter",
-          "source": "cloverdalereporter.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-12",
-          "dateRaw": "2026-11-12T23:47:00Z",
-          "publishedAt": "2026-11-12T23:47:00Z",
-          "summary": "",
-          "url": "https://cloverdalereporter.com/2026/11/12/letter-more-young-people-attending-remembrance-day-is-a-positive-sign/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 8
         },
         {
           "word": "이민",
-          "count": 1
-        },
-        {
-          "word": "청년",
           "count": 1
         }
       ],
@@ -678,18 +674,6 @@
           "url": "http://www.sierraleonetimes.com/news/279427107/guinea-hosts-mining-summit-for-investment-economic-diversification"
         },
         {
-          "id": "https://www.thehindu.com/news/cities/Visakhapatnam/investments-must-translate-into-projects-and-jobs-on-ground-not-stay-confined-to-mous-vizag-mp-sribharat/article71689419.ece",
-          "title": "Investments must translate into projects and jobs on ground, not stay confined to MoUs: Vizag MP Sribharat",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-11",
-          "dateRaw": "2026-11-11T15:17:00Z",
-          "publishedAt": "2026-11-11T15:17:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/investments-must-translate-into-projects-and-jobs-on-ground-not-stay-confined-to-mous-vizag-mp-sribharat/article71689419.ece"
-        },
-        {
           "id": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/",
           "title": "New Zealand manufacturing growth slows to 54.9 as inventory rebuilding outpaces output",
           "source": "english.pravda.ru",
@@ -724,12 +708,24 @@
           "publishedAt": "2026-11-13T20:17:00Z",
           "summary": "",
           "url": "https://omaha.com/news/nation-world/business/economy/article_0eb71298-ab00-55f8-b9a5-37b0c98cc543.html"
+        },
+        {
+          "id": "https://www.thehindu.com/brandhub/pr-release/nagarro-releases-unaudited-q3-2026-results-posts-27-constant-currency-growth-for-9-months-ended-september-2026/article71697482.ece",
+          "title": "Nagarro releases unaudited Q3 2026 results, posts 2.7% constant currency growth for 9 months ended September 2026",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-13",
+          "dateRaw": "2026-11-13T13:01:00Z",
+          "publishedAt": "2026-11-13T13:01:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/brandhub/pr-release/nagarro-releases-unaudited-q3-2026-results-posts-27-constant-currency-growth-for-9-months-ended-september-2026/article71697482.ece"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 4
+          "count": 5
         },
         {
           "word": "투자",
@@ -754,18 +750,6 @@
     },
     "technology": {
       "items": [
-        {
-          "id": "https://www.finanznachrichten.de/nachrichten-2026-11/70101917-semiconductor-manufacturing-equipment-market-worth-dollar-371-58-billion-by-2033-exclusive-report-by-marketsandmarkets-008.htm",
-          "title": "Semiconductor Manufacturing Equipment Market worth $371.58 billion by 2033 - Exclusive Report by MarketsandMarkets",
-          "source": "finanznachrichten.de",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-11",
-          "dateRaw": "2026-11-11T15:17:00Z",
-          "publishedAt": "2026-11-11T15:17:00Z",
-          "summary": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70101917-semiconductor-manufacturing-equipment-market-worth-dollar-371-58-billion-by-2033-exclusive-report-by-marketsandmarkets-008.htm"
-        },
         {
           "id": "https://kpic.com/news/local/oregon-plan-requires-future-large-data-centers-to-pay-full-electricity-costs-pacific-power-costs-budget-business-politics-customers-utilities",
           "title": "Pacific Power to make Oregon data centers pay full electricity costs",
@@ -873,6 +857,18 @@
           "publishedAt": "2026-11-12T02:46:00Z",
           "summary": "",
           "url": "https://www.ft.lk/it-telecom-tech/Dialog-Enterprise-and-Hayleys-Alumex-partner-to-accelerate-AI-powered-manufacturing-excellence/50-799970"
+        },
+        {
+          "id": "https://www.emsnow.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/",
+          "title": "The Next Level of Efficiency in Chip Manufacturing Is Taking Shape Below the Cleanroom · EMSNow",
+          "source": "emsnow.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-11",
+          "dateRaw": "2026-11-11T22:02:00Z",
+          "publishedAt": "2026-11-11T22:02:00Z",
+          "summary": "",
+          "url": "https://www.emsnow.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/"
         }
       ],
       "keywords": [
@@ -920,9 +916,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1217,
-    "fetchedItems": 3760,
-    "feedBytes": 1090187,
+    "poolSize": 1119,
+    "fetchedItems": 3148,
+    "feedBytes": 893113,
     "rollingWindowHours": 72
   }
 }

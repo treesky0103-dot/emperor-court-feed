@@ -2,15 +2,15 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 14. 오후 11:30:25",
+  "updatedAt": "2026. 11. 15. 오전 04:25:44",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 222,
-    "passed": 13,
-    "deduped": 13,
-    "eventDeduped": 13,
+    "raw": 248,
+    "passed": 15,
+    "deduped": 15,
+    "eventDeduped": 15,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -42,16 +42,28 @@
       "url": "https://www.finanzen.ch/nachrichten/aktien/crude-oil-ticks-lower-amid-geopolitical-concerns-iea-projections-1036763044"
     },
     {
-      "id": "https://tribune.net.ph/2026/11/14/adb-set-to-become-aseans-main-bank",
-      "title": "ADB to Become ASEAN's Main Bank, Driving Regional Development and Integration",
-      "source": "tribune.net.ph",
+      "id": "https://en.antaranews.com/news/442723/president-prabowo-arrives-in-manila-for-49th-asean-summit",
+      "title": "President Prabowo arrives in Manila for 49th ASEAN Summit",
+      "source": "en.antaranews.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-14",
-      "dateRaw": "2026-11-14T14:16:00Z",
-      "publishedAt": "2026-11-14T14:16:00Z",
+      "dateRaw": "2026-11-14T19:16:00Z",
+      "publishedAt": "2026-11-14T19:16:00Z",
       "summary": "",
-      "url": "https://tribune.net.ph/2026/11/14/adb-set-to-become-aseans-main-bank"
+      "url": "https://en.antaranews.com/news/442723/president-prabowo-arrives-in-manila-for-49th-asean-summit"
+    },
+    {
+      "id": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says",
+      "title": "Trump, Xi and Putin Plan an Unprecedented Joint Meeting on the Sidelines of APEC, White House Says",
+      "source": "military.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T19:16:00Z",
+      "publishedAt": "2026-11-14T19:16:00Z",
+      "summary": "",
+      "url": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says"
     },
     {
       "id": "https://www.freepressjournal.in/india/india-us-trade-deal-nears-final-breakthrough-as-eam-s-jaishankar-says-bulk-of-issues-resolved",
@@ -76,18 +88,6 @@
       "publishedAt": "2026-11-14T07:31:00Z",
       "summary": "",
       "url": "https://aninews.in/news/business/8220fixtra-builds-a-nationwide-spare-parts-supply-chain-for-indias-repair-economy8221-anmol-gupta-founder-fixtra20261114103139/"
-    },
-    {
-      "id": "https://www.pressenza.com/2026/11/trump-out-international-peoples-counter-summit-in-manila-rejects-pax-silica-u-s-wars-and-plunder-as-trump-arrives-for-asean-summit/",
-      "title": "TRUMP OUT! International People’s Counter-Summit in Manila Rejects Pax Silica, U.S. Wars and Plunder as Trump Arrives for ASEAN Summit",
-      "source": "pressenza.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.pressenza.com/2026/11/trump-out-international-peoples-counter-summit-in-manila-rejects-pax-silica-u-s-wars-and-plunder-as-trump-arrives-for-asean-summit/"
     },
     {
       "id": "https://www.thenews.com.pk/latest/1423554-us-and-canada-making-progress-on-new-trade-deal-carney-says",
@@ -162,6 +162,42 @@
       "publishedAt": "2026-11-13T20:17:00Z",
       "summary": "",
       "url": "https://www.finanzen.ch/nachrichten/aktien/crude-oil-ticks-lower-amid-geopolitical-concerns-iea-projections-1036763044"
+    },
+    {
+      "id": "https://en.antaranews.com/news/442723/president-prabowo-arrives-in-manila-for-49th-asean-summit",
+      "title": "President Prabowo arrives in Manila for 49th ASEAN Summit",
+      "source": "en.antaranews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T19:16:00Z",
+      "publishedAt": "2026-11-14T19:16:00Z",
+      "summary": "",
+      "url": "https://en.antaranews.com/news/442723/president-prabowo-arrives-in-manila-for-49th-asean-summit"
+    },
+    {
+      "id": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says",
+      "title": "Trump, Xi and Putin Plan an Unprecedented Joint Meeting on the Sidelines of APEC, White House Says",
+      "source": "military.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T19:16:00Z",
+      "publishedAt": "2026-11-14T19:16:00Z",
+      "summary": "",
+      "url": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says"
+    },
+    {
+      "id": "https://www.businesstoday.in/world/story/trump-xi-putin-set-for-unprecedented-trilateral-talks-at-apec-summit-in-shenzhen-567494-2026-11-14",
+      "title": "Trump, Xi, Putin set for unprecedented trilateral talks at APEC summit in Shenzhen - BusinessToday",
+      "source": "businesstoday.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-14",
+      "dateRaw": "2026-11-14T19:16:00Z",
+      "publishedAt": "2026-11-14T19:16:00Z",
+      "summary": "",
+      "url": "https://www.businesstoday.in/world/story/trump-xi-putin-set-for-unprecedented-trilateral-talks-at-apec-summit-in-shenzhen-567494-2026-11-14"
     },
     {
       "id": "https://www.jns.org/news/u-s-news/lawfare-project-asks-treasury-to-investigate-philadelphia-dsa-over-alleged-sanctions-violations",
@@ -248,18 +284,6 @@
       "url": "https://www.meddeviceonline.com/doc/medical-device-supply-chain-management-metals-electronics-0001"
     },
     {
-      "id": "https://www.mercurynews.com/2026/11/13/trump-xi-putin-summit/",
-      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
-      "source": "mercurynews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T00:46:00Z",
-      "publishedAt": "2026-11-14T00:46:00Z",
-      "summary": "",
-      "url": "https://www.mercurynews.com/2026/11/13/trump-xi-putin-summit/"
-    },
-    {
       "id": "https://en.shafaqna.com/489783/energy-security-over-transition/",
       "title": "Energy Security Over Transition: Iran War Lesson",
       "source": "en.shafaqna.com",
@@ -272,18 +296,6 @@
       "url": "https://en.shafaqna.com/489783/energy-security-over-transition/"
     },
     {
-      "id": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/",
-      "title": "Trump, Xi, and Putin: What to expect from the APEC summit | Brookings",
-      "source": "brookings.edu",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-13",
-      "dateRaw": "2026-11-13T20:16:00Z",
-      "publishedAt": "2026-11-13T20:16:00Z",
-      "summary": "",
-      "url": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/"
-    },
-    {
       "id": "https://isp.netscape.com:443/pf/story/0001/20261114/00dea030028a7c221840458b25469e02",
       "title": "Canada's Carney reports progress in trade talks with Trump as he expands ties with Asia",
       "source": "isp.netscape.com",
@@ -294,15 +306,27 @@
       "publishedAt": "2026-11-14T07:31:00Z",
       "summary": "",
       "url": "https://isp.netscape.com:443/pf/story/0001/20261114/00dea030028a7c221840458b25469e02"
+    },
+    {
+      "id": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/",
+      "title": "Trump, Xi, and Putin: What to expect from the APEC summit | Brookings",
+      "source": "brookings.edu",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-13",
+      "dateRaw": "2026-11-13T20:16:00Z",
+      "publishedAt": "2026-11-13T20:16:00Z",
+      "summary": "",
+      "url": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 222,
-    "fetchedItems": 3760,
-    "relevantItems": 44,
-    "feedBytes": 1090187,
+    "poolSize": 248,
+    "fetchedItems": 3148,
+    "relevantItems": 27,
+    "feedBytes": 893113,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
