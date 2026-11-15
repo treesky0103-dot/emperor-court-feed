@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 16. 오전 01:56:41",
+  "updatedAt": "2026. 11. 16. 오전 06:31:48",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 210,
-    "passed": 8,
-    "deduped": 8,
-    "eventDeduped": 8,
-    "displayed": 8,
+    "raw": 220,
+    "passed": 10,
+    "deduped": 10,
+    "eventDeduped": 10,
+    "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": false
+    "targetMet": true
   },
   "items": [
+    {
+      "id": "https://biz.chosun.com/stock/stock_general/2026/11/16/LOKOUOQM3ZEB7FCYWIVQ3DXVHQ/",
+      "title": "이사회 의장 없던 엔비디아… ‘황제 CEO’ 견제도, 승계 준비도 실패",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T21:16:00Z",
+      "publishedAt": "2026-11-15T21:16:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/16/LOKOUOQM3ZEB7FCYWIVQ3DXVHQ/"
+    },
     {
       "id": "https://www.etnews.com/20261115000103",
       "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
@@ -40,6 +52,18 @@
       "publishedAt": "2026-11-15T16:46:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261115000146"
+    },
+    {
+      "id": "https://theath.ca/interviews-and-qas/student-government-and-academic-restructuring-a-conversation-with-lily-rich/",
+      "title": "Student Government and Academic Restructuring: A Conversation with Lily Rich - The Athenaeum",
+      "source": "theath.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T21:16:00Z",
+      "publishedAt": "2026-11-15T21:16:00Z",
+      "summary": "",
+      "url": "https://theath.ca/interviews-and-qas/student-government-and-academic-restructuring-a-conversation-with-lily-rich/"
     },
     {
       "id": "https://ksisradio.com/ixp/463/p/macon-missouri-conagra-closing/",
@@ -116,6 +140,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://biz.chosun.com/stock/stock_general/2026/11/16/LOKOUOQM3ZEB7FCYWIVQ3DXVHQ/",
+      "title": "이사회 의장 없던 엔비디아… ‘황제 CEO’ 견제도, 승계 준비도 실패",
+      "source": "biz.chosun.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T21:16:00Z",
+      "publishedAt": "2026-11-15T21:16:00Z",
+      "summary": "",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/16/LOKOUOQM3ZEB7FCYWIVQ3DXVHQ/"
+    },
+    {
       "id": "https://www.etnews.com/20261115000103",
       "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
       "source": "etnews.com",
@@ -150,6 +186,18 @@
       "publishedAt": "2026-11-15T16:46:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261115000146"
+    },
+    {
+      "id": "https://theath.ca/interviews-and-qas/student-government-and-academic-restructuring-a-conversation-with-lily-rich/",
+      "title": "Student Government and Academic Restructuring: A Conversation with Lily Rich - The Athenaeum",
+      "source": "theath.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T21:16:00Z",
+      "publishedAt": "2026-11-15T21:16:00Z",
+      "summary": "",
+      "url": "https://theath.ca/interviews-and-qas/student-government-and-academic-restructuring-a-conversation-with-lily-rich/"
     },
     {
       "id": "https://ksisradio.com/ixp/463/p/macon-missouri-conagra-closing/",
@@ -215,10 +263,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 210,
-    "fetchedItems": 3480,
-    "relevantItems": 51,
-    "feedBytes": 994734,
+    "poolSize": 220,
+    "fetchedItems": 2962,
+    "relevantItems": 59,
+    "feedBytes": 824225,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
