@@ -2,15 +2,15 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 15. 오후 06:58:25",
+  "updatedAt": "2026. 11. 16. 오전 01:56:41",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 202,
-    "passed": 42,
-    "deduped": 42,
-    "eventDeduped": 42,
+    "raw": 210,
+    "passed": 60,
+    "deduped": 60,
+    "eventDeduped": 60,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
@@ -30,16 +30,40 @@
       "url": "https://www.etnews.com/20261115000103"
     },
     {
-      "id": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
-      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
-      "source": "cnbc.com",
+      "id": "https://www.hani.co.kr/arti/economy/economy_general/1286908.html",
+      "title": "‘독주’ 한국 반도체, 1986년 일본처럼?…“경제안보 리스크 자극” 우려",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1286908.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261115000146",
+      "title": "금감원, 세계투자자주간 맞아 AI 금융사기 예방 교육 확대",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261115000146"
+    },
+    {
+      "id": "https://www.pharmaceuticalonline.com/doc/smart-manufacturing-for-pharmaceuticals-enabling-agile-production-with-modular-automation-and-mtp-0001",
+      "title": "Smart Manufacturing For Pharmaceuticals: Enabling Agile Production With Modular Automation And MTP",
+      "source": "pharmaceuticalonline.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T19:17:00Z",
-      "publishedAt": "2026-11-14T19:17:00Z",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
       "summary": "",
-      "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
+      "url": "https://www.pharmaceuticalonline.com/doc/smart-manufacturing-for-pharmaceuticals-enabling-agile-production-with-modular-automation-and-mtp-0001"
     },
     {
       "id": "https://www.koreatimes.com/article/11631550",
@@ -78,6 +102,18 @@
       "url": "https://www.roboticstomorrow.com/company_directory/mvtec-llc/10346"
     },
     {
+      "id": "https://www.mcall.com/2026/11/15/electricity-grid-watchdog-warns-of-higher-prices-after-delayed-pjm-market-reforms/",
+      "title": "Electricity grid watchdog warns of higher prices after delayed PJM market reforms",
+      "source": "mcall.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.mcall.com/2026/11/15/electricity-grid-watchdog-warns-of-higher-prices-after-delayed-pjm-market-reforms/"
+    },
+    {
       "id": "https://www.sacurrent.com/news/politics-and-elections/exiting-gop-congressman-chip-roy-says-party-should-never-have-let-ken-paxton-run-for-senate/",
       "title": "Exiting GOP congressman Chip Roy says party should never have let Ken Paxton run for Senate",
       "source": "sacurrent.com",
@@ -100,42 +136,6 @@
       "publishedAt": "2026-11-14T23:01:00Z",
       "summary": "",
       "url": "https://www.fox9.com/news/how-data-centers-lost-big-midterm-elections"
-    },
-    {
-      "id": "https://www.nbcnews.com/tech/tech-news/nvidia-chips-loophole-export-ruleschinese-companies-access-megaspeed-rcna608601",
-      "title": "The Nvidia loophole: Chinese companies can rent top chips online — Washington has known for years",
-      "source": "nbcnews.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-chips-loophole-export-ruleschinese-companies-access-megaspeed-rcna608601"
-    },
-    {
-      "id": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html",
-      "title": "Hundreds protest data centre in small Aussie town",
-      "source": "brisbanetimes.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-15",
-      "dateRaw": "2026-11-15T09:46:00Z",
-      "publishedAt": "2026-11-15T09:46:00Z",
-      "summary": "",
-      "url": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html"
-    },
-    {
-      "id": "https://www.afr.com/technology/australian-data-centre-founder-reveals-mounting-debt-ahead-of-ipo-20261115-p61e6u",
-      "title": "Australian data centre founder reveals mounting debt ahead of IPO",
-      "source": "afr.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-15",
-      "dateRaw": "2026-11-15T02:31:00Z",
-      "publishedAt": "2026-11-15T02:31:00Z",
-      "summary": "",
-      "url": "https://www.afr.com/technology/australian-data-centre-founder-reveals-mounting-debt-ahead-of-ipo-20261115-p61e6u"
     }
   ],
   "trendItems": [
@@ -176,6 +176,30 @@
       "url": "https://www.etnews.com/20261115000057"
     },
     {
+      "id": "https://www.hani.co.kr/arti/economy/economy_general/1286908.html",
+      "title": "‘독주’ 한국 반도체, 1986년 일본처럼?…“경제안보 리스크 자극” 우려",
+      "source": "hani.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1286908.html"
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261115000146",
+      "title": "금감원, 세계투자자주간 맞아 AI 금융사기 예방 교육 확대",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261115000146"
+    },
+    {
       "id": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
       "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
       "source": "cnbc.com",
@@ -186,6 +210,18 @@
       "publishedAt": "2026-11-14T19:17:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
+    },
+    {
+      "id": "https://www.pharmaceuticalonline.com/doc/smart-manufacturing-for-pharmaceuticals-enabling-agile-production-with-modular-automation-and-mtp-0001",
+      "title": "Smart Manufacturing For Pharmaceuticals: Enabling Agile Production With Modular Automation And MTP",
+      "source": "pharmaceuticalonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.pharmaceuticalonline.com/doc/smart-manufacturing-for-pharmaceuticals-enabling-agile-production-with-modular-automation-and-mtp-0001"
     },
     {
       "id": "https://financialpost.com/small-businesses/bdc-launches-ai-initiatives-entrepreneurs/",
@@ -236,16 +272,28 @@
       "url": "https://www.roboticstomorrow.com/company_directory/mvtec-llc/10346"
     },
     {
-      "id": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g",
-      "title": "Jensen Huang’s affair will shut back-door trade of AI chips to China",
-      "source": "afr.com",
+      "id": "https://www.pharmaceuticalonline.com/doc/intellectual-property-considerations-in-drug-development-for-biotech-companies-0001",
+      "title": "Intellectual Property Considerations In Drug Development For Biotech Companies",
+      "source": "pharmaceuticalonline.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-15",
-      "dateRaw": "2026-11-15T02:31:00Z",
-      "publishedAt": "2026-11-15T02:31:00Z",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
       "summary": "",
-      "url": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g"
+      "url": "https://www.pharmaceuticalonline.com/doc/intellectual-property-considerations-in-drug-development-for-biotech-companies-0001"
+    },
+    {
+      "id": "https://www.mcall.com/2026/11/15/electricity-grid-watchdog-warns-of-higher-prices-after-delayed-pjm-market-reforms/",
+      "title": "Electricity grid watchdog warns of higher prices after delayed PJM market reforms",
+      "source": "mcall.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.mcall.com/2026/11/15/electricity-grid-watchdog-warns-of-higher-prices-after-delayed-pjm-market-reforms/"
     },
     {
       "id": "https://www.sacurrent.com/news/politics-and-elections/exiting-gop-congressman-chip-roy-says-party-should-never-have-let-ken-paxton-run-for-senate/",
@@ -282,6 +330,18 @@
       "publishedAt": "2026-11-14T23:01:00Z",
       "summary": "",
       "url": "https://www.nbcnews.com/tech/tech-news/nvidia-chips-loophole-export-ruleschinese-companies-access-megaspeed-rcna608601"
+    },
+    {
+      "id": "https://www.eveningnews24.co.uk/news/26730455.hundreds-protest-data-centre-plans-norwich/",
+      "title": "Hundreds protest against controversial plans for huge £1.2bn data centre",
+      "source": "eveningnews24.co.uk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.eveningnews24.co.uk/news/26730455.hundreds-protest-data-centre-plans-norwich/"
     },
     {
       "id": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html",
@@ -368,6 +428,42 @@
       "url": "https://www.etnews.com/20261112000464"
     },
     {
+      "id": "https://247wallst.com/investing/2026/11/15/michael-burry-warned-ai-chips-would-lose-value-fast-new-data-suggests-he-was-wrong/",
+      "title": "Michael Burry Warned AI Chips Would Lose Value Fast. New Data Suggests He Was Wrong",
+      "source": "247wallst.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://247wallst.com/investing/2026/11/15/michael-burry-warned-ai-chips-would-lose-value-fast-new-data-suggests-he-was-wrong/"
+    },
+    {
+      "id": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g",
+      "title": "Jensen Huang’s affair will shut back-door trade of AI chips to China",
+      "source": "afr.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T02:31:00Z",
+      "publishedAt": "2026-11-15T02:31:00Z",
+      "summary": "",
+      "url": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g"
+    },
+    {
+      "id": "https://www.hankookilbo.com/news/article/A2026111515310002181",
+      "title": "국가고시 뚫은 'AI 부정행위'... 수능에 총력 대응을-오피니언ㅣ한국일보",
+      "source": "hankookilbo.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.hankookilbo.com/news/article/A2026111515310002181"
+    },
+    {
       "id": "http://www.newstomato.com/ReadNews.aspx?no=1320439",
       "title": "세무사 수석 'AI 부정행위' 자수…경찰 \"신속·엄정 수사\"",
       "source": "newstomato.com",
@@ -378,6 +474,126 @@
       "publishedAt": "2026-11-15T02:31:00Z",
       "summary": "",
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1320439"
+    },
+    {
+      "id": "https://www.dailykos.com/stories/2026/11/15/800129027/community/did-cronyism-nepotism-incompedence-or-ai-cause-the-nationwide-groundstop/",
+      "title": "Did Cronyism, Nepotism, incompetence, or AI cause the Nationwide Groundstop?",
+      "source": "dailykos.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:47:00Z",
+      "publishedAt": "2026-11-15T16:47:00Z",
+      "summary": "",
+      "url": "https://www.dailykos.com/stories/2026/11/15/800129027/community/did-cronyism-nepotism-incompedence-or-ai-cause-the-nationwide-groundstop/"
+    },
+    {
+      "id": "https://www.sify.com/ai-analytics/cheap-efficient-chinese-models-are-coming-to-upend-the-gen-ai-pple-cart/",
+      "title": "DeepSeek not the only Chinese model to upset AI-pple cart; here's dozen more - Sify",
+      "source": "sify.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:47:00Z",
+      "publishedAt": "2026-11-15T16:47:00Z",
+      "summary": "",
+      "url": "https://www.sify.com/ai-analytics/cheap-efficient-chinese-models-are-coming-to-upend-the-gen-ai-pple-cart/"
+    },
+    {
+      "id": "https://247wallst.com/investing/2026/11/15/jensen-huang-said-its-china-ai-business-was-dead-reuters-just-found-3-2-billion-that-raises-questions/",
+      "title": "Jensen Huang Said Its China AI Business Was Dead. Reuters Just Found $3.2 Billion That Raises Questions",
+      "source": "247wallst.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://247wallst.com/investing/2026/11/15/jensen-huang-said-its-china-ai-business-was-dead-reuters-just-found-3-2-billion-that-raises-questions/"
+    },
+    {
+      "id": "https://www.sify.com/ai-analytics/a-teen-suicide-spotlights-dangers-of-unregulated-ai-companions/",
+      "title": "A Teen Suicide Spotlights Dangers of Unregulated AI Companions - Sify",
+      "source": "sify.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.sify.com/ai-analytics/a-teen-suicide-spotlights-dangers-of-unregulated-ai-companions/"
+    },
+    {
+      "id": "https://www.sify.com/ai-analytics/putting-the-art-in-artificial-intelligence/",
+      "title": "Putting the 'Art' in Artificial Intelligence! - Sify",
+      "source": "sify.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.sify.com/ai-analytics/putting-the-art-in-artificial-intelligence/"
+    },
+    {
+      "id": "https://www.gulf-times.com/article/738258/business/midea-introduces-meras-in-qatar-t3-inverter-split-ac-with-non-stop-cooling-at-70c-and-advanced-ai-technology",
+      "title": "Midea introduces Meras in Qatar: T3 Inverter Split AC with non-stop cooling at 70°C and advanced AI technology",
+      "source": "gulf-times.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.gulf-times.com/article/738258/business/midea-introduces-meras-in-qatar-t3-inverter-split-ac-with-non-stop-cooling-at-70c-and-advanced-ai-technology"
+    },
+    {
+      "id": "https://www.dailymail.com/yourmoney/article-16286529/united-airlines-meta-ai-travel-agents.html",
+      "title": "United Airlines blocks AI from booking flights in major blow to Meta",
+      "source": "dailymail.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.dailymail.com/yourmoney/article-16286529/united-airlines-meta-ai-travel-agents.html"
+    },
+    {
+      "id": "https://247wallst.com/investing/2026/11/15/kevin-warsh-wants-to-know-if-ai-can-transform-the-economy-the-answer-could-change-interest-rates/",
+      "title": "Kevin Warsh Wants to Know If AI Can Transform the Economy. The Answer Could Change Interest Rates",
+      "source": "247wallst.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://247wallst.com/investing/2026/11/15/kevin-warsh-wants-to-know-if-ai-can-transform-the-economy-the-answer-could-change-interest-rates/"
+    },
+    {
+      "id": "https://www.sify.com/ai-analytics/ai-can-write-code-what-happens-to-indias-millions-of-software-engineers/",
+      "title": "AI Can Write Code. What Happens to India's Millions of Software Engineers? - Sify",
+      "source": "sify.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "https://www.sify.com/ai-analytics/ai-can-write-code-what-happens-to-indias-millions-of-software-engineers/"
+    },
+    {
+      "id": "http://www.thedailytimes.com/ap/business/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_4dcf2a92-589d-5f48-a0a9-2e732c6042b3.html",
+      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "source": "thedailytimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T16:46:00Z",
+      "publishedAt": "2026-11-15T16:46:00Z",
+      "summary": "",
+      "url": "http://www.thedailytimes.com/ap/business/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_4dcf2a92-589d-5f48-a0a9-2e732c6042b3.html"
     },
     {
       "id": "https://www.dailymirror.lk/breaking-news/Top-scorer-on-South-Korean-tax-exam-confesses-to-cheating-with-AI/108-354943",
@@ -414,18 +630,6 @@
       "publishedAt": "2026-11-15T09:46:00Z",
       "summary": "",
       "url": "https://www.enca.com/news/ramaphosa-visits-us-explore-ai-opportunities"
-    },
-    {
-      "id": "http://www.rockymounttelegram.com/news/national/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_e0f51ce7-276c-5329-90a5-7fd469a43f79.html",
-      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-      "source": "rockymounttelegram.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-15",
-      "dateRaw": "2026-11-15T09:46:00Z",
-      "publishedAt": "2026-11-15T09:46:00Z",
-      "summary": "",
-      "url": "http://www.rockymounttelegram.com/news/national/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_e0f51ce7-276c-5329-90a5-7fd469a43f79.html"
     },
     {
       "id": "https://tribune.net.ph/2026/11/15/leonen-urges-ibp-probers-to-resist-pressure-from-ties-safeguard-judicial-independence",
@@ -534,123 +738,15 @@
       "publishedAt": "2026-11-14T23:01:00Z",
       "summary": "",
       "url": "https://www.hpcwire.com/off-the-wire/cornelis-cn6000-networking-platform-delivers-1-6b-messages-per-second-at-800g-for-ai-and-hpc/"
-    },
-    {
-      "id": "https://english.news.cn/20261115/8391f85941874bfaa544c0ea957c3503/c.html",
-      "title": "World Insights: Dublin summits advance Europe's role in Ukraine talks, expose AI challenges",
-      "source": "english.news.cn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://english.news.cn/20261115/8391f85941874bfaa544c0ea957c3503/c.html"
-    },
-    {
-      "id": "https://freerepublic.com/focus/f-news/4403056/posts",
-      "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-      "source": "freerepublic.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://freerepublic.com/focus/f-news/4403056/posts"
-    },
-    {
-      "id": "https://allafrica.com/stories/202611120505.html",
-      "title": "Africa: Author Simbarashe Kundizeza Cleared of AI Allegations",
-      "source": "allafrica.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://allafrica.com/stories/202611120505.html"
-    },
-    {
-      "id": "https://www.hpcwire.com/off-the-wire/chatsworth-products-showcases-rack-power-and-cooling-solutions-for-ai-and-hpc-at-sc26/",
-      "title": "Chatsworth Products Showcases Rack, Power, and Cooling Solutions for AI and HPC at SC26 - HPCwire",
-      "source": "hpcwire.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://www.hpcwire.com/off-the-wire/chatsworth-products-showcases-rack-power-and-cooling-solutions-for-ai-and-hpc-at-sc26/"
-    },
-    {
-      "id": "https://www.lbc.co.uk/article/thousands-march-through-edinburgh-in-protest-against-ai-centres-5HjdmN5_2/",
-      "title": "Thousands march through Edinburgh in protest against AI centres | LBC",
-      "source": "lbc.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T19:16:00Z",
-      "publishedAt": "2026-11-14T19:16:00Z",
-      "summary": "",
-      "url": "https://www.lbc.co.uk/article/thousands-march-through-edinburgh-in-protest-against-ai-centres-5HjdmN5_2/"
-    },
-    {
-      "id": "https://tucson.com/news/local/subscriber/article_56a45766-b7ef-4c0e-81f3-f7ed2dd2afab.html",
-      "title": "TUSD consultant used AI to parse school closure feedback",
-      "source": "tucson.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T19:16:00Z",
-      "publishedAt": "2026-11-14T19:16:00Z",
-      "summary": "",
-      "url": "https://tucson.com/news/local/subscriber/article_56a45766-b7ef-4c0e-81f3-f7ed2dd2afab.html"
-    },
-    {
-      "id": "https://brescia.corriere.it/notizie/spettacoli/26_novembre_14/jolanda-renga-the-traitors-una-pazzia-la-mia-prima-volta-in-tv-da-sola-niente-cellulare-al-liceo-feci-un-esperimento-simile-per-afb09421-a65f-4fd5-9316-a04be1e5fxlk.shtml",
-      "title": "Jolanda Renga: «The Traitors una pazzia, la mia prima volta in tv da sola. Niente cellulare? Al liceo feci un esperimento simile per un tema, oggi scrivo lettere a mano ai miei amici»",
-      "source": "brescia.corriere.it",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T19:16:00Z",
-      "publishedAt": "2026-11-14T19:16:00Z",
-      "summary": "",
-      "url": "https://brescia.corriere.it/notizie/spettacoli/26_novembre_14/jolanda-renga-the-traitors-una-pazzia-la-mia-prima-volta-in-tv-da-sola-niente-cellulare-al-liceo-feci-un-esperimento-simile-per-afb09421-a65f-4fd5-9316-a04be1e5fxlk.shtml"
-    },
-    {
-      "id": "https://1065thebuzz.com/2026/11/14/new-awards-show-celebrates-ai-music-and-its-creators/",
-      "title": "New awards show celebrates AI music and its creators",
-      "source": "1065thebuzz.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T14:16:00Z",
-      "publishedAt": "2026-11-14T14:16:00Z",
-      "summary": "",
-      "url": "https://1065thebuzz.com/2026/11/14/new-awards-show-celebrates-ai-music-and-its-creators/"
-    },
-    {
-      "id": "https://www.afr.com/chanticleer/howard-marks-just-nailed-the-only-question-that-matters-for-ai-investors-20261115-p61dih",
-      "title": "Howard Marks just nailed the only question that matters for AI investors",
-      "source": "afr.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-15",
-      "dateRaw": "2026-11-15T02:31:00Z",
-      "publishedAt": "2026-11-15T02:31:00Z",
-      "summary": "",
-      "url": "https://www.afr.com/chanticleer/howard-marks-just-nailed-the-only-question-that-matters-for-ai-investors-20261115-p61dih"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 202,
-    "fetchedItems": 3828,
-    "relevantItems": 64,
-    "feedBytes": 1087214,
+    "poolSize": 210,
+    "fetchedItems": 3480,
+    "relevantItems": 51,
+    "feedBytes": 994734,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
