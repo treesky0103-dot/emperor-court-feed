@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 15. 오전 11:47:43",
+  "updatedAt": "2026. 11. 15. 오후 06:58:25",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 178,
-    "passed": 35,
-    "deduped": 35,
-    "eventDeduped": 35,
+    "raw": 202,
+    "passed": 42,
+    "deduped": 42,
+    "eventDeduped": 42,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.etnews.com/20261115000103",
+      "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261115000103"
+    },
     {
       "id": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
       "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
@@ -54,16 +66,28 @@
       "url": "https://www.kimt.com/news/albert-lea-backs-300k-loan-for-pro-manufacturing-expansion/article_a59d93b6-42dd-4187-860b-5e4e61666227.html"
     },
     {
-      "id": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g",
-      "title": "Jensen Huang’s affair will shut back-door trade of AI chips to China",
-      "source": "afr.com",
+      "id": "https://www.roboticstomorrow.com/company_directory/mvtec-llc/10346",
+      "title": "Industrial Robotics & Automation, Mobile & Humanoid Robots Company - MVTec LLC | RoboticsTomorrow",
+      "source": "roboticstomorrow.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-15",
-      "dateRaw": "2026-11-15T02:31:00Z",
-      "publishedAt": "2026-11-15T02:31:00Z",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
       "summary": "",
-      "url": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g"
+      "url": "https://www.roboticstomorrow.com/company_directory/mvtec-llc/10346"
+    },
+    {
+      "id": "https://www.sacurrent.com/news/politics-and-elections/exiting-gop-congressman-chip-roy-says-party-should-never-have-let-ken-paxton-run-for-senate/",
+      "title": "Exiting GOP congressman Chip Roy says party should never have let Ken Paxton run for Senate",
+      "source": "sacurrent.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.sacurrent.com/news/politics-and-elections/exiting-gop-congressman-chip-roy-says-party-should-never-have-let-ken-paxton-run-for-senate/"
     },
     {
       "id": "https://www.fox9.com/news/how-data-centers-lost-big-midterm-elections",
@@ -90,40 +114,16 @@
       "url": "https://www.nbcnews.com/tech/tech-news/nvidia-chips-loophole-export-ruleschinese-companies-access-megaspeed-rcna608601"
     },
     {
-      "id": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/",
-      "title": "New Zealand manufacturing growth slows to 54.9 as inventory rebuilding outpaces output",
-      "source": "english.pravda.ru",
+      "id": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html",
+      "title": "Hundreds protest data centre in small Aussie town",
+      "source": "brisbanetimes.com.au",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
       "summary": "",
-      "url": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/"
-    },
-    {
-      "id": "https://www.digbycourier.ca/intel-shares-plans-for-its-foundry-business-to-build-a-custom-chip-for-amazon/",
-      "title": "Intel shares plans for its foundry business to build a custom chip for Amazon",
-      "source": "digbycourier.ca",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://www.digbycourier.ca/intel-shares-plans-for-its-foundry-business-to-build-a-custom-chip-for-amazon/"
-    },
-    {
-      "id": "https://www.irishexaminer.com/news/arid-41937552.html",
-      "title": "‘Godfather of AI’ warns humanity could be ‘toast’ if artificial intelligence cannot be controlled",
-      "source": "irishexaminer.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.irishexaminer.com/news/arid-41937552.html"
+      "url": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html"
     },
     {
       "id": "https://www.afr.com/technology/australian-data-centre-founder-reveals-mounting-debt-ahead-of-ipo-20261115-p61e6u",
@@ -140,6 +140,42 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.etnews.com/20261115000103",
+      "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261115000103"
+    },
+    {
+      "id": "https://www.etnews.com/20261113000212",
+      "title": "“AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261113000212"
+    },
+    {
+      "id": "https://www.etnews.com/20261115000057",
+      "title": "젠슨 황 퇴진에 엔비디아 공급망 '재편'…韓 반도체 수요처 다변화 '기회'",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261115000057"
+    },
+    {
       "id": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
       "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
       "source": "cnbc.com",
@@ -150,6 +186,18 @@
       "publishedAt": "2026-11-14T19:17:00Z",
       "summary": "",
       "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
+    },
+    {
+      "id": "https://financialpost.com/small-businesses/bdc-launches-ai-initiatives-entrepreneurs/",
+      "title": "BDC launches two new AI initiatives aimed at entrepreneurs",
+      "source": "financialpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://financialpost.com/small-businesses/bdc-launches-ai-initiatives-entrepreneurs/"
     },
     {
       "id": "https://www.koreatimes.com/article/11631550",
@@ -176,6 +224,18 @@
       "url": "https://www.kimt.com/news/albert-lea-backs-300k-loan-for-pro-manufacturing-expansion/article_a59d93b6-42dd-4187-860b-5e4e61666227.html"
     },
     {
+      "id": "https://www.roboticstomorrow.com/company_directory/mvtec-llc/10346",
+      "title": "Industrial Robotics & Automation, Mobile & Humanoid Robots Company - MVTec LLC | RoboticsTomorrow",
+      "source": "roboticstomorrow.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.roboticstomorrow.com/company_directory/mvtec-llc/10346"
+    },
+    {
       "id": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g",
       "title": "Jensen Huang’s affair will shut back-door trade of AI chips to China",
       "source": "afr.com",
@@ -188,40 +248,16 @@
       "url": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g"
     },
     {
-      "id": "https://www.irishexaminer.com/news/arid-41937552.html",
-      "title": "‘Godfather of AI’ warns humanity could be ‘toast’ if artificial intelligence cannot be controlled",
-      "source": "irishexaminer.com",
+      "id": "https://www.sacurrent.com/news/politics-and-elections/exiting-gop-congressman-chip-roy-says-party-should-never-have-let-ken-paxton-run-for-senate/",
+      "title": "Exiting GOP congressman Chip Roy says party should never have let Ken Paxton run for Senate",
+      "source": "sacurrent.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
       "summary": "",
-      "url": "https://www.irishexaminer.com/news/arid-41937552.html"
-    },
-    {
-      "id": "https://www.thefastmode.com/technology-solutions/51162-kddi-broadcom-advance-ai-data-centers-with-optical-electronic-convergence",
-      "title": "KDDI, Broadcom Advance AI Data Centers With Optical-Electronic Convergence",
-      "source": "thefastmode.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.thefastmode.com/technology-solutions/51162-kddi-broadcom-advance-ai-data-centers-with-optical-electronic-convergence"
-    },
-    {
-      "id": "https://www.marshallindependent.com/opinion/local-columns/2026/11/ai-data-centers-create-need-for-technology-regulation/",
-      "title": "AI, data centers create need for technology regulation",
-      "source": "marshallindependent.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.marshallindependent.com/opinion/local-columns/2026/11/ai-data-centers-create-need-for-technology-regulation/"
+      "url": "https://www.sacurrent.com/news/politics-and-elections/exiting-gop-congressman-chip-roy-says-party-should-never-have-let-ken-paxton-run-for-senate/"
     },
     {
       "id": "https://www.fox9.com/news/how-data-centers-lost-big-midterm-elections",
@@ -248,16 +284,16 @@
       "url": "https://www.nbcnews.com/tech/tech-news/nvidia-chips-loophole-export-ruleschinese-companies-access-megaspeed-rcna608601"
     },
     {
-      "id": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/",
-      "title": "New Zealand manufacturing growth slows to 54.9 as inventory rebuilding outpaces output",
-      "source": "english.pravda.ru",
+      "id": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html",
+      "title": "Hundreds protest data centre in small Aussie town",
+      "source": "brisbanetimes.com.au",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
       "summary": "",
-      "url": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/"
+      "url": "https://www.brisbanetimes.com.au/national/hundreds-protest-data-centre-in-small-aussie-town-20261115-p61ebl.html"
     },
     {
       "id": "https://www.afr.com/technology/australian-data-centre-founder-reveals-mounting-debt-ahead-of-ipo-20261115-p61e6u",
@@ -296,6 +332,42 @@
       "url": "https://www.digbycourier.ca/intel-shares-plans-for-its-foundry-business-to-build-a-custom-chip-for-amazon/"
     },
     {
+      "id": "https://www.etnews.com/20261113000023",
+      "title": "[ET시론] AI 시대, 사이버보안 교육체계의 대전환 필요",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261113000023"
+    },
+    {
+      "id": "https://www.etnews.com/20261113000210",
+      "title": "데이터센터 수도권 진입장벽 더 높인다",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261113000210"
+    },
+    {
+      "id": "https://www.etnews.com/20261112000464",
+      "title": "에이니온, 생성형 AI 시대 기업정보 관리 새로운 길 연다",
+      "source": "etnews.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.etnews.com/20261112000464"
+    },
+    {
       "id": "http://www.newstomato.com/ReadNews.aspx?no=1320439",
       "title": "세무사 수석 'AI 부정행위' 자수…경찰 \"신속·엄정 수사\"",
       "source": "newstomato.com",
@@ -306,6 +378,102 @@
       "publishedAt": "2026-11-15T02:31:00Z",
       "summary": "",
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1320439"
+    },
+    {
+      "id": "https://www.dailymirror.lk/breaking-news/Top-scorer-on-South-Korean-tax-exam-confesses-to-cheating-with-AI/108-354943",
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI - International | Daily Mirror",
+      "source": "dailymirror.lk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:47:00Z",
+      "publishedAt": "2026-11-15T09:47:00Z",
+      "summary": "",
+      "url": "https://www.dailymirror.lk/breaking-news/Top-scorer-on-South-Korean-tax-exam-confesses-to-cheating-with-AI/108-354943"
+    },
+    {
+      "id": "https://www.gdnonline.com:443/Details/1412894/Future-Council-projects-leverage-AI-to-serve-business",
+      "title": "UAE Business: Future Council projects leverage AI to serve business",
+      "source": "gdnonline.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:47:00Z",
+      "publishedAt": "2026-11-15T09:47:00Z",
+      "summary": "",
+      "url": "https://www.gdnonline.com:443/Details/1412894/Future-Council-projects-leverage-AI-to-serve-business"
+    },
+    {
+      "id": "https://www.enca.com/news/ramaphosa-visits-us-explore-ai-opportunities",
+      "title": "Ramaphosa visits US to explore AI opportunities",
+      "source": "enca.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.enca.com/news/ramaphosa-visits-us-explore-ai-opportunities"
+    },
+    {
+      "id": "http://www.rockymounttelegram.com/news/national/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_e0f51ce7-276c-5329-90a5-7fd469a43f79.html",
+      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "source": "rockymounttelegram.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "http://www.rockymounttelegram.com/news/national/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_e0f51ce7-276c-5329-90a5-7fd469a43f79.html"
+    },
+    {
+      "id": "https://tribune.net.ph/2026/11/15/leonen-urges-ibp-probers-to-resist-pressure-from-ties-safeguard-judicial-independence",
+      "title": "Justice Leonen Calls for Judicial Independence, Warns Against Social Pressure and AI Misuse",
+      "source": "tribune.net.ph",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://tribune.net.ph/2026/11/15/leonen-urges-ibp-probers-to-resist-pressure-from-ties-safeguard-judicial-independence"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "source": "theguardian.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+    },
+    {
+      "id": "https://ekstrabladet.dk/underholdning/udlandkendte/stjerneforfatter-raser-over-ai-har-lyst-til-at-skrige-til-himlen/11354191",
+      "title": "Stjerneforfatter raser over AI",
+      "source": "ekstrabladet.dk",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://ekstrabladet.dk/underholdning/udlandkendte/stjerneforfatter-raser-over-ai-har-lyst-til-at-skrige-til-himlen/11354191"
+    },
+    {
+      "id": "https://cedarnews.net/italian/1149868/doppio-incendio-nella-notte-distributori-automatici-citta/",
+      "title": "Doppio incendio nella notte ai distributori automatici in città: caccia al piromane | Cedar News",
+      "source": "cedarnews.net",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-15",
+      "dateRaw": "2026-11-15T09:46:00Z",
+      "publishedAt": "2026-11-15T09:46:00Z",
+      "summary": "",
+      "url": "https://cedarnews.net/italian/1149868/doppio-incendio-nella-notte-distributori-automatici-citta/"
     },
     {
       "id": "https://www.hindustantimes.com/trending/anthropic-offers-up-to-405-000-salary-for-unusual-job-to-secure-natural-gas-for-ai-data-centres-101794703911828.html",
@@ -464,90 +632,6 @@
       "url": "https://1065thebuzz.com/2026/11/14/new-awards-show-celebrates-ai-music-and-its-creators/"
     },
     {
-      "id": "https://www.hindustantimes.com/india-news/hindustan-times-leadership-summit-stuart-russell-ai-use-101794637483391.html",
-      "title": "Imitation learning could give AI self-preservation instinct: Stuart Russell at HTLS",
-      "source": "hindustantimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.hindustantimes.com/india-news/hindustan-times-leadership-summit-stuart-russell-ai-use-101794637483391.html"
-    },
-    {
-      "id": "https://aninews.in/news/business/ai-related-debt-exposure-touches-usd-687-billion-as-financing-commitments-mount-goldman-sachs20261114114111/",
-      "title": "AI-related debt exposure touches USD 687 billion as financing commitments mount: Goldman Sachs",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/business/ai-related-debt-exposure-touches-usd-687-billion-as-financing-commitments-mount-goldman-sachs20261114114111/"
-    },
-    {
-      "id": "https://isp.netscape.com:443/pf/story/0001/20261114/aba7f92a1ec2f0f9e4b4da206d640d61",
-      "title": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
-      "source": "isp.netscape.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://isp.netscape.com:443/pf/story/0001/20261114/aba7f92a1ec2f0f9e4b4da206d640d61"
-    },
-    {
-      "id": "https://nextbigwhat.com/how-to-build-the-future-paul-graham-amjad-masad-big-ideas/",
-      "title": "Amjad Masad: Surf the AI tidal wave, don't stand on the beach - NextBigWhat",
-      "source": "nextbigwhat.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://nextbigwhat.com/how-to-build-the-future-paul-graham-amjad-masad-big-ideas/"
-    },
-    {
-      "id": "https://www.hindustantimes.com/india-news/ai-bubble-will-break-india-should-be-worried-economist-joseph-e-stiglitz-at-ht-leadership-summit-101794637097130.html",
-      "title": "AI bubble will break; India should be worried: Economist Joseph E Stiglitz at HT Leadership Summit 2026",
-      "source": "hindustantimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.hindustantimes.com/india-news/ai-bubble-will-break-india-should-be-worried-economist-joseph-e-stiglitz-at-ht-leadership-summit-101794637097130.html"
-    },
-    {
-      "id": "https://www.wesh.com/article/faa-ground-stop-raises-questions-after-rollout-of-new-ai-air-traffic-system/74428995",
-      "title": "FAA ground stop raises questions after rollout of new AI air-traffic system",
-      "source": "wesh.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://www.wesh.com/article/faa-ground-stop-raises-questions-after-rollout-of-new-ai-air-traffic-system/74428995"
-    },
-    {
-      "id": "https://en.shafaqna.com/489941/ai-smart-heating-systems-reduce-energy-bills/",
-      "title": "Can AI cut heating bills? Smart systems show promise, but costs remain a hurdle - Shafaqna English | International Shia News & Fatwas",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T07:31:00Z",
-      "publishedAt": "2026-11-14T07:31:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/489941/ai-smart-heating-systems-reduce-energy-bills/"
-    },
-    {
       "id": "https://www.afr.com/chanticleer/howard-marks-just-nailed-the-only-question-that-matters-for-ai-investors-20261115-p61dih",
       "title": "Howard Marks just nailed the only question that matters for AI investors",
       "source": "afr.com",
@@ -563,10 +647,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 178,
-    "fetchedItems": 2157,
-    "relevantItems": 47,
-    "feedBytes": 577322,
+    "poolSize": 202,
+    "fetchedItems": 3828,
+    "relevantItems": 64,
+    "feedBytes": 1087214,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

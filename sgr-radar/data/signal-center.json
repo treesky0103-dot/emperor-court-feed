@@ -1,39 +1,39 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 15. 오전 11:47:44",
+  "updatedAt": "2026. 11. 15. 오후 06:58:27",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/society/12208237",
-          "title": "“의대 선정 재검토 해달라”…교육부·복지부 찾아간 목포대 교수들",
+          "id": "https://www.mk.co.kr/news/economy/12209322",
+          "title": "전월세 비싼 수도권 청년 … 이자지원은 '역차별'",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T17:24:56Z",
-          "publishedAt": "2026-11-13T17:24:56Z",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T17:13:50Z",
+          "publishedAt": "2026-11-15T17:13:50Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/society/12208237",
+          "url": "https://www.mk.co.kr/news/economy/12209322",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261115000050",
-          "title": "월 8만원 모으면 3년 뒤 1000만원…한화생명, 청년 95명 자립 지원",
+          "id": "https://www.etnews.com/20261115000099",
+          "title": "경기콘텐츠진흥원, 12월 'AI 성과 자료집' 발간…교육·제작·투자",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-15",
-          "dateRaw": "2026-11-15T01:58:25Z",
-          "publishedAt": "2026-11-15T01:58:25Z",
+          "dateRaw": "2026-11-15T05:03:48Z",
+          "publishedAt": "2026-11-15T05:03:48Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261115000050",
+          "url": "https://www.etnews.com/20261115000099",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230886",
@@ -138,11 +138,11 @@
       ],
       "keywords": [
         {
-          "word": "교육",
-          "count": 3
+          "word": "주거",
+          "count": 4
         },
         {
-          "word": "주거",
+          "word": "교육",
           "count": 3
         },
         {
@@ -150,11 +150,11 @@
           "count": 3
         },
         {
-          "word": "복지",
-          "count": 2
+          "word": "돌봄",
+          "count": 1
         },
         {
-          "word": "돌봄",
+          "word": "복지",
           "count": 1
         }
       ],
@@ -165,46 +165,60 @@
     "economy": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261114021002",
-          "title": "코히어, 소버린 AI 투자와 기업 도입 증가로 일본에 대한 의지 강화",
-          "source": "zdnet.co.kr",
+          "id": "https://www.etnews.com/20261115000099",
+          "title": "경기콘텐츠진흥원, 12월 'AI 성과 자료집' 발간…교육·제작·투자",
+          "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T17:10:02Z",
-          "publishedAt": "2026-11-13T17:10:02Z",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T05:03:48Z",
+          "publishedAt": "2026-11-15T05:03:48Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261114021002",
+          "url": "https://www.etnews.com/20261115000099",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12209081",
-          "title": "“신용대출, 빨리 철회해도 연 12% 금리”…시중은행, 이자로 18억 벌었다",
+          "id": "https://zdnet.co.kr/view/?no=20261115110004",
+          "title": "[인터뷰] 시스코 혁신 수장 \"韓, AI 투자만으론 부족…보안·인재 함께 키워야\"",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T05:00:03Z",
+          "publishedAt": "2026-11-15T05:00:03Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261115110004",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12209261",
+          "title": "“美 AI 투자붐, 2028년 전후 조정 가능성…반도체 의존도 높은 韓 대비해야”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-15",
-          "dateRaw": "2026-11-15T09:14:04Z",
-          "publishedAt": "2026-11-15T09:14:04Z",
+          "dateRaw": "2026-11-15T16:35:21Z",
+          "publishedAt": "2026-11-15T16:35:21Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12209081",
+          "url": "https://www.mk.co.kr/news/economy/12209261",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.etnews.com/20261113000200",
-          "title": "한국투자증권, 패밀리오피스 고객 초청 '2026 컨퍼런스 데이' 개최",
-          "source": "etnews.com",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230927",
+          "title": "인력공단, '세무사 AI 부정행위'에 사과…국가자격시험 전수조사",
+          "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T05:23:48Z",
-          "publishedAt": "2026-11-13T05:23:48Z",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T07:08:00Z",
+          "publishedAt": "2026-11-15T07:08:00Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261113000200",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230927",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "signalFieldHint": "humanities"
         },
         {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1320362",
@@ -229,20 +243,6 @@
           "publishedAt": "2026-11-14T23:01:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11631534"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230885",
-          "title": "엔비디아 곤두박질…\"젠슨황 스캔들은 투자 기회\"",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-14",
-          "dateRaw": "2026-11-14T10:30:00Z",
-          "publishedAt": "2026-11-14T10:30:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230885",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10936364",
@@ -299,11 +299,7 @@
           "count": 7
         },
         {
-          "word": "금리",
-          "count": 1
-        },
-        {
-          "word": "기업",
+          "word": "인력",
           "count": 1
         }
       ],
@@ -314,44 +310,44 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/business/12208700",
-          "title": "“AI 원금복구 기다리느니”…‘미워도 다시한번’ 바이오 몰리는 투자금",
+          "id": "https://www.mk.co.kr/news/economy/12209261",
+          "title": "“美 AI 투자붐, 2028년 전후 조정 가능성…반도체 의존도 높은 韓 대비해야”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-14",
-          "dateRaw": "2026-11-14T06:23:54Z",
-          "publishedAt": "2026-11-14T06:23:54Z",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T16:35:21Z",
+          "publishedAt": "2026-11-15T16:35:21Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12208700",
+          "url": "https://www.mk.co.kr/news/economy/12209261",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261114225808",
-          "title": "AI 로봇·무선충전·안티드론...전파산업대전 18일 개막",
-          "source": "zdnet.co.kr",
+          "id": "https://www.etnews.com/20261115000078",
+          "title": "[시스코 라이브2026] “韓, AI·양자 적용 기반 갖춰”…CDA 협력 확대",
+          "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-15",
-          "dateRaw": "2026-11-15T00:00:01Z",
-          "publishedAt": "2026-11-15T00:00:01Z",
+          "dateRaw": "2026-11-15T05:00:00Z",
+          "publishedAt": "2026-11-15T05:00:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261114225808",
+          "url": "https://www.etnews.com/20261115000078",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.etnews.com/20261113000261",
-          "title": "엘리스그룹, 온수·외기 냉각 적용한 AI 데이터센터 가동",
-          "source": "etnews.com",
+          "id": "https://zdnet.co.kr/view/?no=20261115004601",
+          "title": "AI 반도체 호황에 ICT 수출 증가율 첫 200% 돌파",
+          "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T06:52:54Z",
-          "publishedAt": "2026-11-13T06:52:54Z",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T02:00:01Z",
+          "publishedAt": "2026-11-15T02:00:01Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261113000261",
+          "url": "https://zdnet.co.kr/view/?no=20261115004601",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -430,16 +426,16 @@
           "url": "https://www.dongascience.com:443/ko/news/80870"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12208236",
-          "title": "AI 투자 고점 피로감에 … 바이오에 다시 돈 몰려",
+          "id": "https://www.mk.co.kr/news/world/12209136",
+          "title": "AI 투자붐, 2028년 전후 조정?…“한국도 반도체 수출 감소 대비해야”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T17:23:09Z",
-          "publishedAt": "2026-11-13T17:23:09Z",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T12:37:38Z",
+          "publishedAt": "2026-11-15T12:37:38Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12208236",
+          "url": "https://www.mk.co.kr/news/world/12209136",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         }
@@ -450,23 +446,23 @@
           "count": 6
         },
         {
+          "word": "반도체",
+          "count": 4
+        },
+        {
           "word": "데이터센터",
-          "count": 3
+          "count": 2
         },
         {
           "word": "로봇",
-          "count": 2
-        },
-        {
-          "word": "바이오",
-          "count": 2
-        },
-        {
-          "word": "반도체",
           "count": 1
         },
         {
           "word": "배터리",
+          "count": 1
+        },
+        {
+          "word": "양자",
           "count": 1
         }
       ],
@@ -676,6 +672,18 @@
           "url": "https://www.koreatimes.co.kr/economy/20261113/import-prices-fall-again-in-october-on-stronger-korean-won-lower-oil-prices"
         },
         {
+          "id": "https://asia.nikkei.com/spotlight/caixin/chinese-makers-flock-to-africa-as-trade-gives-way-to-local-production",
+          "title": "Chinese makers flock to Africa as trade gives way to local production",
+          "source": "asia.nikkei.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T09:46:00Z",
+          "publishedAt": "2026-11-15T09:46:00Z",
+          "summary": "",
+          "url": "https://asia.nikkei.com/spotlight/caixin/chinese-makers-flock-to-africa-as-trade-gives-way-to-local-production"
+        },
+        {
           "id": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/",
           "title": "New Zealand manufacturing growth slows to 54.9 as inventory rebuilding outpaces output",
           "source": "english.pravda.ru",
@@ -722,24 +730,16 @@
           "publishedAt": "2026-11-13T13:01:00Z",
           "summary": "",
           "url": "https://www.thehindu.com/brandhub/pr-release/nagarro-releases-unaudited-q3-2026-results-posts-27-constant-currency-growth-for-9-months-ended-september-2026/article71697482.ece"
-        },
-        {
-          "id": "https://www.hometownfocus.us/articles/business-growth-and-job-opportunities-in-manufacturing/",
-          "title": "Business growth and job opportunities in manufacturing - Hometown Focus | Northland news & stories",
-          "source": "hometownfocus.us",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-12",
-          "dateRaw": "2026-11-12T23:47:00Z",
-          "publishedAt": "2026-11-12T23:47:00Z",
-          "summary": "",
-          "url": "https://www.hometownfocus.us/articles/business-growth-and-job-opportunities-in-manufacturing/"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "무역",
+          "count": 2
         },
         {
           "word": "투자",
@@ -751,10 +751,6 @@
         },
         {
           "word": "금리",
-          "count": 1
-        },
-        {
-          "word": "무역",
           "count": 1
         }
       ],
@@ -930,9 +926,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 964,
-    "fetchedItems": 2157,
-    "feedBytes": 577322,
+    "poolSize": 1010,
+    "fetchedItems": 3828,
+    "feedBytes": 1087214,
     "rollingWindowHours": 72
   }
 }
