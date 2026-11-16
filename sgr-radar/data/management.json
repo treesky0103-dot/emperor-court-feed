@@ -2,19 +2,19 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 16. 오전 06:31:48",
+  "updatedAt": "2026. 11. 16. 오전 10:22:19",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 220,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
-    "displayed": 10,
+    "raw": 233,
+    "passed": 9,
+    "deduped": 9,
+    "eventDeduped": 9,
+    "displayed": 9,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
     {
@@ -78,16 +78,16 @@
       "url": "https://ksisradio.com/ixp/463/p/macon-missouri-conagra-closing/"
     },
     {
-      "id": "https://biz.heraldcorp.com/article/10936824",
-      "title": "“비싸다? 글쎄”…이름만 옛날 그 차, 타보면 완전 새로운 차 [시승기 - 디 올 뉴 아반떼 하이브리드]",
+      "id": "https://biz.heraldcorp.com/article/10938220",
+      "title": "JB금융, 임직원 AI 경진대회에 145개팀 도전",
       "source": "biz.heraldcorp.com",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
+      "date": "2026-11-16",
+      "dateRaw": "2026-11-16T01:17:00Z",
+      "publishedAt": "2026-11-16T01:17:00Z",
       "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10936824"
+      "url": "https://biz.heraldcorp.com/article/10938220"
     },
     {
       "id": "https://english.wafa.ps/Pages/Details/176960",
@@ -100,18 +100,6 @@
       "publishedAt": "2026-11-15T16:46:00Z",
       "summary": "",
       "url": "https://english.wafa.ps/Pages/Details/176960"
-    },
-    {
-      "id": "https://www.aol.co.uk/articles/high-street-book-store-chain-223900000.html",
-      "title": "High street book store chain launches ‘closing down' sale as company restructures - AOL",
-      "source": "aol.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://www.aol.co.uk/articles/high-street-book-store-chain-223900000.html"
     },
     {
       "id": "https://www.hindustantimes.com/trending/anthropic-offers-up-to-405-000-salary-for-unusual-job-to-secure-natural-gas-for-ai-data-centres-101794703911828.html",
@@ -212,16 +200,16 @@
       "url": "https://ksisradio.com/ixp/463/p/macon-missouri-conagra-closing/"
     },
     {
-      "id": "https://biz.heraldcorp.com/article/10936824",
-      "title": "“비싸다? 글쎄”…이름만 옛날 그 차, 타보면 완전 새로운 차 [시승기 - 디 올 뉴 아반떼 하이브리드]",
+      "id": "https://biz.heraldcorp.com/article/10938220",
+      "title": "JB금융, 임직원 AI 경진대회에 145개팀 도전",
       "source": "biz.heraldcorp.com",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
+      "date": "2026-11-16",
+      "dateRaw": "2026-11-16T01:17:00Z",
+      "publishedAt": "2026-11-16T01:17:00Z",
       "summary": "",
-      "url": "https://biz.heraldcorp.com/article/10936824"
+      "url": "https://biz.heraldcorp.com/article/10938220"
     },
     {
       "id": "https://english.wafa.ps/Pages/Details/176960",
@@ -234,18 +222,6 @@
       "publishedAt": "2026-11-15T16:46:00Z",
       "summary": "",
       "url": "https://english.wafa.ps/Pages/Details/176960"
-    },
-    {
-      "id": "https://www.aol.co.uk/articles/high-street-book-store-chain-223900000.html",
-      "title": "High street book store chain launches ‘closing down' sale as company restructures - AOL",
-      "source": "aol.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-14",
-      "dateRaw": "2026-11-14T23:01:00Z",
-      "publishedAt": "2026-11-14T23:01:00Z",
-      "summary": "",
-      "url": "https://www.aol.co.uk/articles/high-street-book-store-chain-223900000.html"
     },
     {
       "id": "https://www.hindustantimes.com/trending/anthropic-offers-up-to-405-000-salary-for-unusual-job-to-secure-natural-gas-for-ai-data-centres-101794703911828.html",
@@ -263,10 +239,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 220,
-    "fetchedItems": 2962,
-    "relevantItems": 59,
-    "feedBytes": 824225,
+    "poolSize": 233,
+    "fetchedItems": 2606,
+    "relevantItems": 57,
+    "feedBytes": 699987,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
