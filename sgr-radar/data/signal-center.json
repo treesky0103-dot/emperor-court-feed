@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 16. 오후 05:20:03",
+  "updatedAt": "2026. 11. 17. 오전 03:42:46",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -36,6 +36,20 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://zdnet.co.kr/view/?no=20261116202331",
+          "title": "공영홈쇼핑, 인구감소지역 중소기업·소상공인 판로 지원",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T11:27:02Z",
+          "publishedAt": "2026-11-16T11:27:02Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261116202331",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/economy/property/1287558.html",
           "title": "서울 평균 전셋값 5억원 돌파…집값 상승폭은 석 달째 둔화",
           "source": "hani.co.kr",
@@ -58,20 +72,6 @@
           "publishedAt": "2026-11-16T08:17:00Z",
           "summary": "",
           "url": "http://www.ihalla.com/article.php?aid=1794798982792830014"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261116091209",
-          "title": "화웨이, 대학생 프로그래밍 대회 ‘ICPC 서울’ 후원",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-16",
-          "dateRaw": "2026-11-16T00:12:09Z",
-          "publishedAt": "2026-11-16T00:12:09Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261116091209",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230886",
@@ -139,7 +139,7 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 5
         },
         {
           "word": "주거",
@@ -148,6 +148,10 @@
         {
           "word": "복지",
           "count": 2
+        },
+        {
+          "word": "인구감소",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -185,16 +189,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12210041",
-          "title": "예탁결제원 ‘K-캠프’가 키운 지방 스타트업, 154억 투자 유치",
+          "id": "https://www.mk.co.kr/news/economy/12210276",
+          "title": "희토류 등 해외 핵심광물 투자 5년만에 재개",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-16",
-          "dateRaw": "2026-11-16T16:33:09Z",
-          "publishedAt": "2026-11-16T16:33:09Z",
+          "dateRaw": "2026-11-16T19:52:21Z",
+          "publishedAt": "2026-11-16T19:52:21Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12210041",
+          "url": "https://www.mk.co.kr/news/economy/12210276",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -334,16 +338,16 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261115004601",
-          "title": "AI 반도체 호황에 ICT 수출 증가율 첫 200% 돌파",
+          "id": "https://zdnet.co.kr/view/?no=20261116182600",
+          "title": "IT서비스 4사, AI·클라우드 타고 3분기 외형 성장…수익성은 '희비'",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T02:00:01Z",
-          "publishedAt": "2026-11-15T02:00:01Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T09:28:45Z",
+          "publishedAt": "2026-11-16T09:28:45Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261115004601",
+          "url": "https://zdnet.co.kr/view/?no=20261116182600",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -386,18 +390,6 @@
           "url": "https://www.newspim.com/news/view/20261115000146"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10936364",
-          "title": "젠슨 황 떠나면 반도체주 대위기?…일단 ‘삼전·닉스’는 안도 랠리 [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10936364"
-        },
-        {
           "id": "https://www.newsway.co.kr/news/view?ud=2026111615534760001",
           "title": "화장품·기기에 반도체까지···에이피알 '뷰티테크' 확장 - 뉴스웨이",
           "source": "newsway.co.kr",
@@ -422,29 +414,47 @@
           "url": "https://www.koreatimes.com/article/11631550"
         },
         {
-          "id": "https://www.dongascience.com:443/ko/news/80870",
-          "title": "에너지음료 먹고 응급실행…일상 속 숨은 중증알레르기 원인",
-          "source": "dongascience.com",
+          "id": "https://biz.heraldcorp.com/article/10938222",
+          "title": "테크로스 워터앤에너지, 그린수소 생산시설 구축 이어 블루수소 사업 확대 추진",
+          "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:02:00Z",
-          "publishedAt": "2026-11-13T13:02:00Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T01:16:00Z",
+          "publishedAt": "2026-11-16T01:16:00Z",
           "summary": "",
-          "url": "https://www.dongascience.com:443/ko/news/80870"
+          "url": "https://biz.heraldcorp.com/article/10938222"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12209136",
+          "title": "AI 투자붐, 2028년 전후 조정?…“한국도 반도체 수출 감소 대비해야”",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-15",
+          "dateRaw": "2026-11-15T12:37:38Z",
+          "publishedAt": "2026-11-15T12:37:38Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/world/12209136",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 6
         },
         {
           "word": "반도체",
-          "count": 5
+          "count": 4
         },
         {
           "word": "GPU",
+          "count": 2
+        },
+        {
+          "word": "클라우드",
           "count": 2
         },
         {
@@ -453,10 +463,6 @@
         },
         {
           "word": "배터리",
-          "count": 1
-        },
-        {
-          "word": "클라우드",
           "count": 1
         }
       ],
@@ -565,38 +571,42 @@
           "url": "https://timesofindia.indiatimes.com/city/kanpur/csjmu-discuss-plans-to-strengthen-education-research-and-skill-development-opportunities-in-fragrance-and-flavour-industry/articleshow/135815725.cms"
         },
         {
-          "id": "https://allafrica.com/stories/202611160027.html",
-          "title": "Sudan: Storm Leaves Sudanese Refugee Families Without Shelter in Uganda",
-          "source": "allafrica.com",
+          "id": "http://www.mysolutioninfo.com/event-details/24937/5th-International-Conference-on-Neuroscience-and-Mental-Health",
+          "title": "5th International Conference on Neuroscience and Mental Health - France - From Apr 19 2027 to Apr 20 2027",
+          "source": "mysolutioninfo.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-16",
-          "dateRaw": "2026-11-16T08:17:00Z",
-          "publishedAt": "2026-11-16T08:17:00Z",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
           "summary": "",
-          "url": "https://allafrica.com/stories/202611160027.html"
+          "url": "http://www.mysolutioninfo.com/event-details/24937/5th-International-Conference-on-Neuroscience-and-Mental-Health"
         },
         {
-          "id": "https://www.lankanewspapers.com/2026/11/16/university-of-ruhuna-inaugurates-landmark-10-storey-hospital-complex-in-karapitiya",
-          "title": "University of Ruhuna Inaugurates Landmark 10-Storey Hospital Complex in Karapitiya - Lanka Newspapers",
-          "source": "lankanewspapers.com",
+          "id": "https://londonlovesbusiness.com/popular-holiday-hotspot-declares-migration-emergency-as-nearly-2200-migrants-arrive-in-two-days/",
+          "title": "Popular holiday hotspot declares migration emergency as nearly 2,200 migrants arrive in two days - London Business News | Londonlovesbusiness.com",
+          "source": "londonlovesbusiness.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-16",
-          "dateRaw": "2026-11-16T01:16:00Z",
-          "publishedAt": "2026-11-16T01:16:00Z",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
           "summary": "",
-          "url": "https://www.lankanewspapers.com/2026/11/16/university-of-ruhuna-inaugurates-landmark-10-storey-hospital-complex-in-karapitiya"
+          "url": "https://londonlovesbusiness.com/popular-holiday-hotspot-declares-migration-emergency-as-nearly-2200-migrants-arrive-in-two-days/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
         },
         {
           "word": "이민",
           "count": 3
+        },
+        {
+          "word": "정신건강",
+          "count": 1
         },
         {
           "word": "청년",
@@ -609,6 +619,18 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://asia.nikkei.com/politics/japan-eyes-two-pronged-approach-to-cover-tax-cut-growth-investments",
+          "title": "Japan eyes two-pronged approach to cover tax cut, growth investments",
+          "source": "asia.nikkei.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
+          "summary": "",
+          "url": "https://asia.nikkei.com/politics/japan-eyes-two-pronged-approach-to-cover-tax-cut-growth-investments"
+        },
         {
           "id": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html",
           "title": "Juice your growth and save on taxes in this workplace investment account",
@@ -646,16 +668,28 @@
           "url": "https://en.shafaqna.com/491352/ai-investment-powers-uk-growth/"
         },
         {
-          "id": "https://hungarytoday.hu/renminbi-gains-ground-in-global-trade-and-finance-central-bank-governor-says/",
-          "title": "Renminbi Gains Ground in Global Trade and Finance, Central Bank Governor Says",
-          "source": "hungarytoday.hu",
+          "id": "https://orissadiary.com/india-and-thailand-review-bilateral-trade-and-economic-cooperation-at-14th-joint-trade-committee-meeting-in-nonthaburi-thailand/",
+          "title": "India and Thailand Review Bilateral Trade and Economic Cooperation at 14th Joint Trade Committee Meeting in Nonthaburi, Thailand",
+          "source": "orissadiary.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
           "summary": "",
-          "url": "https://hungarytoday.hu/renminbi-gains-ground-in-global-trade-and-finance-central-bank-governor-says/"
+          "url": "https://orissadiary.com/india-and-thailand-review-bilateral-trade-and-economic-cooperation-at-14th-joint-trade-committee-meeting-in-nonthaburi-thailand/"
+        },
+        {
+          "id": "https://www.mumbrella.asia/2026/11/chinas-economy-holds-steady-through.html",
+          "title": "China's Economy Holds Steady Through First Ten Months as High-Tech Manufacturing and Foreign Trade Drive Momentum",
+          "source": "mumbrella.asia",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
+          "summary": "",
+          "url": "https://www.mumbrella.asia/2026/11/chinas-economy-holds-steady-through.html"
         },
         {
           "id": "https://en.people.cn/n3/2026/1116/c90000-20519443.html",
@@ -682,18 +716,6 @@
           "url": "https://www.asiaone.com/china/chinas-economy-falters-factory-output-retail-sales-undershoot-expectations"
         },
         {
-          "id": "https://asia.nikkei.com/spotlight/caixin/chinese-makers-flock-to-africa-as-trade-gives-way-to-local-production",
-          "title": "Chinese makers flock to Africa as trade gives way to local production",
-          "source": "asia.nikkei.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T09:46:00Z",
-          "publishedAt": "2026-11-15T09:46:00Z",
-          "summary": "",
-          "url": "https://asia.nikkei.com/spotlight/caixin/chinese-makers-flock-to-africa-as-trade-gives-way-to-local-production"
-        },
-        {
           "id": "https://english.pravda.ru/news/world/172814-new-zealand-manufacturing-pmi-slowdown/",
           "title": "New Zealand manufacturing growth slows to 54.9 as inventory rebuilding outpaces output",
           "source": "english.pravda.ru",
@@ -716,28 +738,16 @@
           "publishedAt": "2026-11-14T07:31:00Z",
           "summary": "",
           "url": "https://econotimes.com/U-S-Wage-Growth-Reaches-3-1-as-October-CPI-Rises-0-4-1776637"
-        },
-        {
-          "id": "https://omaha.com/news/nation-world/business/economy/article_0eb71298-ab00-55f8-b9a5-37b0c98cc543.html",
-          "title": "Why structured business data is becoming more important in an AI-driven economy",
-          "source": "omaha.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T20:17:00Z",
-          "publishedAt": "2026-11-13T20:17:00Z",
-          "summary": "",
-          "url": "https://omaha.com/news/nation-world/business/economy/article_0eb71298-ab00-55f8-b9a5-37b0c98cc543.html"
         }
       ],
       "keywords": [
         {
           "word": "성장",
-          "count": 5
+          "count": 6
         },
         {
           "word": "무역",
-          "count": 2
+          "count": 3
         },
         {
           "word": "투자",
@@ -745,10 +755,6 @@
         },
         {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "금리",
           "count": 1
         }
       ],
@@ -758,6 +764,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba",
+          "title": "US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba",
+          "source": "asia.nikkei.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
+          "summary": "",
+          "url": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba"
+        },
         {
           "id": "https://freerepublic.com/focus/f-news/4403056/posts",
           "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
@@ -807,18 +825,6 @@
           "url": "https://www.journal-topics.com/articles/comed-expanding-local-power-grid-to-meet-data-center-surge/"
         },
         {
-          "id": "https://pctechmag.com/2026/11/multiway-robotics-vs-forwardx-robotics-for-manufacturing-line-side-delivery/",
-          "title": "Multiway Robotics vs ForwardX Robotics for Manufacturing Line-Side Delivery",
-          "source": "pctechmag.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
-          "summary": "",
-          "url": "https://pctechmag.com/2026/11/multiway-robotics-vs-forwardx-robotics-for-manufacturing-line-side-delivery/"
-        },
-        {
           "id": "https://itbrief.co.nz/story/horizon3-launches-lab-for-ai-cyber-defence-research",
           "title": "Horizon3 launches lab for AI cyber defence research",
           "source": "itbrief.co.nz",
@@ -855,57 +861,45 @@
           "url": "https://en.shafaqna.com/491352/ai-investment-powers-uk-growth/"
         },
         {
-          "id": "https://bubblear.com/data-center-transformer-market-worth-10-72-billion-by-2031-marketsandmarkets/38669/",
-          "title": "Data Center Transformer Market worth $10.72 billion by 2031 | MarketsandMarkets™",
-          "source": "bubblear.com",
+          "id": "https://www.bu.edu/articles/2026/robotic-surgery-junk-food-data-center/",
+          "title": "Brink Bites: Robotic Stroke Surgery, Curbing Junk Food Sales, and American Attitudes On Data Center Construction",
+          "source": "bu.edu",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
           "summary": "",
-          "url": "https://bubblear.com/data-center-transformer-market-worth-10-72-billion-by-2031-marketsandmarkets/38669/"
+          "url": "https://www.bu.edu/articles/2026/robotic-surgery-junk-food-data-center/"
         },
         {
-          "id": "https://timesofindia.indiatimes.com/technology/tech-news/flowers-and-candles-placed-outside-nvidia-headquarters-in-california-guards-rush-to-clear-them-as-chip-giant-reportedly-seeks-to-remove-traces-of-/articleshow/135802419.cms",
-          "title": "Flowers and candles placed outside Nvidia headquarters in California, guards rush to clear them, as chip giant reportedly seeks to remove traces of …",
-          "source": "timesofindia.indiatimes.com",
+          "id": "https://www.journal-news.com/local/will-ohio-lawmakers-pass-data-center-legislation-during-lame-duck/article_c4c34b7b-7efe-580d-bc1d-3fbf2a2f0bb5.html",
+          "title": "Will Ohio lawmakers pass data center legislation during lame duck?",
+          "source": "journal-news.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T18:32:00Z",
+          "publishedAt": "2026-11-16T18:32:00Z",
           "summary": "",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/flowers-and-candles-placed-outside-nvidia-headquarters-in-california-guards-rush-to-clear-them-as-chip-giant-reportedly-seeks-to-remove-traces-of-/articleshow/135802419.cms"
+          "url": "https://www.journal-news.com/local/will-ohio-lawmakers-pass-data-center-legislation-during-lame-duck/article_c4c34b7b-7efe-580d-bc1d-3fbf2a2f0bb5.html"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "데이터센터",
-          "count": 4
-        },
-        {
-          "word": "로봇",
-          "count": 2
+          "count": 5
         },
         {
           "word": "전력",
           "count": 2
         },
         {
-          "word": "반도체",
-          "count": 1
-        },
-        {
           "word": "배터리",
-          "count": 1
-        },
-        {
-          "word": "제조",
           "count": 1
         }
       ],
@@ -916,9 +910,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 909,
-    "fetchedItems": 5212,
-    "feedBytes": 1462871,
+    "poolSize": 893,
+    "fetchedItems": 5484,
+    "feedBytes": 1599509,
     "rollingWindowHours": 72
   }
 }
