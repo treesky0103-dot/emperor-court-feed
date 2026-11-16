@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 16. 오전 10:22:20",
+  "updatedAt": "2026. 11. 16. 오후 05:20:03",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -36,16 +36,28 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.hani.co.kr/arti/society/schooling/1287483.html",
-          "title": "최교진 교육장관 “시험장용 전파탐지기, 내년 수능 때 도입 검토”",
+          "id": "https://www.hani.co.kr/arti/economy/property/1287558.html",
+          "title": "서울 평균 전셋값 5억원 돌파…집값 상승폭은 석 달째 둔화",
           "source": "hani.co.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-11-16",
-          "dateRaw": "2026-11-16T01:17:00Z",
-          "publishedAt": "2026-11-16T01:17:00Z",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
           "summary": "",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1287483.html"
+          "url": "https://www.hani.co.kr/arti/economy/property/1287558.html"
+        },
+        {
+          "id": "http://www.ihalla.com/article.php?aid=1794798982792830014",
+          "title": "입학준비금 재검토 요구에 고의숙 \"차별 없는 교육 복지\"",
+          "source": "ihalla.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
+          "summary": "",
+          "url": "http://www.ihalla.com/article.php?aid=1794798982792830014"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261116091209",
@@ -100,16 +112,16 @@
           "url": "https://www.fnnews.com/news/202611131116511926"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10938206",
-          "title": "대한적십자사, 의료사각지대 해소를 위한 ‘2026 레드크로스 갈라’ 열어",
+          "id": "https://biz.heraldcorp.com/article/10938886",
+          "title": "“신림동 빌라도 월세 100만원” 서울 빌라 월세 역대 최고 [부동산360]",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-11-16",
-          "dateRaw": "2026-11-16T01:16:00Z",
-          "publishedAt": "2026-11-16T01:16:00Z",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10938206"
+          "url": "https://biz.heraldcorp.com/article/10938886"
         },
         {
           "id": "https://news.knn.co.kr/news/article/194488",
@@ -122,18 +134,6 @@
           "publishedAt": "2026-11-16T01:16:00Z",
           "summary": "",
           "url": "https://news.knn.co.kr/news/article/194488"
-        },
-        {
-          "id": "https://www.koreatimes.com/article/11631390",
-          "title": "“시니어 집에서 돌봄 서비스”",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T02:31:00Z",
-          "publishedAt": "2026-11-15T02:31:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.com/article/11631390"
         }
       ],
       "keywords": [
@@ -143,15 +143,11 @@
         },
         {
           "word": "주거",
-          "count": 2
-        },
-        {
-          "word": "돌봄",
-          "count": 1
+          "count": 5
         },
         {
           "word": "복지",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -160,6 +156,20 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261116141116",
+          "title": "롯데이노베이트, R&D 투자 구조 변화…AI 인재 확보 집중",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T07:12:35Z",
+          "publishedAt": "2026-11-16T07:12:35Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261116141116",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
         {
           "id": "https://www.etnews.com/20261115000099",
           "title": "경기콘텐츠진흥원, 12월 'AI 성과 자료집' 발간…교육·제작·투자",
@@ -175,44 +185,30 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261115110004",
-          "title": "[인터뷰] 시스코 혁신 수장 \"韓, AI 투자만으론 부족…보안·인재 함께 키워야\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T05:00:03Z",
-          "publishedAt": "2026-11-15T05:00:03Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261115110004",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1286908.html",
-          "title": "‘독주’ 한국 반도체, 1986년 일본처럼?…“경제안보 리스크 자극” 우려",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1286908.html"
-        },
-        {
-          "id": "https://www.mk.co.kr/news/economy/12209261",
-          "title": "“美 AI 투자붐, 2028년 전후 조정 가능성…반도체 의존도 높은 韓 대비해야”",
+          "id": "https://www.mk.co.kr/news/business/12210041",
+          "title": "예탁결제원 ‘K-캠프’가 키운 지방 스타트업, 154억 투자 유치",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:35:21Z",
-          "publishedAt": "2026-11-15T16:35:21Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T16:33:09Z",
+          "publishedAt": "2026-11-16T16:33:09Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12209261",
+          "url": "https://www.mk.co.kr/news/business/12210041",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/economy/marketing/1287567.html",
+          "title": "‘롯데 3세’ 신유열, 입사 6년 만에 사장 승진…그룹 경영전략 총괄",
+          "source": "hani.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
+          "summary": "",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1287567.html"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=02043446645646048&mediaCodeNo=257",
@@ -253,6 +249,30 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://seoul.co.kr:443/news/economy/2026/11/16/20261116500277",
+          "title": "입사 6년만에 사장 승진… ‘롯데 3세’ 신유열, 신설 경영전략실 맡는다",
+          "source": "seoul.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:16:00Z",
+          "publishedAt": "2026-11-16T08:16:00Z",
+          "summary": "",
+          "url": "https://seoul.co.kr:443/news/economy/2026/11/16/20261116500277"
+        },
+        {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026111611024350842",
+          "title": "대형 손해보험사들의 엇갈린 성장 전략···'해외확장 vs 내실경영' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:16:00Z",
+          "publishedAt": "2026-11-16T08:16:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026111611024350842"
+        },
+        {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1320362",
           "title": "(단독)모태펀드·VC 투자 프롭테크, 건설 불황에 ‘발목’",
           "source": "newstomato.com",
@@ -263,36 +283,12 @@
           "publishedAt": "2026-11-15T02:31:00Z",
           "summary": "",
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1320362"
-        },
-        {
-          "id": "https://www.koreatimes.com/article/11631534",
-          "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한…온라인 청원도 열기",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-14",
-          "dateRaw": "2026-11-14T23:01:00Z",
-          "publishedAt": "2026-11-14T23:01:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.com/article/11631534"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10936364",
-          "title": "젠슨 황 떠나면 반도체주 대위기?…일단 ‘삼전·닉스’는 안도 랠리 [투자360]",
-          "source": "biz.heraldcorp.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
-          "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10936364"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 5
         },
         {
           "word": "수출",
@@ -310,6 +306,20 @@
     "technology": {
       "items": [
         {
+          "id": "https://www.etnews.com/20261116000312",
+          "title": "엘리스그룹, GPU·NPU 클라우드로 아프리카 AI 생태계 조성 지원",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T05:24:59Z",
+          "publishedAt": "2026-11-16T05:24:59Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261116000312",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
           "id": "https://www.mk.co.kr/news/economy/12209261",
           "title": "“美 AI 투자붐, 2028년 전후 조정 가능성…반도체 의존도 높은 韓 대비해야”",
           "source": "mk.co.kr",
@@ -320,20 +330,6 @@
           "publishedAt": "2026-11-15T16:35:21Z",
           "summary": "",
           "url": "https://www.mk.co.kr/news/economy/12209261",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261115000179",
-          "title": "아이에스시, 인천 송도에 AI 반도체 검사 연구·생산 새 거점 구축",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T11:35:22Z",
-          "publishedAt": "2026-11-15T11:35:22Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261115000179",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -402,6 +398,18 @@
           "url": "https://biz.heraldcorp.com/article/10936364"
         },
         {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026111615534760001",
+          "title": "화장품·기기에 반도체까지···에이피알 '뷰티테크' 확장 - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026111615534760001"
+        },
+        {
           "id": "https://www.koreatimes.com/article/11631550",
           "title": "삼성SDI·LG엔솔, 미국서 차세대 ESS·데이터센터 배터리 공개(종합)",
           "source": "koreatimes.com",
@@ -412,18 +420,6 @@
           "publishedAt": "2026-11-15T02:31:00Z",
           "summary": "",
           "url": "https://www.koreatimes.com/article/11631550"
-        },
-        {
-          "id": "https://www.newsway.co.kr/news/view?ud=2026111315372516927",
-          "title": "현대차, 시총 3위서 8위로 '털썩'···로봇 기대감 식고 본업마저 부진 - 뉴스웨이",
-          "source": "newsway.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-14",
-          "dateRaw": "2026-11-14T23:01:00Z",
-          "publishedAt": "2026-11-14T23:01:00Z",
-          "summary": "",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026111315372516927"
         },
         {
           "id": "https://www.dongascience.com:443/ko/news/80870",
@@ -448,15 +444,19 @@
           "count": 5
         },
         {
+          "word": "GPU",
+          "count": 2
+        },
+        {
           "word": "데이터센터",
           "count": 1
         },
         {
-          "word": "로봇",
+          "word": "배터리",
           "count": 1
         },
         {
-          "word": "배터리",
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -565,38 +565,38 @@
           "url": "https://timesofindia.indiatimes.com/city/kanpur/csjmu-discuss-plans-to-strengthen-education-research-and-skill-development-opportunities-in-fragrance-and-flavour-industry/articleshow/135815725.cms"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/windsor/gecdsb-audited-financial-statements-supply-staff-costs-9.7420193",
-          "title": "Public school board $1.7M in the hole last school year, report says, as supply costs reach nearly $17M | CBC News",
-          "source": "cbc.ca",
+          "id": "https://allafrica.com/stories/202611160027.html",
+          "title": "Sudan: Storm Leaves Sudanese Refugee Families Without Shelter in Uganda",
+          "source": "allafrica.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T05:17:00Z",
-          "publishedAt": "2026-11-13T05:17:00Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
           "summary": "",
-          "url": "https://www.cbc.ca/news/canada/windsor/gecdsb-audited-financial-statements-supply-staff-costs-9.7420193"
+          "url": "https://allafrica.com/stories/202611160027.html"
         },
         {
-          "id": "https://www.tokyoreporter.com/japan-news/keio-university-student-accused-of-using-master-key-to-steal-gym-members-credit-cards/",
-          "title": "Keio University student accused of using master key to steal gym members’ credit cards - TokyoReporter",
-          "source": "tokyoreporter.com",
+          "id": "https://www.lankanewspapers.com/2026/11/16/university-of-ruhuna-inaugurates-landmark-10-storey-hospital-complex-in-karapitiya",
+          "title": "University of Ruhuna Inaugurates Landmark 10-Storey Hospital Complex in Karapitiya - Lanka Newspapers",
+          "source": "lankanewspapers.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T05:16:00Z",
-          "publishedAt": "2026-11-13T05:16:00Z",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T01:16:00Z",
+          "publishedAt": "2026-11-16T01:16:00Z",
           "summary": "",
-          "url": "https://www.tokyoreporter.com/japan-news/keio-university-student-accused-of-using-master-key-to-steal-gym-members-credit-cards/"
+          "url": "https://www.lankanewspapers.com/2026/11/16/university-of-ruhuna-inaugurates-landmark-10-storey-hospital-complex-in-karapitiya"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 5
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
         },
         {
           "word": "청년",
@@ -658,6 +658,30 @@
           "url": "https://hungarytoday.hu/renminbi-gains-ground-in-global-trade-and-finance-central-bank-governor-says/"
         },
         {
+          "id": "https://en.people.cn/n3/2026/1116/c90000-20519443.html",
+          "title": "China's high-tech manufacturing powers October industrial growth",
+          "source": "en.people.cn",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
+          "summary": "",
+          "url": "https://en.people.cn/n3/2026/1116/c90000-20519443.html"
+        },
+        {
+          "id": "https://www.asiaone.com/china/chinas-economy-falters-factory-output-retail-sales-undershoot-expectations",
+          "title": "China's economy falters as factory output, retail sales undershoot expectations",
+          "source": "asiaone.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:17:00Z",
+          "publishedAt": "2026-11-16T08:17:00Z",
+          "summary": "",
+          "url": "https://www.asiaone.com/china/chinas-economy-falters-factory-output-retail-sales-undershoot-expectations"
+        },
+        {
           "id": "https://asia.nikkei.com/spotlight/caixin/chinese-makers-flock-to-africa-as-trade-gives-way-to-local-production",
           "title": "Chinese makers flock to Africa as trade gives way to local production",
           "source": "asia.nikkei.com",
@@ -704,30 +728,6 @@
           "publishedAt": "2026-11-13T20:17:00Z",
           "summary": "",
           "url": "https://omaha.com/news/nation-world/business/economy/article_0eb71298-ab00-55f8-b9a5-37b0c98cc543.html"
-        },
-        {
-          "id": "https://www.thehindu.com/brandhub/pr-release/nagarro-releases-unaudited-q3-2026-results-posts-27-constant-currency-growth-for-9-months-ended-september-2026/article71697482.ece",
-          "title": "Nagarro releases unaudited Q3 2026 results, posts 2.7% constant currency growth for 9 months ended September 2026",
-          "source": "thehindu.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T13:01:00Z",
-          "publishedAt": "2026-11-13T13:01:00Z",
-          "summary": "",
-          "url": "https://www.thehindu.com/brandhub/pr-release/nagarro-releases-unaudited-q3-2026-results-posts-27-constant-currency-growth-for-9-months-ended-september-2026/article71697482.ece"
-        },
-        {
-          "id": "https://coast1009.com/uncategorized/canadas-carney-reports-progress-in-trade-talks-with-trump-as-he-expands-ties-with-asia/",
-          "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - WMJK",
-          "source": "coast1009.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-14",
-          "dateRaw": "2026-11-14T23:01:00Z",
-          "publishedAt": "2026-11-14T23:01:00Z",
-          "summary": "",
-          "url": "https://coast1009.com/uncategorized/canadas-carney-reports-progress-in-trade-talks-with-trump-as-he-expands-ties-with-asia/"
         }
       ],
       "keywords": [
@@ -737,7 +737,7 @@
         },
         {
           "word": "무역",
-          "count": 3
+          "count": 2
         },
         {
           "word": "투자",
@@ -819,18 +819,6 @@
           "url": "https://pctechmag.com/2026/11/multiway-robotics-vs-forwardx-robotics-for-manufacturing-line-side-delivery/"
         },
         {
-          "id": "https://www.hpcwire.com/off-the-wire/amd-expands-instinct-mi400-gpu-portfolio-for-hpc-and-ai-for-science/",
-          "title": "AMD Expands Instinct MI400 GPU Portfolio for HPC and AI for Science - HPCwire",
-          "source": "hpcwire.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-13",
-          "dateRaw": "2026-11-13T05:16:00Z",
-          "publishedAt": "2026-11-13T05:16:00Z",
-          "summary": "",
-          "url": "https://www.hpcwire.com/off-the-wire/amd-expands-instinct-mi400-gpu-portfolio-for-hpc-and-ai-for-science/"
-        },
-        {
           "id": "https://itbrief.co.nz/story/horizon3-launches-lab-for-ai-cyber-defence-research",
           "title": "Horizon3 launches lab for AI cyber defence research",
           "source": "itbrief.co.nz",
@@ -877,20 +865,28 @@
           "publishedAt": "2026-11-13T13:01:00Z",
           "summary": "",
           "url": "https://bubblear.com/data-center-transformer-market-worth-10-72-billion-by-2031-marketsandmarkets/38669/"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/technology/tech-news/flowers-and-candles-placed-outside-nvidia-headquarters-in-california-guards-rush-to-clear-them-as-chip-giant-reportedly-seeks-to-remove-traces-of-/articleshow/135802419.cms",
+          "title": "Flowers and candles placed outside Nvidia headquarters in California, guards rush to clear them, as chip giant reportedly seeks to remove traces of …",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-13",
+          "dateRaw": "2026-11-13T13:01:00Z",
+          "publishedAt": "2026-11-13T13:01:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/flowers-and-candles-placed-outside-nvidia-headquarters-in-california-guards-rush-to-clear-them-as-chip-giant-reportedly-seeks-to-remove-traces-of-/articleshow/135802419.cms"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 4
         },
         {
           "word": "데이터센터",
           "count": 4
-        },
-        {
-          "word": "GPU",
-          "count": 2
         },
         {
           "word": "로봇",
@@ -899,6 +895,10 @@
         {
           "word": "전력",
           "count": 2
+        },
+        {
+          "word": "반도체",
+          "count": 1
         },
         {
           "word": "배터리",
@@ -916,9 +916,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 860,
-    "fetchedItems": 2606,
-    "feedBytes": 699987,
+    "poolSize": 909,
+    "fetchedItems": 5212,
+    "feedBytes": 1462871,
     "rollingWindowHours": 72
   }
 }
