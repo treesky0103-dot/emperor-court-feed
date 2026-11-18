@@ -1,12 +1,26 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 18. 오후 06:16:48",
+  "updatedAt": "2026. 11. 19. 오전 03:11:11",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261118204216",
+          "title": "대한변리사회-청년창업사관학교, 기술 기반 청년 창업기업 지식재산 보호 맞손",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T11:42:16Z",
+          "publishedAt": "2026-11-18T11:42:16Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261118204216",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
         {
           "id": "https://www.mk.co.kr/news/economy/12209701",
           "title": "소방도 주거복지도 중요한데…11년째 묶인 담뱃값은 왜 못 올리나 [기자24시]",
@@ -32,20 +46,6 @@
           "publishedAt": "2026-11-17T00:32:48Z",
           "summary": "",
           "url": "https://www.etnews.com/20261117000057",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261118112611",
-          "title": "다이닝브랜즈그룹, 아동복지시설에 김장김치 800kg 전달",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T05:22:41Z",
-          "publishedAt": "2026-11-18T05:22:41Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261118112611",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -112,18 +112,6 @@
           "url": "https://biz.heraldcorp.com/article/10939532"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261115000146",
-          "title": "금감원, 세계투자자주간 맞아 AI 금융사기 예방 교육 확대",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261115000146"
-        },
-        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026111817280945946",
           "title": "안전 전문가 ‘히어로’ 키운다…바운스, 전국 28개 센터 안전교육",
           "source": "ddaily.co.kr",
@@ -134,20 +122,36 @@
           "publishedAt": "2026-11-18T09:02:00Z",
           "summary": "",
           "url": "https://www.ddaily.co.kr:443/page/view/2026111817280945946"
+        },
+        {
+          "id": "https://cunews.net/detail.php?number=173929&thread=22r03r01%20style=",
+          "title": "인천 영종·검단교육지원청 신설 조례안 교육위 통과…내년 3월 출범 추진 : 연합시민의소리",
+          "source": "cunews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T01:31:00Z",
+          "publishedAt": "2026-11-18T01:31:00Z",
+          "summary": "",
+          "url": "https://cunews.net/detail.php?number=173929&thread=22r03r01%20style="
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
-        },
-        {
-          "word": "복지",
-          "count": 3
+          "count": 9
         },
         {
           "word": "주거",
           "count": 3
+        },
+        {
+          "word": "복지",
+          "count": 2
+        },
+        {
+          "word": "청년",
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -211,30 +215,6 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1287567.html"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=02043446645646048&mediaCodeNo=257",
-          "title": "메가스피드 \"앨리스 황 지난해 퇴사\"..불법수출 의혹 부인",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02043446645646048&mediaCodeNo=257"
-        },
-        {
-          "id": "https://www.newspim.com/news/view/20261115000146",
-          "title": "금감원, 세계투자자주간 맞아 AI 금융사기 예방 교육 확대",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261115000146"
-        },
-        {
           "id": "https://biz.heraldcorp.com/article/10941730",
           "title": "투자해서 번 돈에도 건보료 부과? 420만원 배당소득 380만원 되나 [예은이]",
           "source": "biz.heraldcorp.com",
@@ -245,6 +225,20 @@
           "publishedAt": "2026-11-18T09:02:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10941730"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231633",
+          "title": "관세사·감정평가사도? 국가공인시험 전방위 부정 의혹 확산",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T08:55:00Z",
+          "publishedAt": "2026-11-18T08:55:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231633",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026111809151525866",
@@ -281,20 +275,28 @@
           "publishedAt": "2026-11-17T10:31:00Z",
           "summary": "",
           "url": "https://korean.cri.cn/2026/11/17/ARTI1794906774725736"
+        },
+        {
+          "id": "https://www.newsway.co.kr/news/view?ud=2026111611024350842",
+          "title": "대형 손해보험사들의 엇갈린 성장 전략···'해외확장 vs 내실경영' - 뉴스웨이",
+          "source": "newsway.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T08:16:00Z",
+          "publishedAt": "2026-11-16T08:16:00Z",
+          "summary": "",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026111611024350842"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 4
         },
         {
           "word": "공급망",
           "count": 3
-        },
-        {
-          "word": "수출",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -332,16 +334,16 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12209261",
-          "title": "“美 AI 투자붐, 2028년 전후 조정 가능성…반도체 의존도 높은 韓 대비해야”",
+          "id": "https://www.mk.co.kr/news/business/12212418",
+          "title": "스마트제조·AI 기술전 ‘SMATEC 2026’ 개막…155개사 참가",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:35:21Z",
-          "publishedAt": "2026-11-15T16:35:21Z",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T15:09:58Z",
+          "publishedAt": "2026-11-18T15:09:58Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12209261",
+          "url": "https://www.mk.co.kr/news/business/12212418",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -384,18 +386,6 @@
           "url": "https://www.hani.co.kr/arti/economy/marketing/1287476.html"
         },
         {
-          "id": "https://www.newspim.com/news/view/20261115000146",
-          "title": "금감원, 세계투자자주간 맞아 AI 금융사기 예방 교육 확대",
-          "source": "newspim.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
-          "summary": "",
-          "url": "https://www.newspim.com/news/view/20261115000146"
-        },
-        {
           "id": "https://seoul.co.kr:443/news/economy/industry/2026/11/18/20261118031001",
           "title": "美, AI데이터센터 中원격접속 차단… 韓 공급망 부담 커질 듯",
           "source": "seoul.co.kr",
@@ -430,12 +420,24 @@
           "publishedAt": "2026-11-18T09:02:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286117&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10938222",
+          "title": "테크로스 워터앤에너지, 그린수소 생산시설 구축 이어 블루수소 사업 확대 추진",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-16",
+          "dateRaw": "2026-11-16T01:16:00Z",
+          "publishedAt": "2026-11-16T01:16:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10938222"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "GPU",
@@ -446,12 +448,16 @@
           "count": 3
         },
         {
-          "word": "반도체",
-          "count": 3
-        },
-        {
           "word": "로봇",
           "count": 2
+        },
+        {
+          "word": "반도체",
+          "count": 2
+        },
+        {
+          "word": "제조",
+          "count": 1
         },
         {
           "word": "클라우드",
@@ -466,18 +472,6 @@
   "global": {
     "humanities": {
       "items": [
-        {
-          "id": "https://www.birminghammail.co.uk/news/cost-of-living/warning-young-people-lose-benefits-34914854",
-          "title": "Warning some young people will lose benefits in welfare reset",
-          "source": "birminghammail.co.uk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
-          "summary": "",
-          "url": "https://www.birminghammail.co.uk/news/cost-of-living/warning-young-people-lose-benefits-34914854"
-        },
         {
           "id": "https://www.hindustantimes.com/entertainment/bollywood/pr-strategy-dia-mirza-calls-co-star-nawazuddin-siddiqui-offensive-in-social-media-post-101794991866035.html",
           "title": "PR strategy? Dia Mirza calls co-star Nawazuddin Siddiqui 'offensive' in social media post",
@@ -575,30 +569,42 @@
           "url": "https://malawi24.com/marketplace/listing/client-intake-front-desk-coordinator/"
         },
         {
-          "id": "https://www.independent.co.ug/half-of-students-admitted-to-gulu-university-fail-to-report/",
-          "title": "Half of students admitted to Gulu University fail to report",
-          "source": "independent.co.ug",
+          "id": "https://www.newsday.com/news/nation/trump-xi-marcos-apec-china-philippines-n65766",
+          "title": "The Latest: Congress grills Mullin on flight disruptions, his football trip and immigration - Newsday",
+          "source": "newsday.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-15",
-          "dateRaw": "2026-11-15T16:46:00Z",
-          "publishedAt": "2026-11-15T16:46:00Z",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T18:02:00Z",
+          "publishedAt": "2026-11-18T18:02:00Z",
           "summary": "",
-          "url": "https://www.independent.co.ug/half-of-students-admitted-to-gulu-university-fail-to-report/"
+          "url": "https://www.newsday.com/news/nation/trump-xi-marcos-apec-china-philippines-n65766"
+        },
+        {
+          "id": "https://www.katherinetimes.com.au/story/9394222/daycare-worker-sentenced-for-disturbing-slaps-to-baby/",
+          "title": "Daycare worker sentenced for 'disturbing' slaps to baby",
+          "source": "katherinetimes.com.au",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T09:02:00Z",
+          "publishedAt": "2026-11-18T09:02:00Z",
+          "summary": "",
+          "url": "https://www.katherinetimes.com.au/story/9394222/daycare-worker-sentenced-for-disturbing-slaps-to-baby/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
         },
         {
           "word": "이민",
-          "count": 2
+          "count": 3
         },
         {
           "word": "청년",
-          "count": 2
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -642,6 +648,18 @@
           "publishedAt": "2026-11-18T09:02:00Z",
           "summary": "",
           "url": "https://www.floydct.com/online_features/press_releases/world-platinum-investment-council-platinum-market-to-return-to-deficit-in-2027-with-a-279/article_e38be2df-ec45-5991-aac3-5eb6ff4440db.html"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/ontario-premier-doug-ford-wants-to-do-more-business-with-quebec-9.7426190",
+          "title": "Ontario Premier Doug Ford touts importance of joining economic forces with Quebec | CBC News",
+          "source": "cbc.ca",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T18:02:00Z",
+          "publishedAt": "2026-11-18T18:02:00Z",
+          "summary": "",
+          "url": "https://www.cbc.ca/news/canada/montreal/ontario-premier-doug-ford-wants-to-do-more-business-with-quebec-9.7426190"
         },
         {
           "id": "https://www.tyrepress.com/2026/11/nfda-backs-milburn-review-on-youth-employment-calls-for-motor-retail-ni-relief/",
@@ -714,18 +732,6 @@
           "publishedAt": "2026-11-17T10:31:00Z",
           "summary": "",
           "url": "http://www.thejakartapost.com/business/2026/11/17/dampened-household-demand-weighs-on-consumer-loan-growth-ojk-says"
-        },
-        {
-          "id": "https://orissadiary.com/india-and-thailand-review-bilateral-trade-and-economic-cooperation-at-14th-joint-trade-committee-meeting-in-nonthaburi-thailand/",
-          "title": "India and Thailand Review Bilateral Trade and Economic Cooperation at 14th Joint Trade Committee Meeting in Nonthaburi, Thailand",
-          "source": "orissadiary.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-16",
-          "dateRaw": "2026-11-16T18:32:00Z",
-          "publishedAt": "2026-11-16T18:32:00Z",
-          "summary": "",
-          "url": "https://orissadiary.com/india-and-thailand-review-bilateral-trade-and-economic-cooperation-at-14th-joint-trade-committee-meeting-in-nonthaburi-thailand/"
         }
       ],
       "keywords": [
@@ -735,7 +741,7 @@
         },
         {
           "word": "무역",
-          "count": 4
+          "count": 2
         },
         {
           "word": "투자",
@@ -775,6 +781,18 @@
           "publishedAt": "2026-11-17T10:31:00Z",
           "summary": "",
           "url": "https://primamedia.ru/news/2684731/"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50549188",
+          "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+          "source": "news.ycombinator.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T18:02:00Z",
+          "publishedAt": "2026-11-18T18:02:00Z",
+          "summary": "",
+          "url": "https://news.ycombinator.com/item?id=50549188"
         },
         {
           "id": "https://itbrief.co.nz/story/orca-adds-tools-to-spot-ai-built-apps-in-the-cloud",
@@ -825,6 +843,18 @@
           "url": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba"
         },
         {
+          "id": "https://247wallst.com/investing/2026/11/18/broadcom-already-eclipsed-amd-as-the-2nd-biggest-chip-maker-but-the-market-wont-recognize-that-truth-until-2027/",
+          "title": "Broadcom Already Eclipsed AMD as The 2nd Biggest Chip Maker, But The Market Won't Recognize That Truth Until 2027",
+          "source": "247wallst.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-18",
+          "dateRaw": "2026-11-18T18:02:00Z",
+          "publishedAt": "2026-11-18T18:02:00Z",
+          "summary": "",
+          "url": "https://247wallst.com/investing/2026/11/18/broadcom-already-eclipsed-amd-as-the-2nd-biggest-chip-maker-but-the-market-wont-recognize-that-truth-until-2027/"
+        },
+        {
           "id": "https://english.news.cn/20261118/9bd4658bdd924398af6b0c3953b49cbc/c.html",
           "title": "Tokyo stocks end mixed as Nvidia earnings ease AI investment concerns",
           "source": "english.news.cn",
@@ -847,48 +877,24 @@
           "publishedAt": "2026-11-17T10:32:00Z",
           "summary": "",
           "url": "https://korean.cri.cn/2026/11/17/ARTI1794900990704528"
-        },
-        {
-          "id": "https://www.asiaone.com/money/baidu-ceo-says-ai-investment-must-deliver-profits-avoid-bubble",
-          "title": "Baidu CEO says AI investment must deliver profits to avoid bubble",
-          "source": "asiaone.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T10:31:00Z",
-          "publishedAt": "2026-11-17T10:31:00Z",
-          "summary": "",
-          "url": "https://www.asiaone.com/money/baidu-ceo-says-ai-investment-must-deliver-profits-avoid-bubble"
-        },
-        {
-          "id": "https://techcentral.co.za/ramaphosa-silicon-valley-ai-delegation/288482/",
-          "title": "Ramaphosa's AI investment pitch in Silicon Valley",
-          "source": "techcentral.co.za",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T10:31:00Z",
-          "publishedAt": "2026-11-17T10:31:00Z",
-          "summary": "",
-          "url": "https://techcentral.co.za/ramaphosa-silicon-valley-ai-delegation/288482/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 8
         },
         {
           "word": "클라우드",
-          "count": 3
+          "count": 4
+        },
+        {
+          "word": "반도체",
+          "count": 2
         },
         {
           "word": "제조",
           "count": 2
-        },
-        {
-          "word": "반도체",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -898,9 +904,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1216,
-    "fetchedItems": 5224,
-    "feedBytes": 1461244,
+    "poolSize": 1280,
+    "fetchedItems": 5732,
+    "feedBytes": 1650585,
     "rollingWindowHours": 72
   }
 }
