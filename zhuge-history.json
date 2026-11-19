@@ -1,6 +1,592 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-19",
   "days": [
+    {
+      "date": "2026-11-19",
+      "planDay": "2026-11-19",
+      "planSetId": "zps-20261119-78e74778",
+      "generatedAt": "2026-11-18T23:43:58.037Z",
+      "publishedAt": "2026-11-19T00:00:09.829Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-11-19",
+        "planSetId": "zps-20261119-78e74778",
+        "titles": [
+          "우주탐사선 보이저1호의 1광일 돌파 의미",
+          "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
+          "AI 부정행위 파문을 피하는 방법"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "openai/gpt-oss-120b",
+        "hqReady": true,
+        "contentRevision": "zcr-b01ec14c",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-11-19T00:00:00.112Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 우주 · AI을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "openai/gpt-oss-120b",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-18T23:43:57.213Z",
+      "inputFreshness": {
+        "fresh": true,
+        "newsFresh": true,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-18T23:01:16.158Z",
+        "staleAdvisors": [],
+        "bestsellerUpdatedAt": "2026-11-18T23:30:25.613Z",
+        "bestsellerDataDate": "2026-11-18",
+        "stale": false,
+        "checkedAt": "2026-11-18T23:43:58.037Z",
+        "policy": "confirm-and-mark",
+        "label": ""
+      },
+      "plans": [
+        {
+          "type": "우주",
+          "field": "우주",
+          "title": "우주탐사선 보이저1호의 1광일 돌파 의미",
+          "concept": "보이저1호가 1광일을 돌파한 과학적 의미와 향후 우주 탐사에 미치는 영향을 쉽게 풀어낸 책",
+          "why": "N17 뉴스에서 보이저1호가 1광일을 돌파했다는 소식이 전해졌고, 이는 우주 탐사의 새로운 전환점이 되기 때문입니다.",
+          "competition": "기존 우주 서적은 보이저1호의 구체적 거리와 시간 개념을 다루지 않아 독자에게 실감나는 이해를 제공하지 못합니다.",
+          "reader": "우주 과학에 관심이 많고 최신 탐사 성과를 실제 사례로 배우고 싶은 일반 독자",
+          "readerNeed": "보이저1호의 1광일 돌파가 왜 중요한지, 그리고 이를 통해 미래 탐사 기술이 어떻게 발전할지 알고 싶어합니다.",
+          "marketGap": "대중 서적에서는 보이저1호의 거리 개념을 일상 언어로 풀어 설명하지 않아 이해에 어려움을 겪는 독자가 많습니다.",
+          "differentiation": "1광일이라는 추상적 개념을 일상 비유와 시각 자료로 구체화해 독자가 직접 체감하도록 구성했습니다.",
+          "diff": "1광일이라는 추상적 개념을 일상 비유와 시각 자료로 구체화해 독자가 직접 체감하도록 구성했습니다.",
+          "toc": [
+            "보이저1호와 1광일의 기본 개념",
+            "우주 거리와 시간의 실제 사례",
+            "1광일 돌파가 의미하는 과학적 변곡점",
+            "미래 탐사 기술에 미치는 파급 효과",
+            "일상에서 우주 탐사를 이해하는 방법"
+          ],
+          "searchQueries": [
+            "우주탐사선 보이저1호",
+            "1광일 돌파"
+          ],
+          "bookworthiness": {
+            "durability": "보이저1호의 돌파는 영구적인 과학 기록으로 오랫동안 학습 자료로 활용될 수 있습니다.",
+            "repeatNeed": "우주 과학을 지속적으로 공부하는 독자에게 반복적인 참고가 필요합니다.",
+            "expansionPotential": "다른 탐사선 사례와 연계해 확장된 우주 교육 콘텐츠로 발전 가능성이 큽니다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "서승우",
+              "career": "《넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행》 저자 · 한솔수북",
+              "why": "YES24에서 이 기획과 인접한 주제의 《넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/130024463",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "책마중",
+              "career": "《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자 · 스마트베어(전집)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/61115391",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "비타민상상력 그림",
+              "career": "《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자 · 스마트베어(전집)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/61115391",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "서승우",
+          "bestAuthor": "서승우",
+          "authorBrief": "",
+          "headlineCopy": "보이저1호가 1광일을 돌파한 순간, 우주 탐사의 새로운 지평을 만나보세요.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "최신 과학 소식을 빠르게 이해하고 싶다",
+              "실제 사례를 통해 과학 원리를 체득하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "보이저1호 1광일 돌파 뉴스와 연계된 SNS 캠페인으로 독자의 실제 상황을 직접 제시합니다.",
+            "trust": "전문 천문학자 인터뷰와 검증된 데이터 표를 통해 신뢰성을 확보합니다.",
+            "conversion": "무료 미리보기 챕터와 인터랙티브 퀴즈를 제공해 구매 전 체험을 유도합니다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "우주 거리 개념이 난해해 보일 수 있습니다.",
+              "objection": "“이 정도는 인터넷에 검색하면 충분하지 않나요?”",
+              "solution": "시각화된 인포그래픽과 일상 비유로 복잡성을 낮추어 설명합니다."
+            },
+            "positioning": "우주 과학을 처음 접하는 독자에게도 친숙하게 다가가는 최신 탐사 서적으로 자리매김합니다."
+          },
+          "devilsEditor": {
+            "failureReason": "우주 거리와 시간 개념을 추상적으로만 제시하면 독자가 이해하지 못할 위험이 있습니다.",
+            "fix": "구체적인 비유와 시각 자료를 추가해 독자가 직접 체감하도록 보강합니다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "독자가 1광일 개념을 이해하지 못하면 책 전체의 설득력이 떨어질 수 있습니다.",
+          "riskResponse": "각 장마다 핵심 포인트를 요약하고 체크리스트를 제공해 이해도를 높입니다.",
+          "judgment": "보이저1호의 돌파는 최신 과학 트렌드이며, 독자에게 실질적인 인사이트를 제공할 수 있어 출판 가치가 높습니다.",
+          "evidence": [
+            {
+              "text": "넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행 — 서승우",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/130024463"
+            },
+            {
+              "text": "우주탐사선 보이저1호 ‘1광일’ 돌파 새 우주 이정표 - 포커스온경제",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qeFlWTGdmOURWOW9FeDZWRUxxYUFkQjZRVWkzeHFGc1dJeXRBeENLeElwbjl0dDJtSmV4bnhIRld6SFRRaVlxWnc1cktxYzRJWEx1RVpMbU1uRHNsOXc?oc=5"
+            },
+            {
+              "text": "어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실 — 책마중 글, 비타민상상력 그림",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/61115391"
+            },
+            {
+              "text": "지식이 번쩍! Creativity Book 세트/전4권.스프링북/자연탐험.미술여행.우주탐사.깜짝발명 — 루스 톰슨 글 / 아녜세 바루치, 엘르 워드 그림 외",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/98862107"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행",
+              "author": "서승우",
+              "publisher": "한솔수북",
+              "publicationDate": "20240531",
+              "url": "https://www.yes24.com/product/goods/130024463",
+              "matchedQuery": "우주탐사선 보이저1호",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실",
+              "author": "책마중 글, 비타민상상력 그림",
+              "publisher": "스마트베어(전집)",
+              "publicationDate": "20161201",
+              "url": "https://www.yes24.com/product/goods/61115391",
+              "matchedQuery": "우주탐사선 보이저1호",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "지식이 번쩍! Creativity Book 세트/전4권.스프링북/자연탐험.미술여행.우주탐사.깜짝발명",
+              "author": "루스 톰슨 글 / 아녜세 바루치, 엘르 워드 그림 외",
+              "publisher": "사파리(전집)",
+              "publicationDate": "20160331",
+              "url": "https://www.yes24.com/product/goods/98862107",
+              "matchedQuery": "우주탐사선 보이저1호",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-18T23:41:51.702Z",
+            "queries": [
+              "우주탐사선 보이저1호",
+              "1광일 돌파"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "AI",
+          "field": "AI",
+          "title": "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
+          "concept": "AI 기반 라이선싱 플랫폼을 활용해 도서 확보와 계약 관리를 효율화하는 실무 매뉴얼",
+          "why": "최근 AI 도서 라이선싱 플랫폼이 출판 현장에서 급부상했으며, N15 뉴스가 이를 강조하고 있습니다.",
+          "competition": "전통적인 라이선싱 서적은 수작업 절차와 시간 소모를 강조하지만, AI 도구의 자동화 효과를 다루지 못합니다.",
+          "reader": "출판사 편집·마케팅 담당자와 신입 기획자, AI 도입을 고민하는 출판 현장 실무자",
+          "readerNeed": "AI 플랫폼을 통해 도서 확보와 계약 과정을 빠르고 정확하게 진행하고 싶어합니다.",
+          "marketGap": "AI 활용 사례가 부족해 실제 적용 방법을 모르는 출판 현장 담당자가 많습니다.",
+          "differentiation": "플랫폼 선택 가이드, 단계별 워크플로우, 실전 체크리스트를 제공해 바로 적용 가능한 도구로 설계했습니다.",
+          "diff": "플랫폼 선택 가이드, 단계별 워크플로우, 실전 체크리스트를 제공해 바로 적용 가능한 도구로 설계했습니다.",
+          "toc": [
+            "AI 라이선싱 플랫폼 개요와 선택 기준",
+            "도서 확보를 위한 AI 데이터 수집 방법",
+            "계약 자동화와 위험 관리 프로세스",
+            "효율성 향상을 위한 KPI 설정과 분석",
+            "현장 적용 사례와 성공 포인트 정리"
+          ],
+          "searchQueries": [
+            "도서 라이선싱",
+            "AI 도서 플랫폼"
+          ],
+          "bookworthiness": {
+            "durability": "AI 기술 변화에 맞춰 업데이트 가능한 구조로 장기적인 활용이 가능합니다.",
+            "repeatNeed": "출판 현장에서 지속적인 계약 관리와 신규 도서 확보에 반복적으로 필요합니다.",
+            "expansionPotential": "다른 출판 업무(편집, 마케팅)와 연계해 종합 AI 출판 솔루션으로 확장할 수 있습니다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "이승용",
+              "career": "《캐릭터 라이선싱》 저자 · 커뮤니케이션북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《캐릭터 라이선싱》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/177106746",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "신승호",
+              "career": "《스포츠 라이선싱 (큰글자책)》 저자 · 커뮤니케이션북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《스포츠 라이선싱 (큰글자책)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/142566389",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김형석",
+              "career": "《스포츠 라이선싱 (큰글자책)》 저자 · 커뮤니케이션북스",
+              "why": "YES24에서 이 기획과 인접한 주제의 《스포츠 라이선싱 (큰글자책)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/142566389",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "이승용",
+          "bestAuthor": "이승용",
+          "authorBrief": "",
+          "headlineCopy": "AI 도구로 도서 라이선싱을 혁신하고 업무 효율을 높이세요.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "업무 효율을 높이고 싶다",
+              "AI 도구를 실제 업무에 적용하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "출판 현장 담당자가 겪는 ‘계약 지연·비효율’ 상황을 구체적으로 제시해 관심을 끕니다.",
+            "trust": "플랫폼 벤더와 협업한 실제 데이터와 성공 사례를 통해 신뢰를 구축합니다.",
+            "conversion": "무료 체험 계정 제공과 단계별 가이드 PDF 다운로드로 구매 전 체험을 유도합니다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "AI 도입 비용과 학습 곡선이 부담될 수 있습니다.",
+              "objection": "“AI가 실제로 도움이 될까?”",
+              "solution": "ROI 계산 시트와 파일럿 프로젝트 성공 사례를 제시해 설득합니다."
+            },
+            "positioning": "출판사 현장의 AI 도입을 선도하는 실전 매뉴얼로 차별화됩니다."
+          },
+          "devilsEditor": {
+            "failureReason": "AI 플랫폼 사용법을 추상적으로만 설명하면 현장 적용이 어려워집니다.",
+            "fix": "구체적인 화면 캡처와 단계별 스크린샷을 삽입해 실무 적용을 돕습니다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 91,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 96
+          },
+          "score": 92,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "AI 도구에 대한 불신이 있으면 도입을 꺼릴 위험이 있습니다.",
+          "riskResponse": "실제 비용 절감 효과와 시간 단축 데이터를 제시해 설득력을 높입니다.",
+          "judgment": "AI 라이선싱은 출판 산업의 핵심 혁신 포인트이며, 실무 적용 가이드는 시장에서 큰 필요를 충족합니다.",
+          "evidence": [
+            {
+              "text": "캐릭터 라이선싱 — 이승용 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/177106746"
+            },
+            {
+              "text": "AI 도서 라이선싱 플랫폼 멘탯, 제휴 출판사 100곳 돌파…도서 4만종 확보 - 디지털데일리",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYRHFBRzBQODVBa3FLaFRKMjVQNWhUNE9yem9NRGxVaFk5YmF4aGFxZlY4RlREVG1QcjM4STBNLWVHSkZsN1lXS25HRmJWSGNoTVpuWlkzOFB1N2Y3RVN6SVBjQnc?oc=5"
+            },
+            {
+              "text": "캐릭터 라이선싱 (큰글자책) — 이승용 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/177106749"
+            },
+            {
+              "text": "스포츠 라이선싱 (큰글자책) — 신승호,김형석 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/142566389"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "캐릭터 라이선싱",
+              "author": "이승용 저",
+              "publisher": "커뮤니케이션북스",
+              "publicationDate": "20260220",
+              "url": "https://www.yes24.com/product/goods/177106746",
+              "matchedQuery": "도서 라이선싱",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "캐릭터 라이선싱 (큰글자책)",
+              "author": "이승용 저",
+              "publisher": "커뮤니케이션북스",
+              "publicationDate": "20260220",
+              "url": "https://www.yes24.com/product/goods/177106749",
+              "matchedQuery": "도서 라이선싱",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "스포츠 라이선싱 (큰글자책)",
+              "author": "신승호,김형석 공저",
+              "publisher": "커뮤니케이션북스",
+              "publicationDate": "20250210",
+              "url": "https://www.yes24.com/product/goods/142566389",
+              "matchedQuery": "도서 라이선싱",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-18T23:41:56.831Z",
+            "queries": [
+              "도서 라이선싱",
+              "AI 도서 플랫폼"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "AI",
+          "field": "AI",
+          "title": "AI 부정행위 파문을 피하는 방법",
+          "concept": "AI가 만든 부정행위 위험을 사전에 차단하고 시험 준비에 집중할 수 있게 돕는 실전 매뉴얼",
+          "why": "N15 뉴스에서 AI 부정행위 파문이 수능 준비에 미치는 영향을 보도했으며, 대비책이 시급합니다.",
+          "competition": "기존 수능 대비 서적은 AI 부정행위 문제를 다루지 않아 최신 위험에 대한 대비가 부족합니다.",
+          "reader": "수능을 앞둔 고등학생과 학원 강사, AI 활용에 불안감을 가진 학부모",
+          "readerNeed": "AI 부정행위 위험을 미리 인지하고, 안전하게 시험 준비를 진행하고 싶어합니다.",
+          "marketGap": "AI 부정행위 사례와 예방 방법을 구체적으로 제시하는 교육 서적이 거의 없습니다.",
+          "differentiation": "작업 분해표, AI 위임 기준, 검수 질문지, 성과 기록표 등 실전 도구를 제공해 직접 적용하도록 설계했습니다.",
+          "diff": "작업 분해표, AI 위임 기준, 검수 질문지, 성과 기록표 등 실전 도구를 제공해 직접 적용하도록 설계했습니다.",
+          "toc": [
+            "AI 부정행위 파문 현황과 위험 분석",
+            "수능 준비에 필요한 기본 전략 정리",
+            "AI 위임 기준과 검수 질문지 활용법",
+            "작업 분해표로 학습 계획 재설계하기",
+            "성공적인 시험 대비를 위한 체크리스트"
+          ],
+          "searchQueries": [
+            "AI 부정행위",
+            "수능 준비"
+          ],
+          "bookworthiness": {
+            "durability": "AI 부정행위는 장기적인 교육 이슈로, 지속적인 대비책이 필요합니다.",
+            "repeatNeed": "시험 시즌마다 반복적으로 활용될 수 있는 실전 도구입니다.",
+            "expansionPotential": "다른 시험(대학원, 공무원)에도 적용 가능한 예방 매뉴얼로 확장 가능합니다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김재호",
+              "career": "《부정행위 불륜 이혼 판례》 저자 · 암마이",
+              "why": "YES24에서 이 기획과 인접한 주제의 《부정행위 불륜 이혼 판례》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/89988483",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "토리오 리세 글그림",
+              "career": "《욕심 없는 나의 부정행위》 저자 · 디앤씨미디어(D&C미디어)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《욕심 없는 나의 부정행위》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/62151157",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "심이슬 역",
+              "career": "《욕심 없는 나의 부정행위》 저자 · 디앤씨미디어(D&C미디어)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《욕심 없는 나의 부정행위》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/62151157",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김재호",
+          "bestAuthor": "김재호",
+          "authorBrief": "",
+          "headlineCopy": "AI 부정행위 파문을 미리 차단하고 안심하고 수능을 준비하세요.",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "시험 준비에 방해가 되는 위험을 없애고 싶다",
+              "AI 활용에 대한 불안감을 해소하고 싶다"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "감정·이미지형"
+            },
+            "acquisition": "수능 전형을 앞둔 학생들의 ‘AI 부정행위 우려’ 상황을 직접 언급해 공감대를 형성합니다.",
+            "trust": "교육 전문가 인터뷰와 실제 사례 분석을 통해 신뢰를 확보합니다.",
+            "conversion": "무료 시험 대비 체크리스트와 AI 위험 진단 툴을 제공해 구매를 유도합니다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "AI 부정행위가 실제로 얼마나 큰 위협인지 모를 수 있습니다.",
+              "objection": "“이미 기존 대비법으로 충분하지 않나요?”",
+              "solution": "통계 자료와 실제 부정행위 사례를 제시해 위험성을 명확히 합니다."
+            },
+            "positioning": "AI 시대에 맞춘 최초의 수능 대비 부정행위 방지 매뉴얼로 차별화됩니다."
+          },
+          "devilsEditor": {
+            "failureReason": "AI 부정행위 위험을 과장하면 독자 신뢰를 잃을 위험이 있습니다.",
+            "fix": "객관적인 데이터와 사례 중심으로 위험 수준을 정확히 전달합니다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "AI 부정행위 위험을 과소평가하면 독자가 책의 필요성을 느끼지 못할 수 있습니다.",
+          "riskResponse": "구체적인 사례와 손쉬운 예방 체크리스트로 위험 인식을 강화합니다.",
+          "judgment": "AI 부정행위는 새로운 교육 위협이며, 이를 대비하는 실전 가이드는 현재 시장에 부재합니다.",
+          "evidence": [
+            {
+              "text": "부정행위 불륜 이혼 판례 — 김재호 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/89988483"
+            },
+            {
+              "text": "AI 부정행위 파문에 수능 앞둔 수험생 풍자 밈 확산…서울대 의대 신입생 환영회 패러디까지 - 스페셜타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxYVhqXzNnMXpLSFJ1eG13VzBzdkUtdzJURnRQYmN5aTZ6Q2hERnEzRUlfVHhreUttdXNQX0MzdlI0dTFXVGRVMUg2MnROZW03dU8yRGhRUE9LTFkzbEZSckxwc1ZKVU41QU9sSWJoYkMxNlk?oc=5"
+            },
+            {
+              "text": "욕심 없는 나의 부정행위 — 토리오 리세 글그림/심이슬 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/62151157"
+            },
+            {
+              "text": "연구부정행위 검증 및 처리관련 연구윤리 실무 매뉴얼 — 한국연구재단 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/32284810"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "부정행위 불륜 이혼 판례",
+              "author": "김재호 저",
+              "publisher": "암마이",
+              "publicationDate": "20200409",
+              "url": "https://www.yes24.com/product/goods/89988483",
+              "matchedQuery": "AI 부정행위",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "욕심 없는 나의 부정행위",
+              "author": "토리오 리세 글그림/심이슬 역",
+              "publisher": "디앤씨미디어(D&C미디어)",
+              "publicationDate": "20180720",
+              "url": "https://www.yes24.com/product/goods/62151157",
+              "matchedQuery": "AI 부정행위",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "연구부정행위 검증 및 처리관련 연구윤리 실무 매뉴얼",
+              "author": "한국연구재단 저",
+              "publisher": "진한엠앤비",
+              "publicationDate": "20160913",
+              "url": "https://www.yes24.com/product/goods/32284810",
+              "matchedQuery": "AI 부정행위",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-18T23:41:58.436Z",
+            "queries": [
+              "AI 부정행위",
+              "수능 준비"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "planDay": "2026-11-09",
@@ -33056,26 +33642,9 @@
           "concept": "부모가 살아 있을 때 가족이 함께 하는 12주 사전 정리 프로젝트"
         }
       ]
-    },
-    {
-      "date": "2026-09-22",
-      "plans": [
-        {
-          "title": "처음 외국인 직원을 고용합니다",
-          "type": "경영·노무·중소기업"
-        },
-        {
-          "title": "무너진 팀을 다시 세우는 법",
-          "type": "경제경영·리더십"
-        },
-        {
-          "title": "AI로 사회문제를 푸는 사람들",
-          "type": "사회·AI·공공혁신"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261109-4f709d9e",
+  "activePlanSetId": "zps-20261119-78e74778",
   "discardedDays": [
     {
       "date": "2026-09-29",
