@@ -6,7 +6,7 @@
       "planDay": "2026-11-19",
       "planSetId": "zps-20261119-78e74778",
       "generatedAt": "2026-11-18T23:43:58.037Z",
-      "publishedAt": "2026-11-19T00:26:21.000Z",
+      "publishedAt": "2026-11-19T01:02:49.115Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -541,7 +541,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-b01ec14c",
             "status": "ready",
-            "generatedAt": "2026-11-19T00:26:00.028Z",
+            "generatedAt": "2026-11-19T01:01:03.811Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -733,7 +733,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-19T00:25:56.280Z",
+            "generatedAt": "2026-11-19T01:02:41.647Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -758,21 +758,21 @@
               ]
             },
             "bookTitle": "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
-            "provider": "rule-fallback",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "no-ai-copy",
+            "provider": "groq",
+            "aiCards": 5,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "강한 선언",
-                "headline": "AI 도구로 라이선싱을 혁신하고 업무 효율을 높이라.",
+                "headline": "AI 플랫폼에 맡기면 계약이 사라진다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "009",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
@@ -783,51 +783,51 @@
                 "accent": "yellow",
                 "sceneId": "023",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "rule-repair"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "구체적 증상",
-                "headline": "라이선싱 플랫폼을 활용해 확보와 계약 관리를 효율화하는 실무 매뉴얼.",
+                "headline": "계약서 검토가 늦고, 비용이 늘고, 소통이 끊긴다면",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "030",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "판단 기준",
-                "headline": "출판 현장에서 급부상했으며, N15 뉴스가 이를 강조하고 있다.",
+                "headline": "그건 효율을 잃은 선택이다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "019",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "해결",
-                "headline": "실전 체크리스트를 제공해 바로 적용 가능한 도구로 설계했습니다.",
+                "headline": "지금 바로 플랫폼을 비교하고\n핵심 체크리스트로 검증하라",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "037",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "강한 결론",
-                "headline": "AI 플랫폼 사용법을 추상적으로만 설명하면 현장 적용이 어려워집니다.",
+                "headline": "똑똑한 선택이 곧 경쟁력이다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "047",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
             "sourceRevision": "zcr-b01ec14c"
@@ -1044,7 +1044,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-b01ec14c",
             "status": "ready",
-            "generatedAt": "2026-11-19T00:26:03.349Z",
+            "generatedAt": "2026-11-19T01:01:06.125Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1236,7 +1236,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-19T00:25:56.280Z",
+            "generatedAt": "2026-11-19T01:02:41.647Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1261,76 +1261,76 @@
               ]
             },
             "bookTitle": "AI 부정행위 파문을 피하는 방법",
-            "provider": "rule-fallback",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "no-ai-copy",
+            "provider": "groq",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "궁금증",
-                "headline": "AI 부정행위 파문을 미리 차단하고 안심하고 수능을 준비하라.",
+                "headline": "AI가 만든 시험 부정, 진짜 위험은?",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "002",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "현상",
-                "headline": "위험을 미리 인지하고, 안전하게 시험 준비를 진행하고 싶어한다.",
+                "headline": "학생들이 AI로 답을 만들고\n채점 시스템이 이를 받아들인다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "017",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "analysis",
                 "beat": "원리",
-                "headline": "위험을 사전에 차단하고 시험 준비에 집중할 수 있게 돕는 실전 매뉴얼.",
+                "headline": "AI는 대량 생성 능력과 학습 데이터 편향으로\n오답을 정답처럼 보이게 만든다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "018",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "설명",
-                "headline": "파문이 수능 준비에 미치는 영향을 보도했으며, 대비책이 시급한다.",
+                "headline": "즉, 검증되지 않은 결과가 점수에 직접 반영되는 구조다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "019",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "통찰",
-                "headline": "성과 기록표 등 실전 도구를 제공해 직접 적용하도록 설계했습니다.",
+                "headline": "문제는 기술이 아니라, 검증 절차가 없다는 것이다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "039",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "핵심 메시지",
-                "headline": "AI 부정행위 위험을 과장하면 독자 신뢰를 잃을 위험이 있다.",
+                "headline": "안전한 시험은 검증에서 시작된다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "049",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
             "sourceRevision": "zcr-b01ec14c"
@@ -1547,7 +1547,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-b01ec14c",
             "status": "ready",
-            "generatedAt": "2026-11-19T00:26:06.067Z",
+            "generatedAt": "2026-11-19T01:01:09.506Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
