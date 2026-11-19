@@ -2,21 +2,33 @@
   "ok": true,
   "category": "industry",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 19. 오전 03:11:09",
+  "updatedAt": "2026. 11. 19. 오전 09:30:15",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 391,
-    "passed": 148,
-    "deduped": 148,
-    "eventDeduped": 148,
+    "raw": 427,
+    "passed": 167,
+    "deduped": 167,
+    "eventDeduped": 167,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257",
+      "title": "엔비디아 5거래일째 하락…AI 투자 경계에 반도체주 희비[뉴스새벽배송]",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257"
+    },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026111817111818010",
       "title": "로봇 한 대 안전해도 공장은 다르다… 피지컬 AI, 현장 단위 검증 필요",
@@ -30,16 +42,28 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026111817111818010"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50549188",
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "source": "news.ycombinator.com",
+      "id": "https://www.etoday.co.kr/news/view/2649868",
+      "title": "'만들기 무섭게 팔린다'…삼전닉스, 생산 중인 반도체만 43.5조 [수출 1조달러의 힘]",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2649868"
+    },
+    {
+      "id": "https://streetwisejournal.com/the-biotech-investment-that-looked-low-risk-until-the-research-couldnt-be-verified-what-scientific-due-diligence-really-costs/",
+      "title": "The Biotech Investment That Looked Low-Risk Until the Research Couldn't Be Verified: What Scientific Due Diligence Really Costs",
+      "source": "streetwisejournal.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:02:00Z",
-      "publishedAt": "2026-11-18T18:02:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
       "summary": "",
-      "url": "https://news.ycombinator.com/item?id=50549188"
+      "url": "https://streetwisejournal.com/the-biotech-investment-that-looked-low-risk-until-the-research-couldnt-be-verified-what-scientific-due-diligence-really-costs/"
     },
     {
       "id": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-energy-plc-bnp-sa/9881559",
@@ -66,18 +90,6 @@
       "url": "https://econotimes.com/Genesis-Energy-Sets-2028-Target-for-260-MW-Lagos-Gas-Plant-1778856"
     },
     {
-      "id": "http://www.sandiegosun.com/news/279439056/us-industrial-production-declines-04-pc-in-october-manufacturing-output-rises-03-pc-federal-reserve",
-      "title": "US industrial production declines 0.4 pc in October, manufacturing output rises 0.3 pc: Federal Reserve",
-      "source": "sandiegosun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:16:00Z",
-      "publishedAt": "2026-11-17T19:16:00Z",
-      "summary": "",
-      "url": "http://www.sandiegosun.com/news/279439056/us-industrial-production-declines-04-pc-in-october-manufacturing-output-rises-03-pc-federal-reserve"
-    },
-    {
       "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286117&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
       "title": "중국 휴머노이드 로봇 APEC서 주목… 한국 산업 현장 적용 추진",
       "source": "ohmynews.com",
@@ -90,55 +102,55 @@
       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286117&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
     },
     {
-      "id": "https://www.portlandmercury.com/good-morning-news/good-morning-news-volcano-powered-data-centers-in-oregon-new-portland-tavern-debuts-and-peltola-takes-alaska/",
-      "title": "Good Morning News: Volcano-Powered Data Centers in Oregon, New Portland Tavern Debuts, and Peltola Takes Alaska - Portland Mercury",
-      "source": "portlandmercury.com",
+      "id": "https://www.interest.co.nz/technology/141144/pinelopi-koujianou-goldberg-asks-why-china-still-reliant-us-designed-chips",
+      "title": "What Nvidia's crisis reveals about the chip war",
+      "source": "interest.co.nz",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:03:00Z",
-      "publishedAt": "2026-11-18T18:03:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
       "summary": "",
-      "url": "https://www.portlandmercury.com/good-morning-news/good-morning-news-volcano-powered-data-centers-in-oregon-new-portland-tavern-debuts-and-peltola-takes-alaska/"
+      "url": "https://www.interest.co.nz/technology/141144/pinelopi-koujianou-goldberg-asks-why-china-still-reliant-us-designed-chips"
     },
     {
-      "id": "https://www.standardspeaker.com/2026/11/18/data-center-opponents-react-to-olyphants-approval-of-settlement-cba/",
-      "title": "Data center opponents react to Olyphant’s approval of settlement, CBA",
-      "source": "standardspeaker.com",
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/11/19/texas-resumes-issuing-data-center-air-permits-regulator-says",
+      "title": "Texas resumes issuing data center air permits, regulator says",
+      "source": "thestar.com.my",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:02:00Z",
-      "publishedAt": "2026-11-18T18:02:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
       "summary": "",
-      "url": "https://www.standardspeaker.com/2026/11/18/data-center-opponents-react-to-olyphants-approval-of-settlement-cba/"
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/19/texas-resumes-issuing-data-center-air-permits-regulator-says"
     },
     {
-      "id": "https://www.foodnavigator.com/Article/2026/11/18/can-europe-retain-its-food-manufacturing-edge/",
-      "title": "Can European food and drink manufacturing stay competitive on the global stage?",
-      "source": "foodnavigator.com",
+      "id": "https://www.wxow.com/news/oakdale-town-board-calls-for-delay-in-proposed-nodiac-data-center-permit-decision/article_14316ea1-1ad2-47d8-ae83-14a968c23510.html",
+      "title": "Oakdale Town Board calls for delay in proposed Nodiac data center permit decision",
+      "source": "wxow.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:02:00Z",
-      "publishedAt": "2026-11-18T18:02:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
       "summary": "",
-      "url": "https://www.foodnavigator.com/Article/2026/11/18/can-europe-retain-its-food-manufacturing-edge/"
-    },
-    {
-      "id": "https://www.irishtimes.com/business/work/2026/11/18/profits-jump-20-at-irish-arm-of-us-biotech-regeneron/",
-      "title": "Profits jump 20% at Irish arm of US biotech Regeneron",
-      "source": "irishtimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:02:00Z",
-      "publishedAt": "2026-11-18T18:02:00Z",
-      "summary": "",
-      "url": "https://www.irishtimes.com/business/work/2026/11/18/profits-jump-20-at-irish-arm-of-us-biotech-regeneron/"
+      "url": "https://www.wxow.com/news/oakdale-town-board-calls-for-delay-in-proposed-nodiac-data-center-permit-decision/article_14316ea1-1ad2-47d8-ae83-14a968c23510.html"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257",
+      "title": "엔비디아 5거래일째 하락…AI 투자 경계에 반도체주 희비[뉴스새벽배송]",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257"
+    },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026111817111818010",
       "title": "로봇 한 대 안전해도 공장은 다르다… 피지컬 AI, 현장 단위 검증 필요",
@@ -176,6 +188,30 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026111808531804130"
     },
     {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=01804006645647360&mediaCodeNo=257",
+      "title": "[마켓무버]뉴욕증시 혼조 마감…엔비디아 호실적에도 AI 투심 제한",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01804006645647360&mediaCodeNo=257"
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=02056566645647360&mediaCodeNo=257",
+      "title": "세계 AI 지출 47.5% 폭증…내년 5300조원 넘는다",
+      "source": "edaily.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02056566645647360&mediaCodeNo=257"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50549188",
       "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
       "source": "news.ycombinator.com",
@@ -188,40 +224,28 @@
       "url": "https://news.ycombinator.com/item?id=50549188"
     },
     {
-      "id": "http://www.sydneysun.com/news/279439081/australian-pm-albanese-pledges-transparency-ahead-of-china-visit-as-quad-unveils-maritime-drills-energy-cable-expansion-and-ai-cooperation",
-      "title": "Australian PM Albanese pledges transparency ahead of China visit as Quad unveils maritime drills, energy cable expansion, and AI cooperation",
-      "source": "sydneysun.com",
-      "language": "English",
+      "id": "https://www.etoday.co.kr/news/view/2649868",
+      "title": "'만들기 무섭게 팔린다'…삼전닉스, 생산 중인 반도체만 43.5조 [수출 1조달러의 힘]",
+      "source": "etoday.co.kr",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:16:00Z",
-      "publishedAt": "2026-11-17T19:16:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
       "summary": "",
-      "url": "http://www.sydneysun.com/news/279439081/australian-pm-albanese-pledges-transparency-ahead-of-china-visit-as-quad-unveils-maritime-drills-energy-cable-expansion-and-ai-cooperation"
+      "url": "https://www.etoday.co.kr/news/view/2649868"
     },
     {
-      "id": "https://bravenewcoin.com/insights/nvidia-ai-chip-restrictions-expand-as-us-closes-cloud-computing-loophole-for-china",
-      "title": "Nvidia AI Chip Restrictions Expand as US Closes Cloud Computing Loophole for China",
-      "source": "bravenewcoin.com",
+      "id": "https://streetwisejournal.com/the-biotech-investment-that-looked-low-risk-until-the-research-couldnt-be-verified-what-scientific-due-diligence-really-costs/",
+      "title": "The Biotech Investment That Looked Low-Risk Until the Research Couldn't Be Verified: What Scientific Due Diligence Really Costs",
+      "source": "streetwisejournal.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:17:00Z",
-      "publishedAt": "2026-11-17T19:17:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
       "summary": "",
-      "url": "https://bravenewcoin.com/insights/nvidia-ai-chip-restrictions-expand-as-us-closes-cloud-computing-loophole-for-china"
-    },
-    {
-      "id": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/",
-      "title": "Hive Launches AI Assistants to Help Venues and Promoters Sell More Tickets",
-      "source": "hypebot.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:02:00Z",
-      "publishedAt": "2026-11-18T18:02:00Z",
-      "summary": "",
-      "url": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/"
+      "url": "https://streetwisejournal.com/the-biotech-investment-that-looked-low-risk-until-the-research-couldnt-be-verified-what-scientific-due-diligence-really-costs/"
     },
     {
       "id": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-energy-plc-bnp-sa/9881559",
@@ -272,18 +296,6 @@
       "url": "https://wgme.com/news/local/regulators-approve-new-supply-rate-for-electricity-cmp-bills-to-go-up-by-about-5-a-month"
     },
     {
-      "id": "http://www.sandiegosun.com/news/279439056/us-industrial-production-declines-04-pc-in-october-manufacturing-output-rises-03-pc-federal-reserve",
-      "title": "US industrial production declines 0.4 pc in October, manufacturing output rises 0.3 pc: Federal Reserve",
-      "source": "sandiegosun.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:16:00Z",
-      "publishedAt": "2026-11-17T19:16:00Z",
-      "summary": "",
-      "url": "http://www.sandiegosun.com/news/279439056/us-industrial-production-declines-04-pc-in-october-manufacturing-output-rises-03-pc-federal-reserve"
-    },
-    {
       "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286117&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
       "title": "중국 휴머노이드 로봇 APEC서 주목… 한국 산업 현장 적용 추진",
       "source": "ohmynews.com",
@@ -294,6 +306,66 @@
       "publishedAt": "2026-11-18T09:02:00Z",
       "summary": "",
       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286117&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147"
+    },
+    {
+      "id": "https://www.interest.co.nz/technology/141144/pinelopi-koujianou-goldberg-asks-why-china-still-reliant-us-designed-chips",
+      "title": "What Nvidia's crisis reveals about the chip war",
+      "source": "interest.co.nz",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.interest.co.nz/technology/141144/pinelopi-koujianou-goldberg-asks-why-china-still-reliant-us-designed-chips"
+    },
+    {
+      "id": "https://www.afr.com/policy/energy-and-climate/a-victorian-coalition-win-will-deepen-fractures-in-national-power-grid-20261119-p61fcl",
+      "title": "A Victorian Coalition win will deepen fractures in national power grid",
+      "source": "afr.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.afr.com/policy/energy-and-climate/a-victorian-coalition-win-will-deepen-fractures-in-national-power-grid-20261119-p61fcl"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/11/19/texas-resumes-issuing-data-center-air-permits-regulator-says",
+      "title": "Texas resumes issuing data center air permits, regulator says",
+      "source": "thestar.com.my",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/19/texas-resumes-issuing-data-center-air-permits-regulator-says"
+    },
+    {
+      "id": "https://www.bangkokpost.com/business/general/3357309/thai-firms-affected-by-us-chip-rules-to-get-support",
+      "title": "Thai firms affected by US chip rules to get support",
+      "source": "bangkokpost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.bangkokpost.com/business/general/3357309/thai-firms-affected-by-us-chip-rules-to-get-support"
+    },
+    {
+      "id": "https://www.wxow.com/news/oakdale-town-board-calls-for-delay-in-proposed-nodiac-data-center-permit-decision/article_14316ea1-1ad2-47d8-ae83-14a968c23510.html",
+      "title": "Oakdale Town Board calls for delay in proposed Nodiac data center permit decision",
+      "source": "wxow.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
+      "summary": "",
+      "url": "https://www.wxow.com/news/oakdale-town-board-calls-for-delay-in-proposed-nodiac-data-center-permit-decision/article_14316ea1-1ad2-47d8-ae83-14a968c23510.html"
     },
     {
       "id": "https://www.portlandmercury.com/good-morning-news/good-morning-news-volcano-powered-data-centers-in-oregon-new-portland-tavern-debuts-and-peltola-takes-alaska/",
@@ -380,42 +452,6 @@
       "url": "https://aninews.in/news/national/general-news/parliamentary-panel-discusses-safe-handling-of-hazardous-chemicals-self-reliance-in-manufacturing-of-medical-devices-in-two-meetings20261118211251/"
     },
     {
-      "id": "https://livenews.co.nz/2026/11/18/vietnams-ministry-of-industry-and-trade-to-support-global-energy-exhibition-congress-vietnam-in-2027/",
-      "title": "Vietnam's Ministry of Industry and Trade to support Global Energy Exhibition & Congress Vietnam in 2027 – LiveNews.co.nz",
-      "source": "livenews.co.nz",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T09:02:00Z",
-      "publishedAt": "2026-11-18T09:02:00Z",
-      "summary": "",
-      "url": "https://livenews.co.nz/2026/11/18/vietnams-ministry-of-industry-and-trade-to-support-global-energy-exhibition-congress-vietnam-in-2027/"
-    },
-    {
-      "id": "https://www.thetimes-tribune.com/2026/11/17/olyphant-approves-controversial-data-center-settlement-101-million-deal/",
-      "title": "Olyphant approves controversial data center settlement, $101 million deal",
-      "source": "thetimes-tribune.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T09:01:00Z",
-      "publishedAt": "2026-11-18T09:01:00Z",
-      "summary": "",
-      "url": "https://www.thetimes-tribune.com/2026/11/17/olyphant-approves-controversial-data-center-settlement-101-million-deal/"
-    },
-    {
-      "id": "https://natlawreview.com/article/after-2026-midterms-what-election-means-data-center-development-and-why-missouri",
-      "title": "After the 2026 Midterms: What the Election Means for Data Center Development—and Why Missouri Remains Open for Business",
-      "source": "natlawreview.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T01:31:00Z",
-      "publishedAt": "2026-11-18T01:31:00Z",
-      "summary": "",
-      "url": "https://natlawreview.com/article/after-2026-midterms-what-election-means-data-center-development-and-why-missouri"
-    },
-    {
       "id": "http://www.dailyadvance.com/chowan/news/local/maritime-initiative-aims-to-keep-shipbuilding-jobs-in-nc/article_acedcd9f-1f78-424d-ae47-2f9a538a9472.html",
       "title": "Maritime initiative aims to keep shipbuilding jobs in NC",
       "source": "dailyadvance.com",
@@ -428,40 +464,52 @@
       "url": "http://www.dailyadvance.com/chowan/news/local/maritime-initiative-aims-to-keep-shipbuilding-jobs-in-nc/article_acedcd9f-1f78-424d-ae47-2f9a538a9472.html"
     },
     {
-      "id": "https://english.hani.co.kr/arti/english_edition/e_national/1149185.html",
-      "title": "Mangled fingers, no time off: Why the women who make Samsung’s semiconductors are striking",
-      "source": "english.hani.co.kr",
+      "id": "https://globalnews.ca/news/12156969/alberta-bill-42-data-centres/",
+      "title": "Alberta proposes data centre buffer zone near homes, some farms and irrigated land | Globalnews.ca",
+      "source": "globalnews.ca",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T01:31:00Z",
-      "publishedAt": "2026-11-18T01:31:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
       "summary": "",
-      "url": "https://english.hani.co.kr/arti/english_edition/e_national/1149185.html"
+      "url": "https://globalnews.ca/news/12156969/alberta-bill-42-data-centres/"
     },
     {
-      "id": "https://iberonews.com/not_det.php?lang=es¬id=111672",
-      "title": "Sparxity Appoints former Cray CEO Peter Ungaro and Semiconductor Veteran Daniel Armbrust to its Advisory Board - Iberonews",
-      "source": "iberonews.com",
+      "id": "https://stettlerindependent.com/2026/11/18/alberta-unveils-new-data-centre-regulations/",
+      "title": "Alberta unveils new data centre regulations - The Stettler Independent",
+      "source": "stettlerindependent.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:17:00Z",
-      "publishedAt": "2026-11-17T19:17:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
       "summary": "",
-      "url": "https://iberonews.com/not_det.php?lang=es¬id=111672"
+      "url": "https://stettlerindependent.com/2026/11/18/alberta-unveils-new-data-centre-regulations/"
     },
     {
-      "id": "https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores",
-      "title": "Nvidia claims Vera CPU can gain up to 39% performance boost via software optimization at SC26 — architectural fine-tuning for Arm cores needed to take full advantage of chip",
-      "source": "tomshardware.com",
+      "id": "https://www.muswellbrookchronicle.com.au/story/9394311/new-modelling-shows-the-potential-scale-of-climate-pollution/",
+      "title": "The Upper Hunter data centre plans ranked among nation's dirtiest",
+      "source": "muswellbrookchronicle.com.au",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:17:00Z",
-      "publishedAt": "2026-11-17T19:17:00Z",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
       "summary": "",
-      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores"
+      "url": "https://www.muswellbrookchronicle.com.au/story/9394311/new-modelling-shows-the-potential-scale-of-climate-pollution/"
+    },
+    {
+      "id": "https://www.bnnbloomberg.ca/business/2026/11/18/province-says-new-data-centre-policies-will-address-albertans-concern-over-growing-industry/",
+      "title": "Province says new data centre policies will address Albertans’ concern over growing industry",
+      "source": "bnnbloomberg.ca",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
+      "summary": "",
+      "url": "https://www.bnnbloomberg.ca/business/2026/11/18/province-says-new-data-centre-policies-will-address-albertans-concern-over-growing-industry/"
     },
     {
       "id": "https://www.irishtimes.com/business/2026/11/18/utilities-regulator-denies-that-it-breached-climate-legislation-with-data-centre-framework/",
@@ -488,18 +536,6 @@
       "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/21148-cambodias-bytedc-to-connect-data-centre-to-mekongnets-network.html"
     },
     {
-      "id": "https://en.shafaqna.com/491262/data-centre-power-demand-iea-quantum/",
-      "title": "data centre power demand to top russia by 2030, iea says",
-      "source": "en.shafaqna.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:16:00Z",
-      "publishedAt": "2026-11-17T19:16:00Z",
-      "summary": "",
-      "url": "https://en.shafaqna.com/491262/data-centre-power-demand-iea-quantum/"
-    },
-    {
       "id": "https://www.ibtimes.com.au/infratil-raises-guidance-cdc-data-centres-earnings-1878830",
       "title": "Infratil Shares Rise 3% as CDC Data Centre Earnings Jump 84% and Group Lifts Full-Year Guidance Despite Loss",
       "source": "ibtimes.com.au",
@@ -524,40 +560,40 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026111809563271482"
     },
     {
-      "id": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/new-company-named-best-value-11245759",
-      "title": "New company named best value energy provider, beating Octopus",
-      "source": "grimsbytelegraph.co.uk",
+      "id": "https://livenews.co.nz/2026/11/18/vietnams-ministry-of-industry-and-trade-to-support-global-energy-exhibition-congress-vietnam-in-2027/",
+      "title": "Vietnam's Ministry of Industry and Trade to support Global Energy Exhibition & Congress Vietnam in 2027 – LiveNews.co.nz",
+      "source": "livenews.co.nz",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-18",
+      "dateRaw": "2026-11-18T09:02:00Z",
+      "publishedAt": "2026-11-18T09:02:00Z",
+      "summary": "",
+      "url": "https://livenews.co.nz/2026/11/18/vietnams-ministry-of-industry-and-trade-to-support-global-energy-exhibition-congress-vietnam-in-2027/"
+    },
+    {
+      "id": "https://www.thetimes-tribune.com/2026/11/17/olyphant-approves-controversial-data-center-settlement-101-million-deal/",
+      "title": "Olyphant approves controversial data center settlement, $101 million deal",
+      "source": "thetimes-tribune.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-18",
       "dateRaw": "2026-11-18T09:01:00Z",
       "publishedAt": "2026-11-18T09:01:00Z",
       "summary": "",
-      "url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/new-company-named-best-value-11245759"
+      "url": "https://www.thetimes-tribune.com/2026/11/17/olyphant-approves-controversial-data-center-settlement-101-million-deal/"
     },
     {
-      "id": "https://www.benningtonbanner.com/local-news/pownal-weighs-two-year-data-center-moratorium/5679005",
-      "title": "Pownal weighs two-year data center moratorium",
-      "source": "benningtonbanner.com",
+      "id": "https://english.hani.co.kr/arti/english_edition/e_national/1149185.html",
+      "title": "Mangled fingers, no time off: Why the women who make Samsung’s semiconductors are striking",
+      "source": "english.hani.co.kr",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-18",
       "dateRaw": "2026-11-18T01:31:00Z",
       "publishedAt": "2026-11-18T01:31:00Z",
       "summary": "",
-      "url": "https://www.benningtonbanner.com/local-news/pownal-weighs-two-year-data-center-moratorium/5679005"
-    },
-    {
-      "id": "https://www.brightonandhovenews.org/2026/11/17/hot-chip-announce-new-single-new-album-uk-tour/",
-      "title": "Hot Chip announce new single, new album & UK tour",
-      "source": "brightonandhovenews.org",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:17:00Z",
-      "publishedAt": "2026-11-17T19:17:00Z",
-      "summary": "",
-      "url": "https://www.brightonandhovenews.org/2026/11/17/hot-chip-announce-new-single-new-album-uk-tour/"
+      "url": "https://english.hani.co.kr/arti/english_edition/e_national/1149185.html"
     },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026111809482201989",
@@ -582,6 +618,30 @@
       "publishedAt": "2026-11-18T01:31:00Z",
       "summary": "",
       "url": "https://www.ddaily.co.kr:443/page/view/2026111809573745515"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2650037",
+      "title": "국토부, 유엔 아태 교통장관회의 참석…AI·스마트모빌리티 협력 확대",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2650037"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2650095",
+      "title": "DB증권 \"이수페타시스, AI 기판 수요 확대 기대⋯성장세 지속\"",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2650095"
     },
     {
       "id": "https://www.ddaily.co.kr:443/page/view/2026111816024846371",
@@ -620,133 +680,73 @@
       "url": "https://www.ddaily.co.kr:443/page/view/2026111810031284206"
     },
     {
-      "id": "https://paherald.sk.ca/how-bell-is-building-ai-infrastructure-with-saskatchewan-communities-in-mind/",
-      "title": "How Bell is building AI infrastructure with Saskatchewan communities in mind - Prince Albert Daily Herald",
-      "source": "paherald.sk.ca",
+      "id": "http://www.theusnews.com/news/279441744/mavlers-agency-places-demand-generation-at-the-center-of-strategy-as-ai-changes-buyer-research",
+      "title": "Mavlers Agency Places Demand Generation at the Center of Strategy as AI Changes Buyer Research",
+      "source": "theusnews.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "http://www.theusnews.com/news/279441744/mavlers-agency-places-demand-generation-at-the-center-of-strategy-as-ai-changes-buyer-research"
+    },
+    {
+      "id": "https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482/",
+      "title": "Christopher Nolan and Guillermo del Toro Break Down ‘The Odyssey’ Monsters and AI’s Limitations with Production VFX Supervisor Andrew Jackson",
+      "source": "indiewire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482/"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2650131",
+      "title": "\"배터리 화재 사흘 전 경고\"…삼성SDI, ESS에 AI 안전기술 탑재",
+      "source": "etoday.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:17:00Z",
+      "publishedAt": "2026-11-19T00:17:00Z",
+      "summary": "",
+      "url": "https://www.etoday.co.kr/news/view/2650131"
+    },
+    {
+      "id": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable' | TechCrunch",
+      "source": "techcrunch.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-19",
+      "dateRaw": "2026-11-19T00:16:00Z",
+      "publishedAt": "2026-11-19T00:16:00Z",
+      "summary": "",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    },
+    {
+      "id": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/",
+      "title": "Hive Launches AI Assistants to Help Venues and Promoters Sell More Tickets",
+      "source": "hypebot.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-18",
       "dateRaw": "2026-11-18T18:02:00Z",
       "publishedAt": "2026-11-18T18:02:00Z",
       "summary": "",
-      "url": "https://paherald.sk.ca/how-bell-is-building-ai-infrastructure-with-saskatchewan-communities-in-mind/"
-    },
-    {
-      "id": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/si-e-presentato-ai-carabinieri-presunto-investitore-donna-morta-in-umbria_1b8e2261-b471-4f7e-a5d8-106b850c9894.html",
-      "title": "Si è presentato ai carabinieri presunto investitore donna morta in Umbria - Notizie - Ansa.it",
-      "source": "ansa.it",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T18:02:00Z",
-      "publishedAt": "2026-11-18T18:02:00Z",
-      "summary": "",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/si-e-presentato-ai-carabinieri-presunto-investitore-donna-morta-in-umbria_1b8e2261-b471-4f7e-a5d8-106b850c9894.html"
-    },
-    {
-      "id": "https://aninews.in/news/business/iit-kanpur-and-bharat1ai-launch-ai-kavach-indias-first-ai-cybersecurity-lab-for-the-financial-sector20261118133459/",
-      "title": "IIT Kanpur and Bharat1.ai Launch AI Kavach, India's First AI Cybersecurity Lab for the Financial Sector",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T09:02:00Z",
-      "publishedAt": "2026-11-18T09:02:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/business/iit-kanpur-and-bharat1ai-launch-ai-kavach-indias-first-ai-cybersecurity-lab-for-the-financial-sector20261118133459/"
-    },
-    {
-      "id": "https://english.news.cn/20261118/e607c091f13b4be19f798e1a33f17d94/c.html",
-      "title": "Singapore launches AI initiatives to strengthen financial sector",
-      "source": "english.news.cn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T09:02:00Z",
-      "publishedAt": "2026-11-18T09:02:00Z",
-      "summary": "",
-      "url": "https://english.news.cn/20261118/e607c091f13b4be19f798e1a33f17d94/c.html"
-    },
-    {
-      "id": "https://www.investegate.co.uk/announcement/rns/sthree--stem/sthree-to-unveil-human-led-ai-operating-system/9880592",
-      "title": "SThree to unveil human-led AI operating system | Company Announcement | Investegate",
-      "source": "investegate.co.uk",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T09:02:00Z",
-      "publishedAt": "2026-11-18T09:02:00Z",
-      "summary": "",
-      "url": "https://www.investegate.co.uk/announcement/rns/sthree--stem/sthree-to-unveil-human-led-ai-operating-system/9880592"
-    },
-    {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026111816294526614",
-      "title": "HBM만으론 부족…AI 메모리 계층화 경쟁 본격화 [반도체레이다]",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T09:01:00Z",
-      "publishedAt": "2026-11-18T09:01:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026111816294526614"
-    },
-    {
-      "id": "https://www.ddaily.co.kr:443/page/view/2026111809380045012",
-      "title": "KT, 서울대병원서 AI 로봇 실증…어린이 환자 돌봄 돕는다",
-      "source": "ddaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T01:32:00Z",
-      "publishedAt": "2026-11-18T01:32:00Z",
-      "summary": "",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026111809380045012"
-    },
-    {
-      "id": "https://www.5rm.com.au/trending/stories/bunnings-axes-350-jobs-retail-giant-shifts-major-operations-overseas/",
-      "title": "The announcement comes as Bunnings continues investing in artificial intelligence and new technology.",
-      "source": "5rm.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T01:31:00Z",
-      "publishedAt": "2026-11-18T01:31:00Z",
-      "summary": "",
-      "url": "https://www.5rm.com.au/trending/stories/bunnings-axes-350-jobs-retail-giant-shifts-major-operations-overseas/"
-    },
-    {
-      "id": "https://www.krtv.com/business/company-news/apple-launches-health-ai-study-with-app-that-answers-medical-questions",
-      "title": "Apple launches health AI study with app that answers medical questions",
-      "source": "krtv.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-18",
-      "dateRaw": "2026-11-18T01:31:00Z",
-      "publishedAt": "2026-11-18T01:31:00Z",
-      "summary": "",
-      "url": "https://www.krtv.com/business/company-news/apple-launches-health-ai-study-with-app-that-answers-medical-questions"
-    },
-    {
-      "id": "https://americanbazaaronline.com/2026/11/17/google-warns-hackers-are-using-ai-agents-to-launch-cyberattacks-at-machine-speed/",
-      "title": "Google warns hackers are using AI agents to launch cyberattacks at machine speed",
-      "source": "americanbazaaronline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-17",
-      "dateRaw": "2026-11-17T19:17:00Z",
-      "publishedAt": "2026-11-17T19:17:00Z",
-      "summary": "",
-      "url": "https://americanbazaaronline.com/2026/11/17/google-warns-hackers-are-using-ai-agents-to-launch-cyberattacks-at-machine-speed/"
+      "url": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 391,
-    "fetchedItems": 5732,
-    "relevantItems": 116,
-    "feedBytes": 1650585,
+    "poolSize": 427,
+    "fetchedItems": 3940,
+    "relevantItems": 211,
+    "feedBytes": 1067134,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
