@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 19. 오후 04:50:30",
+  "updatedAt": "2026. 11. 20. 오전 02:05:19",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -86,30 +86,6 @@
           "url": "https://www.radioseoul1650.com/interview/%EB%A1%9C%EB%B9%88-%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90-%ED%8D%BC%EC%8B%9C%ED%94%BD-%EB%B2%95%EA%B3%BC-%EB%8C%80%ED%95%99-international-pacific-university-%EA%B0%80%EC%A0%95%EB%B2%95"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/property/1287558.html",
-          "title": "서울 평균 전셋값 5억원 돌파…집값 상승폭은 석 달째 둔화",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-16",
-          "dateRaw": "2026-11-16T08:17:00Z",
-          "publishedAt": "2026-11-16T08:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/property/1287558.html"
-        },
-        {
-          "id": "http://www.ihalla.com/article.php?aid=1794798982792830014",
-          "title": "입학준비금 재검토 요구에 고의숙 \"차별 없는 교육 복지\"",
-          "source": "ihalla.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-16",
-          "dateRaw": "2026-11-16T08:17:00Z",
-          "publishedAt": "2026-11-16T08:17:00Z",
-          "summary": "",
-          "url": "http://www.ihalla.com/article.php?aid=1794798982792830014"
-        },
-        {
           "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231337",
           "title": "서강대 편입시험서도 'AI커닝' 의혹…대학 측 \"조사 예정\"",
           "source": "mbn.co.kr",
@@ -134,6 +110,30 @@
           "publishedAt": "2026-11-17T02:01:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10939532"
+        },
+        {
+          "id": "http://www.ihalla.com/article.php?aid=1795093200793022042",
+          "title": "동백마을 농촌특화교육프로그램 운영",
+          "source": "ihalla.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T17:01:00Z",
+          "publishedAt": "2026-11-19T17:01:00Z",
+          "summary": "",
+          "url": "http://www.ihalla.com/article.php?aid=1795093200793022042"
+        },
+        {
+          "id": "https://www.huffingtonpost.kr:443/article/262221",
+          "title": "가뭄에 물 긷고 홍수에 아이 돌보고 : 남태평양 섬나라 투발루 총리가 기후총회에서 '돌봄노동'을 꺼낸 이유",
+          "source": "huffingtonpost.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T07:47:00Z",
+          "publishedAt": "2026-11-19T07:47:00Z",
+          "summary": "",
+          "url": "https://www.huffingtonpost.kr:443/article/262221"
         }
       ],
       "keywords": [
@@ -143,15 +143,19 @@
         },
         {
           "word": "주거",
-          "count": 4
-        },
-        {
-          "word": "복지",
           "count": 3
         },
         {
           "word": "청년",
           "count": 3
+        },
+        {
+          "word": "복지",
+          "count": 2
+        },
+        {
+          "word": "돌봄",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -189,16 +193,18 @@
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261119162858",
-          "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+          "id": "https://zdnet.co.kr/view/?no=20261119182405",
+          "title": "배터리 넘어 폐배터리까지…유럽 공급망 빈틈 파고드는 중국",
           "source": "zdnet.co.kr",
           "language": "Korean",
-          "sourceCountry": "",
+          "sourceCountry": "KR",
           "date": "2026-11-19",
-          "dateRaw": "2026-11-19T07:47:00Z",
-          "publishedAt": "2026-11-19T07:47:00Z",
+          "dateRaw": "2026-11-19T09:24:05Z",
+          "publishedAt": "2026-11-19T09:24:05Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261119162858"
+          "url": "https://zdnet.co.kr/view/?no=20261119182405",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=03388246645647360&mediaCodeNo=257",
@@ -213,18 +219,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03388246645647360&mediaCodeNo=257"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/marketing/1287567.html",
-          "title": "‘롯데 3세’ 신유열, 입사 6년 만에 사장 승진…그룹 경영전략 총괄",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-16",
-          "dateRaw": "2026-11-16T08:17:00Z",
-          "publishedAt": "2026-11-16T08:17:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1287567.html"
-        },
-        {
           "id": "https://www.etoday.co.kr/news/view/2650203",
           "title": "금감원, 퇴직연금 고금리 유치 경쟁에 제동⋯불건전 영업 점검",
           "source": "etoday.co.kr",
@@ -235,6 +229,20 @@
           "publishedAt": "2026-11-19T07:47:00Z",
           "summary": "",
           "url": "https://www.etoday.co.kr/news/view/2650203"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231854",
+          "title": "평택 넘어 용인·광주까지…미래 투자로 \"K-반도체 위상 이어간다\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T09:41:00Z",
+          "publishedAt": "2026-11-19T09:41:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231854",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://www.newsway.co.kr/news/view?ud=2026111915175746707",
@@ -273,28 +281,26 @@
           "url": "https://biz.heraldcorp.com/article/10941730"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231633",
-          "title": "관세사·감정평가사도? 국가공인시험 전방위 부정 의혹 확산",
-          "source": "mbn.co.kr",
+          "id": "https://www.ddaily.co.kr:443/page/view/2026111809151525866",
+          "title": "한국타이어, 천연고무 공급망 관리 성과 인정…美 환경 리더십 어워드 수상",
+          "source": "ddaily.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
+          "sourceCountry": "",
           "date": "2026-11-18",
-          "dateRaw": "2026-11-18T08:55:00Z",
-          "publishedAt": "2026-11-18T08:55:00Z",
+          "dateRaw": "2026-11-18T01:31:00Z",
+          "publishedAt": "2026-11-18T01:31:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231633",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "url": "https://www.ddaily.co.kr:443/page/view/2026111809151525866"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 7
         },
         {
           "word": "공급망",
-          "count": 1
+          "count": 3
         },
         {
           "word": "금리",
@@ -475,6 +481,30 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.wsbtv.com/news/local/atlanta/university-system-georgia-reports-record-enrollment-4th-year-systemwide-growth/MURKJR6WIFBMRPZFQZSQ5ITZMU/",
+          "title": "University System of Georgia reports record enrollment, 4th year of systemwide growth",
+          "source": "wsbtv.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T17:02:00Z",
+          "publishedAt": "2026-11-19T17:02:00Z",
+          "summary": "",
+          "url": "https://www.wsbtv.com/news/local/atlanta/university-system-georgia-reports-record-enrollment-4th-year-systemwide-growth/MURKJR6WIFBMRPZFQZSQ5ITZMU/"
+        },
+        {
+          "id": "https://www.wdtv.com/2026/11/19/increased-law-enforcement-university-high-school-following-report-potential-threats/",
+          "title": "Increased law enforcement at University High School following report of ‘potential threats’",
+          "source": "wdtv.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T17:02:00Z",
+          "publishedAt": "2026-11-19T17:02:00Z",
+          "summary": "",
+          "url": "https://www.wdtv.com/2026/11/19/increased-law-enforcement-university-high-school-following-report-potential-threats/"
+        },
+        {
           "id": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/",
           "title": "SEL and ECG Training School Host International Technical Exchange Seminar for Engineers - Tanzania News Reports",
           "source": "tanzanianewsreports.com",
@@ -569,47 +599,19 @@
           "publishedAt": "2026-11-17T02:01:00Z",
           "summary": "",
           "url": "https://westchester.news12.com/no-explosives-found-after-bomb-threat-reported-at-green-meadow-waldorf-school"
-        },
-        {
-          "id": "https://www.1011now.com/2026/11/17/prisoners-lie-nebraska-senator-questions-report-abuse-allegations-youth-treatment-facility/",
-          "title": "‘Prisoners lie’: Nebraska senator questions report on abuse allegations at youth treatment facility",
-          "source": "1011now.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T02:01:00Z",
-          "publishedAt": "2026-11-17T02:01:00Z",
-          "summary": "",
-          "url": "https://www.1011now.com/2026/11/17/prisoners-lie-nebraska-senator-questions-report-abuse-allegations-youth-treatment-facility/"
-        },
-        {
-          "id": "https://www.gazetteandherald.co.uk/news/26739833.swindon-artist-shares-story-new-chippenham-show/",
-          "title": "Artist turns chronic illness and mental health struggles into new exhibition",
-          "source": "gazetteandherald.co.uk",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T07:47:00Z",
-          "publishedAt": "2026-11-19T07:47:00Z",
-          "summary": "",
-          "url": "https://www.gazetteandherald.co.uk/news/26739833.swindon-artist-shares-story-new-chippenham-show/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 5
-        },
-        {
-          "word": "청년",
-          "count": 2
+          "count": 8
         },
         {
           "word": "이민",
           "count": 1
         },
         {
-          "word": "정신건강",
+          "word": "청년",
           "count": 1
         }
       ],
@@ -654,6 +656,18 @@
           "publishedAt": "2026-11-19T07:47:00Z",
           "summary": "",
           "url": "https://www.cityam.com/bailey-hints-at-higher-interest-rates-amid-firming-in-the-labour-market/"
+        },
+        {
+          "id": "https://www.knoe.com/2026/11/19/grow-nela-shares-growth-investment-updates/",
+          "title": "Grow NELA shares growth, investment updates",
+          "source": "knoe.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T17:02:00Z",
+          "publishedAt": "2026-11-19T17:02:00Z",
+          "summary": "",
+          "url": "https://www.knoe.com/2026/11/19/grow-nela-shares-growth-investment-updates/"
         },
         {
           "id": "https://www.edaily.co.kr/News/Read?newsId=01853206645647360&mediaCodeNo=257",
@@ -726,18 +740,6 @@
           "publishedAt": "2026-11-18T01:31:00Z",
           "summary": "",
           "url": "https://seekingalpha.com/news/4673972-nvidia-projects-75-percent-fiscal-2028-revenue-growth-amid-leadership-transition"
-        },
-        {
-          "id": "https://www.macrobusiness.com.au/2026/11/australia-faces-20-plus-years-of-lost-wage-growth/",
-          "title": "Australia faces 20-plus years of lost wage growth",
-          "source": "macrobusiness.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T01:31:00Z",
-          "publishedAt": "2026-11-18T01:31:00Z",
-          "summary": "",
-          "url": "https://www.macrobusiness.com.au/2026/11/australia-faces-20-plus-years-of-lost-wage-growth/"
         }
       ],
       "keywords": [
@@ -747,7 +749,7 @@
         },
         {
           "word": "투자",
-          "count": 3
+          "count": 4
         },
         {
           "word": "고용",
@@ -861,6 +863,18 @@
           "url": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba"
         },
         {
+          "id": "https://www.moneycontrol.com/world/how-are-banned-nvidia-chips-reaching-china-report-finds-purchases-by-six-us-blacklisted-universities-article-14085153.html",
+          "title": "How are banned Nvidia chips reaching China? Report finds purchases by six US-blacklisted universities- Moneycontrol.com",
+          "source": "moneycontrol.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T17:01:00Z",
+          "publishedAt": "2026-11-19T17:01:00Z",
+          "summary": "",
+          "url": "https://www.moneycontrol.com/world/how-are-banned-nvidia-chips-reaching-china-report-finds-purchases-by-six-us-blacklisted-universities-article-14085153.html"
+        },
+        {
           "id": "http://www.nigeriasun.com/news/279442390/india-should-lift-fdi-ban-on-tobacco-manufacturing-review-licensing-restrictions-while-ensuring-safeguards-for-farmers-public-health-india-foundation-report",
           "title": "India should lift FDI ban on tobacco manufacturing, review licensing restrictions, while ensuring safeguards for farmers, public health: India Foundation report",
           "source": "nigeriasun.com",
@@ -883,24 +897,12 @@
           "publishedAt": "2026-11-19T07:47:00Z",
           "summary": "",
           "url": "http://www.indiagazette.com/news/279442382/india-needs-china-strategy-for-battery-transition-should-combine-imports-with-domestic-manufacturing-expert"
-        },
-        {
-          "id": "https://www.moneycontrol.com/news/trends/anthropic-researcher-claims-all-humans-will-become-permanently-unemployable-due-to-ai-14084267.html",
-          "title": "Anthropic researcher claims all humans 'will become permanently unemployable' due to AI- Moneycontrol.com",
-          "source": "moneycontrol.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T07:47:00Z",
-          "publishedAt": "2026-11-19T07:47:00Z",
-          "summary": "",
-          "url": "https://www.moneycontrol.com/news/trends/anthropic-researcher-claims-all-humans-will-become-permanently-unemployable-due-to-ai-14084267.html"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 8
+          "count": 7
         },
         {
           "word": "제조",
@@ -926,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1511,
-    "fetchedItems": 5299,
-    "feedBytes": 1501557,
+    "poolSize": 1584,
+    "fetchedItems": 6358,
+    "feedBytes": 1806986,
     "rollingWindowHours": 72
   }
 }
