@@ -6,7 +6,7 @@
       "planDay": "2026-11-19",
       "planSetId": "zps-20261119-78e74778",
       "generatedAt": "2026-11-18T23:43:58.037Z",
-      "publishedAt": "2026-11-19T00:10:05.593Z",
+      "publishedAt": "2026-11-19T00:18:07.761Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -226,7 +226,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 1
+          "rank": 1,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-11-19T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "film",
+              "label": "필름형",
+              "tone": "감성 매거진형",
+              "flow": [
+                "감성 문장",
+                "장면",
+                "감정",
+                "관점 전환",
+                "수용",
+                "여운"
+              ]
+            },
+            "bookTitle": "우주탐사선 보이저1호의 1광일 돌파 의미",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "감성 문장",
+                "headline": "1광일을 돌파한 순간, 우주 탐사의 새로운 지평을 만나보라.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "010",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "장면",
+                "headline": "그리고 이를 통해 미래 탐사 기술이 어떻게 발전할지 알고 싶어한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "014",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "감정",
+                "headline": "돌파한 과학적 의미와 향후 우주 탐사에 미치는 영향을 쉽게 풀어낸 책.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "029",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "관점 전환",
+                "headline": "소식이 전해졌고, 이는 우주 탐사의 새로운 전환점이 되기 때문이다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "012",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "수용",
+                "headline": "비유와 시각 자료로 구체화해 독자가 직접 체감하도록 구성했습니다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "032",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "여운",
+                "headline": "시간 개념을 추상적으로만 제시하면 독자가 이해하지 못할 위험이 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "048",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-b01ec14c"
+          }
         },
         {
           "type": "AI",
@@ -405,7 +510,112 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 2
+          "rank": 2,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-11-19T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "heist",
+              "label": "하이스트형",
+              "tone": "직설·후킹형",
+              "flow": [
+                "강한 선언",
+                "공감",
+                "구체적 증상",
+                "판단 기준",
+                "해결",
+                "강한 결론"
+              ]
+            },
+            "bookTitle": "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "강한 선언",
+                "headline": "AI 도구로 라이선싱을 혁신하고 업무 효율을 높이라.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "009",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "warning",
+                "beat": "공감",
+                "headline": "플랫폼을 통해 확보와 계약 과정을 빠르고 정확하게 진행하고 싶어한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "023",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "warning",
+                "beat": "구체적 증상",
+                "headline": "라이선싱 플랫폼을 활용해 확보와 계약 관리를 효율화하는 실무 매뉴얼.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "030",
+                "sceneCategory": "warning",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "판단 기준",
+                "headline": "출판 현장에서 급부상했으며, N15 뉴스가 이를 강조하고 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "019",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "해결",
+                "headline": "실전 체크리스트를 제공해 바로 적용 가능한 도구로 설계했습니다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "037",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "강한 결론",
+                "headline": "AI 플랫폼 사용법을 추상적으로만 설명하면 현장 적용이 어려워집니다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "047",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-b01ec14c"
+          }
         },
         {
           "type": "AI",
@@ -584,9 +794,121 @@
             "ok": true,
             "policy": "v2.15.118-grounded-producer-consumer-parity"
           },
-          "rank": 3
+          "rank": 3,
+          "cardnews": {
+            "version": "v2.15.24-cardnews-3styles",
+            "status": "ready",
+            "generatedAt": "2026-11-19T00:18:00.003Z",
+            "character": "id-master-library",
+            "characterAsset": "",
+            "palette": [
+              "black",
+              "ivory",
+              "vermilion-red",
+              "mustard-yellow",
+              "white"
+            ],
+            "cardCount": 6,
+            "style": {
+              "key": "forest",
+              "label": "포레스트형",
+              "tone": "지식·통찰 교양형",
+              "flow": [
+                "궁금증",
+                "현상",
+                "원리",
+                "설명",
+                "통찰",
+                "핵심 메시지"
+              ]
+            },
+            "bookTitle": "AI 부정행위 파문을 피하는 방법",
+            "provider": "deterministic-local",
+            "aiCards": 0,
+            "fallback": true,
+            "fallbackReason": "deadline-guarantee-no-ai",
+            "cards": [
+              {
+                "index": 1,
+                "role": "cover",
+                "beat": "궁금증",
+                "headline": "AI 부정행위 파문을 미리 차단하고 안심하고 수능을 준비하라.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "002",
+                "sceneCategory": "cover",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 2,
+                "role": "analysis",
+                "beat": "현상",
+                "headline": "위험을 미리 인지하고, 안전하게 시험 준비를 진행하고 싶어한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "017",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 3,
+                "role": "analysis",
+                "beat": "원리",
+                "headline": "위험을 사전에 차단하고 시험 준비에 집중할 수 있게 돕는 실전 매뉴얼.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "018",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 4,
+                "role": "analysis",
+                "beat": "설명",
+                "headline": "파문이 수능 준비에 미치는 영향을 보도했으며, 대비책이 시급한다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "019",
+                "sceneCategory": "analysis",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 5,
+                "role": "fix",
+                "beat": "통찰",
+                "headline": "성과 기록표 등 실전 도구를 제공해 직접 적용하도록 설계했습니다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "039",
+                "sceneCategory": "fix",
+                "source": "rule-fallback"
+              },
+              {
+                "index": 6,
+                "role": "final",
+                "beat": "핵심 메시지",
+                "headline": "AI 부정행위 위험을 과장하면 독자 신뢰를 잃을 위험이 있다.",
+                "body": "",
+                "accent": "yellow",
+                "sceneId": "049",
+                "sceneCategory": "final",
+                "source": "rule-fallback"
+              }
+            ],
+            "deadlineGuaranteed": true,
+            "qualityTier": "continuity",
+            "upgradePending": true,
+            "sourceRevision": "zcr-b01ec14c"
+          }
         }
-      ]
+      ],
+      "cardnewsAutomation": {
+        "status": "ok",
+        "version": "v2.15.24-cardnews-3styles",
+        "planSetId": "zps-20261119-78e74778",
+        "file": "cardnews/2026-11-19.json",
+        "cardCount": 6
+      }
     },
     {
       "date": "2026-11-09",
