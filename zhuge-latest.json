@@ -3,7 +3,7 @@
   "planDay": "2026-11-19",
   "planSetId": "zps-20261119-78e74778",
   "generatedAt": "2026-11-18T23:43:58.037Z",
-  "publishedAt": "2026-11-19T00:19:17.010Z",
+  "publishedAt": "2026-11-19T00:19:28.853Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -227,7 +227,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-19T00:18:00.003Z",
+        "generatedAt": "2026-11-19T00:19:04.616Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -252,81 +252,78 @@
           ]
         },
         "bookTitle": "우주탐사선 보이저1호의 1광일 돌파 의미",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "감성 문장",
-            "headline": "1광일을 돌파한 순간, 우주 탐사의 새로운 지평을 만나보라.",
+            "headline": "우주가 우리에게 속삭이는 거리,\n1광일",
             "body": "",
             "accent": "yellow",
             "sceneId": "010",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "장면",
-            "headline": "그리고 이를 통해 미래 탐사 기술이 어떻게 발전할지 알고 싶어한다.",
+            "headline": "밤하늘을 바라보며 망원경을 돌린다",
             "body": "",
             "accent": "yellow",
             "sceneId": "014",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "감정",
-            "headline": "돌파한 과학적 의미와 향후 우주 탐사에 미치는 영향을 쉽게 풀어낸 책.",
+            "headline": "작은 별빛에 내 존재가 흔들린다",
             "body": "",
             "accent": "yellow",
             "sceneId": "029",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "관점 전환",
-            "headline": "소식이 전해졌고, 이는 우주 탐사의 새로운 전환점이 되기 때문이다.",
+            "headline": "하지만 그 거리엔 인간의 미래가 담겨 있다",
             "body": "",
             "accent": "yellow",
             "sceneId": "012",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "수용",
-            "headline": "비유와 시각 자료로 구체화해 독자가 직접 체감하도록 구성했습니다.",
+            "headline": "우린 그 여정의 한 조각이 되었다",
             "body": "",
             "accent": "yellow",
             "sceneId": "032",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "여운",
-            "headline": "시간 개념을 추상적으로만 제시하면 독자가 이해하지 못할 위험이 있다.",
+            "headline": "우주의 한 걸음이 우리 삶의 새로운 지평이다",
             "body": "",
             "accent": "yellow",
             "sceneId": "048",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-b01ec14c"
       },
       "coverRefs": [
@@ -824,7 +821,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-19T00:18:00.003Z",
+        "generatedAt": "2026-11-19T00:18:43.535Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -849,10 +846,10 @@
           ]
         },
         "bookTitle": "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -921,9 +918,6 @@
             "source": "rule-fallback"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-b01ec14c"
       },
       "coverRefs": [
@@ -1421,7 +1415,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-19T00:18:00.003Z",
+        "generatedAt": "2026-11-19T00:18:43.535Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1446,10 +1440,10 @@
           ]
         },
         "bookTitle": "AI 부정행위 파문을 피하는 방법",
-        "provider": "deterministic-local",
+        "provider": "rule-fallback",
         "aiCards": 0,
         "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "fallbackReason": "no-ai-copy",
         "cards": [
           {
             "index": 1,
@@ -1518,9 +1512,6 @@
             "source": "rule-fallback"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-b01ec14c"
       },
       "coverRefs": [
