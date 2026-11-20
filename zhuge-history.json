@@ -6,7 +6,7 @@
       "planDay": "2026-11-20",
       "planSetId": "zps-20261120-af6e3ee1",
       "generatedAt": "2026-11-19T23:44:41.893Z",
-      "publishedAt": "2026-11-20T01:01:18.657Z",
+      "publishedAt": "2026-11-20T01:02:16.916Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -237,7 +237,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-20T00:25:56.563Z",
+            "generatedAt": "2026-11-20T01:02:07.394Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -262,43 +262,43 @@
               ]
             },
             "bookTitle": "반도체 호황 속 수출 전략을 재정비하라",
-            "provider": "rule-fallback",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "no-ai-copy",
+            "provider": "gemini",
+            "aiCards": 5,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "궁금증",
-                "headline": "착시 속에서 공장 증설 도장을 찍기 전 반드시 열어봐야 할 계산서.",
+                "headline": "수주가 넘치는데\n공장을 늘리면\n망하는 진짜 이유",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "007",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "현상",
-                "headline": "방어해야 할지 투자 손익분기점을 객관적으로 계산할 기준이 필요하다.",
-                "body": "",
+                "headline": "주문서가 쌓이면\n기계부터 더 들여놓고\n야간 조를 늘린다",
+                "body": "지금 못 찍어내면 기회를 잃는다는 불안 때문이다.",
                 "accent": "yellow",
                 "sceneId": "019",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "analysis",
                 "beat": "원리",
-                "headline": "증설 위험 없이 목표 시장을 재조정하는 설비 투자 시뮬레이션 실무서.",
-                "body": "",
+                "headline": "호황의 끝은\n납품 대금이 아니라\n고정비로 먼저 온다",
+                "body": "경기가 꺾이는 순간 증설한 설비는 빚이 된다.",
                 "accent": "yellow",
                 "sceneId": "020",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
@@ -309,29 +309,29 @@
                 "accent": "yellow",
                 "sceneId": "011",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "rule-repair"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "통찰",
-                "headline": "손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공한다.",
-                "body": "",
+                "headline": "제조업의 성패는\n생산량 크기가 아니라\n다운사이클 버티기다",
+                "body": "수주 잔고를 믿지 말고 하락 국면을 계산하라.",
                 "accent": "yellow",
                 "sceneId": "037",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "핵심 메시지",
-                "headline": "공장의 발주 결정에 즉각 적용하지 못하고 책장을 덮을 위험이 있다.",
+                "headline": "호황기에 맺은 설비 계약이\n불황기 회사의 명줄을 쥔다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "041",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
             "sourceRevision": "zcr-da03200b"
