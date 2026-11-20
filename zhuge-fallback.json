@@ -3,7 +3,7 @@
   "planDay": "2026-11-20",
   "planSetId": "zps-20261120-af6e3ee1",
   "generatedAt": "2026-11-19T23:44:41.893Z",
-  "publishedAt": "2026-11-20T00:10:03.027Z",
+  "publishedAt": "2026-11-20T00:18:04.975Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -230,7 +230,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-20T00:18:00.005Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "반도체 호황 속 수출 전략을 재정비하라",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "착시 속에서 공장 증설 도장을 찍기 전 반드시 열어봐야 할 계산서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "007",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "방어해야 할지 투자 손익분기점을 객관적으로 계산할 기준이 필요하다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "019",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "증설 위험 없이 목표 시장을 재조정하는 설비 투자 시뮬레이션 실무서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "라인을 증설했다가 다운사이클에 직면할 위험이 매우 높기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "037",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "공장의 발주 결정에 즉각 적용하지 못하고 책장을 덮을 위험이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "041",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-da03200b"
+      }
     },
     {
       "type": "마케팅",
@@ -409,7 +514,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-20T00:18:00.005Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "검색 최적화에만 쏟아부은 AI 예산, 이제 결제 전환율로 회수하라",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "007",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "광고비 대비 매출액(ROAS)을 끌어올릴지 검증된 로드맵을 원한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "027",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "마케팅 퍼널에 AI를 배치하고 채널별 ROI를 입증하는 실무 지침서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "재율을 개선하지 못해 실질적인 매출 증명에 실패하고 있기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "015",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "도입 실패를 막는 14일 파일럿 테스트 양식을 수록한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "035",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "UI 개편이나 서비스 종료 시 책의 유효성이 급격히 떨어질 수 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "043",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-da03200b"
+      }
     },
     {
       "type": "법률",
@@ -588,8 +798,120 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-20T00:18:00.005Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "미국 저작권 등록비 인상, 중소 출판사의 생존 전략",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "미국 저작권 등록비, 합법적인 묶음 등록으로 비용을 절반으로 줄여라.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "002",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "신청해야 비용을 절반 이하로 줄일 수 있는지 실행 절차가 절실한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "017",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "도구를 통해 최소 비용으로 글로벌 지식재산권을 방어하는 실무 전략서.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "026",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "비용 폭탄을 맞고 권리 등록을 포기하는 위기에 직면했기 때문이다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "015",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "'실제 등록 화면 작성 요령과 수수료 절약법'이 가려질 위험이 있다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "047",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-da03200b"
+      }
     }
   ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261120-af6e3ee1",
+    "file": "cardnews/2026-11-20.json",
+    "cardCount": 6
+  },
   "fallback": true
 }
