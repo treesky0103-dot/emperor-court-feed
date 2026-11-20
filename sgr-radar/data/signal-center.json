@@ -1,12 +1,40 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 20. 오후 01:16:07",
+  "updatedAt": "2026. 11. 20. 오후 10:10:02",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.etnews.com/20261120000314",
+          "title": "다시 열린 대학원 진학의 문...태재대, 청년인재 수업료 50% 장학 지원",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T08:24:43Z",
+          "publishedAt": "2026-11-20T08:24:43Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261120000314",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261120163843",
+          "title": "시니어 돌봄 '케어링', 개인정보 유출…어르신 건강정보까지 샜다",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T07:48:39Z",
+          "publishedAt": "2026-11-20T07:48:39Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261120163843",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
         {
           "id": "https://www.mk.co.kr/news/society/12213398",
           "title": "경상북도개발공사,‘제9회 대한민국 주거복지문화대상’ 대상 수상",
@@ -20,34 +48,6 @@
           "url": "https://www.mk.co.kr/news/society/12213398",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261118204216",
-          "title": "대한변리사회-청년창업사관학교, 기술 기반 청년 창업기업 지식재산 보호 맞손",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T11:42:16Z",
-          "publishedAt": "2026-11-18T11:42:16Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261118204216",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261119000284",
-          "title": "[AIx소프트웨이브 2026] 넥스트비즈, AI 에이전트 기반 AX 플랫폼 '올리사이트'로 공공·교육시장 공략",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T05:18:37Z",
-          "publishedAt": "2026-11-19T05:18:37Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261119000284",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/20/KGBOSDMUDNCRBEKEDZHPLWHLZY/",
@@ -86,28 +86,16 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645647360&mediaCodeNo=257"
         },
         {
-          "id": "https://www.radioseoul1650.com/interview/%EB%A1%9C%EB%B9%88-%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90-%ED%8D%BC%EC%8B%9C%ED%94%BD-%EB%B2%95%EA%B3%BC-%EB%8C%80%ED%95%99-international-pacific-university-%EA%B0%80%EC%A0%95%EB%B2%95",
-          "title": "인터내셔널 퍼시픽 법과 대학, INTERNATIONAL PACIFIC UNIVERSITY",
-          "source": "radioseoul1650.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T10:32:00Z",
-          "publishedAt": "2026-11-17T10:32:00Z",
-          "summary": "",
-          "url": "https://www.radioseoul1650.com/interview/%EB%A1%9C%EB%B9%88-%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90-%ED%8D%BC%EC%8B%9C%ED%94%BD-%EB%B2%95%EA%B3%BC-%EB%8C%80%ED%95%99-international-pacific-university-%EA%B0%80%EC%A0%95%EB%B2%95"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231337",
-          "title": "서강대 편입시험서도 'AI커닝' 의혹…대학 측 \"조사 예정\"",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232101",
+          "title": "가운에 앞치마까지…대학들도 부랴부랴",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T07:20:00Z",
-          "publishedAt": "2026-11-17T07:20:00Z",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T09:36:00Z",
+          "publishedAt": "2026-11-20T09:36:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231337",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232101",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -134,23 +122,39 @@
           "publishedAt": "2026-11-19T17:01:00Z",
           "summary": "",
           "url": "http://www.ihalla.com/article.php?aid=1795093200793022042"
+        },
+        {
+          "id": "https://www.huffingtonpost.kr:443/article/262221",
+          "title": "가뭄에 물 긷고 홍수에 아이 돌보고 : 남태평양 섬나라 투발루 총리가 기후총회에서 '돌봄노동'을 꺼낸 이유",
+          "source": "huffingtonpost.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T07:47:00Z",
+          "publishedAt": "2026-11-19T07:47:00Z",
+          "summary": "",
+          "url": "https://www.huffingtonpost.kr:443/article/262221"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 4
         },
         {
           "word": "주거",
           "count": 4
         },
         {
-          "word": "청년",
-          "count": 3
+          "word": "돌봄",
+          "count": 2
         },
         {
           "word": "복지",
+          "count": 2
+        },
+        {
+          "word": "청년",
           "count": 2
         }
       ],
@@ -161,16 +165,30 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/business/12211400",
-          "title": "[단독] 희토류 공급망에 1조 투자…국민성장펀드 ‘핵심광물 1호’ 포스코인터",
+          "id": "https://www.mk.co.kr/news/economy/12214736",
+          "title": "“EU 탄소·통상 빗장 뚫어라”… 韓-EU, 공급망·투자 원팀 짠다",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T17:21:58Z",
-          "publishedAt": "2026-11-17T17:21:58Z",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T16:47:17Z",
+          "publishedAt": "2026-11-20T16:47:17Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12211400",
+          "url": "https://www.mk.co.kr/news/economy/12214736",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.etnews.com/20261120000173",
+          "title": "경기도의회 미래위, 행감 마무리…'미래산업 투자 실효성' 개선 주문",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T04:04:04Z",
+          "publishedAt": "2026-11-20T04:04:04Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261120000173",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -187,30 +205,16 @@
           "url": "https://biz.chosun.com/topics/law_firm/2026/11/20/BD3S3GY7IVH4LBFUYMCZ67OO4E/"
         },
         {
-          "id": "https://www.etnews.com/20261117000267",
-          "title": "중진공, '2026 대한민국 ESG 경영 혁신대상' 투자부문 최우수상 수상",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T05:04:03Z",
-          "publishedAt": "2026-11-17T05:04:03Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261117000267",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261120013247",
-          "title": "LG디스플레이, 10.5세대 대형 OLED 3조원 투자계획 철회",
+          "id": "https://zdnet.co.kr/view/?no=20261120171338",
+          "title": "영풍·MBK \"고려아연 5631억 투자 펀드 사적 유용\"vs\"자의적 해석\"",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T17:06:33Z",
-          "publishedAt": "2026-11-19T17:06:33Z",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T10:59:16Z",
+          "publishedAt": "2026-11-20T10:59:16Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261120013247",
+          "url": "https://zdnet.co.kr/view/?no=20261120171338",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -638,6 +642,18 @@
           "url": "https://www.cityam.com/bailey-hints-at-higher-interest-rates-amid-firming-in-the-labour-market/"
         },
         {
+          "id": "https://www.finanznachrichten.de/nachrichten-2026-11/70189907-blackrock-income-and-growth-investment-trust-plc-net-asset-value-s-008.htm",
+          "title": "BlackRock Income and Growth Investment Trust Plc - Net Asset Value(s)",
+          "source": "finanznachrichten.de",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T13:02:00Z",
+          "publishedAt": "2026-11-20T13:02:00Z",
+          "summary": "",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70189907-blackrock-income-and-growth-investment-trust-plc-net-asset-value-s-008.htm"
+        },
+        {
           "id": "http://www.japanherald.com/news/279443808/india-japan-to-boost-supply-chain-resilience-undersea-connectivity-amid-economic-coercion-concerns-back-each-other-unsc-bids",
           "title": "India, Japan to boost supply chain resilience, undersea connectivity amid economic coercion concerns; back each other's UNSC bids",
           "source": "japanherald.com",
@@ -710,42 +726,26 @@
           "url": "https://www.floydct.com/online_features/press_releases/world-platinum-investment-council-platinum-market-to-return-to-deficit-in-2027-with-a-279/article_e38be2df-ec45-5991-aac3-5eb6ff4440db.html"
         },
         {
-          "id": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
-          "title": "Anthropic was supposed to save the AI trade. What went wrong?",
-          "source": "cnbc.com",
+          "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms",
+          "title": "Bengaluru Tech Summit 2026: Nine Swedish firms showcase AI, advanced manufacturing at Bengaluru Tech Summit - The Economic Times",
+          "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T23:17:00Z",
-          "publishedAt": "2026-11-19T23:17:00Z",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T13:02:00Z",
+          "publishedAt": "2026-11-20T13:02:00Z",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html"
-        },
-        {
-          "id": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/",
-          "title": "美 국방부 ‘중국군 기업’ 경고에도… 美 상무부, 對中 칩 수출 87만9000개 승인",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T23:17:00Z",
-          "publishedAt": "2026-11-19T23:17:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/"
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 5
+          "count": 6
         },
         {
           "word": "성장",
-          "count": 3
-        },
-        {
-          "word": "무역",
-          "count": 2
+          "count": 4
         },
         {
           "word": "FDI",
@@ -764,7 +764,7 @@
           "count": 1
         },
         {
-          "word": "수출",
+          "word": "무역",
           "count": 1
         },
         {
@@ -779,40 +779,28 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.telugupeople.com/news/news.asp?newsId=109428",
-          "title": "AP Approves Major Investments in AI, Electronics and Manufacturing",
-          "source": "telugupeople.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T10:32:00Z",
-          "publishedAt": "2026-11-17T10:32:00Z",
-          "summary": "",
-          "url": "https://www.telugupeople.com/news/news.asp?newsId=109428"
-        },
-        {
-          "id": "https://primamedia.ru/news/2684731/",
-          "title": "AI and advanced manufacturing offer top investment opportunities in China - PrimaMedia.ru",
-          "source": "primamedia.ru",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T10:31:00Z",
-          "publishedAt": "2026-11-17T10:31:00Z",
-          "summary": "",
-          "url": "https://primamedia.ru/news/2684731/"
-        },
-        {
-          "id": "https://www.wjcl.com/article/senate-permitting-bill-data-centers-pay-energy-costs/74484453",
-          "title": "Senate backs bill to speed up permitting reviews, force data centers to pay for energy costs",
-          "source": "wjcl.com",
+          "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms",
+          "title": "Bengaluru Tech Summit 2026: Nine Swedish firms showcase AI, advanced manufacturing at Bengaluru Tech Summit - The Economic Times",
+          "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-20",
-          "dateRaw": "2026-11-20T04:02:00Z",
-          "publishedAt": "2026-11-20T04:02:00Z",
+          "dateRaw": "2026-11-20T13:02:00Z",
+          "publishedAt": "2026-11-20T13:02:00Z",
           "summary": "",
-          "url": "https://www.wjcl.com/article/senate-permitting-bill-data-centers-pay-energy-costs/74484453"
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms"
+        },
+        {
+          "id": "https://www.twincities.com/2026/11/20/senate-bill-energy-permitting-reviews/",
+          "title": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs",
+          "source": "twincities.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T13:01:00Z",
+          "publishedAt": "2026-11-20T13:01:00Z",
+          "summary": "",
+          "url": "https://www.twincities.com/2026/11/20/senate-bill-energy-permitting-reviews/"
         },
         {
           "id": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
@@ -875,16 +863,16 @@
           "url": "https://bravenewcoin.com/insights/nvidia-ai-chip-restrictions-expand-as-us-closes-cloud-computing-loophole-for-china"
         },
         {
-          "id": "https://aninews.in/news/business/credex-turns-unused-cloud-and-ai-credits-into-working-capital-for-startups20261117152458/",
-          "title": "Credex Turns Unused Cloud and AI Credits Into Working Capital for Startups",
-          "source": "aninews.in",
+          "id": "http://www.bostonstar.com/news/279445085/india-capital-goods-market-could-reach-usd-12-trillion-by-2047-driven-by-data-centres-chips-cii-bcg",
+          "title": "India's capital goods market could reach USD 1.2 trillion by 2047, driven by data centres, chips: CII-BCG",
+          "source": "bostonstar.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-17",
-          "dateRaw": "2026-11-17T10:32:00Z",
-          "publishedAt": "2026-11-17T10:32:00Z",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T13:02:00Z",
+          "publishedAt": "2026-11-20T13:02:00Z",
           "summary": "",
-          "url": "https://aninews.in/news/business/credex-turns-unused-cloud-and-ai-credits-into-working-capital-for-startups20261117152458/"
+          "url": "http://www.bostonstar.com/news/279445085/india-capital-goods-market-could-reach-usd-12-trillion-by-2047-driven-by-data-centres-chips-cii-bcg"
         },
         {
           "id": "https://www.digitimes.com/news/a20261120PD203/data-center-investment-jensen-huang-ceo-supply-chain.html",
@@ -897,16 +885,28 @@
           "publishedAt": "2026-11-20T04:02:00Z",
           "summary": "",
           "url": "https://www.digitimes.com/news/a20261120PD203/data-center-investment-jensen-huang-ceo-supply-chain.html"
+        },
+        {
+          "id": "https://www.freepressjournal.in/bhopal/gwalior-to-get-450-acre-telecom-manufacturing-zone-in-phase-2-3600-crore-investment-potential-and-15000-jobs-expected",
+          "title": "Gwalior To Get 450-Acre Telecom Manufacturing Zone In Phase 2, ₹3,600 Crore Investment Potential And 15,000 Jobs Expected",
+          "source": "freepressjournal.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T04:01:00Z",
+          "publishedAt": "2026-11-20T04:01:00Z",
+          "summary": "",
+          "url": "https://www.freepressjournal.in/bhopal/gwalior-to-get-450-acre-telecom-manufacturing-zone-in-phase-2-3600-crore-investment-potential-and-15000-jobs-expected"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 5
         },
         {
           "word": "클라우드",
-          "count": 4
+          "count": 3
         },
         {
           "word": "데이터센터",
@@ -928,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1569,
-    "fetchedItems": 3338,
-    "feedBytes": 909285,
+    "poolSize": 1519,
+    "fetchedItems": 5970,
+    "feedBytes": 1682850,
     "rollingWindowHours": 72
   }
 }
