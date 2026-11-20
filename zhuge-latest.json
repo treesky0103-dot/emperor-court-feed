@@ -3,7 +3,7 @@
   "planDay": "2026-11-20",
   "planSetId": "zps-20261120-af6e3ee1",
   "generatedAt": "2026-11-19T23:44:41.893Z",
-  "publishedAt": "2026-11-20T00:21:02.696Z",
+  "publishedAt": "2026-11-20T01:01:18.657Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -234,7 +234,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-20T00:18:43.715Z",
+        "generatedAt": "2026-11-20T00:25:56.563Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -545,7 +545,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-da03200b",
         "status": "ready",
-        "generatedAt": "2026-11-20T00:18:59.577Z",
+        "generatedAt": "2026-11-20T01:01:05.234Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -553,98 +553,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 21,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "newsouth the lady with the dog",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 116960,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 10,
-              "genre": 20,
-              "design": 75,
-              "score": 55,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "northwestern lamp back",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 137312,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "toronto victor pelevin",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 89346,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1139,7 +1048,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-da03200b",
         "status": "ready",
-        "generatedAt": "2026-11-20T00:19:10.606Z",
+        "generatedAt": "2026-11-20T01:01:08.550Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1147,98 +1056,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 18,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 75,
-              "score": 57,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "yale harold cruse",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 55518,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "calgary at the freak show",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 158986,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "georgia the submerged",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 212574,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1733,7 +1551,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-da03200b",
         "status": "ready",
-        "generatedAt": "2026-11-20T00:19:20.132Z",
+        "generatedAt": "2026-11-20T01:01:12.209Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1741,98 +1559,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 15,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 10,
-              "genre": 20,
-              "design": 75,
-              "score": 55,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens early modern maritime recipies",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 30,
-              "design": 75,
-              "score": 57,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 105964,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "mcgill queens postal censorship surveillance resistance",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 45,
-              "genre": 55,
-              "design": 85,
-              "score": 74,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 205508,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "minn the carceral surround",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 20,
-              "genre": 35,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 127092,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     }
   ],
