@@ -1,6 +1,599 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "days": [
+    {
+      "date": "2026-11-20",
+      "planDay": "2026-11-20",
+      "planSetId": "zps-20261120-af6e3ee1",
+      "generatedAt": "2026-11-19T23:44:41.893Z",
+      "publishedAt": "2026-11-20T00:00:06.905Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-11-20",
+        "planSetId": "zps-20261120-af6e3ee1",
+        "titles": [
+          "반도체 호황 속 수출 전략을 재정비하라",
+          "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
+          "미국 저작권 등록비 인상, 중소 출판사의 생존 전략"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "gemini-3.8-flash",
+        "hqReady": true,
+        "contentRevision": "zcr-da03200b",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-11-20T00:00:00.144Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 경제 · 마케팅 · 법률을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "gemini-3.8-flash",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-19T23:44:41.238Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-19T23:38:50.681Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-11-19T23:30:16.896Z",
+        "bestsellerDataDate": "2026-11-19",
+        "stale": true,
+        "checkedAt": "2026-11-19T23:44:41.893Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "경제",
+          "field": "경제",
+          "title": "반도체 호황 속 수출 전략을 재정비하라",
+          "concept": "반도체 사이클 상승 국면에서 KDI 경제 전망 지표를 읽고, 중소 수출 제조사가 과잉 증설 위험 없이 목표 시장을 재조정하는 설비 투자 시뮬레이션 실무서",
+          "why": "KDI가 반도체 호황과 설비투자 회복에 힘입어 경제성장률을 상향 전망했으나, 현장 중소 제조사는 단기 수요 급증만 믿고 무리하게 라인을 증설했다가 다운사이클에 직면할 위험이 매우 높기 때문입니다.",
+          "competition": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》, 《미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점》 등 기존 도서는 거시 정책과 지정학적 공급망 담론에 머물러 있어, 당장 설비 발주와 여신 한도를 결정해야 하는 중소 수출 실무자에게 구체적인 실행 기준을 주지 못합니다.",
+          "reader": "단기 수주 폭증 속에서 생산설비 증설과 외주 계약 규모를 확정해야 하는 30~40대 수출 중소 제조사 기획·영업 담당자 및 경영진",
+          "readerNeed": "반도체 수주 급증에 맞춰 라인을 늘려야 할지, 아니면 일시적 착시로 보고 외주로 방어해야 할지 투자 손익분기점을 객관적으로 계산할 기준이 필요합니다.",
+          "marketGap": "거시 성장률 지표를 개별 수출 기업의 설비 가동률, 현금흐름, 목표 시장 다변화 시나리오와 직접 연결해 의사결정할 수 있는 정량적 계산 템플릿이 서점가에 비어 있습니다.",
+          "differentiation": "KDI 분기별 경기 전망치를 자사 수주 잔고에 대입하는 3단계 스트레스 테스트 모델, 설비 리스 vs 직구매 손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공합니다.",
+          "diff": "KDI 분기별 경기 전망치를 자사 수주 잔고에 대입하는 3단계 스트레스 테스트 모델, 설비 리스 vs 직구매 손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공합니다.",
+          "toc": [
+            "지표의 착시: 성장률 전망치가 내 공장의 수주 잔고를 보장하지 않는 이유",
+            "호황 사이클 읽기: 반도체 반등 신호에서 내 납품 품목의 피크 시점 포착법",
+            "증설인가 외주인가: 무리한 대출 없이 캐파를 탄력적으로 조율하는 손익 분기 계산",
+            "목표 시장 재배치: 특정국 단일 벤더 의존도를 낮추는 수출선 다변화 3단계",
+            "다운턴 방어 시나리오: 설비 투자 집행 후 6개월 내 현금흐름 방어 체크리스트"
+          ],
+          "searchQueries": [
+            "반도체 수출",
+            "설비 투자 전략"
+          ],
+          "bookworthiness": {
+            "durability": "반도체와 제조업 사이클은 주기적으로 반복되며, 설비 투자 시점 결정 모델은 호황과 불황 모든 국면에서 경영 기준으로 보존됩니다.",
+            "repeatNeed": "매 회계연도 설비 투자 계획 수립 및 분기별 수출선 재조정 시점마다 재참조되는 업무용 매뉴얼입니다.",
+            "expansionPotential": "공급망 규제 대응, 바이어 단가 협상표, 환율 변동 헤지 전략을 덧붙여 220쪽 분량의 단행본으로 완성도 높게 구성 가능합니다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김혁중",
+              "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/133220516",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "오종혁",
+              "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/133220516",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "권혁주",
+              "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
+              "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/133220516",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김혁중",
+          "bestAuthor": "김혁중",
+          "authorBrief": "",
+          "headlineCopy": "반도체 호황이라는 착시 속에서 공장 증설 도장을 찍기 전 반드시 열어봐야 할 계산서",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "과잉 투자로 인한 부도 위험 차단",
+              "호황기 납품 이익의 안정적 극대화"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "중소벤처기업진흥공단 수출 바우처 커뮤니티와 공단 입주 기업 네트워크에 '설비 증설 전 현금흐름 자가진단표'를 배포해 유입시킵니다.",
+            "trust": "국책 연구기관 KDI의 산업 동향 데이터 분석 프레임과 수출 제조사 실제 투자 실패·성공 사례 10건을 대조 검증해 근거를 제시합니다.",
+            "conversion": "도서 구매자에게 엑셀 기반 '설비 투자 회수 기간 자동 계산 템플릿' 다운로드 권한을 제공해 결제를 이끌어냅니다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "뉴스에서 말하는 거시 성장률 수치가 내 작은 공장 운영과 무슨 상관이 있느냐는 회의감이 듭니다.",
+              "objection": "\"KDI 지표는 대기업 이야기일 뿐, 우리 같은 하청 부품사에는 맞지 않는다.\"",
+              "solution": "1차 벤더 수주 잔고가 2·3차 하청 부품 납품으로 전이되는 시차를 주 단위로 역산하는 실무 변환 공식을 도입부에 즉시 공개합니다."
+            },
+            "positioning": "거시 경제 지표를 개별 공장의 설비 발주 결정표로 바꿔주는 중소 제조사 투자 생존 매뉴얼"
+          },
+          "devilsEditor": {
+            "failureReason": "거시 통계 보고서 요약집처럼 느껴져 현장 실무자가 자기 공장의 발주 결정에 즉각 적용하지 못하고 책장을 덮을 위험이 있습니다.",
+            "fix": "모든 이론 설명을 배제하고 '자금 조달 한도별 라인 증설 시뮬레이션 양식'과 공장장 인터뷰 기반의 실패 사례를 전면에 배치합니다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "반도체 지정학적 변수나 주요국의 관세 조치 급변으로 수출 예측 모델의 오차가 단기간에 커질 위험이 있습니다.",
+          "riskResponse": "환율 급변과 관세 인상 시나리오를 가산한 3단계 보수적 완충 계수를 기본 공식에 내장해 안정성을 확보합니다.",
+          "judgment": "거시 경제 수치 분석에 그치지 않고 중소 수출 기업이 당장 다음 달 설비 계약서에 서명할지 여부를 가르는 구체적 손익 계산 툴을 제시하느냐가 판매 성패를 결정합니다.",
+          "evidence": [
+            {
+              "text": "미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안 — 김혁중,오종혁,권혁주 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/133220516"
+            },
+            {
+              "text": "반도체 호황에 수출·설비투자 호조…KDI, 올해 성장률 3.8% 전망 - 대한민국 정책브리핑",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnN0WFVNcTh0MUdsOWVfeTVvUG9tNjhtMXp6MHNlZC1LVmtlOWFuZnhRQVViYzJ5LXNSNVE4eE9tSm1QcmlVR21NQTdJZHFlYUhxbVBVdXkzQ09RcTFaU1Q0SWRCT0FUQTNBOU1VaUsxUnRwaHdiWW1LSWNOZDZJSTlEaUxMZ2lqV3c?oc=5"
+            },
+            {
+              "text": "미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점 — 조은교,최정환 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/135860609"
+            },
+            {
+              "text": "日 반도체소재 수출규제에 따른 최대수혜주와 이슈 모르면 주식 대박 힘들다 — 서울공대OB주식연구회 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/78506788"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안",
+              "author": "김혁중,오종혁,권혁주 공저",
+              "publisher": "대외경제정책연구원",
+              "publicationDate": "20231229",
+              "url": "https://www.yes24.com/product/goods/133220516",
+              "matchedQuery": "반도체 수출",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점",
+              "author": "조은교,최정환 저",
+              "publisher": "산업연구원",
+              "publicationDate": "20240326",
+              "url": "https://www.yes24.com/product/goods/135860609",
+              "matchedQuery": "반도체 수출",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "日 반도체소재 수출규제에 따른 최대수혜주와 이슈 모르면 주식 대박 힘들다",
+              "author": "서울공대OB주식연구회 저",
+              "publisher": "비피기술거래",
+              "publicationDate": "20190828",
+              "url": "https://www.yes24.com/product/goods/78506788",
+              "matchedQuery": "반도체 수출",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-19T23:43:19.794Z",
+            "queries": [
+              "반도체 수출",
+              "설비 투자 전략"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "마케팅",
+          "field": "마케팅",
+          "title": "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
+          "concept": "AI 마케팅 투자가 검색 최적화에만 편중된 한계를 넘어, CRM 개인화·광고 소재 자동 생성·이탈 방지 등 전 마케팅 퍼널에 AI를 배치하고 채널별 ROI를 입증하는 실무 지침서",
+          "why": "기업들이 마케팅 AI 예산의 대부분을 검색 최적화(GEO/SEO)에만 쏟아붓고 있으나, 검색 유입 이후의 전환율과 재구매율을 개선하지 못해 실질적인 매출 증명에 실패하고 있기 때문입니다.",
+          "competition": "《AI 시대의 디지털 마케팅 입문》, 《AI 마케팅 완벽 가이드》 등 기존 서적은 프롬프트 작성법이나 생성형 AI 도구 소개의 나열에 그쳐, 마케팅 팀장이 경영진에게 제출해야 할 채널별 공헌이익과 집행 ROI 산출식을 제시하지 못합니다.",
+          "reader": "AI 예산은 배정받았으나 단순 검색 키워드 작업 외에 뚜렷한 전환 성과를 내지 못해 분기 보고를 앞두고 압박받는 5~10년 차 디지털 마케팅 팀장",
+          "readerNeed": "검색 노출 순위에만 매달리지 않고, 고객 획득부터 유지까지 전체 채널에 AI를 어떻게 연결해 광고비 대비 매출액(ROAS)을 끌어올릴지 검증된 로드맵을 원합니다.",
+          "marketGap": "특정 AI 툴의 사용법을 넘어, 검색·SNS·CRM·상세페이지 등 각 퍼널 단계별로 AI를 결합했을 때 발생하는 실질 전환율과 비용 절감액을 측정하는 프레임워크가 부재합니다.",
+          "differentiation": "검색 외 4대 채널(CRM, 소재 제작, 리타기팅, 랜딩페이지) AI 배치도, 퍼널별 ROI 시뮬레이션 스프레드시트, 도입 실패를 막는 14일 파일럿 테스트 양식을 수록합니다.",
+          "diff": "검색 외 4대 채널(CRM, 소재 제작, 리타기팅, 랜딩페이지) AI 배치도, 퍼널별 ROI 시뮬레이션 스프레드시트, 도입 실패를 막는 14일 파일럿 테스트 양식을 수록합니다.",
+          "toc": [
+            "검색 최적화의 맹점: 트래픽은 늘었는데 왜 최종 결제액은 제자리인가",
+            "퍼널별 AI 배치 지도: 유입 이후 장바구니 이탈을 잡는 자동화 시나리오",
+            "소재 제작과 카피라이팅: 하루 50개 광고 배너를 테스트하는 AI 워크플로우",
+            "숫자로 증명하는 성과: 경영진을 설득하는 채널별 AI 공헌이익 산출 공식",
+            "실패 없는 파일럿 플랜: 예산 300만 원으로 14일 만에 ROI 검증하는 실행 로드맵"
+          ],
+          "searchQueries": [
+            "AI 마케팅",
+            "검색 최적화"
+          ],
+          "bookworthiness": {
+            "durability": "AI 마케팅 툴의 브랜드는 바뀌어도 고객 획득-전환-유지라는 마케팅 퍼널의 경제학적 검증 원리는 영구히 유지됩니다.",
+            "repeatNeed": "분기별 마케팅 믹스 조정과 신규 캠페인 기획 시마다 채널별 자원 배분의 가이드북으로 반복 사용됩니다.",
+            "expansionPotential": "B2B와 B2C 업종별 상세 적용 사례 및 프롬프트 체인 설계를 보강해 240쪽 단행본으로 확장이 충분합니다.",
+            "productDependency": "중간"
+          },
+          "authors": [
+            {
+              "name": "윤필현",
+              "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/200091780",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "고진용",
+              "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/200091780",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "권혜민",
+              "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
+              "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/200091780",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "윤필현",
+          "bestAuthor": "윤필현",
+          "authorBrief": "",
+          "headlineCopy": "검색 최적화에만 쏟아부은 AI 마케팅 예산, 이제 결제 전환율로 회수하라",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "경영진 앞에서의 당당한 ROI 증명",
+              "반복적 소재 제작 업무의 획기적 단축"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "아이보스, 오픈애즈 등 마케터 전문 플랫폼에 '검색광고 효율 떨어질 때 점검하는 AI 퍼널 진단 시트'를 기고해 실무자를 모읍니다.",
+            "trust": "실제 이커머스 기업의 채널별 A/B 테스트 데이터와 AI 도입 전후 ROAS 비교 수치표를 공개해 설득력을 확보합니다.",
+            "conversion": "상세페이지 내에 '우리 팀 AI 마케팅 성숙도 및 낭비 예산 자가진단 테스트' 링크를 삽입해 즉각 구매로 전환시킵니다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "AI 마케팅 서적이 흔히 그렇듯 시중에 널린 챗GPT 명령어 모음집 수준일 것이라 넘겨짚을 수 있습니다.",
+              "objection": "\"유튜브에 무료로 풀린 AI 프롬프트 팁과 무엇이 다른가?\"",
+              "solution": "프롬프트 자체가 아니라 마케팅 비용 집행 대비 매출 기여도를 증명하는 'ROI 산출 엑셀 로직'을 미리보기로 과감히 노출합니다."
+            },
+            "positioning": "검색 노출 경쟁에 지친 마케터를 위한 퍼널 전체 결제 전환 중심의 AI 투자 매뉴얼"
+          },
+          "devilsEditor": {
+            "failureReason": "특정 AI 마케팅 SaaS 솔루션의 인터페이스 설명에 치중하다가 해당 툴의 UI 개편이나 서비스 종료 시 책의 유효성이 급격히 떨어질 수 있습니다.",
+            "fix": "개별 도구 이름이 아니라 '데이터 입력-가공-트리거 발송'이라는 범용 데이터 파이프라인 개념을 중심으로 본문을 설계합니다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "생성형 AI 검색 환경(AI Overviews 등)의 급격한 알고리즘 변화로 인해 기존 채널 유입 공식이 교란될 위험이 있습니다.",
+          "riskResponse": "플랫폼 종속적 트래픽에 의존하지 않는 자체 퍼스트파티 데이터와 CRM 기반 AI 전환 전략의 비중을 40% 이상 유지합니다.",
+          "judgment": "개별 생성 AI 도구의 화려한 기능 나열을 걷어내고 마케팅 팀장이 경영진에게 제시할 수 있는 채널별 ROI 입증 수식을 명확히 쥐여주는 데 상업적 성패가 갈립니다.",
+          "evidence": [
+            {
+              "text": "AI 시대의 디지털 마케팅 입문 — 윤필현,고진용,권혜민,이건민,윤승현 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/200091780"
+            },
+            {
+              "text": "내년 AI 마케팅 투자 1위는 `검색 최적화`…콘텐츠 제작 제쳐 - 디지털데일리",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mT1FtQzRINm8tUjhiU3hqUXM3LUl2ekJHQ0NLQWh6NEZwWWdiam9NNmdlTWNSU25zSzVJS2dGMVZOelhmSzd1Rl9ieHg5MkVvc3hMNnRIdENFbUxUdndVVnhqbFc?oc=5"
+            },
+            {
+              "text": "2027 이기적 AI 광고마케팅전문가 1급 기본서(1차+2차) — 박노성 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/200730533"
+            },
+            {
+              "text": "AI 마케팅 완벽 가이드 — 최신만 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/196198323"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "AI 시대의 디지털 마케팅 입문",
+              "author": "윤필현,고진용,권혜민,이건민,윤승현 저",
+              "publisher": "도서출판청람",
+              "publicationDate": "20261115",
+              "url": "https://www.yes24.com/product/goods/200091780",
+              "matchedQuery": "AI 마케팅",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "2027 이기적 AI 광고마케팅전문가 1급 기본서(1차+2차)",
+              "author": "박노성 저",
+              "publisher": "영진닷컴",
+              "publicationDate": "20270115",
+              "url": "https://www.yes24.com/product/goods/200730533",
+              "matchedQuery": "AI 마케팅",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "AI 마케팅 완벽 가이드",
+              "author": "최신만 저",
+              "publisher": "디지털콘텐츠그룹",
+              "publicationDate": "20260911",
+              "url": "https://www.yes24.com/product/goods/196198323",
+              "matchedQuery": "AI 마케팅",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-19T23:43:21.665Z",
+            "queries": [
+              "AI 마케팅",
+              "검색 최적화"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "법률",
+          "field": "법률",
+          "title": "미국 저작권 등록비 인상, 중소 출판사의 생존 전략",
+          "concept": "미국 저작권청의 수수료 43% 대폭 인상에 대응하여, 중소 출판사와 독립 제작자가 일괄 등록 제도와 자동화 접수 도구를 통해 최소 비용으로 글로벌 지식재산권을 방어하는 실무 전략서",
+          "why": "미국 저작권 등록비가 2020년 이후 7년 만에 43% 급등함에 따라, 해외 판권 수출과 아마존 직수출을 추진하는 중소 출판사와 창작자가 비용 폭탄을 맞고 권리 등록을 포기하는 위기에 직면했기 때문입니다.",
+          "competition": "《창작과 이용을 위한 저작권》, 《창작자와 편집자를 위한 저작권 매뉴얼》 등 국내 서적은 한국 저작권법 중심의 법리 해석과 계약서 작성법만 다루며, 미국 저작권청(eCO)의 인상된 수수료 구조나 단체 등록(Group Registration)을 통한 비용 절감 실무를 다루지 않습니다.",
+          "reader": "영미권 전자책 출간, 웹툰·웹소설 수출, 굿즈 유통을 진행 중이며 등록 비용 급증으로 판권 관리에 차질을 빚는 중소 출판사 대표 및 1인 출판 창작자",
+          "readerNeed": "건당 인상된 미국 저작권 등록비를 감당하기 어려운 상황에서, 어떤 저작물을 우선 등록하고 어떻게 묶어 신청해야 비용을 절반 이하로 줄일 수 있는지 실행 절차가 절실합니다.",
+          "marketGap": "미국 저작권청 온라인 등록 시스템(eCO)의 최신 인상 요율표를 반영하고, 소규모 제작사를 위한 합법적 비용 절감 테크닉(단체 등록, 자동화 서식 작성)을 단계별로 안내하는 책이 없습니다.",
+          "differentiation": "미국 eCO 시스템 화면별 영문 입력 가이드, 분기별 일괄 단체 등록(GRTX) 신청 요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공합니다.",
+          "diff": "미국 eCO 시스템 화면별 영문 입력 가이드, 분기별 일괄 단체 등록(GRTX) 신청 요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공합니다.",
+          "toc": [
+            "비용 인상의 충격: 미국 저작권 등록비 43% 인상이 K-콘텐츠 수출에 미치는 영향",
+            "우선순위 선별: 한정된 예산으로 내 타이틀 중 무엇을 먼저 보호할 것인가",
+            "단체 등록의 기술: 건별 비용을 1/5로 낮추는 그룹 등록(Group Registration) 비법",
+            "eCO 실전 접수: 반려 없이 한 번에 통과하는 온라인 저작권 등록 영문 서식 작성",
+            "침해 발생 시 행동 수칙: 최소 비용 등록증으로 영미권 무단 도용 즉시 차단하기"
+          ],
+          "searchQueries": [
+            "저작권 비용",
+            "출판사 비용 절감"
+          ],
+          "bookworthiness": {
+            "durability": "미국 저작권청의 수수료 체계는 한번 개정되면 다년간 유지되며, 해외 지재권 방어 프로세스는 출판사의 필수 경영 자산입니다.",
+            "repeatNeed": "신간 출간 및 영미권 판권 계약 체결 시마다 eCO 등록 절차를 밟기 위해 매번 펼쳐보는 실무 편람입니다.",
+            "expansionPotential": "미국 상표권 등록 절차와 아마존 브랜드 레지스트리 연동법까지 포괄하여 200쪽 실무 단행본으로 확장이 용이합니다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "배대헌",
+              "career": "《창작과 이용을 위한 저작권》 저자 · 경북대학교출판부",
+              "why": "YES24에서 이 기획과 인접한 주제의 《창작과 이용을 위한 저작권》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/117721991",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이승훈",
+              "career": "《창작자와 편집자를 위한 저작권 매뉴얼》 저자 · 한국출판인회의",
+              "why": "YES24에서 이 기획과 인접한 주제의 《창작자와 편집자를 위한 저작권 매뉴얼》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/96001116",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "황지현",
+              "career": "《창작자와 편집자를 위한 저작권 매뉴얼》 저자 · 한국출판인회의",
+              "why": "YES24에서 이 기획과 인접한 주제의 《창작자와 편집자를 위한 저작권 매뉴얼》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/96001116",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "배대헌",
+          "bestAuthor": "배대헌",
+          "authorBrief": "",
+          "headlineCopy": "치솟은 미국 저작권 등록비, 합법적인 묶음 등록으로 비용을 절반으로 줄여라",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "과도한 해외 저작권 등록 비용 절감",
+              "소송 비용 없이 영미권 무단 복제 즉시 차단"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "한국독립출판협회, 웹툰·웹소설 작가 지망 커뮤니티, 출판마케팅 포럼에 '미국 저작권 등록비 인상 대조표 및 절감 체크리스트'를 배포합니다.",
+            "trust": "실제 미국 저작권청(U.S. Copyright Office) 공고 개정안 원문 데이터와 중소 에이전시의 eCO 단체 등록 통과 서식을 증거로 제시합니다.",
+            "conversion": "도서 상세페이지에서 '단 3분 만에 확인하는 내 도서의 미국 그룹 등록 가능 여부 문답표'를 무료 샘플로 제공합니다.",
+            "maxDropoff": {
+              "stage": "의심",
+              "problem": "미국 저작권 등록 절차는 어차피 전문 변호사나 대리인에게 맡겨야 하므로 책이 필요 없다고 여길 수 있습니다.",
+              "objection": "\"대행업체에 맡기면 그만인데, 내가 직접 서류를 작성할 수 있을까?\"",
+              "solution": "대행 수수료 수백만 원을 아끼고 출판사 대표가 30분 만에 끝낼 수 있는 'eCO 화면 1:1 캡처 영문 입력 템플릿'을 수록해 불안을 해소합니다."
+            },
+            "positioning": "인상된 등록비 폭탄을 피하고 내 해외 저작권을 지키는 중소 제작사 전용 지재권 실무서"
+          },
+          "devilsEditor": {
+            "failureReason": "미국 저작권법의 딱딱한 조문 나열에 매몰되어 현업 출판인이 가장 원하는 '실제 등록 화면 작성 요령과 수수료 절약법'이 가려질 위험이 있습니다.",
+            "fix": "법률 이론을 최소화하고 저작권청 웹사이트 화면 캡처와 칸별 입력 문장 예시를 전체 지면의 60% 이상으로 채웁니다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 96,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 94,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "미국 저작권청의 행정 규칙 변경이나 전자 접수 시스템(eCO) 개편으로 세부 서식이 예고 없이 바뀔 위험이 있습니다.",
+          "riskResponse": "주요 서식 변경 사항 발생 시 출판사 웹사이트를 통해 수정된 입력 가이드 PDF를 즉시 업데이트 배포합니다.",
+          "judgment": "단순한 저작권 법리 해설서가 아니라 인상된 수수료를 획기적으로 아껴주는 eCO 단체 등록 실무 테크닉을 얼마나 직관적으로 전달하느냐가 이 책의 구매를 결정합니다.",
+          "evidence": [
+            {
+              "text": "창작과 이용을 위한 저작권 — 배대헌 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/117721991"
+            },
+            {
+              "text": "미국 저작권 등록비 내년 1월 5일부터 43% 오른다…2020년 이후 7년 만에 대폭 인상 - IPDaily",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNbzc5TmlEN2RSOWh1aTVGNnhRTXNnaEdiOVFpRl9GQ3N4X2pvY0N1T0VrZDNqcnJZTzFBWVdvQ043M0cwbXgwRDNfQVpCRHU1cFR0MXF2Vk5oWWNOLWRvU3p4Nk4zWmFNV05ZT2ZmUnluX1owMmcyVXR1NmFRX05RRmVkVXVLYmVtMlpkS19kNlBSNnpna3o1QkNUU2hibHFfdWRyRlZZX004cTRvb25pU1JHaEIyemNmVEZacENOb3Rhd1NyYTNkb2UyMmJIWFFaZi1mUnlsNWYtNEMtaUd5bXhhYzh0dFhpNTZTTEVvMU1UaHpzRmxfWEZXMHFqX1QxeS1vZ3FuUDZFYkJtY1IzMjdINEI3aHJvMGZCdFQzNFRIRWQ4X1ZjMGs1WkwwRWhpNFh3UWZ0c0RGbG13Mkxzcm9IaHRXMVhsSUs3ZmNnWEJjX0gwSEE3Vg?oc=5"
+            },
+            {
+              "text": "창작자와 편집자를 위한 저작권 매뉴얼 — 이승훈,황지현,서대진,이동국 공저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/96001116"
+            },
+            {
+              "text": "현대 저작권의 쟁점과 전망 — 류종현 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/3644105"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "창작과 이용을 위한 저작권",
+              "author": "배대헌 저",
+              "publisher": "경북대학교출판부",
+              "publicationDate": "20230223",
+              "url": "https://www.yes24.com/product/goods/117721991",
+              "matchedQuery": "저작권 비용",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "창작자와 편집자를 위한 저작권 매뉴얼",
+              "author": "이승훈,황지현,서대진,이동국 공저",
+              "publisher": "한국출판인회의",
+              "publicationDate": "20201211",
+              "url": "https://www.yes24.com/product/goods/96001116",
+              "matchedQuery": "저작권 비용",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "현대 저작권의 쟁점과 전망",
+              "author": "류종현 저",
+              "publisher": "커뮤니케이션북스",
+              "publicationDate": "20091120",
+              "url": "https://www.yes24.com/product/goods/3644105",
+              "matchedQuery": "저작권 비용",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-19T23:43:23.252Z",
+            "queries": [
+              "저작권 비용",
+              "출판사 비용 절감"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "planDay": "2026-11-19",
@@ -34597,35 +35190,9 @@
           "concept": "72시간 비상카드와 입원·퇴원까지 설계하는 1인가구 비상계획"
         }
       ]
-    },
-    {
-      "date": "2026-09-23",
-      "plans": [
-        {
-          "title": "우리 강아지가 열 살이 되었습니다",
-          "type": "건강·취미·반려동물",
-          "reader": "8세 이상 반려견을 키우는 30~60대 보호자",
-          "problem": "노화와 질병의 경계를 모르고 일상 돌봄을 언제 바꿔야 할지 판단하기 어려움",
-          "concept": "노령견의 식사·산책·통증·인지·병원·주거·마지막 돌봄을 생활 결정 순서로 안내"
-        },
-        {
-          "title": "AI를 쓰는 사람을 뽑습니다",
-          "type": "취업·커리어·AI",
-          "reader": "2027년 취업을 준비하는 대학생·취준생·주니어 이직자",
-          "problem": "AI 사용 자체는 보편화됐지만 채용에서 자신의 판단·검증·성과를 어떻게 증명할지 모름",
-          "concept": "AI와 일한 과정을 포트폴리오·과제·자소서·면접에서 증명하는 취업 전략"
-        },
-        {
-          "title": "부모님 집을 정리하기 시작했습니다",
-          "type": "가정·살림·중년",
-          "reader": "60~80대 부모를 둔 40~60대 자녀",
-          "problem": "부모 생전 집·서류·돈·사진·디지털 계정을 갈등 없이 정리하기 어려움",
-          "concept": "부모가 살아 있을 때 가족이 함께 하는 12주 사전 정리 프로젝트"
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261119-78e74778",
+  "activePlanSetId": "zps-20261120-af6e3ee1",
   "discardedDays": [
     {
       "date": "2026-09-29",
