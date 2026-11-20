@@ -1,167 +1,351 @@
 {
-  "date": "2026-11-19",
-  "planDay": "2026-11-19",
-  "planSetId": "zps-20261119-78e74778",
-  "generatedAt": "2026-11-18T23:43:58.037Z",
-  "publishedAt": "2026-11-19T07:01:12.731Z",
+  "date": "2026-11-20",
+  "planDay": "2026-11-20",
+  "planSetId": "zps-20261120-af6e3ee1",
+  "generatedAt": "2026-11-19T23:44:41.893Z",
+  "publishedAt": "2026-11-20T00:00:04.450Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
-    "day": "2026-11-19",
-    "planSetId": "zps-20261119-78e74778",
+    "day": "2026-11-20",
+    "planSetId": "zps-20261120-af6e3ee1",
     "titles": [
-      "우주탐사선 보이저1호의 1광일 돌파 의미",
-      "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
-      "AI 부정행위 파문을 피하는 방법"
+      "반도체 호황 속 수출 전략을 재정비하라",
+      "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
+      "미국 저작권 등록비 인상, 중소 출판사의 생존 전략"
     ],
     "generationMode": "historical-high-quality-atomic",
-    "model": "openai/gpt-oss-120b",
+    "model": "gemini-3.8-flash",
     "hqReady": true,
-    "contentRevision": "zcr-b01ec14c",
-    "hqVerifiedBy": "openai/gpt-oss-120b",
-    "sealedAt": "2026-11-19T00:00:00.112Z",
-    "build": "v2.15.119",
-    "hqVerificationError": "",
-    "hqUpgradedAt": "2026-11-19T06:58:19.334Z"
+    "contentRevision": "zcr-da03200b",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-11-20T00:00:00.144Z",
+    "build": "v2.15.119"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 우주 · AI을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 경제 · 마케팅 · 법률을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
-  "model": "openai/gpt-oss-120b",
+  "model": "gemini-3.8-flash",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-11-18T23:43:57.213Z",
+  "sourceSnapshotAt": "2026-11-19T23:44:41.238Z",
   "inputFreshness": {
-    "fresh": true,
-    "newsFresh": true,
+    "fresh": false,
+    "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-11-18T23:01:16.158Z",
-    "staleAdvisors": [],
-    "bestsellerUpdatedAt": "2026-11-18T23:30:25.613Z",
-    "bestsellerDataDate": "2026-11-18",
-    "stale": false,
-    "checkedAt": "2026-11-18T23:43:58.037Z",
+    "newsUpdatedAt": "2026-11-19T23:38:50.681Z",
+    "staleAdvisors": [
+      "sima",
+      "zhou",
+      "pang",
+      "cheng",
+      "xunyu",
+      "xunyou"
+    ],
+    "bestsellerUpdatedAt": "2026-11-19T23:30:16.896Z",
+    "bestsellerDataDate": "2026-11-19",
+    "stale": true,
+    "checkedAt": "2026-11-19T23:44:41.893Z",
     "policy": "confirm-and-mark",
-    "label": ""
+    "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "우주",
-      "field": "우주",
-      "title": "우주탐사선 보이저1호의 1광일 돌파 의미",
-      "concept": "보이저1호가 1광일을 돌파한 과학적 의미와 향후 우주 탐사에 미치는 영향을 쉽게 풀어낸 책",
-      "why": "N17 뉴스에서 보이저1호가 1광일을 돌파했다는 소식이 전해졌고, 이는 우주 탐사의 새로운 전환점이 되기 때문입니다.",
-      "competition": "기존 우주 서적은 보이저1호의 구체적 거리와 시간 개념을 다루지 않아 독자에게 실감나는 이해를 제공하지 못합니다.",
-      "reader": "우주 과학에 관심이 많고 최신 탐사 성과를 실제 사례로 배우고 싶은 일반 독자",
-      "readerNeed": "보이저1호의 1광일 돌파가 왜 중요한지, 그리고 이를 통해 미래 탐사 기술이 어떻게 발전할지 알고 싶어합니다.",
-      "marketGap": "대중 서적에서는 보이저1호의 거리 개념을 일상 언어로 풀어 설명하지 않아 이해에 어려움을 겪는 독자가 많습니다.",
-      "differentiation": "1광일이라는 추상적 개념을 일상 비유와 시각 자료로 구체화해 독자가 직접 체감하도록 구성했습니다.",
-      "diff": "1광일이라는 추상적 개념을 일상 비유와 시각 자료로 구체화해 독자가 직접 체감하도록 구성했습니다.",
+      "type": "경제",
+      "field": "경제",
+      "title": "반도체 호황 속 수출 전략을 재정비하라",
+      "concept": "반도체 사이클 상승 국면에서 KDI 경제 전망 지표를 읽고, 중소 수출 제조사가 과잉 증설 위험 없이 목표 시장을 재조정하는 설비 투자 시뮬레이션 실무서",
+      "why": "KDI가 반도체 호황과 설비투자 회복에 힘입어 경제성장률을 상향 전망했으나, 현장 중소 제조사는 단기 수요 급증만 믿고 무리하게 라인을 증설했다가 다운사이클에 직면할 위험이 매우 높기 때문입니다.",
+      "competition": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》, 《미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점》 등 기존 도서는 거시 정책과 지정학적 공급망 담론에 머물러 있어, 당장 설비 발주와 여신 한도를 결정해야 하는 중소 수출 실무자에게 구체적인 실행 기준을 주지 못합니다.",
+      "reader": "단기 수주 폭증 속에서 생산설비 증설과 외주 계약 규모를 확정해야 하는 30~40대 수출 중소 제조사 기획·영업 담당자 및 경영진",
+      "readerNeed": "반도체 수주 급증에 맞춰 라인을 늘려야 할지, 아니면 일시적 착시로 보고 외주로 방어해야 할지 투자 손익분기점을 객관적으로 계산할 기준이 필요합니다.",
+      "marketGap": "거시 성장률 지표를 개별 수출 기업의 설비 가동률, 현금흐름, 목표 시장 다변화 시나리오와 직접 연결해 의사결정할 수 있는 정량적 계산 템플릿이 서점가에 비어 있습니다.",
+      "differentiation": "KDI 분기별 경기 전망치를 자사 수주 잔고에 대입하는 3단계 스트레스 테스트 모델, 설비 리스 vs 직구매 손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공합니다.",
+      "diff": "KDI 분기별 경기 전망치를 자사 수주 잔고에 대입하는 3단계 스트레스 테스트 모델, 설비 리스 vs 직구매 손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공합니다.",
       "toc": [
-        "보이저1호와 1광일의 기본 개념",
-        "우주 거리와 시간의 실제 사례",
-        "1광일 돌파가 의미하는 과학적 변곡점",
-        "미래 탐사 기술에 미치는 파급 효과",
-        "일상에서 우주 탐사를 이해하는 방법"
+        "지표의 착시: 성장률 전망치가 내 공장의 수주 잔고를 보장하지 않는 이유",
+        "호황 사이클 읽기: 반도체 반등 신호에서 내 납품 품목의 피크 시점 포착법",
+        "증설인가 외주인가: 무리한 대출 없이 캐파를 탄력적으로 조율하는 손익 분기 계산",
+        "목표 시장 재배치: 특정국 단일 벤더 의존도를 낮추는 수출선 다변화 3단계",
+        "다운턴 방어 시나리오: 설비 투자 집행 후 6개월 내 현금흐름 방어 체크리스트"
       ],
       "searchQueries": [
-        "우주탐사선 보이저1호",
-        "1광일 돌파"
+        "반도체 수출",
+        "설비 투자 전략"
       ],
       "bookworthiness": {
-        "durability": "보이저1호의 돌파는 영구적인 과학 기록으로 오랫동안 학습 자료로 활용될 수 있습니다.",
-        "repeatNeed": "우주 과학을 지속적으로 공부하는 독자에게 반복적인 참고가 필요합니다.",
-        "expansionPotential": "다른 탐사선 사례와 연계해 확장된 우주 교육 콘텐츠로 발전 가능성이 큽니다.",
+        "durability": "반도체와 제조업 사이클은 주기적으로 반복되며, 설비 투자 시점 결정 모델은 호황과 불황 모든 국면에서 경영 기준으로 보존됩니다.",
+        "repeatNeed": "매 회계연도 설비 투자 계획 수립 및 분기별 수출선 재조정 시점마다 재참조되는 업무용 매뉴얼입니다.",
+        "expansionPotential": "공급망 규제 대응, 바이어 단가 협상표, 환율 변동 헤지 전략을 덧붙여 220쪽 분량의 단행본으로 완성도 높게 구성 가능합니다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "서승우",
-          "career": "《넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행》 저자 · 한솔수북",
-          "why": "YES24에서 이 기획과 인접한 주제의 《넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/130024463",
+          "name": "김혁중",
+          "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/133220516",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "책마중",
-          "career": "《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자 · 스마트베어(전집)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/61115391",
+          "name": "오종혁",
+          "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/133220516",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "비타민상상력 그림",
-          "career": "《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자 · 스마트베어(전집)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/61115391",
+          "name": "권혁주",
+          "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
+          "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/133220516",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "서승우",
-      "bestAuthor": "서승우",
+      "author": "김혁중",
+      "bestAuthor": "김혁중",
       "authorBrief": "",
-      "headlineCopy": "보이저1호가 1광일을 돌파한 순간, 우주 탐사의 새로운 지평을 만나보세요.",
+      "headlineCopy": "반도체 호황이라는 착시 속에서 공장 증설 도장을 찍기 전 반드시 열어봐야 할 계산서",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "최신 과학 소식을 빠르게 이해하고 싶다",
-          "실제 사례를 통해 과학 원리를 체득하고 싶다"
+          "과잉 투자로 인한 부도 위험 차단",
+          "호황기 납품 이익의 안정적 극대화"
+        ],
+        "quadrant": {
+          "audience": "니치형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "중소벤처기업진흥공단 수출 바우처 커뮤니티와 공단 입주 기업 네트워크에 '설비 증설 전 현금흐름 자가진단표'를 배포해 유입시킵니다.",
+        "trust": "국책 연구기관 KDI의 산업 동향 데이터 분석 프레임과 수출 제조사 실제 투자 실패·성공 사례 10건을 대조 검증해 근거를 제시합니다.",
+        "conversion": "도서 구매자에게 엑셀 기반 '설비 투자 회수 기간 자동 계산 템플릿' 다운로드 권한을 제공해 결제를 이끌어냅니다.",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "뉴스에서 말하는 거시 성장률 수치가 내 작은 공장 운영과 무슨 상관이 있느냐는 회의감이 듭니다.",
+          "objection": "\"KDI 지표는 대기업 이야기일 뿐, 우리 같은 하청 부품사에는 맞지 않는다.\"",
+          "solution": "1차 벤더 수주 잔고가 2·3차 하청 부품 납품으로 전이되는 시차를 주 단위로 역산하는 실무 변환 공식을 도입부에 즉시 공개합니다."
+        },
+        "positioning": "거시 경제 지표를 개별 공장의 설비 발주 결정표로 바꿔주는 중소 제조사 투자 생존 매뉴얼"
+      },
+      "devilsEditor": {
+        "failureReason": "거시 통계 보고서 요약집처럼 느껴져 현장 실무자가 자기 공장의 발주 결정에 즉각 적용하지 못하고 책장을 덮을 위험이 있습니다.",
+        "fix": "모든 이론 설명을 배제하고 '자금 조달 한도별 라인 증설 시뮬레이션 양식'과 공장장 인터뷰 기반의 실패 사례를 전면에 배치합니다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 96,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 94,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "반도체 지정학적 변수나 주요국의 관세 조치 급변으로 수출 예측 모델의 오차가 단기간에 커질 위험이 있습니다.",
+      "riskResponse": "환율 급변과 관세 인상 시나리오를 가산한 3단계 보수적 완충 계수를 기본 공식에 내장해 안정성을 확보합니다.",
+      "judgment": "거시 경제 수치 분석에 그치지 않고 중소 수출 기업이 당장 다음 달 설비 계약서에 서명할지 여부를 가르는 구체적 손익 계산 툴을 제시하느냐가 판매 성패를 결정합니다.",
+      "evidence": [
+        {
+          "text": "미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안 — 김혁중,오종혁,권혁주 공저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/133220516"
+        },
+        {
+          "text": "반도체 호황에 수출·설비투자 호조…KDI, 올해 성장률 3.8% 전망 - 대한민국 정책브리핑",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnN0WFVNcTh0MUdsOWVfeTVvUG9tNjhtMXp6MHNlZC1LVmtlOWFuZnhRQVViYzJ5LXNSNVE4eE9tSm1QcmlVR21NQTdJZHFlYUhxbVBVdXkzQ09RcTFaU1Q0SWRCT0FUQTNBOU1VaUsxUnRwaHdiWW1LSWNOZDZJSTlEaUxMZ2lqV3c?oc=5"
+        },
+        {
+          "text": "미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점 — 조은교,최정환 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/135860609"
+        },
+        {
+          "text": "日 반도체소재 수출규제에 따른 최대수혜주와 이슈 모르면 주식 대박 힘들다 — 서울공대OB주식연구회 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/78506788"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안",
+          "author": "김혁중,오종혁,권혁주 공저",
+          "publisher": "대외경제정책연구원",
+          "publicationDate": "20231229",
+          "url": "https://www.yes24.com/product/goods/133220516",
+          "matchedQuery": "반도체 수출",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점",
+          "author": "조은교,최정환 저",
+          "publisher": "산업연구원",
+          "publicationDate": "20240326",
+          "url": "https://www.yes24.com/product/goods/135860609",
+          "matchedQuery": "반도체 수출",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "日 반도체소재 수출규제에 따른 최대수혜주와 이슈 모르면 주식 대박 힘들다",
+          "author": "서울공대OB주식연구회 저",
+          "publisher": "비피기술거래",
+          "publicationDate": "20190828",
+          "url": "https://www.yes24.com/product/goods/78506788",
+          "matchedQuery": "반도체 수출",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-11-19T23:43:19.794Z",
+        "queries": [
+          "반도체 수출",
+          "설비 투자 전략"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 1
+    },
+    {
+      "type": "마케팅",
+      "field": "마케팅",
+      "title": "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
+      "concept": "AI 마케팅 투자가 검색 최적화에만 편중된 한계를 넘어, CRM 개인화·광고 소재 자동 생성·이탈 방지 등 전 마케팅 퍼널에 AI를 배치하고 채널별 ROI를 입증하는 실무 지침서",
+      "why": "기업들이 마케팅 AI 예산의 대부분을 검색 최적화(GEO/SEO)에만 쏟아붓고 있으나, 검색 유입 이후의 전환율과 재구매율을 개선하지 못해 실질적인 매출 증명에 실패하고 있기 때문입니다.",
+      "competition": "《AI 시대의 디지털 마케팅 입문》, 《AI 마케팅 완벽 가이드》 등 기존 서적은 프롬프트 작성법이나 생성형 AI 도구 소개의 나열에 그쳐, 마케팅 팀장이 경영진에게 제출해야 할 채널별 공헌이익과 집행 ROI 산출식을 제시하지 못합니다.",
+      "reader": "AI 예산은 배정받았으나 단순 검색 키워드 작업 외에 뚜렷한 전환 성과를 내지 못해 분기 보고를 앞두고 압박받는 5~10년 차 디지털 마케팅 팀장",
+      "readerNeed": "검색 노출 순위에만 매달리지 않고, 고객 획득부터 유지까지 전체 채널에 AI를 어떻게 연결해 광고비 대비 매출액(ROAS)을 끌어올릴지 검증된 로드맵을 원합니다.",
+      "marketGap": "특정 AI 툴의 사용법을 넘어, 검색·SNS·CRM·상세페이지 등 각 퍼널 단계별로 AI를 결합했을 때 발생하는 실질 전환율과 비용 절감액을 측정하는 프레임워크가 부재합니다.",
+      "differentiation": "검색 외 4대 채널(CRM, 소재 제작, 리타기팅, 랜딩페이지) AI 배치도, 퍼널별 ROI 시뮬레이션 스프레드시트, 도입 실패를 막는 14일 파일럿 테스트 양식을 수록합니다.",
+      "diff": "검색 외 4대 채널(CRM, 소재 제작, 리타기팅, 랜딩페이지) AI 배치도, 퍼널별 ROI 시뮬레이션 스프레드시트, 도입 실패를 막는 14일 파일럿 테스트 양식을 수록합니다.",
+      "toc": [
+        "검색 최적화의 맹점: 트래픽은 늘었는데 왜 최종 결제액은 제자리인가",
+        "퍼널별 AI 배치 지도: 유입 이후 장바구니 이탈을 잡는 자동화 시나리오",
+        "소재 제작과 카피라이팅: 하루 50개 광고 배너를 테스트하는 AI 워크플로우",
+        "숫자로 증명하는 성과: 경영진을 설득하는 채널별 AI 공헌이익 산출 공식",
+        "실패 없는 파일럿 플랜: 예산 300만 원으로 14일 만에 ROI 검증하는 실행 로드맵"
+      ],
+      "searchQueries": [
+        "AI 마케팅",
+        "검색 최적화"
+      ],
+      "bookworthiness": {
+        "durability": "AI 마케팅 툴의 브랜드는 바뀌어도 고객 획득-전환-유지라는 마케팅 퍼널의 경제학적 검증 원리는 영구히 유지됩니다.",
+        "repeatNeed": "분기별 마케팅 믹스 조정과 신규 캠페인 기획 시마다 채널별 자원 배분의 가이드북으로 반복 사용됩니다.",
+        "expansionPotential": "B2B와 B2C 업종별 상세 적용 사례 및 프롬프트 체인 설계를 보강해 240쪽 단행본으로 확장이 충분합니다.",
+        "productDependency": "중간"
+      },
+      "authors": [
+        {
+          "name": "윤필현",
+          "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
+          "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/200091780",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "고진용",
+          "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
+          "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/200091780",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "권혜민",
+          "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
+          "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/200091780",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "윤필현",
+      "bestAuthor": "윤필현",
+      "authorBrief": "",
+      "headlineCopy": "검색 최적화에만 쏟아부은 AI 마케팅 예산, 이제 결제 전환율로 회수하라",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "경영진 앞에서의 당당한 ROI 증명",
+          "반복적 소재 제작 업무의 획기적 단축"
         ],
         "quadrant": {
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "보이저1호 1광일 돌파 뉴스와 연계된 SNS 캠페인으로 독자의 실제 상황을 직접 제시합니다.",
-        "trust": "전문 천문학자 인터뷰와 검증된 데이터 표를 통해 신뢰성을 확보합니다.",
-        "conversion": "무료 미리보기 챕터와 인터랙티브 퀴즈를 제공해 구매 전 체험을 유도합니다.",
+        "acquisition": "아이보스, 오픈애즈 등 마케터 전문 플랫폼에 '검색광고 효율 떨어질 때 점검하는 AI 퍼널 진단 시트'를 기고해 실무자를 모읍니다.",
+        "trust": "실제 이커머스 기업의 채널별 A/B 테스트 데이터와 AI 도입 전후 ROAS 비교 수치표를 공개해 설득력을 확보합니다.",
+        "conversion": "상세페이지 내에 '우리 팀 AI 마케팅 성숙도 및 낭비 예산 자가진단 테스트' 링크를 삽입해 즉각 구매로 전환시킵니다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "우주 거리 개념이 난해해 보일 수 있습니다.",
-          "objection": "“이 정도는 인터넷에 검색하면 충분하지 않나요?”",
-          "solution": "시각화된 인포그래픽과 일상 비유로 복잡성을 낮추어 설명합니다."
+          "problem": "AI 마케팅 서적이 흔히 그렇듯 시중에 널린 챗GPT 명령어 모음집 수준일 것이라 넘겨짚을 수 있습니다.",
+          "objection": "\"유튜브에 무료로 풀린 AI 프롬프트 팁과 무엇이 다른가?\"",
+          "solution": "프롬프트 자체가 아니라 마케팅 비용 집행 대비 매출 기여도를 증명하는 'ROI 산출 엑셀 로직'을 미리보기로 과감히 노출합니다."
         },
-        "positioning": "우주 과학을 처음 접하는 독자에게도 친숙하게 다가가는 최신 탐사 서적으로 자리매김합니다."
+        "positioning": "검색 노출 경쟁에 지친 마케터를 위한 퍼널 전체 결제 전환 중심의 AI 투자 매뉴얼"
       },
       "devilsEditor": {
-        "failureReason": "우주 거리와 시간 개념을 추상적으로만 제시하면 독자가 이해하지 못할 위험이 있습니다.",
-        "fix": "구체적인 비유와 시각 자료를 추가해 독자가 직접 체감하도록 보강합니다."
+        "failureReason": "특정 AI 마케팅 SaaS 솔루션의 인터페이스 설명에 치중하다가 해당 툴의 UI 개편이나 서비스 종료 시 책의 유효성이 급격히 떨어질 수 있습니다.",
+        "fix": "개별 도구 이름이 아니라 '데이터 입력-가공-트리거 발송'이라는 범용 데이터 파이프라인 개념을 중심으로 본문을 설계합니다."
       },
       "scores": {
         "market": 92,
-        "timing": 92,
+        "timing": 96,
         "difference": 95,
         "author": 86,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 93,
+      "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "독자가 1광일 개념을 이해하지 못하면 책 전체의 설득력이 떨어질 수 있습니다.",
-      "riskResponse": "각 장마다 핵심 포인트를 요약하고 체크리스트를 제공해 이해도를 높입니다.",
-      "judgment": "보이저1호의 돌파는 최신 과학 트렌드이며, 독자에게 실질적인 인사이트를 제공할 수 있어 출판 가치가 높습니다.",
+      "risk": "생성형 AI 검색 환경(AI Overviews 등)의 급격한 알고리즘 변화로 인해 기존 채널 유입 공식이 교란될 위험이 있습니다.",
+      "riskResponse": "플랫폼 종속적 트래픽에 의존하지 않는 자체 퍼스트파티 데이터와 CRM 기반 AI 전환 전략의 비중을 40% 이상 유지합니다.",
+      "judgment": "개별 생성 AI 도구의 화려한 기능 나열을 걷어내고 마케팅 팀장이 경영진에게 제시할 수 있는 채널별 ROI 입증 수식을 명확히 쥐여주는 데 상업적 성패가 갈립니다.",
       "evidence": [
         {
-          "text": "넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행 — 서승우",
+          "text": "AI 시대의 디지털 마케팅 입문 — 윤필현,고진용,권혜민,이건민,윤승현 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/130024463"
+          "url": "https://www.yes24.com/product/goods/200091780"
         },
         {
-          "text": "우주탐사선 보이저1호 ‘1광일’ 돌파 새 우주 이정표 - 포커스온경제",
+          "text": "내년 AI 마케팅 투자 1위는 `검색 최적화`…콘텐츠 제작 제쳐 - 디지털데일리",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qeFlWTGdmOURWOW9FeDZWRUxxYUFkQjZRVWkzeHFGc1dJeXRBeENLeElwbjl0dDJtSmV4bnhIRld6SFRRaVlxWnc1cktxYzRJWEx1RVpMbU1uRHNsOXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mT1FtQzRINm8tUjhiU3hqUXM3LUl2ekJHQ0NLQWh6NEZwWWdiam9NNmdlTWNSU25zSzVJS2dGMVZOelhmSzd1Rl9ieHg5MkVvc3hMNnRIdENFbUxUdndVVnhqbFc?oc=5"
         },
         {
-          "text": "어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실 — 책마중 글, 비타민상상력 그림",
+          "text": "2027 이기적 AI 광고마케팅전문가 1급 기본서(1차+2차) — 박노성 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/61115391"
+          "url": "https://www.yes24.com/product/goods/200730533"
         },
         {
-          "text": "지식이 번쩍! Creativity Book 세트/전4권.스프링북/자연탐험.미술여행.우주탐사.깜짝발명 — 루스 톰슨 글 / 아녜세 바루치, 엘르 워드 그림 외",
+          "text": "AI 마케팅 완벽 가이드 — 최신만 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/98862107"
+          "url": "https://www.yes24.com/product/goods/196198323"
         }
       ],
       "sourceChannels": [
@@ -182,40 +366,40 @@
       },
       "similarBooks": [
         {
-          "title": "넥스트 레벨 1-4권 세트 전4권 인공지능 메타버스 우주탐사 자율주행",
-          "author": "서승우",
-          "publisher": "한솔수북",
-          "publicationDate": "20240531",
-          "url": "https://www.yes24.com/product/goods/130024463",
-          "matchedQuery": "우주탐사선 보이저1호",
+          "title": "AI 시대의 디지털 마케팅 입문",
+          "author": "윤필현,고진용,권혜민,이건민,윤승현 저",
+          "publisher": "도서출판청람",
+          "publicationDate": "20261115",
+          "url": "https://www.yes24.com/product/goods/200091780",
+          "matchedQuery": "AI 마케팅",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "어메이징 공룡월드 + 우주탐사 세트 (전2권) : 3D 증강현실",
-          "author": "책마중 글, 비타민상상력 그림",
-          "publisher": "스마트베어(전집)",
-          "publicationDate": "20161201",
-          "url": "https://www.yes24.com/product/goods/61115391",
-          "matchedQuery": "우주탐사선 보이저1호",
+          "title": "2027 이기적 AI 광고마케팅전문가 1급 기본서(1차+2차)",
+          "author": "박노성 저",
+          "publisher": "영진닷컴",
+          "publicationDate": "20270115",
+          "url": "https://www.yes24.com/product/goods/200730533",
+          "matchedQuery": "AI 마케팅",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "지식이 번쩍! Creativity Book 세트/전4권.스프링북/자연탐험.미술여행.우주탐사.깜짝발명",
-          "author": "루스 톰슨 글 / 아녜세 바루치, 엘르 워드 그림 외",
-          "publisher": "사파리(전집)",
-          "publicationDate": "20160331",
-          "url": "https://www.yes24.com/product/goods/98862107",
-          "matchedQuery": "우주탐사선 보이저1호",
+          "title": "AI 마케팅 완벽 가이드",
+          "author": "최신만 저",
+          "publisher": "디지털콘텐츠그룹",
+          "publicationDate": "20260911",
+          "url": "https://www.yes24.com/product/goods/196198323",
+          "matchedQuery": "AI 마케팅",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-18T23:41:51.702Z",
+        "updatedAt": "2026-11-19T23:43:21.665Z",
         "queries": [
-          "우주탐사선 보이저1호",
-          "1광일 돌파"
+          "AI 마케팅",
+          "검색 최적화"
         ],
         "resultCount": 3,
         "errors": []
@@ -224,950 +408,123 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-19T00:19:04.616Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "우주탐사선 보이저1호의 1광일 돌파 의미",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "우주가 우리에게 속삭이는 거리,\n1광일",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "010",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "밤하늘을 바라보며 망원경을 돌린다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "014",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "작은 별빛에 내 존재가 흔들린다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "029",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 그 거리엔 인간의 미래가 담겨 있다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "012",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "우린 그 여정의 한 조각이 되었다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "032",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "우주의 한 걸음이 우리 삶의 새로운 지평이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "048",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-b01ec14c"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1521203808974-S45QL034BWN73XXIE5JN/abcd.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "ABCD Awards 2018",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 개념을 시각적 기호로 치환하는 그래픽 구성 방식이 '1광일'의 시각화에 유용함",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 50,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 88,
-          "query": "popular science technology future",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/43ac7906-afaf-4862-80de-fc3725d76395/california_bridge-to-an-unseen-shore_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "california bridge to an unseen shore",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fixed-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 거리감을 감각적인 그래픽과 여백으로 표현하여 미지의 공간감을 전달하는 시각적 원리가 탁월함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "popular science technology future",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e78fe94c-0e6a-4ac4-a9ac-f0e387d947ae/duke_archives-of-the-anthropocene_sept26_courtney-l-baker+copy.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "duke archives of the anthropocene",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 개념을 시각적 레이아웃으로 구조화한 방식이 광년이라는 거리감을 표현할 디자인 원리로 유효함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 50,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "popular science technology future",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1521203808974-S45QL034BWN73XXIE5JN/abcd.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/tag/cover+design",
-          "title": "ABCD Awards 2018",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 개념을 시각적 기호로 치환하는 그래픽 구성 방식이 '1광일'의 시각화에 유용함",
-          "gemmaScore": 69,
-          "gemmaTopicFit": 30,
-          "gemmaGenreFit": 50,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 88,
-          "query": "popular science technology future",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/43ac7906-afaf-4862-80de-fc3725d76395/california_bridge-to-an-unseen-shore_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "california bridge to an unseen shore",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fixed-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 거리감을 감각적인 그래픽과 여백으로 표현하여 미지의 공간감을 전달하는 시각적 원리가 탁월함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 60,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "popular science technology future",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e78fe94c-0e6a-4ac4-a9ac-f0e387d947ae/duke_archives-of-the-anthropocene_sept26_courtney-l-baker+copy.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "duke archives of the anthropocene",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 개념을 시각적 레이아웃으로 구조화한 방식이 광년이라는 거리감을 표현할 디자인 원리로 유효함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 50,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "popular science technology future",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-b01ec14c",
-        "status": "ready",
-        "generatedAt": "2026-11-19T07:01:05.077Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
+      "rank": 2
     },
     {
-      "type": "AI",
-      "field": "AI",
-      "title": "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
-      "concept": "AI 기반 라이선싱 플랫폼을 활용해 도서 확보와 계약 관리를 효율화하는 실무 매뉴얼",
-      "why": "최근 AI 도서 라이선싱 플랫폼이 출판 현장에서 급부상했으며, N15 뉴스가 이를 강조하고 있습니다.",
-      "competition": "전통적인 라이선싱 서적은 수작업 절차와 시간 소모를 강조하지만, AI 도구의 자동화 효과를 다루지 못합니다.",
-      "reader": "출판사 편집·마케팅 담당자와 신입 기획자, AI 도입을 고민하는 출판 현장 실무자",
-      "readerNeed": "AI 플랫폼을 통해 도서 확보와 계약 과정을 빠르고 정확하게 진행하고 싶어합니다.",
-      "marketGap": "AI 활용 사례가 부족해 실제 적용 방법을 모르는 출판 현장 담당자가 많습니다.",
-      "differentiation": "플랫폼 선택 가이드, 단계별 워크플로우, 실전 체크리스트를 제공해 바로 적용 가능한 도구로 설계했습니다.",
-      "diff": "플랫폼 선택 가이드, 단계별 워크플로우, 실전 체크리스트를 제공해 바로 적용 가능한 도구로 설계했습니다.",
+      "type": "법률",
+      "field": "법률",
+      "title": "미국 저작권 등록비 인상, 중소 출판사의 생존 전략",
+      "concept": "미국 저작권청의 수수료 43% 대폭 인상에 대응하여, 중소 출판사와 독립 제작자가 일괄 등록 제도와 자동화 접수 도구를 통해 최소 비용으로 글로벌 지식재산권을 방어하는 실무 전략서",
+      "why": "미국 저작권 등록비가 2020년 이후 7년 만에 43% 급등함에 따라, 해외 판권 수출과 아마존 직수출을 추진하는 중소 출판사와 창작자가 비용 폭탄을 맞고 권리 등록을 포기하는 위기에 직면했기 때문입니다.",
+      "competition": "《창작과 이용을 위한 저작권》, 《창작자와 편집자를 위한 저작권 매뉴얼》 등 국내 서적은 한국 저작권법 중심의 법리 해석과 계약서 작성법만 다루며, 미국 저작권청(eCO)의 인상된 수수료 구조나 단체 등록(Group Registration)을 통한 비용 절감 실무를 다루지 않습니다.",
+      "reader": "영미권 전자책 출간, 웹툰·웹소설 수출, 굿즈 유통을 진행 중이며 등록 비용 급증으로 판권 관리에 차질을 빚는 중소 출판사 대표 및 1인 출판 창작자",
+      "readerNeed": "건당 인상된 미국 저작권 등록비를 감당하기 어려운 상황에서, 어떤 저작물을 우선 등록하고 어떻게 묶어 신청해야 비용을 절반 이하로 줄일 수 있는지 실행 절차가 절실합니다.",
+      "marketGap": "미국 저작권청 온라인 등록 시스템(eCO)의 최신 인상 요율표를 반영하고, 소규모 제작사를 위한 합법적 비용 절감 테크닉(단체 등록, 자동화 서식 작성)을 단계별로 안내하는 책이 없습니다.",
+      "differentiation": "미국 eCO 시스템 화면별 영문 입력 가이드, 분기별 일괄 단체 등록(GRTX) 신청 요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공합니다.",
+      "diff": "미국 eCO 시스템 화면별 영문 입력 가이드, 분기별 일괄 단체 등록(GRTX) 신청 요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공합니다.",
       "toc": [
-        "AI 라이선싱 플랫폼 개요와 선택 기준",
-        "도서 확보를 위한 AI 데이터 수집 방법",
-        "계약 자동화와 위험 관리 프로세스",
-        "효율성 향상을 위한 KPI 설정과 분석",
-        "현장 적용 사례와 성공 포인트 정리"
+        "비용 인상의 충격: 미국 저작권 등록비 43% 인상이 K-콘텐츠 수출에 미치는 영향",
+        "우선순위 선별: 한정된 예산으로 내 타이틀 중 무엇을 먼저 보호할 것인가",
+        "단체 등록의 기술: 건별 비용을 1/5로 낮추는 그룹 등록(Group Registration) 비법",
+        "eCO 실전 접수: 반려 없이 한 번에 통과하는 온라인 저작권 등록 영문 서식 작성",
+        "침해 발생 시 행동 수칙: 최소 비용 등록증으로 영미권 무단 도용 즉시 차단하기"
       ],
       "searchQueries": [
-        "도서 라이선싱",
-        "AI 도서 플랫폼"
+        "저작권 비용",
+        "출판사 비용 절감"
       ],
       "bookworthiness": {
-        "durability": "AI 기술 변화에 맞춰 업데이트 가능한 구조로 장기적인 활용이 가능합니다.",
-        "repeatNeed": "출판 현장에서 지속적인 계약 관리와 신규 도서 확보에 반복적으로 필요합니다.",
-        "expansionPotential": "다른 출판 업무(편집, 마케팅)와 연계해 종합 AI 출판 솔루션으로 확장할 수 있습니다.",
+        "durability": "미국 저작권청의 수수료 체계는 한번 개정되면 다년간 유지되며, 해외 지재권 방어 프로세스는 출판사의 필수 경영 자산입니다.",
+        "repeatNeed": "신간 출간 및 영미권 판권 계약 체결 시마다 eCO 등록 절차를 밟기 위해 매번 펼쳐보는 실무 편람입니다.",
+        "expansionPotential": "미국 상표권 등록 절차와 아마존 브랜드 레지스트리 연동법까지 포괄하여 200쪽 실무 단행본으로 확장이 용이합니다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "이승용",
-          "career": "《캐릭터 라이선싱》 저자 · 커뮤니케이션북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《캐릭터 라이선싱》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/177106746",
+          "name": "배대헌",
+          "career": "《창작과 이용을 위한 저작권》 저자 · 경북대학교출판부",
+          "why": "YES24에서 이 기획과 인접한 주제의 《창작과 이용을 위한 저작권》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/117721991",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "신승호",
-          "career": "《스포츠 라이선싱 (큰글자책)》 저자 · 커뮤니케이션북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《스포츠 라이선싱 (큰글자책)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/142566389",
+          "name": "이승훈",
+          "career": "《창작자와 편집자를 위한 저작권 매뉴얼》 저자 · 한국출판인회의",
+          "why": "YES24에서 이 기획과 인접한 주제의 《창작자와 편집자를 위한 저작권 매뉴얼》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/96001116",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "김형석",
-          "career": "《스포츠 라이선싱 (큰글자책)》 저자 · 커뮤니케이션북스",
-          "why": "YES24에서 이 기획과 인접한 주제의 《스포츠 라이선싱 (큰글자책)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/142566389",
+          "name": "황지현",
+          "career": "《창작자와 편집자를 위한 저작권 매뉴얼》 저자 · 한국출판인회의",
+          "why": "YES24에서 이 기획과 인접한 주제의 《창작자와 편집자를 위한 저작권 매뉴얼》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/96001116",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "이승용",
-      "bestAuthor": "이승용",
+      "author": "배대헌",
+      "bestAuthor": "배대헌",
       "authorBrief": "",
-      "headlineCopy": "AI 도구로 도서 라이선싱을 혁신하고 업무 효율을 높이세요.",
+      "headlineCopy": "치솟은 미국 저작권 등록비, 합법적인 묶음 등록으로 비용을 절반으로 줄여라",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "업무 효율을 높이고 싶다",
-          "AI 도구를 실제 업무에 적용하고 싶다"
+          "과도한 해외 저작권 등록 비용 절감",
+          "소송 비용 없이 영미권 무단 복제 즉시 차단"
         ],
         "quadrant": {
           "audience": "니치형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "출판 현장 담당자가 겪는 ‘계약 지연·비효율’ 상황을 구체적으로 제시해 관심을 끕니다.",
-        "trust": "플랫폼 벤더와 협업한 실제 데이터와 성공 사례를 통해 신뢰를 구축합니다.",
-        "conversion": "무료 체험 계정 제공과 단계별 가이드 PDF 다운로드로 구매 전 체험을 유도합니다.",
+        "acquisition": "한국독립출판협회, 웹툰·웹소설 작가 지망 커뮤니티, 출판마케팅 포럼에 '미국 저작권 등록비 인상 대조표 및 절감 체크리스트'를 배포합니다.",
+        "trust": "실제 미국 저작권청(U.S. Copyright Office) 공고 개정안 원문 데이터와 중소 에이전시의 eCO 단체 등록 통과 서식을 증거로 제시합니다.",
+        "conversion": "도서 상세페이지에서 '단 3분 만에 확인하는 내 도서의 미국 그룹 등록 가능 여부 문답표'를 무료 샘플로 제공합니다.",
         "maxDropoff": {
           "stage": "의심",
-          "problem": "AI 도입 비용과 학습 곡선이 부담될 수 있습니다.",
-          "objection": "“AI가 실제로 도움이 될까?”",
-          "solution": "ROI 계산 시트와 파일럿 프로젝트 성공 사례를 제시해 설득합니다."
+          "problem": "미국 저작권 등록 절차는 어차피 전문 변호사나 대리인에게 맡겨야 하므로 책이 필요 없다고 여길 수 있습니다.",
+          "objection": "\"대행업체에 맡기면 그만인데, 내가 직접 서류를 작성할 수 있을까?\"",
+          "solution": "대행 수수료 수백만 원을 아끼고 출판사 대표가 30분 만에 끝낼 수 있는 'eCO 화면 1:1 캡처 영문 입력 템플릿'을 수록해 불안을 해소합니다."
         },
-        "positioning": "출판사 현장의 AI 도입을 선도하는 실전 매뉴얼로 차별화됩니다."
+        "positioning": "인상된 등록비 폭탄을 피하고 내 해외 저작권을 지키는 중소 제작사 전용 지재권 실무서"
       },
       "devilsEditor": {
-        "failureReason": "AI 플랫폼 사용법을 추상적으로만 설명하면 현장 적용이 어려워집니다.",
-        "fix": "구체적인 화면 캡처와 단계별 스크린샷을 삽입해 실무 적용을 돕습니다."
+        "failureReason": "미국 저작권법의 딱딱한 조문 나열에 매몰되어 현업 출판인이 가장 원하는 '실제 등록 화면 작성 요령과 수수료 절약법'이 가려질 위험이 있습니다.",
+        "fix": "법률 이론을 최소화하고 저작권청 웹사이트 화면 캡처와 칸별 입력 문장 예시를 전체 지면의 60% 이상으로 채웁니다."
       },
       "scores": {
         "market": 92,
-        "timing": 92,
-        "difference": 91,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 96
-      },
-      "score": 92,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "AI 도구에 대한 불신이 있으면 도입을 꺼릴 위험이 있습니다.",
-      "riskResponse": "실제 비용 절감 효과와 시간 단축 데이터를 제시해 설득력을 높입니다.",
-      "judgment": "AI 라이선싱은 출판 산업의 핵심 혁신 포인트이며, 실무 적용 가이드는 시장에서 큰 필요를 충족합니다.",
-      "evidence": [
-        {
-          "text": "캐릭터 라이선싱 — 이승용 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/177106746"
-        },
-        {
-          "text": "AI 도서 라이선싱 플랫폼 멘탯, 제휴 출판사 100곳 돌파…도서 4만종 확보 - 디지털데일리",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYRHFBRzBQODVBa3FLaFRKMjVQNWhUNE9yem9NRGxVaFk5YmF4aGFxZlY4RlREVG1QcjM4STBNLWVHSkZsN1lXS25HRmJWSGNoTVpuWlkzOFB1N2Y3RVN6SVBjQnc?oc=5"
-        },
-        {
-          "text": "캐릭터 라이선싱 (큰글자책) — 이승용 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/177106749"
-        },
-        {
-          "text": "스포츠 라이선싱 (큰글자책) — 신승호,김형석 공저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/142566389"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "캐릭터 라이선싱",
-          "author": "이승용 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20260220",
-          "url": "https://www.yes24.com/product/goods/177106746",
-          "matchedQuery": "도서 라이선싱",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "캐릭터 라이선싱 (큰글자책)",
-          "author": "이승용 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20260220",
-          "url": "https://www.yes24.com/product/goods/177106749",
-          "matchedQuery": "도서 라이선싱",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "스포츠 라이선싱 (큰글자책)",
-          "author": "신승호,김형석 공저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20250210",
-          "url": "https://www.yes24.com/product/goods/142566389",
-          "matchedQuery": "도서 라이선싱",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-18T23:41:56.831Z",
-        "queries": [
-          "도서 라이선싱",
-          "AI 도서 플랫폼"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-19T01:02:41.647Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "AI 도서 라이선싱 플랫폼을 활용한 도서 확보 방법",
-        "provider": "groq",
-        "aiCards": 5,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "AI 플랫폼에 맡기면 계약이 사라진다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "009",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "플랫폼을 통해 확보와 계약 과정을 빠르고 정확하게 진행하고 싶어한다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "023",
-            "sceneCategory": "warning",
-            "source": "rule-repair"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "계약서 검토가 늦고, 비용이 늘고, 소통이 끊긴다면",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "030",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "그건 효율을 잃은 선택이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "지금 바로 플랫폼을 비교하고\n핵심 체크리스트로 검증하라",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "037",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "똑똑한 선택이 곧 경쟁력이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "047",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-b01ec14c"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "주제 연관성은 낮으나, 강렬한 타이포그래피 배치와 여백의 대비를 통해 실무 매뉴얼의 가독성과 전문성을 높이는 레이아웃 원리로 참고 가능함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "artificial intelligence reading",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6cc6a24f-9171-4a72-a376-f642dbe0ec99/duke_ninety-nine_oct26_matthew-tauch_calligraphy-md-zahid-hasan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "duke ninety nine",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "실무 매뉴얼의 신뢰감을 위해 실험적 그래픽보다는 타이포그래피 중심의 정갈한 레이아웃을 참고할 가치가 높음",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence reading",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/12063b90-fdde-4173-984b-81048decb32d/kentucky_carrying-the-bones_oct26_kat-lynch.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky carrying the bones",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 실무 매뉴얼의 딱딱함을 탈피한 세련된 전문 서적 디자인 원리로 활용 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence reading",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0f29aa64-99b3-4a30-8d4b-e3b077d2eb34/ohio-state_jk-rowling-and-the-anti-trans-panic_sept26_brad-norr_art-maria-stoian.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "ohio state jk rowling and the anti trans panic",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "주제 연관성은 낮으나, 강렬한 타이포그래피 배치와 여백의 대비를 통해 실무 매뉴얼의 가독성과 전문성을 높이는 레이아웃 원리로 참고 가능함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 94,
-          "query": "artificial intelligence reading",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6cc6a24f-9171-4a72-a376-f642dbe0ec99/duke_ninety-nine_oct26_matthew-tauch_calligraphy-md-zahid-hasan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "duke ninety nine",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "실무 매뉴얼의 신뢰감을 위해 실험적 그래픽보다는 타이포그래피 중심의 정갈한 레이아웃을 참고할 가치가 높음",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence reading",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/12063b90-fdde-4173-984b-81048decb32d/kentucky_carrying-the-bones_oct26_kat-lynch.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky carrying the bones",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 실무 매뉴얼의 딱딱함을 탈피한 세련된 전문 서적 디자인 원리로 활용 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence reading",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-b01ec14c",
-        "status": "ready",
-        "generatedAt": "2026-11-19T07:01:07.419Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "AI",
-      "field": "AI",
-      "title": "AI 부정행위 파문을 피하는 방법",
-      "concept": "AI가 만든 부정행위 위험을 사전에 차단하고 시험 준비에 집중할 수 있게 돕는 실전 매뉴얼",
-      "why": "N15 뉴스에서 AI 부정행위 파문이 수능 준비에 미치는 영향을 보도했으며, 대비책이 시급합니다.",
-      "competition": "기존 수능 대비 서적은 AI 부정행위 문제를 다루지 않아 최신 위험에 대한 대비가 부족합니다.",
-      "reader": "수능을 앞둔 고등학생과 학원 강사, AI 활용에 불안감을 가진 학부모",
-      "readerNeed": "AI 부정행위 위험을 미리 인지하고, 안전하게 시험 준비를 진행하고 싶어합니다.",
-      "marketGap": "AI 부정행위 사례와 예방 방법을 구체적으로 제시하는 교육 서적이 거의 없습니다.",
-      "differentiation": "작업 분해표, AI 위임 기준, 검수 질문지, 성과 기록표 등 실전 도구를 제공해 직접 적용하도록 설계했습니다.",
-      "diff": "작업 분해표, AI 위임 기준, 검수 질문지, 성과 기록표 등 실전 도구를 제공해 직접 적용하도록 설계했습니다.",
-      "toc": [
-        "AI 부정행위 파문 현황과 위험 분석",
-        "수능 준비에 필요한 기본 전략 정리",
-        "AI 위임 기준과 검수 질문지 활용법",
-        "작업 분해표로 학습 계획 재설계하기",
-        "성공적인 시험 대비를 위한 체크리스트"
-      ],
-      "searchQueries": [
-        "AI 부정행위",
-        "수능 준비"
-      ],
-      "bookworthiness": {
-        "durability": "AI 부정행위는 장기적인 교육 이슈로, 지속적인 대비책이 필요합니다.",
-        "repeatNeed": "시험 시즌마다 반복적으로 활용될 수 있는 실전 도구입니다.",
-        "expansionPotential": "다른 시험(대학원, 공무원)에도 적용 가능한 예방 매뉴얼로 확장 가능합니다.",
-        "productDependency": "낮음"
-      },
-      "authors": [
-        {
-          "name": "김재호",
-          "career": "《부정행위 불륜 이혼 판례》 저자 · 암마이",
-          "why": "YES24에서 이 기획과 인접한 주제의 《부정행위 불륜 이혼 판례》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/89988483",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "토리오 리세 글그림",
-          "career": "《욕심 없는 나의 부정행위》 저자 · 디앤씨미디어(D&C미디어)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《욕심 없는 나의 부정행위》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/62151157",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "심이슬 역",
-          "career": "《욕심 없는 나의 부정행위》 저자 · 디앤씨미디어(D&C미디어)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《욕심 없는 나의 부정행위》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/62151157",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "김재호",
-      "bestAuthor": "김재호",
-      "authorBrief": "",
-      "headlineCopy": "AI 부정행위 파문을 미리 차단하고 안심하고 수능을 준비하세요.",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "시험 준비에 방해가 되는 위험을 없애고 싶다",
-          "AI 활용에 대한 불안감을 해소하고 싶다"
-        ],
-        "quadrant": {
-          "audience": "니치형",
-          "mode": "감정·이미지형"
-        },
-        "acquisition": "수능 전형을 앞둔 학생들의 ‘AI 부정행위 우려’ 상황을 직접 언급해 공감대를 형성합니다.",
-        "trust": "교육 전문가 인터뷰와 실제 사례 분석을 통해 신뢰를 확보합니다.",
-        "conversion": "무료 시험 대비 체크리스트와 AI 위험 진단 툴을 제공해 구매를 유도합니다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "AI 부정행위가 실제로 얼마나 큰 위협인지 모를 수 있습니다.",
-          "objection": "“이미 기존 대비법으로 충분하지 않나요?”",
-          "solution": "통계 자료와 실제 부정행위 사례를 제시해 위험성을 명확히 합니다."
-        },
-        "positioning": "AI 시대에 맞춘 최초의 수능 대비 부정행위 방지 매뉴얼로 차별화됩니다."
-      },
-      "devilsEditor": {
-        "failureReason": "AI 부정행위 위험을 과장하면 독자 신뢰를 잃을 위험이 있습니다.",
-        "fix": "객관적인 데이터와 사례 중심으로 위험 수준을 정확히 전달합니다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 92,
+        "timing": 96,
         "difference": 95,
         "author": 86,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 93,
+      "score": 94,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "AI 부정행위 위험을 과소평가하면 독자가 책의 필요성을 느끼지 못할 수 있습니다.",
-      "riskResponse": "구체적인 사례와 손쉬운 예방 체크리스트로 위험 인식을 강화합니다.",
-      "judgment": "AI 부정행위는 새로운 교육 위협이며, 이를 대비하는 실전 가이드는 현재 시장에 부재합니다.",
+      "risk": "미국 저작권청의 행정 규칙 변경이나 전자 접수 시스템(eCO) 개편으로 세부 서식이 예고 없이 바뀔 위험이 있습니다.",
+      "riskResponse": "주요 서식 변경 사항 발생 시 출판사 웹사이트를 통해 수정된 입력 가이드 PDF를 즉시 업데이트 배포합니다.",
+      "judgment": "단순한 저작권 법리 해설서가 아니라 인상된 수수료를 획기적으로 아껴주는 eCO 단체 등록 실무 테크닉을 얼마나 직관적으로 전달하느냐가 이 책의 구매를 결정합니다.",
       "evidence": [
         {
-          "text": "부정행위 불륜 이혼 판례 — 김재호 저",
+          "text": "창작과 이용을 위한 저작권 — 배대헌 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/89988483"
+          "url": "https://www.yes24.com/product/goods/117721991"
         },
         {
-          "text": "AI 부정행위 파문에 수능 앞둔 수험생 풍자 밈 확산…서울대 의대 신입생 환영회 패러디까지 - 스페셜타임스",
+          "text": "미국 저작권 등록비 내년 1월 5일부터 43% 오른다…2020년 이후 7년 만에 대폭 인상 - IPDaily",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxYVhqXzNnMXpLSFJ1eG13VzBzdkUtdzJURnRQYmN5aTZ6Q2hERnEzRUlfVHhreUttdXNQX0MzdlI0dTFXVGRVMUg2MnROZW03dU8yRGhRUE9LTFkzbEZSckxwc1ZKVU41QU9sSWJoYkMxNlk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNbzc5TmlEN2RSOWh1aTVGNnhRTXNnaEdiOVFpRl9GQ3N4X2pvY0N1T0VrZDNqcnJZTzFBWVdvQ043M0cwbXgwRDNfQVpCRHU1cFR0MXF2Vk5oWWNOLWRvU3p4Nk4zWmFNV05ZT2ZmUnluX1owMmcyVXR1NmFRX05RRmVkVXVLYmVtMlpkS19kNlBSNnpna3o1QkNUU2hibHFfdWRyRlZZX004cTRvb25pU1JHaEIyemNmVEZacENOb3Rhd1NyYTNkb2UyMmJIWFFaZi1mUnlsNWYtNEMtaUd5bXhhYzh0dFhpNTZTTEVvMU1UaHpzRmxfWEZXMHFqX1QxeS1vZ3FuUDZFYkJtY1IzMjdINEI3aHJvMGZCdFQzNFRIRWQ4X1ZjMGs1WkwwRWhpNFh3UWZ0c0RGbG13Mkxzcm9IaHRXMVhsSUs3ZmNnWEJjX0gwSEE3Vg?oc=5"
         },
         {
-          "text": "욕심 없는 나의 부정행위 — 토리오 리세 글그림/심이슬 역",
+          "text": "창작자와 편집자를 위한 저작권 매뉴얼 — 이승훈,황지현,서대진,이동국 공저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/62151157"
+          "url": "https://www.yes24.com/product/goods/96001116"
         },
         {
-          "text": "연구부정행위 검증 및 처리관련 연구윤리 실무 매뉴얼 — 한국연구재단 저",
+          "text": "현대 저작권의 쟁점과 전망 — 류종현 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/32284810"
+          "url": "https://www.yes24.com/product/goods/3644105"
         }
       ],
       "sourceChannels": [
@@ -1188,40 +545,40 @@
       },
       "similarBooks": [
         {
-          "title": "부정행위 불륜 이혼 판례",
-          "author": "김재호 저",
-          "publisher": "암마이",
-          "publicationDate": "20200409",
-          "url": "https://www.yes24.com/product/goods/89988483",
-          "matchedQuery": "AI 부정행위",
+          "title": "창작과 이용을 위한 저작권",
+          "author": "배대헌 저",
+          "publisher": "경북대학교출판부",
+          "publicationDate": "20230223",
+          "url": "https://www.yes24.com/product/goods/117721991",
+          "matchedQuery": "저작권 비용",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "욕심 없는 나의 부정행위",
-          "author": "토리오 리세 글그림/심이슬 역",
-          "publisher": "디앤씨미디어(D&C미디어)",
-          "publicationDate": "20180720",
-          "url": "https://www.yes24.com/product/goods/62151157",
-          "matchedQuery": "AI 부정행위",
+          "title": "창작자와 편집자를 위한 저작권 매뉴얼",
+          "author": "이승훈,황지현,서대진,이동국 공저",
+          "publisher": "한국출판인회의",
+          "publicationDate": "20201211",
+          "url": "https://www.yes24.com/product/goods/96001116",
+          "matchedQuery": "저작권 비용",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "연구부정행위 검증 및 처리관련 연구윤리 실무 매뉴얼",
-          "author": "한국연구재단 저",
-          "publisher": "진한엠앤비",
-          "publicationDate": "20160913",
-          "url": "https://www.yes24.com/product/goods/32284810",
-          "matchedQuery": "AI 부정행위",
+          "title": "현대 저작권의 쟁점과 전망",
+          "author": "류종현 저",
+          "publisher": "커뮤니케이션북스",
+          "publicationDate": "20091120",
+          "url": "https://www.yes24.com/product/goods/3644105",
+          "matchedQuery": "저작권 비용",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-18T23:41:58.436Z",
+        "updatedAt": "2026-11-19T23:43:23.252Z",
         "queries": [
-          "AI 부정행위",
-          "수능 준비"
+          "저작권 비용",
+          "출판사 비용 절감"
         ],
         "resultCount": 3,
         "errors": []
@@ -1230,339 +587,8 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-19T01:02:41.647Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "AI 부정행위 파문을 피하는 방법",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "AI가 만든 시험 부정, 진짜 위험은?",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "002",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "학생들이 AI로 답을 만들고\n채점 시스템이 이를 받아들인다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "017",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "AI는 대량 생성 능력과 학습 데이터 편향으로\n오답을 정답처럼 보이게 만든다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "018",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "즉, 검증되지 않은 결과가 점수에 직접 반영되는 구조다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "문제는 기술이 아니라, 검증 절차가 없다는 것이다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "039",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "안전한 시험은 검증에서 시작된다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "049",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-b01ec14c"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/cb219d3c-876b-4bf4-bb23-0688b7ae1396/mit_morbid_oct26_margarita-encomienda.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "mit morbid",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피의 배치와 대비를 통해 경고와 질서라는 주제적 긴장감을 시각화하기에 적합함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/ad9ecd83-14a8-42f7-a9f1-4ae2865dfac6/kentucky_this-is-a-game-i-play_oct26_michel-vrana.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky this is a game i play",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 과감한 타이포그래피 배치는 실용서의 신뢰감과 현대적 감각을 동시에 전달할 수 있는 훌륭한 시각적 레퍼런스임.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f9eea4b6-a30d-4f0e-9da4-fde5bf049262/mcgill-queens_batten-down_oct26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "mcgill queens batten down",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "강렬한 그래픽 대비와 레이아웃을 통해 AI 시대의 경고와 질서를 시각적 긴장감으로 표현하기에 적합함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/cb219d3c-876b-4bf4-bb23-0688b7ae1396/mit_morbid_oct26_margarita-encomienda.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "mit morbid",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "강렬한 타이포그래피의 배치와 대비를 통해 경고와 질서라는 주제적 긴장감을 시각화하기에 적합함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/ad9ecd83-14a8-42f7-a9f1-4ae2865dfac6/kentucky_this-is-a-game-i-play_oct26_michel-vrana.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "kentucky this is a game i play",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "여백을 활용한 과감한 타이포그래피 배치는 실용서의 신뢰감과 현대적 감각을 동시에 전달할 수 있는 훌륭한 시각적 레퍼런스임.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f9eea4b6-a30d-4f0e-9da4-fde5bf049262/mcgill-queens_batten-down_oct26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "mcgill queens batten down",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "강렬한 그래픽 대비와 레이아웃을 통해 AI 시대의 경고와 질서를 시각적 긴장감으로 표현하기에 적합함",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 45,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-b01ec14c",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-b01ec14c",
-        "status": "ready",
-        "generatedAt": "2026-11-19T07:01:09.716Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
+      "rank": 3
     }
   ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261119-78e74778",
-    "file": "cardnews/2026-11-19.json",
-    "cardCount": 6
-  },
   "fallback": true
 }
