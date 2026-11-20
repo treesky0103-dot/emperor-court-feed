@@ -9,13 +9,13 @@
     "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
     "미국 저작권 등록비 인상, 중소 출판사의 생존 전략"
   ],
-  "provider": "deterministic-local",
-  "generatedAt": "2026-11-20T00:18:00.005Z",
+  "provider": "partial-mixed",
+  "generatedAt": "2026-11-20T00:20:53.033Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-20T00:18:00.005Z",
+      "generatedAt": "2026-11-20T00:18:43.715Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -40,10 +40,10 @@
         ]
       },
       "bookTitle": "반도체 호황 속 수출 전략을 재정비하라",
-      "provider": "deterministic-local",
+      "provider": "rule-fallback",
       "aiCards": 0,
       "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "fallbackReason": "no-ai-copy",
       "cards": [
         {
           "index": 1,
@@ -112,15 +112,12 @@
           "source": "rule-fallback"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-da03200b"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-20T00:18:00.005Z",
+      "generatedAt": "2026-11-20T00:20:52.835Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -145,32 +142,32 @@
         ]
       },
       "bookTitle": "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "groq",
+      "aiCards": 5,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "강한 선언",
-          "headline": "검색 최적화에만 쏟아부은 AI 예산, 이제 결제 전환율로 회수하라",
+          "headline": "검색만 파는 AI, 매출을 놓치고 있다",
           "body": "",
           "accent": "yellow",
           "sceneId": "007",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "warning",
           "beat": "공감",
-          "headline": "광고비 대비 매출액(ROAS)을 끌어올릴지 검증된 로드맵을 원한다.",
+          "headline": "검색 순위 올려도 전환이 안 돼 고민하는가",
           "body": "",
           "accent": "yellow",
           "sceneId": "027",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
@@ -181,51 +178,48 @@
           "accent": "yellow",
           "sceneId": "024",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "rule-repair"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "판단 기준",
-          "headline": "재율을 개선하지 못해 실질적인 매출 증명에 실패하고 있기 때문이다.",
+          "headline": "AI 활용이 검색에만 국한돼 전체 퍼널을 최적화하지 못한다는 증거다",
           "body": "",
           "accent": "yellow",
           "sceneId": "015",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "해결",
-          "headline": "도입 실패를 막는 14일 파일럿 테스트 양식을 수록한다.",
+          "headline": "AI를 CRM·소재·리타게팅·랜딩까지 전 채널에 배치하라",
           "body": "",
           "accent": "yellow",
           "sceneId": "035",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "강한 결론",
-          "headline": "UI 개편이나 서비스 종료 시 책의 유효성이 급격히 떨어질 수 있다.",
+          "headline": "전체 퍼널에 AI를 깔면 ROI가 살아난다",
           "body": "",
           "accent": "yellow",
           "sceneId": "043",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-da03200b"
     },
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-20T00:18:00.005Z",
+      "generatedAt": "2026-11-20T00:20:06.918Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -250,81 +244,78 @@
         ]
       },
       "bookTitle": "미국 저작권 등록비 인상, 중소 출판사의 생존 전략",
-      "provider": "deterministic-local",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "deadline-guarantee-no-ai",
+      "provider": "gemini",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "미국 저작권 등록비, 합법적인 묶음 등록으로 비용을 절반으로 줄여라.",
+          "headline": "먼 나라에 보낸 내 글이\n지켜지지 못할 때",
           "body": "",
           "accent": "yellow",
           "sceneId": "002",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "신청해야 비용을 절반 이하로 줄일 수 있는지 실행 절차가 절실한다.",
-          "body": "",
+          "headline": "외국어로 번역된 원고를 앞에 두고\n청구서 금액을 망설인다",
+          "body": "한 건당 치솟은 관할 관청의 등록비.",
           "accent": "yellow",
           "sceneId": "017",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "도구를 통해 최소 비용으로 글로벌 지식재산권을 방어하는 실무 전략서.",
-          "body": "",
+          "headline": "내 이름을 새겨 넣지 못해\n바다 건너에서 흩어질까 봐\n혼자 삼키는 밤",
+          "body": "작은 창작자에게 국경의 벽은 유독 높다.",
           "accent": "yellow",
           "sceneId": "026",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "비용 폭탄을 맞고 권리 등록을 포기하는 위기에 직면했기 때문이다.",
-          "body": "",
+          "headline": "하지만 지키는 일은\n하나씩 값을 치르는 것만이\n전부는 아니다",
+          "body": "묶어서 증명하고 단단하게 건너가는 방법이 있다.",
           "accent": "yellow",
           "sceneId": "015",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공한다.",
-          "body": "",
+          "headline": "아끼고 버텨낸 자리마다\n당신의 고유한 문장은\n끝내 안전하게 남는다",
+          "body": "비용 때문에 포기했던 이름들을 모아낸다.",
           "accent": "yellow",
           "sceneId": "033",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "'실제 등록 화면 작성 요령과 수수료 절약법'이 가려질 위험이 있다.",
+          "headline": "아무리 먼 땅으로 건너가도\n창작자의 권리는 홀로 남겨지지 않는다",
           "body": "",
           "accent": "yellow",
           "sceneId": "047",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
-      "deadlineGuaranteed": true,
-      "qualityTier": "continuity",
-      "upgradePending": true,
       "sourceRevision": "zcr-da03200b"
     }
   ]
