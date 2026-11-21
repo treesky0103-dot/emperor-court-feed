@@ -2,33 +2,21 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 21. 오전 11:09:39",
+  "updatedAt": "2026. 11. 21. 오후 06:48:36",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 306,
-    "passed": 8,
-    "deduped": 8,
-    "eventDeduped": 8,
-    "displayed": 8,
+    "raw": 258,
+    "passed": 6,
+    "deduped": 6,
+    "eventDeduped": 6,
+    "displayed": 6,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
   },
   "items": [
-    {
-      "id": "https://itbusinessnet.com/2026/11/ai-standards-announces-verifiable-ai-governance-platform-for-the-proof-economy/",
-      "title": "AI Standards Announces Verifiable AI Governance Platform for the Proof Economy – IT Business Net",
-      "source": "itbusinessnet.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-20",
-      "dateRaw": "2026-11-20T04:02:00Z",
-      "publishedAt": "2026-11-20T04:02:00Z",
-      "summary": "",
-      "url": "https://itbusinessnet.com/2026/11/ai-standards-announces-verifiable-ai-governance-platform-for-the-proof-economy/"
-    },
     {
       "id": "https://speedwaymedia.com/2026/11/20/human-in-the-loop-ai-architecture-operational-oversight-governance-and-compliance-checklists/",
       "title": "Human-in-the-Loop AI Architecture: Operational Oversight, Governance, and Compliance Checklists - Businesses looking to make these principles more practical can explore human in the loop AI operational architecture and compliance to better understand how oversight and operational controls can work together within enterprise AI environments. by SM",
@@ -88,18 +76,6 @@
       "publishedAt": "2026-11-20T13:02:00Z",
       "summary": "",
       "url": "https://www.makeuseof.com/the-guy-who-coined-vibe-coding-never-trusts-a-single-ai-and-you-can-copy-his-setup-for-free/"
-    },
-    {
-      "id": "https://www.kmib.co.kr/article/20261120500148",
-      "title": "제네시스 G80 하이브리드 LA오토쇼서 세계 첫 공개",
-      "source": "kmib.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-20",
-      "dateRaw": "2026-11-20T04:02:00Z",
-      "publishedAt": "2026-11-20T04:02:00Z",
-      "summary": "",
-      "url": "https://www.kmib.co.kr/article/20261120500148"
     },
     {
       "id": "https://www.capitalgazette.com/2026/11/20/orioles-training-staff-restructure-injuries/",
@@ -116,18 +92,6 @@
   ],
   "trendItems": [
     {
-      "id": "https://itbusinessnet.com/2026/11/ai-standards-announces-verifiable-ai-governance-platform-for-the-proof-economy/",
-      "title": "AI Standards Announces Verifiable AI Governance Platform for the Proof Economy – IT Business Net",
-      "source": "itbusinessnet.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-20",
-      "dateRaw": "2026-11-20T04:02:00Z",
-      "publishedAt": "2026-11-20T04:02:00Z",
-      "summary": "",
-      "url": "https://itbusinessnet.com/2026/11/ai-standards-announces-verifiable-ai-governance-platform-for-the-proof-economy/"
-    },
-    {
       "id": "https://speedwaymedia.com/2026/11/20/human-in-the-loop-ai-architecture-operational-oversight-governance-and-compliance-checklists/",
       "title": "Human-in-the-Loop AI Architecture: Operational Oversight, Governance, and Compliance Checklists - Businesses looking to make these principles more practical can explore human in the loop AI operational architecture and compliance to better understand how oversight and operational controls can work together within enterprise AI environments. by SM",
       "source": "speedwaymedia.com",
@@ -186,18 +150,6 @@
       "publishedAt": "2026-11-20T13:02:00Z",
       "summary": "",
       "url": "https://www.makeuseof.com/the-guy-who-coined-vibe-coding-never-trusts-a-single-ai-and-you-can-copy-his-setup-for-free/"
-    },
-    {
-      "id": "https://www.kmib.co.kr/article/20261120500148",
-      "title": "제네시스 G80 하이브리드 LA오토쇼서 세계 첫 공개",
-      "source": "kmib.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-20",
-      "dateRaw": "2026-11-20T04:02:00Z",
-      "publishedAt": "2026-11-20T04:02:00Z",
-      "summary": "",
-      "url": "https://www.kmib.co.kr/article/20261120500148"
     },
     {
       "id": "https://www.capitalgazette.com/2026/11/20/orioles-training-staff-restructure-injuries/",
@@ -215,10 +167,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 306,
-    "fetchedItems": 3115,
-    "relevantItems": 93,
-    "feedBytes": 827247,
+    "poolSize": 258,
+    "fetchedItems": 2560,
+    "relevantItems": 52,
+    "feedBytes": 723923,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

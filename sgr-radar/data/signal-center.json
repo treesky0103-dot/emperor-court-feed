@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 21. 오전 11:09:41",
+  "updatedAt": "2026. 11. 21. 오후 06:48:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -86,6 +86,20 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645647360&mediaCodeNo=257"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232169",
+          "title": "경기도교육청, 교원 158명 개인정보 유출…\"관계인 5명에게만 유출\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T08:13:00Z",
+          "publishedAt": "2026-11-21T08:13:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232169",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10944593",
           "title": "北, 우크라 점령지 아동 데려다 반미·친러 체제교육",
           "source": "biz.heraldcorp.com",
@@ -96,20 +110,6 @@
           "publishedAt": "2026-11-21T02:02:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10944593"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232101",
-          "title": "가운에 앞치마까지…대학들도 부랴부랴",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T09:36:00Z",
-          "publishedAt": "2026-11-20T09:36:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232101",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         },
         {
           "id": "https://womannews.net/detail.php?number=459807&thread=22r03r03",
@@ -314,20 +314,6 @@
     "technology": {
       "items": [
         {
-          "id": "https://zdnet.co.kr/view/?no=20261118145650",
-          "title": "AI 데이터센터 늘려도 GPU 부족…'코리아-원AIDC'로 해결한다",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T06:09:13Z",
-          "publishedAt": "2026-11-18T06:09:13Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261118145650",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
           "id": "https://www.etnews.com/20261119000356",
           "title": "[AIx소프트웨이브 2026] 제트컨버터클라우드, 'AI 레질리언스' 전략 공개",
           "source": "etnews.com",
@@ -352,6 +338,20 @@
           "publishedAt": "2026-11-19T00:16:00Z",
           "summary": "",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261121081600",
+          "title": "미래 피지컬 AI 인재 한자리에…청소년 114명, 로봇 실력 겨룬다",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T02:00:02Z",
+          "publishedAt": "2026-11-21T02:00:02Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261121081600",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         },
         {
           "id": "https://biz.chosun.com/it-science/ict/2026/11/20/Z7PMSZWUMBH27CVOFSE7UUZFFA/",
@@ -380,20 +380,6 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231590",
-          "title": "홍푸한, AI 서버 액체냉각 부품 양산 개시... 한국 AI 데이터센터 시장 공략",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T07:51:00Z",
-          "publishedAt": "2026-11-18T07:51:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231590",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026112006350247153",
           "title": "뉴욕증시 일제히 하락…앤트로픽 상장 흥행에도 AI 반도체·데이터센터주 약세",
           "source": "ddaily.co.kr",
@@ -416,6 +402,20 @@
           "publishedAt": "2026-11-19T07:47:00Z",
           "summary": "",
           "url": "https://www.newsway.co.kr/news/view?ud=2026111911131952670"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231854",
+          "title": "평택 넘어 용인·광주까지…미래 투자로 \"K-반도체 위상 이어간다\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T09:41:00Z",
+          "publishedAt": "2026-11-19T09:41:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231854",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10944590",
@@ -445,19 +445,19 @@
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 7
         },
         {
           "word": "반도체",
-          "count": 6
+          "count": 7
         },
         {
           "word": "데이터센터",
-          "count": 3
+          "count": 1
         },
         {
-          "word": "GPU",
-          "count": 2
+          "word": "로봇",
+          "count": 1
         },
         {
           "word": "제조",
@@ -642,6 +642,18 @@
           "url": "https://www.cityam.com/bailey-hints-at-higher-interest-rates-amid-firming-in-the-labour-market/"
         },
         {
+          "id": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-to-lead-delegation-to-japan-for-investment-talks-and-urban-planning-study/article71727642.ece",
+          "title": "Karnataka Chief Minister to lead delegation to Japan for investment talks and urban-planning study",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T09:46:00Z",
+          "publishedAt": "2026-11-21T09:46:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-to-lead-delegation-to-japan-for-investment-talks-and-urban-planning-study/article71727642.ece"
+        },
+        {
           "id": "https://speedwaymedia.com/2026/11/20/legacy-motor-club-closes-85-million-investment-to-support-three-car-expansion-and-long-term-growth/",
           "title": "LEGACY MOTOR CLUB CLOSES $85 MILLION INVESTMENT TO SUPPORT THREE-CAR EXPANSION AND LONG-TERM GROWTH - LEGACY MOTOR CLUB today announced the close of an $85 million investment round, from a small group of high-net-worth families, to support the team’s expansion to three full-time NASCAR Cup Series entries in 2027. by Official Release",
           "source": "speedwaymedia.com",
@@ -714,38 +726,26 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01853206645647360&mediaCodeNo=257"
         },
         {
-          "id": "http://www.idahopress.com/news/world/chinas-xi-and-other-asian-leaders-say-asia-pacific-must-embrace-open-trade-fair-growth/article_0968747b-5c4a-57fd-a531-16623b18a36b.html",
-          "title": "China's Xi and other Asian leaders say Asia-Pacific must embrace open trade, fair growth",
-          "source": "idahopress.com",
+          "id": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-post-worst-week-over-year-ai-trade-unravels",
+          "title": "European shares post worst week in over a year as AI trade unravels",
+          "source": "businesstimes.com.sg",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T09:02:00Z",
-          "publishedAt": "2026-11-18T09:02:00Z",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T02:02:00Z",
+          "publishedAt": "2026-11-21T02:02:00Z",
           "summary": "",
-          "url": "http://www.idahopress.com/news/world/chinas-xi-and-other-asian-leaders-say-asia-pacific-must-embrace-open-trade-fair-growth/article_0968747b-5c4a-57fd-a531-16623b18a36b.html"
-        },
-        {
-          "id": "https://www.floydct.com/online_features/press_releases/world-platinum-investment-council-platinum-market-to-return-to-deficit-in-2027-with-a-279/article_e38be2df-ec45-5991-aac3-5eb6ff4440db.html",
-          "title": "World Platinum Investment Council: Platinum market to return to deficit in 2027 with a 279 koz shortfall, as investment demand rebounds and industrial growth continues",
-          "source": "floydct.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T09:02:00Z",
-          "publishedAt": "2026-11-18T09:02:00Z",
-          "summary": "",
-          "url": "https://www.floydct.com/online_features/press_releases/world-platinum-investment-council-platinum-market-to-return-to-deficit-in-2027-with-a-279/article_e38be2df-ec45-5991-aac3-5eb6ff4440db.html"
+          "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-post-worst-week-over-year-ai-trade-unravels"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 8
+          "count": 7
         },
         {
           "word": "성장",
-          "count": 5
+          "count": 3
         },
         {
           "word": "FDI",
@@ -778,6 +778,30 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.businessworld.in/article/ai-to-lead-2027-investment-strategy-amid-energy-borrowing-cost-risks-report-634625",
+          "title": "AI To Lead 2027 Investment Strategy Amid Energy, Borrowing Cost Risks: Report - BW Businessworld",
+          "source": "businessworld.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T09:46:00Z",
+          "publishedAt": "2026-11-21T09:46:00Z",
+          "summary": "",
+          "url": "https://www.businessworld.in/article/ai-to-lead-2027-investment-strategy-amid-energy-borrowing-cost-risks-report-634625"
+        },
+        {
+          "id": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/australian-energy-officials-warned-of-data-centre-risk-age",
+          "title": "Australian energy officials warned of data centre risk: Age",
+          "source": "thestar.com.my",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T09:46:00Z",
+          "publishedAt": "2026-11-21T09:46:00Z",
+          "summary": "",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/australian-energy-officials-warned-of-data-centre-risk-age"
+        },
         {
           "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms",
           "title": "Bengaluru Tech Summit 2026: Nine Swedish firms showcase AI, advanced manufacturing at Bengaluru Tech Summit - The Economic Times",
@@ -839,16 +863,28 @@
           "url": "https://news.ycombinator.com/item?id=50549188"
         },
         {
-          "id": "https://itbrief.co.nz/story/orca-adds-tools-to-spot-ai-built-apps-in-the-cloud",
-          "title": "Orca adds tools to spot AI-built apps in the cloud",
-          "source": "itbrief.co.nz",
+          "id": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/amd-telco-chief-warns-against-gpu-use-in-ran-backs-cpus-report/136010677",
+          "title": "AMD telco chief warns against GPU use in RAN, backs CPUs: Report",
+          "source": "telecom.economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T09:02:00Z",
-          "publishedAt": "2026-11-18T09:02:00Z",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T09:46:00Z",
+          "publishedAt": "2026-11-21T09:46:00Z",
           "summary": "",
-          "url": "https://itbrief.co.nz/story/orca-adds-tools-to-spot-ai-built-apps-in-the-cloud"
+          "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/amd-telco-chief-warns-against-gpu-use-in-ran-backs-cpus-report/136010677"
+        },
+        {
+          "id": "https://newsroomamerica.com/a/OYUcCXKNBi6GsM4f00Y11sGQ1xV/the_wall_street_journal_s_editorial_board_critiques_an_international_court_of_justice_genocide_definition_flags_ai_market_risk_and_hails_senate_permitting_reform_among_other_opinion_pieces.html",
+          "title": "Media Monitor: WSJ Opinion Weighs Genocide Ruling, AI Markets and Senate Permitting Deal",
+          "source": "newsroomamerica.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T09:46:00Z",
+          "publishedAt": "2026-11-21T09:46:00Z",
+          "summary": "",
+          "url": "https://newsroomamerica.com/a/OYUcCXKNBi6GsM4f00Y11sGQ1xV/the_wall_street_journal_s_editorial_board_critiques_an_international_court_of_justice_genocide_definition_flags_ai_market_risk_and_hails_senate_permitting_reform_among_other_opinion_pieces.html"
         },
         {
           "id": "https://www.620ckrm.com/2026/11/20/researcher-challenges-ai-data-centre-boom-at-regina-lecture/",
@@ -861,56 +897,20 @@
           "publishedAt": "2026-11-21T02:02:00Z",
           "summary": "",
           "url": "https://www.620ckrm.com/2026/11/20/researcher-challenges-ai-data-centre-boom-at-regina-lecture/"
-        },
-        {
-          "id": "https://www.wkar.org/michigans-data-center-divide/2026-11-20/u-m-report-surveys-local-leaders-on-data-centers-their-calls-for-state-help",
-          "title": "U-M report surveys local leaders on data centers, their calls for state help",
-          "source": "wkar.org",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T02:02:00Z",
-          "publishedAt": "2026-11-21T02:02:00Z",
-          "summary": "",
-          "url": "https://www.wkar.org/michigans-data-center-divide/2026-11-20/u-m-report-surveys-local-leaders-on-data-centers-their-calls-for-state-help"
-        },
-        {
-          "id": "https://www.dailyherald.com/2026/11/20/lessons-from-3-communities-report-details-resident-concerns-about-data-centers/",
-          "title": "Lessons from 3 communities: Report details resident concerns about data centers",
-          "source": "dailyherald.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T21:02:00Z",
-          "publishedAt": "2026-11-20T21:02:00Z",
-          "summary": "",
-          "url": "https://www.dailyherald.com/2026/11/20/lessons-from-3-communities-report-details-resident-concerns-about-data-centers/"
-        },
-        {
-          "id": "http://www.bostonstar.com/news/279445085/india-capital-goods-market-could-reach-usd-12-trillion-by-2047-driven-by-data-centres-chips-cii-bcg",
-          "title": "India's capital goods market could reach USD 1.2 trillion by 2047, driven by data centres, chips: CII-BCG",
-          "source": "bostonstar.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T13:02:00Z",
-          "publishedAt": "2026-11-20T13:02:00Z",
-          "summary": "",
-          "url": "http://www.bostonstar.com/news/279445085/india-capital-goods-market-could-reach-usd-12-trillion-by-2047-driven-by-data-centres-chips-cii-bcg"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
+        },
+        {
+          "word": "GPU",
+          "count": 2
         },
         {
           "word": "데이터센터",
-          "count": 3
-        },
-        {
-          "word": "클라우드",
-          "count": 2
+          "count": 1
         },
         {
           "word": "반도체",
@@ -918,6 +918,10 @@
         },
         {
           "word": "제조",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -928,9 +932,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1414,
-    "fetchedItems": 3115,
-    "feedBytes": 827247,
+    "poolSize": 1317,
+    "fetchedItems": 2560,
+    "feedBytes": 723923,
     "rollingWindowHours": 72
   }
 }
