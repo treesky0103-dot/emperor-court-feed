@@ -1,43 +1,41 @@
 {
-  "date": "2026-11-20",
-  "planDay": "2026-11-20",
-  "planSetId": "zps-20261120-af6e3ee1",
-  "generatedAt": "2026-11-19T23:44:41.893Z",
-  "publishedAt": "2026-11-20T07:01:21.775Z",
+  "date": "2026-11-21",
+  "planDay": "2026-11-21",
+  "planSetId": "zps-20261121-c6b29190",
+  "generatedAt": "2026-11-20T23:43:54.214Z",
+  "publishedAt": "2026-11-21T00:00:06.070Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
-    "day": "2026-11-20",
-    "planSetId": "zps-20261120-af6e3ee1",
+    "day": "2026-11-21",
+    "planSetId": "zps-20261121-c6b29190",
     "titles": [
-      "반도체 호황 속 수출 전략을 재정비하라",
-      "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
-      "미국 저작권 등록비 인상, 중소 출판사의 생존 전략"
+      "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
+      "AI 학습용 출판데이터의 중요성",
+      "서울 고가 단지의 세 부담 확대"
     ],
     "generationMode": "historical-high-quality-atomic",
-    "model": "gemini-3.8-flash",
+    "model": "openai/gpt-oss-120b",
     "hqReady": true,
-    "contentRevision": "zcr-da03200b",
-    "hqVerifiedBy": "gemini-3.8-flash",
-    "sealedAt": "2026-11-20T00:00:00.144Z",
-    "build": "v2.15.119",
-    "hqVerificationError": "",
-    "hqUpgradedAt": "2026-11-20T06:50:53.107Z"
+    "contentRevision": "zcr-e1e22b87",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-11-21T00:00:00.084Z",
+    "build": "v2.15.119"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 경제 · 마케팅 · 법률을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 교육 · AI · 부동산을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
-  "model": "gemini-3.8-flash",
+  "model": "openai/gpt-oss-120b",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-11-19T23:44:41.238Z",
+  "sourceSnapshotAt": "2026-11-20T23:43:53.625Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-11-19T23:38:50.681Z",
+    "newsUpdatedAt": "2026-11-20T23:38:57.366Z",
     "staleAdvisors": [
       "sima",
       "zhou",
@@ -46,632 +44,122 @@
       "xunyu",
       "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-11-19T23:30:16.896Z",
-    "bestsellerDataDate": "2026-11-19",
+    "bestsellerUpdatedAt": "2026-11-20T23:25:05.620Z",
+    "bestsellerDataDate": "2026-11-20",
     "stale": true,
-    "checkedAt": "2026-11-19T23:44:41.893Z",
+    "checkedAt": "2026-11-20T23:43:54.214Z",
     "policy": "confirm-and-mark",
     "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "경제",
-      "field": "경제",
-      "title": "반도체 호황 속 수출 전략을 재정비하라",
-      "concept": "반도체 사이클 상승 국면에서 KDI 경제 전망 지표를 읽고, 중소 수출 제조사가 과잉 증설 위험 없이 목표 시장을 재조정하는 설비 투자 시뮬레이션 실무서",
-      "why": "KDI가 반도체 호황과 설비투자 회복에 힘입어 경제성장률을 상향 전망했으나, 현장 중소 제조사는 단기 수요 급증만 믿고 무리하게 라인을 증설했다가 다운사이클에 직면할 위험이 매우 높기 때문입니다.",
-      "competition": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》, 《미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점》 등 기존 도서는 거시 정책과 지정학적 공급망 담론에 머물러 있어, 당장 설비 발주와 여신 한도를 결정해야 하는 중소 수출 실무자에게 구체적인 실행 기준을 주지 못합니다.",
-      "reader": "단기 수주 폭증 속에서 생산설비 증설과 외주 계약 규모를 확정해야 하는 30~40대 수출 중소 제조사 기획·영업 담당자 및 경영진",
-      "readerNeed": "반도체 수주 급증에 맞춰 라인을 늘려야 할지, 아니면 일시적 착시로 보고 외주로 방어해야 할지 투자 손익분기점을 객관적으로 계산할 기준이 필요합니다.",
-      "marketGap": "거시 성장률 지표를 개별 수출 기업의 설비 가동률, 현금흐름, 목표 시장 다변화 시나리오와 직접 연결해 의사결정할 수 있는 정량적 계산 템플릿이 서점가에 비어 있습니다.",
-      "differentiation": "KDI 분기별 경기 전망치를 자사 수주 잔고에 대입하는 3단계 스트레스 테스트 모델, 설비 리스 vs 직구매 손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공합니다.",
-      "diff": "KDI 분기별 경기 전망치를 자사 수주 잔고에 대입하는 3단계 스트레스 테스트 모델, 설비 리스 vs 직구매 손익분기점 계산 시트, 수출 대상국 리스크 분산 매트릭스를 제공합니다.",
+      "type": "교육",
+      "field": "교육",
+      "title": "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
+      "concept": "사관학교 폐교의 원인과 파급 효과를 체계적으로 분석하고, 교육 공백을 메울 수 있는 대안 교육 모델을 설계한다.",
+      "why": "최근 뉴스에서 사관학교 폐교가 교육 체계 전반에 미치는 영향을 강조하고 있어, 현재 재학생과 입학 예정자의 불안 해소를 위한 구체적 방안이 시급하다.",
+      "competition": "기존 교육 서적은 사관학교 폐교에 대한 원인 분석과 실질적 대안 제시가 부족해 독자 요구를 충족하지 못한다.",
+      "reader": "사관학교 입학 예정자와 현재 재학 중인 학생, 그리고 학부모",
+      "readerNeed": "폐교로 인한 교육 경로 불확실성을 해소하고, 향후 진로 선택에 필요한 구체적 정보를 원한다.",
+      "marketGap": "폐교 후 교육 공백을 메우는 새로운 교육 프로그램과 정책 제안이 아직 출판되지 않아, 실천 가능한 가이드가 필요하다.",
+      "differentiation": "폐교 원인과 영향을 데이터 기반으로 제시하고, 현장 적용 가능한 대안 교육 커리큘럼을 5단계 로드맵으로 제공한다.",
+      "diff": "폐교 원인과 영향을 데이터 기반으로 제시하고, 현장 적용 가능한 대안 교육 커리큘럼을 5단계 로드맵으로 제공한다.",
       "toc": [
-        "지표의 착시: 성장률 전망치가 내 공장의 수주 잔고를 보장하지 않는 이유",
-        "호황 사이클 읽기: 반도체 반등 신호에서 내 납품 품목의 피크 시점 포착법",
-        "증설인가 외주인가: 무리한 대출 없이 캐파를 탄력적으로 조율하는 손익 분기 계산",
-        "목표 시장 재배치: 특정국 단일 벤더 의존도를 낮추는 수출선 다변화 3단계",
-        "다운턴 방어 시나리오: 설비 투자 집행 후 6개월 내 현금흐름 방어 체크리스트"
+        "폐교 원인 심층 분석과 현황 정리",
+        "대안 교육 모델 설계 원칙",
+        "실제 적용 사례와 성공 요인",
+        "새로운 교육 프로그램 실행 로드맵",
+        "미래 교육 방향과 정책 제언"
       ],
       "searchQueries": [
-        "반도체 수출",
-        "설비 투자 전략"
+        "사관학교 폐교",
+        "교육 방향성"
       ],
       "bookworthiness": {
-        "durability": "반도체와 제조업 사이클은 주기적으로 반복되며, 설비 투자 시점 결정 모델은 호황과 불황 모든 국면에서 경영 기준으로 보존됩니다.",
-        "repeatNeed": "매 회계연도 설비 투자 계획 수립 및 분기별 수출선 재조정 시점마다 재참조되는 업무용 매뉴얼입니다.",
-        "expansionPotential": "공급망 규제 대응, 바이어 단가 협상표, 환율 변동 헤지 전략을 덧붙여 220쪽 분량의 단행본으로 완성도 높게 구성 가능합니다.",
+        "durability": "폐교 현상은 장기적인 교육 구조 변화의 시작점이 될 가능성이 크다.",
+        "repeatNeed": "교육 공백 해소를 위한 지속적인 정책 업데이트와 현장 적용이 요구된다.",
+        "expansionPotential": "다양한 교육 기관에 적용 가능한 모델로 확장 가능성이 높다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "김혁중",
-          "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
-          "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/133220516",
+          "name": "사관학교입시연구소",
+          "career": "《2027 사관학교 7개년 기출문제집 국어영역》 저자 · 예문에듀",
+          "why": "YES24에서 이 기획과 인접한 주제의 《2027 사관학교 7개년 기출문제집 국어영역》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/170477690",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "오종혁",
-          "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
-          "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/133220516",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "권혁주",
-          "career": "《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자 · 대외경제정책연구원",
-          "why": "YES24에서 이 기획과 인접한 주제의 《미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/133220516",
+          "name": "사관학교입시연구회",
+          "career": "《2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년)》 저자 · 시스컴",
+          "why": "YES24에서 이 기획과 인접한 주제의 《2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/176990649",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "김혁중",
-      "bestAuthor": "김혁중",
+      "author": "사관학교입시연구소",
+      "bestAuthor": "사관학교입시연구소",
       "authorBrief": "",
-      "headlineCopy": "반도체 호황이라는 착시 속에서 공장 증설 도장을 찍기 전 반드시 열어봐야 할 계산서",
+      "headlineCopy": "폐교 위기, 새로운 교육 로드맵으로 미래를 설계한다.",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "과잉 투자로 인한 부도 위험 차단",
-          "호황기 납품 이익의 안정적 극대화"
-        ],
-        "quadrant": {
-          "audience": "니치형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "중소벤처기업진흥공단 수출 바우처 커뮤니티와 공단 입주 기업 네트워크에 '설비 증설 전 현금흐름 자가진단표'를 배포해 유입시킵니다.",
-        "trust": "국책 연구기관 KDI의 산업 동향 데이터 분석 프레임과 수출 제조사 실제 투자 실패·성공 사례 10건을 대조 검증해 근거를 제시합니다.",
-        "conversion": "도서 구매자에게 엑셀 기반 '설비 투자 회수 기간 자동 계산 템플릿' 다운로드 권한을 제공해 결제를 이끌어냅니다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "뉴스에서 말하는 거시 성장률 수치가 내 작은 공장 운영과 무슨 상관이 있느냐는 회의감이 듭니다.",
-          "objection": "\"KDI 지표는 대기업 이야기일 뿐, 우리 같은 하청 부품사에는 맞지 않는다.\"",
-          "solution": "1차 벤더 수주 잔고가 2·3차 하청 부품 납품으로 전이되는 시차를 주 단위로 역산하는 실무 변환 공식을 도입부에 즉시 공개합니다."
-        },
-        "positioning": "거시 경제 지표를 개별 공장의 설비 발주 결정표로 바꿔주는 중소 제조사 투자 생존 매뉴얼"
-      },
-      "devilsEditor": {
-        "failureReason": "거시 통계 보고서 요약집처럼 느껴져 현장 실무자가 자기 공장의 발주 결정에 즉각 적용하지 못하고 책장을 덮을 위험이 있습니다.",
-        "fix": "모든 이론 설명을 배제하고 '자금 조달 한도별 라인 증설 시뮬레이션 양식'과 공장장 인터뷰 기반의 실패 사례를 전면에 배치합니다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 94,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "반도체 지정학적 변수나 주요국의 관세 조치 급변으로 수출 예측 모델의 오차가 단기간에 커질 위험이 있습니다.",
-      "riskResponse": "환율 급변과 관세 인상 시나리오를 가산한 3단계 보수적 완충 계수를 기본 공식에 내장해 안정성을 확보합니다.",
-      "judgment": "거시 경제 수치 분석에 그치지 않고 중소 수출 기업이 당장 다음 달 설비 계약서에 서명할지 여부를 가르는 구체적 손익 계산 툴을 제시하느냐가 판매 성패를 결정합니다.",
-      "evidence": [
-        {
-          "text": "미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안 — 김혁중,오종혁,권혁주 공저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/133220516"
-        },
-        {
-          "text": "반도체 호황에 수출·설비투자 호조…KDI, 올해 성장률 3.8% 전망 - 대한민국 정책브리핑",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnN0WFVNcTh0MUdsOWVfeTVvUG9tNjhtMXp6MHNlZC1LVmtlOWFuZnhRQVViYzJ5LXNSNVE4eE9tSm1QcmlVR21NQTdJZHFlYUhxbVBVdXkzQ09RcTFaU1Q0SWRCT0FUQTNBOU1VaUsxUnRwaHdiWW1LSWNOZDZJSTlEaUxMZ2lqV3c?oc=5"
-        },
-        {
-          "text": "미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점 — 조은교,최정환 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/135860609"
-        },
-        {
-          "text": "日 반도체소재 수출규제에 따른 최대수혜주와 이슈 모르면 주식 대박 힘들다 — 서울공대OB주식연구회 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/78506788"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "미국의 대중 반도체 수출 통제 확대의 경제적 영향과 대응 방안",
-          "author": "김혁중,오종혁,권혁주 공저",
-          "publisher": "대외경제정책연구원",
-          "publicationDate": "20231229",
-          "url": "https://www.yes24.com/product/goods/133220516",
-          "matchedQuery": "반도체 수출",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "미국의 대중반도체 수출통제에 따른 중국의 공급망 영향과 시사점",
-          "author": "조은교,최정환 저",
-          "publisher": "산업연구원",
-          "publicationDate": "20240326",
-          "url": "https://www.yes24.com/product/goods/135860609",
-          "matchedQuery": "반도체 수출",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "日 반도체소재 수출규제에 따른 최대수혜주와 이슈 모르면 주식 대박 힘들다",
-          "author": "서울공대OB주식연구회 저",
-          "publisher": "비피기술거래",
-          "publicationDate": "20190828",
-          "url": "https://www.yes24.com/product/goods/78506788",
-          "matchedQuery": "반도체 수출",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-19T23:43:19.794Z",
-        "queries": [
-          "반도체 수출",
-          "설비 투자 전략"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-20T01:02:07.394Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "반도체 호황 속 수출 전략을 재정비하라",
-        "provider": "gemini",
-        "aiCards": 5,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "수주가 넘치는데\n공장을 늘리면\n망하는 진짜 이유",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "007",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "주문서가 쌓이면\n기계부터 더 들여놓고\n야간 조를 늘린다",
-            "body": "지금 못 찍어내면 기회를 잃는다는 불안 때문이다.",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "호황의 끝은\n납품 대금이 아니라\n고정비로 먼저 온다",
-            "body": "경기가 꺾이는 순간 증설한 설비는 빚이 된다.",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "라인을 증설했다가 다운사이클에 직면할 위험이 매우 높기 때문이다.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "011",
-            "sceneCategory": "analysis",
-            "source": "rule-repair"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "제조업의 성패는\n생산량 크기가 아니라\n다운사이클 버티기다",
-            "body": "수주 잔고를 믿지 말고 하락 국면을 계산하라.",
-            "accent": "yellow",
-            "sceneId": "037",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "호황기에 맺은 설비 계약이\n불황기 회사의 명줄을 쥔다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "041",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-da03200b"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6b06a45d-f068-4fec-b25f-3c727dbda3c4/toronto_victor-pelevin_oct26_design-pickle_art-masakatsu-sashie.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "toronto victor pelevin",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 정교한 타이포그래피 배치를 통해 데이터의 신뢰성과 전문성을 강조하는 레이아웃 원리로 참고 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "investing data numbers",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/97b2337f-8d81-4ee5-aa8a-48e2a740275f/newsouth_the-lady-with-the-dog_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "newsouth the lady with the dog",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "감성적 일러스트는 경제 실무서와 거리가 멀지만, 여백을 활용한 레이아웃과 타이포그래피의 배치 원리는 세련된 전문 서적 구성에 참고할 만함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "investing data numbers",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/46175048-405f-4d11-8e53-d2eb6049a99f/northwestern_lamp-back_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "northwestern lamp back",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 여백의 미는 세련되었으나, 실무 중심의 경제서가 갖춰야 할 신뢰감과 정보 전달력은 부족함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "investing data numbers",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6b06a45d-f068-4fec-b25f-3c727dbda3c4/toronto_victor-pelevin_oct26_design-pickle_art-masakatsu-sashie.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "toronto victor pelevin",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 정교한 타이포그래피 배치를 통해 데이터의 신뢰성과 전문성을 강조하는 레이아웃 원리로 참고 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "investing data numbers",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/97b2337f-8d81-4ee5-aa8a-48e2a740275f/newsouth_the-lady-with-the-dog_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "newsouth the lady with the dog",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "감성적 일러스트는 경제 실무서와 거리가 멀지만, 여백을 활용한 레이아웃과 타이포그래피의 배치 원리는 세련된 전문 서적 구성에 참고할 만함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "investing data numbers",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/46175048-405f-4d11-8e53-d2eb6049a99f/northwestern_lamp-back_oct26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "northwestern lamp back",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 여백의 미는 세련되었으나, 실무 중심의 경제서가 갖춰야 할 신뢰감과 정보 전달력은 부족함.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "investing data numbers",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-da03200b",
-        "status": "ready",
-        "generatedAt": "2026-11-20T07:01:04.921Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "마케팅",
-      "field": "마케팅",
-      "title": "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
-      "concept": "AI 마케팅 투자가 검색 최적화에만 편중된 한계를 넘어, CRM 개인화·광고 소재 자동 생성·이탈 방지 등 전 마케팅 퍼널에 AI를 배치하고 채널별 ROI를 입증하는 실무 지침서",
-      "why": "기업들이 마케팅 AI 예산의 대부분을 검색 최적화(GEO/SEO)에만 쏟아붓고 있으나, 검색 유입 이후의 전환율과 재구매율을 개선하지 못해 실질적인 매출 증명에 실패하고 있기 때문입니다.",
-      "competition": "《AI 시대의 디지털 마케팅 입문》, 《AI 마케팅 완벽 가이드》 등 기존 서적은 프롬프트 작성법이나 생성형 AI 도구 소개의 나열에 그쳐, 마케팅 팀장이 경영진에게 제출해야 할 채널별 공헌이익과 집행 ROI 산출식을 제시하지 못합니다.",
-      "reader": "AI 예산은 배정받았으나 단순 검색 키워드 작업 외에 뚜렷한 전환 성과를 내지 못해 분기 보고를 앞두고 압박받는 5~10년 차 디지털 마케팅 팀장",
-      "readerNeed": "검색 노출 순위에만 매달리지 않고, 고객 획득부터 유지까지 전체 채널에 AI를 어떻게 연결해 광고비 대비 매출액(ROAS)을 끌어올릴지 검증된 로드맵을 원합니다.",
-      "marketGap": "특정 AI 툴의 사용법을 넘어, 검색·SNS·CRM·상세페이지 등 각 퍼널 단계별로 AI를 결합했을 때 발생하는 실질 전환율과 비용 절감액을 측정하는 프레임워크가 부재합니다.",
-      "differentiation": "검색 외 4대 채널(CRM, 소재 제작, 리타기팅, 랜딩페이지) AI 배치도, 퍼널별 ROI 시뮬레이션 스프레드시트, 도입 실패를 막는 14일 파일럿 테스트 양식을 수록합니다.",
-      "diff": "검색 외 4대 채널(CRM, 소재 제작, 리타기팅, 랜딩페이지) AI 배치도, 퍼널별 ROI 시뮬레이션 스프레드시트, 도입 실패를 막는 14일 파일럿 테스트 양식을 수록합니다.",
-      "toc": [
-        "검색 최적화의 맹점: 트래픽은 늘었는데 왜 최종 결제액은 제자리인가",
-        "퍼널별 AI 배치 지도: 유입 이후 장바구니 이탈을 잡는 자동화 시나리오",
-        "소재 제작과 카피라이팅: 하루 50개 광고 배너를 테스트하는 AI 워크플로우",
-        "숫자로 증명하는 성과: 경영진을 설득하는 채널별 AI 공헌이익 산출 공식",
-        "실패 없는 파일럿 플랜: 예산 300만 원으로 14일 만에 ROI 검증하는 실행 로드맵"
-      ],
-      "searchQueries": [
-        "AI 마케팅",
-        "검색 최적화"
-      ],
-      "bookworthiness": {
-        "durability": "AI 마케팅 툴의 브랜드는 바뀌어도 고객 획득-전환-유지라는 마케팅 퍼널의 경제학적 검증 원리는 영구히 유지됩니다.",
-        "repeatNeed": "분기별 마케팅 믹스 조정과 신규 캠페인 기획 시마다 채널별 자원 배분의 가이드북으로 반복 사용됩니다.",
-        "expansionPotential": "B2B와 B2C 업종별 상세 적용 사례 및 프롬프트 체인 설계를 보강해 240쪽 단행본으로 확장이 충분합니다.",
-        "productDependency": "중간"
-      },
-      "authors": [
-        {
-          "name": "윤필현",
-          "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/200091780",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "고진용",
-          "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/200091780",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "권혜민",
-          "career": "《AI 시대의 디지털 마케팅 입문》 저자 · 도서출판청람",
-          "why": "YES24에서 이 기획과 인접한 주제의 《AI 시대의 디지털 마케팅 입문》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/200091780",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "윤필현",
-      "bestAuthor": "윤필현",
-      "authorBrief": "",
-      "headlineCopy": "검색 최적화에만 쏟아부은 AI 마케팅 예산, 이제 결제 전환율로 회수하라",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "경영진 앞에서의 당당한 ROI 증명",
-          "반복적 소재 제작 업무의 획기적 단축"
+          "교육 불확실성 해소",
+          "실천 가능한 대안 제시"
         ],
         "quadrant": {
           "audience": "대중형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "아이보스, 오픈애즈 등 마케터 전문 플랫폼에 '검색광고 효율 떨어질 때 점검하는 AI 퍼널 진단 시트'를 기고해 실무자를 모읍니다.",
-        "trust": "실제 이커머스 기업의 채널별 A/B 테스트 데이터와 AI 도입 전후 ROAS 비교 수치표를 공개해 설득력을 확보합니다.",
-        "conversion": "상세페이지 내에 '우리 팀 AI 마케팅 성숙도 및 낭비 예산 자가진단 테스트' 링크를 삽입해 즉각 구매로 전환시킵니다.",
+        "acquisition": "교육 관련 포럼과 사관학교 입학 상담 현장에서 직접 독자를 모집한다.",
+        "trust": "폐교 원인과 데이터 분석 결과를 투명하게 공개해 신뢰를 구축한다.",
+        "conversion": "구체적인 실행 로드맵을 제공해 독자가 바로 적용하도록 유도한다.",
         "maxDropoff": {
-          "stage": "의심",
-          "problem": "AI 마케팅 서적이 흔히 그렇듯 시중에 널린 챗GPT 명령어 모음집 수준일 것이라 넘겨짚을 수 있습니다.",
-          "objection": "\"유튜브에 무료로 풀린 AI 프롬프트 팁과 무엇이 다른가?\"",
-          "solution": "프롬프트 자체가 아니라 마케팅 비용 집행 대비 매출 기여도를 증명하는 'ROI 산출 엑셀 로직'을 미리보기로 과감히 노출합니다."
+          "stage": "탐색",
+          "problem": "폐교 원인과 데이터 해석이 어려워 독자가 포기한다.",
+          "objection": "제시된 대안이 현실과 동떨어졌다고 생각한다.",
+          "solution": "쉽게 이해할 수 있는 인포그래픽과 현장 사례를 통해 구체성을 높인다."
         },
-        "positioning": "검색 노출 경쟁에 지친 마케터를 위한 퍼널 전체 결제 전환 중심의 AI 투자 매뉴얼"
+        "positioning": "폐교 위기를 교육 혁신의 기회로 전환하는 실전 가이드"
       },
       "devilsEditor": {
-        "failureReason": "특정 AI 마케팅 SaaS 솔루션의 인터페이스 설명에 치중하다가 해당 툴의 UI 개편이나 서비스 종료 시 책의 유효성이 급격히 떨어질 수 있습니다.",
-        "fix": "개별 도구 이름이 아니라 '데이터 입력-가공-트리거 발송'이라는 범용 데이터 파이프라인 개념을 중심으로 본문을 설계합니다."
+        "failureReason": "폐교 원인 분석이 복잡해 독자가 이해하기 어렵다.",
+        "fix": "시각화 자료와 단계별 체크리스트로 접근성을 높인다."
       },
       "scores": {
         "market": 92,
         "timing": 96,
         "difference": 95,
-        "author": 86,
+        "author": 82,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 94,
+      "score": 93,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "생성형 AI 검색 환경(AI Overviews 등)의 급격한 알고리즘 변화로 인해 기존 채널 유입 공식이 교란될 위험이 있습니다.",
-      "riskResponse": "플랫폼 종속적 트래픽에 의존하지 않는 자체 퍼스트파티 데이터와 CRM 기반 AI 전환 전략의 비중을 40% 이상 유지합니다.",
-      "judgment": "개별 생성 AI 도구의 화려한 기능 나열을 걷어내고 마케팅 팀장이 경영진에게 제시할 수 있는 채널별 ROI 입증 수식을 명확히 쥐여주는 데 상업적 성패가 갈립니다.",
+      "risk": "폐교로 인한 교육 불확실성이 독자 선택에 큰 장애가 된다.",
+      "riskResponse": "데이터 기반 원인 분석과 실천 가능한 대안을 동시에 제시한다.",
+      "judgment": "폐교 위기를 교육 혁신의 핵심 과제로 전환해 독자에게 실질적 해결책을 제공한다.",
       "evidence": [
         {
-          "text": "AI 시대의 디지털 마케팅 입문 — 윤필현,고진용,권혜민,이건민,윤승현 저",
+          "text": "2027 사관학교 7개년 기출문제집 국어영역 — 사관학교입시연구소 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/200091780"
+          "url": "https://www.yes24.com/product/goods/170477690"
         },
         {
-          "text": "내년 AI 마케팅 투자 1위는 `검색 최적화`…콘텐츠 제작 제쳐 - 디지털데일리",
+          "text": "국민의힘 \"사관학교 통폐합은 사실상 폐교\"… 정부에 철회 촉구 - 강원신문",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mT1FtQzRINm8tUjhiU3hqUXM3LUl2ekJHQ0NLQWh6NEZwWWdiam9NNmdlTWNSU25zSzVJS2dGMVZOelhmSzd1Rl9ieHg5MkVvc3hMNnRIdENFbUxUdndVVnhqbFc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaYm5xOWUzejJ2cTVHTGFleXhGYzhNZWZaOHVlZzFrME1xWFVrQmdyTk9kODItc3RCeXppWTdsYV9HXzhNNVlPTEZGNjN2S3ZPWl96REgtNXB4aVRmcmwxRWxrZDNocVZY?oc=5"
         },
         {
-          "text": "2027 이기적 AI 광고마케팅전문가 1급 기본서(1차+2차) — 박노성 저",
+          "text": "2027 사관학교 7개년 기출문제집 수학영역 — 사관학교입시연구소 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/200730533"
+          "url": "https://www.yes24.com/product/goods/170477692"
         },
         {
-          "text": "AI 마케팅 완벽 가이드 — 최신만 저",
+          "text": "2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년) — 사관학교입시연구회 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/196198323"
+          "url": "https://www.yes24.com/product/goods/176990649"
         }
       ],
       "sourceChannels": [
@@ -692,40 +180,40 @@
       },
       "similarBooks": [
         {
-          "title": "AI 시대의 디지털 마케팅 입문",
-          "author": "윤필현,고진용,권혜민,이건민,윤승현 저",
-          "publisher": "도서출판청람",
-          "publicationDate": "20261115",
-          "url": "https://www.yes24.com/product/goods/200091780",
-          "matchedQuery": "AI 마케팅",
+          "title": "2027 사관학교 7개년 기출문제집 국어영역",
+          "author": "사관학교입시연구소 저",
+          "publisher": "예문에듀",
+          "publicationDate": "20260130",
+          "url": "https://www.yes24.com/product/goods/170477690",
+          "matchedQuery": "사관학교 폐교",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "2027 이기적 AI 광고마케팅전문가 1급 기본서(1차+2차)",
-          "author": "박노성 저",
-          "publisher": "영진닷컴",
-          "publicationDate": "20270115",
-          "url": "https://www.yes24.com/product/goods/200730533",
-          "matchedQuery": "AI 마케팅",
+          "title": "2027 사관학교 7개년 기출문제집 수학영역",
+          "author": "사관학교입시연구소 저",
+          "publisher": "예문에듀",
+          "publicationDate": "20260130",
+          "url": "https://www.yes24.com/product/goods/170477692",
+          "matchedQuery": "사관학교 폐교",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "AI 마케팅 완벽 가이드",
-          "author": "최신만 저",
-          "publisher": "디지털콘텐츠그룹",
-          "publicationDate": "20260911",
-          "url": "https://www.yes24.com/product/goods/196198323",
-          "matchedQuery": "AI 마케팅",
+          "title": "2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년)",
+          "author": "사관학교입시연구회 저",
+          "publisher": "시스컴",
+          "publicationDate": "20260305",
+          "url": "https://www.yes24.com/product/goods/176990649",
+          "matchedQuery": "사관학교 폐교",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-19T23:43:21.665Z",
+        "updatedAt": "2026-11-20T23:41:45.773Z",
         "queries": [
-          "AI 마케팅",
-          "검색 최적화"
+          "사관학교 폐교",
+          "교육 방향성"
         ],
         "resultCount": 3,
         "errors": []
@@ -734,447 +222,123 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-20T00:20:52.835Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "AI 마케팅 투자, 검색 최적화만으로는 부족하다",
-        "provider": "groq",
-        "aiCards": 5,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "검색만 파는 AI, 매출을 놓치고 있다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "007",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "검색 순위 올려도 전환이 안 돼 고민하는가",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "027",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "마케팅 퍼널에 AI를 배치하고 채널별 ROI를 입증하는 실무 지침서.",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "024",
-            "sceneCategory": "warning",
-            "source": "rule-repair"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "AI 활용이 검색에만 국한돼 전체 퍼널을 최적화하지 못한다는 증거다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "015",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "AI를 CRM·소재·리타게팅·랜딩까지 전 채널에 배치하라",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "035",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "전체 퍼널에 AI를 깔면 ROI가 살아난다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "043",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-da03200b"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0e276069-f9e7-451e-8adb-77a9d6b6d2ff/calgary_at-the-freak-show_sept26_melina-cusano.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "calgary at the freak show",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "실무서의 정형성을 탈피하여, 과감한 타이포그래피 배치와 여백의 대비로 정보의 위계를 강조하는 실험적 레이아웃 참고 가능",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence marketing brand",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0490382f-0ece-468a-abe4-99f747d69fdc/georgia_the-submerged_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "georgia the submerged",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 실무서의 딱딱함을 탈피한 세련된 비주얼 전략으로 활용 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence marketing brand",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/ecbfc4d8-4552-46bf-bd1e-9ed9399925fc/yale_harold-cruse_oct26_henry-sene-yee.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "yale harold cruse",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "주제 연관성은 낮으나, 타이포그래피의 과감한 배치와 여백의 미는 전문 실무서의 권위를 높이는 레이아웃으로 활용 가능함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence marketing brand",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0e276069-f9e7-451e-8adb-77a9d6b6d2ff/calgary_at-the-freak-show_sept26_melina-cusano.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "calgary at the freak show",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "실무서의 정형성을 탈피하여, 과감한 타이포그래피 배치와 여백의 대비로 정보의 위계를 강조하는 실험적 레이아웃 참고 가능",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence marketing brand",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/0490382f-0ece-468a-abe4-99f747d69fdc/georgia_the-submerged_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "georgia the submerged",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 실무서의 딱딱함을 탈피한 세련된 비주얼 전략으로 활용 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence marketing brand",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/ecbfc4d8-4552-46bf-bd1e-9ed9399925fc/yale_harold-cruse_oct26_henry-sene-yee.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "yale harold cruse",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "주제 연관성은 낮으나, 타이포그래피의 과감한 배치와 여백의 미는 전문 실무서의 권위를 높이는 레이아웃으로 활용 가능함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence marketing brand",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-da03200b",
-        "status": "ready",
-        "generatedAt": "2026-11-20T07:01:08.952Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
+      "rank": 1
     },
     {
-      "type": "법률",
-      "field": "법률",
-      "title": "미국 저작권 등록비 인상, 중소 출판사의 생존 전략",
-      "concept": "미국 저작권청의 수수료 43% 대폭 인상에 대응하여, 중소 출판사와 독립 제작자가 일괄 등록 제도와 자동화 접수 도구를 통해 최소 비용으로 글로벌 지식재산권을 방어하는 실무 전략서",
-      "why": "미국 저작권 등록비가 2020년 이후 7년 만에 43% 급등함에 따라, 해외 판권 수출과 아마존 직수출을 추진하는 중소 출판사와 창작자가 비용 폭탄을 맞고 권리 등록을 포기하는 위기에 직면했기 때문입니다.",
-      "competition": "《창작과 이용을 위한 저작권》, 《창작자와 편집자를 위한 저작권 매뉴얼》 등 국내 서적은 한국 저작권법 중심의 법리 해석과 계약서 작성법만 다루며, 미국 저작권청(eCO)의 인상된 수수료 구조나 단체 등록(Group Registration)을 통한 비용 절감 실무를 다루지 않습니다.",
-      "reader": "영미권 전자책 출간, 웹툰·웹소설 수출, 굿즈 유통을 진행 중이며 등록 비용 급증으로 판권 관리에 차질을 빚는 중소 출판사 대표 및 1인 출판 창작자",
-      "readerNeed": "건당 인상된 미국 저작권 등록비를 감당하기 어려운 상황에서, 어떤 저작물을 우선 등록하고 어떻게 묶어 신청해야 비용을 절반 이하로 줄일 수 있는지 실행 절차가 절실합니다.",
-      "marketGap": "미국 저작권청 온라인 등록 시스템(eCO)의 최신 인상 요율표를 반영하고, 소규모 제작사를 위한 합법적 비용 절감 테크닉(단체 등록, 자동화 서식 작성)을 단계별로 안내하는 책이 없습니다.",
-      "differentiation": "미국 eCO 시스템 화면별 영문 입력 가이드, 분기별 일괄 단체 등록(GRTX) 신청 요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공합니다.",
-      "diff": "미국 eCO 시스템 화면별 영문 입력 가이드, 분기별 일괄 단체 등록(GRTX) 신청 요령, 작품별 침해 위험도에 따른 우선순위 배분 매트릭스를 제공합니다.",
+      "type": "AI",
+      "field": "AI",
+      "title": "AI 학습용 출판데이터의 중요성",
+      "concept": "AI 모델 성능을 좌우하는 출판데이터의 특성을 규명하고, 공급‑수요 불균형을 해소할 수 있는 새로운 데이터 제공 체계를 제시한다.",
+      "why": "최근 보도에 AI 성능 향상이 데이터 품질에 크게 의존한다는 점이 강조돼, 개발자와 출판업계가 협업할 구체적 방안이 필요하다.",
+      "competition": "기존 출판 데이터 서적은 AI 적용 사례와 공급 전략을 구체적으로 다루지 않아 실무 적용에 한계가 있다.",
+      "reader": "AI 개발자, 데이터 엔지니어, 출판사 기획 담당자",
+      "readerNeed": "고품질 학습 데이터를 확보하고, 공급망을 효율화할 실질적 방법을 찾는다.",
+      "marketGap": "AI 학습용 데이터의 품질 기준과 공급 모델이 체계화되지 않아, 실무에서 바로 활용 가능한 가이드가 부족하다.",
+      "differentiation": "데이터 품질 평가 프레임워크와 출판사‑AI 기업 협업 프로세스를 단계별로 제시한다.",
+      "diff": "데이터 품질 평가 프레임워크와 출판사‑AI 기업 협업 프로세스를 단계별로 제시한다.",
       "toc": [
-        "비용 인상의 충격: 미국 저작권 등록비 43% 인상이 K-콘텐츠 수출에 미치는 영향",
-        "우선순위 선별: 한정된 예산으로 내 타이틀 중 무엇을 먼저 보호할 것인가",
-        "단체 등록의 기술: 건별 비용을 1/5로 낮추는 그룹 등록(Group Registration) 비법",
-        "eCO 실전 접수: 반려 없이 한 번에 통과하는 온라인 저작권 등록 영문 서식 작성",
-        "침해 발생 시 행동 수칙: 최소 비용 등록증으로 영미권 무단 도용 즉시 차단하기"
+        "AI 학습 데이터 품질 핵심 요소",
+        "수요와 공급 불균형 현황 분석",
+        "데이터 표준화와 품질 검증 방법",
+        "출판사와 AI 기업 협업 모델 설계",
+        "미래 데이터 생태계와 성장 전략"
       ],
       "searchQueries": [
-        "저작권 비용",
-        "출판사 비용 절감"
+        "AI 학습용 출판데이터",
+        "출판데이터 공급"
       ],
       "bookworthiness": {
-        "durability": "미국 저작권청의 수수료 체계는 한번 개정되면 다년간 유지되며, 해외 지재권 방어 프로세스는 출판사의 필수 경영 자산입니다.",
-        "repeatNeed": "신간 출간 및 영미권 판권 계약 체결 시마다 eCO 등록 절차를 밟기 위해 매번 펼쳐보는 실무 편람입니다.",
-        "expansionPotential": "미국 상표권 등록 절차와 아마존 브랜드 레지스트리 연동법까지 포괄하여 200쪽 실무 단행본으로 확장이 용이합니다.",
-        "productDependency": "낮음"
+        "durability": "데이터 품질은 AI 발전에 장기적인 영향을 미치는 핵심 요소이다.",
+        "repeatNeed": "AI 모델 업데이트마다 새로운 데이터 확보와 검증이 반복적으로 필요하다.",
+        "expansionPotential": "다양한 산업 분야에 적용 가능한 데이터 표준과 협업 모델을 확장할 수 있다.",
+        "productDependency": "중간"
       },
       "authors": [
         {
-          "name": "배대헌",
-          "career": "《창작과 이용을 위한 저작권》 저자 · 경북대학교출판부",
-          "why": "YES24에서 이 기획과 인접한 주제의 《창작과 이용을 위한 저작권》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/117721991",
+          "name": "이민재",
+          "career": "《CMMI 3.0》 저자 · 좋은땅",
+          "why": "YES24에서 이 기획과 인접한 주제의 《CMMI 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/125217947",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "이승훈",
-          "career": "《창작자와 편집자를 위한 저작권 매뉴얼》 저자 · 한국출판인회의",
-          "why": "YES24에서 이 기획과 인접한 주제의 《창작자와 편집자를 위한 저작권 매뉴얼》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/96001116",
+          "name": "김성태",
+          "career": "《CMMI 3.0》 저자 · 좋은땅",
+          "why": "YES24에서 이 기획과 인접한 주제의 《CMMI 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/125217947",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "황지현",
-          "career": "《창작자와 편집자를 위한 저작권 매뉴얼》 저자 · 한국출판인회의",
-          "why": "YES24에서 이 기획과 인접한 주제의 《창작자와 편집자를 위한 저작권 매뉴얼》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/96001116",
+          "name": "허동은",
+          "career": "《CMMI 3.0》 저자 · 좋은땅",
+          "why": "YES24에서 이 기획과 인접한 주제의 《CMMI 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/125217947",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "배대헌",
-      "bestAuthor": "배대헌",
+      "author": "이민재",
+      "bestAuthor": "이민재",
       "authorBrief": "",
-      "headlineCopy": "치솟은 미국 저작권 등록비, 합법적인 묶음 등록으로 비용을 절반으로 줄여라",
+      "headlineCopy": "고품질 데이터가 AI 성능을 좌우한다, 출판 데이터 혁신이 답이다.",
       "marketingStrategy": {
-        "sampleBreadth": "보통",
+        "sampleBreadth": "넓음",
         "coreDesires": [
-          "과도한 해외 저작권 등록 비용 절감",
-          "소송 비용 없이 영미권 무단 복제 즉시 차단"
+          "AI 성능 극대화",
+          "데이터 공급 체계 구축"
         ],
         "quadrant": {
           "audience": "니치형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "한국독립출판협회, 웹툰·웹소설 작가 지망 커뮤니티, 출판마케팅 포럼에 '미국 저작권 등록비 인상 대조표 및 절감 체크리스트'를 배포합니다.",
-        "trust": "실제 미국 저작권청(U.S. Copyright Office) 공고 개정안 원문 데이터와 중소 에이전시의 eCO 단체 등록 통과 서식을 증거로 제시합니다.",
-        "conversion": "도서 상세페이지에서 '단 3분 만에 확인하는 내 도서의 미국 그룹 등록 가능 여부 문답표'를 무료 샘플로 제공합니다.",
+        "acquisition": "AI 개발자 커뮤니티와 출판업계 세미나에서 직접 독자를 모집한다.",
+        "trust": "실제 데이터 품질 평가 사례와 성공적인 협업 프로젝트를 제시한다.",
+        "conversion": "구체적인 데이터 표준 템플릿을 제공해 즉시 적용하도록 유도한다.",
         "maxDropoff": {
-          "stage": "의심",
-          "problem": "미국 저작권 등록 절차는 어차피 전문 변호사나 대리인에게 맡겨야 하므로 책이 필요 없다고 여길 수 있습니다.",
-          "objection": "\"대행업체에 맡기면 그만인데, 내가 직접 서류를 작성할 수 있을까?\"",
-          "solution": "대행 수수료 수백만 원을 아끼고 출판사 대표가 30분 만에 끝낼 수 있는 'eCO 화면 1:1 캡처 영문 입력 템플릿'을 수록해 불안을 해소합니다."
+          "stage": "탐색",
+          "problem": "데이터 품질 평가 기준이 모호해 독자가 진입을 꺼린다.",
+          "objection": "협업 비용과 절차가 복잡하다고 판단한다.",
+          "solution": "표준화된 체크리스트와 비용 효율 모델을 제시한다."
         },
-        "positioning": "인상된 등록비 폭탄을 피하고 내 해외 저작권을 지키는 중소 제작사 전용 지재권 실무서"
+        "positioning": "AI 성능을 좌우하는 데이터 혁신, 출판 데이터 공급의 새로운 패러다임"
       },
       "devilsEditor": {
-        "failureReason": "미국 저작권법의 딱딱한 조문 나열에 매몰되어 현업 출판인이 가장 원하는 '실제 등록 화면 작성 요령과 수수료 절약법'이 가려질 위험이 있습니다.",
-        "fix": "법률 이론을 최소화하고 저작권청 웹사이트 화면 캡처와 칸별 입력 문장 예시를 전체 지면의 60% 이상으로 채웁니다."
+        "failureReason": "데이터 품질 평가가 추상적이라 독자에게 전달이 어려웠다.",
+        "fix": "구체적인 평가 지표와 사례 기반 설명으로 명확성을 높인다."
       },
       "scores": {
-        "market": 92,
+        "market": 88,
         "timing": 96,
         "difference": 95,
         "author": 86,
         "marketing": 96,
         "longtail": 99
       },
-      "score": 94,
+      "score": 93,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "미국 저작권청의 행정 규칙 변경이나 전자 접수 시스템(eCO) 개편으로 세부 서식이 예고 없이 바뀔 위험이 있습니다.",
-      "riskResponse": "주요 서식 변경 사항 발생 시 출판사 웹사이트를 통해 수정된 입력 가이드 PDF를 즉시 업데이트 배포합니다.",
-      "judgment": "단순한 저작권 법리 해설서가 아니라 인상된 수수료를 획기적으로 아껴주는 eCO 단체 등록 실무 테크닉을 얼마나 직관적으로 전달하느냐가 이 책의 구매를 결정합니다.",
+      "risk": "데이터 공급‑수요 불균형이 AI 프로젝트 성공을 저해한다.",
+      "riskResponse": "표준화된 품질 프레임워크와 협업 모델을 동시에 제공한다.",
+      "judgment": "AI 성능 향상을 위한 데이터 혁신이 출판 시장의 새로운 성장 동력이 될 것이다.",
       "evidence": [
         {
-          "text": "창작과 이용을 위한 저작권 — 배대헌 저",
+          "text": "CMMI 3.0 — 이민재,김성태,허동은 공저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/117721991"
+          "url": "https://www.yes24.com/product/goods/125217947"
         },
         {
-          "text": "미국 저작권 등록비 내년 1월 5일부터 43% 오른다…2020년 이후 7년 만에 대폭 인상 - IPDaily",
+          "text": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신 - AI타임스",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNbzc5TmlEN2RSOWh1aTVGNnhRTXNnaEdiOVFpRl9GQ3N4X2pvY0N1T0VrZDNqcnJZTzFBWVdvQ043M0cwbXgwRDNfQVpCRHU1cFR0MXF2Vk5oWWNOLWRvU3p4Nk4zWmFNV05ZT2ZmUnluX1owMmcyVXR1NmFRX05RRmVkVXVLYmVtMlpkS19kNlBSNnpna3o1QkNUU2hibHFfdWRyRlZZX004cTRvb25pU1JHaEIyemNmVEZacENOb3Rhd1NyYTNkb2UyMmJIWFFaZi1mUnlsNWYtNEMtaUd5bXhhYzh0dFhpNTZTTEVvMU1UaHpzRmxfWEZXMHFqX1QxeS1vZ3FuUDZFYkJtY1IzMjdINEI3aHJvMGZCdFQzNFRIRWQ4X1ZjMGs1WkwwRWhpNFh3UWZ0c0RGbG13Mkxzcm9IaHRXMVhsSUs3ZmNnWEJjX0gwSEE3Vg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XMEY4dDFPZ2FsVjdwOW5oMk5jc29xandKYXZoMGdMWS0xb0NrR1E3SC13RHA3LXpwOXk1bnlqLXpydVlaSzViM0Y0eGhvZS1KVTEzd1dIVm1FYmFGVFFpelJnbUVLOHZTOGc?oc=5"
         },
         {
-          "text": "창작자와 편집자를 위한 저작권 매뉴얼 — 이승훈,황지현,서대진,이동국 공저",
+          "text": "2026 글로벌 ESG 규제 패러다임과 자본시장 밸류업 전략 및 산업별 실무 가이드 — IRS글로벌 산업조사실,김순종,이중원 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/96001116"
+          "url": "https://www.yes24.com/product/goods/189007416"
         },
         {
-          "text": "현대 저작권의 쟁점과 전망 — 류종현 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/3644105"
+          "text": "제약바이오협, 하반기 윤리경영 워크숍...CSO 규제부터 AI 마케팅까지 - 약사공론",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZ3RpWXpLRGJidWJnY1NIblczdkN0OUxFWDY1NVFvcE5kRThpYks5YjRmV3JWLUZ0M1JiZ21WTkI3Y3p3VWtsNlZIZ21JZUNlWXZkc3BXLW1tU3E0QldzX3JRb2E2OU1xN25NbQ?oc=5"
         }
       ],
       "sourceChannels": [
@@ -1195,380 +359,210 @@
       },
       "similarBooks": [
         {
-          "title": "창작과 이용을 위한 저작권",
-          "author": "배대헌 저",
-          "publisher": "경북대학교출판부",
-          "publicationDate": "20230223",
-          "url": "https://www.yes24.com/product/goods/117721991",
-          "matchedQuery": "저작권 비용",
+          "title": "CMMI 3.0",
+          "author": "이민재,김성태,허동은 공저",
+          "publisher": "좋은땅",
+          "publicationDate": "20240222",
+          "url": "https://www.yes24.com/product/goods/125217947",
+          "matchedQuery": "출판데이터 공급",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "창작자와 편집자를 위한 저작권 매뉴얼",
-          "author": "이승훈,황지현,서대진,이동국 공저",
-          "publisher": "한국출판인회의",
-          "publicationDate": "20201211",
-          "url": "https://www.yes24.com/product/goods/96001116",
-          "matchedQuery": "저작권 비용",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "현대 저작권의 쟁점과 전망",
-          "author": "류종현 저",
-          "publisher": "커뮤니케이션북스",
-          "publicationDate": "20091120",
-          "url": "https://www.yes24.com/product/goods/3644105",
-          "matchedQuery": "저작권 비용",
+          "title": "2026 글로벌 ESG 규제 패러다임과 자본시장 밸류업 전략 및 산업별 실무 가이드",
+          "author": "IRS글로벌 산업조사실,김순종,이중원 저",
+          "publisher": "IRS Global(아이알에스글로벌)",
+          "publicationDate": "20260507",
+          "url": "https://www.yes24.com/product/goods/189007416",
+          "matchedQuery": "출판데이터 공급",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-19T23:43:23.252Z",
+        "updatedAt": "2026-11-20T23:41:48.426Z",
         "queries": [
-          "저작권 비용",
-          "출판사 비용 절감"
+          "AI 학습용 출판데이터",
+          "출판데이터 공급"
         ],
-        "resultCount": 3,
+        "resultCount": 2,
         "errors": []
       },
       "realEditorialGate": {
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-20T00:20:06.918Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "미국 저작권 등록비 인상, 중소 출판사의 생존 전략",
-        "provider": "gemini",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "먼 나라에 보낸 내 글이\n지켜지지 못할 때",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "002",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "외국어로 번역된 원고를 앞에 두고\n청구서 금액을 망설인다",
-            "body": "한 건당 치솟은 관할 관청의 등록비.",
-            "accent": "yellow",
-            "sceneId": "017",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "내 이름을 새겨 넣지 못해\n바다 건너에서 흩어질까 봐\n혼자 삼키는 밤",
-            "body": "작은 창작자에게 국경의 벽은 유독 높다.",
-            "accent": "yellow",
-            "sceneId": "026",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 지키는 일은\n하나씩 값을 치르는 것만이\n전부는 아니다",
-            "body": "묶어서 증명하고 단단하게 건너가는 방법이 있다.",
-            "accent": "yellow",
-            "sceneId": "015",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "아끼고 버텨낸 자리마다\n당신의 고유한 문장은\n끝내 안전하게 남는다",
-            "body": "비용 때문에 포기했던 이름들을 모아낸다.",
-            "accent": "yellow",
-            "sceneId": "033",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "아무리 먼 땅으로 건너가도\n창작자의 권리는 홀로 남겨지지 않는다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "047",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-da03200b"
+      "rank": 2
+    },
+    {
+      "type": "부동산",
+      "field": "부동산",
+      "title": "서울 고가 단지의 세 부담 확대",
+      "concept": "고가 주택의 세 부담 증가 원인을 다각도로 분석하고, 실생활에 적용 가능한 절세 전략과 정책 제안을 제시한다.",
+      "why": "최근 보도에서 고가 단지 세 부담이 급증하고 있어, 거주자와 구매자가 재정적 위험을 최소화할 실질적 방안이 요구된다.",
+      "competition": "기존 부동산 서적은 세 부담 원인만 나열하고 구체적인 절세 실행 방안을 제공하지 않아 독자 요구를 충족하지 못한다.",
+      "reader": "서울 고가 단지에 거주 중이거나 구매를 고려 중인 고소득층 및 투자자",
+      "readerNeed": "세 부담 상승에 따른 재정 리스크를 파악하고, 즉시 적용 가능한 절세 방법을 찾는다.",
+      "marketGap": "세 부담 원인 분석과 동시에 실천 가능한 절세 체크리스트가 결합된 가이드가 아직 출판되지 않았다.",
+      "differentiation": "세 부담 구조를 시각화하고, 법적 절세 포인트와 현장 적용 사례를 5단계 로드맵으로 제공한다.",
+      "diff": "세 부담 구조를 시각화하고, 법적 절세 포인트와 현장 적용 사례를 5단계 로드맵으로 제공한다.",
+      "toc": [
+        "고가 단지 세 부담 구조와 원인 분석",
+        "세 부담 최소화를 위한 법적 절세 포인트",
+        "실제 적용 사례와 성공적인 절세 전략",
+        "세 부담 변화 시나리오와 대응 방안",
+        "정책 제언과 장기적 재정 계획"
+      ],
+      "searchQueries": [
+        "서울 고가 단지",
+        "세 부담 확대"
+      ],
+      "bookworthiness": {
+        "durability": "세 정책 변화는 장기적으로 부동산 시장에 지속적인 영향을 미친다.",
+        "repeatNeed": "세율 변동에 따라 매년 새로운 절세 전략이 필요하다.",
+        "expansionPotential": "다른 고가 주택 지역에도 적용 가능한 절세 모델로 확장 가능하다.",
+        "productDependency": "낮음"
       },
-      "coverRefs": [
+      "authors": [
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/5d3beff0-5995-4f67-9cdb-6d3802702737/minn_the-carceral-surround_sept26_martyn-schmoll.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "minn the carceral surround",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피의 배치와 여백을 활용해 법률 실무서의 신뢰감과 전문성을 구축하는 레이아웃 원리로 참고 가능함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 35,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "reading technology future",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "황선미",
+          "career": "《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자 · 조선북스(전집)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/90971822",
+          "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f372e013-7400-4bd8-878e-44ed6cde5dee/mcgill-queens_early-modern-maritime-recipies_sept26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens early modern maritime recipies",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "고전적 타이포그래피 배치는 신뢰감을 주나, 실무 전략서의 현대적이고 긴박한 톤앤매너와는 거리가 있음",
-          "gemmaScore": 57,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 75,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "reading technology future",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "조에스더 그림",
+          "career": "《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자 · 조선북스(전집)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/90971822",
+          "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6e2730b1-80dc-42cb-a7b7-2afeb5cf6ce2/mcgill-queens_postal-censorship-surveillance-resistance_sept26_jeremy-parker.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens postal censorship surveillance resistance",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "텍스트 중심의 강렬한 레이아웃과 대비를 통해 법률적 엄중함과 정보의 권위를 시각화하기에 적합함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 55,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "reading technology future",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "한국미래기술교육연구원",
+          "career": "《분산에너지활성화특별법 시행에 따른 민간 시장 확대방안》 저자 · 미래기술",
+          "why": "YES24에서 이 기획과 인접한 주제의 《분산에너지활성화특별법 시행에 따른 민간 시장 확대방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/126396499",
+          "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "coverReferences": [
+      "author": "황선미",
+      "bestAuthor": "황선미",
+      "authorBrief": "",
+      "headlineCopy": "세 부담 상승, 현명한 절세 전략으로 재정 안정을 잡는다.",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "재정 위험 최소화",
+          "즉시 적용 가능한 절세 가이드"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "부동산 포털과 고가 주택 커뮤니티에서 세 부담 이슈를 강조해 독자를 유입한다.",
+        "trust": "세 전문가 인터뷰와 실제 절세 성공 사례를 통해 신뢰를 구축한다.",
+        "conversion": "구체적인 절세 체크리스트와 실행 플랜을 제공해 구매 결정을 촉진한다.",
+        "maxDropoff": {
+          "stage": "의심",
+          "problem": "세 부담 복잡성에 대한 이해 부족이 독자를 주저하게 만든다.",
+          "objection": "제시된 절세 방법이 개인 상황에 맞지 않을까 우려한다.",
+          "solution": "맞춤형 시뮬레이션 도구와 개별 상담 옵션을 제공한다."
+        },
+        "positioning": "고가 단지 세 부담을 체계적으로 분석하고 절세 전략을 제시하는 실전 가이드"
+      },
+      "devilsEditor": {
+        "failureReason": "세 제도 설명이 난해해 독자가 포기할 위험이 있었다.",
+        "fix": "쉽게 이해되는 도표와 단계별 절세 시나리오로 접근성을 높였다."
+      },
+      "scores": {
+        "market": 88,
+        "timing": 92,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 93,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "세 부담 확대가 거주자의 재정 불안을 가중시킨다.",
+      "riskResponse": "구체적인 절세 포인트와 정책 대응 방안을 동시에 제공한다.",
+      "judgment": "세 부담 문제를 해결하는 실용적 가이드는 고가 주택 시장에서 차별화된 가치를 창출한다.",
+      "evidence": [
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/5d3beff0-5995-4f67-9cdb-6d3802702737/minn_the-carceral-surround_sept26_martyn-schmoll.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "minn the carceral surround",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피의 배치와 여백을 활용해 법률 실무서의 신뢰감과 전문성을 구축하는 레이아웃 원리로 참고 가능함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 35,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "reading technology future",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울 — 황선미 글,조에스더 그림 외",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/90971822"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f372e013-7400-4bd8-878e-44ed6cde5dee/mcgill-queens_early-modern-maritime-recipies_sept26_david-drummond.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens early modern maritime recipies",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "고전적 타이포그래피 배치는 신뢰감을 주나, 실무 전략서의 현대적이고 긴박한 톤앤매너와는 거리가 있음",
-          "gemmaScore": 57,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 75,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "reading technology future",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "현실화율 동결에도…서울 고가 단지 '세 부담 확대' 전망 - 연합인포맥스",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ME5MaUpYTTRDWFkzTjMtRUdjTEo0UDB2OGZHMGFQM09XRWJ3WHNXWXVIUUh2aGw4ZG4wcG5NNEY0QmthdC1DN2lRM3YwVWtEZjFqY0l4UzRGX3poQnJCMWVvU3ctd2JlWndOMlc0N3E?oc=5"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/6e2730b1-80dc-42cb-a7b7-2afeb5cf6ce2/mcgill-queens_postal-censorship-surveillance-resistance_sept26_jeremy-parker.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "mcgill queens postal censorship surveillance resistance",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "텍스트 중심의 강렬한 레이아웃과 대비를 통해 법률적 엄중함과 정보의 권위를 시각화하기에 적합함",
-          "gemmaScore": 74,
-          "gemmaTopicFit": 45,
-          "gemmaGenreFit": 55,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "reading technology future",
-          "sourceRevision": "zcr-da03200b",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "분산에너지활성화특별법 시행에 따른 민간 시장 확대방안 — 한국미래기술교육연구원",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/126396499"
+        },
+        {
+          "text": "박종원 담양군수, 2027년 군정 청사진 제시…소득·복지 강화 - 에너지경제신문",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53ekFOVDQtN2prVjY2a3NjU0htdUl3NnVxYnRxak9wNHNzd3lXRUgxRGFuMkNteUUwT3YzZ0wzYUZWWFlVSXMtV0lWc2hxVTU4OXRnWk9NbXBRNElSRk1MRms2WQ?oc=5"
         }
       ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-da03200b",
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 100,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울",
+          "author": "황선미 글,조에스더 그림 외",
+          "publisher": "조선북스(전집)",
+          "publicationDate": "20141015",
+          "url": "https://www.yes24.com/product/goods/90971822",
+          "matchedQuery": "서울 고가 단지",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "분산에너지활성화특별법 시행에 따른 민간 시장 확대방안",
+          "author": "한국미래기술교육연구원",
+          "publisher": "미래기술",
+          "publicationDate": "20240419",
+          "url": "https://www.yes24.com/product/goods/126396499",
+          "matchedQuery": "세 부담 확대",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
         "status": "ready",
-        "generatedAt": "2026-11-20T07:01:13.889Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-11-20T23:41:49.980Z",
+        "queries": [
+          "서울 고가 단지",
+          "세 부담 확대"
+        ],
+        "resultCount": 2,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 3
     }
-  ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261120-af6e3ee1",
-    "file": "cardnews/2026-11-20.json",
-    "cardCount": 6
-  }
+  ]
 }
