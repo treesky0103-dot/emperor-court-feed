@@ -3,7 +3,7 @@
   "planDay": "2026-11-21",
   "planSetId": "zps-20261121-c6b29190",
   "generatedAt": "2026-11-20T23:43:54.214Z",
-  "publishedAt": "2026-11-21T00:19:40.232Z",
+  "publishedAt": "2026-11-21T07:01:17.663Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -18,10 +18,11 @@
     "model": "openai/gpt-oss-120b",
     "hqReady": true,
     "contentRevision": "zcr-e1e22b87",
-    "hqVerifiedBy": "v2.15.99",
+    "hqVerifiedBy": "openai/gpt-oss-120b",
     "sealedAt": "2026-11-21T00:00:00.084Z",
     "build": "v2.15.119",
-    "hqVerificationError": ""
+    "hqVerificationError": "",
+    "hqUpgradedAt": "2026-11-21T06:45:40.569Z"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
@@ -538,7 +539,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-e1e22b87",
         "status": "ready",
-        "generatedAt": "2026-11-21T00:18:54.747Z",
+        "generatedAt": "2026-11-21T07:01:04.169Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -546,98 +547,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 12,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 75,
-              "score": 57,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nebraska pyrrhic symphony",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 25,
-              "genre": 30,
-              "design": 85,
-              "score": 67,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 96222,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "newsouth trip reports",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 35,
-              "genre": 40,
-              "design": 85,
-              "score": 71,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 201038,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "northwestern blow yourself up",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 59088,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1123,7 +1033,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-e1e22b87",
         "status": "ready",
-        "generatedAt": "2026-11-21T00:19:06.404Z",
+        "generatedAt": "2026-11-21T07:01:07.833Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1131,98 +1041,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 9,
-          "preShortlistCount": 8,
-          "eligibleCount": 8,
-          "scannedCount": 8,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "nyu fire in the heart of the city",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 238944,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "penn state teresa urrea",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 30,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 156524,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "pitt abider",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 40,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 99740,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     },
     {
@@ -1708,7 +1527,7 @@
         "version": "v2.15.58-gemma4-vision-state-safe",
         "sourceRevision": "zcr-e1e22b87",
         "status": "ready",
-        "generatedAt": "2026-11-21T00:19:15.542Z",
+        "generatedAt": "2026-11-21T07:01:10.936Z",
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "displayGuaranteed": true,
         "hqReady": true,
@@ -1716,98 +1535,7 @@
         "deadlineGuaranteed": false,
         "deadlineAtKst": "09:25",
         "qualityTier": "hq",
-        "diagnostics": {
-          "rawFound": 30,
-          "sourceCounts": {
-            "bookcoverarchive": 0,
-            "spine": 30,
-            "googlebooks": 0,
-            "metmuseum": 0
-          },
-          "poolCount": 6,
-          "preShortlistCount": 6,
-          "eligibleCount": 6,
-          "scannedCount": 6,
-          "validationRejected": {
-            "badTitle": 0,
-            "proxyHost": 0,
-            "http": 0,
-            "fetch": 0,
-            "other": 0
-          },
-          "validatedCount": 6,
-          "shortlistCount": 4,
-          "assessedCount": 4,
-          "selectedCount": 3,
-          "metadataHqRecovery": 0,
-          "expandedRecovery": null,
-          "assessmentSummary": [
-            {
-              "title": "nyu black woman runner",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "",
-              "topic": 10,
-              "genre": 20,
-              "design": 75,
-              "score": 55,
-              "selected": false,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 54004,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "west virginia what kind of mother",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "topic",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 61696,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "yale darwin and the queer origins of life",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "genre",
-              "topic": 15,
-              "genre": 20,
-              "design": 85,
-              "score": 64,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 79992,
-              "error": "",
-              "rawPreview": ""
-            },
-            {
-              "title": "October Book Covers We Love!",
-              "source": "spine",
-              "status": "ok",
-              "parseStatus": "parsed",
-              "slot": "design",
-              "topic": 20,
-              "genre": 30,
-              "design": 85,
-              "score": 65,
-              "selected": true,
-              "inputMode": "base64-image+messages",
-              "imageBytes": 81764,
-              "error": "",
-              "rawPreview": ""
-            }
-          ]
-        }
+        "diagnostics": {}
       }
     }
   ],
