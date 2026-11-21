@@ -3,7 +3,7 @@
   "planDay": "2026-11-21",
   "planSetId": "zps-20261121-c6b29190",
   "generatedAt": "2026-11-20T23:43:54.214Z",
-  "publishedAt": "2026-11-21T00:19:20.339Z",
+  "publishedAt": "2026-11-21T00:19:40.232Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -227,7 +227,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-21T00:18:00.001Z",
+        "generatedAt": "2026-11-21T00:19:34.592Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -252,81 +252,78 @@
           ]
         },
         "bookTitle": "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "groq",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "감성 문장",
-            "headline": "폐교 위기, 새로운 교육 로드맵으로 미래를 설계한다.",
+            "headline": "문을 닫는 순간, 배움도 멈추는가",
             "body": "",
             "accent": "yellow",
             "sceneId": "007",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "장면",
-            "headline": "불확실성을 해소하고, 향후 진로 선택에 필요한 구체적 정보를 원한다.",
+            "headline": "캠퍼스에 남은 빈 강의실, 조용히 울리는 발걸음",
             "body": "",
             "accent": "yellow",
             "sceneId": "012",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "감정",
-            "headline": "분석하고, 교육 공백을 메울 수 있는 대안 교육 모델을 설계한다.",
+            "headline": "불확실함이 가슴을 무겁게 누른다",
             "body": "",
             "accent": "yellow",
             "sceneId": "029",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "관점 전환",
-            "headline": "재학생과 입학 예정자의 불안 해소를 위한 구체적 방안이 시급하다.",
+            "headline": "하지만 그 빈자리엔 새로운 배움의 가능성이 스며든다",
             "body": "",
             "accent": "yellow",
             "sceneId": "020",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "수용",
-            "headline": "현장 적용 가능한 대안 교육 커리큘럼을 5단계 로드맵으로 제공한다.",
+            "headline": "그 변화를 받아들여, 스스로 길을 찾는 용기가 필요하다",
             "body": "",
             "accent": "yellow",
             "sceneId": "038",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "여운",
-            "headline": "폐교 원인 분석이 복잡해 독자가 이해하기 어렵다.",
+            "headline": "다음 장을 스스로 쓰는 순간, 교육은 다시 시작된다",
             "body": "",
             "accent": "yellow",
             "sceneId": "044",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-e1e22b87"
       },
       "coverRefs": [
@@ -815,7 +812,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-21T00:18:00.001Z",
+        "generatedAt": "2026-11-21T00:19:18.814Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -840,81 +837,78 @@
           ]
         },
         "bookTitle": "AI 학습용 출판데이터의 중요성",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "gemini",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "강한 선언",
-            "headline": "고품질 데이터가 AI 성능을 좌우한다, 출판 데이터 혁신이 답이다.",
+            "headline": "웹 데이터만 긁어모은\nAI는 결국 망한다",
             "body": "",
             "accent": "yellow",
             "sceneId": "003",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "warning",
             "beat": "공감",
-            "headline": "학습 데이터를 확보하고, 공급망을 효율화할 실질적 방법을 찾는다.",
-            "body": "",
+            "headline": "아무리 모델을 키워도\n답변이 헛돌고 있는가",
+            "body": "성능 정체의 원인을 엉뚱한 곳에서 찾는다",
             "accent": "yellow",
             "sceneId": "025",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "warning",
             "beat": "구체적 증상",
-            "headline": "불균형을 해소할 수 있는 새로운 데이터 제공 체계를 제시한다.",
-            "body": "",
+            "headline": "문맥은 얕아지고,\n출처는 흐리며,\n오류만 번복한다면",
+            "body": "정제되지 않은 쓰레기 데이터를 삼킨 결과",
             "accent": "yellow",
             "sceneId": "022",
             "sceneCategory": "warning",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "판단 기준",
-            "headline": "점이 강조돼, 개발자와 출판업계가 협업할 구체적 방안이 필요하다.",
-            "body": "",
+            "headline": "학습량의 크기가 아니라\n검증된 정제의 질이 문제다",
+            "body": "문맥과 논리가 살아있는 지식이 필요하다",
             "accent": "yellow",
             "sceneId": "019",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "해결",
-            "headline": "프레임워크와 출판사‑AI 기업 협업 프로세스를 단계별로 제시한다.",
-            "body": "",
+            "headline": "지금 당장 출판 단위의\n정제 데이터로 교체하라",
+            "body": "검증된 원천 데이터를 확보해야 산다",
             "accent": "yellow",
             "sceneId": "031",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "강한 결론",
-            "headline": "데이터 품질 평가가 추상적이라 독자에게 전달이 어려웠다.",
+            "headline": "AI의 지능 수준은\n먹인 데이터의 격이 결정한다",
             "body": "",
             "accent": "yellow",
             "sceneId": "049",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-e1e22b87"
       },
       "coverRefs": [
@@ -1403,7 +1397,7 @@
       "cardnews": {
         "version": "v2.15.24-cardnews-3styles",
         "status": "ready",
-        "generatedAt": "2026-11-21T00:18:00.001Z",
+        "generatedAt": "2026-11-21T00:19:18.814Z",
         "character": "id-master-library",
         "characterAsset": "",
         "palette": [
@@ -1428,81 +1422,78 @@
           ]
         },
         "bookTitle": "서울 고가 단지의 세 부담 확대",
-        "provider": "deterministic-local",
-        "aiCards": 0,
-        "fallback": true,
-        "fallbackReason": "deadline-guarantee-no-ai",
+        "provider": "gemini",
+        "aiCards": 6,
+        "fallback": false,
+        "fallbackReason": "",
         "cards": [
           {
             "index": 1,
             "role": "cover",
             "beat": "궁금증",
-            "headline": "세 부담 상승, 현명한 절세 전략으로 재정 안정을 잡는다.",
+            "headline": "집값보다 세금이\n더 빠르게 뛰는 진짜 이유",
             "body": "",
             "accent": "yellow",
             "sceneId": "005",
             "sceneCategory": "cover",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 2,
             "role": "analysis",
             "beat": "현상",
-            "headline": "따른 재정 리스크를 파악하고, 즉시 적용 가능한 절세 방법을 찾는다.",
-            "body": "",
+            "headline": "시세는 그대로인데\n고지서 숫자는 커졌다",
+            "body": "서울 고가 단지 거주자들의 공통된 혼란",
             "accent": "yellow",
             "sceneId": "019",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 3,
             "role": "analysis",
             "beat": "원리",
-            "headline": "분석하고, 실생활에 적용 가능한 절세 전략과 정책 제안을 제시한다.",
-            "body": "",
+            "headline": "공시가격 현실화와\n과표 구간의 누진 구조 탓이다",
+            "body": "가액이 오를수록 적용 세율이 가파르게 뛴다",
             "accent": "yellow",
             "sceneId": "016",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 4,
             "role": "analysis",
             "beat": "설명",
-            "headline": "있어, 거주자와 자가 재정적 위험을 최소화할 실질적 방안이 요구된다.",
-            "body": "",
+            "headline": "보유세뿐 아니라\n취득과 양도 단계까지 묶인다",
+            "body": "구간별 기준선 하나로 공제 혜택이 사라진다",
             "accent": "yellow",
             "sceneId": "017",
             "sceneCategory": "analysis",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 5,
             "role": "fix",
             "beat": "통찰",
-            "headline": "법적 절세 포인트와 현장 적용 사례를 5단계 로드맵으로 제공한다.",
-            "body": "",
+            "headline": "자산 관리는 시세 차익이\n아니라 보유 비용의 계산이다",
+            "body": "세금 구조를 읽지 못하면 수익은 남지 않는다",
             "accent": "yellow",
             "sceneId": "031",
             "sceneCategory": "fix",
-            "source": "rule-fallback"
+            "source": "ai"
           },
           {
             "index": 6,
             "role": "final",
             "beat": "핵심 메시지",
-            "headline": "세 제도 설명이 난해해 독자가 포기할 위험이 있었다.",
+            "headline": "부동산의 성패는\n사는 순간의 세금 설계에 달렸다",
             "body": "",
             "accent": "yellow",
             "sceneId": "049",
             "sceneCategory": "final",
-            "source": "rule-fallback"
+            "source": "ai"
           }
         ],
-        "deadlineGuaranteed": true,
-        "qualityTier": "continuity",
-        "upgradePending": true,
         "sourceRevision": "zcr-e1e22b87"
       },
       "coverRefs": [
