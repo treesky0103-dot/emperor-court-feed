@@ -1,0 +1,331 @@
+{
+  "day": "2026-11-21",
+  "planSetId": "zps-20261121-c6b29190",
+  "sourceRevision": "zcr-e1e22b87",
+  "version": "v2.15.24-cardnews-3styles",
+  "signature": "aef38dcceb",
+  "planTitles": [
+    "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
+    "AI 학습용 출판데이터의 중요성",
+    "서울 고가 단지의 세 부담 확대"
+  ],
+  "provider": "deterministic-local",
+  "generatedAt": "2026-11-21T00:18:00.001Z",
+  "sets": [
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-11-21T00:18:00.001Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "film",
+        "label": "필름형",
+        "tone": "감성 매거진형",
+        "flow": [
+          "감성 문장",
+          "장면",
+          "감정",
+          "관점 전환",
+          "수용",
+          "여운"
+        ]
+      },
+      "bookTitle": "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
+      "provider": "deterministic-local",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "deadline-guarantee-no-ai",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "감성 문장",
+          "headline": "폐교 위기, 새로운 교육 로드맵으로 미래를 설계한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "007",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "장면",
+          "headline": "불확실성을 해소하고, 향후 진로 선택에 필요한 구체적 정보를 원한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "012",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "감정",
+          "headline": "분석하고, 교육 공백을 메울 수 있는 대안 교육 모델을 설계한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "029",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "관점 전환",
+          "headline": "재학생과 입학 예정자의 불안 해소를 위한 구체적 방안이 시급하다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "020",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "수용",
+          "headline": "현장 적용 가능한 대안 교육 커리큘럼을 5단계 로드맵으로 제공한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "038",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "여운",
+          "headline": "폐교 원인 분석이 복잡해 독자가 이해하기 어렵다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "044",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "deadlineGuaranteed": true,
+      "qualityTier": "continuity",
+      "upgradePending": true,
+      "sourceRevision": "zcr-e1e22b87"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-11-21T00:18:00.001Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "heist",
+        "label": "하이스트형",
+        "tone": "직설·후킹형",
+        "flow": [
+          "강한 선언",
+          "공감",
+          "구체적 증상",
+          "판단 기준",
+          "해결",
+          "강한 결론"
+        ]
+      },
+      "bookTitle": "AI 학습용 출판데이터의 중요성",
+      "provider": "deterministic-local",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "deadline-guarantee-no-ai",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "강한 선언",
+          "headline": "고품질 데이터가 AI 성능을 좌우한다, 출판 데이터 혁신이 답이다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "003",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "warning",
+          "beat": "공감",
+          "headline": "학습 데이터를 확보하고, 공급망을 효율화할 실질적 방법을 찾는다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "025",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "warning",
+          "beat": "구체적 증상",
+          "headline": "불균형을 해소할 수 있는 새로운 데이터 제공 체계를 제시한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "022",
+          "sceneCategory": "warning",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "판단 기준",
+          "headline": "점이 강조돼, 개발자와 출판업계가 협업할 구체적 방안이 필요하다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "해결",
+          "headline": "프레임워크와 출판사‑AI 기업 협업 프로세스를 단계별로 제시한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "031",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "강한 결론",
+          "headline": "데이터 품질 평가가 추상적이라 독자에게 전달이 어려웠다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "049",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "deadlineGuaranteed": true,
+      "qualityTier": "continuity",
+      "upgradePending": true,
+      "sourceRevision": "zcr-e1e22b87"
+    },
+    {
+      "version": "v2.15.24-cardnews-3styles",
+      "status": "ready",
+      "generatedAt": "2026-11-21T00:18:00.001Z",
+      "character": "id-master-library",
+      "characterAsset": "",
+      "palette": [
+        "black",
+        "ivory",
+        "vermilion-red",
+        "mustard-yellow",
+        "white"
+      ],
+      "cardCount": 6,
+      "style": {
+        "key": "forest",
+        "label": "포레스트형",
+        "tone": "지식·통찰 교양형",
+        "flow": [
+          "궁금증",
+          "현상",
+          "원리",
+          "설명",
+          "통찰",
+          "핵심 메시지"
+        ]
+      },
+      "bookTitle": "서울 고가 단지의 세 부담 확대",
+      "provider": "deterministic-local",
+      "aiCards": 0,
+      "fallback": true,
+      "fallbackReason": "deadline-guarantee-no-ai",
+      "cards": [
+        {
+          "index": 1,
+          "role": "cover",
+          "beat": "궁금증",
+          "headline": "세 부담 상승, 현명한 절세 전략으로 재정 안정을 잡는다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "005",
+          "sceneCategory": "cover",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 2,
+          "role": "analysis",
+          "beat": "현상",
+          "headline": "따른 재정 리스크를 파악하고, 즉시 적용 가능한 절세 방법을 찾는다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "019",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 3,
+          "role": "analysis",
+          "beat": "원리",
+          "headline": "분석하고, 실생활에 적용 가능한 절세 전략과 정책 제안을 제시한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "016",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 4,
+          "role": "analysis",
+          "beat": "설명",
+          "headline": "있어, 거주자와 자가 재정적 위험을 최소화할 실질적 방안이 요구된다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "017",
+          "sceneCategory": "analysis",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 5,
+          "role": "fix",
+          "beat": "통찰",
+          "headline": "법적 절세 포인트와 현장 적용 사례를 5단계 로드맵으로 제공한다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "031",
+          "sceneCategory": "fix",
+          "source": "rule-fallback"
+        },
+        {
+          "index": 6,
+          "role": "final",
+          "beat": "핵심 메시지",
+          "headline": "세 제도 설명이 난해해 독자가 포기할 위험이 있었다.",
+          "body": "",
+          "accent": "yellow",
+          "sceneId": "049",
+          "sceneCategory": "final",
+          "source": "rule-fallback"
+        }
+      ],
+      "deadlineGuaranteed": true,
+      "qualityTier": "continuity",
+      "upgradePending": true,
+      "sourceRevision": "zcr-e1e22b87"
+    }
+  ]
+}
