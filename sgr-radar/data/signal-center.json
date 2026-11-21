@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 22. 오전 01:59:41",
+  "updatedAt": "2026. 11. 22. 오전 07:08:09",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -418,16 +418,16 @@
           "signalFieldHint": "humanities"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10944590",
-          "title": "반도체 취업유발 10억원당 2.4명…“경제 전반 파급효과 제한적”",
+          "id": "https://biz.heraldcorp.com/article/10944339",
+          "title": "삼성·SK 반도체 인사에 드러난 새 공식…몸값 높아진 ‘미주 사령탑’",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-11-21",
-          "dateRaw": "2026-11-21T02:02:00Z",
-          "publishedAt": "2026-11-21T02:02:00Z",
+          "dateRaw": "2026-11-21T22:01:00Z",
+          "publishedAt": "2026-11-21T22:01:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10944590"
+          "url": "https://biz.heraldcorp.com/article/10944339"
         },
         {
           "id": "http://www.newstomato.com/ReadNews.aspx?no=1321211",
@@ -803,6 +803,18 @@
           "url": "https://www.businessworld.in/article/ai-to-lead-2027-investment-strategy-amid-energy-borrowing-cost-risks-report-634625"
         },
         {
+          "id": "https://natlawreview.com/article/texas-comptroller-moves-end-sales-tax-streaming-ai-and-cloud-computing",
+          "title": "Texas Comptroller Moves to End Sales Tax on Streaming, AI, and Cloud Computing",
+          "source": "natlawreview.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T22:02:00Z",
+          "publishedAt": "2026-11-21T22:02:00Z",
+          "summary": "",
+          "url": "https://natlawreview.com/article/texas-comptroller-moves-end-sales-tax-streaming-ai-and-cloud-computing"
+        },
+        {
           "id": "https://fortune.com/article/tech-investor-bill-gurley-says-college-grads-at-high-risk-of-ai-automation/",
           "title": "Tech investor Bill Gurley says workers who went through the ‘college conveyor belt’ and chased safe jobs are at high risk of AI automation | Fortune",
           "source": "fortune.com",
@@ -875,38 +887,22 @@
           "url": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=50549188",
-          "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-          "source": "news.ycombinator.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-18",
-          "dateRaw": "2026-11-18T18:02:00Z",
-          "publishedAt": "2026-11-18T18:02:00Z",
-          "summary": "",
-          "url": "https://news.ycombinator.com/item?id=50549188"
-        },
-        {
-          "id": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/amd-telco-chief-warns-against-gpu-use-in-ran-backs-cpus-report/136010677",
-          "title": "AMD telco chief warns against GPU use in RAN, backs CPUs: Report",
-          "source": "telecom.economictimes.indiatimes.com",
+          "id": "https://www.cinaradio.com/2026/11/21/etsy-faces-backlash-over-including-ai-model-training-in-new-policy-update/",
+          "title": "Etsy faces backlash over including AI model training in new policy update",
+          "source": "cinaradio.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-21",
-          "dateRaw": "2026-11-21T09:46:00Z",
-          "publishedAt": "2026-11-21T09:46:00Z",
+          "dateRaw": "2026-11-21T22:01:00Z",
+          "publishedAt": "2026-11-21T22:01:00Z",
           "summary": "",
-          "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/amd-telco-chief-warns-against-gpu-use-in-ran-backs-cpus-report/136010677"
+          "url": "https://www.cinaradio.com/2026/11/21/etsy-faces-backlash-over-including-ai-model-training-in-new-policy-update/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
-        },
-        {
-          "word": "GPU",
-          "count": 2
+          "count": 5
         },
         {
           "word": "반도체",
@@ -932,9 +928,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1350,
-    "fetchedItems": 3919,
-    "feedBytes": 1106805,
+    "poolSize": 1281,
+    "fetchedItems": 2620,
+    "feedBytes": 744470,
     "rollingWindowHours": 72
   }
 }
