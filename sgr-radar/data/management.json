@@ -2,21 +2,33 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 22. 오전 11:12:17",
+  "updatedAt": "2026. 11. 22. 오후 06:54:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 189,
-    "passed": 6,
-    "deduped": 6,
-    "eventDeduped": 6,
-    "displayed": 6,
+    "raw": 194,
+    "passed": 7,
+    "deduped": 7,
+    "eventDeduped": 7,
+    "displayed": 7,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
   },
   "items": [
+    {
+      "id": "https://allafrica.com/stories/202611190360.html",
+      "title": "Africa: Nairobi Forum Puts Africa's Voice At Centre of Global Ai Governance Debate",
+      "source": "allafrica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://allafrica.com/stories/202611190360.html"
+    },
     {
       "id": "https://fortune.com/2026/11/21/gen-z-workers-ai-skills-seramount-survey/",
       "title": "Only 18% of Gen Z workers want to build AI skills. A Wharton professor says using AI is riskier for them | Fortune",
@@ -91,6 +103,18 @@
     }
   ],
   "trendItems": [
+    {
+      "id": "https://allafrica.com/stories/202611190360.html",
+      "title": "Africa: Nairobi Forum Puts Africa's Voice At Centre of Global Ai Governance Debate",
+      "source": "allafrica.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://allafrica.com/stories/202611190360.html"
+    },
     {
       "id": "https://fortune.com/2026/11/21/gen-z-workers-ai-skills-seramount-survey/",
       "title": "Only 18% of Gen Z workers want to build AI skills. A Wharton professor says using AI is riskier for them | Fortune",
@@ -167,10 +191,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 189,
-    "fetchedItems": 2182,
-    "relevantItems": 67,
-    "feedBytes": 588839,
+    "poolSize": 194,
+    "fetchedItems": 3683,
+    "relevantItems": 59,
+    "feedBytes": 1046929,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

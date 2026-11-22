@@ -2,21 +2,45 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 22. 오전 11:12:17",
+  "updatedAt": "2026. 11. 22. 오후 06:54:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 189,
-    "passed": 10,
-    "deduped": 10,
-    "eventDeduped": 10,
-    "displayed": 10,
+    "raw": 194,
+    "passed": 9,
+    "deduped": 9,
+    "eventDeduped": 9,
+    "displayed": 9,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": true
+    "targetMet": false
   },
   "items": [
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/companies-diverted-trumps-100bn-tariff-refunds-to-bonuses-not-consumers-report/articleshow/136071126.cms",
+      "title": "Companies diverted Trump's $100bn tariff refunds to bonuses, not consumers: Report",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/companies-diverted-trumps-100bn-tariff-refunds-to-bonuses-not-consumers-report/articleshow/136071126.cms"
+    },
+    {
+      "id": "https://article.wn.com/view/2026/11/22/EU_Indonesia_sign_ambitious_trade_deal_paving_way_for_2027_r/",
+      "title": "EU_ Indonesia sign 'ambitious' trade deal_ paving way for 2027 rollout",
+      "source": "article.wn.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://article.wn.com/view/2026/11/22/EU_Indonesia_sign_ambitious_trade_deal_paving_way_for_2027_r/"
+    },
     {
       "id": "https://www.eurasiareview.com/22112026-what-is-happening-to-asean-the-indo-pacifics-geo-economic-battleground-analysis/",
       "title": "What Is Happening To ASEAN? The Indo-Pacific’s Geo-Economic Battleground - Analysis - Eurasia Review",
@@ -64,54 +88,6 @@
       "publishedAt": "2026-11-21T16:46:00Z",
       "summary": "",
       "url": "https://theshillongtimes.com/2026/11/21/india-doubles-down-on-critical-minerals-amid-global-energy-transition/"
-    },
-    {
-      "id": "http://www.la-regeneration.com/actualites/2284-eu-will-firmly-defend-against-us-airbus-tariffs",
-      "title": "EU will 'firmly defend' against US Airbus tariffs",
-      "source": "la-regeneration.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T16:46:00Z",
-      "publishedAt": "2026-11-21T16:46:00Z",
-      "summary": "",
-      "url": "http://www.la-regeneration.com/actualites/2284-eu-will-firmly-defend-against-us-airbus-tariffs"
-    },
-    {
-      "id": "https://english.news.cn/asiapacific/20261121/6e4f4e8f64344a83b535626b0775b5a5/c.html",
-      "title": "Cambodia fuel prices fall further amid easing global oil prices",
-      "source": "english.news.cn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://english.news.cn/asiapacific/20261121/6e4f4e8f64344a83b535626b0775b5a5/c.html"
-    },
-    {
-      "id": "https://www.businessworld.in/article/ey-india-unveils-ai-agents-for-finance-cybersecurity-and-autonomous-supply-chain-solutions-634588",
-      "title": "EY India Unveils AI Agents For Finance, Cybersecurity And Autonomous Supply Chain Solutions - BW Businessworld",
-      "source": "businessworld.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://www.businessworld.in/article/ey-india-unveils-ai-agents-for-finance-cybersecurity-and-autonomous-supply-chain-solutions-634588"
-    },
-    {
-      "id": "https://article.wn.com/view/2026/11/21/UK_EU_strike_new_trade_deals_as_Burnham_says_Brexit_cost_Bri/",
-      "title": "UK_ EU strike new trade deals as Burnham says Brexit cost Britain more",
-      "source": "article.wn.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://article.wn.com/view/2026/11/21/UK_EU_strike_new_trade_deals_as_Burnham_says_Brexit_cost_Bri/"
     },
     {
       "id": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties",
@@ -126,19 +102,67 @@
       "url": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties"
     },
     {
-      "id": "https://aninews.in/news/world/asia/jaishankar-says-india-bulgaria-roadmap-sets-very-clear-pathway-as-eu-fta-nears-during-talks-with-fm-velislava-petrova20261121142637/",
-      "title": "Jaishankar says India-Bulgaria roadmap sets \"very clear pathway\" as EU FTA nears during talks with FM Velislava Petrova",
-      "source": "aninews.in",
+      "id": "https://www.dailysabah.com/business/economy/eu-indonesia-sign-landmark-trade-deal-after-10-years-of-talks",
+      "title": "EU, Indonesia sign landmark trade deal after 10 years of talks",
+      "source": "dailysabah.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://www.dailysabah.com/business/economy/eu-indonesia-sign-landmark-trade-deal-after-10-years-of-talks"
+    },
+    {
+      "id": "http://www.la-regeneration.com/actualites/2284-eu-will-firmly-defend-against-us-airbus-tariffs",
+      "title": "EU will 'firmly defend' against US Airbus tariffs",
+      "source": "la-regeneration.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
+      "dateRaw": "2026-11-21T16:46:00Z",
+      "publishedAt": "2026-11-21T16:46:00Z",
       "summary": "",
-      "url": "https://aninews.in/news/world/asia/jaishankar-says-india-bulgaria-roadmap-sets-very-clear-pathway-as-eu-fta-nears-during-talks-with-fm-velislava-petrova20261121142637/"
+      "url": "http://www.la-regeneration.com/actualites/2284-eu-will-firmly-defend-against-us-airbus-tariffs"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/companies-diverted-trumps-100bn-tariff-refunds-to-bonuses-not-consumers-report/articleshow/136071126.cms",
+      "title": "Companies diverted Trump's $100bn tariff refunds to bonuses, not consumers: Report",
+      "source": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/companies-diverted-trumps-100bn-tariff-refunds-to-bonuses-not-consumers-report/articleshow/136071126.cms"
+    },
+    {
+      "id": "https://article.wn.com/view/2026/11/22/EU_Indonesia_sign_ambitious_trade_deal_paving_way_for_2027_r/",
+      "title": "EU_ Indonesia sign 'ambitious' trade deal_ paving way for 2027 rollout",
+      "source": "article.wn.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://article.wn.com/view/2026/11/22/EU_Indonesia_sign_ambitious_trade_deal_paving_way_for_2027_r/"
+    },
+    {
+      "id": "https://www.dailysabah.com/business/economy/eu-indonesia-sign-landmark-trade-deal-after-10-years-of-talks",
+      "title": "EU, Indonesia sign landmark trade deal after 10 years of talks",
+      "source": "dailysabah.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T09:46:00Z",
+      "publishedAt": "2026-11-22T09:46:00Z",
+      "summary": "",
+      "url": "https://www.dailysabah.com/business/economy/eu-indonesia-sign-landmark-trade-deal-after-10-years-of-talks"
+    },
     {
       "id": "https://www.eurasiareview.com/22112026-what-is-happening-to-asean-the-indo-pacifics-geo-economic-battleground-analysis/",
       "title": "What Is Happening To ASEAN? The Indo-Pacific’s Geo-Economic Battleground - Analysis - Eurasia Review",
@@ -198,54 +222,6 @@
       "publishedAt": "2026-11-21T16:46:00Z",
       "summary": "",
       "url": "http://www.la-regeneration.com/actualites/2284-eu-will-firmly-defend-against-us-airbus-tariffs"
-    },
-    {
-      "id": "https://english.news.cn/asiapacific/20261121/6e4f4e8f64344a83b535626b0775b5a5/c.html",
-      "title": "Cambodia fuel prices fall further amid easing global oil prices",
-      "source": "english.news.cn",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://english.news.cn/asiapacific/20261121/6e4f4e8f64344a83b535626b0775b5a5/c.html"
-    },
-    {
-      "id": "https://www.businessworld.in/article/ey-india-unveils-ai-agents-for-finance-cybersecurity-and-autonomous-supply-chain-solutions-634588",
-      "title": "EY India Unveils AI Agents For Finance, Cybersecurity And Autonomous Supply Chain Solutions - BW Businessworld",
-      "source": "businessworld.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://www.businessworld.in/article/ey-india-unveils-ai-agents-for-finance-cybersecurity-and-autonomous-supply-chain-solutions-634588"
-    },
-    {
-      "id": "https://article.wn.com/view/2026/11/21/UK_EU_strike_new_trade_deals_as_Burnham_says_Brexit_cost_Bri/",
-      "title": "UK_ EU strike new trade deals as Burnham says Brexit cost Britain more",
-      "source": "article.wn.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://article.wn.com/view/2026/11/21/UK_EU_strike_new_trade_deals_as_Burnham_says_Brexit_cost_Bri/"
-    },
-    {
-      "id": "https://aninews.in/news/world/asia/jaishankar-says-india-bulgaria-roadmap-sets-very-clear-pathway-as-eu-fta-nears-during-talks-with-fm-velislava-petrova20261121142637/",
-      "title": "Jaishankar says India-Bulgaria roadmap sets \"very clear pathway\" as EU FTA nears during talks with FM Velislava Petrova",
-      "source": "aninews.in",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T09:46:00Z",
-      "publishedAt": "2026-11-21T09:46:00Z",
-      "summary": "",
-      "url": "https://aninews.in/news/world/asia/jaishankar-says-india-bulgaria-roadmap-sets-very-clear-pathway-as-eu-fta-nears-during-talks-with-fm-velislava-petrova20261121142637/"
     },
     {
       "id": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties",
@@ -263,10 +239,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 189,
-    "fetchedItems": 2182,
-    "relevantItems": 67,
-    "feedBytes": 588839,
+    "poolSize": 194,
+    "fetchedItems": 3683,
+    "relevantItems": 59,
+    "feedBytes": 1046929,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
