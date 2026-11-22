@@ -2,21 +2,33 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오전 02:38:18",
+  "updatedAt": "2026. 11. 23. 오전 07:47:38",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 180,
-    "passed": 11,
-    "deduped": 11,
-    "eventDeduped": 11,
+    "raw": 174,
+    "passed": 12,
+    "deduped": 12,
+    "eventDeduped": 12,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
+    {
+      "id": "https://www.newspim.com/news/view/20261122000121",
+      "title": "[60초 노인정책] \"급전 필요 때 연금공단서 저금리로\"…최고 한도 1000만원 지원",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T22:31:00Z",
+      "publishedAt": "2026-11-22T22:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261122000121"
+    },
     {
       "id": "https://www.munhwa.com:443/article/11633119",
       "title": "트럼프·푸틴 APEC 회동에 다급해진 젤렌스키?…크리스마스 전 3자 종전 협상 동의",
@@ -66,18 +78,6 @@
       "url": "https://allafrica.com/stories/202610220207.html"
     },
     {
-      "id": "https://www.livemint.com/economy/gold-prices-fall-below-4-000-could-bullion-slide-further-to-3-500-as-higher-us-interest-rates-weigh-on-demand-11795359358956.html",
-      "title": "Gold prices fall below $4,000: Could bullion slide further to $3,500 as higher US interest rates weigh on demand? | Mint",
-      "source": "livemint.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T17:32:00Z",
-      "publishedAt": "2026-11-22T17:32:00Z",
-      "summary": "",
-      "url": "https://www.livemint.com/economy/gold-prices-fall-below-4-000-could-bullion-slide-further-to-3-500-as-higher-us-interest-rates-weigh-on-demand-11795359358956.html"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/companies-diverted-trumps-100bn-tariff-refunds-to-bonuses-not-consumers-report/articleshow/136071126.cms",
       "title": "Companies diverted Trump's $100bn tariff refunds to bonuses, not consumers: Report",
       "source": "timesofindia.indiatimes.com",
@@ -114,31 +114,43 @@
       "url": "https://www.tnp.no/norway/politics/3818-norwegian-liberals-call-norway-to-apply-sanctions-against-the-usa/"
     },
     {
-      "id": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties",
-      "title": "UK, EU agree trade and youth deals to rebuild ties",
-      "source": "israelherald.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T22:01:00Z",
-      "publishedAt": "2026-11-21T22:01:00Z",
-      "summary": "",
-      "url": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties"
-    },
-    {
-      "id": "https://article.wn.com/view/2026/11/22/EU_Indonesia_sign_ambitious_trade_deal_paving_way_for_2027_r/",
-      "title": "EU_ Indonesia sign 'ambitious' trade deal_ paving way for 2027 rollout",
-      "source": "article.wn.com",
+      "id": "https://www.winnipegfreepress.com/business/2026/11/22/u-s-trade-chief-sees-progress-in-canada-talks-raises-china-concerns",
+      "title": "U.S. trade chief sees progress in Canada talks, raises China concerns",
+      "source": "winnipegfreepress.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-22",
-      "dateRaw": "2026-11-22T09:46:00Z",
-      "publishedAt": "2026-11-22T09:46:00Z",
+      "dateRaw": "2026-11-22T22:31:00Z",
+      "publishedAt": "2026-11-22T22:31:00Z",
       "summary": "",
-      "url": "https://article.wn.com/view/2026/11/22/EU_Indonesia_sign_ambitious_trade_deal_paving_way_for_2027_r/"
+      "url": "https://www.winnipegfreepress.com/business/2026/11/22/u-s-trade-chief-sees-progress-in-canada-talks-raises-china-concerns"
+    },
+    {
+      "id": "https://www.livemint.com/economy/gold-prices-fall-below-4-000-could-bullion-slide-further-to-3-500-as-higher-us-interest-rates-weigh-on-demand-11795359358956.html",
+      "title": "Gold prices fall below $4,000: Could bullion slide further to $3,500 as higher US interest rates weigh on demand? | Mint",
+      "source": "livemint.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T17:32:00Z",
+      "publishedAt": "2026-11-22T17:32:00Z",
+      "summary": "",
+      "url": "https://www.livemint.com/economy/gold-prices-fall-below-4-000-could-bullion-slide-further-to-3-500-as-higher-us-interest-rates-weigh-on-demand-11795359358956.html"
     }
   ],
   "trendItems": [
+    {
+      "id": "https://www.newspim.com/news/view/20261122000121",
+      "title": "[60초 노인정책] \"급전 필요 때 연금공단서 저금리로\"…최고 한도 1000만원 지원",
+      "source": "newspim.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T22:31:00Z",
+      "publishedAt": "2026-11-22T22:31:00Z",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261122000121"
+    },
     {
       "id": "https://www.munhwa.com:443/article/11633119",
       "title": "트럼프·푸틴 APEC 회동에 다급해진 젤렌스키?…크리스마스 전 3자 종전 협상 동의",
@@ -260,25 +272,25 @@
       "url": "https://www.tnp.no/norway/politics/3818-norwegian-liberals-call-norway-to-apply-sanctions-against-the-usa/"
     },
     {
-      "id": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties",
-      "title": "UK, EU agree trade and youth deals to rebuild ties",
-      "source": "israelherald.com",
+      "id": "https://www.winnipegfreepress.com/business/2026/11/22/u-s-trade-chief-sees-progress-in-canada-talks-raises-china-concerns",
+      "title": "U.S. trade chief sees progress in Canada talks, raises China concerns",
+      "source": "winnipegfreepress.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-21",
-      "dateRaw": "2026-11-21T22:01:00Z",
-      "publishedAt": "2026-11-21T22:01:00Z",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T22:31:00Z",
+      "publishedAt": "2026-11-22T22:31:00Z",
       "summary": "",
-      "url": "http://www.israelherald.com/news/279445732/uk-eu-agree-trade-and-youth-deals-to-rebuild-ties"
+      "url": "https://www.winnipegfreepress.com/business/2026/11/22/u-s-trade-chief-sees-progress-in-canada-talks-raises-china-concerns"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 180,
-    "fetchedItems": 3815,
-    "relevantItems": 55,
-    "feedBytes": 1096726,
+    "poolSize": 174,
+    "fetchedItems": 2754,
+    "relevantItems": 46,
+    "feedBytes": 745696,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

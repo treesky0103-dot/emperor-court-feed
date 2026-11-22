@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오전 02:38:19",
+  "updatedAt": "2026. 11. 23. 오전 07:47:39",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -62,16 +62,40 @@
           "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/20/KGBOSDMUDNCRBEKEDZHPLWHLZY/"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232287",
+          "id": "https://www.newspim.com/news/view/20261004000058",
+          "title": "[60초 건보정책] 무의미한 연명의료 중단…\"1855-0075로 도움\"",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261004000058"
+        },
+        {
+          "id": "http://inews24.com/view/2028992",
+          "title": "강남서 꺾인 집값, 한강 건넜다…용산 다음은 어디",
+          "source": "inews24.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "http://inews24.com/view/2028992"
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232313",
           "title": "\"전 못 합니다\" 6일 만에…이 대통령, 교육부 장관 사의 '즉시 수리'",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-22",
-          "dateRaw": "2026-11-22T10:11:00Z",
-          "publishedAt": "2026-11-22T10:11:00Z",
+          "dateRaw": "2026-11-22T21:11:00Z",
+          "publishedAt": "2026-11-22T21:11:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232287",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232313",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -100,44 +124,16 @@
           "url": "https://biz.heraldcorp.com/article/10944593"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12215427",
-          "title": "“공정성 집착과 AI발전 충돌”...이민진, 수능 사태에 일침",
+          "id": "https://www.mk.co.kr/news/economy/12215783",
+          "title": "“어머니도 누나도 저도 혼자삽니다”…집주인 5명 중 1명은 1인가구",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T10:12:26Z",
-          "publishedAt": "2026-11-22T10:12:26Z",
+          "date": "2026-11-23",
+          "dateRaw": "2026-11-23T07:45:03Z",
+          "publishedAt": "2026-11-23T07:45:03Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12215427",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://zdnet.co.kr/view/?no=20261122131948",
-          "title": "최태원 \"한일 기업·대학 함께 AI 인재 육성을\"",
-          "source": "zdnet.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T04:31:20Z",
-          "publishedAt": "2026-11-22T04:31:20Z",
-          "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261122131948",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261122000070",
-          "title": "中企 95.6% “청년 신입 1년 내 퇴사 겪어”…근속 인센티브 시급",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T03:00:00Z",
-          "publishedAt": "2026-11-22T03:00:00Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261122000070",
+          "url": "https://www.mk.co.kr/news/economy/12215783",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         }
@@ -145,15 +141,19 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 4
-        },
-        {
-          "word": "청년",
-          "count": 4
+          "count": 3
         },
         {
           "word": "주거",
-          "count": 2
+          "count": 3
+        },
+        {
+          "word": "청년",
+          "count": 3
+        },
+        {
+          "word": "1인가구",
+          "count": 1
         },
         {
           "word": "돌봄",
@@ -161,10 +161,6 @@
         },
         {
           "word": "복지",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         }
       ],
@@ -241,6 +237,42 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02584646645647360&mediaCodeNo=257"
         },
         {
+          "id": "https://www.newspim.com/news/view/20261122000121",
+          "title": "[60초 노인정책] \"급전 필요 때 연금공단서 저금리로\"…최고 한도 1000만원 지원",
+          "source": "newspim.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "https://www.newspim.com/news/view/20261122000121"
+        },
+        {
+          "id": "https://biz.heraldcorp.com/article/10945347",
+          "title": "안동시, 2027년 본예산 1조7900억원 편성…민생·미래 성장동력 집중 투자",
+          "source": "biz.heraldcorp.com",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "https://biz.heraldcorp.com/article/10945347"
+        },
+        {
+          "id": "https://www.huffingtonpost.kr:443/article/262232",
+          "title": "LG이노텍 문혁수 유임으로 '반도체 기판 사업'에 드라이브 걸린다 : '장기공급계약'에 투자 형태 결정될 듯",
+          "source": "huffingtonpost.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "https://www.huffingtonpost.kr:443/article/262232"
+        },
+        {
           "id": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513754",
           "title": "신한투자증권 젠투펀드 청산 재추진…저지섬 법원 판단 주목",
           "source": "ilyo.co.kr",
@@ -265,63 +297,23 @@
           "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232256",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1321229",
-          "title": "[IB토마토]종근당, 순차입금 3배로…환수금·연구단지 투자 줄줄이",
-          "source": "newstomato.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T04:02:00Z",
-          "publishedAt": "2026-11-20T04:02:00Z",
-          "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1321229"
-        },
-        {
-          "id": "https://www.munhwa.com:443/article/11633142",
-          "title": "‘건당 배송비 6700원 추가로 내야’…배달 직고용 美법안에 아마존 반발",
-          "source": "munhwa.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T17:32:00Z",
-          "publishedAt": "2026-11-22T17:32:00Z",
-          "summary": "",
-          "url": "https://www.munhwa.com:443/article/11633142"
-        },
-        {
-          "id": "https://www.koreatimes.com/article/11632398",
-          "title": "“엔비디아 칩 中밀수망에 앨리스 황·캄보디아 범죄조직 얽혀”",
-          "source": "koreatimes.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T17:32:00Z",
-          "publishedAt": "2026-11-22T17:32:00Z",
-          "summary": "",
-          "url": "https://www.koreatimes.com/article/11632398"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 7
+        },
+        {
+          "word": "금리",
+          "count": 2
         },
         {
           "word": "기업",
           "count": 2
         },
         {
-          "word": "고용",
-          "count": 1
-        },
-        {
           "word": "공급망",
-          "count": 1
-        },
-        {
-          "word": "금리",
           "count": 1
         }
       ],
@@ -410,60 +402,58 @@
           "url": "https://www.ddaily.co.kr:443/page/view/2026112006350247153"
         },
         {
-          "id": "https://www.koreatimes.com/article/11632398",
-          "title": "“엔비디아 칩 中밀수망에 앨리스 황·캄보디아 범죄조직 얽혀”",
-          "source": "koreatimes.com",
+          "id": "https://www.newspim.com/news/view/20261123000006",
+          "title": "베선트, 엔비디아 대중 반도체 판매 조사 촉구…젠슨 황 복귀 가능성 배제 안 해",
+          "source": "newspim.com",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-11-22",
-          "dateRaw": "2026-11-22T17:32:00Z",
-          "publishedAt": "2026-11-22T17:32:00Z",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
           "summary": "",
-          "url": "https://www.koreatimes.com/article/11632398"
+          "url": "https://www.newspim.com/news/view/20261123000006"
         },
         {
-          "id": "https://womannews.net/detail.php?number=459877&thread=22r04r03%20style=",
-          "title": "인천시, 반도체 글로벌 워크숍 개최…첨단 패키징 기술 경쟁력 강화",
-          "source": "womannews.net",
+          "id": "https://www.huffingtonpost.kr:443/article/262232",
+          "title": "LG이노텍 문혁수 유임으로 '반도체 기판 사업'에 드라이브 걸린다 : '장기공급계약'에 투자 형태 결정될 듯",
+          "source": "huffingtonpost.kr",
           "language": "Korean",
           "sourceCountry": "",
           "date": "2026-11-22",
-          "dateRaw": "2026-11-22T02:01:00Z",
-          "publishedAt": "2026-11-22T02:01:00Z",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
           "summary": "",
-          "url": "https://womannews.net/detail.php?number=459877&thread=22r04r03%20style="
+          "url": "https://www.huffingtonpost.kr:443/article/262232"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10944339",
-          "title": "삼성·SK 반도체 인사에 드러난 새 공식…몸값 높아진 ‘미주 사령탑’",
-          "source": "biz.heraldcorp.com",
+          "id": "https://www.pressian.com/pages/articles/2026111717081212928",
+          "title": "\"잔치 뒤가 더 무섭다\"…반도체 산업의 '핏줄' 화물 노동자의 노동과 불안",
+          "source": "pressian.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T22:01:00Z",
-          "publishedAt": "2026-11-21T22:01:00Z",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10944339"
+          "url": "https://www.pressian.com/pages/articles/2026111717081212928"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232147",
-          "title": "\"반도체 호황, 파급 효과 제한적…10억 원당 취업 유발 2.4명\"",
-          "source": "mbn.co.kr",
+          "id": "http://www.newstomato.com/ReadNews.aspx?no=1321016",
+          "title": "[IB토마토]효성화학, 빚 줄였는데 다시 반도체 총대…적자 본업이 버틸까",
+          "source": "newstomato.com",
           "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T05:37:00Z",
-          "publishedAt": "2026-11-21T05:37:00Z",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232147",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1321016"
         }
       ],
       "keywords": [
         {
           "word": "반도체",
-          "count": 5
+          "count": 6
         },
         {
           "word": "AI",
@@ -817,6 +807,30 @@
           "url": "https://www.businessworld.in/article/ai-to-lead-2027-investment-strategy-amid-energy-borrowing-cost-risks-report-634625"
         },
         {
+          "id": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html",
+          "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+          "source": "finance.yahoo.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html"
+        },
+        {
+          "id": "http://www.massachusettssun.com/news/279449169/india-netherlands-eye-tangible-cooperation-in-semiconductors-energy-security-dutch-fm",
+          "title": "India, Netherlands eye tangible cooperation in semiconductors, energy, security: Dutch FM",
+          "source": "massachusettssun.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T22:31:00Z",
+          "publishedAt": "2026-11-22T22:31:00Z",
+          "summary": "",
+          "url": "http://www.massachusettssun.com/news/279449169/india-netherlands-eye-tangible-cooperation-in-semiconductors-energy-security-dutch-fm"
+        },
+        {
           "id": "https://www.mysuncoast.com/2026/11/22/senate-approves-bill-speed-up-permitting-reviews-force-data-centers-pay-energy-costs/",
           "title": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs",
           "source": "mysuncoast.com",
@@ -875,36 +889,16 @@
           "publishedAt": "2026-11-21T09:46:00Z",
           "summary": "",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/australian-energy-officials-warned-of-data-centre-risk-age"
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms",
-          "title": "Bengaluru Tech Summit 2026: Nine Swedish firms showcase AI, advanced manufacturing at Bengaluru Tech Summit - The Economic Times",
-          "source": "economictimes.indiatimes.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T13:02:00Z",
-          "publishedAt": "2026-11-20T13:02:00Z",
-          "summary": "",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms"
-        },
-        {
-          "id": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/",
-          "title": "美 국방부 ‘중국군 기업’ 경고에도… 美 상무부, 對中 칩 수출 87만9000개 승인",
-          "source": "biz.chosun.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T23:17:00Z",
-          "publishedAt": "2026-11-19T23:17:00Z",
-          "summary": "",
-          "url": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 4
+        },
+        {
+          "word": "GPU",
+          "count": 2
         },
         {
           "word": "반도체",
@@ -917,10 +911,6 @@
         {
           "word": "데이터센터",
           "count": 1
-        },
-        {
-          "word": "제조",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -930,9 +920,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 861,
-    "fetchedItems": 3815,
-    "feedBytes": 1096726,
+    "poolSize": 878,
+    "fetchedItems": 2754,
+    "feedBytes": 745696,
     "rollingWindowHours": 72
   }
 }

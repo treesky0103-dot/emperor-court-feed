@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오전 02:38:18",
+  "updatedAt": "2026. 11. 23. 오전 07:47:38",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 180,
-    "passed": 3,
-    "deduped": 3,
-    "eventDeduped": 3,
-    "displayed": 3,
+    "raw": 174,
+    "passed": 4,
+    "deduped": 4,
+    "eventDeduped": 4,
+    "displayed": 4,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -28,6 +28,18 @@
       "publishedAt": "2026-11-22T09:46:00Z",
       "summary": "",
       "url": "https://allafrica.com/stories/202611190360.html"
+    },
+    {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1321232",
+      "title": "금감원 경고에도…하나은행 퇴직연금 '과당 경쟁'",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T22:31:00Z",
+      "publishedAt": "2026-11-22T22:31:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321232"
     },
     {
       "id": "https://www.ketr.org/2026-11-21/google-employees-protest-ai-in-schools-policy",
@@ -68,6 +80,18 @@
       "url": "https://allafrica.com/stories/202611190360.html"
     },
     {
+      "id": "http://www.newstomato.com/ReadNews.aspx?no=1321232",
+      "title": "금감원 경고에도…하나은행 퇴직연금 '과당 경쟁'",
+      "source": "newstomato.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-22",
+      "dateRaw": "2026-11-22T22:31:00Z",
+      "publishedAt": "2026-11-22T22:31:00Z",
+      "summary": "",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321232"
+    },
+    {
       "id": "https://www.ketr.org/2026-11-21/google-employees-protest-ai-in-schools-policy",
       "title": "Google employees protest AI in schools policy",
       "source": "ketr.org",
@@ -95,10 +119,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 180,
-    "fetchedItems": 3815,
-    "relevantItems": 55,
-    "feedBytes": 1096726,
+    "poolSize": 174,
+    "fetchedItems": 2754,
+    "relevantItems": 46,
+    "feedBytes": 745696,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
