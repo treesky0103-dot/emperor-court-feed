@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 22. 오전 07:08:09",
+  "updatedAt": "2026. 11. 22. 오전 11:12:20",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -86,16 +86,28 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645647360&mediaCodeNo=257"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232169",
-          "title": "경기도교육청, 교원 158명 개인정보 유출…\"관계인 5명에게만 유출\"",
+          "id": "https://womannews.net/detail.php?number=459873&thread=22r12r01%20style=",
+          "title": "서초청년센터, 청년지원 거점으로 자리매김",
+          "source": "womannews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T02:01:00Z",
+          "publishedAt": "2026-11-22T02:01:00Z",
+          "summary": "",
+          "url": "https://womannews.net/detail.php?number=459873&thread=22r12r01%20style="
+        },
+        {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232221",
+          "title": "방화 집행유예 기간에…초등학교 음악실에 불 지른 20대 결국",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T08:13:00Z",
-          "publishedAt": "2026-11-21T08:13:00Z",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T01:57:00Z",
+          "publishedAt": "2026-11-22T01:57:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232169",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232221",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -110,18 +122,6 @@
           "publishedAt": "2026-11-21T02:02:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10944593"
-        },
-        {
-          "id": "https://womannews.net/detail.php?number=459807&thread=22r03r03",
-          "title": "의정부시, 어린이 식습관 개선 우수 프로그램 6건 선정…2027년 교육자료로 보급",
-          "source": "womannews.net",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T04:02:00Z",
-          "publishedAt": "2026-11-20T04:02:00Z",
-          "summary": "",
-          "url": "https://womannews.net/detail.php?number=459807&thread=22r03r03"
         },
         {
           "id": "http://www.ihalla.com/article.php?aid=1795093200793022042",
@@ -139,18 +139,18 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
         },
         {
           "word": "주거",
           "count": 4
         },
         {
-          "word": "복지",
-          "count": 2
+          "word": "청년",
+          "count": 4
         },
         {
-          "word": "청년",
+          "word": "복지",
           "count": 2
         },
         {
@@ -205,16 +205,16 @@
           "url": "https://biz.chosun.com/topics/law_firm/2026/11/20/BD3S3GY7IVH4LBFUYMCZ67OO4E/"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261121083956",
-          "title": "中 장비규제가 투자유치 수단으로...美 FCC 안보규제 ‘거래’ 논란",
+          "id": "https://zdnet.co.kr/view/?no=20261122085359",
+          "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
           "source": "zdnet.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T23:39:56Z",
-          "publishedAt": "2026-11-20T23:39:56Z",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T00:00:01Z",
+          "publishedAt": "2026-11-22T00:00:01Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261121083956",
+          "url": "https://zdnet.co.kr/view/?no=20261122085359",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -296,7 +296,7 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 9
+          "count": 8
         },
         {
           "word": "공급망",
@@ -326,18 +326,6 @@
           "url": "https://www.etnews.com/20261119000356",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257",
-          "title": "엔비디아 5거래일째 하락…AI 투자 경계에 반도체주 희비[뉴스새벽배송]",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T00:16:00Z",
-          "publishedAt": "2026-11-19T00:16:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645647360&mediaCodeNo=257"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261121081600",
@@ -380,6 +368,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://www.edaily.co.kr/News/Read?newsId=02591206645647360&mediaCodeNo=257",
+          "title": "박범찬 와이바이오 대표 “SITC 성과에 빅파마 관심↑…내년 AR170 기술수출 목표”",
+          "source": "edaily.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-21",
+          "dateRaw": "2026-11-21T02:02:00Z",
+          "publishedAt": "2026-11-21T02:02:00Z",
+          "summary": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02591206645647360&mediaCodeNo=257"
+        },
+        {
           "id": "https://www.ddaily.co.kr:443/page/view/2026112006350247153",
           "title": "뉴욕증시 일제히 하락…앤트로픽 상장 흥행에도 AI 반도체·데이터센터주 약세",
           "source": "ddaily.co.kr",
@@ -418,6 +418,18 @@
           "signalFieldHint": "humanities"
         },
         {
+          "id": "https://womannews.net/detail.php?number=459877&thread=22r04r03%20style=",
+          "title": "인천시, 반도체 글로벌 워크숍 개최…첨단 패키징 기술 경쟁력 강화",
+          "source": "womannews.net",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T02:01:00Z",
+          "publishedAt": "2026-11-22T02:01:00Z",
+          "summary": "",
+          "url": "https://womannews.net/detail.php?number=459877&thread=22r04r03%20style="
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10944339",
           "title": "삼성·SK 반도체 인사에 드러난 새 공식…몸값 높아진 ‘미주 사령탑’",
           "source": "biz.heraldcorp.com",
@@ -428,28 +440,16 @@
           "publishedAt": "2026-11-21T22:01:00Z",
           "summary": "",
           "url": "https://biz.heraldcorp.com/article/10944339"
-        },
-        {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1321211",
-          "title": "삼성전자, 반도체 사장 3명 승진…전영현·노태문 체제 유지",
-          "source": "newstomato.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T04:02:00Z",
-          "publishedAt": "2026-11-20T04:02:00Z",
-          "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1321211"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 7
+          "count": 6
         },
         {
           "word": "반도체",
-          "count": 7
+          "count": 6
         },
         {
           "word": "데이터센터",
@@ -457,6 +457,10 @@
         },
         {
           "word": "로봇",
+          "count": 1
+        },
+        {
+          "word": "바이오",
           "count": 1
         },
         {
@@ -537,18 +541,6 @@
           "url": "https://malawi24.com/marketplace/listing/global-protection-coordinator/"
         },
         {
-          "id": "https://cloverdalereporter.com/2026/11/19/surrey-police-to-help-youth-understand-risks-of-gang-involvement/",
-          "title": "Surrey Police to help youth understand risks of gang involvement - Cloverdale Reporter",
-          "source": "cloverdalereporter.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T23:17:00Z",
-          "publishedAt": "2026-11-19T23:17:00Z",
-          "summary": "",
-          "url": "https://cloverdalereporter.com/2026/11/19/surrey-police-to-help-youth-understand-risks-of-gang-involvement/"
-        },
-        {
           "id": "https://www.sharonherald.com/cnhi_network/healthcare-access-wage-disparity-among-concerns-raised-by-pa-women-in-new-report/article_037364f0-b1c4-5e50-abd4-87db987d8723.html",
           "title": "Healthcare access, wage disparity among concerns raised by Pa. women in new report",
           "source": "sharonherald.com",
@@ -573,18 +565,6 @@
           "url": "https://www.wsbtv.com/news/local/atlanta/university-system-georgia-reports-record-enrollment-4th-year-systemwide-growth/MURKJR6WIFBMRPZFQZSQ5ITZMU/"
         },
         {
-          "id": "https://www.wdtv.com/2026/11/19/increased-law-enforcement-university-high-school-following-report-potential-threats/",
-          "title": "Increased law enforcement at University High School following report of ‘potential threats’",
-          "source": "wdtv.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T17:02:00Z",
-          "publishedAt": "2026-11-19T17:02:00Z",
-          "summary": "",
-          "url": "https://www.wdtv.com/2026/11/19/increased-law-enforcement-university-high-school-following-report-potential-threats/"
-        },
-        {
           "id": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/",
           "title": "SEL and ECG Training School Host International Technical Exchange Seminar for Engineers - Tanzania News Reports",
           "source": "tanzanianewsreports.com",
@@ -595,12 +575,36 @@
           "publishedAt": "2026-11-19T07:47:00Z",
           "summary": "",
           "url": "https://www.tanzanianewsreports.com/sel-and-ecg-training-school-host-international-technical-exchange-seminar-for-engineers/"
+        },
+        {
+          "id": "https://www.odnako.org/fitto-at-unical-right-to-stay-for-young-people-the-eu-strategy-against-the-depopulation-of-internal-areas-in-january/",
+          "title": "Fitto at Unical: «Right to stay for young people, the EU strategy against the depopulation of internal areas in January»",
+          "source": "odnako.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-19",
+          "dateRaw": "2026-11-19T07:46:00Z",
+          "publishedAt": "2026-11-19T07:46:00Z",
+          "summary": "",
+          "url": "https://www.odnako.org/fitto-at-unical-right-to-stay-for-young-people-the-eu-strategy-against-the-depopulation-of-internal-areas-in-january/"
+        },
+        {
+          "id": "https://www.amren.com/news/2026/11/why-demographic-nationalism-in-the-southwest-will-demand-reunion-with-mexico/",
+          "title": "Why Demographic Nationalism in the Southwest Will Demand Reunion With Mexico - American Renaissance",
+          "source": "amren.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T02:01:00Z",
+          "publishedAt": "2026-11-22T02:01:00Z",
+          "summary": "",
+          "url": "https://www.amren.com/news/2026/11/why-demographic-nationalism-in-the-southwest-will-demand-reunion-with-mexico/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 5
         },
         {
           "word": "이민",
@@ -618,18 +622,6 @@
     "economy": {
       "items": [
         {
-          "id": "https://fortune.com/2026/11/19/indonesia-china-investment-smart-cities-danantara/",
-          "title": "Indonesia signs partnerships for $71.8 billion in Chinese investment, more than an entire year's worth of FDI | Fortune",
-          "source": "fortune.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T07:47:00Z",
-          "publishedAt": "2026-11-19T07:47:00Z",
-          "summary": "",
-          "url": "https://fortune.com/2026/11/19/indonesia-china-investment-smart-cities-danantara/"
-        },
-        {
           "id": "https://www.cityam.com/bailey-hints-at-higher-interest-rates-amid-firming-in-the-labour-market/",
           "title": "Bailey hints at higher interest rates amid ‘firming in the labour market’",
           "source": "cityam.com",
@@ -640,6 +632,18 @@
           "publishedAt": "2026-11-19T07:47:00Z",
           "summary": "",
           "url": "https://www.cityam.com/bailey-hints-at-higher-interest-rates-amid-firming-in-the-labour-market/"
+        },
+        {
+          "id": "https://www.eurasiareview.com/22112026-beyond-bilateralism-rethinking-trade-integration-and-economic-resilience-in-the-gulf-cooperation-council-analysis/",
+          "title": "Beyond Bilateralism: Rethinking Trade Integration And Economic Resilience In The Gulf Cooperation Council - Analysis - Eurasia Review",
+          "source": "eurasiareview.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T02:01:00Z",
+          "publishedAt": "2026-11-22T02:01:00Z",
+          "summary": "",
+          "url": "https://www.eurasiareview.com/22112026-beyond-bilateralism-rethinking-trade-integration-and-economic-resilience-in-the-gulf-cooperation-council-analysis/"
         },
         {
           "id": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-to-lead-delegation-to-japan-for-investment-talks-and-urban-planning-study/article71727642.ece",
@@ -678,6 +682,18 @@
           "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70189907-blackrock-income-and-growth-investment-trust-plc-net-asset-value-s-008.htm"
         },
         {
+          "id": "https://fortune.com/2026/11/20/intuit-sell-mailchimp-3-68-billion-ai-reshapes-growth-strategy-cfo/",
+          "title": "Intuit moves to sell Mailchimp for $3.68 billion as AI reshapes its growth strategy | Fortune",
+          "source": "fortune.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T13:01:00Z",
+          "publishedAt": "2026-11-20T13:01:00Z",
+          "summary": "",
+          "url": "https://fortune.com/2026/11/20/intuit-sell-mailchimp-3-68-billion-ai-reshapes-growth-strategy-cfo/"
+        },
+        {
           "id": "http://www.japanherald.com/news/279443808/india-japan-to-boost-supply-chain-resilience-undersea-connectivity-amid-economic-coercion-concerns-back-each-other-unsc-bids",
           "title": "India, Japan to boost supply chain resilience, undersea connectivity amid economic coercion concerns; back each other's UNSC bids",
           "source": "japanherald.com",
@@ -688,18 +704,6 @@
           "publishedAt": "2026-11-19T23:17:00Z",
           "summary": "",
           "url": "http://www.japanherald.com/news/279443808/india-japan-to-boost-supply-chain-resilience-undersea-connectivity-amid-economic-coercion-concerns-back-each-other-unsc-bids"
-        },
-        {
-          "id": "https://www.knoe.com/2026/11/19/grow-nela-shares-growth-investment-updates/",
-          "title": "Grow NELA shares growth, investment updates",
-          "source": "knoe.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T17:02:00Z",
-          "publishedAt": "2026-11-19T17:02:00Z",
-          "summary": "",
-          "url": "https://www.knoe.com/2026/11/19/grow-nela-shares-growth-investment-updates/"
         },
         {
           "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-s-son-calls-missing-anthropic-investment-one-of-his-mistakes",
@@ -714,18 +718,6 @@
           "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-s-son-calls-missing-anthropic-investment-one-of-his-mistakes"
         },
         {
-          "id": "https://www.edaily.co.kr/News/Read?newsId=01853206645647360&mediaCodeNo=257",
-          "title": "美 연준 긴축 우려에 강달러…환율 상승 폭은 제한될 듯[외환브리핑]",
-          "source": "edaily.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T00:17:00Z",
-          "publishedAt": "2026-11-19T00:17:00Z",
-          "summary": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01853206645647360&mediaCodeNo=257"
-        },
-        {
           "id": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-post-worst-week-over-year-ai-trade-unravels",
           "title": "European shares post worst week in over a year as AI trade unravels",
           "source": "businesstimes.com.sg",
@@ -736,20 +728,32 @@
           "publishedAt": "2026-11-21T02:02:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-post-worst-week-over-year-ai-trade-unravels"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms",
+          "title": "Bengaluru Tech Summit 2026: Nine Swedish firms showcase AI, advanced manufacturing at Bengaluru Tech Summit - The Economic Times",
+          "source": "economictimes.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-20",
+          "dateRaw": "2026-11-20T13:02:00Z",
+          "publishedAt": "2026-11-20T13:02:00Z",
+          "summary": "",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nine-swedish-firms-showcase-ai-advanced-manufacturing-at-bengaluru-tech-summit/articleshow/136026919.cms"
         }
       ],
       "keywords": [
         {
           "word": "투자",
-          "count": 7
+          "count": 5
         },
         {
           "word": "성장",
           "count": 3
         },
         {
-          "word": "FDI",
-          "count": 1
+          "word": "무역",
+          "count": 2
         },
         {
           "word": "고용",
@@ -762,14 +766,6 @@
         {
           "word": "금리",
           "count": 1
-        },
-        {
-          "word": "무역",
-          "count": 1
-        },
-        {
-          "word": "환율",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -778,6 +774,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.eurasiareview.com/22112026-the-cloud-is-back-who-lets-the-ai-act-again-analysis/",
+          "title": "The Cloud Is Back, Who Lets The AI Act Again? - Analysis - Eurasia Review",
+          "source": "eurasiareview.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T02:01:00Z",
+          "publishedAt": "2026-11-22T02:01:00Z",
+          "summary": "",
+          "url": "https://www.eurasiareview.com/22112026-the-cloud-is-back-who-lets-the-ai-act-again-analysis/"
+        },
         {
           "id": "https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
           "title": "Lam Research intensifies focus on Indian semiconductor mart as local fab discussions gather momentum",
@@ -863,18 +871,6 @@
           "url": "https://www.twincities.com/2026/11/20/senate-bill-energy-permitting-reviews/"
         },
         {
-          "id": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-          "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-          "source": "cnbc.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-19",
-          "dateRaw": "2026-11-19T23:17:00Z",
-          "publishedAt": "2026-11-19T23:17:00Z",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
-        },
-        {
           "id": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/",
           "title": "美 국방부 ‘중국군 기업’ 경고에도… 美 상무부, 對中 칩 수출 87만9000개 승인",
           "source": "biz.chosun.com",
@@ -887,25 +883,25 @@
           "url": "https://biz.chosun.com/international/international_general/2026/11/20/YQW4B4KY7RCV7PCN3W4V3MMMME/"
         },
         {
-          "id": "https://www.cinaradio.com/2026/11/21/etsy-faces-backlash-over-including-ai-model-training-in-new-policy-update/",
-          "title": "Etsy faces backlash over including AI model training in new policy update",
-          "source": "cinaradio.com",
+          "id": "https://www.investmentwatchblog.com/ai-stocks-suffer-their-worst-beating-in-years-nasdaq-100-approaches-bear-market/",
+          "title": "AI stocks suffer their worst beating in years, Nasdaq 100 approaches bear market - Investment Watch Blog",
+          "source": "investmentwatchblog.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T22:01:00Z",
-          "publishedAt": "2026-11-21T22:01:00Z",
+          "date": "2026-11-22",
+          "dateRaw": "2026-11-22T02:01:00Z",
+          "publishedAt": "2026-11-22T02:01:00Z",
           "summary": "",
-          "url": "https://www.cinaradio.com/2026/11/21/etsy-faces-backlash-over-including-ai-model-training-in-new-policy-update/"
+          "url": "https://www.investmentwatchblog.com/ai-stocks-suffer-their-worst-beating-in-years-nasdaq-100-approaches-bear-market/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 5
+          "count": 6
         },
         {
-          "word": "반도체",
+          "word": "클라우드",
           "count": 2
         },
         {
@@ -913,11 +909,11 @@
           "count": 1
         },
         {
-          "word": "제조",
+          "word": "반도체",
           "count": 1
         },
         {
-          "word": "클라우드",
+          "word": "제조",
           "count": 1
         }
       ],
@@ -928,9 +924,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1281,
-    "fetchedItems": 2620,
-    "feedBytes": 744470,
+    "poolSize": 1107,
+    "fetchedItems": 2182,
+    "feedBytes": 588839,
     "rollingWindowHours": 72
   }
 }
