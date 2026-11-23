@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오후 12:15:42",
+  "updatedAt": "2026. 11. 23. 오후 10:11:49",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 168,
+    "raw": 228,
     "passed": 3,
     "deduped": 3,
     "eventDeduped": 3,
@@ -18,16 +18,16 @@
   },
   "items": [
     {
-      "id": "https://allafrica.com/stories/202611190360.html",
-      "title": "Africa: Nairobi Forum Puts Africa's Voice At Centre of Global Ai Governance Debate",
-      "source": "allafrica.com",
-      "language": "English",
+      "id": "https://news.mtn.co.kr/article/2026112315560421263",
+      "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
+      "source": "news.mtn.co.kr",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T09:46:00Z",
-      "publishedAt": "2026-11-22T09:46:00Z",
+      "date": "2026-11-23",
+      "dateRaw": "2026-11-23T12:47:00Z",
+      "publishedAt": "2026-11-23T12:47:00Z",
       "summary": "",
-      "url": "https://allafrica.com/stories/202611190360.html"
+      "url": "https://news.mtn.co.kr/article/2026112315560421263"
     },
     {
       "id": "http://www.newstomato.com/ReadNews.aspx?no=1321232",
@@ -56,16 +56,16 @@
   ],
   "trendItems": [
     {
-      "id": "https://allafrica.com/stories/202611190360.html",
-      "title": "Africa: Nairobi Forum Puts Africa's Voice At Centre of Global Ai Governance Debate",
-      "source": "allafrica.com",
-      "language": "English",
+      "id": "https://news.mtn.co.kr/article/2026112315560421263",
+      "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
+      "source": "news.mtn.co.kr",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T09:46:00Z",
-      "publishedAt": "2026-11-22T09:46:00Z",
+      "date": "2026-11-23",
+      "dateRaw": "2026-11-23T12:47:00Z",
+      "publishedAt": "2026-11-23T12:47:00Z",
       "summary": "",
-      "url": "https://allafrica.com/stories/202611190360.html"
+      "url": "https://news.mtn.co.kr/article/2026112315560421263"
     },
     {
       "id": "http://www.newstomato.com/ReadNews.aspx?no=1321232",
@@ -95,10 +95,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 168,
-    "fetchedItems": 2424,
-    "relevantItems": 45,
-    "feedBytes": 628527,
+    "poolSize": 228,
+    "fetchedItems": 6531,
+    "relevantItems": 108,
+    "feedBytes": 1849836,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
