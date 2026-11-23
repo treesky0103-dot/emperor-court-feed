@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오전 07:47:38",
+  "updatedAt": "2026. 11. 23. 오후 12:15:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 174,
-    "passed": 4,
-    "deduped": 4,
-    "eventDeduped": 4,
-    "displayed": 4,
+    "raw": 168,
+    "passed": 3,
+    "deduped": 3,
+    "eventDeduped": 3,
+    "displayed": 3,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -42,28 +42,16 @@
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1321232"
     },
     {
-      "id": "https://www.ketr.org/2026-11-21/google-employees-protest-ai-in-schools-policy",
-      "title": "Google employees protest AI in schools policy",
-      "source": "ketr.org",
+      "id": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html",
+      "title": "Six more public departments to be restructured next year",
+      "source": "macaudailytimes.com.mo",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T02:01:00Z",
-      "publishedAt": "2026-11-22T02:01:00Z",
+      "date": "2026-11-23",
+      "dateRaw": "2026-11-23T03:01:00Z",
+      "publishedAt": "2026-11-23T03:01:00Z",
       "summary": "",
-      "url": "https://www.ketr.org/2026-11-21/google-employees-protest-ai-in-schools-policy"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/india/ai-cant-take-away-jobs-of-skilled-workers-india-on-course-to-become-worlds-skill-capital-pm-modi/articleshow/136065775.cms",
-      "title": "AI cannot take jobs of skilled workers: PM Modi",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T02:01:00Z",
-      "publishedAt": "2026-11-22T02:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/india/ai-cant-take-away-jobs-of-skilled-workers-india-on-course-to-become-worlds-skill-capital-pm-modi/articleshow/136065775.cms"
+      "url": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html"
     }
   ],
   "trendItems": [
@@ -92,37 +80,25 @@
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1321232"
     },
     {
-      "id": "https://www.ketr.org/2026-11-21/google-employees-protest-ai-in-schools-policy",
-      "title": "Google employees protest AI in schools policy",
-      "source": "ketr.org",
+      "id": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html",
+      "title": "Six more public departments to be restructured next year",
+      "source": "macaudailytimes.com.mo",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T02:01:00Z",
-      "publishedAt": "2026-11-22T02:01:00Z",
+      "date": "2026-11-23",
+      "dateRaw": "2026-11-23T03:01:00Z",
+      "publishedAt": "2026-11-23T03:01:00Z",
       "summary": "",
-      "url": "https://www.ketr.org/2026-11-21/google-employees-protest-ai-in-schools-policy"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/india/ai-cant-take-away-jobs-of-skilled-workers-india-on-course-to-become-worlds-skill-capital-pm-modi/articleshow/136065775.cms",
-      "title": "AI cannot take jobs of skilled workers: PM Modi",
-      "source": "economictimes.indiatimes.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T02:01:00Z",
-      "publishedAt": "2026-11-22T02:01:00Z",
-      "summary": "",
-      "url": "https://economictimes.indiatimes.com/news/india/ai-cant-take-away-jobs-of-skilled-workers-india-on-course-to-become-worlds-skill-capital-pm-modi/articleshow/136065775.cms"
+      "url": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 174,
-    "fetchedItems": 2754,
-    "relevantItems": 46,
-    "feedBytes": 745696,
+    "poolSize": 168,
+    "fetchedItems": 2424,
+    "relevantItems": 45,
+    "feedBytes": 628527,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
