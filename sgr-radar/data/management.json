@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 24. 오후 07:49:42",
+  "updatedAt": "2026. 11. 25. 오전 05:54:10",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 246,
+    "raw": 218,
     "passed": 4,
     "deduped": 4,
     "eventDeduped": 4,
@@ -30,16 +30,28 @@
       "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
     },
     {
-      "id": "https://news.mtn.co.kr/article/2026112315560421263",
-      "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
-      "source": "news.mtn.co.kr",
+      "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
+      "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
+      "source": "ihalla.com",
       "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-23",
-      "dateRaw": "2026-11-23T12:47:00Z",
-      "publishedAt": "2026-11-23T12:47:00Z",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T10:47:00Z",
+      "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
-      "url": "https://news.mtn.co.kr/article/2026112315560421263"
+      "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
+    },
+    {
+      "id": "https://hayspost.com/posts/4fb81758-2f27-4678-b3f7-57022fbad960",
+      "title": "US Catholic bishops' new AI task force urges regulation and worker protections",
+      "source": "hayspost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T20:47:00Z",
+      "publishedAt": "2026-11-24T20:47:00Z",
+      "summary": "",
+      "url": "https://hayspost.com/posts/4fb81758-2f27-4678-b3f7-57022fbad960"
     },
     {
       "id": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026",
@@ -52,18 +64,6 @@
       "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
       "url": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026"
-    },
-    {
-      "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
-      "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
-      "source": "ihalla.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-24",
-      "dateRaw": "2026-11-24T10:47:00Z",
-      "publishedAt": "2026-11-24T10:47:00Z",
-      "summary": "",
-      "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
     }
   ],
   "trendItems": [
@@ -80,18 +80,6 @@
       "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
     },
     {
-      "id": "https://news.mtn.co.kr/article/2026112315560421263",
-      "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
-      "source": "news.mtn.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-23",
-      "dateRaw": "2026-11-23T12:47:00Z",
-      "publishedAt": "2026-11-23T12:47:00Z",
-      "summary": "",
-      "url": "https://news.mtn.co.kr/article/2026112315560421263"
-    },
-    {
       "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
       "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
       "source": "ihalla.com",
@@ -102,6 +90,18 @@
       "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
       "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
+    },
+    {
+      "id": "https://hayspost.com/posts/4fb81758-2f27-4678-b3f7-57022fbad960",
+      "title": "US Catholic bishops' new AI task force urges regulation and worker protections",
+      "source": "hayspost.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T20:47:00Z",
+      "publishedAt": "2026-11-24T20:47:00Z",
+      "summary": "",
+      "url": "https://hayspost.com/posts/4fb81758-2f27-4678-b3f7-57022fbad960"
     },
     {
       "id": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026",
@@ -119,10 +119,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 246,
-    "fetchedItems": 5698,
-    "relevantItems": 105,
-    "feedBytes": 1641960,
+    "poolSize": 218,
+    "fetchedItems": 4834,
+    "relevantItems": 101,
+    "feedBytes": 1367375,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
