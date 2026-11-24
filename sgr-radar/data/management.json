@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오후 10:11:49",
+  "updatedAt": "2026. 11. 24. 오전 10:00:03",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 228,
+    "raw": 220,
     "passed": 3,
     "deduped": 3,
     "eventDeduped": 3,
@@ -17,6 +17,18 @@
     "targetMet": false
   },
   "items": [
+    {
+      "id": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "source": "cnbc.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T00:47:00Z",
+      "publishedAt": "2026-11-24T00:47:00Z",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
+    },
     {
       "id": "https://news.mtn.co.kr/article/2026112315560421263",
       "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
@@ -28,18 +40,6 @@
       "publishedAt": "2026-11-23T12:47:00Z",
       "summary": "",
       "url": "https://news.mtn.co.kr/article/2026112315560421263"
-    },
-    {
-      "id": "http://www.newstomato.com/ReadNews.aspx?no=1321232",
-      "title": "금감원 경고에도…하나은행 퇴직연금 '과당 경쟁'",
-      "source": "newstomato.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T22:31:00Z",
-      "publishedAt": "2026-11-22T22:31:00Z",
-      "summary": "",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321232"
     },
     {
       "id": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html",
@@ -56,6 +56,18 @@
   ],
   "trendItems": [
     {
+      "id": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "source": "cnbc.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T00:47:00Z",
+      "publishedAt": "2026-11-24T00:47:00Z",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
+    },
+    {
       "id": "https://news.mtn.co.kr/article/2026112315560421263",
       "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
       "source": "news.mtn.co.kr",
@@ -66,18 +78,6 @@
       "publishedAt": "2026-11-23T12:47:00Z",
       "summary": "",
       "url": "https://news.mtn.co.kr/article/2026112315560421263"
-    },
-    {
-      "id": "http://www.newstomato.com/ReadNews.aspx?no=1321232",
-      "title": "금감원 경고에도…하나은행 퇴직연금 '과당 경쟁'",
-      "source": "newstomato.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-22",
-      "dateRaw": "2026-11-22T22:31:00Z",
-      "publishedAt": "2026-11-22T22:31:00Z",
-      "summary": "",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321232"
     },
     {
       "id": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html",
@@ -95,10 +95,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 228,
-    "fetchedItems": 6531,
-    "relevantItems": 108,
-    "feedBytes": 1849836,
+    "poolSize": 220,
+    "fetchedItems": 3597,
+    "relevantItems": 94,
+    "feedBytes": 983169,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

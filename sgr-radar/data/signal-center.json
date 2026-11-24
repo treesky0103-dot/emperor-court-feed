@@ -1,12 +1,26 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 23. 오후 10:11:50",
+  "updatedAt": "2026. 11. 24. 오전 10:00:05",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.etnews.com/20261124000013",
+          "title": "서인하 경기도의원, 'AI 공간 운영비' 줄여 청년 교육 확대 주문",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-23",
+          "dateRaw": "2026-11-23T16:20:11Z",
+          "publishedAt": "2026-11-23T16:20:11Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261124000013",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
         {
           "id": "https://www.mk.co.kr/news/economy/12215503",
           "title": "농협금융, 농업인 대출이자 292억 경감…농촌 주민 의료·복지 지원도",
@@ -20,20 +34,6 @@
           "url": "https://www.mk.co.kr/news/economy/12215503",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
-        },
-        {
-          "id": "https://www.etnews.com/20261123000506",
-          "title": "무아베모션, 현대건설과 AI 안전교육 콘텐츠 개발 협력",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T09:43:58Z",
-          "publishedAt": "2026-11-23T09:43:58Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261123000506",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261123105638",
@@ -62,16 +62,16 @@
           "url": "https://www.newspim.com/news/view/20261004000058"
         },
         {
-          "id": "https://biz.heraldcorp.com/article/10946668",
-          "title": "대구보건대, 성인학습자 대상 체험형 인성교육 운영",
+          "id": "https://biz.heraldcorp.com/article/10947023",
+          "title": "LH, 청년주택건축대전 시상식 개최…올해 30주년 맞아",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:47:00Z",
+          "publishedAt": "2026-11-24T00:47:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10946668"
+          "url": "https://biz.heraldcorp.com/article/10947023"
         },
         {
           "id": "https://www.ddaily.co.kr:443/page/view/2026112314584327168",
@@ -139,7 +139,11 @@
       "keywords": [
         {
           "word": "교육",
-          "count": 5
+          "count": 4
+        },
+        {
+          "word": "청년",
+          "count": 2
         },
         {
           "word": "복지",
@@ -157,20 +161,6 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.mk.co.kr/news/economy/12214736",
-          "title": "“EU 탄소·통상 빗장 뚫어라”… 韓-EU, 공급망·투자 원팀 짠다",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-20",
-          "dateRaw": "2026-11-20T16:47:17Z",
-          "publishedAt": "2026-11-20T16:47:17Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12214736",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.etnews.com/20261122000085",
           "title": "기술은 개발하고 투자는 연결…경기도, 'R&D 중소기업' 성장 뒷받침",
           "source": "etnews.com",
@@ -181,6 +171,20 @@
           "publishedAt": "2026-11-22T05:10:50Z",
           "summary": "",
           "url": "https://www.etnews.com/20261122000085",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/business/12215901",
+          "title": "“설계 품질·생산성 제고”…SK에코플랜트, 설계 특화 인공지능 플랫폼 ‘AXen’ 도입",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-23",
+          "dateRaw": "2026-11-23T10:45:13Z",
+          "publishedAt": "2026-11-23T10:45:13Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12215901",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
@@ -235,6 +239,20 @@
           "url": "https://www.newspim.com/news/view/20261122000121"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232562",
+          "title": "[굿모닝경제] 전력량 분석해 위기 대처 / 동료 마음 동료가 지킨다 / \"내년도 수출 순항\"",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-23",
+          "dateRaw": "2026-11-23T21:12:00Z",
+          "publishedAt": "2026-11-23T21:12:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232562",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
+        {
           "id": "https://biz.heraldcorp.com/article/10946226",
           "title": "“AI 호황? 이젠 공포다” 글로벌 반도체주 줄줄이 ‘반토막’ 곡소리…바닥 모를 추락[투자360]",
           "source": "biz.heraldcorp.com",
@@ -259,20 +277,6 @@
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1321179"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232385",
-          "title": "\"주식시장 충격 일시적\"…청와대 재정보좌관, 반도체 시장 낙관",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T01:26:00Z",
-          "publishedAt": "2026-11-23T01:26:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232385",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://www.huffingtonpost.kr:443/article/262232",
           "title": "LG이노텍 문혁수 유임으로 '반도체 기판 사업'에 드라이브 걸린다 : '장기공급계약'에 투자 형태 결정될 듯",
           "source": "huffingtonpost.kr",
@@ -288,22 +292,22 @@
       "keywords": [
         {
           "word": "투자",
-          "count": 6
+          "count": 5
         },
         {
           "word": "기업",
           "count": 2
         },
         {
-          "word": "공급망",
-          "count": 1
+          "word": "수출",
+          "count": 2
         },
         {
           "word": "금리",
           "count": 1
         },
         {
-          "word": "수출",
+          "word": "생산성",
           "count": 1
         }
       ],
@@ -489,16 +493,28 @@
           "url": "http://www.bignewsnetwork.com/news/279450490/trendy-china-american-youth-amazed-by-3d-printing-at-suzhou-high-school"
         },
         {
-          "id": "https://fortune.com/2026/11/21/snl-sister-sketch-caregiving-gender-gap-women/",
-          "title": "The $120,500 cost of being ‘Sister’: SNL sketch puts a face on America’s caregiving crisis | Fortune",
-          "source": "fortune.com",
+          "id": "https://wjla.com/news/local/deputies-find-no-threat-after-armed-person-report-at-great-mills-high-school",
+          "title": "Deputies find no threat after armed person report at Great Mills High School",
+          "source": "wjla.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T16:46:00Z",
-          "publishedAt": "2026-11-21T16:46:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:47:00Z",
+          "publishedAt": "2026-11-24T00:47:00Z",
           "summary": "",
-          "url": "https://fortune.com/2026/11/21/snl-sister-sketch-caregiving-gender-gap-women/"
+          "url": "https://wjla.com/news/local/deputies-find-no-threat-after-armed-person-report-at-great-mills-high-school"
+        },
+        {
+          "id": "https://country1029wkik.com/local-news/e08a5fb28115f21edfab6d51faa5ae23",
+          "title": "St. Mary’s County Sheriff's Office Responds to Reported Threat at Great Mills High School",
+          "source": "country1029wkik.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:46:00Z",
+          "publishedAt": "2026-11-24T00:46:00Z",
+          "summary": "",
+          "url": "https://country1029wkik.com/local-news/e08a5fb28115f21edfab6d51faa5ae23"
         },
         {
           "id": "https://indiaeducationdiary.in/90-of-indian-consumers-prefer-clinical-evidence-over-brand-storytelling-when-choosing-skincare-products-everq-1lattice-report/",
@@ -525,16 +541,28 @@
           "url": "https://bdnews24.com/bangladesh/86n1l9enn1"
         },
         {
-          "id": "https://www.weau.com/2026/11/21/students-present-their-research-montessori-charter-school-steam-day/",
-          "title": "Students present their research at Montessori Charter School for STEAM day",
-          "source": "weau.com",
+          "id": "https://www.kwtx.com/2026/11/23/texas-dems-celebrate-flipping-state-board-education-after-final-concession/",
+          "title": "Texas Dems celebrate flipping State Board of Education after final concession",
+          "source": "kwtx.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T02:02:00Z",
-          "publishedAt": "2026-11-21T02:02:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:46:00Z",
+          "publishedAt": "2026-11-24T00:46:00Z",
           "summary": "",
-          "url": "https://www.weau.com/2026/11/21/students-present-their-research-montessori-charter-school-steam-day/"
+          "url": "https://www.kwtx.com/2026/11/23/texas-dems-celebrate-flipping-state-board-education-after-final-concession/"
+        },
+        {
+          "id": "http://theeconomiccollapseblog.com/a-planned-explosion-in-iowa-will-create-a-giant-toxic-cloud-over-the-midwest-that-can-cause-brain-damage-organ-damage-heart-disease-and-infertility/",
+          "title": "A Planned Explosion In Iowa Will Create A Giant Toxic Cloud Over The Midwest That Can Cause Brain Damage, Organ Damage, Heart Disease And Infertility",
+          "source": "theeconomiccollapseblog.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:46:00Z",
+          "publishedAt": "2026-11-24T00:46:00Z",
+          "summary": "",
+          "url": "http://theeconomiccollapseblog.com/a-planned-explosion-in-iowa-will-create-a-giant-toxic-cloud-over-the-midwest-that-can-cause-brain-damage-organ-damage-heart-disease-and-infertility/"
         },
         {
           "id": "https://orissadiary.com/babu-banarasi-das-university-celebrates-convocation-2026-in-lucknow-in-presence-of-defense-minister-rajnath-singh-up-deputy-cm-brajesh-pathak-other-dignitaries-2/",
@@ -571,43 +599,15 @@
           "publishedAt": "2026-11-23T03:01:00Z",
           "summary": "",
           "url": "https://www.chronicleonline.com/news/local/mum-is-the-legislative-word-on-public-school-funding-changes/article_2d8b0d34-9b85-536c-8fd7-3951e11b23e4.html"
-        },
-        {
-          "id": "http://www.washingtonexaminer.com/policy/immigration/4811477/masked-immigration-officers-distressing-scene-seattle-airport/",
-          "title": "Masked immigration officers cause ‘distressing’ scene after detaining two people at Seattle airport",
-          "source": "washingtonexaminer.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T17:32:00Z",
-          "publishedAt": "2026-11-22T17:32:00Z",
-          "summary": "",
-          "url": "http://www.washingtonexaminer.com/policy/immigration/4811477/masked-immigration-officers-distressing-scene-seattle-airport/"
-        },
-        {
-          "id": "https://www.tnp.no/norway/panorama/5088-norway-offers-to-host-an-international-donor-conference-for-syrian-refugees/",
-          "title": "Norway offers to host an international donor conference for Syrian refugees - The Nordic Page",
-          "source": "tnp.no",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-22",
-          "dateRaw": "2026-11-22T17:32:00Z",
-          "publishedAt": "2026-11-22T17:32:00Z",
-          "summary": "",
-          "url": "https://www.tnp.no/norway/panorama/5088-norway-offers-to-host-an-international-donor-conference-for-syrian-refugees/"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 6
+          "count": 8
         },
         {
           "word": "불평등",
-          "count": 1
-        },
-        {
-          "word": "이민",
           "count": 1
         },
         {
@@ -694,52 +694,52 @@
           "url": "https://timesofindia.indiatimes.com/world/us/companies-diverted-trumps-100bn-tariff-refunds-to-bonuses-not-consumers-report/articleshow/136071126.cms"
         },
         {
-          "id": "https://bworldonline.com/opinion/2026/11/23/796058/canada-and-the-philippines-an-fta-that-goes-beyond-trade/",
-          "title": "Canada and the Philippines: An FTA that goes beyond trade - BusinessWorld Online",
-          "source": "bworldonline.com",
+          "id": "https://abc13.com/post/majority-fort-bend-county-voters-say-growth-is-moving-fast-survey-shows/20071412/",
+          "title": "Majority of Fort Bend County voters say county growth is moving too fast, survey shows",
+          "source": "abc13.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:47:00Z",
+          "publishedAt": "2026-11-24T00:47:00Z",
           "summary": "",
-          "url": "https://bworldonline.com/opinion/2026/11/23/796058/canada-and-the-philippines-an-fta-that-goes-beyond-trade/"
+          "url": "https://abc13.com/post/majority-fort-bend-county-voters-say-growth-is-moving-fast-survey-shows/20071412/"
         },
         {
-          "id": "http://www.philippinetimes.com/news/279450166/malaysia-launches-new-sourcing-expo-as-global-buyers-rethink-supply-chains",
-          "title": "Malaysia Launches New Sourcing Expo as Global Buyers Rethink Supply Chains.",
-          "source": "philippinetimes.com",
+          "id": "https://news4sanantonio.com/news/nation-world/trump-finds-unlikely-democratic-allies-in-push-to-cap-credit-card-interest-rates-at-10-bankrate",
+          "title": "Trump finds unlikely Democratic allies in push to cap credit card interest rates at 10%",
+          "source": "news4sanantonio.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:47:00Z",
+          "publishedAt": "2026-11-24T00:47:00Z",
           "summary": "",
-          "url": "http://www.philippinetimes.com/news/279450166/malaysia-launches-new-sourcing-expo-as-global-buyers-rethink-supply-chains"
+          "url": "https://news4sanantonio.com/news/nation-world/trump-finds-unlikely-democratic-allies-in-push-to-cap-credit-card-interest-rates-at-10-bankrate"
         },
         {
-          "id": "https://indiaeducationdiary.in/90-of-indian-consumers-prefer-clinical-evidence-over-brand-storytelling-when-choosing-skincare-products-everq-1lattice-report/",
-          "title": "90% of Indian Consumers Prefer Clinical Evidence Over Brand Storytelling When Choosing Skincare Products: EVERQ-1Lattice Report - India Education | Latest Education News | Global Educational News | Recent Educational News",
-          "source": "indiaeducationdiary.in",
+          "id": "https://www.stcatharinesstandard.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_38b15d6b-e168-550f-85b1-f8eb90b09b85.html",
+          "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion",
+          "source": "stcatharinesstandard.ca",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:47:00Z",
+          "publishedAt": "2026-11-24T00:47:00Z",
           "summary": "",
-          "url": "https://indiaeducationdiary.in/90-of-indian-consumers-prefer-clinical-evidence-over-brand-storytelling-when-choosing-skincare-products-everq-1lattice-report/"
+          "url": "https://www.stcatharinesstandard.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_38b15d6b-e168-550f-85b1-f8eb90b09b85.html"
         },
         {
-          "id": "https://news.webindia123.com/news/Articles/Business/20261123/4523464.html",
-          "title": "India may need up to 3.5 million tonnes of sugar imports as production falls below consumption: Report",
-          "source": "news.webindia123.com",
+          "id": "https://natlawreview.com/article/five-checks-creating-better-tariff-scenario-plans",
+          "title": "Five Checks For … Creating Better Tariff Scenario Plans",
+          "source": "natlawreview.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:47:00Z",
+          "publishedAt": "2026-11-24T00:47:00Z",
           "summary": "",
-          "url": "https://news.webindia123.com/news/Articles/Business/20261123/4523464.html"
+          "url": "https://natlawreview.com/article/five-checks-creating-better-tariff-scenario-plans"
         }
       ],
       "keywords": [
@@ -748,15 +748,15 @@
           "count": 5
         },
         {
-          "word": "공급망",
-          "count": 1
-        },
-        {
           "word": "관세",
-          "count": 1
+          "count": 2
         },
         {
           "word": "성장",
+          "count": 2
+        },
+        {
+          "word": "금리",
           "count": 1
         },
         {
@@ -879,22 +879,22 @@
           "url": "https://fortune.com/article/tech-investor-bill-gurley-says-college-grads-at-high-risk-of-ai-automation/"
         },
         {
-          "id": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/australian-energy-officials-warned-of-data-centre-risk-age",
-          "title": "Australian energy officials warned of data centre risk: Age",
-          "source": "thestar.com.my",
+          "id": "https://news4sanantonio.com/news/local/ut-health-san-antonio-expands-ai-cancer-detection-research-with-major-recruitment-award",
+          "title": "UT Health San Antonio expands AI cancer detection research with major recruitment award",
+          "source": "news4sanantonio.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-21",
-          "dateRaw": "2026-11-21T09:46:00Z",
-          "publishedAt": "2026-11-21T09:46:00Z",
+          "date": "2026-11-24",
+          "dateRaw": "2026-11-24T00:46:00Z",
+          "publishedAt": "2026-11-24T00:46:00Z",
           "summary": "",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/australian-energy-officials-warned-of-data-centre-risk-age"
+          "url": "https://news4sanantonio.com/news/local/ut-health-san-antonio-expands-ai-cancer-detection-research-with-major-recruitment-award"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 4
+          "count": 5
         },
         {
           "word": "GPU",
@@ -920,9 +920,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 814,
-    "fetchedItems": 6531,
-    "feedBytes": 1849836,
+    "poolSize": 780,
+    "fetchedItems": 3597,
+    "feedBytes": 983169,
     "rollingWindowHours": 72
   }
 }
