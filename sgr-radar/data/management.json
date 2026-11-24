@@ -2,16 +2,16 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 24. 오전 10:00:03",
+  "updatedAt": "2026. 11. 24. 오후 07:49:42",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 220,
-    "passed": 3,
-    "deduped": 3,
-    "eventDeduped": 3,
-    "displayed": 3,
+    "raw": 246,
+    "passed": 4,
+    "deduped": 4,
+    "eventDeduped": 4,
+    "displayed": 4,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": false
@@ -42,16 +42,28 @@
       "url": "https://news.mtn.co.kr/article/2026112315560421263"
     },
     {
-      "id": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html",
-      "title": "Six more public departments to be restructured next year",
-      "source": "macaudailytimes.com.mo",
+      "id": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026",
+      "title": "Zhiniao Shares Its Approach to AI-Enabled Talent Development at Future of Work APAC 2026",
+      "source": "russiaherald.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-23",
-      "dateRaw": "2026-11-23T03:01:00Z",
-      "publishedAt": "2026-11-23T03:01:00Z",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T10:47:00Z",
+      "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
-      "url": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html"
+      "url": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026"
+    },
+    {
+      "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
+      "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
+      "source": "ihalla.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T10:47:00Z",
+      "publishedAt": "2026-11-24T10:47:00Z",
+      "summary": "",
+      "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
     }
   ],
   "trendItems": [
@@ -80,25 +92,37 @@
       "url": "https://news.mtn.co.kr/article/2026112315560421263"
     },
     {
-      "id": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html",
-      "title": "Six more public departments to be restructured next year",
-      "source": "macaudailytimes.com.mo",
+      "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
+      "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
+      "source": "ihalla.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T10:47:00Z",
+      "publishedAt": "2026-11-24T10:47:00Z",
+      "summary": "",
+      "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
+    },
+    {
+      "id": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026",
+      "title": "Zhiniao Shares Its Approach to AI-Enabled Talent Development at Future of Work APAC 2026",
+      "source": "russiaherald.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-23",
-      "dateRaw": "2026-11-23T03:01:00Z",
-      "publishedAt": "2026-11-23T03:01:00Z",
+      "date": "2026-11-24",
+      "dateRaw": "2026-11-24T10:47:00Z",
+      "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
-      "url": "https://macaudailytimes.com.mo/six-more-public-departments-to-be-restructured-next-year.html"
+      "url": "http://www.russiaherald.com/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 220,
-    "fetchedItems": 3597,
-    "relevantItems": 94,
-    "feedBytes": 983169,
+    "poolSize": 246,
+    "fetchedItems": 5698,
+    "relevantItems": 105,
+    "feedBytes": 1641960,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
