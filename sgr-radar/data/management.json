@@ -2,12 +2,12 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 25. 오전 05:54:10",
+  "updatedAt": "2026. 11. 25. 오후 12:57:33",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 218,
+    "raw": 208,
     "passed": 4,
     "deduped": 4,
     "eventDeduped": 4,
@@ -17,18 +17,6 @@
     "targetMet": false
   },
   "items": [
-    {
-      "id": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-      "source": "cnbc.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-24",
-      "dateRaw": "2026-11-24T00:47:00Z",
-      "publishedAt": "2026-11-24T00:47:00Z",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
-    },
     {
       "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
       "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
@@ -40,6 +28,18 @@
       "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
       "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
+    },
+    {
+      "id": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf",
+      "title": "Artificial Intelligence will change trades, healthcare, and childcare jobs by 2036, study says",
+      "source": "sbs.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-25",
+      "dateRaw": "2026-11-25T03:46:00Z",
+      "publishedAt": "2026-11-25T03:46:00Z",
+      "summary": "",
+      "url": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf"
     },
     {
       "id": "https://hayspost.com/posts/4fb81758-2f27-4678-b3f7-57022fbad960",
@@ -68,18 +68,6 @@
   ],
   "trendItems": [
     {
-      "id": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-      "source": "cnbc.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-24",
-      "dateRaw": "2026-11-24T00:47:00Z",
-      "publishedAt": "2026-11-24T00:47:00Z",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html"
-    },
-    {
       "id": "http://www.ihalla.com/article.php?aid=1795500220793165010",
       "title": "제주, AI 전환·근로 여건 개선... 맞춤형 일자리 수행기관 모집",
       "source": "ihalla.com",
@@ -90,6 +78,18 @@
       "publishedAt": "2026-11-24T10:47:00Z",
       "summary": "",
       "url": "http://www.ihalla.com/article.php?aid=1795500220793165010"
+    },
+    {
+      "id": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf",
+      "title": "Artificial Intelligence will change trades, healthcare, and childcare jobs by 2036, study says",
+      "source": "sbs.com.au",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-25",
+      "dateRaw": "2026-11-25T03:46:00Z",
+      "publishedAt": "2026-11-25T03:46:00Z",
+      "summary": "",
+      "url": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf"
     },
     {
       "id": "https://hayspost.com/posts/4fb81758-2f27-4678-b3f7-57022fbad960",
@@ -119,10 +119,10 @@
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 218,
-    "fetchedItems": 4834,
-    "relevantItems": 101,
-    "feedBytes": 1367375,
+    "poolSize": 208,
+    "fetchedItems": 3415,
+    "relevantItems": 69,
+    "feedBytes": 885445,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
