@@ -2,21 +2,45 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 26. 오전 08:03:44",
+  "updatedAt": "2026. 11. 26. 오후 01:58:11",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 213,
-    "passed": 6,
-    "deduped": 6,
-    "eventDeduped": 6,
-    "displayed": 6,
+    "raw": 238,
+    "passed": 12,
+    "deduped": 12,
+    "eventDeduped": 12,
+    "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": false
+    "targetMet": true
   },
   "items": [
+    {
+      "id": "https://aninews.in/news/business/ai-governance-must-remain-democratic-humans-should-not-surrender-free-will-to-systems-anthropic-ceo-dario-amodei20261126090403/",
+      "title": "AI governance must remain democratic, humans should not surrender free will to systems: Anthropic CEO Dario Amodei",
+      "source": "aninews.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://aninews.in/news/business/ai-governance-must-remain-democratic-humans-should-not-surrender-free-will-to-systems-anthropic-ceo-dario-amodei20261126090403/"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-pare-back-bank-of-japan-rate-hike-bets-as-ai-spending-concerns-mount/articleshow/136178218.cms",
+      "title": "Markets pare back Bank of Japan rate hike bets as AI spending concerns mount",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-pare-back-bank-of-japan-rate-hike-bets-as-ai-spending-concerns-mount/articleshow/136178218.cms"
+    },
     {
       "id": "https://zdnet.co.kr/view/?no=20261125203155",
       "title": "화웨이, 하이브리드 본딩 '맞춤형 HBM' 개발…삼성·SK와 속도전",
@@ -30,6 +54,30 @@
       "url": "https://zdnet.co.kr/view/?no=20261125203155"
     },
     {
+      "id": "https://www.moneycontrol.com/news/opinion/chart-of-the-day-india-leads-among-apac-markets-in-ai-adoption-14089304.html",
+      "title": "Chart of the Day | India leads among APAC markets in AI adoption- Moneycontrol.com",
+      "source": "moneycontrol.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://www.moneycontrol.com/news/opinion/chart-of-the-day-india-leads-among-apac-markets-in-ai-adoption-14089304.html"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10950343",
+      "title": "김택형 YK 변호사 “법률 자문, 문제 발생 후가 아닌 경영전략 단계부터”",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10950343"
+    },
+    {
       "id": "https://www.elciudadano.com/en/educational-reform-teachers-union-reports-progress-in-congress-after-march-avoiding-mass-layoffs/11/25/",
       "title": "Educational Reform: Teacher's Union Reports Progress in Congress After March, Avoiding Mass Layoffs",
       "source": "elciudadano.com",
@@ -40,6 +88,18 @@
       "publishedAt": "2026-11-25T13:47:00Z",
       "summary": "",
       "url": "https://www.elciudadano.com/en/educational-reform-teachers-union-reports-progress-in-congress-after-march-avoiding-mass-layoffs/11/25/"
+    },
+    {
+      "id": "http://www.singaporestar.com/news/279454638/ensign-infosecurity-partners-with-hpe-to-help-enterprises-deploy-ai-with-greater-control-and-security",
+      "title": "Ensign InfoSecurity partners with HPE to help enterprises deploy AI with greater control and security",
+      "source": "singaporestar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "http://www.singaporestar.com/news/279454638/ensign-infosecurity-partners-with-hpe-to-help-enterprises-deploy-ai-with-greater-control-and-security"
     },
     {
       "id": "http://www.newyorkstatesman.com/news/279453772/iran-accuses-us-of-using-ai-in-deadly-attacks-calls-for-un-governance",
@@ -64,18 +124,6 @@
       "publishedAt": "2026-11-25T13:46:00Z",
       "summary": "",
       "url": "https://www.irishexaminer.com/world/arid-41942283.html"
-    },
-    {
-      "id": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf",
-      "title": "Artificial Intelligence will change trades, healthcare, and childcare jobs by 2036, study says",
-      "source": "sbs.com.au",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-25",
-      "dateRaw": "2026-11-25T03:46:00Z",
-      "publishedAt": "2026-11-25T03:46:00Z",
-      "summary": "",
-      "url": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf"
     },
     {
       "id": "http://www.shanghainews.net/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026",
@@ -92,6 +140,30 @@
   ],
   "trendItems": [
     {
+      "id": "https://aninews.in/news/business/ai-governance-must-remain-democratic-humans-should-not-surrender-free-will-to-systems-anthropic-ceo-dario-amodei20261126090403/",
+      "title": "AI governance must remain democratic, humans should not surrender free will to systems: Anthropic CEO Dario Amodei",
+      "source": "aninews.in",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://aninews.in/news/business/ai-governance-must-remain-democratic-humans-should-not-surrender-free-will-to-systems-anthropic-ceo-dario-amodei20261126090403/"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-pare-back-bank-of-japan-rate-hike-bets-as-ai-spending-concerns-mount/articleshow/136178218.cms",
+      "title": "Markets pare back Bank of Japan rate hike bets as AI spending concerns mount",
+      "source": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-pare-back-bank-of-japan-rate-hike-bets-as-ai-spending-concerns-mount/articleshow/136178218.cms"
+    },
+    {
       "id": "https://zdnet.co.kr/view/?no=20261125203155",
       "title": "화웨이, 하이브리드 본딩 '맞춤형 HBM' 개발…삼성·SK와 속도전",
       "source": "zdnet.co.kr",
@@ -104,6 +176,30 @@
       "url": "https://zdnet.co.kr/view/?no=20261125203155"
     },
     {
+      "id": "https://www.moneycontrol.com/news/opinion/chart-of-the-day-india-leads-among-apac-markets-in-ai-adoption-14089304.html",
+      "title": "Chart of the Day | India leads among APAC markets in AI adoption- Moneycontrol.com",
+      "source": "moneycontrol.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://www.moneycontrol.com/news/opinion/chart-of-the-day-india-leads-among-apac-markets-in-ai-adoption-14089304.html"
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10950343",
+      "title": "김택형 YK 변호사 “법률 자문, 문제 발생 후가 아닌 경영전략 단계부터”",
+      "source": "biz.heraldcorp.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://biz.heraldcorp.com/article/10950343"
+    },
+    {
       "id": "https://www.elciudadano.com/en/educational-reform-teachers-union-reports-progress-in-congress-after-march-avoiding-mass-layoffs/11/25/",
       "title": "Educational Reform: Teacher's Union Reports Progress in Congress After March, Avoiding Mass Layoffs",
       "source": "elciudadano.com",
@@ -114,6 +210,18 @@
       "publishedAt": "2026-11-25T13:47:00Z",
       "summary": "",
       "url": "https://www.elciudadano.com/en/educational-reform-teachers-union-reports-progress-in-congress-after-march-avoiding-mass-layoffs/11/25/"
+    },
+    {
+      "id": "http://www.singaporestar.com/news/279454638/ensign-infosecurity-partners-with-hpe-to-help-enterprises-deploy-ai-with-greater-control-and-security",
+      "title": "Ensign InfoSecurity partners with HPE to help enterprises deploy AI with greater control and security",
+      "source": "singaporestar.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "http://www.singaporestar.com/news/279454638/ensign-infosecurity-partners-with-hpe-to-help-enterprises-deploy-ai-with-greater-control-and-security"
     },
     {
       "id": "http://www.newyorkstatesman.com/news/279453772/iran-accuses-us-of-using-ai-in-deadly-attacks-calls-for-un-governance",
@@ -140,16 +248,16 @@
       "url": "https://www.irishexaminer.com/world/arid-41942283.html"
     },
     {
-      "id": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf",
-      "title": "Artificial Intelligence will change trades, healthcare, and childcare jobs by 2036, study says",
-      "source": "sbs.com.au",
+      "id": "https://www.moneycontrol.com/news/trends/recruiter-hides-secret-message-in-job-ads-after-ai-agents-flood-company-with-2-000-applications-14089200.html",
+      "title": "Recruiter hides secret message in job ads after AI agents flood company with 2,000 applications- Moneycontrol.com",
+      "source": "moneycontrol.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-25",
-      "dateRaw": "2026-11-25T03:46:00Z",
-      "publishedAt": "2026-11-25T03:46:00Z",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
       "summary": "",
-      "url": "https://www.sbs.com.au/language/filipino/en/podcast-episode/artificial-intelligence-will-change-trades-healthcare-and-childcare-jobs-by-2036-study-says/mb87njbnf"
+      "url": "https://www.moneycontrol.com/news/trends/recruiter-hides-secret-message-in-job-ads-after-ai-agents-flood-company-with-2-000-applications-14089200.html"
     },
     {
       "id": "http://www.shanghainews.net/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026",
@@ -162,15 +270,27 @@
       "publishedAt": "2026-11-25T13:47:00Z",
       "summary": "",
       "url": "http://www.shanghainews.net/news/279451810/zhiniao-shares-its-approach-to-ai-enabled-talent-development-at-future-of-work-apac-2026"
+    },
+    {
+      "id": "https://seekingalpha.com/article/4972107-dell-enterprise-q3-ai-inference-is-the-next-leg-of-server-demand",
+      "title": "Dell: Enterprise AI Inference Is The Next Leg Of Server Demand",
+      "source": "seekingalpha.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-26",
+      "dateRaw": "2026-11-26T04:46:00Z",
+      "publishedAt": "2026-11-26T04:46:00Z",
+      "summary": "",
+      "url": "https://seekingalpha.com/article/4972107-dell-enterprise-q3-ai-inference-is-the-next-leg-of-server-demand"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 213,
-    "fetchedItems": 581,
-    "relevantItems": 19,
-    "feedBytes": 162343,
+    "poolSize": 238,
+    "fetchedItems": 3283,
+    "relevantItems": 94,
+    "feedBytes": 878579,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

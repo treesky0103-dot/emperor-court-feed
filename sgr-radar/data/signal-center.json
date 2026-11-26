@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 26. 오전 08:03:45",
+  "updatedAt": "2026. 11. 26. 오후 01:58:12",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -50,6 +50,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723330",
+          "title": "경기교육청, 내일 학교비정규직 파업 대비…급식·돌봄 지침",
+          "source": "news.kbs.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
+          "summary": "",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723330"
+        },
+        {
           "id": "https://www.hani.co.kr/arti/economy/economy_general/1289004.html",
           "title": "공정위, 씨제이프레시웨이 심의 착수…“식자재 납품하려 복지시설에 기부·상품권”",
           "source": "hani.co.kr",
@@ -62,16 +74,16 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1289004.html"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232935",
-          "title": "SNS에 뜬 낯뜨거운 AI 드라마 광고…청소년도 '무방비 노출'",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233047",
+          "title": "경찰, '리트 만점자' 집·수능시험지 보관 학교 압수수색",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T09:21:00Z",
-          "publishedAt": "2026-11-25T09:21:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T02:29:00Z",
+          "publishedAt": "2026-11-26T02:29:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232935",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233047",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -122,24 +134,12 @@
           "publishedAt": "2026-11-24T10:47:00Z",
           "summary": "",
           "url": "http://www.ihalla.com/article.php?aid=1795508331793178014"
-        },
-        {
-          "id": "http://inews24.com/view/2029970",
-          "title": "\"20대가 원하는 정수기는\" 코웨이, 대학생들과 고객 확대방안 모색",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-24",
-          "dateRaw": "2026-11-24T10:47:00Z",
-          "publishedAt": "2026-11-24T10:47:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2029970"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 3
+          "count": 5
         },
         {
           "word": "복지",
@@ -148,6 +148,10 @@
         {
           "word": "청년",
           "count": 3
+        },
+        {
+          "word": "돌봄",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -167,6 +171,20 @@
           "publishedAt": "2026-11-25T06:42:18Z",
           "summary": "",
           "url": "https://www.etnews.com/20261125000454",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
+        },
+        {
+          "id": "https://zdnet.co.kr/view/?no=20261126124550",
+          "title": "AI 잘 쓰는 기업, 투자 수익도 높았다",
+          "source": "zdnet.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T03:46:29Z",
+          "publishedAt": "2026-11-26T03:46:29Z",
+          "summary": "",
+          "url": "https://zdnet.co.kr/view/?no=20261126124550",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -197,18 +215,16 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1289003.html"
         },
         {
-          "id": "https://zdnet.co.kr/view/?no=20261125092925",
-          "title": "비트코인 급락에 투자자 손실 확대…큰손은 '매집 전략'",
-          "source": "zdnet.co.kr",
+          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723329",
+          "title": "한은 총재 “올해 명목GDP 3,000조 중 반도체가 700조…소비 파급엔 시간”",
+          "source": "news.kbs.co.kr",
           "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T01:55:30Z",
-          "publishedAt": "2026-11-25T01:55:30Z",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
           "summary": "",
-          "url": "https://zdnet.co.kr/view/?no=20261125092925",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723329"
         },
         {
           "id": "https://biz.heraldcorp.com/article/10948099",
@@ -223,6 +239,20 @@
           "url": "https://biz.heraldcorp.com/article/10948099"
         },
         {
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233034",
+          "title": "[속보] 황건일·이수형 금통위원, 기준금리 동결 소수의견",
+          "source": "mbn.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T01:40:00Z",
+          "publishedAt": "2026-11-26T01:40:00Z",
+          "summary": "",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233034",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
+        {
           "id": "https://newsway.co.kr/news/view?ud=2026112607274321385",
           "title": "AI 투자 불안에 뉴욕증시 또 출렁···나스닥 0.62%↓ - 뉴스웨이",
           "source": "newsway.co.kr",
@@ -233,20 +263,6 @@
           "publishedAt": "2026-11-25T23:01:00Z",
           "summary": "",
           "url": "https://newsway.co.kr/news/view?ud=2026112607274321385"
-        },
-        {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232946",
-          "title": "[속보] 미 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
-          "source": "mbn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T13:50:00Z",
-          "publishedAt": "2026-11-25T13:50:00Z",
-          "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232946",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
         },
         {
           "id": "http://www.ihalla.com/article.php?aid=1795510449793179073",
@@ -261,41 +277,33 @@
           "url": "http://www.ihalla.com/article.php?aid=1795510449793179073"
         },
         {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1321179",
-          "title": "[IB토마토]오라이언운용, 증권사 신탁 자금 업고…태성·대주전자재료 CB 투자",
-          "source": "newstomato.com",
+          "id": "https://korean.cri.cn/2026/11/26/ARTI1795660454879659",
+          "title": "상무부 등 8개 부처, 2030년까지 서비스무역 규모 안정적으로 확대",
+          "source": "korean.cri.cn",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T03:01:00Z",
-          "publishedAt": "2026-11-23T03:01:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
           "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1321179"
-        },
-        {
-          "id": "http://inews24.com/view/2029980",
-          "title": "SK하이닉스, HBM·HBF 경력채용…첨단칩 설계 인력 확보",
-          "source": "inews24.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-24",
-          "dateRaw": "2026-11-24T10:46:00Z",
-          "publishedAt": "2026-11-24T10:46:00Z",
-          "summary": "",
-          "url": "http://inews24.com/view/2029980"
+          "url": "https://korean.cri.cn/2026/11/26/ARTI1795660454879659"
         }
       ],
       "keywords": [
         {
-          "word": "투자",
+          "word": "금리",
           "count": 3
         },
         {
-          "word": "금리",
+          "word": "투자",
           "count": 2
         },
         {
-          "word": "인력",
+          "word": "기업",
+          "count": 1
+        },
+        {
+          "word": "소비",
           "count": 1
         }
       ],
@@ -305,6 +313,20 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.etnews.com/20261126000064",
+          "title": "서울대 AI 반도체 포럼 개최…AGI 시대 차세대 반도체 기술 전략 모색",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-25",
+          "dateRaw": "2026-11-25T23:58:01Z",
+          "publishedAt": "2026-11-25T23:58:01Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261126000064",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
+        },
         {
           "id": "https://zdnet.co.kr/view/?no=20261125181002",
           "title": "산이, 바우마 차이나 2026서 AI 네이티브 로봇 기업으로 도약",
@@ -316,20 +338,6 @@
           "publishedAt": "2026-11-25T09:10:02Z",
           "summary": "",
           "url": "https://zdnet.co.kr/view/?no=20261125181002",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.etnews.com/20261125000519",
-          "title": "인포뱅크, 그린에너지 AI 서비스 개발 기업 사업화 전주기 지원",
-          "source": "etnews.com",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T08:02:59Z",
-          "publishedAt": "2026-11-25T08:02:59Z",
-          "summary": "",
-          "url": "https://www.etnews.com/20261125000519",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
         },
@@ -398,6 +406,18 @@
           "signalFieldHint": "economy"
         },
         {
+          "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723329",
+          "title": "한은 총재 “올해 명목GDP 3,000조 중 반도체가 700조…소비 파급엔 시간”",
+          "source": "news.kbs.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
+          "summary": "",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723329"
+        },
+        {
           "id": "https://news.mtn.co.kr/article/2026112315560421263",
           "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
           "source": "news.mtn.co.kr",
@@ -408,18 +428,6 @@
           "publishedAt": "2026-11-23T12:47:00Z",
           "summary": "",
           "url": "https://news.mtn.co.kr/article/2026112315560421263"
-        },
-        {
-          "id": "http://www.newstomato.com/ReadNews.aspx?no=1321417",
-          "title": "현대바이오, 서울대병원 전립선암 임상서 ‘전이 병변 축소’",
-          "source": "newstomato.com",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T03:01:00Z",
-          "publishedAt": "2026-11-23T03:01:00Z",
-          "summary": "",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1321417"
         },
         {
           "id": "http://inews24.com/view/2030468",
@@ -440,19 +448,15 @@
           "count": 9
         },
         {
+          "word": "반도체",
+          "count": 4
+        },
+        {
           "word": "로봇",
           "count": 3
         },
         {
           "word": "데이터센터",
-          "count": 1
-        },
-        {
-          "word": "바이오",
-          "count": 1
-        },
-        {
-          "word": "반도체",
           "count": 1
         }
       ],
@@ -561,28 +565,28 @@
           "url": "https://indiaeducationdiary.in/90-of-indian-consumers-prefer-clinical-evidence-over-brand-storytelling-when-choosing-skincare-products-everq-1lattice-report/"
         },
         {
-          "id": "https://www.wahpetondailynews.com/news/minnesota/minnesotas-land-of-neighbors-effort-heard-about-immigration-isolation-and-minnesota-nice-so-what-now",
-          "title": "Minnesota’s ‘Land of Neighbors’ effort heard about immigration, isolation and ‘Minnesota Nice.’ So what now?",
-          "source": "wahpetondailynews.com",
+          "id": "https://asianews.network/rohingya-refugees-in-malaysia-seek-more-time-after-landmark-genocide-ruling-against-myanmar/",
+          "title": "Rohingya refugees in Malaysia seek more time after landmark genocide ruling against Myanmar",
+          "source": "asianews.network",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T23:01:00Z",
-          "publishedAt": "2026-11-25T23:01:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:47:00Z",
+          "publishedAt": "2026-11-26T04:47:00Z",
           "summary": "",
-          "url": "https://www.wahpetondailynews.com/news/minnesota/minnesotas-land-of-neighbors-effort-heard-about-immigration-isolation-and-minnesota-nice-so-what-now"
+          "url": "https://asianews.network/rohingya-refugees-in-malaysia-seek-more-time-after-landmark-genocide-ruling-against-myanmar/"
         },
         {
-          "id": "https://2paragraphs.com/2026/11/vance-on-gop-gov-stitts-call-for-bipartisan-immigration-reform-morally-and-electorally-disastrous/",
-          "title": "Vance on GOP Gov. Stitt’s Call for Bipartisan Immigration Reform: “Morally and Electorally Disastrous”",
-          "source": "2paragraphs.com",
+          "id": "https://www.news-medical.net/news/20261125/Cellular-brake-on-myelin-growth-offers-insights-into-mental-health-conditions.aspx",
+          "title": "Cellular brake on myelin growth offers insights into mental health conditions",
+          "source": "news-medical.net",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T23:01:00Z",
-          "publishedAt": "2026-11-25T23:01:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
           "summary": "",
-          "url": "https://2paragraphs.com/2026/11/vance-on-gop-gov-stitts-call-for-bipartisan-immigration-reform-morally-and-electorally-disastrous/"
+          "url": "https://www.news-medical.net/news/20261125/Cellular-brake-on-myelin-growth-offers-insights-into-mental-health-conditions.aspx"
         }
       ],
       "keywords": [
@@ -592,7 +596,11 @@
         },
         {
           "word": "이민",
-          "count": 3
+          "count": 1
+        },
+        {
+          "word": "정신건강",
+          "count": 1
         },
         {
           "word": "청년",
@@ -605,6 +613,42 @@
     },
     "economy": {
       "items": [
+        {
+          "id": "https://www.channelnewsasia.com/singapore/singapore-us-tariffs-meti-trump-6583911",
+          "title": "Singapore 'very disappointed' with proposed US tariffs, says findings fail to account for its economic structure",
+          "source": "channelnewsasia.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
+          "summary": "",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-us-tariffs-meti-trump-6583911"
+        },
+        {
+          "id": "https://www.krwg.org/shows/newshour/clip/trump-s-tariffs-1795644066",
+          "title": "How Trump's newest tariffs could impact American economy",
+          "source": "krwg.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
+          "summary": "",
+          "url": "https://www.krwg.org/shows/newshour/clip/trump-s-tariffs-1795644066"
+        },
+        {
+          "id": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+          "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+          "source": "cnbc.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
+        },
         {
           "id": "https://www.thehindu.com/business/Economy/net-fdi-fell-to-more-than-55-year-low-in-september-2026-as-outflows-jumped-40/article71742778.ece",
           "title": "Net FDI fell to more than 5.5-year low in September 2026, as outflows jumped 40%",
@@ -642,16 +686,16 @@
           "url": "https://www.businesstimes.com.sg/international/global/us-proposes-new-tariffs-14-trading-partners-including-singapore"
         },
         {
-          "id": "https://www.scoop.co.nz/stories/BU2611/S00202/retail-trade-survey-shows-growth-despite-economic-challenges.htm",
-          "title": "Retail Trade Survey Shows Growth Despite Economic Challenges",
-          "source": "scoop.co.nz",
+          "id": "https://www.asiaone.com/money/world-stocks-tumble-trump-tariffs-rattle-markets-ai-rally-fades",
+          "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+          "source": "asiaone.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T03:01:00Z",
-          "publishedAt": "2026-11-23T03:01:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
           "summary": "",
-          "url": "https://www.scoop.co.nz/stories/BU2611/S00202/retail-trade-survey-shows-growth-despite-economic-challenges.htm"
+          "url": "https://www.asiaone.com/money/world-stocks-tumble-trump-tariffs-rattle-markets-ai-rally-fades"
         },
         {
           "id": "https://newsroomamerica.com/a/Ht3PEWns2owHSdVsPtHHSPtDI6i/newsweek_reports_the_trump_administration_proposed_tariffs_on_14_major_trading_partners_a_federal_judge_blocked_the_president_s_birthright_citizenship_order_and_canada_barred_thanksgiving_poultry_leftovers_at_the_border.html",
@@ -688,42 +732,6 @@
           "publishedAt": "2026-11-25T13:47:00Z",
           "summary": "",
           "url": "https://247wallst.com/investing/2026/11/25/liberation-day-round-2-0-the-next-wave-of-trump-tariffs-is-reportedly-close/"
-        },
-        {
-          "id": "http://www.shanghainews.net/news/279452985/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report",
-          "title": "Trump administration considering raising tariffs on India-China, result of 'Section 301' probe to be announced: Report",
-          "source": "shanghainews.net",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T13:47:00Z",
-          "publishedAt": "2026-11-25T13:47:00Z",
-          "summary": "",
-          "url": "http://www.shanghainews.net/news/279452985/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report"
-        },
-        {
-          "id": "https://kashmirreader.com/2026/11/25/us-planning-to-hike-tariffs-against-india-15-other-countries-report/",
-          "title": "US planning to hike tariffs against India, 15 other countries: report",
-          "source": "kashmirreader.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T03:46:00Z",
-          "publishedAt": "2026-11-25T03:46:00Z",
-          "summary": "",
-          "url": "https://kashmirreader.com/2026/11/25/us-planning-to-hike-tariffs-against-india-15-other-countries-report/"
-        },
-        {
-          "id": "https://www.investmentwatchblog.com/house-report-tears-into-obama-era-russia-assessment-brennan-pushed-questionable-intelligence-cia-vault-held-report-for-years/",
-          "title": "House report tears into Obama-era Russia assessment. Brennan pushed questionable intelligence. CIA vault held report for years. - Investment Watch Blog",
-          "source": "investmentwatchblog.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T23:01:00Z",
-          "publishedAt": "2026-11-25T23:01:00Z",
-          "summary": "",
-          "url": "https://www.investmentwatchblog.com/house-report-tears-into-obama-era-russia-assessment-brennan-pushed-questionable-intelligence-cia-vault-held-report-for-years/"
         }
       ],
       "keywords": [
@@ -732,15 +740,11 @@
           "count": 2
         },
         {
-          "word": "투자",
-          "count": 2
-        },
-        {
-          "word": "무역",
+          "word": "관세",
           "count": 1
         },
         {
-          "word": "성장",
+          "word": "투자",
           "count": 1
         }
       ],
@@ -750,6 +754,18 @@
     },
     "technology": {
       "items": [
+        {
+          "id": "https://www.thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece",
+          "title": "SpaceX allowed to deploy 1 million satellites for data centres in space, as scientists express doubt",
+          "source": "thehindu.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
+          "summary": "",
+          "url": "https://www.thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece"
+        },
         {
           "id": "https://www.businessworld.in/article/royal-enfield-lines-up-rs-1-000-cr-investment-for-ev-manufacturing-push-635200",
           "title": "Royal Enfield Lines Up Rs 1,000 Cr Investment For EV Manufacturing Push - BW Businessworld",
@@ -847,38 +863,22 @@
           "url": "https://www.huffingtonpost.kr:443/article/262312"
         },
         {
-          "id": "https://politicalwire.com/2026/11/25/spacex-gets-approval-for-one-million-orbital-data-centers/",
-          "title": "SpaceX Gets Approval for One Million Orbital Data Centers",
-          "source": "politicalwire.com",
+          "id": "https://asianews.network/data-centres-to-drive-20-7-of-asean-power-demand-growth-to-2030/",
+          "title": "Data centres to drive 20.7% of ASEAN power demand growth to 2030",
+          "source": "asianews.network",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T23:01:00Z",
-          "publishedAt": "2026-11-25T23:01:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:47:00Z",
+          "publishedAt": "2026-11-26T04:47:00Z",
           "summary": "",
-          "url": "https://politicalwire.com/2026/11/25/spacex-gets-approval-for-one-million-orbital-data-centers/"
-        },
-        {
-          "id": "http://www.bozemandailychronicle.com/opinion/guest-columns/trump-administration-pushes-data-centers-on-public-land/article_763dfe09-48d9-49a4-912f-8b0f2bf59c47.html",
-          "title": "Trump administration pushes data centers on public land",
-          "source": "bozemandailychronicle.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T13:47:00Z",
-          "publishedAt": "2026-11-25T13:47:00Z",
-          "summary": "",
-          "url": "http://www.bozemandailychronicle.com/opinion/guest-columns/trump-administration-pushes-data-centers-on-public-land/article_763dfe09-48d9-49a4-912f-8b0f2bf59c47.html"
+          "url": "https://asianews.network/data-centres-to-drive-20-7-of-asean-power-demand-growth-to-2030/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
           "count": 3
-        },
-        {
-          "word": "데이터센터",
-          "count": 2
         },
         {
           "word": "반도체",
@@ -896,9 +896,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 973,
-    "fetchedItems": 581,
-    "feedBytes": 162343,
+    "poolSize": 1029,
+    "fetchedItems": 3283,
+    "feedBytes": 878579,
     "rollingWindowHours": 72
   }
 }
