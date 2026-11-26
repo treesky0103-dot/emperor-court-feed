@@ -1,12 +1,26 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 26. 오후 01:58:12",
+  "updatedAt": "2026. 11. 26. 오후 11:56:01",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
     "humanities": {
       "items": [
+        {
+          "id": "https://www.mk.co.kr/news/business/12219297",
+          "title": "“청년농업인 육성”…동서발전, 당진 스마트팜 사관학교에 태양광 설비 기부",
+          "source": "mk.co.kr",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:17:21Z",
+          "publishedAt": "2026-11-26T14:17:21Z",
+          "summary": "",
+          "url": "https://www.mk.co.kr/news/business/12219297",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "economy"
+        },
         {
           "id": "https://www.etnews.com/20261125000296",
           "title": "[2027 사이버대 특집]화신사이버대, 2027학년도 신·편입생 모집…사회복지·상담심리·한국어교육 등 다양한 전공 운영",
@@ -36,20 +50,6 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/economy/12217305",
-          "title": "영호남에 통큰 투자, 청년 몰려갈 경제지대로",
-          "source": "mk.co.kr",
-          "language": "Korean",
-          "sourceCountry": "KR",
-          "date": "2026-11-24",
-          "dateRaw": "2026-11-24T17:17:24Z",
-          "publishedAt": "2026-11-24T17:17:24Z",
-          "summary": "",
-          "url": "https://www.mk.co.kr/news/economy/12217305",
-          "signalScopeHint": "domestic",
-          "signalFieldHint": "economy"
-        },
-        {
           "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723330",
           "title": "경기교육청, 내일 학교비정규직 파업 대비…급식·돌봄 지침",
           "source": "news.kbs.co.kr",
@@ -74,16 +74,16 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1289004.html"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233047",
-          "title": "경찰, '리트 만점자' 집·수능시험지 보관 학교 압수수색",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233135",
+          "title": "복지부, '만점자 폭증' 의사 국시에 \"부정행위 단정 어려워\"",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-26",
-          "dateRaw": "2026-11-26T02:29:00Z",
-          "publishedAt": "2026-11-26T02:29:00Z",
+          "dateRaw": "2026-11-26T08:30:00Z",
+          "publishedAt": "2026-11-26T08:30:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233047",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233135",
           "signalScopeHint": "domestic",
           "signalFieldHint": "humanities"
         },
@@ -143,7 +143,7 @@
         },
         {
           "word": "복지",
-          "count": 3
+          "count": 4
         },
         {
           "word": "청년",
@@ -161,18 +161,18 @@
     "economy": {
       "items": [
         {
-          "id": "https://www.etnews.com/20261125000454",
-          "title": "경기창조경제혁신센터, 정부혁신 박람회 참가…'모두의창업 경기' 성과·우수사례 소개",
+          "id": "https://www.etnews.com/20261126000561",
+          "title": "경기도의회 경제노동위, 내년 주요 민생사업 예산 34억원 증액 의결",
           "source": "etnews.com",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T06:42:18Z",
-          "publishedAt": "2026-11-25T06:42:18Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T11:51:24Z",
+          "publishedAt": "2026-11-26T11:51:24Z",
           "summary": "",
-          "url": "https://www.etnews.com/20261125000454",
+          "url": "https://www.etnews.com/20261126000561",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "technology"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://zdnet.co.kr/view/?no=20261126124550",
@@ -239,18 +239,18 @@
           "url": "https://biz.heraldcorp.com/article/10948099"
         },
         {
-          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233034",
-          "title": "[속보] 황건일·이수형 금통위원, 기준금리 동결 소수의견",
+          "id": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5233155",
+          "title": "'호남 반도체' 콕 집어 \"관세 25%\" 압박한 미국…K-반도체 '긴장'",
           "source": "mbn.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
           "date": "2026-11-26",
-          "dateRaw": "2026-11-26T01:40:00Z",
-          "publishedAt": "2026-11-26T01:40:00Z",
+          "dateRaw": "2026-11-26T09:01:00Z",
+          "publishedAt": "2026-11-26T09:01:00Z",
           "summary": "",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233034",
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5233155",
           "signalScopeHint": "domestic",
-          "signalFieldHint": "humanities"
+          "signalFieldHint": "economy"
         },
         {
           "id": "https://newsway.co.kr/news/view?ud=2026112607274321385",
@@ -292,7 +292,7 @@
       "keywords": [
         {
           "word": "금리",
-          "count": 3
+          "count": 2
         },
         {
           "word": "투자",
@@ -342,42 +342,30 @@
           "signalFieldHint": "technology"
         },
         {
-          "id": "https://www.mk.co.kr/news/business/12214745",
-          "title": "KAIST, 12월 3일 ‘피지컬 AI 로봇 스타트업 10팀’ 결선 열어",
+          "id": "https://www.mk.co.kr/news/business/12219795",
+          "title": "이상일 용인특례시장 “반도체 클러스터 고도화...첨단산업 도시 만들것”",
           "source": "mk.co.kr",
           "language": "Korean",
           "sourceCountry": "KR",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T09:00:00Z",
-          "publishedAt": "2026-11-23T09:00:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T22:50:04Z",
+          "publishedAt": "2026-11-26T22:50:04Z",
           "summary": "",
-          "url": "https://www.mk.co.kr/news/business/12214745",
+          "url": "https://www.mk.co.kr/news/business/12219795",
           "signalScopeHint": "domestic",
           "signalFieldHint": "economy"
         },
         {
-          "id": "https://www.huffingtonpost.kr:443/article/262313",
-          "title": "삼성화재 이문화 연임 무기는 인공지능? : 임기 4개월 앞두고 AI 데이터센터 보험 시장 선점 속도",
-          "source": "huffingtonpost.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
-          "summary": "",
-          "url": "https://www.huffingtonpost.kr:443/article/262313"
-        },
-        {
-          "id": "https://biz.heraldcorp.com/article/10946226",
-          "title": "“AI 호황? 이젠 공포다” 글로벌 반도체주 줄줄이 ‘반토막’ 곡소리…바닥 모를 추락[투자360]",
+          "id": "https://biz.heraldcorp.com/article/10950358",
+          "title": "롯데지주 “롯데바이오, 그룹 투자 결실 사례…성장 집중”",
           "source": "biz.heraldcorp.com",
           "language": "Korean",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T04:46:00Z",
+          "publishedAt": "2026-11-26T04:46:00Z",
           "summary": "",
-          "url": "https://biz.heraldcorp.com/article/10946226"
+          "url": "https://biz.heraldcorp.com/article/10950358"
         },
         {
           "id": "https://newsway.co.kr/news/view?ud=2026112607274321385",
@@ -418,18 +406,6 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723329"
         },
         {
-          "id": "https://news.mtn.co.kr/article/2026112315560421263",
-          "title": "\"AI 도입 넘어 직원이 직접 개발\"…기업 AX, 현장 중심으로",
-          "source": "news.mtn.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
-          "summary": "",
-          "url": "https://news.mtn.co.kr/article/2026112315560421263"
-        },
-        {
           "id": "http://inews24.com/view/2030468",
           "title": "딥엑스 \"엔비디아 로봇 SW 호환 시험 통과…인텔·AMD와 협력 확대\"",
           "source": "inews24.com",
@@ -440,23 +416,53 @@
           "publishedAt": "2026-11-25T13:47:00Z",
           "summary": "",
           "url": "http://inews24.com/view/2030468"
+        },
+        {
+          "id": "https://www.insight.co.kr/news/583480",
+          "title": "소방관보다 먼저 불길 속으로 들어가는 로봇... 현대차그룹, ‘시슐랭 스타 10선’ 선정",
+          "source": "insight.co.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-25",
+          "dateRaw": "2026-11-25T03:47:00Z",
+          "publishedAt": "2026-11-25T03:47:00Z",
+          "summary": "",
+          "url": "https://www.insight.co.kr/news/583480"
+        },
+        {
+          "id": "https://www.etnews.com/20261126000528",
+          "title": "아이에이클라우드, 'K-Perf' 기반 국산 AI 반도체 인프라 성능 검증",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T08:37:09Z",
+          "publishedAt": "2026-11-26T08:37:09Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261126000528",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "technology"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 9
+          "count": 5
         },
         {
           "word": "반도체",
-          "count": 4
+          "count": 5
         },
         {
           "word": "로봇",
           "count": 3
         },
         {
-          "word": "데이터센터",
+          "word": "바이오",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
           "count": 1
         }
       ],
@@ -468,18 +474,6 @@
   "global": {
     "humanities": {
       "items": [
-        {
-          "id": "http://www.bignewsnetwork.com/news/279450490/trendy-china-american-youth-amazed-by-3d-printing-at-suzhou-high-school",
-          "title": "Trendy China | American youth amazed by 3D printing at Suzhou high school",
-          "source": "bignewsnetwork.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
-          "summary": "",
-          "url": "http://www.bignewsnetwork.com/news/279450490/trendy-china-american-youth-amazed-by-3d-printing-at-suzhou-high-school"
-        },
         {
           "id": "https://www.wbrz.com/news/baton-rouge-southern-university-secured-2-38-million-for-science-and-engineering-research",
           "title": "Baton Rouge Southern University secured $2.38 million for science and engineering research",
@@ -553,16 +547,40 @@
           "url": "https://country1029wkik.com/local-news/e08a5fb28115f21edfab6d51faa5ae23"
         },
         {
-          "id": "https://indiaeducationdiary.in/90-of-indian-consumers-prefer-clinical-evidence-over-brand-storytelling-when-choosing-skincare-products-everq-1lattice-report/",
-          "title": "90% of Indian Consumers Prefer Clinical Evidence Over Brand Storytelling When Choosing Skincare Products: EVERQ-1Lattice Report - India Education | Latest Education News | Global Educational News | Recent Educational News",
-          "source": "indiaeducationdiary.in",
+          "id": "https://www.dailymail.com/mailonsunday/article-11766775/A-shrinking-economy-rising-immigration-killing-American-Dream-says-ERBIL-GUNASTI.html",
+          "title": "Rising immigration is killing the American Dream, says ERBIL GUNASTI",
+          "source": "dailymail.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
           "summary": "",
-          "url": "https://indiaeducationdiary.in/90-of-indian-consumers-prefer-clinical-evidence-over-brand-storytelling-when-choosing-skincare-products-everq-1lattice-report/"
+          "url": "https://www.dailymail.com/mailonsunday/article-11766775/A-shrinking-economy-rising-immigration-killing-American-Dream-says-ERBIL-GUNASTI.html"
+        },
+        {
+          "id": "https://www.jpost.com/israel-news/culture/article-916217",
+          "title": "Why American Students Should Consider Studying at an Israeli University | The Jerusalem Post",
+          "source": "jpost.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
+          "summary": "",
+          "url": "https://www.jpost.com/israel-news/culture/article-916217"
+        },
+        {
+          "id": "https://www.stcatharinesstandard.ca/opinion/contributors/stop-firing-health-care-workers-in-the-middle-of-a-health-care-crisis-it-s-just-common-sense/article_68e1316e-6ec7-579f-803c-b00eda6cb7a1.html",
+          "title": "Stop firing health care workers in the middle of a health care crisis — it’s just common sense",
+          "source": "stcatharinesstandard.ca",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
+          "summary": "",
+          "url": "https://www.stcatharinesstandard.ca/opinion/contributors/stop-firing-health-care-workers-in-the-middle-of-a-health-care-crisis-it-s-just-common-sense/article_68e1316e-6ec7-579f-803c-b00eda6cb7a1.html"
         },
         {
           "id": "https://asianews.network/rohingya-refugees-in-malaysia-seek-more-time-after-landmark-genocide-ruling-against-myanmar/",
@@ -575,36 +593,16 @@
           "publishedAt": "2026-11-26T04:47:00Z",
           "summary": "",
           "url": "https://asianews.network/rohingya-refugees-in-malaysia-seek-more-time-after-landmark-genocide-ruling-against-myanmar/"
-        },
-        {
-          "id": "https://www.news-medical.net/news/20261125/Cellular-brake-on-myelin-growth-offers-insights-into-mental-health-conditions.aspx",
-          "title": "Cellular brake on myelin growth offers insights into mental health conditions",
-          "source": "news-medical.net",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-26",
-          "dateRaw": "2026-11-26T04:46:00Z",
-          "publishedAt": "2026-11-26T04:46:00Z",
-          "summary": "",
-          "url": "https://www.news-medical.net/news/20261125/Cellular-brake-on-myelin-growth-offers-insights-into-mental-health-conditions.aspx"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 7
+          "count": 5
         },
         {
           "word": "이민",
-          "count": 1
-        },
-        {
-          "word": "정신건강",
-          "count": 1
-        },
-        {
-          "word": "청년",
-          "count": 1
+          "count": 2
         }
       ],
       "displayed": 10,
@@ -686,6 +684,18 @@
           "url": "https://www.businesstimes.com.sg/international/global/us-proposes-new-tariffs-14-trading-partners-including-singapore"
         },
         {
+          "id": "https://www.wgbh.org/news/local/2026-11-26/mass-retailers-bank-on-growth-this-holiday-season-despite-uncertain-economy",
+          "title": "Mass. retailers bank on growth this holiday season despite uncertain economy",
+          "source": "wgbh.org",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
+          "summary": "",
+          "url": "https://www.wgbh.org/news/local/2026-11-26/mass-retailers-bank-on-growth-this-holiday-season-despite-uncertain-economy"
+        },
+        {
           "id": "https://www.asiaone.com/money/world-stocks-tumble-trump-tariffs-rattle-markets-ai-rally-fades",
           "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
           "source": "asiaone.com",
@@ -720,18 +730,6 @@
           "publishedAt": "2026-11-25T13:47:00Z",
           "summary": "",
           "url": "https://www.moneycontrol.com/news/business/banks/rbi-bulletin-says-net-fdi-turns-negative-at-4-95-billion-in-september-as-repatriation-and-overseas-investments-rise-14089006.html"
-        },
-        {
-          "id": "https://247wallst.com/investing/2026/11/25/liberation-day-round-2-0-the-next-wave-of-trump-tariffs-is-reportedly-close/",
-          "title": "Liberation Day Round 2.0? The Next Wave of Trump Tariffs Is Reportedly Close",
-          "source": "247wallst.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T13:47:00Z",
-          "publishedAt": "2026-11-25T13:47:00Z",
-          "summary": "",
-          "url": "https://247wallst.com/investing/2026/11/25/liberation-day-round-2-0-the-next-wave-of-trump-tariffs-is-reportedly-close/"
         }
       ],
       "keywords": [
@@ -741,6 +739,10 @@
         },
         {
           "word": "관세",
+          "count": 1
+        },
+        {
+          "word": "성장",
           "count": 1
         },
         {
@@ -755,16 +757,40 @@
     "technology": {
       "items": [
         {
-          "id": "https://www.thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece",
-          "title": "SpaceX allowed to deploy 1 million satellites for data centres in space, as scientists express doubt",
+          "id": "https://www.thehindu.com/business/Industry/c-dac-targets-indigenous-32000-core-gpu-by-mid-2028-seeks-private-partners-to-put-pressure-on-rival-chip-prices/article71746677.ece",
+          "title": "C-DAC targets indigenous 32,000-core GPU by mid-2028, seeks private partners; to put pressure on rival chip prices",
           "source": "thehindu.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-26",
-          "dateRaw": "2026-11-26T04:46:00Z",
-          "publishedAt": "2026-11-26T04:46:00Z",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
           "summary": "",
-          "url": "https://www.thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece"
+          "url": "https://www.thehindu.com/business/Industry/c-dac-targets-indigenous-32000-core-gpu-by-mid-2028-seeks-private-partners-to-put-pressure-on-rival-chip-prices/article71746677.ece"
+        },
+        {
+          "id": "http://www.orlandoecho.com/news/279455376/concierto-ai-is-now-live-sovereign-ai-for-every-employee-inside-the-enterprise-own-cloud-or-data-center",
+          "title": "Concierto AI Is Now Live: Sovereign AI for Every Employee, Inside the Enterprise's Own Cloud or Data Center",
+          "source": "orlandoecho.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
+          "summary": "",
+          "url": "http://www.orlandoecho.com/news/279455376/concierto-ai-is-now-live-sovereign-ai-for-every-employee-inside-the-enterprise-own-cloud-or-data-center"
+        },
+        {
+          "id": "https://www.orissapost.com/chinas-spy-agency-made-advanced-ai-chips-priority-ran-campaign-to-acquire-them-report/",
+          "title": "China's spy agency made advanced AI chips priority, ran campaign to acquire them: Report - OrissaPOST",
+          "source": "orissapost.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
+          "summary": "",
+          "url": "https://www.orissapost.com/chinas-spy-agency-made-advanced-ai-chips-priority-ran-campaign-to-acquire-them-report/"
         },
         {
           "id": "https://www.businessworld.in/article/royal-enfield-lines-up-rs-1-000-cr-investment-for-ev-manufacturing-push-635200",
@@ -827,58 +853,38 @@
           "url": "https://news4sanantonio.com/news/local/ut-health-san-antonio-expands-ai-cancer-detection-research-with-major-recruitment-award"
         },
         {
-          "id": "https://www.equitybulls.com/news/379465/intellect-s-emach-ai-retail-6dx-recognized-representative",
-          "title": "Intellect’s eMACH.ai Retail 6DX Recognized as a Representative Vendor in the 2026 Gartner® Market Overview for Unified Commerce POS Platforms for Apparel, Specialty and Luxury Retail",
-          "source": "equitybulls.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
-          "summary": "",
-          "url": "https://www.equitybulls.com/news/379465/intellect-s-emach-ai-retail-6dx-recognized-representative"
-        },
-        {
-          "id": "https://portfolio-adviser.com/kpmg-71-of-ceos-expected-return-on-ai-investment-within-three-years/",
-          "title": "KPMG: 71% of CEOs expect return on AI investment within three years | Portfolio Adviser",
-          "source": "portfolio-adviser.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
-          "summary": "",
-          "url": "https://portfolio-adviser.com/kpmg-71-of-ceos-expected-return-on-ai-investment-within-three-years/"
-        },
-        {
-          "id": "https://www.huffingtonpost.kr:443/article/262312",
-          "title": "[허프 사람&말] 베센트 미국 재무장관 엔비디아 '하위 직급' 책임까지 거론 : 반도체 중국 판매 관련 규정 위반 조사 압박",
-          "source": "huffingtonpost.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-23",
-          "dateRaw": "2026-11-23T12:47:00Z",
-          "publishedAt": "2026-11-23T12:47:00Z",
-          "summary": "",
-          "url": "https://www.huffingtonpost.kr:443/article/262312"
-        },
-        {
-          "id": "https://asianews.network/data-centres-to-drive-20-7-of-asean-power-demand-growth-to-2030/",
-          "title": "Data centres to drive 20.7% of ASEAN power demand growth to 2030",
-          "source": "asianews.network",
+          "id": "https://www.indiablooms.com/finance/he-quit-openai-to-build-his-own-ai-startup-now-23-year-old-yash-patil-lands-a-45-billion-deal/details",
+          "title": "He quit OpenAI to build his own AI startup. Now, 23-year-old Yash Patil lands a $4.5 billion deal | Indiablooms - First Portal on Digital News Management",
+          "source": "indiablooms.com",
           "language": "English",
           "sourceCountry": "",
           "date": "2026-11-26",
-          "dateRaw": "2026-11-26T04:47:00Z",
-          "publishedAt": "2026-11-26T04:47:00Z",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
           "summary": "",
-          "url": "https://asianews.network/data-centres-to-drive-20-7-of-asean-power-demand-growth-to-2030/"
+          "url": "https://www.indiablooms.com/finance/he-quit-openai-to-build-his-own-ai-startup-now-23-year-old-yash-patil-lands-a-45-billion-deal/details"
+        },
+        {
+          "id": "https://www.braintreeandwithamtimes.co.uk/news/26764699.much-loved-essex-caf-finally-back-open-six-years/",
+          "title": "Essex café loved for homemade chips reopens after six years",
+          "source": "braintreeandwithamtimes.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T14:47:00Z",
+          "publishedAt": "2026-11-26T14:47:00Z",
+          "summary": "",
+          "url": "https://www.braintreeandwithamtimes.co.uk/news/26764699.much-loved-essex-caf-finally-back-open-six-years/"
         }
       ],
       "keywords": [
         {
           "word": "AI",
-          "count": 3
+          "count": 5
+        },
+        {
+          "word": "GPU",
+          "count": 2
         },
         {
           "word": "반도체",
@@ -887,6 +893,14 @@
         {
           "word": "제조",
           "count": 2
+        },
+        {
+          "word": "데이터센터",
+          "count": 1
+        },
+        {
+          "word": "클라우드",
+          "count": 1
         }
       ],
       "displayed": 10,
@@ -896,9 +910,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1029,
-    "fetchedItems": 3283,
-    "feedBytes": 878579,
+    "poolSize": 1063,
+    "fetchedItems": 6124,
+    "feedBytes": 1773216,
     "rollingWindowHours": 72
   }
 }
