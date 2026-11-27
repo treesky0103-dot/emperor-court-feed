@@ -2,19 +2,19 @@
   "ok": true,
   "category": "management",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 28. 오전 12:22:05",
+  "updatedAt": "2026. 11. 28. 오전 08:38:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 217,
-    "passed": 8,
-    "deduped": 8,
-    "eventDeduped": 8,
-    "displayed": 8,
+    "raw": 209,
+    "passed": 12,
+    "deduped": 12,
+    "eventDeduped": 12,
+    "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
-    "targetMet": false
+    "targetMet": true
   },
   "items": [
     {
@@ -64,6 +64,30 @@
       "publishedAt": "2026-11-27T15:17:00Z",
       "summary": "",
       "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317"
+    },
+    {
+      "id": "https://newsway.co.kr/news/view?ud=2026112711515369465",
+      "title": "AI 서비스 늘리는 증권사···투자정보 넘어 업무 효율화까지 - 뉴스웨이",
+      "source": "newsway.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:31:00Z",
+      "publishedAt": "2026-11-27T23:31:00Z",
+      "summary": "",
+      "url": "https://newsway.co.kr/news/view?ud=2026112711515369465"
+    },
+    {
+      "id": "https://www.webwire.com/ViewPressRel.asp?aId=364817",
+      "title": "Jose Daniel Duarte Camacho Warns Autonomous AI Is Outpacing Corporate Oversight as Nearly Half of Enterprises Report Unexpected Agent Actions",
+      "source": "webwire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:32:00Z",
+      "publishedAt": "2026-11-27T23:32:00Z",
+      "summary": "",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=364817"
     },
     {
       "id": "https://www.businessday.co.za/business-times/money/2026-11-27-explainer-black-friday-test-as-tight-budgets-meet-ai-savvy-shoppers/",
@@ -164,6 +188,42 @@
       "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317"
     },
     {
+      "id": "https://newsway.co.kr/news/view?ud=2026112711515369465",
+      "title": "AI 서비스 늘리는 증권사···투자정보 넘어 업무 효율화까지 - 뉴스웨이",
+      "source": "newsway.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:31:00Z",
+      "publishedAt": "2026-11-27T23:31:00Z",
+      "summary": "",
+      "url": "https://newsway.co.kr/news/view?ud=2026112711515369465"
+    },
+    {
+      "id": "https://www.newsway.co.kr/news/view?ud=2026112710375210626",
+      "title": "소비자는 편한데, 기업은 난색···'AI 에이전트'에 빗장거는 이유 - 뉴스웨이",
+      "source": "newsway.co.kr",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:31:00Z",
+      "publishedAt": "2026-11-27T23:31:00Z",
+      "summary": "",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112710375210626"
+    },
+    {
+      "id": "https://www.webwire.com/ViewPressRel.asp?aId=364817",
+      "title": "Jose Daniel Duarte Camacho Warns Autonomous AI Is Outpacing Corporate Oversight as Nearly Half of Enterprises Report Unexpected Agent Actions",
+      "source": "webwire.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:32:00Z",
+      "publishedAt": "2026-11-27T23:32:00Z",
+      "summary": "",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=364817"
+    },
+    {
       "id": "https://www.businessday.co.za/business-times/money/2026-11-27-explainer-black-friday-test-as-tight-budgets-meet-ai-savvy-shoppers/",
       "title": "EXPLAINER | Black Friday test as tight budgets meet AI-savvy shoppers",
       "source": "businessday.co.za",
@@ -210,15 +270,27 @@
       "publishedAt": "2026-11-27T05:16:00Z",
       "summary": "",
       "url": "https://theherald.co.za/news/2026-11-27-aa-sounds-alarm-on-automotive-job-losses-in-gqeberha/"
+    },
+    {
+      "id": "https://www.hcamag.com/us/specialization/leadership/ai-transformation-isnt-hrs-job-alone-heres-why/599157",
+      "title": "AI transformation isn't HR's job alone. Here's why",
+      "source": "hcamag.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:31:00Z",
+      "publishedAt": "2026-11-27T23:31:00Z",
+      "summary": "",
+      "url": "https://www.hcamag.com/us/specialization/leadership/ai-transformation-isnt-hrs-job-alone-heres-why/599157"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 217,
-    "fetchedItems": 5578,
-    "relevantItems": 84,
-    "feedBytes": 1590364,
+    "poolSize": 209,
+    "fetchedItems": 3236,
+    "relevantItems": 71,
+    "feedBytes": 866906,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }

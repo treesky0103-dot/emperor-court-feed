@@ -2,33 +2,21 @@
   "ok": true,
   "category": "global",
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 28. 오전 12:22:05",
+  "updatedAt": "2026. 11. 28. 오전 08:38:26",
   "stale": false,
   "cache": "GITHUB-ACTIONS",
   "quality": {
     "policy": "STRICT KO-EN + RSS NOISE GATE + STRATEGIC GATE + SOURCE QUALITY + DEDUPE + DISPLAY DIVERSITY",
-    "raw": 217,
-    "passed": 27,
-    "deduped": 27,
-    "eventDeduped": 27,
+    "raw": 209,
+    "passed": 23,
+    "deduped": 23,
+    "eventDeduped": 23,
     "displayed": 10,
     "displayTarget": 10,
     "floorAdded": 0,
     "targetMet": true
   },
   "items": [
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01315286645649984&mediaCodeNo=257",
-      "title": "트럼프 과잉생산 관세, 위협 약해졌다…변수는 민주당 의회",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01315286645649984&mediaCodeNo=257"
-    },
     {
       "id": "https://economictimes.indiatimes.com/tech/technology/dutch-pm-to-discuss-us-match-act-chipmaking-export-controls-with-trump-at-g20/articleshow/136225240.cms",
       "title": "Dutch PM to discuss US MATCH Act chipmaking export controls with Trump at G20 - The Economic Times",
@@ -54,6 +42,18 @@
       "url": "https://timesofoman.com/article/179644-india-to-cross-1-trillion-export-mark-by-march-2027-despite-proposed-25-us-tariff-assocham-secretary-general"
     },
     {
+      "id": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html",
+      "title": "India-US trade deal close to completion: Goyal amid fresh tariff threat",
+      "source": "business-standard.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T05:17:00Z",
+      "publishedAt": "2026-11-27T05:17:00Z",
+      "summary": "",
+      "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html"
+    },
+    {
       "id": "https://www.newspim.com/news/view/20261127000849",
       "title": "韓 장기금리, 美·G7보다 더 뛰었다…예정처 \"국채 수급 부담 지속\"",
       "source": "newspim.com",
@@ -64,6 +64,18 @@
       "publishedAt": "2026-11-27T05:17:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261127000849"
+    },
+    {
+      "id": "https://www.fox13news.com/news/roughly-1-trillion-holiday-shopping-returns-impacts-shoppers-tampa-bay-supply-chain",
+      "title": "Roughly $1 trillion in holiday shopping returns impacts shoppers, Tampa Bay supply chain",
+      "source": "fox13news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:32:00Z",
+      "publishedAt": "2026-11-27T23:32:00Z",
+      "summary": "",
+      "url": "https://www.fox13news.com/news/roughly-1-trillion-holiday-shopping-returns-impacts-shoppers-tampa-bay-supply-chain"
     },
     {
       "id": "http://www.russiaherald.com/news/279467018/rbi-deputy-governor-urges-banks-to-expedite-msme-credit-sanctions-at-kolkata-meeting",
@@ -102,28 +114,16 @@
       "url": "https://www.bankofcanada.ca/2026/11/setting-the-scenario-monetary-policy-communications-in-uncertain-times/"
     },
     {
-      "id": "http://www.myanmarnews.net/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president",
-      "title": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-      "source": "myanmarnews.net",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
-      "summary": "",
-      "url": "http://www.myanmarnews.net/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president"
-    },
-    {
-      "id": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html",
-      "title": "India-US trade deal close to completion: Goyal amid fresh tariff threat",
-      "source": "business-standard.com",
+      "id": "https://allafrica.com/stories/202611270051.html",
+      "title": "Zimbabwe Plans $1.3 Billion Cargo Hub to Boost Exports, Regional Trade",
+      "source": "allafrica.com",
       "language": "English",
       "sourceCountry": "",
       "date": "2026-11-27",
       "dateRaw": "2026-11-27T05:17:00Z",
       "publishedAt": "2026-11-27T05:17:00Z",
       "summary": "",
-      "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html"
+      "url": "https://allafrica.com/stories/202611270051.html"
     },
     {
       "id": "https://timesca.com/sibur-sanctions-test-kazakhstans-petrochemical-ambitions/",
@@ -139,18 +139,6 @@
     }
   ],
   "trendItems": [
-    {
-      "id": "https://www.edaily.co.kr/News/Read?newsId=01315286645649984&mediaCodeNo=257",
-      "title": "트럼프 과잉생산 관세, 위협 약해졌다…변수는 민주당 의회",
-      "source": "edaily.co.kr",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
-      "summary": "",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01315286645649984&mediaCodeNo=257"
-    },
     {
       "id": "https://economictimes.indiatimes.com/tech/technology/dutch-pm-to-discuss-us-match-act-chipmaking-export-controls-with-trump-at-g20/articleshow/136225240.cms",
       "title": "Dutch PM to discuss US MATCH Act chipmaking export controls with Trump at G20 - The Economic Times",
@@ -222,6 +210,30 @@
       "publishedAt": "2026-11-27T05:17:00Z",
       "summary": "",
       "url": "https://www.newspim.com/news/view/20261127000849"
+    },
+    {
+      "id": "https://www.radioseoul1650.com/archives/163842",
+      "title": "미국 주요 언론들 \"물가 뛰는데 트럼프 관세 인상은 경제적 자해\"",
+      "source": "radioseoul1650.com",
+      "language": "Korean",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T05:17:00Z",
+      "publishedAt": "2026-11-27T05:17:00Z",
+      "summary": "",
+      "url": "https://www.radioseoul1650.com/archives/163842"
+    },
+    {
+      "id": "https://www.fox13news.com/news/roughly-1-trillion-holiday-shopping-returns-impacts-shoppers-tampa-bay-supply-chain",
+      "title": "Roughly $1 trillion in holiday shopping returns impacts shoppers, Tampa Bay supply chain",
+      "source": "fox13news.com",
+      "language": "English",
+      "sourceCountry": "",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:32:00Z",
+      "publishedAt": "2026-11-27T23:32:00Z",
+      "summary": "",
+      "url": "https://www.fox13news.com/news/roughly-1-trillion-holiday-shopping-returns-impacts-shoppers-tampa-bay-supply-chain"
     },
     {
       "id": "http://www.russiaherald.com/news/279467018/rbi-deputy-governor-urges-banks-to-expedite-msme-credit-sanctions-at-kolkata-meeting",
@@ -320,28 +332,16 @@
       "url": "https://dailypioneer.com/world/argentina-central-bank-money-printing-ban-milei"
     },
     {
-      "id": "http://www.myanmarnews.net/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president",
-      "title": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-      "source": "myanmarnews.net",
-      "language": "English",
+      "id": "https://www.newspim.com/news/view/20261127000495",
+      "title": "첫 수주 앞둔 LG전자 '로봇 관절'…美 관세 '최대 25%' 변수",
+      "source": "newspim.com",
+      "language": "Korean",
       "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T05:17:00Z",
+      "publishedAt": "2026-11-27T05:17:00Z",
       "summary": "",
-      "url": "http://www.myanmarnews.net/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president"
-    },
-    {
-      "id": "https://wpde.com/news/nation-world/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan",
-      "title": "New trade war could be brewing following tariff proposal",
-      "source": "wpde.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
-      "summary": "",
-      "url": "https://wpde.com/news/nation-world/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan"
+      "url": "https://www.newspim.com/news/view/20261127000495"
     },
     {
       "id": "http://www.thegazette.com/news/world/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china/article_1beadaaf-9501-540b-8932-c8d89d14e5b6.html",
@@ -356,40 +356,28 @@
       "url": "http://www.thegazette.com/news/world/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china/article_1beadaaf-9501-540b-8932-c8d89d14e5b6.html"
     },
     {
-      "id": "https://www.gx94radio.com/2026/11/26/podcast-saskatchewan-exports-hold-strong-as-canada-u-s-trade-tensions-persist/",
-      "title": "PODCAST: Saskatchewan exports hold strong as Canada-U.S. trade tensions persist",
-      "source": "gx94radio.com",
+      "id": "https://www.abc15.com/news/local-news/small-business-owners-feel-the-squeeze-as-trump-proposes-new-round-of-tariffs",
+      "title": "Small business owners feel the squeeze as Trump proposes new round of tariffs",
+      "source": "abc15.com",
       "language": "English",
       "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
+      "date": "2026-11-27",
+      "dateRaw": "2026-11-27T23:32:00Z",
+      "publishedAt": "2026-11-27T23:32:00Z",
       "summary": "",
-      "url": "https://www.gx94radio.com/2026/11/26/podcast-saskatchewan-exports-hold-strong-as-canada-u-s-trade-tensions-persist/"
+      "url": "https://www.abc15.com/news/local-news/small-business-owners-feel-the-squeeze-as-trump-proposes-new-round-of-tariffs"
     },
     {
-      "id": "https://www.radioseoul1650.com/archives/163842",
-      "title": "미국 주요 언론들 \"물가 뛰는데 트럼프 관세 인상은 경제적 자해\"",
-      "source": "radioseoul1650.com",
-      "language": "Korean",
+      "id": "https://www.lockportjournal.com/news/local_news/hochul-announces-23m-in-tariff-relief-for-farmers-2-2m-coming-to-wny/article_2b7bcca9-daf9-5b48-a930-6d9b06157181.html",
+      "title": "Hochul announces $23M in tariff relief for farmers; $2.2M coming to WNY",
+      "source": "lockportjournal.com",
+      "language": "English",
       "sourceCountry": "",
       "date": "2026-11-27",
-      "dateRaw": "2026-11-27T05:17:00Z",
-      "publishedAt": "2026-11-27T05:17:00Z",
+      "dateRaw": "2026-11-27T23:31:00Z",
+      "publishedAt": "2026-11-27T23:31:00Z",
       "summary": "",
-      "url": "https://www.radioseoul1650.com/archives/163842"
-    },
-    {
-      "id": "https://www.newspim.com/news/view/20261127000495",
-      "title": "첫 수주 앞둔 LG전자 '로봇 관절'…美 관세 '최대 25%' 변수",
-      "source": "newspim.com",
-      "language": "Korean",
-      "sourceCountry": "",
-      "date": "2026-11-27",
-      "dateRaw": "2026-11-27T05:17:00Z",
-      "publishedAt": "2026-11-27T05:17:00Z",
-      "summary": "",
-      "url": "https://www.newspim.com/news/view/20261127000495"
+      "url": "https://www.lockportjournal.com/news/local_news/hochul-announces-23m-in-tariff-relief-for-farmers-2-2m-coming-to-wny/article_2b7bcca9-daf9-5b48-a930-6d9b06157181.html"
     },
     {
       "id": "https://wlec.com/uncategorized/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans/",
@@ -426,51 +414,15 @@
       "publishedAt": "2026-11-27T05:16:00Z",
       "summary": "",
       "url": "https://www.hindustantimes.com/india-news/india-us-trade-deal-that-was-held-back-now-close-to-culmination-piyush-goyal-101795755255538.html"
-    },
-    {
-      "id": "https://www.tribstar.com/region/ap-sources-u-s-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized/article_5234a395-75ce-52ab-9fc3-0ed68c975775.html",
-      "title": "AP sources: U.S. ready to slap tariffs on China, EU and others over subsidized production",
-      "source": "tribstar.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:17:00Z",
-      "publishedAt": "2026-11-26T23:17:00Z",
-      "summary": "",
-      "url": "https://www.tribstar.com/region/ap-sources-u-s-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized/article_5234a395-75ce-52ab-9fc3-0ed68c975775.html"
-    },
-    {
-      "id": "https://americanbazaaronline.com/2026/11/26/us-tariffs-india-manufacturing-policies-gtri-493197/",
-      "title": "US tariff proposal puts India's manufacturing policies under scrutiny",
-      "source": "americanbazaaronline.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
-      "summary": "",
-      "url": "https://americanbazaaronline.com/2026/11/26/us-tariffs-india-manufacturing-policies-gtri-493197/"
-    },
-    {
-      "id": "https://www.wctrib.com/news/north-dakota/sen-hoeven-touts-new-sugar-tariff-to-push-back-on-1-8b-loss-for-the-domestic-sugar-industry-last-year",
-      "title": "Sen. Hoeven touts new sugar tariff to push back on $1.8B loss for the domestic sugar industry last year",
-      "source": "wctrib.com",
-      "language": "English",
-      "sourceCountry": "",
-      "date": "2026-11-26",
-      "dateRaw": "2026-11-26T23:16:00Z",
-      "publishedAt": "2026-11-26T23:16:00Z",
-      "summary": "",
-      "url": "https://www.wctrib.com/news/north-dakota/sen-hoeven-touts-new-sugar-tariff-to-push-back-on-1-8b-loss-for-the-domestic-sugar-industry-last-year"
     }
   ],
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
     "mode": "RSS-FETCHED-GITHUB-ACTIONS",
-    "poolSize": 217,
-    "fetchedItems": 5578,
-    "relevantItems": 84,
-    "feedBytes": 1590364,
+    "poolSize": 209,
+    "fetchedItems": 3236,
+    "relevantItems": 71,
+    "feedBytes": 866906,
     "rollingWindowHours": 24,
     "displayTarget": 10
   }
