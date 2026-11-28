@@ -1,7 +1,7 @@
 {
   "ok": true,
   "provider": "GDELT-RSS-GITHUB-ACTIONS",
-  "updatedAt": "2026. 11. 28. 오전 08:38:28",
+  "updatedAt": "2026. 11. 28. 오후 01:57:47",
   "stale": false,
   "scopePolicy": "KOREAN DOMESTIC HEURISTIC + GLOBAL ENGLISH/FOREIGN-SCOPE + FIELD QUALITY + DEDUPE + DOMAIN DIVERSITY",
   "domestic": {
@@ -74,18 +74,6 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723330"
         },
         {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1289004.html",
-          "title": "공정위, 씨제이프레시웨이 심의 착수…“식자재 납품하려 복지시설에 기부·상품권”",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T03:46:00Z",
-          "publishedAt": "2026-11-25T03:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1289004.html"
-        },
-        {
           "id": "https://www.newspim.com/news/view/20261127000881",
           "title": "마크웍스, 대학·연구기관용 특허 AI 서비스 'Patentworks for Research' 출시",
           "source": "newspim.com",
@@ -134,12 +122,26 @@
           "publishedAt": "2026-11-27T05:17:00Z",
           "summary": "",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003289048&PAGE_CD=N0002&CMPT_CD=M0112"
+        },
+        {
+          "id": "https://www.etnews.com/20261126000105",
+          "title": "한국대학홍보협의회, AI 시대 대학 브랜딩·홍보 혁신 전략 모색",
+          "source": "etnews.com",
+          "language": "Korean",
+          "sourceCountry": "KR",
+          "date": "2026-11-26",
+          "dateRaw": "2026-11-26T00:45:59Z",
+          "publishedAt": "2026-11-26T00:45:59Z",
+          "summary": "",
+          "url": "https://www.etnews.com/20261126000105",
+          "signalScopeHint": "domestic",
+          "signalFieldHint": "humanities"
         }
       ],
       "keywords": [
         {
           "word": "교육",
-          "count": 8
+          "count": 10
         },
         {
           "word": "청년",
@@ -148,10 +150,6 @@
         {
           "word": "돌봄",
           "count": 2
-        },
-        {
-          "word": "복지",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -201,18 +199,6 @@
           "url": "https://zdnet.co.kr/view/?no=20261127185210",
           "signalScopeHint": "domestic",
           "signalFieldHint": "technology"
-        },
-        {
-          "id": "https://www.hani.co.kr/arti/economy/economy_general/1289003.html",
-          "title": "10월 주택담보대출 금리 5% 근접…14년7개월 만에 최고",
-          "source": "hani.co.kr",
-          "language": "Korean",
-          "sourceCountry": "",
-          "date": "2026-11-25",
-          "dateRaw": "2026-11-25T03:46:00Z",
-          "publishedAt": "2026-11-25T03:46:00Z",
-          "summary": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1289003.html"
         },
         {
           "id": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723329",
@@ -287,6 +273,18 @@
           "publishedAt": "2026-11-27T23:31:00Z",
           "summary": "",
           "url": "https://www.xportsnews.com/article/2223807"
+        },
+        {
+          "id": "https://www.huffingtonpost.kr:443/article/262468",
+          "title": "[허프 트렌드] 챗봇과 대화만 하면 설득 당하는 소비자들 : 'AI 구매대행' 확산 속도가 생각보다 빠르다",
+          "source": "huffingtonpost.kr",
+          "language": "Korean",
+          "sourceCountry": "",
+          "date": "2026-11-27",
+          "dateRaw": "2026-11-27T05:17:00Z",
+          "publishedAt": "2026-11-27T05:17:00Z",
+          "summary": "",
+          "url": "https://www.huffingtonpost.kr:443/article/262468"
         }
       ],
       "keywords": [
@@ -295,7 +293,7 @@
           "count": 4
         },
         {
-          "word": "금리",
+          "word": "소비",
           "count": 2
         },
         {
@@ -303,11 +301,11 @@
           "count": 1
         },
         {
-          "word": "물가",
+          "word": "금리",
           "count": 1
         },
         {
-          "word": "소비",
+          "word": "물가",
           "count": 1
         },
         {
@@ -489,6 +487,18 @@
     "humanities": {
       "items": [
         {
+          "id": "https://www.thetelegraphandargus.co.uk/news/26769602.bradford-spends-twice-much-welfare-raises-tax/",
+          "title": "Bradford gets more than twice as much in welfare as workers pay in tax, report claims",
+          "source": "thetelegraphandargus.co.uk",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-28",
+          "dateRaw": "2026-11-28T04:46:00Z",
+          "publishedAt": "2026-11-28T04:46:00Z",
+          "summary": "",
+          "url": "https://www.thetelegraphandargus.co.uk/news/26769602.bradford-spends-twice-much-welfare-raises-tax/"
+        },
+        {
           "id": "https://www.shetlandtimes.co.uk/news/discipline-starts-in-the-home-says-councillor-after-educa-451216/",
           "title": "‘Discipline starts in the home,’ says councillor after education report outlines level of aggressive behaviour in schools",
           "source": "shetlandtimes.co.uk",
@@ -537,6 +547,18 @@
           "url": "https://www.christianpost.com/news/christian-leader-urges-lawmakers-to-pressure-trump-on-refugees.html"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/surat/immigration-firm-told-to-pay-1-58l-to-man-over-fake-canadian-job-offer/articleshow/136230878.cms",
+          "title": "Immigration firm told to pay ₹1.58L to man over fake Canadian job offer",
+          "source": "timesofindia.indiatimes.com",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-28",
+          "dateRaw": "2026-11-28T04:46:00Z",
+          "publishedAt": "2026-11-28T04:46:00Z",
+          "summary": "",
+          "url": "https://timesofindia.indiatimes.com/city/surat/immigration-firm-told-to-pay-1-58l-to-man-over-fake-canadian-job-offer/articleshow/136230878.cms"
+        },
+        {
           "id": "https://www.madinamerica.com/2026/11/housing-insecurity-across-the-lifespan-linked-to-depression-and-poor-mental-health/",
           "title": "Housing Insecurity Across the Lifespan Linked to Depression and Poor Mental Health",
           "source": "madinamerica.com",
@@ -583,30 +605,6 @@
           "publishedAt": "2026-11-27T05:16:00Z",
           "summary": "",
           "url": "https://abc13.com/post/person-shot-deputy-aspenglenn-drive-northwest-harris-county-thanksgiving-night-hcso-says/20088113/"
-        },
-        {
-          "id": "https://www.digbycourier.ca/cities-are-struggling-to-prepare-for-the-flood-of-immigrants-following-the-immigration-transition/",
-          "title": "Cities are struggling to prepare for the flood of immigrants following the immigration transition",
-          "source": "digbycourier.ca",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-26",
-          "dateRaw": "2026-11-26T23:16:00Z",
-          "publishedAt": "2026-11-26T23:16:00Z",
-          "summary": "",
-          "url": "https://www.digbycourier.ca/cities-are-struggling-to-prepare-for-the-flood-of-immigrants-following-the-immigration-transition/"
-        },
-        {
-          "id": "https://www.bluemountainsgazette.com.au/story/9398978/could-travel-slow-ageing-what-australian-research-suggests/",
-          "title": "Scientists say travel may slow ageing: this couple put it to the test",
-          "source": "bluemountainsgazette.com.au",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-26",
-          "dateRaw": "2026-11-26T23:16:00Z",
-          "publishedAt": "2026-11-26T23:16:00Z",
-          "summary": "",
-          "url": "https://www.bluemountainsgazette.com.au/story/9398978/could-travel-slow-ageing-what-australian-research-suggests/"
         }
       ],
       "keywords": [
@@ -621,10 +619,6 @@
         {
           "word": "이민",
           "count": 2
-        },
-        {
-          "word": "고령화",
-          "count": 1
         }
       ],
       "displayed": 10,
@@ -634,16 +628,28 @@
     "economy": {
       "items": [
         {
-          "id": "https://economictimes.indiatimes.com/tech/technology/dutch-pm-to-discuss-us-match-act-chipmaking-export-controls-with-trump-at-g20/articleshow/136225240.cms",
-          "title": "Dutch PM to discuss US MATCH Act chipmaking export controls with Trump at G20 - The Economic Times",
+          "id": "https://economictimes.indiatimes.com/wealth/invest/epfos-exempted-pf-trust-investment-rules-changed-check-allocation-limits-for-g-sec-debt-equity-and-other-investments/articleshow/136223850.cms",
+          "title": "EPFO’s exempted PF trust investment rules changed: Check allocation limits for G-Sec, debt, equity and other investments - The Economic Times",
           "source": "economictimes.indiatimes.com",
           "language": "English",
           "sourceCountry": "",
-          "date": "2026-11-27",
-          "dateRaw": "2026-11-27T15:17:00Z",
-          "publishedAt": "2026-11-27T15:17:00Z",
+          "date": "2026-11-28",
+          "dateRaw": "2026-11-28T04:46:00Z",
+          "publishedAt": "2026-11-28T04:46:00Z",
           "summary": "",
-          "url": "https://economictimes.indiatimes.com/tech/technology/dutch-pm-to-discuss-us-match-act-chipmaking-export-controls-with-trump-at-g20/articleshow/136225240.cms"
+          "url": "https://economictimes.indiatimes.com/wealth/invest/epfos-exempted-pf-trust-investment-rules-changed-check-allocation-limits-for-g-sec-debt-equity-and-other-investments/articleshow/136223850.cms"
+        },
+        {
+          "id": "https://aninews.in/news/world/us/high-commissioner-dinesh-patnaik-participates-in-canada-india-investment-forum-calls-for-stronger-economic-ties20261128083600/",
+          "title": "High Commissioner Dinesh Patnaik participates in Canada-India Investment Forum, calls for stronger economic ties",
+          "source": "aninews.in",
+          "language": "English",
+          "sourceCountry": "",
+          "date": "2026-11-28",
+          "dateRaw": "2026-11-28T04:46:00Z",
+          "publishedAt": "2026-11-28T04:46:00Z",
+          "summary": "",
+          "url": "https://aninews.in/news/world/us/high-commissioner-dinesh-patnaik-participates-in-canada-india-investment-forum-calls-for-stronger-economic-ties20261128083600/"
         },
         {
           "id": "http://www.bignewsnetwork.com/news/279464573/india-retail-credit-growth-remains-strong-at-19-but-rising-delinquencies-signal-emerging-risks-report",
@@ -740,27 +746,15 @@
           "publishedAt": "2026-11-25T13:47:00Z",
           "summary": "",
           "url": "https://www.businesstimes.com.sg/international/global/us-proposes-new-tariffs-14-trading-partners-including-singapore"
-        },
-        {
-          "id": "http://www.kenyastar.com/news/279466602/india-exports-could-cross-usd-1-trillion-mark-in-fy27-if-growth-momentum-sustains-assocham-chief-economist",
-          "title": "India's exports could cross USD 1 trillion mark in FY27 if growth momentum sustains: ASSOCHAM Chief Economist",
-          "source": "kenyastar.com",
-          "language": "English",
-          "sourceCountry": "",
-          "date": "2026-11-27",
-          "dateRaw": "2026-11-27T15:16:00Z",
-          "publishedAt": "2026-11-27T15:16:00Z",
-          "summary": "",
-          "url": "http://www.kenyastar.com/news/279466602/india-exports-could-cross-usd-1-trillion-mark-in-fy27-if-growth-momentum-sustains-assocham-chief-economist"
         }
       ],
       "keywords": [
         {
-          "word": "관세",
-          "count": 2
+          "word": "투자",
+          "count": 3
         },
         {
-          "word": "성장",
+          "word": "관세",
           "count": 2
         },
         {
@@ -768,11 +762,7 @@
           "count": 1
         },
         {
-          "word": "수출",
-          "count": 1
-        },
-        {
-          "word": "투자",
+          "word": "성장",
           "count": 1
         }
       ],
@@ -936,9 +926,9 @@
   },
   "rss": {
     "endpoint": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
-    "poolSize": 1115,
-    "fetchedItems": 3236,
-    "feedBytes": 866906,
+    "poolSize": 1034,
+    "fetchedItems": 2148,
+    "feedBytes": 577029,
     "rollingWindowHours": 72
   }
 }
