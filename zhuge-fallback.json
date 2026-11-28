@@ -1,43 +1,41 @@
 {
-  "date": "2026-11-21",
-  "planDay": "2026-11-21",
-  "planSetId": "zps-20261121-c6b29190",
-  "generatedAt": "2026-11-20T23:43:54.214Z",
-  "publishedAt": "2026-11-21T07:01:14.913Z",
+  "date": "2026-11-28",
+  "planDay": "2026-11-28",
+  "planSetId": "zps-20261128-666ab707",
+  "generatedAt": "2026-11-27T23:41:18.988Z",
+  "publishedAt": "2026-11-28T00:00:05.297Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
-    "day": "2026-11-21",
-    "planSetId": "zps-20261121-c6b29190",
+    "day": "2026-11-28",
+    "planSetId": "zps-20261128-666ab707",
     "titles": [
-      "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
-      "AI 학습용 출판데이터의 중요성",
-      "서울 고가 단지의 세 부담 확대"
+      "가상 현실 프로젝트를 시작하기 전에 점검할 것들",
+      "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
+      "귀로 듣는 독자를 사로잡는 오디오북 연출법"
     ],
     "generationMode": "historical-high-quality-atomic",
-    "model": "openai/gpt-oss-120b",
+    "model": "gemini-3.8-flash",
     "hqReady": true,
-    "contentRevision": "zcr-e1e22b87",
-    "hqVerifiedBy": "openai/gpt-oss-120b",
-    "sealedAt": "2026-11-21T00:00:00.084Z",
-    "build": "v2.15.119",
-    "hqVerificationError": "",
-    "hqUpgradedAt": "2026-11-21T06:45:40.569Z"
+    "contentRevision": "zcr-cf894378",
+    "hqVerifiedBy": "v2.15.99",
+    "sealedAt": "2026-11-28T00:00:00.076Z",
+    "build": "v2.15.119"
   },
   "title": "제갈량의 출판 기획 3선",
   "intro": [
-    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 교육 · AI · 부동산을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+    "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 IT · 경영 · 예술을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
   ],
-  "model": "openai/gpt-oss-120b",
+  "model": "gemini-3.8-flash",
   "pipeline": "v2.15.71-historical-high-quality-preserve",
   "generationMode": "historical-high-quality-atomic",
   "generationLabel": "",
-  "sourceSnapshotAt": "2026-11-20T23:43:53.625Z",
+  "sourceSnapshotAt": "2026-11-27T23:41:18.406Z",
   "inputFreshness": {
     "fresh": false,
     "newsFresh": false,
     "bestsellerFresh": true,
-    "newsUpdatedAt": "2026-11-20T23:38:57.366Z",
+    "newsUpdatedAt": "2026-11-27T23:38:52.564Z",
     "staleAdvisors": [
       "sima",
       "zhou",
@@ -46,1087 +44,97 @@
       "xunyu",
       "xunyou"
     ],
-    "bestsellerUpdatedAt": "2026-11-20T23:25:05.620Z",
-    "bestsellerDataDate": "2026-11-20",
+    "bestsellerUpdatedAt": "2026-11-27T23:25:04.933Z",
+    "bestsellerDataDate": "2026-11-27",
     "stale": true,
-    "checkedAt": "2026-11-20T23:43:54.214Z",
+    "checkedAt": "2026-11-27T23:41:18.988Z",
     "policy": "confirm-and-mark",
     "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
   },
   "plans": [
     {
-      "type": "교육",
-      "field": "교육",
-      "title": "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
-      "concept": "사관학교 폐교의 원인과 파급 효과를 체계적으로 분석하고, 교육 공백을 메울 수 있는 대안 교육 모델을 설계한다.",
-      "why": "최근 뉴스에서 사관학교 폐교가 교육 체계 전반에 미치는 영향을 강조하고 있어, 현재 재학생과 입학 예정자의 불안 해소를 위한 구체적 방안이 시급하다.",
-      "competition": "기존 교육 서적은 사관학교 폐교에 대한 원인 분석과 실질적 대안 제시가 부족해 독자 요구를 충족하지 못한다.",
-      "reader": "사관학교 입학 예정자와 현재 재학 중인 학생, 그리고 학부모",
-      "readerNeed": "폐교로 인한 교육 경로 불확실성을 해소하고, 향후 진로 선택에 필요한 구체적 정보를 원한다.",
-      "marketGap": "폐교 후 교육 공백을 메우는 새로운 교육 프로그램과 정책 제안이 아직 출판되지 않아, 실천 가능한 가이드가 필요하다.",
-      "differentiation": "폐교 원인과 영향을 데이터 기반으로 제시하고, 현장 적용 가능한 대안 교육 커리큘럼을 5단계 로드맵으로 제공한다.",
-      "diff": "폐교 원인과 영향을 데이터 기반으로 제시하고, 현장 적용 가능한 대안 교육 커리큘럼을 5단계 로드맵으로 제공한다.",
+      "type": "IT",
+      "field": "IT",
+      "title": "가상 현실 프로젝트를 시작하기 전에 점검할 것들",
+      "concept": "원작 지식재산(IP) 분석부터 시각 효과 분량 산정까지 가상 공간 연출과 예산을 한 번에 통제하는 프로젝트 로드맵",
+      "why": "영화 지식재산에 가상현실 기술을 접목한 최신 콘텐츠 시도는 기획자가 제작 파이프라인을 통제할 기준이 절실함을 보여준다.",
+      "competition": "엔진 개발용 기술 서적이나 단순 트렌드 소개서에 머물러 제작 관리자가 활용하기 어렵다.",
+      "reader": "기존 지식재산에 신기술을 결합해 실감 콘텐츠를 기획하는 피디",
+      "readerNeed": "몰입형 기술을 도입하려 하지만 제작비 폭증과 인터랙션 오류로 기획 승인을 받지 못한다.",
+      "marketGap": "기술 튜토리얼을 숙지해도 실제 예산 배분과 사용자 인터랙션 설계 간극을 메우지 못한다.",
+      "differentiation": "사전 시각화 단계별 검증 양식과 외주 스튜디오 기술 검수 표준 질문지를 패키지로 제공한다.",
+      "diff": "사전 시각화 단계별 검증 양식과 외주 스튜디오 기술 검수 표준 질문지를 패키지로 제공한다.",
       "toc": [
-        "폐교 원인 심층 분석과 현황 정리",
-        "대안 교육 모델 설계 원칙",
-        "실제 적용 사례와 성공 요인",
-        "새로운 교육 프로그램 실행 로드맵",
-        "미래 교육 방향과 정책 제언"
+        "원작 서사를 가상 공간으로 옮기는 원칙",
+        "제작비 폭증을 막는 시각효과 견적법",
+        "어지럼증을 줄이는 사용자 시선 설계",
+        "외주 개발 파트너를 감리하는 점검 기준",
+        "실감형 쇼케이스 론칭 전 필수 테스트"
       ],
       "searchQueries": [
-        "사관학교 폐교",
-        "교육 방향성"
+        "실감형 콘텐츠 기획",
+        "메타버스 기획 실무"
       ],
       "bookworthiness": {
-        "durability": "폐교 현상은 장기적인 교육 구조 변화의 시작점이 될 가능성이 크다.",
-        "repeatNeed": "교육 공백 해소를 위한 지속적인 정책 업데이트와 현장 적용이 요구된다.",
-        "expansionPotential": "다양한 교육 기관에 적용 가능한 모델로 확장 가능성이 높다.",
+        "durability": "신기술이 융합된 콘텐츠 제작 파이프라인의 핵심 구조는 장기 지속된다.",
+        "repeatNeed": "새로운 인터랙티브 영상 및 전시 프로젝트 착수 때마다 재참조된다.",
+        "expansionPotential": "스토리보드 설계, 3D 에셋 최적화 관리, 배포 플랫폼 대응으로 200쪽 구성이 충분하다.",
         "productDependency": "낮음"
       },
       "authors": [
         {
-          "name": "사관학교입시연구소",
-          "career": "《2027 사관학교 7개년 기출문제집 국어영역》 저자 · 예문에듀",
-          "why": "YES24에서 이 기획과 인접한 주제의 《2027 사관학교 7개년 기출문제집 국어영역》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/170477690",
+          "name": "이춘곤",
+          "career": "《IT 프로젝트 매니저 실무》 저자 · BOOKK(부크크)",
+          "why": "YES24에서 이 기획과 인접한 주제의 《IT 프로젝트 매니저 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/201228012",
           "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "name": "사관학교입시연구회",
-          "career": "《2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년)》 저자 · 시스컴",
-          "why": "YES24에서 이 기획과 인접한 주제의 《2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년)》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/176990649",
+          "name": "비르기타 시프 글그림",
+          "career": "《드디어 크리스마스!》 저자 · 나무말미",
+          "why": "YES24에서 이 기획과 인접한 주제의 《드디어 크리스마스!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/202465383",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "이현아 역",
+          "career": "《드디어 크리스마스!》 저자 · 나무말미",
+          "why": "YES24에서 이 기획과 인접한 주제의 《드디어 크리스마스!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/202465383",
           "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "author": "사관학교입시연구소",
-      "bestAuthor": "사관학교입시연구소",
+      "author": "이춘곤",
+      "bestAuthor": "이춘곤",
       "authorBrief": "",
-      "headlineCopy": "폐교 위기, 새로운 교육 로드맵으로 미래를 설계한다.",
+      "headlineCopy": "기술 도입 전 기획의 선을 긋는 기준",
       "marketingStrategy": {
         "sampleBreadth": "보통",
         "coreDesires": [
-          "교육 불확실성 해소",
-          "실천 가능한 대안 제시"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "교육 관련 포럼과 사관학교 입학 상담 현장에서 직접 독자를 모집한다.",
-        "trust": "폐교 원인과 데이터 분석 결과를 투명하게 공개해 신뢰를 구축한다.",
-        "conversion": "구체적인 실행 로드맵을 제공해 독자가 바로 적용하도록 유도한다.",
-        "maxDropoff": {
-          "stage": "탐색",
-          "problem": "폐교 원인과 데이터 해석이 어려워 독자가 포기한다.",
-          "objection": "제시된 대안이 현실과 동떨어졌다고 생각한다.",
-          "solution": "쉽게 이해할 수 있는 인포그래픽과 현장 사례를 통해 구체성을 높인다."
-        },
-        "positioning": "폐교 위기를 교육 혁신의 기회로 전환하는 실전 가이드"
-      },
-      "devilsEditor": {
-        "failureReason": "폐교 원인 분석이 복잡해 독자가 이해하기 어렵다.",
-        "fix": "시각화 자료와 단계별 체크리스트로 접근성을 높인다."
-      },
-      "scores": {
-        "market": 92,
-        "timing": 96,
-        "difference": 95,
-        "author": 82,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 93,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "폐교로 인한 교육 불확실성이 독자 선택에 큰 장애가 된다.",
-      "riskResponse": "데이터 기반 원인 분석과 실천 가능한 대안을 동시에 제시한다.",
-      "judgment": "폐교 위기를 교육 혁신의 핵심 과제로 전환해 독자에게 실질적 해결책을 제공한다.",
-      "evidence": [
-        {
-          "text": "2027 사관학교 7개년 기출문제집 국어영역 — 사관학교입시연구소 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/170477690"
-        },
-        {
-          "text": "국민의힘 \"사관학교 통폐합은 사실상 폐교\"… 정부에 철회 촉구 - 강원신문",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaYm5xOWUzejJ2cTVHTGFleXhGYzhNZWZaOHVlZzFrME1xWFVrQmdyTk9kODItc3RCeXppWTdsYV9HXzhNNVlPTEZGNjN2S3ZPWl96REgtNXB4aVRmcmwxRWxrZDNocVZY?oc=5"
-        },
-        {
-          "text": "2027 사관학교 7개년 기출문제집 수학영역 — 사관학교입시연구소 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/170477692"
-        },
-        {
-          "text": "2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년) — 사관학교입시연구회 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/176990649"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "2027 사관학교 7개년 기출문제집 국어영역",
-          "author": "사관학교입시연구소 저",
-          "publisher": "예문에듀",
-          "publicationDate": "20260130",
-          "url": "https://www.yes24.com/product/goods/170477690",
-          "matchedQuery": "사관학교 폐교",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "2027 사관학교 7개년 기출문제집 수학영역",
-          "author": "사관학교입시연구소 저",
-          "publisher": "예문에듀",
-          "publicationDate": "20260130",
-          "url": "https://www.yes24.com/product/goods/170477692",
-          "matchedQuery": "사관학교 폐교",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "2027 사관학교 국어·영어·수학 7개년 기출문제 (2026년)",
-          "author": "사관학교입시연구회 저",
-          "publisher": "시스컴",
-          "publicationDate": "20260305",
-          "url": "https://www.yes24.com/product/goods/176990649",
-          "matchedQuery": "사관학교 폐교",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-20T23:41:45.773Z",
-        "queries": [
-          "사관학교 폐교",
-          "교육 방향성"
-        ],
-        "resultCount": 3,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 1,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-21T00:19:34.592Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "film",
-          "label": "필름형",
-          "tone": "감성 매거진형",
-          "flow": [
-            "감성 문장",
-            "장면",
-            "감정",
-            "관점 전환",
-            "수용",
-            "여운"
-          ]
-        },
-        "bookTitle": "사관학교 폐교 위기, 교육 방향성 다시 설정하기",
-        "provider": "groq",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "감성 문장",
-            "headline": "문을 닫는 순간, 배움도 멈추는가",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "007",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "장면",
-            "headline": "캠퍼스에 남은 빈 강의실, 조용히 울리는 발걸음",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "012",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "감정",
-            "headline": "불확실함이 가슴을 무겁게 누른다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "029",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "관점 전환",
-            "headline": "하지만 그 빈자리엔 새로운 배움의 가능성이 스며든다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "020",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "수용",
-            "headline": "그 변화를 받아들여, 스스로 길을 찾는 용기가 필요하다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "038",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "여운",
-            "headline": "다음 장을 스스로 쓰는 순간, 교육은 다시 시작된다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "044",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-e1e22b87"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/c2ac35db-6b72-43c7-87d9-5e03ebffb2a9/nebraska_pyrrhic-symphony_sept26_andrea-shahan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nebraska pyrrhic symphony",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 위기 상황의 긴장감을 시각화하는 실험적 레퍼런스로 유효함",
-          "gemmaScore": 67,
-          "gemmaTopicFit": 25,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "learning education data numbers",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e45d5b66-7f1c-4a56-8e8b-d057018f70d1/northwestern_blow-yourself-up_sept26_matt-avery.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "northwestern blow yourself up",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "experimental",
-          "reason": "파괴적 이미지는 주제와 상충하나, 강렬한 타이포그래피 배치와 실험적 구도는 위기 상황을 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "learning education data numbers",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1554e60f-91cf-4347-a911-22286fcbcf1e/newsouth_trip-reports_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "newsouth trip reports",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "미니멀한 타이포그래피와 여백의 활용은 정책 제안서의 신뢰감과 전문성을 전달하기에 탁월한 시각적 원리를 제공함.",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "learning education data numbers",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/c2ac35db-6b72-43c7-87d9-5e03ebffb2a9/nebraska_pyrrhic-symphony_sept26_andrea-shahan.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nebraska pyrrhic symphony",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 과감한 레이아웃은 위기 상황의 긴장감을 시각화하는 실험적 레퍼런스로 유효함",
-          "gemmaScore": 67,
-          "gemmaTopicFit": 25,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "learning education data numbers",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/e45d5b66-7f1c-4a56-8e8b-d057018f70d1/northwestern_blow-yourself-up_sept26_matt-avery.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "northwestern blow yourself up",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "experimental",
-          "reason": "파괴적 이미지는 주제와 상충하나, 강렬한 타이포그래피 배치와 실험적 구도는 위기 상황을 시각화하는 레퍼런스로 유효함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "learning education data numbers",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1554e60f-91cf-4347-a911-22286fcbcf1e/newsouth_trip-reports_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "newsouth trip reports",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "미니멀한 타이포그래피와 여백의 활용은 정책 제안서의 신뢰감과 전문성을 전달하기에 탁월한 시각적 원리를 제공함.",
-          "gemmaScore": 71,
-          "gemmaTopicFit": 35,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 2,
-          "styleScore": 60,
-          "query": "learning education data numbers",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-e1e22b87",
-        "status": "ready",
-        "generatedAt": "2026-11-21T07:01:04.169Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "AI",
-      "field": "AI",
-      "title": "AI 학습용 출판데이터의 중요성",
-      "concept": "AI 모델 성능을 좌우하는 출판데이터의 특성을 규명하고, 공급‑수요 불균형을 해소할 수 있는 새로운 데이터 제공 체계를 제시한다.",
-      "why": "최근 보도에 AI 성능 향상이 데이터 품질에 크게 의존한다는 점이 강조돼, 개발자와 출판업계가 협업할 구체적 방안이 필요하다.",
-      "competition": "기존 출판 데이터 서적은 AI 적용 사례와 공급 전략을 구체적으로 다루지 않아 실무 적용에 한계가 있다.",
-      "reader": "AI 개발자, 데이터 엔지니어, 출판사 기획 담당자",
-      "readerNeed": "고품질 학습 데이터를 확보하고, 공급망을 효율화할 실질적 방법을 찾는다.",
-      "marketGap": "AI 학습용 데이터의 품질 기준과 공급 모델이 체계화되지 않아, 실무에서 바로 활용 가능한 가이드가 부족하다.",
-      "differentiation": "데이터 품질 평가 프레임워크와 출판사‑AI 기업 협업 프로세스를 단계별로 제시한다.",
-      "diff": "데이터 품질 평가 프레임워크와 출판사‑AI 기업 협업 프로세스를 단계별로 제시한다.",
-      "toc": [
-        "AI 학습 데이터 품질 핵심 요소",
-        "수요와 공급 불균형 현황 분석",
-        "데이터 표준화와 품질 검증 방법",
-        "출판사와 AI 기업 협업 모델 설계",
-        "미래 데이터 생태계와 성장 전략"
-      ],
-      "searchQueries": [
-        "AI 학습용 출판데이터",
-        "출판데이터 공급"
-      ],
-      "bookworthiness": {
-        "durability": "데이터 품질은 AI 발전에 장기적인 영향을 미치는 핵심 요소이다.",
-        "repeatNeed": "AI 모델 업데이트마다 새로운 데이터 확보와 검증이 반복적으로 필요하다.",
-        "expansionPotential": "다양한 산업 분야에 적용 가능한 데이터 표준과 협업 모델을 확장할 수 있다.",
-        "productDependency": "중간"
-      },
-      "authors": [
-        {
-          "name": "이민재",
-          "career": "《CMMI 3.0》 저자 · 좋은땅",
-          "why": "YES24에서 이 기획과 인접한 주제의 《CMMI 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/125217947",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "김성태",
-          "career": "《CMMI 3.0》 저자 · 좋은땅",
-          "why": "YES24에서 이 기획과 인접한 주제의 《CMMI 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/125217947",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "허동은",
-          "career": "《CMMI 3.0》 저자 · 좋은땅",
-          "why": "YES24에서 이 기획과 인접한 주제의 《CMMI 3.0》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/125217947",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "이민재",
-      "bestAuthor": "이민재",
-      "authorBrief": "",
-      "headlineCopy": "고품질 데이터가 AI 성능을 좌우한다, 출판 데이터 혁신이 답이다.",
-      "marketingStrategy": {
-        "sampleBreadth": "넓음",
-        "coreDesires": [
-          "AI 성능 극대화",
-          "데이터 공급 체계 구축"
+          "실패 없는 차세대 콘텐츠 론칭",
+          "개발 외주사와의 주도적 협상"
         ],
         "quadrant": {
           "audience": "니치형",
           "mode": "정보·신뢰형"
         },
-        "acquisition": "AI 개발자 커뮤니티와 출판업계 세미나에서 직접 독자를 모집한다.",
-        "trust": "실제 데이터 품질 평가 사례와 성공적인 협업 프로젝트를 제시한다.",
-        "conversion": "구체적인 데이터 표준 템플릿을 제공해 즉시 적용하도록 유도한다.",
+        "acquisition": "콘텐츠 진흥 기관 아카데미 및 영상 기획자 커뮤니티에서 실무자 네트워크를 확보한다.",
+        "trust": "상용화에 성공한 실감 콘텐츠 총괄 프로듀서 인터뷰와 사례 검증 데이터를 제시한다.",
+        "conversion": "가상 현실 프로젝트 사전 타당성 평가 시트와 외주 견적 검증표를 제공해 결제를 유도한다.",
         "maxDropoff": {
           "stage": "탐색",
-          "problem": "데이터 품질 평가 기준이 모호해 독자가 진입을 꺼린다.",
-          "objection": "협업 비용과 절차가 복잡하다고 판단한다.",
-          "solution": "표준화된 체크리스트와 비용 효율 모델을 제시한다."
+          "problem": "프로그래밍 개발 서적으로 오해하는 경우",
+          "objection": "코딩을 모르는 기획자가 읽기 어렵다는 불안",
+          "solution": "비개발 직군을 위한 기획 및 외주 소통 전용 도서임을 전면에 강조"
         },
-        "positioning": "AI 성능을 좌우하는 데이터 혁신, 출판 데이터 공급의 새로운 패러다임"
+        "positioning": "기술 환상을 걷어내고 완주를 돕는 공간 콘텐츠 제작 지침서"
       },
       "devilsEditor": {
-        "failureReason": "데이터 품질 평가가 추상적이라 독자에게 전달이 어려웠다.",
-        "fix": "구체적인 평가 지표와 사례 기반 설명으로 명확성을 높인다."
+        "failureReason": "기술 용어 남발로 기획 실무 효용 하락",
+        "fix": "기술 용어 대신 기획자가 경영진 결재선에서 써야 할 산출물 중심으로 재구성한다."
       },
       "scores": {
-        "market": 88,
-        "timing": 96,
-        "difference": 95,
-        "author": 86,
-        "marketing": 96,
-        "longtail": 99
-      },
-      "score": 93,
-      "stars": "★★★★★",
-      "verdict": "",
-      "risk": "데이터 공급‑수요 불균형이 AI 프로젝트 성공을 저해한다.",
-      "riskResponse": "표준화된 품질 프레임워크와 협업 모델을 동시에 제공한다.",
-      "judgment": "AI 성능 향상을 위한 데이터 혁신이 출판 시장의 새로운 성장 동력이 될 것이다.",
-      "evidence": [
-        {
-          "text": "CMMI 3.0 — 이민재,김성태,허동은 공저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/125217947"
-        },
-        {
-          "text": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신 - AI타임스",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XMEY4dDFPZ2FsVjdwOW5oMk5jc29xandKYXZoMGdMWS0xb0NrR1E3SC13RHA3LXpwOXk1bnlqLXpydVlaSzViM0Y0eGhvZS1KVTEzd1dIVm1FYmFGVFFpelJnbUVLOHZTOGc?oc=5"
-        },
-        {
-          "text": "2026 글로벌 ESG 규제 패러다임과 자본시장 밸류업 전략 및 산업별 실무 가이드 — IRS글로벌 산업조사실,김순종,이중원 저",
-          "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/189007416"
-        },
-        {
-          "text": "제약바이오협, 하반기 윤리경영 워크숍...CSO 규제부터 AI 마케팅까지 - 약사공론",
-          "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZ3RpWXpLRGJidWJnY1NIblczdkN0OUxFWDY1NVFvcE5kRThpYks5YjRmV3JWLUZ0M1JiZ21WTkI3Y3p3VWtsNlZIZ21JZUNlWXZkc3BXLW1tU3E0QldzX3JRb2E2OU1xN25NbQ?oc=5"
-        }
-      ],
-      "sourceChannels": [
-        "yes24",
-        "google-news"
-      ],
-      "crossSourceCount": 2,
-      "fallbackCardComplete": true,
-      "historicalQualityScore": 100,
-      "titleAudit": {
-        "status": "checked",
-        "checked": 0,
-        "collision": false,
-        "kind": "",
-        "similarity": 0,
-        "match": "",
-        "matchAuthor": ""
-      },
-      "similarBooks": [
-        {
-          "title": "CMMI 3.0",
-          "author": "이민재,김성태,허동은 공저",
-          "publisher": "좋은땅",
-          "publicationDate": "20240222",
-          "url": "https://www.yes24.com/product/goods/125217947",
-          "matchedQuery": "출판데이터 공급",
-          "verification": "YES24 검색 결과"
-        },
-        {
-          "title": "2026 글로벌 ESG 규제 패러다임과 자본시장 밸류업 전략 및 산업별 실무 가이드",
-          "author": "IRS글로벌 산업조사실,김순종,이중원 저",
-          "publisher": "IRS Global(아이알에스글로벌)",
-          "publicationDate": "20260507",
-          "url": "https://www.yes24.com/product/goods/189007416",
-          "matchedQuery": "출판데이터 공급",
-          "verification": "YES24 검색 결과"
-        }
-      ],
-      "marketAuthorEnrichment": {
-        "status": "ready",
-        "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-20T23:41:48.426Z",
-        "queries": [
-          "AI 학습용 출판데이터",
-          "출판데이터 공급"
-        ],
-        "resultCount": 2,
-        "errors": []
-      },
-      "realEditorialGate": {
-        "ok": true,
-        "policy": "v2.15.118-grounded-producer-consumer-parity"
-      },
-      "rank": 2,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-21T00:19:18.814Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "heist",
-          "label": "하이스트형",
-          "tone": "직설·후킹형",
-          "flow": [
-            "강한 선언",
-            "공감",
-            "구체적 증상",
-            "판단 기준",
-            "해결",
-            "강한 결론"
-          ]
-        },
-        "bookTitle": "AI 학습용 출판데이터의 중요성",
-        "provider": "gemini",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "강한 선언",
-            "headline": "웹 데이터만 긁어모은\nAI는 결국 망한다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "003",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "warning",
-            "beat": "공감",
-            "headline": "아무리 모델을 키워도\n답변이 헛돌고 있는가",
-            "body": "성능 정체의 원인을 엉뚱한 곳에서 찾는다",
-            "accent": "yellow",
-            "sceneId": "025",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "warning",
-            "beat": "구체적 증상",
-            "headline": "문맥은 얕아지고,\n출처는 흐리며,\n오류만 번복한다면",
-            "body": "정제되지 않은 쓰레기 데이터를 삼킨 결과",
-            "accent": "yellow",
-            "sceneId": "022",
-            "sceneCategory": "warning",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "판단 기준",
-            "headline": "학습량의 크기가 아니라\n검증된 정제의 질이 문제다",
-            "body": "문맥과 논리가 살아있는 지식이 필요하다",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "해결",
-            "headline": "지금 당장 출판 단위의\n정제 데이터로 교체하라",
-            "body": "검증된 원천 데이터를 확보해야 산다",
-            "accent": "yellow",
-            "sceneId": "031",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "강한 결론",
-            "headline": "AI의 지능 수준은\n먹인 데이터의 격이 결정한다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "049",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-e1e22b87"
-      },
-      "coverRefs": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/2df3ffac-ab88-4e18-8baf-e3bd29a74500/nyu_fire-in-the-heart-of-the-city_sept26_rachel-perkins_illus-matteo-pericoli.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nyu fire in the heart of the city",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 강렬한 색 대비를 통해 데이터의 복잡성과 흐름을 시각화하는 레이아웃 원리로 활용 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/33aabbae-8628-45d9-a38d-5951c54c10b0/penn-state_teresa-urrea_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "penn state teresa urrea",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "인물 중심의 감성적 레이아웃이나, 타이포그래피의 배치와 여백 활용은 데이터의 구조적 질서를 시각화하는 데 유용함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f4e74b5f-c309-4205-868e-9365723d3363/pitt_abider_sep26_melissa-dias-mandoly_art-sarah-jerrett.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "pitt abider",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피 중심의 레이아웃을 활용해 데이터의 구조적 질서를 시각화하기에 적합함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferences": [
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/2df3ffac-ab88-4e18-8baf-e3bd29a74500/nyu_fire-in-the-heart-of-the-city_sept26_rachel-perkins_illus-matteo-pericoli.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "nyu fire in the heart of the city",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "추상적 그래픽과 강렬한 색 대비를 통해 데이터의 복잡성과 흐름을 시각화하는 레이아웃 원리로 활용 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/33aabbae-8628-45d9-a38d-5951c54c10b0/penn-state_teresa-urrea_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "penn state teresa urrea",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "인물 중심의 감성적 레이아웃이나, 타이포그래피의 배치와 여백 활용은 데이터의 구조적 질서를 시각화하는 데 유용함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        },
-        {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f4e74b5f-c309-4205-868e-9365723d3363/pitt_abider_sep26_melissa-dias-mandoly_art-sarah-jerrett.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "pitt abider",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "추상적 그래픽보다 타이포그래피 중심의 레이아웃을 활용해 데이터의 구조적 질서를 시각화하기에 적합함",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 40,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "artificial intelligence learning education",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
-        }
-      ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-e1e22b87",
-        "status": "ready",
-        "generatedAt": "2026-11-21T07:01:07.833Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
-    },
-    {
-      "type": "부동산",
-      "field": "부동산",
-      "title": "서울 고가 단지의 세 부담 확대",
-      "concept": "고가 주택의 세 부담 증가 원인을 다각도로 분석하고, 실생활에 적용 가능한 절세 전략과 정책 제안을 제시한다.",
-      "why": "최근 보도에서 고가 단지 세 부담이 급증하고 있어, 거주자와 구매자가 재정적 위험을 최소화할 실질적 방안이 요구된다.",
-      "competition": "기존 부동산 서적은 세 부담 원인만 나열하고 구체적인 절세 실행 방안을 제공하지 않아 독자 요구를 충족하지 못한다.",
-      "reader": "서울 고가 단지에 거주 중이거나 구매를 고려 중인 고소득층 및 투자자",
-      "readerNeed": "세 부담 상승에 따른 재정 리스크를 파악하고, 즉시 적용 가능한 절세 방법을 찾는다.",
-      "marketGap": "세 부담 원인 분석과 동시에 실천 가능한 절세 체크리스트가 결합된 가이드가 아직 출판되지 않았다.",
-      "differentiation": "세 부담 구조를 시각화하고, 법적 절세 포인트와 현장 적용 사례를 5단계 로드맵으로 제공한다.",
-      "diff": "세 부담 구조를 시각화하고, 법적 절세 포인트와 현장 적용 사례를 5단계 로드맵으로 제공한다.",
-      "toc": [
-        "고가 단지 세 부담 구조와 원인 분석",
-        "세 부담 최소화를 위한 법적 절세 포인트",
-        "실제 적용 사례와 성공적인 절세 전략",
-        "세 부담 변화 시나리오와 대응 방안",
-        "정책 제언과 장기적 재정 계획"
-      ],
-      "searchQueries": [
-        "서울 고가 단지",
-        "세 부담 확대"
-      ],
-      "bookworthiness": {
-        "durability": "세 정책 변화는 장기적으로 부동산 시장에 지속적인 영향을 미친다.",
-        "repeatNeed": "세율 변동에 따라 매년 새로운 절세 전략이 필요하다.",
-        "expansionPotential": "다른 고가 주택 지역에도 적용 가능한 절세 모델로 확장 가능하다.",
-        "productDependency": "낮음"
-      },
-      "authors": [
-        {
-          "name": "황선미",
-          "career": "《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자 · 조선북스(전집)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/90971822",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "조에스더 그림",
-          "career": "《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자 · 조선북스(전집)",
-          "why": "YES24에서 이 기획과 인접한 주제의 《누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/90971822",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        },
-        {
-          "name": "한국미래기술교육연구원",
-          "career": "《분산에너지활성화특별법 시행에 따른 민간 시장 확대방안》 저자 · 미래기술",
-          "why": "YES24에서 이 기획과 인접한 주제의 《분산에너지활성화특별법 시행에 따른 민간 시장 확대방안》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
-          "url": "https://www.yes24.com/product/goods/126396499",
-          "verification": "YES24 검색 결과의 실제 저자명"
-        }
-      ],
-      "author": "황선미",
-      "bestAuthor": "황선미",
-      "authorBrief": "",
-      "headlineCopy": "세 부담 상승, 현명한 절세 전략으로 재정 안정을 잡는다.",
-      "marketingStrategy": {
-        "sampleBreadth": "보통",
-        "coreDesires": [
-          "재정 위험 최소화",
-          "즉시 적용 가능한 절세 가이드"
-        ],
-        "quadrant": {
-          "audience": "대중형",
-          "mode": "정보·신뢰형"
-        },
-        "acquisition": "부동산 포털과 고가 주택 커뮤니티에서 세 부담 이슈를 강조해 독자를 유입한다.",
-        "trust": "세 전문가 인터뷰와 실제 절세 성공 사례를 통해 신뢰를 구축한다.",
-        "conversion": "구체적인 절세 체크리스트와 실행 플랜을 제공해 구매 결정을 촉진한다.",
-        "maxDropoff": {
-          "stage": "의심",
-          "problem": "세 부담 복잡성에 대한 이해 부족이 독자를 주저하게 만든다.",
-          "objection": "제시된 절세 방법이 개인 상황에 맞지 않을까 우려한다.",
-          "solution": "맞춤형 시뮬레이션 도구와 개별 상담 옵션을 제공한다."
-        },
-        "positioning": "고가 단지 세 부담을 체계적으로 분석하고 절세 전략을 제시하는 실전 가이드"
-      },
-      "devilsEditor": {
-        "failureReason": "세 제도 설명이 난해해 독자가 포기할 위험이 있었다.",
-        "fix": "쉽게 이해되는 도표와 단계별 절세 시나리오로 접근성을 높였다."
-      },
-      "scores": {
-        "market": 88,
+        "market": 92,
         "timing": 92,
         "difference": 95,
         "author": 86,
@@ -1136,29 +144,208 @@
       "score": 93,
       "stars": "★★★★★",
       "verdict": "",
-      "risk": "세 부담 확대가 거주자의 재정 불안을 가중시킨다.",
-      "riskResponse": "구체적인 절세 포인트와 정책 대응 방안을 동시에 제공한다.",
-      "judgment": "세 부담 문제를 해결하는 실용적 가이드는 고가 주택 시장에서 차별화된 가치를 창출한다.",
+      "risk": "소프트웨어 버전 변화에 따른 빠른 노후화",
+      "riskResponse": "특정 엔진 사용법이 아닌 연출 문법과 일정 예산 관리 체계를 중심으로 다룬다.",
+      "judgment": "콘텐츠 제작사가 차세대 미디어 시장에 진입할 때 개발 외주 통제와 예산 초과 방어를 실질적으로 입증하는 실무 가이드여야 성패가 갈린다.",
       "evidence": [
         {
-          "text": "누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울 — 황선미 글,조에스더 그림 외",
+          "text": "IT 프로젝트 매니저 실무 — 이춘곤 저",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/90971822"
+          "url": "https://www.yes24.com/product/goods/201228012"
         },
         {
-          "text": "현실화율 동결에도…서울 고가 단지 '세 부담 확대' 전망 - 연합인포맥스",
+          "text": "벤타엑스·스톤브이스튜디오, 영화 '한산'에 AI 접목한 VR 콘텐츠 내년 출시 - AI타임스",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ME5MaUpYTTRDWFkzTjMtRUdjTEo0UDB2OGZHMGFQM09XRWJ3WHNXWXVIUUh2aGw4ZG4wcG5NNEY0QmthdC1DN2lRM3YwVWtEZjFqY0l4UzRGX3poQnJCMWVvU3ctd2JlWndOMlc0N3E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SUFFZV1VKZHdLR3ZTTEUtOWNfVnhQR1FZUlQ4cGZlQldRNHY5ZU1xUzBpN2tBUXp3M0hhd3JTZzkwRDhSOXVWNjg0aFd2U1YtZnVoRzQwMjFLXzFwZm1FYlRlNU45ZmJBeGc?oc=5"
         },
         {
-          "text": "분산에너지활성화특별법 시행에 따른 민간 시장 확대방안 — 한국미래기술교육연구원",
+          "text": "드디어 크리스마스! — 비르기타 시프 글그림/이현아 역",
           "kind": "YES24 경쟁서 검증",
-          "url": "https://www.yes24.com/product/goods/126396499"
+          "url": "https://www.yes24.com/product/goods/202465383"
         },
         {
-          "text": "박종원 담양군수, 2027년 군정 청사진 제시…소득·복지 강화 - 에너지경제신문",
+          "text": "Be Lazy! 게으른 창조자처럼 일하라 — 우시오 쯔요시 저/LearnAI Team 역",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/201221476"
+        }
+      ],
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 90,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "IT 프로젝트 매니저 실무",
+          "author": "이춘곤 저",
+          "publisher": "BOOKK(부크크)",
+          "publicationDate": "20261118",
+          "url": "https://www.yes24.com/product/goods/201228012",
+          "matchedQuery": "IT",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "드디어 크리스마스!",
+          "author": "비르기타 시프 글그림/이현아 역",
+          "publisher": "나무말미",
+          "publicationDate": "20261124",
+          "url": "https://www.yes24.com/product/goods/202465383",
+          "matchedQuery": "IT",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "Be Lazy! 게으른 창조자처럼 일하라",
+          "author": "우시오 쯔요시 저/LearnAI Team 역",
+          "publisher": "위키북스",
+          "publicationDate": "20261126",
+          "url": "https://www.yes24.com/product/goods/201221476",
+          "matchedQuery": "IT",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
+        "status": "ready",
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-11-27T23:40:47.860Z",
+        "queries": [
+          "실감형 콘텐츠 기획",
+          "메타버스 기획 실무"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 1
+    },
+    {
+      "type": "경영",
+      "field": "경영",
+      "title": "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
+      "concept": "단기 반등 기대 대신 3개년 설비 점검과 단위당 고정비 통제 프로토콜로 현장 적자를 최소화하는 방어 설계",
+      "why": "철강 본격 회복 지연이라는 산업 보고서는 전통 제조업 종사자가 당장 버틸 체질 개선과 비용 통제가 필수임을 입증한다.",
+      "competition": "거시 거버넌스나 대기업 중심의 대규모 구조조정 담론에 치우쳐 현장 실무자가 쓸 방법이 없다.",
+      "reader": "전통 제조 현장에서 원가와 가동률 압박을 받는 공장 관리자",
+      "readerNeed": "장기화된 경기 침체 속에서 가동률 저하와 재고 누적을 방어할 실행 기준이 절실하다.",
+      "marketGap": "산업 사이클 분석서는 넘치지만 당장 이번 분기 가동 정지 시간을 줄이고 원가를 묶는 매뉴얼이 부재하다.",
+      "differentiation": "주간 단위 설비 보전 체크리스트와 잉여 재고 유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+      "diff": "주간 단위 설비 보전 체크리스트와 잉여 재고 유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+      "toc": [
+        "불황 주기 데이터를 읽는 현장 기준",
+        "설비 감가상각과 가동률 재계산법",
+        "단위당 고정비를 낮추는 라인 재편",
+        "잉여 재고를 유동화하는 협상 공식",
+        "침체기 다음 도약을 준비하는 유지보수"
+      ],
+      "searchQueries": [
+        "제조업 원가관리",
+        "공장 관리 실무"
+      ],
+      "bookworthiness": {
+        "durability": "제조업 사이클 하강기는 수년간 지속되어 실무서 수요가 유지된다.",
+        "repeatNeed": "분기별 공정 감사와 연간 운영 예산 수립 때마다 반복 확인된다.",
+        "expansionPotential": "공정 데이터 분석, 현장 외주비 재협상, 설비 수명 주기 최적화로 200쪽 구성이 탄탄하다.",
+        "productDependency": "낮음"
+      },
+      "authors": [
+        {
+          "name": "김대수",
+          "career": "《실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부》 저자 · 지식과감성#",
+          "why": "YES24에서 이 기획과 인접한 주제의 《실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/192323310",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "김규호",
+          "career": "《공정관리 실무와 기준》 저자 · 기문당",
+          "why": "YES24에서 이 기획과 인접한 주제의 《공정관리 실무와 기준》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/195826256",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        },
+        {
+          "name": "정해운",
+          "career": "《통계적 공정관리 실무》 저자 · 민영사",
+          "why": "YES24에서 이 기획과 인접한 주제의 《통계적 공정관리 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/23453227",
+          "verification": "YES24 검색 결과의 실제 저자명"
+        }
+      ],
+      "author": "김대수",
+      "bestAuthor": "김대수",
+      "authorBrief": "",
+      "headlineCopy": "회복을 기다리지 않고 현장을 지키는 법",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "공장 가동 손실 최소화",
+          "위기 속 현장 관리력 인정"
+        ],
+        "quadrant": {
+          "audience": "니치형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "중소제조기업 관리자 실무자 포럼 및 지방 산업단지 현장 기술 교류회에 배포한다.",
+        "trust": "30년 업력 현장 공장장의 원가 절감 감사 기록과 실제 공정 개선 수치를 공개한다.",
+        "conversion": "라인별 유휴 시간 측정 및 원가 누수 진단 점검표를 부록으로 주어 구매로 연결한다.",
+        "maxDropoff": {
+          "stage": "탐색",
+          "problem": "단순한 업황 비관론으로 오인하는 경우",
+          "objection": "경기 침체는 현장 노력으로 안 바뀐다는 회의감",
+          "solution": "즉각 비용을 방어하는 공정별 통제 지표를 미리보기로 제공"
+        },
+        "positioning": "거시 지표에 흔들리지 않는 현장형 위기관리 실전 지침서"
+      },
+      "devilsEditor": {
+        "failureReason": "거시 거버넌스 이론 나열로 현장 접목 실패",
+        "fix": "모든 장에 당장 공장에서 채우는 엑셀 서식과 실행 지침을 부록으로 배치한다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 92,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 93,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "특정 업종 편향으로 타 제조 실무자의 외면",
+      "riskResponse": "범용 공정 단위 원가 관리와 외주 재협상 템플릿을 중심으로 집필한다.",
+      "judgment": "장기 침체 국면에서 경영 이론이 아닌 당장 내일 라인 가동 중단 손실을 막아주는 서식과 지침을 주는지가 판매 성패를 결정한다.",
+      "evidence": [
+        {
+          "text": "실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부 — 김대수 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/192323310"
+        },
+        {
+          "text": "[종합] “철강 본격 회복 2028년 이후로 지연 전망” 산업硏 2027년 산업 전망 - 철강금속신문",
           "kind": "뉴스 자료",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53ekFOVDQtN2prVjY2a3NjU0htdUl3NnVxYnRxak9wNHNzd3lXRUgxRGFuMkNteUUwT3YzZ0wzYUZWWFlVSXMtV0lWc2hxVTU4OXRnWk9NbXBRNElSRk1MRms2WQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Uam1iTG9WekZMYXJxQVFjbzRGTlFGREh6U1BlanJ2eFpNcktiWDlLSkJERkxPeXZDNW1CWkl2eHYzRVl5RU9hTDJvbXNaYnJUSnFwUm9tWkZsNVJ4MnFwcVlxYVFYOGplLWc?oc=5"
+        },
+        {
+          "text": "실전! SAP 원가관리 1~3 세트 — 김대수 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/192355008"
+        },
+        {
+          "text": "공정관리 실무와 기준 — 김규호 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/195826256"
         }
       ],
       "sourceChannels": [
@@ -1179,372 +366,229 @@
       },
       "similarBooks": [
         {
-          "title": "누구나 알지만 아무도 모르는 동서남북 우리땅 세트/전4권/희망의단지DMZ.일곱빛깔독도이야기.보물섬제주도.어울리는곳간서울",
-          "author": "황선미 글,조에스더 그림 외",
-          "publisher": "조선북스(전집)",
-          "publicationDate": "20141015",
-          "url": "https://www.yes24.com/product/goods/90971822",
-          "matchedQuery": "서울 고가 단지",
+          "title": "실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부",
+          "author": "김대수 저",
+          "publisher": "지식과감성#",
+          "publicationDate": "20260529",
+          "url": "https://www.yes24.com/product/goods/192323310",
+          "matchedQuery": "제조업 원가관리",
           "verification": "YES24 검색 결과"
         },
         {
-          "title": "분산에너지활성화특별법 시행에 따른 민간 시장 확대방안",
-          "author": "한국미래기술교육연구원",
-          "publisher": "미래기술",
-          "publicationDate": "20240419",
-          "url": "https://www.yes24.com/product/goods/126396499",
-          "matchedQuery": "세 부담 확대",
+          "title": "실전! SAP 원가관리 1~3 세트",
+          "author": "김대수 저",
+          "publisher": "지식과감성#",
+          "publicationDate": "20260529",
+          "url": "https://www.yes24.com/product/goods/192355008",
+          "matchedQuery": "제조업 원가관리",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "공정관리 실무와 기준",
+          "author": "김규호 저",
+          "publisher": "기문당",
+          "publicationDate": "20260915",
+          "url": "https://www.yes24.com/product/goods/195826256",
+          "matchedQuery": "공장 관리 실무",
           "verification": "YES24 검색 결과"
         }
       ],
       "marketAuthorEnrichment": {
         "status": "ready",
         "version": "v2.15.71-yes24-verified",
-        "updatedAt": "2026-11-20T23:41:49.980Z",
+        "updatedAt": "2026-11-27T23:40:49.123Z",
         "queries": [
-          "서울 고가 단지",
-          "세 부담 확대"
+          "제조업 원가관리",
+          "공장 관리 실무"
         ],
-        "resultCount": 2,
+        "resultCount": 3,
         "errors": []
       },
       "realEditorialGate": {
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3,
-      "cardnews": {
-        "version": "v2.15.24-cardnews-3styles",
-        "status": "ready",
-        "generatedAt": "2026-11-21T00:19:18.814Z",
-        "character": "id-master-library",
-        "characterAsset": "",
-        "palette": [
-          "black",
-          "ivory",
-          "vermilion-red",
-          "mustard-yellow",
-          "white"
-        ],
-        "cardCount": 6,
-        "style": {
-          "key": "forest",
-          "label": "포레스트형",
-          "tone": "지식·통찰 교양형",
-          "flow": [
-            "궁금증",
-            "현상",
-            "원리",
-            "설명",
-            "통찰",
-            "핵심 메시지"
-          ]
-        },
-        "bookTitle": "서울 고가 단지의 세 부담 확대",
-        "provider": "gemini",
-        "aiCards": 6,
-        "fallback": false,
-        "fallbackReason": "",
-        "cards": [
-          {
-            "index": 1,
-            "role": "cover",
-            "beat": "궁금증",
-            "headline": "집값보다 세금이\n더 빠르게 뛰는 진짜 이유",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "005",
-            "sceneCategory": "cover",
-            "source": "ai"
-          },
-          {
-            "index": 2,
-            "role": "analysis",
-            "beat": "현상",
-            "headline": "시세는 그대로인데\n고지서 숫자는 커졌다",
-            "body": "서울 고가 단지 거주자들의 공통된 혼란",
-            "accent": "yellow",
-            "sceneId": "019",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 3,
-            "role": "analysis",
-            "beat": "원리",
-            "headline": "공시가격 현실화와\n과표 구간의 누진 구조 탓이다",
-            "body": "가액이 오를수록 적용 세율이 가파르게 뛴다",
-            "accent": "yellow",
-            "sceneId": "016",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 4,
-            "role": "analysis",
-            "beat": "설명",
-            "headline": "보유세뿐 아니라\n취득과 양도 단계까지 묶인다",
-            "body": "구간별 기준선 하나로 공제 혜택이 사라진다",
-            "accent": "yellow",
-            "sceneId": "017",
-            "sceneCategory": "analysis",
-            "source": "ai"
-          },
-          {
-            "index": 5,
-            "role": "fix",
-            "beat": "통찰",
-            "headline": "자산 관리는 시세 차익이\n아니라 보유 비용의 계산이다",
-            "body": "세금 구조를 읽지 못하면 수익은 남지 않는다",
-            "accent": "yellow",
-            "sceneId": "031",
-            "sceneCategory": "fix",
-            "source": "ai"
-          },
-          {
-            "index": 6,
-            "role": "final",
-            "beat": "핵심 메시지",
-            "headline": "부동산의 성패는\n사는 순간의 세금 설계에 달렸다",
-            "body": "",
-            "accent": "yellow",
-            "sceneId": "049",
-            "sceneCategory": "final",
-            "source": "ai"
-          }
-        ],
-        "sourceRevision": "zcr-e1e22b87"
+      "rank": 2
+    },
+    {
+      "type": "예술",
+      "field": "예술",
+      "title": "귀로 듣는 독자를 사로잡는 오디오북 연출법",
+      "concept": "문장 호흡을 청각용 스크립트로 윤문하고 배경 음향을 배치해 완독률을 끌어올리는 단계별 오디오 연출법",
+      "why": "책에 목소리와 음악을 더하는 오디오북 시장의 확장은 단순 녹음을 넘어 전문적인 청각 연출 기술이 필요함을 나타낸다.",
+      "competition": "단순 팟캐스트 녹음 요령이나 성우 발성법에 치우쳐 책 한 권을 완독시키는 연출법이 없다.",
+      "reader": "텍스트 도서를 오디오 콘텐츠로 확장하려는 출판 편집자와 연출가",
+      "readerNeed": "단순 낭독을 넘어 청각적 몰입감을 주는 사운드와 목소리 설계 기준을 잡기 어렵다.",
+      "marketGap": "낭독 기술을 배워도 청취자의 집중력을 한 시간 이상 유지시키는 청각적 서사 설계가 부족하다.",
+      "differentiation": "스크립트 부호 표기법과 장르별 효과음 주파수 간섭 제어 가이드를 실전 악보 형태로 수록한다.",
+      "diff": "스크립트 부호 표기법과 장르별 효과음 주파수 간섭 제어 가이드를 실전 악보 형태로 수록한다.",
+      "toc": [
+        "눈으로 읽는 글과 귀로 듣는 말의 차이",
+        "낭독 속도와 휴지기를 설계하는 대본법",
+        "성우 캐스팅과 톤앤매너 디렉팅 기준",
+        "문맥을 살리는 배경 음악 선곡과 믹싱",
+        "청취 이탈을 막는 챕터별 사운드 훅"
+      ],
+      "searchQueries": [
+        "오디오북 제작 가이드",
+        "사운드 연출 실무"
+      ],
+      "bookworthiness": {
+        "durability": "음성 콘텐츠 시장은 플랫폼과 무관하게 연출 원칙이 유지된다.",
+        "repeatNeed": "새로운 타이틀의 음원 녹음 및 마스터링 감수 때마다 반복 점검된다.",
+        "expansionPotential": "대본 각색, 녹음실 디렉팅, 음향 마스터링 검수, 유통 플랫폼 규격으로 200쪽 구성이 용이하다.",
+        "productDependency": "낮음"
       },
-      "coverRefs": [
+      "authors": [
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/70e98857-ee63-4610-a9a5-2c2cdb469ba3/west-virginia_what-kind-of-mother_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "west virginia what kind of mother",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "감성적 서사와 대비되는 강렬한 타이포그래피 배치를 통해 정보의 위계와 시각적 긴장감을 구축하는 원리로 참고 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "real estate home buying estate planning taxes",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "홍선미",
+          "career": "《공연예술, 연출･안무는 상징 놀이》 저자 · 글로벌콘텐츠",
+          "why": "YES24에서 이 기획과 인접한 주제의 《공연예술, 연출･안무는 상징 놀이》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/202802509",
+          "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f4ccca15-688c-40c7-a1ac-7d470c9f0f16/yale_darwin-and-the-queer-origins-of-life_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "yale darwin and the queer origins of life",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "학술적이고 실험적인 타이포그래피 배치는 신뢰감 있는 분석서의 권위를 높이는 시각적 장치로 활용 가능하다.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "real estate home buying estate planning taxes",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "김준성",
+          "career": "《예술로 만나는 일본》 저자 · 샘터",
+          "why": "YES24에서 이 기획과 인접한 주제의 《예술로 만나는 일본》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/202736167",
+          "verification": "YES24 검색 결과의 실제 저자명"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1792939820978-QQPH7Y9JJDQP22Q7QHKJ/Jet+Purdie.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "October Book Covers We Love!",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "주제와 직접적 연관은 낮으나, 복잡한 세 부담 구조를 상징적 그래픽과 절제된 레이아웃으로 시각화하는 원리로 참고하기 좋다.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "real estate home buying estate planning taxes",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "name": "줄리아 로스먼",
+          "career": "《자연해부도감》 저자 · 더숲",
+          "why": "YES24에서 이 기획과 인접한 주제의 《자연해부도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+          "url": "https://www.yes24.com/product/goods/24749641",
+          "verification": "YES24 검색 결과의 실제 저자명"
         }
       ],
-      "coverReferences": [
+      "author": "홍선미",
+      "bestAuthor": "홍선미",
+      "authorBrief": "",
+      "headlineCopy": "문장에 소리를 입히는 가장 확실한 순서",
+      "marketingStrategy": {
+        "sampleBreadth": "보통",
+        "coreDesires": [
+          "오디오북 완독률 극대화",
+          "음성 콘텐츠 제작 비용 절감"
+        ],
+        "quadrant": {
+          "audience": "대중형",
+          "mode": "정보·신뢰형"
+        },
+        "acquisition": "출판 마케팅 네트워크, 오디오 크리에이터 세미나, 북페어 현장에서 독자를 모은다.",
+        "trust": "밀리언셀러 오디오북 전담 사운드 감독의 실제 연출 일지와 마스터링 노트를 수록한다.",
+        "conversion": "실전 낭독 대본 교정 샘플 및 챕터별 호흡 표기 가이드북을 제공해 소장을 유도한다.",
+        "maxDropoff": {
+          "stage": "탐색",
+          "problem": "단순 성우 지망생 교재로 착각하는 경우",
+          "objection": "제작자가 아닌 연기자 대상 서적으로 느껴짐",
+          "solution": "콘텐츠 프로듀서와 편집자를 위한 연출 기획서임을 서두에 명확히 규정"
+        },
+        "positioning": "텍스트의 감동을 귀로 온전히 전하는 청각 연출 바이블"
+      },
+      "devilsEditor": {
+        "failureReason": "음향 공학 이론 치중으로 기획자 외면",
+        "fix": "주파수 계산식 대신 편집자가 녹음실에서 바로 쓰는 체크리스트 중심으로 집필한다."
+      },
+      "scores": {
+        "market": 92,
+        "timing": 92,
+        "difference": 95,
+        "author": 86,
+        "marketing": 96,
+        "longtail": 99
+      },
+      "score": 93,
+      "stars": "★★★★★",
+      "verdict": "",
+      "risk": "음향 전문 지식 부족 독자의 이해도 저하",
+      "riskResponse": "전문 용어를 직관적인 청취 감각 묘사와 도표로 전환하여 해설한다.",
+      "judgment": "단순 낭독 요령서에 그치지 않고 출판 편집자가 녹음 현장에서 디렉팅할 수 있는 청각 서사 기준을 세우는 데 성패가 달려 있다.",
+      "evidence": [
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/70e98857-ee63-4610-a9a5-2c2cdb469ba3/west-virginia_what-kind-of-mother_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "west virginia what kind of mother",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "topic",
-          "selectionTier": "fallback-topic",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "감성적 서사와 대비되는 강렬한 타이포그래피 배치를 통해 정보의 위계와 시각적 긴장감을 구축하는 원리로 참고 가능함",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "real estate home buying estate planning taxes",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "공연예술, 연출･안무는 상징 놀이 — 홍선미 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/202802509"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/f4ccca15-688c-40c7-a1ac-7d470c9f0f16/yale_darwin-and-the-queer-origins-of-life_sept26_unknown.jpg?format=2500w",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-september-2026",
-          "title": "yale darwin and the queer origins of life",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "genre",
-          "selectionTier": "fallback-genre",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "typography",
-          "reason": "학술적이고 실험적인 타이포그래피 배치는 신뢰감 있는 분석서의 권위를 높이는 시각적 장치로 활용 가능하다.",
-          "gemmaScore": 64,
-          "gemmaTopicFit": 15,
-          "gemmaGenreFit": 20,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "real estate home buying estate planning taxes",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "책에 목소리와 음악을 더하다 - 고양신문",
+          "kind": "뉴스 자료",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VEEwcjZLSHBQTlczM2xmWUZiV3hjeDdPcXp6cFFBNzVxUnhVS2RyY0ttQUcwUElBQTdRdS1ndkpXX01YamU5eUtoSUFWdTBCcmZPTWhHelhMdXZoak1EdWl2Q0M4WWFJcmc?oc=5"
         },
         {
-          "ok": true,
-          "curated": true,
-          "validated": true,
-          "validationStatus": "image-http-ok",
-          "source": "spine",
-          "sourceName": "SPINE Magazine",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1792939820978-QQPH7Y9JJDQP22Q7QHKJ/Jet+Purdie.jpg",
-          "sourceUrl": "https://spinemagazine.co/articles/university-press-coverage-october-2026",
-          "title": "October Book Covers We Love!",
-          "subtitle": "",
-          "authors": [],
-          "publisher": "",
-          "year": 0,
-          "slot": "design",
-          "selectionTier": "fixed-design",
-          "curationBasis": "",
-          "metadataHqRecovery": false,
-          "role": "graphic",
-          "reason": "주제와 직접적 연관은 낮으나, 복잡한 세 부담 구조를 상징적 그래픽과 절제된 레이아웃으로 시각화하는 원리로 참고하기 좋다.",
-          "gemmaScore": 65,
-          "gemmaTopicFit": 20,
-          "gemmaGenreFit": 30,
-          "gemmaDesignValue": 85,
-          "gemmaStatus": "ok",
-          "gemmaParseStatus": "parsed",
-          "topicScore": 0,
-          "styleScore": 60,
-          "query": "real estate home buying estate planning taxes",
-          "sourceRevision": "zcr-e1e22b87",
-          "deadlineGuaranteed": false,
-          "qualityTier": "hq",
-          "upgradePending": false
+          "text": "예술로 만나는 일본 — 김준성 저",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/202736167"
+        },
+        {
+          "text": "자연해부도감 — 줄리아 로스먼 저/이경아 역/이정모 감수",
+          "kind": "YES24 경쟁서 검증",
+          "url": "https://www.yes24.com/product/goods/24749641"
         }
       ],
-      "coverReferenceMeta": {
-        "version": "v2.15.58-gemma4-vision-state-safe",
-        "sourceRevision": "zcr-e1e22b87",
+      "sourceChannels": [
+        "yes24",
+        "google-news"
+      ],
+      "crossSourceCount": 2,
+      "fallbackCardComplete": true,
+      "historicalQualityScore": 90,
+      "titleAudit": {
+        "status": "checked",
+        "checked": 0,
+        "collision": false,
+        "kind": "",
+        "similarity": 0,
+        "match": "",
+        "matchAuthor": ""
+      },
+      "similarBooks": [
+        {
+          "title": "공연예술, 연출･안무는 상징 놀이",
+          "author": "홍선미 저",
+          "publisher": "글로벌콘텐츠",
+          "publicationDate": "20261130",
+          "url": "https://www.yes24.com/product/goods/202802509",
+          "matchedQuery": "예술",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "예술로 만나는 일본",
+          "author": "김준성 저",
+          "publisher": "샘터",
+          "publicationDate": "20261204",
+          "url": "https://www.yes24.com/product/goods/202736167",
+          "matchedQuery": "예술",
+          "verification": "YES24 검색 결과"
+        },
+        {
+          "title": "자연해부도감",
+          "author": "줄리아 로스먼 저/이경아 역/이정모 감수",
+          "publisher": "더숲",
+          "publicationDate": "20160303",
+          "url": "https://www.yes24.com/product/goods/24749641",
+          "matchedQuery": "예술",
+          "verification": "YES24 검색 결과"
+        }
+      ],
+      "marketAuthorEnrichment": {
         "status": "ready",
-        "generatedAt": "2026-11-21T07:01:10.936Z",
-        "model": "@cf/google/gemma-4-26b-a4b-it",
-        "displayGuaranteed": true,
-        "hqReady": true,
-        "upgradePending": false,
-        "deadlineGuaranteed": false,
-        "deadlineAtKst": "09:25",
-        "qualityTier": "hq",
-        "diagnostics": {}
-      }
+        "version": "v2.15.71-yes24-verified",
+        "updatedAt": "2026-11-27T23:40:53.324Z",
+        "queries": [
+          "오디오북 제작 가이드",
+          "사운드 연출 실무"
+        ],
+        "resultCount": 3,
+        "errors": []
+      },
+      "realEditorialGate": {
+        "ok": true,
+        "policy": "v2.15.118-grounded-producer-consumer-parity"
+      },
+      "rank": 3
     }
   ],
-  "cardnewsAutomation": {
-    "status": "ok",
-    "version": "v2.15.24-cardnews-3styles",
-    "planSetId": "zps-20261121-c6b29190",
-    "file": "cardnews/2026-11-21.json",
-    "cardCount": 6
-  },
   "fallback": true
 }
