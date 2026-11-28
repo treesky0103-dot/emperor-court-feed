@@ -3,7 +3,7 @@
   "planDay": "2026-11-28",
   "planSetId": "zps-20261128-666ab707",
   "generatedAt": "2026-11-27T23:41:18.988Z",
-  "publishedAt": "2026-11-28T00:10:04.930Z",
+  "publishedAt": "2026-11-28T00:18:06.901Z",
   "publisher": "emperor-court-worker",
   "publisherVersion": "v2.15.119",
   "morningEdition": {
@@ -230,7 +230,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 1
+      "rank": 1,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-28T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "forest",
+          "label": "포레스트형",
+          "tone": "지식·통찰 교양형",
+          "flow": [
+            "궁금증",
+            "현상",
+            "원리",
+            "설명",
+            "통찰",
+            "핵심 메시지"
+          ]
+        },
+        "bookTitle": "가상 현실 프로젝트를 시작하기 전에 점검할 것들",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "궁금증",
+            "headline": "기술 도입 전 기획의 선을 긋는 기준",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "008",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "현상",
+            "headline": "하지만 제작비 폭증과 인터랙션 오류로 기획 승인을 받지 못한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "011",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "analysis",
+            "beat": "원리",
+            "headline": "산정까지 가상 공간 연출과 예산을 한 번에 통제하는 프로젝트 로드맵.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "설명",
+            "headline": "시도는 기획자가 제작 파이프라인을 통제할 기준이 절실함을 보여준다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "013",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "통찰",
+            "headline": "양식과 외주 스튜디오 기술 검수 표준 질문지를 패키지로 제공한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "033",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "핵심 메시지",
+            "headline": "기술 용어 남발로 기획 실무 효용 하락",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "045",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-cf894378"
+      }
     },
     {
       "type": "경영",
@@ -409,7 +514,112 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 2
+      "rank": 2,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-28T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "film",
+          "label": "필름형",
+          "tone": "감성 매거진형",
+          "flow": [
+            "감성 문장",
+            "장면",
+            "감정",
+            "관점 전환",
+            "수용",
+            "여운"
+          ]
+        },
+        "bookTitle": "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "감성 문장",
+            "headline": "회복을 기다리지 않고 현장을 지키는 법",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "006",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "analysis",
+            "beat": "장면",
+            "headline": "침체 속에서 가동률 저하와 재고 누적을 방어할 실행 기준이 절실하다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "감정",
+            "headline": "단위당 고정비 통제 프로토콜로 현장 적자를 최소화하는 방어 설계.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "021",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "관점 전환",
+            "headline": "종사자가 당장 버틸 체질 개선과 비용 통제가 필수임을 입증한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "020",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "수용",
+            "headline": "유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "032",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "여운",
+            "headline": "거시 거버넌스 이론 나열로 현장 접목 실패",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "042",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-cf894378"
+      }
     },
     {
       "type": "예술",
@@ -588,7 +798,119 @@
         "ok": true,
         "policy": "v2.15.118-grounded-producer-consumer-parity"
       },
-      "rank": 3
+      "rank": 3,
+      "cardnews": {
+        "version": "v2.15.24-cardnews-3styles",
+        "status": "ready",
+        "generatedAt": "2026-11-28T00:18:00.001Z",
+        "character": "id-master-library",
+        "characterAsset": "",
+        "palette": [
+          "black",
+          "ivory",
+          "vermilion-red",
+          "mustard-yellow",
+          "white"
+        ],
+        "cardCount": 6,
+        "style": {
+          "key": "heist",
+          "label": "하이스트형",
+          "tone": "직설·후킹형",
+          "flow": [
+            "강한 선언",
+            "공감",
+            "구체적 증상",
+            "판단 기준",
+            "해결",
+            "강한 결론"
+          ]
+        },
+        "bookTitle": "귀로 듣는 독자를 사로잡는 오디오북 연출법",
+        "provider": "deterministic-local",
+        "aiCards": 0,
+        "fallback": true,
+        "fallbackReason": "deadline-guarantee-no-ai",
+        "cards": [
+          {
+            "index": 1,
+            "role": "cover",
+            "beat": "강한 선언",
+            "headline": "문장에 소리를 입히는 가장 확실한 순서",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "007",
+            "sceneCategory": "cover",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 2,
+            "role": "warning",
+            "beat": "공감",
+            "headline": "넘어 청각적 몰입감을 주는 사운드와 목소리 설계 기준을 잡기 어렵다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "024",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 3,
+            "role": "warning",
+            "beat": "구체적 증상",
+            "headline": "윤문하고 배경 음향을 배치해 완독률을 끌어올리는 단계별 오디오 연출법.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "027",
+            "sceneCategory": "warning",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 4,
+            "role": "analysis",
+            "beat": "판단 기준",
+            "headline": "단순 녹음을 넘어 전문적인 청각 연출 기술이 필요함을 나타낸다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "012",
+            "sceneCategory": "analysis",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 5,
+            "role": "fix",
+            "beat": "해결",
+            "headline": "장르별 효과음 주파수 간섭 제어 가이드를 실전 악보 형태로 수록한다.",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "040",
+            "sceneCategory": "fix",
+            "source": "rule-fallback"
+          },
+          {
+            "index": 6,
+            "role": "final",
+            "beat": "강한 결론",
+            "headline": "음향 공학 이론 치중으로 기획자 외면",
+            "body": "",
+            "accent": "yellow",
+            "sceneId": "044",
+            "sceneCategory": "final",
+            "source": "rule-fallback"
+          }
+        ],
+        "deadlineGuaranteed": true,
+        "qualityTier": "continuity",
+        "upgradePending": true,
+        "sourceRevision": "zcr-cf894378"
+      }
     }
-  ]
+  ],
+  "cardnewsAutomation": {
+    "status": "ok",
+    "version": "v2.15.24-cardnews-3styles",
+    "planSetId": "zps-20261128-666ab707",
+    "file": "cardnews/2026-11-28.json",
+    "cardCount": 6
+  }
 }
