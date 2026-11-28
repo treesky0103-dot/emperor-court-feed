@@ -10,12 +10,12 @@
     "귀로 듣는 독자를 사로잡는 오디오북 연출법"
   ],
   "provider": "partial-mixed",
-  "generatedAt": "2026-11-28T00:20:43.227Z",
+  "generatedAt": "2026-11-28T01:02:46.110Z",
   "sets": [
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-28T00:18:41.796Z",
+      "generatedAt": "2026-11-28T01:01:00.753Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -117,7 +117,7 @@
     {
       "version": "v2.15.24-cardnews-3styles",
       "status": "ready",
-      "generatedAt": "2026-11-28T00:18:41.796Z",
+      "generatedAt": "2026-11-28T00:26:08.349Z",
       "character": "id-master-library",
       "characterAsset": "",
       "palette": [
@@ -142,76 +142,76 @@
         ]
       },
       "bookTitle": "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
-      "provider": "rule-fallback",
-      "aiCards": 0,
-      "fallback": true,
-      "fallbackReason": "no-ai-copy",
+      "provider": "groq",
+      "aiCards": 6,
+      "fallback": false,
+      "fallbackReason": "",
       "cards": [
         {
           "index": 1,
           "role": "cover",
           "beat": "감성 문장",
-          "headline": "회복을 기다리지 않고 현장을 지키는 법",
+          "headline": "공장의 침묵은 곧 적자의 메아리다",
           "body": "",
           "accent": "yellow",
           "sceneId": "006",
           "sceneCategory": "cover",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 2,
           "role": "analysis",
           "beat": "장면",
-          "headline": "침체 속에서 가동률 저하와 재고 누적을 방어할 실행 기준이 절실하다.",
+          "headline": "밤새 기계가 멈추고, 불빛이 꺼진 라인 앞에 서 있다",
           "body": "",
           "accent": "yellow",
           "sceneId": "012",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 3,
           "role": "warning",
           "beat": "감정",
-          "headline": "단위당 고정비 통제 프로토콜로 현장 적자를 최소화하는 방어 설계.",
+          "headline": "그 순간 가슴이 무겁게 눌려 온기마저 사라진다",
           "body": "",
           "accent": "yellow",
           "sceneId": "021",
           "sceneCategory": "warning",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 4,
           "role": "analysis",
           "beat": "관점 전환",
-          "headline": "종사자가 당장 버틸 체질 개선과 비용 통제가 필수임을 입증한다.",
+          "headline": "하지만 작은 설비 점검이 큰 손실을 막는 방패가 된다",
           "body": "",
           "accent": "yellow",
           "sceneId": "020",
           "sceneCategory": "analysis",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 5,
           "role": "fix",
           "beat": "수용",
-          "headline": "유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+          "headline": "오늘부터 체크리스트를 손에 들고 차근히 진행하자",
           "body": "",
           "accent": "yellow",
           "sceneId": "032",
           "sceneCategory": "fix",
-          "source": "rule-fallback"
+          "source": "ai"
         },
         {
           "index": 6,
           "role": "final",
           "beat": "여운",
-          "headline": "거시 거버넌스 이론 나열로 현장 접목 실패",
+          "headline": "작은 습관이 공장의 숨을 다시 살린다",
           "body": "",
           "accent": "yellow",
           "sceneId": "042",
           "sceneCategory": "final",
-          "source": "rule-fallback"
+          "source": "ai"
         }
       ],
       "sourceRevision": "zcr-cf894378"
