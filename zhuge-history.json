@@ -6,7 +6,7 @@
       "planDay": "2026-11-28",
       "planSetId": "zps-20261128-666ab707",
       "generatedAt": "2026-11-27T23:41:18.988Z",
-      "publishedAt": "2026-11-28T00:20:49.998Z",
+      "publishedAt": "2026-11-28T00:26:19.903Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -237,7 +237,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:18:41.796Z",
+            "generatedAt": "2026-11-28T00:25:57.225Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -548,7 +548,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-cf894378",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:18:58.916Z",
+            "generatedAt": "2026-11-28T00:26:00.774Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -556,98 +556,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 24,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "ABCD Awards 2018",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 45,
-                  "genre": 60,
-                  "design": 85,
-                  "score": 74,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 315752,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "georgia blue hands brown skin",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 15,
-                  "genre": 20,
-                  "design": 85,
-                  "score": 64,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 110922,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "iowa how to court disaster",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 113486,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "minn living in fire",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 25,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 67,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 91086,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -831,7 +740,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:18:41.796Z",
+            "generatedAt": "2026-11-28T00:26:08.349Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -856,76 +765,76 @@
               ]
             },
             "bookTitle": "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
-            "provider": "rule-fallback",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "no-ai-copy",
+            "provider": "groq",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "감성 문장",
-                "headline": "회복을 기다리지 않고 현장을 지키는 법",
+                "headline": "공장의 침묵은 곧 적자의 메아리다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "006",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "analysis",
                 "beat": "장면",
-                "headline": "침체 속에서 가동률 저하와 재고 누적을 방어할 실행 기준이 절실하다.",
+                "headline": "밤새 기계가 멈추고, 불빛이 꺼진 라인 앞에 서 있다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "012",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "감정",
-                "headline": "단위당 고정비 통제 프로토콜로 현장 적자를 최소화하는 방어 설계.",
+                "headline": "그 순간 가슴이 무겁게 눌려 온기마저 사라진다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "021",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "관점 전환",
-                "headline": "종사자가 당장 버틸 체질 개선과 비용 통제가 필수임을 입증한다.",
+                "headline": "하지만 작은 설비 점검이 큰 손실을 막는 방패가 된다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "020",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "수용",
-                "headline": "유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+                "headline": "오늘부터 체크리스트를 손에 들고 차근히 진행하자",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "032",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "여운",
-                "headline": "거시 거버넌스 이론 나열로 현장 접목 실패",
+                "headline": "작은 습관이 공장의 숨을 다시 살린다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "042",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
             "sourceRevision": "zcr-cf894378"
@@ -1142,7 +1051,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-cf894378",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:19:09.507Z",
+            "generatedAt": "2026-11-28T00:26:05.531Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1150,98 +1059,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 24,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "georgia blue hands brown skin",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 15,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 64,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 110922,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "mississippi origin stories",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 15,
-                  "genre": 30,
-                  "design": 85,
-                  "score": 64,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 260052,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "mit queens of code",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 20,
-                  "genre": 35,
-                  "design": 85,
-                  "score": 65,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 180074,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nebraska coiled",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 140144,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         },
         {
@@ -1736,7 +1554,7 @@
             "version": "v2.15.58-gemma4-vision-state-safe",
             "sourceRevision": "zcr-cf894378",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:19:22.010Z",
+            "generatedAt": "2026-11-28T00:26:10.105Z",
             "model": "@cf/google/gemma-4-26b-a4b-it",
             "displayGuaranteed": true,
             "hqReady": true,
@@ -1744,98 +1562,7 @@
             "deadlineGuaranteed": false,
             "deadlineAtKst": "09:25",
             "qualityTier": "hq",
-            "diagnostics": {
-              "rawFound": 30,
-              "sourceCounts": {
-                "bookcoverarchive": 0,
-                "spine": 30,
-                "googlebooks": 0,
-                "metmuseum": 0
-              },
-              "poolCount": 24,
-              "preShortlistCount": 8,
-              "eligibleCount": 8,
-              "scannedCount": 8,
-              "validationRejected": {
-                "badTitle": 0,
-                "proxyHost": 0,
-                "http": 0,
-                "fetch": 0,
-                "other": 0
-              },
-              "validatedCount": 6,
-              "shortlistCount": 4,
-              "assessedCount": 4,
-              "selectedCount": 3,
-              "metadataHqRecovery": 0,
-              "expandedRecovery": null,
-              "assessmentSummary": [
-                {
-                  "title": "University Press Coverage, June 2025",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "",
-                  "topic": 30,
-                  "genre": 45,
-                  "design": 85,
-                  "score": 69,
-                  "selected": false,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 199328,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "The Avian Hourglass - An Interview with Author Lindsey Drager and Designer Steven Seighman",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "topic",
-                  "topic": 35,
-                  "genre": 50,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 357770,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "mississippi origin stories",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "genre",
-                  "topic": 35,
-                  "genre": 50,
-                  "design": 85,
-                  "score": 71,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 260052,
-                  "error": "",
-                  "rawPreview": ""
-                },
-                {
-                  "title": "nebraska recenses recencies",
-                  "source": "spine",
-                  "status": "ok",
-                  "parseStatus": "parsed",
-                  "slot": "design",
-                  "topic": 35,
-                  "genre": 45,
-                  "design": 88,
-                  "score": 72,
-                  "selected": true,
-                  "inputMode": "base64-image+messages",
-                  "imageBytes": 37256,
-                  "error": "",
-                  "rawPreview": ""
-                }
-              ]
-            }
+            "diagnostics": {}
           }
         }
       ],
