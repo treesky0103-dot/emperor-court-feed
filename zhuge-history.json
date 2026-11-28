@@ -6,7 +6,7 @@
       "planDay": "2026-11-28",
       "planSetId": "zps-20261128-666ab707",
       "generatedAt": "2026-11-27T23:41:18.988Z",
-      "publishedAt": "2026-11-28T00:19:28.788Z",
+      "publishedAt": "2026-11-28T00:20:49.998Z",
       "publisher": "emperor-court-worker",
       "publisherVersion": "v2.15.119",
       "morningEdition": {
@@ -237,7 +237,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:18:00.001Z",
+            "generatedAt": "2026-11-28T00:18:41.796Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -262,10 +262,10 @@
               ]
             },
             "bookTitle": "가상 현실 프로젝트를 시작하기 전에 점검할 것들",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -334,9 +334,6 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-cf894378"
           },
           "coverRefs": [
@@ -834,7 +831,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:18:00.001Z",
+            "generatedAt": "2026-11-28T00:18:41.796Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -859,10 +856,10 @@
               ]
             },
             "bookTitle": "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
-            "provider": "deterministic-local",
+            "provider": "rule-fallback",
             "aiCards": 0,
             "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "fallbackReason": "no-ai-copy",
             "cards": [
               {
                 "index": 1,
@@ -931,9 +928,6 @@
                 "source": "rule-fallback"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-cf894378"
           },
           "coverRefs": [
@@ -1431,7 +1425,7 @@
           "cardnews": {
             "version": "v2.15.24-cardnews-3styles",
             "status": "ready",
-            "generatedAt": "2026-11-28T00:18:00.001Z",
+            "generatedAt": "2026-11-28T00:20:22.358Z",
             "character": "id-master-library",
             "characterAsset": "",
             "palette": [
@@ -1456,81 +1450,78 @@
               ]
             },
             "bookTitle": "귀로 듣는 독자를 사로잡는 오디오북 연출법",
-            "provider": "deterministic-local",
-            "aiCards": 0,
-            "fallback": true,
-            "fallbackReason": "deadline-guarantee-no-ai",
+            "provider": "groq",
+            "aiCards": 6,
+            "fallback": false,
+            "fallbackReason": "",
             "cards": [
               {
                 "index": 1,
                 "role": "cover",
                 "beat": "강한 선언",
-                "headline": "문장에 소리를 입히는 가장 확실한 순서",
+                "headline": "오디오북, 목소리만으로는 부족하다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "007",
                 "sceneCategory": "cover",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 2,
                 "role": "warning",
                 "beat": "공감",
-                "headline": "넘어 청각적 몰입감을 주는 사운드와 목소리 설계 기준을 잡기 어렵다.",
+                "headline": "스크립트가 평범하고 배경음이 없으면 청취가 지루하다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "024",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 3,
                 "role": "warning",
                 "beat": "구체적 증상",
-                "headline": "윤문하고 배경 음향을 배치해 완독률을 끌어올리는 단계별 오디오 연출법.",
+                "headline": "청취 중 끊김, 효과음 부조화, 감정 전달 실패가 있다면",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "027",
                 "sceneCategory": "warning",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 4,
                 "role": "analysis",
                 "beat": "판단 기준",
-                "headline": "단순 녹음을 넘어 전문적인 청각 연출 기술이 필요함을 나타낸다.",
+                "headline": "이는 청각 연출이 설계되지 않았기 때문이다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "012",
                 "sceneCategory": "analysis",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 5,
                 "role": "fix",
                 "beat": "해결",
-                "headline": "장르별 효과음 주파수 간섭 제어 가이드를 실전 악보 형태로 수록한다.",
+                "headline": "스크립트에 효과음 표기하고 장르별 가이드대로 배치하라",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "040",
                 "sceneCategory": "fix",
-                "source": "rule-fallback"
+                "source": "ai"
               },
               {
                 "index": 6,
                 "role": "final",
                 "beat": "강한 결론",
-                "headline": "음향 공학 이론 치중으로 기획자 외면",
+                "headline": "연출이 살아야 청취가 살아난다",
                 "body": "",
                 "accent": "yellow",
                 "sceneId": "044",
                 "sceneCategory": "final",
-                "source": "rule-fallback"
+                "source": "ai"
               }
             ],
-            "deadlineGuaranteed": true,
-            "qualityTier": "continuity",
-            "upgradePending": true,
             "sourceRevision": "zcr-cf894378"
           },
           "coverRefs": [
