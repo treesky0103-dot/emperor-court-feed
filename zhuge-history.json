@@ -1,6 +1,599 @@
 {
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-28",
   "days": [
+    {
+      "date": "2026-11-28",
+      "planDay": "2026-11-28",
+      "planSetId": "zps-20261128-666ab707",
+      "generatedAt": "2026-11-27T23:41:18.988Z",
+      "publishedAt": "2026-11-28T00:00:08.188Z",
+      "publisher": "emperor-court-worker",
+      "publisherVersion": "v2.15.119",
+      "morningEdition": {
+        "day": "2026-11-28",
+        "planSetId": "zps-20261128-666ab707",
+        "titles": [
+          "가상 현실 프로젝트를 시작하기 전에 점검할 것들",
+          "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
+          "귀로 듣는 독자를 사로잡는 오디오북 연출법"
+        ],
+        "generationMode": "historical-high-quality-atomic",
+        "model": "gemini-3.8-flash",
+        "hqReady": true,
+        "contentRevision": "zcr-cf894378",
+        "hqVerifiedBy": "v2.15.99",
+        "sealedAt": "2026-11-28T00:00:00.076Z",
+        "build": "v2.15.119"
+      },
+      "title": "제갈량의 출판 기획 3선",
+      "intro": [
+        "오늘의 주요 뉴스와 검색 키워드, 독자 관심 흐름을 함께 분석한 결과, 주목할 만한 출판 주제로 IT · 경영 · 예술을 포착했습니다. 이에 시의성·독자 필요·책으로의 확장성을 종합해 세 가지 주제를 최종 3선으로 선정했습니다."
+      ],
+      "model": "gemini-3.8-flash",
+      "pipeline": "v2.15.71-historical-high-quality-preserve",
+      "generationMode": "historical-high-quality-atomic",
+      "generationLabel": "",
+      "sourceSnapshotAt": "2026-11-27T23:41:18.406Z",
+      "inputFreshness": {
+        "fresh": false,
+        "newsFresh": false,
+        "bestsellerFresh": true,
+        "newsUpdatedAt": "2026-11-27T23:38:52.564Z",
+        "staleAdvisors": [
+          "sima",
+          "zhou",
+          "pang",
+          "cheng",
+          "xunyu",
+          "xunyou"
+        ],
+        "bestsellerUpdatedAt": "2026-11-27T23:25:04.933Z",
+        "bestsellerDataDate": "2026-11-27",
+        "stale": true,
+        "checkedAt": "2026-11-27T23:41:18.988Z",
+        "policy": "confirm-and-mark",
+        "label": "일부 이전 자료 사용: 뉴스(사마의·주유·방통·정욱·순욱·순유) 이전 목록"
+      },
+      "plans": [
+        {
+          "type": "IT",
+          "field": "IT",
+          "title": "가상 현실 프로젝트를 시작하기 전에 점검할 것들",
+          "concept": "원작 지식재산(IP) 분석부터 시각 효과 분량 산정까지 가상 공간 연출과 예산을 한 번에 통제하는 프로젝트 로드맵",
+          "why": "영화 지식재산에 가상현실 기술을 접목한 최신 콘텐츠 시도는 기획자가 제작 파이프라인을 통제할 기준이 절실함을 보여준다.",
+          "competition": "엔진 개발용 기술 서적이나 단순 트렌드 소개서에 머물러 제작 관리자가 활용하기 어렵다.",
+          "reader": "기존 지식재산에 신기술을 결합해 실감 콘텐츠를 기획하는 피디",
+          "readerNeed": "몰입형 기술을 도입하려 하지만 제작비 폭증과 인터랙션 오류로 기획 승인을 받지 못한다.",
+          "marketGap": "기술 튜토리얼을 숙지해도 실제 예산 배분과 사용자 인터랙션 설계 간극을 메우지 못한다.",
+          "differentiation": "사전 시각화 단계별 검증 양식과 외주 스튜디오 기술 검수 표준 질문지를 패키지로 제공한다.",
+          "diff": "사전 시각화 단계별 검증 양식과 외주 스튜디오 기술 검수 표준 질문지를 패키지로 제공한다.",
+          "toc": [
+            "원작 서사를 가상 공간으로 옮기는 원칙",
+            "제작비 폭증을 막는 시각효과 견적법",
+            "어지럼증을 줄이는 사용자 시선 설계",
+            "외주 개발 파트너를 감리하는 점검 기준",
+            "실감형 쇼케이스 론칭 전 필수 테스트"
+          ],
+          "searchQueries": [
+            "실감형 콘텐츠 기획",
+            "메타버스 기획 실무"
+          ],
+          "bookworthiness": {
+            "durability": "신기술이 융합된 콘텐츠 제작 파이프라인의 핵심 구조는 장기 지속된다.",
+            "repeatNeed": "새로운 인터랙티브 영상 및 전시 프로젝트 착수 때마다 재참조된다.",
+            "expansionPotential": "스토리보드 설계, 3D 에셋 최적화 관리, 배포 플랫폼 대응으로 200쪽 구성이 충분하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "이춘곤",
+              "career": "《IT 프로젝트 매니저 실무》 저자 · BOOKK(부크크)",
+              "why": "YES24에서 이 기획과 인접한 주제의 《IT 프로젝트 매니저 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/201228012",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "비르기타 시프 글그림",
+              "career": "《드디어 크리스마스!》 저자 · 나무말미",
+              "why": "YES24에서 이 기획과 인접한 주제의 《드디어 크리스마스!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/202465383",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "이현아 역",
+              "career": "《드디어 크리스마스!》 저자 · 나무말미",
+              "why": "YES24에서 이 기획과 인접한 주제의 《드디어 크리스마스!》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/202465383",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "이춘곤",
+          "bestAuthor": "이춘곤",
+          "authorBrief": "",
+          "headlineCopy": "기술 도입 전 기획의 선을 긋는 기준",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "실패 없는 차세대 콘텐츠 론칭",
+              "개발 외주사와의 주도적 협상"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "콘텐츠 진흥 기관 아카데미 및 영상 기획자 커뮤니티에서 실무자 네트워크를 확보한다.",
+            "trust": "상용화에 성공한 실감 콘텐츠 총괄 프로듀서 인터뷰와 사례 검증 데이터를 제시한다.",
+            "conversion": "가상 현실 프로젝트 사전 타당성 평가 시트와 외주 견적 검증표를 제공해 결제를 유도한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "프로그래밍 개발 서적으로 오해하는 경우",
+              "objection": "코딩을 모르는 기획자가 읽기 어렵다는 불안",
+              "solution": "비개발 직군을 위한 기획 및 외주 소통 전용 도서임을 전면에 강조"
+            },
+            "positioning": "기술 환상을 걷어내고 완주를 돕는 공간 콘텐츠 제작 지침서"
+          },
+          "devilsEditor": {
+            "failureReason": "기술 용어 남발로 기획 실무 효용 하락",
+            "fix": "기술 용어 대신 기획자가 경영진 결재선에서 써야 할 산출물 중심으로 재구성한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "소프트웨어 버전 변화에 따른 빠른 노후화",
+          "riskResponse": "특정 엔진 사용법이 아닌 연출 문법과 일정 예산 관리 체계를 중심으로 다룬다.",
+          "judgment": "콘텐츠 제작사가 차세대 미디어 시장에 진입할 때 개발 외주 통제와 예산 초과 방어를 실질적으로 입증하는 실무 가이드여야 성패가 갈린다.",
+          "evidence": [
+            {
+              "text": "IT 프로젝트 매니저 실무 — 이춘곤 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/201228012"
+            },
+            {
+              "text": "벤타엑스·스톤브이스튜디오, 영화 '한산'에 AI 접목한 VR 콘텐츠 내년 출시 - AI타임스",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SUFFZV1VKZHdLR3ZTTEUtOWNfVnhQR1FZUlQ4cGZlQldRNHY5ZU1xUzBpN2tBUXp3M0hhd3JTZzkwRDhSOXVWNjg0aFd2U1YtZnVoRzQwMjFLXzFwZm1FYlRlNU45ZmJBeGc?oc=5"
+            },
+            {
+              "text": "드디어 크리스마스! — 비르기타 시프 글그림/이현아 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/202465383"
+            },
+            {
+              "text": "Be Lazy! 게으른 창조자처럼 일하라 — 우시오 쯔요시 저/LearnAI Team 역",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/201221476"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 90,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "IT 프로젝트 매니저 실무",
+              "author": "이춘곤 저",
+              "publisher": "BOOKK(부크크)",
+              "publicationDate": "20261118",
+              "url": "https://www.yes24.com/product/goods/201228012",
+              "matchedQuery": "IT",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "드디어 크리스마스!",
+              "author": "비르기타 시프 글그림/이현아 역",
+              "publisher": "나무말미",
+              "publicationDate": "20261124",
+              "url": "https://www.yes24.com/product/goods/202465383",
+              "matchedQuery": "IT",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "Be Lazy! 게으른 창조자처럼 일하라",
+              "author": "우시오 쯔요시 저/LearnAI Team 역",
+              "publisher": "위키북스",
+              "publicationDate": "20261126",
+              "url": "https://www.yes24.com/product/goods/201221476",
+              "matchedQuery": "IT",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-27T23:40:47.860Z",
+            "queries": [
+              "실감형 콘텐츠 기획",
+              "메타버스 기획 실무"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 1
+        },
+        {
+          "type": "경영",
+          "field": "경영",
+          "title": "업황 부진을 견디는 제조업 현장 생존 매뉴얼",
+          "concept": "단기 반등 기대 대신 3개년 설비 점검과 단위당 고정비 통제 프로토콜로 현장 적자를 최소화하는 방어 설계",
+          "why": "철강 본격 회복 지연이라는 산업 보고서는 전통 제조업 종사자가 당장 버틸 체질 개선과 비용 통제가 필수임을 입증한다.",
+          "competition": "거시 거버넌스나 대기업 중심의 대규모 구조조정 담론에 치우쳐 현장 실무자가 쓸 방법이 없다.",
+          "reader": "전통 제조 현장에서 원가와 가동률 압박을 받는 공장 관리자",
+          "readerNeed": "장기화된 경기 침체 속에서 가동률 저하와 재고 누적을 방어할 실행 기준이 절실하다.",
+          "marketGap": "산업 사이클 분석서는 넘치지만 당장 이번 분기 가동 정지 시간을 줄이고 원가를 묶는 매뉴얼이 부재하다.",
+          "differentiation": "주간 단위 설비 보전 체크리스트와 잉여 재고 유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+          "diff": "주간 단위 설비 보전 체크리스트와 잉여 재고 유동화 5단계 프로세스를 통해 즉시 실행 가능한 기준을 제시한다.",
+          "toc": [
+            "불황 주기 데이터를 읽는 현장 기준",
+            "설비 감가상각과 가동률 재계산법",
+            "단위당 고정비를 낮추는 라인 재편",
+            "잉여 재고를 유동화하는 협상 공식",
+            "침체기 다음 도약을 준비하는 유지보수"
+          ],
+          "searchQueries": [
+            "제조업 원가관리",
+            "공장 관리 실무"
+          ],
+          "bookworthiness": {
+            "durability": "제조업 사이클 하강기는 수년간 지속되어 실무서 수요가 유지된다.",
+            "repeatNeed": "분기별 공정 감사와 연간 운영 예산 수립 때마다 반복 확인된다.",
+            "expansionPotential": "공정 데이터 분석, 현장 외주비 재협상, 설비 수명 주기 최적화로 200쪽 구성이 탄탄하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "김대수",
+              "career": "《실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부》 저자 · 지식과감성#",
+              "why": "YES24에서 이 기획과 인접한 주제의 《실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/192323310",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김규호",
+              "career": "《공정관리 실무와 기준》 저자 · 기문당",
+              "why": "YES24에서 이 기획과 인접한 주제의 《공정관리 실무와 기준》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/195826256",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "정해운",
+              "career": "《통계적 공정관리 실무》 저자 · 민영사",
+              "why": "YES24에서 이 기획과 인접한 주제의 《통계적 공정관리 실무》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/23453227",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "김대수",
+          "bestAuthor": "김대수",
+          "authorBrief": "",
+          "headlineCopy": "회복을 기다리지 않고 현장을 지키는 법",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "공장 가동 손실 최소화",
+              "위기 속 현장 관리력 인정"
+            ],
+            "quadrant": {
+              "audience": "니치형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "중소제조기업 관리자 실무자 포럼 및 지방 산업단지 현장 기술 교류회에 배포한다.",
+            "trust": "30년 업력 현장 공장장의 원가 절감 감사 기록과 실제 공정 개선 수치를 공개한다.",
+            "conversion": "라인별 유휴 시간 측정 및 원가 누수 진단 점검표를 부록으로 주어 구매로 연결한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "단순한 업황 비관론으로 오인하는 경우",
+              "objection": "경기 침체는 현장 노력으로 안 바뀐다는 회의감",
+              "solution": "즉각 비용을 방어하는 공정별 통제 지표를 미리보기로 제공"
+            },
+            "positioning": "거시 지표에 흔들리지 않는 현장형 위기관리 실전 지침서"
+          },
+          "devilsEditor": {
+            "failureReason": "거시 거버넌스 이론 나열로 현장 접목 실패",
+            "fix": "모든 장에 당장 공장에서 채우는 엑셀 서식과 실행 지침을 부록으로 배치한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "특정 업종 편향으로 타 제조 실무자의 외면",
+          "riskResponse": "범용 공정 단위 원가 관리와 외주 재협상 템플릿을 중심으로 집필한다.",
+          "judgment": "장기 침체 국면에서 경영 이론이 아닌 당장 내일 라인 가동 중단 손실을 막아주는 서식과 지침을 주는지가 판매 성패를 결정한다.",
+          "evidence": [
+            {
+              "text": "실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부 — 김대수 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/192323310"
+            },
+            {
+              "text": "[종합] “철강 본격 회복 2028년 이후로 지연 전망” 산업硏 2027년 산업 전망 - 철강금속신문",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Uam1iTG9WekZMYXJxQVFjbzRGTlFGREh6U1BlanJ2eFpNcktiWDlLSkJERkxPeXZDNW1CWkl2eHYzRVl5RU9hTDJvbXNaYnJUSnFwUm9tWkZsNVJ4MnFwcVlxYVFYOGplLWc?oc=5"
+            },
+            {
+              "text": "실전! SAP 원가관리 1~3 세트 — 김대수 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/192355008"
+            },
+            {
+              "text": "공정관리 실무와 기준 — 김규호 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/195826256"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 100,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "실전! SAP 원가관리 1. 관리회계 구성과 제조원가 배부",
+              "author": "김대수 저",
+              "publisher": "지식과감성#",
+              "publicationDate": "20260529",
+              "url": "https://www.yes24.com/product/goods/192323310",
+              "matchedQuery": "제조업 원가관리",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "실전! SAP 원가관리 1~3 세트",
+              "author": "김대수 저",
+              "publisher": "지식과감성#",
+              "publicationDate": "20260529",
+              "url": "https://www.yes24.com/product/goods/192355008",
+              "matchedQuery": "제조업 원가관리",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "공정관리 실무와 기준",
+              "author": "김규호 저",
+              "publisher": "기문당",
+              "publicationDate": "20260915",
+              "url": "https://www.yes24.com/product/goods/195826256",
+              "matchedQuery": "공장 관리 실무",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-27T23:40:49.123Z",
+            "queries": [
+              "제조업 원가관리",
+              "공장 관리 실무"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 2
+        },
+        {
+          "type": "예술",
+          "field": "예술",
+          "title": "귀로 듣는 독자를 사로잡는 오디오북 연출법",
+          "concept": "문장 호흡을 청각용 스크립트로 윤문하고 배경 음향을 배치해 완독률을 끌어올리는 단계별 오디오 연출법",
+          "why": "책에 목소리와 음악을 더하는 오디오북 시장의 확장은 단순 녹음을 넘어 전문적인 청각 연출 기술이 필요함을 나타낸다.",
+          "competition": "단순 팟캐스트 녹음 요령이나 성우 발성법에 치우쳐 책 한 권을 완독시키는 연출법이 없다.",
+          "reader": "텍스트 도서를 오디오 콘텐츠로 확장하려는 출판 편집자와 연출가",
+          "readerNeed": "단순 낭독을 넘어 청각적 몰입감을 주는 사운드와 목소리 설계 기준을 잡기 어렵다.",
+          "marketGap": "낭독 기술을 배워도 청취자의 집중력을 한 시간 이상 유지시키는 청각적 서사 설계가 부족하다.",
+          "differentiation": "스크립트 부호 표기법과 장르별 효과음 주파수 간섭 제어 가이드를 실전 악보 형태로 수록한다.",
+          "diff": "스크립트 부호 표기법과 장르별 효과음 주파수 간섭 제어 가이드를 실전 악보 형태로 수록한다.",
+          "toc": [
+            "눈으로 읽는 글과 귀로 듣는 말의 차이",
+            "낭독 속도와 휴지기를 설계하는 대본법",
+            "성우 캐스팅과 톤앤매너 디렉팅 기준",
+            "문맥을 살리는 배경 음악 선곡과 믹싱",
+            "청취 이탈을 막는 챕터별 사운드 훅"
+          ],
+          "searchQueries": [
+            "오디오북 제작 가이드",
+            "사운드 연출 실무"
+          ],
+          "bookworthiness": {
+            "durability": "음성 콘텐츠 시장은 플랫폼과 무관하게 연출 원칙이 유지된다.",
+            "repeatNeed": "새로운 타이틀의 음원 녹음 및 마스터링 감수 때마다 반복 점검된다.",
+            "expansionPotential": "대본 각색, 녹음실 디렉팅, 음향 마스터링 검수, 유통 플랫폼 규격으로 200쪽 구성이 용이하다.",
+            "productDependency": "낮음"
+          },
+          "authors": [
+            {
+              "name": "홍선미",
+              "career": "《공연예술, 연출･안무는 상징 놀이》 저자 · 글로벌콘텐츠",
+              "why": "YES24에서 이 기획과 인접한 주제의 《공연예술, 연출･안무는 상징 놀이》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/202802509",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "김준성",
+              "career": "《예술로 만나는 일본》 저자 · 샘터",
+              "why": "YES24에서 이 기획과 인접한 주제의 《예술로 만나는 일본》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/202736167",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            },
+            {
+              "name": "줄리아 로스먼",
+              "career": "《자연해부도감》 저자 · 더숲",
+              "why": "YES24에서 이 기획과 인접한 주제의 《자연해부도감》 저자로 확인되어 우선 검토할 수 있습니다. 실제 집필 의사와 섭외 가능성은 별도 확인이 필요합니다.",
+              "url": "https://www.yes24.com/product/goods/24749641",
+              "verification": "YES24 검색 결과의 실제 저자명"
+            }
+          ],
+          "author": "홍선미",
+          "bestAuthor": "홍선미",
+          "authorBrief": "",
+          "headlineCopy": "문장에 소리를 입히는 가장 확실한 순서",
+          "marketingStrategy": {
+            "sampleBreadth": "보통",
+            "coreDesires": [
+              "오디오북 완독률 극대화",
+              "음성 콘텐츠 제작 비용 절감"
+            ],
+            "quadrant": {
+              "audience": "대중형",
+              "mode": "정보·신뢰형"
+            },
+            "acquisition": "출판 마케팅 네트워크, 오디오 크리에이터 세미나, 북페어 현장에서 독자를 모은다.",
+            "trust": "밀리언셀러 오디오북 전담 사운드 감독의 실제 연출 일지와 마스터링 노트를 수록한다.",
+            "conversion": "실전 낭독 대본 교정 샘플 및 챕터별 호흡 표기 가이드북을 제공해 소장을 유도한다.",
+            "maxDropoff": {
+              "stage": "탐색",
+              "problem": "단순 성우 지망생 교재로 착각하는 경우",
+              "objection": "제작자가 아닌 연기자 대상 서적으로 느껴짐",
+              "solution": "콘텐츠 프로듀서와 편집자를 위한 연출 기획서임을 서두에 명확히 규정"
+            },
+            "positioning": "텍스트의 감동을 귀로 온전히 전하는 청각 연출 바이블"
+          },
+          "devilsEditor": {
+            "failureReason": "음향 공학 이론 치중으로 기획자 외면",
+            "fix": "주파수 계산식 대신 편집자가 녹음실에서 바로 쓰는 체크리스트 중심으로 집필한다."
+          },
+          "scores": {
+            "market": 92,
+            "timing": 92,
+            "difference": 95,
+            "author": 86,
+            "marketing": 96,
+            "longtail": 99
+          },
+          "score": 93,
+          "stars": "★★★★★",
+          "verdict": "",
+          "risk": "음향 전문 지식 부족 독자의 이해도 저하",
+          "riskResponse": "전문 용어를 직관적인 청취 감각 묘사와 도표로 전환하여 해설한다.",
+          "judgment": "단순 낭독 요령서에 그치지 않고 출판 편집자가 녹음 현장에서 디렉팅할 수 있는 청각 서사 기준을 세우는 데 성패가 달려 있다.",
+          "evidence": [
+            {
+              "text": "공연예술, 연출･안무는 상징 놀이 — 홍선미 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/202802509"
+            },
+            {
+              "text": "책에 목소리와 음악을 더하다 - 고양신문",
+              "kind": "뉴스 자료",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VEEwcjZLSHBQTlczM2xmWUZiV3hjeDdPcXp6cFFBNzVxUnhVS2RyY0ttQUcwUElBQTdRdS1ndkpXX01YamU5eUtoSUFWdTBCcmZPTWhHelhMdXZoak1EdWl2Q0M4WWFJcmc?oc=5"
+            },
+            {
+              "text": "예술로 만나는 일본 — 김준성 저",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/202736167"
+            },
+            {
+              "text": "자연해부도감 — 줄리아 로스먼 저/이경아 역/이정모 감수",
+              "kind": "YES24 경쟁서 검증",
+              "url": "https://www.yes24.com/product/goods/24749641"
+            }
+          ],
+          "sourceChannels": [
+            "yes24",
+            "google-news"
+          ],
+          "crossSourceCount": 2,
+          "fallbackCardComplete": true,
+          "historicalQualityScore": 90,
+          "titleAudit": {
+            "status": "checked",
+            "checked": 0,
+            "collision": false,
+            "kind": "",
+            "similarity": 0,
+            "match": "",
+            "matchAuthor": ""
+          },
+          "similarBooks": [
+            {
+              "title": "공연예술, 연출･안무는 상징 놀이",
+              "author": "홍선미 저",
+              "publisher": "글로벌콘텐츠",
+              "publicationDate": "20261130",
+              "url": "https://www.yes24.com/product/goods/202802509",
+              "matchedQuery": "예술",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "예술로 만나는 일본",
+              "author": "김준성 저",
+              "publisher": "샘터",
+              "publicationDate": "20261204",
+              "url": "https://www.yes24.com/product/goods/202736167",
+              "matchedQuery": "예술",
+              "verification": "YES24 검색 결과"
+            },
+            {
+              "title": "자연해부도감",
+              "author": "줄리아 로스먼 저/이경아 역/이정모 감수",
+              "publisher": "더숲",
+              "publicationDate": "20160303",
+              "url": "https://www.yes24.com/product/goods/24749641",
+              "matchedQuery": "예술",
+              "verification": "YES24 검색 결과"
+            }
+          ],
+          "marketAuthorEnrichment": {
+            "status": "ready",
+            "version": "v2.15.71-yes24-verified",
+            "updatedAt": "2026-11-27T23:40:53.324Z",
+            "queries": [
+              "오디오북 제작 가이드",
+              "사운드 연출 실무"
+            ],
+            "resultCount": 3,
+            "errors": []
+          },
+          "realEditorialGate": {
+            "ok": true,
+            "policy": "v2.15.118-grounded-producer-consumer-parity"
+          },
+          "rank": 3
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "planDay": "2026-11-21",
@@ -37668,35 +38261,9 @@
           "concept": "훈련소에서 버티는 법이 아니라 입대 전에 어느 시기에 어떤 경로를 선택할지를 전역·복학·취업 시점에서 거꾸로 계산하는 책입니다."
         }
       ]
-    },
-    {
-      "date": "2026-09-26",
-      "plans": [
-        {
-          "title": "인공지능과 콘텐츠의 미래",
-          "type": "AI와 콘텐츠",
-          "reader": "20~40대 콘텐츠 제작자와 소비자",
-          "problem": "인공지능 기술의 발전으로 콘텐츠 제작과 소비의 변화에 대한 이해가 필요합니다.",
-          "concept": "이 책은 인공지능이 콘텐츠 제작과 소비에 미치는 영향을 탐구합니다."
-        },
-        {
-          "title": "AI 콘텐츠 제작의 미래",
-          "type": "AI와 콘텐츠 제작",
-          "reader": "20~40대 콘텐츠 제작자",
-          "problem": "AI 기술의 발전으로 콘텐츠 제작의 변화에 대한 이해가 필요합니다.",
-          "concept": "이 책은 AI를 이용한 콘텐츠 제작의 미래를 탐구합니다."
-        },
-        {
-          "title": "콘텐츠 제작의 새로운 패러다임",
-          "type": "콘텐츠 제작",
-          "reader": "20~40대 콘텐츠 제작자",
-          "problem": "콘텐츠 제작의 변화에 대한 이해가 필요합니다.",
-          "concept": "이 책은 콘텐츠 제작의 새로운 패러다임을 탐구합니다."
-        }
-      ]
     }
   ],
-  "activePlanSetId": "zps-20261121-c6b29190",
+  "activePlanSetId": "zps-20261128-666ab707",
   "discardedDays": [
     {
       "date": "2026-09-29",
